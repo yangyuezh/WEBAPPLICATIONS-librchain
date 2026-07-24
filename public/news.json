@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-07-24T19:43:11.282Z",
+  "updatedAt": "2026-07-24T21:18:10.406Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
+      "summary": "Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.",
+      "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-24T21:02:22.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260724-strives-sata-recovers-most-of-june-decline-trades-within-3-of-par",
+      "localUrl": "/news/20260724-strives-sata-recovers-most-of-june-decline-trades-within-3-of-par.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "House passes bill on lawmakers using insider information for stock trading",
+      "summary": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
+      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-24T20:05:50.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading",
+      "localUrl": "/news/20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading.html"
+    },
     {
       "source": "Decrypt",
       "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
@@ -599,6 +625,17 @@
       "localUrl": "/news/20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch.html"
     },
     {
+      "source": "X Wire",
+      "title": "At Least 29 Overseas Crypto Exchange Apps Unavailable for New Downloads on South Korea’s Google Play According to Digital Asset, at least 29 of CoinMarketCap’s top 50 overseas crypto derivatives exchanges are no longer available for new downloads - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTmp2c1JaVGhfTHRuM1RLYmZfblJMcTNSUTNmTGhCamNkcHV0LVVlal9FWEtOX1QwUmpvVWlleUJVMDdmamNYdzl1THZ0STFzR3FpT0N6aHBZejFHY0hhMVBrcw?oc=5\" target=\"_blank\">At Least 29 Overseas Crypto Exch…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTmp2c1JaVGhfTHRuM1RLYmZfblJMcTNSUTNmTGhCamNkcHV0LVVlal9FWEtOX1QwUmpvVWlleUJVMDdmamNYdzl1THZ0STFzR3FpT0N6aHBZejFHY0hhMVBrcw?oc=5",
+      "publishedAt": "2026-07-24T09:47:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-at-least-29-overseas-crypto-exchange-apps-unavailable-for-new-downloads-on-south",
+      "localUrl": "/news/20260724-at-least-29-overseas-crypto-exchange-apps-unavailable-for-new-downloads-on-south.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’",
       "summary": "Bitcoin supply profitability improved versus its 2026 low, but analysis warned that a fake recovery had already broken down at the start of June.",
@@ -696,19 +733,6 @@
       "localUrl": "/news/20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs snap 7-day inflow streak with $225M in outflows",
-      "summary": "After attracting nearly $1 billion over seven trading sessions, US-listed spot Bitcoin ETFs recorded their first daily net outflow since July 13.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T07:17:57.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260724-bitcoin-etfs-snap-7-day-inflow-streak-with-225m-in-outflows",
-      "localUrl": "/news/20260724-bitcoin-etfs-snap-7-day-inflow-streak-with-225m-in-outflows.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: World's former largest Bitcoin mining pool, Poolin, files for bankruptcy. Poolin plans to sell two Texas mining sites after listing as little as $1M in assets but up to $500M in liabilities. It owes roughly $173M, including $164M to customers after withdrawal - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSXlsN2pHU2g5Wlk2XzJ6ejRDRVpVU3pZTWs4MVI3bkpQNXJtNDJ4cC1PMUNKQVhJUk16RWJNR0pSNk95bG11SUdIOGpBaDR1Zm82SlRIVmx1TlhwN3JsQw?oc=5\" target=\"_blank\">JUST IN: World's former largest Bitc…",
@@ -761,19 +785,6 @@
       "category": "RWA",
       "slug": "20260724-mirae-plans-to-turn-crypto-exchange-korbit-into-something-korea-hasnt-seen-befor",
       "localUrl": "/news/20260724-mirae-plans-to-turn-crypto-exchange-korbit-into-something-korea-hasnt-seen-befor.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMEX hit with 623 BTC lawsuit on day it announces shutdown",
-      "summary": "The proposed class action alleges BitMEX used privileged trading access and server freezes to profit from forced liquidations.",
-      "url": "https://cointelegraph.com/news/bitmex-liquidation-fraud-lawsuit-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T05:20:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260724-bitmex-hit-with-623-btc-lawsuit-on-day-it-announces-shutdown",
-      "localUrl": "/news/20260724-bitmex-hit-with-623-btc-lawsuit-on-day-it-announces-shutdown.html"
     },
     {
       "source": "CoinDesk",
@@ -1084,17 +1095,6 @@
       "category": "监管",
       "slug": "20260723-what-fatfs-7th-crypto-compliance-report-card-means-enforcement-must-catch-up-wit",
       "localUrl": "/news/20260723-what-fatfs-7th-crypto-compliance-report-card-means-enforcement-must-catch-up-wit.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Someone keeps sending Satoshi Bitcoin. A Revolut user (or users) has sent Satoshi over $5,000 of Bitcoin in the past 2 days. What message are they trying to send? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ta2JBUlJCTUlTaXhoUlgxdU1tQWIzUi10SlZSd2hLR1RxanJwOHY1UXNydk95aUZobERtU0lXNHEteWJnUW5IbFl1Y1FrVGk1eWZjeWQwVFRRMms?oc=5\" target=\"_blank\">Someone keeps sending Satoshi Bitcoin. A Re…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ta2JBUlJCTUlTaXhoUlgxdU1tQWIzUi10SlZSd2hLR1RxanJwOHY1UXNydk95aUZobERtU0lXNHEteWJnUW5IbFl1Y1FrVGk1eWZjeWQwVFRRMms?oc=5",
-      "publishedAt": "2026-07-23T09:33:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-someone-keeps-sending-satoshi-bitcoin-a-revolut-user-or-users-has-sent-satoshi-o",
-      "localUrl": "/news/20260723-someone-keeps-sending-satoshi-bitcoin-a-revolut-user-or-users-has-sent-satoshi-o.html"
     },
     {
       "source": "X Wire",
