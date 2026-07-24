@@ -1,7 +1,77 @@
 {
-  "updatedAt": "2026-07-24T17:47:22.614Z",
-  "total": 83,
+  "updatedAt": "2026-07-24T19:43:11.282Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+      "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
+      "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+      "publishedAt": "2026-07-24T19:30:01.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260724-samsung-wallet-will-add-stablecoin-support-including-usdc",
+      "localUrl": "/news/20260724-samsung-wallet-will-add-stablecoin-support-including-usdc.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions Evasion, Introduces Third-Country Ban Mechanism",
+      "summary": "Summary The EU’s 21st Russia sanctions package introduces a transaction ban on 14 crypto-related service platforms across six jurisdictions: Georgia,… The post The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions E…",
+      "url": "https://www.chainalysis.com/blog/eu-21st-russia-sanctions-package-crypto-patforms-july-2026/",
+      "publishedAt": "2026-07-24T19:23:06.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Platforms",
+        "EU",
+        "MiCA",
+        "Russia",
+        "Sanctions"
+      ],
+      "category": "市场",
+      "slug": "20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva",
+      "localUrl": "/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-24T19:03:45.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260724-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260724-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
+      "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
+      "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+      "publishedAt": "2026-07-24T18:28:43.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260724-claude-opus-5-outscores-fable-5-on-most-benchmarksat-half-the-price",
+      "localUrl": "/news/20260724-claude-opus-5-outscores-fable-5-on-most-benchmarksat-half-the-price.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
+      "summary": "Senate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
+      "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
+      "publishedAt": "2026-07-24T17:50:26.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260724-clarity-act-on-the-ropes-as-ethics-fight-and-shrinking-calendar-threaten-passage",
+      "localUrl": "/news/20260724-clarity-act-on-the-ropes-as-ethics-fight-and-shrinking-calendar-threaten-passage.html"
+    },
     {
       "source": "Decrypt",
       "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
@@ -677,19 +747,6 @@
       "localUrl": "/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T06:24:36.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260724-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260724-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
       "summary": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets.",
@@ -744,6 +801,17 @@
       "category": "综合",
       "slug": "20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands",
       "localUrl": "/news/20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "We created a Bitcoin Staking Roadmap page 🟠 Track everything related to Bitcoin Staking: timelines, links, posts, and updates as they ship leading up to the official launch. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVHpSdkRhOEdXYW1SZU5mMTBvTE1qZkZDaG1WeDFPU2R2WUdNYWdERFBDb1gxbERsa0ZjUUJpRXVvZmMzdkszeW9Ecmt3OXBRc19mZFp6RjJldmM?oc=5\" target=\"_blank\">We created a Bitcoin Staking Roadmap page \ud83d…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVHpSdkRhOEdXYW1SZU5mMTBvTE1qZkZDaG1WeDFPU2R2WUdNYWdERFBDb1gxbERsa0ZjUUJpRXVvZmMzdkszeW9Ecmt3OXBRc19mZFp6RjJldmM?oc=5",
+      "publishedAt": "2026-07-23T21:04:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-we-created-a-bitcoin-staking-roadmap-page-track-everything-related-to-bitcoin-st",
+      "localUrl": "/news/20260723-we-created-a-bitcoin-staking-roadmap-page-track-everything-related-to-bitcoin-st.html"
     },
     {
       "source": "Decrypt",
@@ -989,19 +1057,6 @@
       "localUrl": "/news/20260723-bitcoins-security-is-a-shared-responsibility-today-we-are-launching-the-bitcoin-.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
-      "summary": "At least that's what Bitwise's CIO believes. Plus Republicans publish new Clarity Act draft, and the SEC Commissioner has a warning for DeFi.",
-      "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
-      "publishedAt": "2026-07-23T12:02:52.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260723-morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
-      "localUrl": "/news/20260723-morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market.html"
-    },
-    {
       "source": "X Wire",
       "title": "Today we're announcing the Bitcoin Security Consortium @BTCconsortium: a group of leading financial institutions and Bitcoin companies supporting the long-term security of the Bitcoin network. Members have pledged $15 million toward this work over the n - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QQmdQLUgzX3pwRXg0ekswT05qTGp6T01MbW51Y2tXR05MZ1hOY3lzTERzQzhuQkFlY2hYVXM1T0htdGZmUVB6N3IwQVMtNV9rM01kNUQ2WTE3WjdjQWc?oc=5\" target=\"_blank\">Today we're announcing the Bitcoin Secu…",
@@ -1029,33 +1084,6 @@
       "category": "监管",
       "slug": "20260723-what-fatfs-7th-crypto-compliance-report-card-means-enforcement-must-catch-up-wit",
       "localUrl": "/news/20260723-what-fatfs-7th-crypto-compliance-report-card-means-enforcement-must-catch-up-wit.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
-      "summary": "Physical attacks on crypto holders are increasingly happening at home, and France has become the epicenter, a new report finds.",
-      "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
-      "publishedAt": "2026-07-23T11:10:51.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260723-crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
-      "localUrl": "/news/20260723-crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
-      "summary": "The exploit hit a custody bridge AFX operates rather than the Arbitrum network itself, with the stolen funds quickly moved to Ethereum.",
-      "url": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
-      "publishedAt": "2026-07-23T10:24:09.000Z",
-      "keywords": [
-        "arbitrum",
-        "DeFi"
-      ],
-      "category": "安全",
-      "slug": "20260723-arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
-      "localUrl": "/news/20260723-arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it.html"
     },
     {
       "source": "X Wire",
@@ -1089,17 +1117,6 @@
       "category": "X热点",
       "slug": "20260722-breaking-bitcoin-etfs-attracted-900-million-in-inflows-last-week-the-largest-wee",
       "localUrl": "/news/20260722-breaking-bitcoin-etfs-attracted-900-million-in-inflows-last-week-the-largest-wee.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "@rhackett and Ryan HollowayTokenized equities — or tokenized stocks, as they’re more commonly known — show the inroads crypto is making into Wall Street. These are blockchain-based tokens that represent traditional equities such as corporate shares, E - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE92U2xFaUNmTDZfZWpIcGt3dFNRNEprci1PeUtlYzAzdU9CRzYxWWVyMmlwRFBJaEktZEg3YUIzLVBqQWpSaEVVemZFZHBhV0R6aGRWbENQa2oxdXU0NG1YYg?oc=5\" target=\"_blank\">@rhackett and Ryan HollowayTokenized…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92U2xFaUNmTDZfZWpIcGt3dFNRNEprci1PeUtlYzAzdU9CRzYxWWVyMmlwRFBJaEktZEg3YUIzLVBqQWpSaEVVemZFZHBhV0R6aGRWbENQa2oxdXU0NG1YYg?oc=5",
-      "publishedAt": "2026-07-22T15:24:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260722-rhackett-and-ryan-hollowaytokenized-equities-or-tokenized-stocks-as-theyre-more-",
-      "localUrl": "/news/20260722-rhackett-and-ryan-hollowaytokenized-equities-or-tokenized-stocks-as-theyre-more-.html"
     }
   ]
 }
