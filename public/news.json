@@ -1,7 +1,85 @@
 {
-  "updatedAt": "2026-07-24T15:43:37.131Z",
+  "updatedAt": "2026-07-24T17:47:22.614Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
+      "summary": "The Singapore-based pool never recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back 11,700 users still holding IOUs.",
+      "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
+      "publishedAt": "2026-07-24T17:44:48.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy",
+      "localUrl": "/news/20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
+      "summary": "The window for US lawmakers to address a comprehensive crypto market structure bill before the 2026 elections is closing, and industry organizations are calling for action.",
+      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-24T16:55:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260724-crypto-advocacy-groups-support-clarity-passage-as-ethics-rules-face-pushback",
+      "localUrl": "/news/20260724-crypto-advocacy-groups-support-clarity-passage-as-ethics-rules-face-pushback.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+      "summary": "Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
+      "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
+      "publishedAt": "2026-07-24T16:34:25.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260724-nvidia-meta-and-microsoft-tell-washington-dont-kill-open-source-ai",
+      "localUrl": "/news/20260724-nvidia-meta-and-microsoft-tell-washington-dont-kill-open-source-ai.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
+      "summary": "The firm says its \"digital credit\" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.",
+      "url": "https://decrypt.co/374281/strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
+      "publishedAt": "2026-07-24T16:21:52.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260724-strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
+      "localUrl": "/news/20260724-strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
+      "summary": "BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
+      "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
+      "publishedAt": "2026-07-24T16:17:37.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260724-bitcoin-etfs-shed-225m-snapping-seven-day-inflow-streak-as-iran-tensions-spook-m",
+      "localUrl": "/news/20260724-bitcoin-etfs-shed-225m-snapping-seven-day-inflow-streak-as-iran-tensions-spook-m.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
+      "summary": "The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.",
+      "url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-24T16:04:30.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260724-internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstit",
+      "localUrl": "/news/20260724-internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstit.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
@@ -130,6 +208,17 @@
       "category": "市场",
       "slug": "20260724-a-quantum-roadmap-would-push-bitcoin-much-higher-charles-edwards",
       "localUrl": "/news/20260724-a-quantum-roadmap-would-push-bitcoin-much-higher-charles-edwards.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 The Digital Chamber, CCI, and Blockchain Association send letter to Senate Leaders urging them to pass the Clarity Act: \"For the United States to maintain its position as the global leader of financial innovation, there is no substitute for the long-ter - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paEY1YzNnUHJyY2dQVDBBXzFBM0dzb0JYXzJRVUtEbXY4UjlhSTVBNUFKLUFYNnFKM0FjT2F2MTh3YnZCeU52TUsxZnRlVDBXekkzaWVjcGpPVzItT0hmNGc3SFBlR0U?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The Digital C…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paEY1YzNnUHJyY2dQVDBBXzFBM0dzb0JYXzJRVUtEbXY4UjlhSTVBNUFKLUFYNnFKM0FjT2F2MTh3YnZCeU52TUsxZnRlVDBXekkzaWVjcGpPVzItT0hmNGc3SFBlR0U?oc=5",
+      "publishedAt": "2026-07-24T13:25:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-just-in-the-digital-chamber-cci-and-blockchain-association-send-letter-to-senate",
+      "localUrl": "/news/20260724-just-in-the-digital-chamber-cci-and-blockchain-association-send-letter-to-senate.html"
     },
     {
       "source": "CoinDesk",
@@ -644,32 +733,6 @@
       "localUrl": "/news/20260724-bitcoin-holds-near-65000-as-800-billion-ai-selloff-leaves-crypto-largely-untouch.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Dem senator calls GOP’s CLARITY ethics proposal a ‘piece of s---’: Politico",
-      "summary": "On Wednesday, Senate Republicans released the proposed text for the CLARITY Act, which has been met with pushback from Democrats regarding ethics provisions.",
-      "url": "https://cointelegraph.com/news/senator-gallego-says-gop-clarity-counterproposal-not-a-serious-effort?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T03:10:24.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260724-dem-senator-calls-gops-clarity-ethics-proposal-a-piece-of-s-politico",
-      "localUrl": "/news/20260724-dem-senator-calls-gops-clarity-ethics-proposal-a-piece-of-s-politico.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMEX delists 65 trading pairs, derivatives in July amid exchange shutdown",
-      "summary": "BitMEX will have removed 65 derivative contracts and trading pairs in July, compared with just 19 across the first six months of the year.",
-      "url": "https://cointelegraph.com/news/bitmex-delists-65-crypto-markets-in-july-amid-exchange-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T02:50:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260724-bitmex-delists-65-trading-pairs-derivatives-in-july-amid-exchange-shutdown",
-      "localUrl": "/news/20260724-bitmex-delists-65-trading-pairs-derivatives-in-july-amid-exchange-shutdown.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Black Forest Labs Unveils FLUX 3 AI: Ditches Stills for Video—And Robot Hands",
       "summary": "FLUX 3 is the German AI lab’s first video model, and the same system is already teaching robots to work an Audi assembly line.",
@@ -681,17 +744,6 @@
       "category": "综合",
       "slug": "20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands",
       "localUrl": "/news/20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "We created a Bitcoin Staking Roadmap page 🟠 Track everything related to Bitcoin Staking: timelines, links, posts, and updates as they ship leading up to the official launch. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVHpSdkRhOEdXYW1SZU5mMTBvTE1qZkZDaG1WeDFPU2R2WUdNYWdERFBDb1gxbERsa0ZjUUJpRXVvZmMzdkszeW9Ecmt3OXBRc19mZFp6RjJldmM?oc=5\" target=\"_blank\">We created a Bitcoin Staking Roadmap page \ud83d…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZVHpSdkRhOEdXYW1SZU5mMTBvTE1qZkZDaG1WeDFPU2R2WUdNYWdERFBDb1gxbERsa0ZjUUJpRXVvZmMzdkszeW9Ecmt3OXBRc19mZFp6RjJldmM?oc=5",
-      "publishedAt": "2026-07-23T21:04:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-we-created-a-bitcoin-staking-roadmap-page-track-everything-related-to-bitcoin-st",
-      "localUrl": "/news/20260723-we-created-a-bitcoin-staking-roadmap-page-track-everything-related-to-bitcoin-st.html"
     },
     {
       "source": "Decrypt",
@@ -1015,58 +1067,6 @@
       "category": "X热点",
       "slug": "20260723-someone-keeps-sending-satoshi-bitcoin-a-revolut-user-or-users-has-sent-satoshi-o",
       "localUrl": "/news/20260723-someone-keeps-sending-satoshi-bitcoin-a-revolut-user-or-users-has-sent-satoshi-o.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
-      "summary": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
-      "url": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
-      "publishedAt": "2026-07-23T08:46:51.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260723-bitmex-to-close-on-september-23-halts-new-sign-ups",
-      "localUrl": "/news/20260723-bitmex-to-close-on-september-23-halts-new-sign-ups.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-      "summary": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-      "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
-      "publishedAt": "2026-07-22T21:13:04.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260722-coinbase-wants-to-be-canadas-one-stop-shop-for-stocks-crypto-and-prediction-mark",
-      "localUrl": "/news/20260722-coinbase-wants-to-be-canadas-one-stop-shop-for-stocks-crypto-and-prediction-mark.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
-      "summary": "Payward and fintech GTN are teaming up to bring xStocks—blockchain-based copies of real company shares—to Hong Kong, the UK, Europe, and South Korea.",
-      "url": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
-      "publishedAt": "2026-07-22T20:07:34.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260722-kraken-parent-company-makes-moves-to-offer-xstocks-from-global-markets",
-      "localUrl": "/news/20260722-kraken-parent-company-makes-moves-to-offer-xstocks-from-global-markets.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-      "summary": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
-      "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
-      "publishedAt": "2026-07-22T19:46:59.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260722-alibabas-new-qwen-image-3-ai-wants-to-be-useful-not-just-pretty",
-      "localUrl": "/news/20260722-alibabas-new-qwen-image-3-ai-wants-to-be-useful-not-just-pretty.html"
     },
     {
       "source": "X Wire",
