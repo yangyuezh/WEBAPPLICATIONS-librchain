@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T21:06:01.085Z</lastmod>
+    <lastmod>2026-07-25T22:08:57.707Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T21:06:01.085Z</lastmod>
+    <lastmod>2026-07-25T22:08:57.707Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html</loc>
+    <lastmod>2026-07-25T21:01:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260725-bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program.html</loc>
@@ -141,12 +147,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html</loc>
     <lastmod>2026-07-24T19:23:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-breaking-71-trillion-fidelity-officially-endorses-the-senate-to-pass-the-clarity.html</loc>
-    <lastmod>2026-07-24T18:38:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-brazil-puts-tokenized-cows-to-work-as-loan-collateral-report.html</loc>
-    <lastmod>2026-07-24T10:29:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-india-orders-takedown-of-jack-dorseys-bitcoin-linked-messaging-app-bitchat.html</loc>
     <lastmod>2026-07-24T10:10:42.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html</loc>
     <lastmod>2026-07-24T06:33:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-6476755-bitcoin-xcom.html</loc>
+    <lastmod>2026-07-24T00:45:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

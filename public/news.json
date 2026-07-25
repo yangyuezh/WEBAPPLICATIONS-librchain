@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-07-25T21:06:01.044Z",
+  "updatedAt": "2026-07-25T22:08:57.665Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "summary": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
+      "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T21:01:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj",
+      "localUrl": "/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
@@ -292,17 +305,6 @@
       "category": "市场",
       "slug": "20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva",
       "localUrl": "/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 $7.1 trillion Fidelity officially endorses the Senate to pass the Clarity Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MYWMwM3ZYRDhyMDlvZE1MLVc4TkdYQTd6eVlCM1NZTEpJN0FaMGFqWXVVdmsxQWcxaV9udlh1ckowRDZRTmlQTUlMNk5hZktBbzZ3ZGl4aGhkNkpxeFRySmIzbEE3NEU?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 $7.1 trillio…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MYWMwM3ZYRDhyMDlvZE1MLVc4TkdYQTd6eVlCM1NZTEpJN0FaMGFqWXVVdmsxQWcxaV9udlh1ckowRDZRTmlQTUlMNk5hZktBbzZ3ZGl4aGhkNkpxeFRySmIzbEE3NEU?oc=5",
-      "publishedAt": "2026-07-24T18:38:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-breaking-71-trillion-fidelity-officially-endorses-the-senate-to-pass-the-clarity",
-      "localUrl": "/news/20260724-breaking-71-trillion-fidelity-officially-endorses-the-senate-to-pass-the-clarity.html"
     },
     {
       "source": "Decrypt",
@@ -800,19 +802,6 @@
       "localUrl": "/news/20260724-bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collap.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Brazil puts tokenized cows to work as loan collateral: Report",
-      "summary": "Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.",
-      "url": "https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T10:29:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260724-brazil-puts-tokenized-cows-to-work-as-loan-collateral-report",
-      "localUrl": "/news/20260724-brazil-puts-tokenized-cows-to-work-as-loan-collateral-report.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
       "summary": "The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.",
@@ -899,6 +888,17 @@
       "category": "监管",
       "slug": "20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
       "localUrl": "/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$64,767.55 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OWjhBMkRRbV9jekkyVzV3al9oMU82OGUxbEdmZUg5bHIyWWNRZ2JQRE52cS1JY2VqVmVSZG13b0x2TzVjSUN3X0FYRVhNRXNTakx5YXdBMkJmZjNW?oc=5\" target=\"_blank\">$64,767.55 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OWjhBMkRRbV9jekkyVzV3al9oMU82OGUxbEdmZUg5bHIyWWNRZ2JQRE52cS1JY2VqVmVSZG13b0x2TzVjSUN3X0FYRVhNRXNTakx5YXdBMkJmZjNW?oc=5",
+      "publishedAt": "2026-07-24T00:45:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-6476755-bitcoin-xcom",
+      "localUrl": "/news/20260724-6476755-bitcoin-xcom.html"
     },
     {
       "source": "Decrypt",

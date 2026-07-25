@@ -5,7 +5,15 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 25 Jul 2026 21:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:08:57 GMT</lastBuildDate>
+    <item>
+      <title>Robinhood in talks with Crypto.com over prediction markets: WSJ</title>
+      <link>https://www.librchain.com/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html</guid>
+      <description>While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.</description>
+      <pubDate>Sat, 25 Jul 2026 21:01:44 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program</title>
       <link>https://www.librchain.com/news/20260725-bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program.html</link>
@@ -181,14 +189,6 @@
       <description>Summary The EU’s 21st Russia sanctions package introduces a transaction ban on 14 crypto-related service platforms across six jurisdictions: Georgia,… The post The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions E…</description>
       <pubDate>Fri, 24 Jul 2026 19:23:06 GMT</pubDate>
       <source url="https://www.chainalysis.com/blog/eu-21st-russia-sanctions-package-crypto-patforms-july-2026/">Chainalysis Blog</source>
-    </item>
-    <item>
-      <title>BREAKING: 🇺🇸 $7.1 trillion Fidelity officially endorses the Senate to pass the Clarity Act. - x.com</title>
-      <link>https://www.librchain.com/news/20260724-breaking-71-trillion-fidelity-officially-endorses-the-senate-to-pass-the-clarity.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260724-breaking-71-trillion-fidelity-officially-endorses-the-senate-to-pass-the-clarity.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MYWMwM3ZYRDhyMDlvZE1MLVc4TkdYQTd6eVlCM1NZTEpJN0FaMGFqWXVVdmsxQWcxaV9udlh1ckowRDZRTmlQTUlMNk5hZktBbzZ3ZGl4aGhkNkpxeFRySmIzbEE3NEU?oc=5&quot; target=&quot;_blank&quot;&gt;BREAKING: 🇺🇸 $7.1 trillio…</description>
-      <pubDate>Fri, 24 Jul 2026 18:38:10 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MYWMwM3ZYRDhyMDlvZE1MLVc4TkdYQTd6eVlCM1NZTEpJN0FaMGFqWXVVdmsxQWcxaV9udlh1ckowRDZRTmlQTUlMNk5hZktBbzZ3ZGl4aGhkNkpxeFRySmIzbEE3NEU?oc=5">X Wire</source>
     </item>
     <item>
       <title>Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price</title>
@@ -479,12 +479,12 @@
       <source url="https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse">CoinDesk</source>
     </item>
     <item>
-      <title>Brazil puts tokenized cows to work as loan collateral: Report</title>
-      <link>https://www.librchain.com/news/20260724-brazil-puts-tokenized-cows-to-work-as-loan-collateral-report.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260724-brazil-puts-tokenized-cows-to-work-as-loan-collateral-report.html</guid>
-      <description>Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.</description>
-      <pubDate>Fri, 24 Jul 2026 10:29:49 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+      <title>India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat</title>
+      <link>https://www.librchain.com/news/20260724-india-orders-takedown-of-jack-dorseys-bitcoin-linked-messaging-app-bitchat.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260724-india-orders-takedown-of-jack-dorseys-bitcoin-linked-messaging-app-bitchat.html</guid>
+      <description>The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as &apos;Cockroach Janta Party&apos; protesters in Delhi use mesh tools to communicate through internet shutdowns.</description>
+      <pubDate>Fri, 24 Jul 2026 10:10:42 GMT</pubDate>
+      <source url="https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat">CoinDesk</source>
     </item>
   </channel>
 </rss>
