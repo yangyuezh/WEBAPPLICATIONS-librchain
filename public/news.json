@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-07-25T06:26:56.821Z",
+  "updatedAt": "2026-07-25T09:09:20.133Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T07:40:35.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak",
+      "localUrl": "/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html"
+    },
     {
       "source": "Decrypt",
       "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
@@ -109,14 +122,14 @@
     },
     {
       "source": "X Wire",
-      "title": "One integrated view of the Bitcoin market and network. The Bitcoin dashboard brings price, performance, liquidity, volatility, valuation, sentiment, adoption, and security into a single framework. Live at Strategy.com. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFByeUs4VEVzR2NUVDBCVmJ2TXVrY3MzVlVfVkNsV180eWdwWk1zckxqQWJLU01GTFNuRDJWVkhfSkJ2ekVKLWx1eUFtUXM3QWwxYkFSc1JXXzZxLU0?oc=5\" target=\"_blank\">One integrated view of the Bitcoin market a…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByeUs4VEVzR2NUVDBCVmJ2TXVrY3MzVlVfVkNsV180eWdwWk1zckxqQWJLU01GTFNuRDJWVkhfSkJ2ekVKLWx1eUFtUXM3QWwxYkFSc1JXXzZxLU0?oc=5",
-      "publishedAt": "2026-07-24T19:23:04.000Z",
+      "title": "Looking back, it will feel like it happened in an instant. #bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1eHhGV2s2cDdyYzVsbHNIRXhxSF9mMmNKVWp3X0J5ZFZvWm1kbndNbFZVQTJsWnM5akc0ZHA1SEJrcFVXRkgxMERIaXpmRk9pWXYyYmw1Tlg1bG1kUUNaVk1PRWk?oc=5\" target=\"_blank\">Looking back, it will feel like…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1eHhGV2s2cDdyYzVsbHNIRXhxSF9mMmNKVWp3X0J5ZFZvWm1kbndNbFZVQTJsWnM5akc0ZHA1SEJrcFVXRkgxMERIaXpmRk9pWXYyYmw1Tlg1bG1kUUNaVk1PRWk?oc=5",
+      "publishedAt": "2026-07-24T19:11:55.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260724-one-integrated-view-of-the-bitcoin-market-and-network-the-bitcoin-dashboard-brin",
-      "localUrl": "/news/20260724-one-integrated-view-of-the-bitcoin-market-and-network-the-bitcoin-dashboard-brin.html"
+      "slug": "20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom",
+      "localUrl": "/news/20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -130,6 +143,17 @@
       "category": "监管",
       "slug": "20260724-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260724-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Fidelity chose @ethereum to issue its first ever stablecoin. FIDD, the Fidelity Digital Dollar, is issued by Fidelity Digital Assets, an OCC-chartered national trust bank. Fidelity at a glance: → 50m+ individual investors → $17.9 trillion in assets under administration - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pa2xlT05odXBjQk5rWnFXNnNOV1VlZ1RKWWRsY2IwQUNod0hmc216ZncwNnN0Mm1sUERMX2E5MkZfeDdtclRiRHc0RUxBbUt3V1lLbmVjQTk4NHZDM3FtaGVNTGI?oc=5\" target=\"_blank\">Fidelity chose @ethereum to iss…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pa2xlT05odXBjQk5rWnFXNnNOV1VlZ1RKWWRsY2IwQUNod0hmc216ZncwNnN0Mm1sUERMX2E5MkZfeDdtclRiRHc0RUxBbUt3V1lLbmVjQTk4NHZDM3FtaGVNTGI?oc=5",
+      "publishedAt": "2026-07-24T18:44:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-fidelity-chose-ethereum-to-issue-its-first-ever-stablecoin-fidd-the-fidelity-dig",
+      "localUrl": "/news/20260724-fidelity-chose-ethereum-to-issue-its-first-ever-stablecoin-fidd-the-fidelity-dig.html"
     },
     {
       "source": "X Wire",
@@ -269,6 +293,17 @@
       "category": "监管",
       "slug": "20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway",
       "localUrl": "/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 The world's largest organization of sworn law enforcement officers now officially endorses the passage of the Clarity Act: - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWm1FeVFsZ1FJV2N2OE50MG9zSkJZa25zQlBDdjAxNWp0R1Y2TFlYRTFUN016eEs2RC1FVGdwNHRLQWozQ2JZblVtV283dGJWbS1MOFQzZERVcGNOM0prRkRqY2xhT1E?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The world's l…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWm1FeVFsZ1FJV2N2OE50MG9zSkJZa25zQlBDdjAxNWp0R1Y2TFlYRTFUN016eEs2RC1FVGdwNHRLQWozQ2JZblVtV283dGJWbS1MOFQzZERVcGNOM0prRkRqY2xhT1E?oc=5",
+      "publishedAt": "2026-07-24T15:12:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-just-in-the-worlds-largest-organization-of-sworn-law-enforcement-officers-now-of",
+      "localUrl": "/news/20260724-just-in-the-worlds-largest-organization-of-sworn-law-enforcement-officers-now-of.html"
     },
     {
       "source": "Cointelegraph",
@@ -770,19 +805,6 @@
       "localUrl": "/news/20260724-ripple-launches-mint-to-expand-institutional-access-to-rlusd.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "summary": "Bitcoin miner Poolin filed for Chapter 11 bankruptcy and initiated a $52 million sale of its two West Texas mining sites as part of its future creditor recovery program.",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T08:38:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260724-bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy",
-      "localUrl": "/news/20260724-bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat",
       "summary": "Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.",
@@ -799,6 +821,17 @@
       "category": "基础设施",
       "slug": "20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat",
       "localUrl": "/news/20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: World's former largest Bitcoin mining pool, Poolin, files for bankruptcy. Poolin plans to sell two Texas mining sites after listing as little as $1M in assets but up to $500M in liabilities. It owes roughly $173M, including $164M to customers after withdrawal - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSXlsN2pHU2g5Wlk2XzJ6ejRDRVpVU3pZTWs4MVI3bkpQNXJtNDJ4cC1PMUNKQVhJUk16RWJNR0pSNk95bG11SUdIOGpBaDR1Zm82SlRIVmx1TlhwN3JsQw?oc=5\" target=\"_blank\">JUST IN: World's former largest Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSXlsN2pHU2g5Wlk2XzJ6ejRDRVpVU3pZTWs4MVI3bkpQNXJtNDJ4cC1PMUNKQVhJUk16RWJNR0pSNk95bG11SUdIOGpBaDR1Zm82SlRIVmx1TlhwN3JsQw?oc=5",
+      "publishedAt": "2026-07-24T07:04:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po",
+      "localUrl": "/news/20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po.html"
     },
     {
       "source": "X Wire",
@@ -978,17 +1011,6 @@
       "localUrl": "/news/20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working.html"
     },
     {
-      "source": "X Wire",
-      "title": "There's a difference between knowing crypto and knowing your crypto. General AI like ChatGPT or Claude can answer technical questions. heyAura understands what you hold and what actually matters to you. The best financial insights are personal. Your AI - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDhPOWpEVVY3anlWdWFKWEVJTElpZXdfQ2wtSjl1cVdlcENINC1rVE9XanB2MjRPcW42WjljNEVYaFVIMFJrVkhoMS1RczdPdE5jTFZpc19oMU9n?oc=5\" target=\"_blank\">There's a difference between knowing crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBISDhPOWpEVVY3anlWdWFKWEVJTElpZXdfQ2wtSjl1cVdlcENINC1rVE9XanB2MjRPcW42WjljNEVYaFVIMFJrVkhoMS1RczdPdE5jTFZpc19oMU9n?oc=5",
-      "publishedAt": "2026-07-23T15:36:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-theres-a-difference-between-knowing-crypto-and-knowing-your-crypto-general-ai-li",
-      "localUrl": "/news/20260723-theres-a-difference-between-knowing-crypto-and-knowing-your-crypto-general-ai-li.html"
-    },
-    {
       "source": "Decrypt",
       "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
       "summary": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure—including from future quantum computers.",
@@ -1000,17 +1022,6 @@
       "category": "监管",
       "slug": "20260723-blackrock-coinbase-and-strategy-pledge-15m-to-quantum-proof-bitcoin",
       "localUrl": "/news/20260723-blackrock-coinbase-and-strategy-pledge-15m-to-quantum-proof-bitcoin.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "New asset now available to trade on Robinhood Crypto. $BILL (Billions Network) - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYVBPZzRBRjNVc1ExTHA4RDBrTzM1RUtHTnpYY084cGd2Mk5KWWNyNjAwZWVVRTY2TFJnQnBpWW1EOXhJOUdnemdqNmRseVdtY0JWX0hxV1Q4NlZHQy1qekk2Zw?oc=5\" target=\"_blank\">New asset now available to trade…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYVBPZzRBRjNVc1ExTHA4RDBrTzM1RUtHTnpYY084cGd2Mk5KWWNyNjAwZWVVRTY2TFJnQnBpWW1EOXhJOUdnemdqNmRseVdtY0JWX0hxV1Q4NlZHQy1qekk2Zw?oc=5",
-      "publishedAt": "2026-07-23T14:20:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom",
-      "localUrl": "/news/20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1088,17 +1099,6 @@
       "category": "X热点",
       "slug": "20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l",
       "localUrl": "/news/20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Goldman Sachs CEO: It’s time to advance the crypto bill - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuV2lLSFYwdHp4M3VDX00zYy1pU0RFWGJ1clpjRzU2ZGlJZVNMQzNEbmZpenAyRHhscVk3WktOdFAzdkt0blNCOW5nS2xqNHE2a013RWdBRmZ4OVhXV0E?oc=5\" target=\"_blank\">Goldman Sachs CEO: It’s time to advance…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuV2lLSFYwdHp4M3VDX00zYy1pU0RFWGJ1clpjRzU2ZGlJZVNMQzNEbmZpenAyRHhscVk3WktOdFAzdkt0blNCOW5nS2xqNHE2a013RWdBRmZ4OVhXV0E?oc=5",
-      "publishedAt": "2026-07-23T11:57:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom",
-      "localUrl": "/news/20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom.html"
     },
     {
       "source": "Chainalysis Blog",

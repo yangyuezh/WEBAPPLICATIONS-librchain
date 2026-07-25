@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T06:26:56.862Z</lastmod>
+    <lastmod>2026-07-25T09:09:20.175Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T06:26:56.862Z</lastmod>
+    <lastmod>2026-07-25T09:09:20.175Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html</loc>
+    <lastmod>2026-07-25T07:40:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything.html</loc>
@@ -61,14 +67,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-one-integrated-view-of-the-bitcoin-market-and-network-the-bitcoin-dashboard-brin.html</loc>
-    <lastmod>2026-07-24T19:23:04.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom.html</loc>
+    <lastmod>2026-07-24T19:11:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260724-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-07-24T19:03:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-fidelity-chose-ethereum-to-issue-its-first-ever-stablecoin-fidd-the-fidelity-dig.html</loc>
+    <lastmod>2026-07-24T18:44:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -135,6 +147,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html</loc>
     <lastmod>2026-07-24T15:15:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-just-in-the-worlds-largest-organization-of-sworn-law-enforcement-officers-now-of.html</loc>
+    <lastmod>2026-07-24T15:12:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,14 +373,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-bitcoin-mining-pool-poolin-files-for-chapter-11-bankruptcy.html</loc>
-    <lastmod>2026-07-24T08:38:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat.html</loc>
+    <lastmod>2026-07-24T07:22:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat.html</loc>
-    <lastmod>2026-07-24T07:22:26.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po.html</loc>
+    <lastmod>2026-07-24T07:04:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,20 +463,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260723-theres-a-difference-between-knowing-crypto-and-knowing-your-crypto-general-ai-li.html</loc>
-    <lastmod>2026-07-23T15:36:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-blackrock-coinbase-and-strategy-pledge-15m-to-quantum-proof-bitcoin.html</loc>
     <lastmod>2026-07-23T15:17:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom.html</loc>
-    <lastmod>2026-07-23T14:20:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l.html</loc>
     <lastmod>2026-07-23T12:02:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom.html</loc>
-    <lastmod>2026-07-23T11:57:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
