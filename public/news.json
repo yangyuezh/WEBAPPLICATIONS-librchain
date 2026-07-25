@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-07-25T11:30:11.723Z",
+  "updatedAt": "2026-07-25T13:58:24.728Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T13:14:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260725-north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report",
+      "localUrl": "/news/20260725-north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "summary": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+      "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "publishedAt": "2026-07-25T13:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Tokenization",
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260725-democratizing-weather-derivatives-through-tokenization-could-be-cryptos-most-imp",
+      "localUrl": "/news/20260725-democratizing-weather-derivatives-through-tokenization-could-be-cryptos-most-imp.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T12:06:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260725-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260725-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
+      "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T11:30:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260725-fidelity-joins-push-for-senate-passage-of-clarity-act",
+      "localUrl": "/news/20260725-fidelity-joins-push-for-senate-passage-of-clarity-act.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Dango’s perp DEX taps out nearly 4 months after launch",
@@ -160,30 +214,6 @@
       "localUrl": "/news/20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T19:03:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260724-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260724-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Fidelity chose @ethereum to issue its first ever stablecoin. FIDD, the Fidelity Digital Dollar, is issued by Fidelity Digital Assets, an OCC-chartered national trust bank. Fidelity at a glance: → 50m+ individual investors → $17.9 trillion in assets under administration - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pa2xlT05odXBjQk5rWnFXNnNOV1VlZ1RKWWRsY2IwQUNod0hmc216ZncwNnN0Mm1sUERMX2E5MkZfeDdtclRiRHc0RUxBbUt3V1lLbmVjQTk4NHZDM3FtaGVNTGI?oc=5\" target=\"_blank\">Fidelity chose @ethereum to iss…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pa2xlT05odXBjQk5rWnFXNnNOV1VlZ1RKWWRsY2IwQUNod0hmc216ZncwNnN0Mm1sUERMX2E5MkZfeDdtclRiRHc0RUxBbUt3V1lLbmVjQTk4NHZDM3FtaGVNTGI?oc=5",
-      "publishedAt": "2026-07-24T18:44:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-fidelity-chose-ethereum-to-issue-its-first-ever-stablecoin-fidd-the-fidelity-dig",
-      "localUrl": "/news/20260724-fidelity-chose-ethereum-to-issue-its-first-ever-stablecoin-fidd-the-fidelity-dig.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: 🇺🇸 $7.1 trillion Fidelity officially endorses the Senate to pass the Clarity Act. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MYWMwM3ZYRDhyMDlvZE1MLVc4TkdYQTd6eVlCM1NZTEpJN0FaMGFqWXVVdmsxQWcxaV9udlh1ckowRDZRTmlQTUlMNk5hZktBbzZ3ZGl4aGhkNkpxeFRySmIzbEE3NEU?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 $7.1 trillio…",
@@ -232,6 +262,17 @@
       "category": "市场",
       "slug": "20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy",
       "localUrl": "/news/20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Morgan Stanley Bitcoin Trust (MSBT) has surpassed $400 million in inflows 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qSXo5azZ0SnQwZ25QQ0FpRlpNalZzLWI0US13eE5PbGFyTGk5T0lCVlVIaHp5WnFIU3dsUC1yN3oweDhpbVlEMERtN2RPVUp0U3VlcVFZMjBPNDdDVDVOcUcyc1BPa0k?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Morgan Stanle…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qSXo5azZ0SnQwZ25QQ0FpRlpNalZzLWI0US13eE5PbGFyTGk5T0lCVlVIaHp5WnFIU3dsUC1yN3oweDhpbVlEMERtN2RPVUp0U3VlcVFZMjBPNDdDVDVOcUcyc1BPa0k?oc=5",
+      "publishedAt": "2026-07-24T17:00:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x",
+      "localUrl": "/news/20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x.html"
     },
     {
       "source": "Cointelegraph",
@@ -514,6 +555,17 @@
       "localUrl": "/news/20260724-brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limit.html"
     },
     {
+      "source": "X Wire",
+      "title": "BREAKING: Samsung just announced Crypto stablecoin support for its 1 Billion+ users through Samsung Wallet. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HazF6eEVCSzl4Tnd4bWxEYWt1MGFrLVhjdUZ4ajBxOUZSWUs5ak5LN1k5c3hNbGxid0RNYkNhVVBHTWJXTzNuWGNzcXZpTnIzWGQtNkNaUHBYa1Q1UHFnUVczUQ?oc=5\" target=\"_blank\">BREAKING: Samsung just announced…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HazF6eEVCSzl4Tnd4bWxEYWt1MGFrLVhjdUZ4ajBxOUZSWUs5ak5LN1k5c3hNbGxid0RNYkNhVVBHTWJXTzNuWGNzcXZpTnIzWGQtNkNaUHBYa1Q1UHFnUVczUQ?oc=5",
+      "publishedAt": "2026-07-24T12:54:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-breaking-samsung-just-announced-crypto-stablecoin-support-for-its-1-billion-user",
+      "localUrl": "/news/20260724-breaking-samsung-just-announced-crypto-stablecoin-support-for-its-1-billion-user.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
       "summary": "Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.",
@@ -754,17 +806,6 @@
       "localUrl": "/news/20260724-philippine-bank-bpi-plans-stablecoin-payments-pilot.html"
     },
     {
-      "source": "X Wire",
-      "title": "Coinbase CEO: If the Crypto Bill Stalls, Part of the Business Could Leave the US On July 21, 2026, Coinbase CEO Brian Armstrong @brian_armstrong said in a CNBC interview on Capitol Hill that the company would continue building in the United States, but - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NNDR0UW5IYzNoTnJoX2tCeDZZamNGRnNYR1ZiOHBhQ0p0YXBjY0ZIdHNWc3V3dFlpUG05dGQ1VmZHdkFEQ1NNXzVuMHE5S3NWakJGVDNXbWJZeXRUSFVFVU1LNA?oc=5\" target=\"_blank\">Coinbase CEO: If the Crypto Bill…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NNDR0UW5IYzNoTnJoX2tCeDZZamNGRnNYR1ZiOHBhQ0p0YXBjY0ZIdHNWc3V3dFlpUG05dGQ1VmZHdkFEQ1NNXzVuMHE5S3NWakJGVDNXbWJZeXRUSFVFVU1LNA?oc=5",
-      "publishedAt": "2026-07-24T10:00:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-coinbase-ceo-if-the-crypto-bill-stalls-part-of-the-business-could-leave-the-us-o",
-      "localUrl": "/news/20260724-coinbase-ceo-if-the-crypto-bill-stalls-part-of-the-business-could-leave-the-us-o.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
       "summary": "The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes.",
@@ -780,30 +821,6 @@
       "localUrl": "/news/20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch.html"
     },
     {
-      "source": "X Wire",
-      "title": "At Least 29 Overseas Crypto Exchange Apps Unavailable for New Downloads on South Korea’s Google Play According to Digital Asset, at least 29 of CoinMarketCap’s top 50 overseas crypto derivatives exchanges are no longer available for new downloads - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTmp2c1JaVGhfTHRuM1RLYmZfblJMcTNSUTNmTGhCamNkcHV0LVVlal9FWEtOX1QwUmpvVWlleUJVMDdmamNYdzl1THZ0STFzR3FpT0N6aHBZejFHY0hhMVBrcw?oc=5\" target=\"_blank\">At Least 29 Overseas Crypto Exch…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTmp2c1JaVGhfTHRuM1RLYmZfblJMcTNSUTNmTGhCamNkcHV0LVVlal9FWEtOX1QwUmpvVWlleUJVMDdmamNYdzl1THZ0STFzR3FpT0N6aHBZejFHY0hhMVBrcw?oc=5",
-      "publishedAt": "2026-07-24T09:47:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-at-least-29-overseas-crypto-exchange-apps-unavailable-for-new-downloads-on-south",
-      "localUrl": "/news/20260724-at-least-29-overseas-crypto-exchange-apps-unavailable-for-new-downloads-on-south.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’",
-      "summary": "Bitcoin supply profitability improved versus its 2026 low, but analysis warned that a fake recovery had already broken down at the start of June.",
-      "url": "https://cointelegraph.com/markets/btc-supply-profit-analysis-hints-recovery-roll-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T09:43:07.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260724-btc-supply-in-profit-eyes-60-but-analysis-hints-recovery-may-roll-back-over",
-      "localUrl": "/news/20260724-btc-supply-in-profit-eyes-60-but-analysis-hints-recovery-may-roll-back-over.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
       "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
@@ -816,19 +833,6 @@
       "category": "监管",
       "slug": "20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources",
       "localUrl": "/news/20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
-      "summary": "Mirae Asset reportedly plans to use the South Korean crypto exchange as a hub for tokenized assets, stablecoins and digital finance.",
-      "url": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T08:51:13.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260724-south-koreas-korbit-to-rebrand-as-digital-x-under-mirae-report",
-      "localUrl": "/news/20260724-south-koreas-korbit-to-rebrand-as-digital-x-under-mirae-report.html"
     },
     {
       "source": "CoinDesk",
@@ -932,21 +936,6 @@
       "localUrl": "/news/20260723-goldman-sachs-ceo-breaks-with-wall-street-to-back-crypto-clarity-act.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-      "summary": "The deadline to get the crypto market structure bill done before senators scatter will likely be missed, says Majority Leader Thune, though it may get a start before then.",
-      "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
-      "publishedAt": "2026-07-23T20:16:37.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260723-clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-",
-      "localUrl": "/news/20260723-clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC",
       "summary": "A Shanghai-based insurance-tech company trading below $1 wants to build a bitcoin treasury by taking BTC directly as payment for new shares.",
@@ -971,17 +960,6 @@
       "category": "安全",
       "slug": "20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
       "localUrl": "/news/20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "List of DATs who have abandoned Bitcoin and crypto accumulation strategies since: 🔴 Full Liquidations / Complete Exits Satsuma Technology (SATS LN) — Shareholders voted on July 21, 2026 (>>90% approval) to liquid all 668 BTC (~$43.5M), return capital - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBneTBlR2M3RDV1eGxsdFctckg5RkZEc0o2bk01RlNyak1KVUNMbG1WMUJxbHhudDFyOWtMUjhoN3hMbUFoT3NlVTJDUFFHTUFGZVBtcWFWQVFNRVNHN0RBMUlYMWc?oc=5\" target=\"_blank\">List of DATs who have abandoned…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBneTBlR2M3RDV1eGxsdFctckg5RkZEc0o2bk01RlNyak1KVUNMbG1WMUJxbHhudDFyOWtMUjhoN3hMbUFoT3NlVTJDUFFHTUFGZVBtcWFWQVFNRVNHN0RBMUlYMWc?oc=5",
-      "publishedAt": "2026-07-23T19:12:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-list-of-dats-who-have-abandoned-bitcoin-and-crypto-accumulation-strategies-since",
-      "localUrl": "/news/20260723-list-of-dats-who-have-abandoned-bitcoin-and-crypto-accumulation-strategies-since.html"
     },
     {
       "source": "Decrypt",
@@ -1024,6 +1002,17 @@
     },
     {
       "source": "X Wire",
+      "title": "New asset now available to trade on Robinhood Crypto. $BILL (Billions Network) - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYVBPZzRBRjNVc1ExTHA4RDBrTzM1RUtHTnpYY084cGd2Mk5KWWNyNjAwZWVVRTY2TFJnQnBpWW1EOXhJOUdnemdqNmRseVdtY0JWX0hxV1Q4NlZHQy1qekk2Zw?oc=5\" target=\"_blank\">New asset now available to trade…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYVBPZzRBRjNVc1ExTHA4RDBrTzM1RUtHTnpYY084cGd2Mk5KWWNyNjAwZWVVRTY2TFJnQnBpWW1EOXhJOUdnemdqNmRseVdtY0JWX0hxV1Q4NlZHQy1qekk2Zw?oc=5",
+      "publishedAt": "2026-07-23T14:20:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom",
+      "localUrl": "/news/20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "NEW: @Lombard_Finance adopts Chainlink to unlock cross-chain distribution for its Bitcoin Onchain Credit Strategy with @FlowTraders (Euronext: FLOW). Chainlink now powers secure cross-chain deposits of BTC.b and LBTC into the Strategy, expanding ac - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE96T1lnbHJzYW1YY2RkWG1PSWhpVVlVMU01QjdyX0JYVHQ5MlN4YzhzZEpoV1ZoU0pJZl9makU2OWl6Qk85WGdTU2NXXzJ6RkdfQl80MnhOTlpEbUctZ3dZ?oc=5\" target=\"_blank\">NEW: @Lombard_Finance adopts Chainlink…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96T1lnbHJzYW1YY2RkWG1PSWhpVVlVMU01QjdyX0JYVHQ5MlN4YzhzZEpoV1ZoU0pJZl9makU2OWl6Qk85WGdTU2NXXzJ6RkdfQl80MnhOTlpEbUctZ3dZ?oc=5",
@@ -1054,6 +1043,17 @@
       "category": "基础设施",
       "slug": "20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint",
       "localUrl": "/news/20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor announces Strategy, BlackRock, Fidelity and Coinbase are pledging $15 million to support open source Bitcoin development \"for the decades ahead.\" 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor ann…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5",
+      "publishedAt": "2026-07-23T12:40:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl",
+      "localUrl": "/news/20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl.html"
     },
     {
       "source": "X Wire",
