@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T15:16:44.544Z</lastmod>
+    <lastmod>2026-07-25T17:11:54.343Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T15:16:44.544Z</lastmod>
+    <lastmod>2026-07-25T17:11:54.343Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-russias-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december.html</loc>
+    <lastmod>2026-07-25T16:59:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-wise-to-resubmit-us-charter-application-under-genius-act.html</loc>
+    <lastmod>2026-07-25T16:05:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-countrys-ban.html</loc>
+    <lastmod>2026-07-25T15:46:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html</loc>
@@ -51,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi.html</loc>
     <lastmod>2026-07-25T10:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-new-explore-experience-on-backpack-wallet-discover-whats-trending-across-crypto-.html</loc>
+    <lastmod>2026-07-25T09:41:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,12 +135,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html</loc>
     <lastmod>2026-07-24T19:23:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-24T19:11:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -283,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-one-integrated-view-of-strategys-bitcoin-balance-sheet-and-capital-structure-the.html</loc>
-    <lastmod>2026-07-24T12:34:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-morning-minute-bitcoins-new-15m-quantum-defense-fund.html</loc>
     <lastmod>2026-07-24T12:29:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-philippine-bank-bpi-plans-stablecoin-payments-pilot.html</loc>
-    <lastmod>2026-07-24T10:01:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch.html</loc>
     <lastmod>2026-07-24T09:54:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,18 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html</loc>
     <lastmod>2026-07-24T06:33:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-mirae-plans-to-turn-crypto-exchange-korbit-into-something-korea-hasnt-seen-befor.html</loc>
-    <lastmod>2026-07-24T06:10:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-bitcoin-holds-near-65000-as-800-billion-ai-selloff-leaves-crypto-largely-untouch.html</loc>
-    <lastmod>2026-07-24T04:43:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,6 +447,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working.html</loc>
     <lastmod>2026-07-23T17:31:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr.html</loc>
+    <lastmod>2026-07-23T16:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

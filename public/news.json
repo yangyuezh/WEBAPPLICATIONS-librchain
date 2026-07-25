@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-25T15:16:44.500Z",
+  "updatedAt": "2026-07-25T17:11:54.306Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
+      "summary": "New regulations for crypto trading, custody, and settlement in Russia take effect Sept. 1, with requirements for licensed intermediaries applying from July 2027.",
+      "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+      "publishedAt": "2026-07-25T16:59:36.000Z",
+      "keywords": [
+        "Finance",
+        "banks",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260725-russias-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+      "localUrl": "/news/20260725-russias-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Wise to resubmit US charter application under GENIUS Act",
+      "summary": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
+      "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T16:05:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260725-wise-to-resubmit-us-charter-application-under-genius-act",
+      "localUrl": "/news/20260725-wise-to-resubmit-us-charter-application-under-genius-act.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "summary": "The group allegedly breached Central Bank systems, converted crypto to cash via Chinese brokers, and used small transfers to evade detection.",
+      "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "publishedAt": "2026-07-25T15:46:05.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260725-north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-countrys-ban",
+      "localUrl": "/news/20260725-north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-countrys-ban.html"
+    },
     {
       "source": "Decrypt",
       "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -96,6 +139,17 @@
       "category": "RWA",
       "slug": "20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi",
       "localUrl": "/news/20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "New Explore experience on Backpack Wallet 🎒 Discover what’s trending across crypto, stocks, and dApps, all in one place. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRzVfUVVhc3NmR29PM0FSQzltMFdsY0VwbEhZMHBtdkE4c0UzYnpoZF8tLXN0cE9PMm5SQy13T3hSZ0xlWXJzMmZmMlp6VVpqMDhwS2tJOFZGSG9vSXc?oc=5\" target=\"_blank\">New Explore experience on Backpack Wall…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRzVfUVVhc3NmR29PM0FSQzltMFdsY0VwbEhZMHBtdkE4c0UzYnpoZF8tLXN0cE9PMm5SQy13T3hSZ0xlWXJzMmZmMlp6VVpqMDhwS2tJOFZGSG9vSXc?oc=5",
+      "publishedAt": "2026-07-25T09:41:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-new-explore-experience-on-backpack-wallet-discover-whats-trending-across-crypto-",
+      "localUrl": "/news/20260725-new-explore-experience-on-backpack-wallet-discover-whats-trending-across-crypto-.html"
     },
     {
       "source": "Cointelegraph",
@@ -225,17 +279,6 @@
       "category": "市场",
       "slug": "20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva",
       "localUrl": "/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Looking back, it will feel like it happened in an instant. #bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1eHhGV2s2cDdyYzVsbHNIRXhxSF9mMmNKVWp3X0J5ZFZvWm1kbndNbFZVQTJsWnM5akc0ZHA1SEJrcFVXRkgxMERIaXpmRk9pWXYyYmw1Tlg1bG1kUUNaVk1PRWk?oc=5\" target=\"_blank\">Looking back, it will feel like…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1eHhGV2s2cDdyYzVsbHNIRXhxSF9mMmNKVWp3X0J5ZFZvWm1kbndNbFZVQTJsWnM5akc0ZHA1SEJrcFVXRkgxMERIaXpmRk9pWXYyYmw1Tlg1bG1kUUNaVk1PRWk?oc=5",
-      "publishedAt": "2026-07-24T19:11:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom",
-      "localUrl": "/news/20260724-looking-back-it-will-feel-like-it-happened-in-an-instant-bitcoin-xcom.html"
     },
     {
       "source": "X Wire",
@@ -592,17 +635,6 @@
       "localUrl": "/news/20260724-thailand-sec-files-complaint-against-bitkub-over-alleged-false-disclosures.html"
     },
     {
-      "source": "X Wire",
-      "title": "One integrated view of Strategy’s Bitcoin balance sheet and capital structure. The MSTR-BTC dashboard brings gross and net reserves, per-share economics, valuation, duration, floor, breakeven, hurdle, yield, and gain into a single framework. Live at Strategy - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ha2NYdzJjeGdnZkNDc09rRDVMV05PUG9Ibk1VQ3VwcWNTOVphRUFpVWdnZEF3N3VpZ1JPNllmQmRiT1dzS1JYN2RnTFU3b05LQzhwdFEtMzhXODA?oc=5\" target=\"_blank\">One integrated view of Strategy’s Bitcoin b…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ha2NYdzJjeGdnZkNDc09rRDVMV05PUG9Ibk1VQ3VwcWNTOVphRUFpVWdnZEF3N3VpZ1JPNllmQmRiT1dzS1JYN2RnTFU3b05LQzhwdFEtMzhXODA?oc=5",
-      "publishedAt": "2026-07-24T12:34:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-one-integrated-view-of-strategys-bitcoin-balance-sheet-and-capital-structure-the",
-      "localUrl": "/news/20260724-one-integrated-view-of-strategys-bitcoin-balance-sheet-and-capital-structure-the.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Bitcoin's New $15M Quantum Defense Fund",
       "summary": "Plus, the Clarity Act is no longer expected to progress before the August recess. And Vlad Tenev's X was hacked to post a meme coin...",
@@ -806,19 +838,6 @@
       "localUrl": "/news/20260724-samsung-wallet-plans-stablecoin-support-in-digital-payments-expansion.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Philippine bank BPI plans stablecoin payments pilot",
-      "summary": "The Philippine bank is preparing a stablecoin settlement pilot intended to speed up and reduce the cost of overseas payments to Filipino remote workers.",
-      "url": "https://cointelegraph.com/news/philippine-bank-bpi-plans-stablecoin-payments-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T10:01:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260724-philippine-bank-bpi-plans-stablecoin-payments-pilot",
-      "localUrl": "/news/20260724-philippine-bank-bpi-plans-stablecoin-payments-pilot.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
       "summary": "The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes.",
@@ -880,36 +899,6 @@
       "category": "监管",
       "slug": "20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
       "localUrl": "/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-      "summary": "The South Korean financial giant says its Korbit – soon to be rebranded as Digital X – is just the starting point for a broader ecosystem that connects RWAs, stablecoins and digital assets.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
-      "publishedAt": "2026-07-24T06:10:49.000Z",
-      "keywords": [
-        "Markets",
-        "South Korea",
-        "Exclusive",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260724-mirae-plans-to-turn-crypto-exchange-korbit-into-something-korea-hasnt-seen-befor",
-      "localUrl": "/news/20260724-mirae-plans-to-turn-crypto-exchange-korbit-into-something-korea-hasnt-seen-befor.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-      "summary": "The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
-      "publishedAt": "2026-07-24T04:43:19.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-bitcoin-holds-near-65000-as-800-billion-ai-selloff-leaves-crypto-largely-untouch",
-      "localUrl": "/news/20260724-bitcoin-holds-near-65000-as-800-billion-ai-selloff-leaves-crypto-largely-untouch.html"
     },
     {
       "source": "Decrypt",
@@ -999,6 +988,17 @@
       "category": "监管",
       "slug": "20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working",
       "localUrl": "/news/20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Binance is the first crypto exchange to partner with @STOPTHETRAFFIK to help disrupt crypto flows linked to human trafficking and child exploitation. This partnership reflects our commitment to helping protect the broader ecosystem, strengthen trust across th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNHZJZkV3ZGpyWXNxdFBHNGpCQm0tMElvQTZ6WE1SLWJjUHZTVFVFb09IRUhIaS1EMmIyQk1IczU0N2ZlcG1SVkt4d0RuRTBfNXJJOFc0Y1o3S3kz?oc=5\" target=\"_blank\">Binance is the first crypto exchange to pa…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNHZJZkV3ZGpyWXNxdFBHNGpCQm0tMElvQTZ6WE1SLWJjUHZTVFVFb09IRUhIaS1EMmIyQk1IczU0N2ZlcG1SVkt4d0RuRTBfNXJJOFc0Y1o3S3kz?oc=5",
+      "publishedAt": "2026-07-23T16:00:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr",
+      "localUrl": "/news/20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr.html"
     },
     {
       "source": "X Wire",
