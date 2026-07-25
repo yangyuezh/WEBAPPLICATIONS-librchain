@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-07-25T13:58:24.728Z",
+  "updatedAt": "2026-07-25T15:16:44.500Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
+      "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
+      "publishedAt": "2026-07-25T14:01:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one",
+      "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
@@ -96,6 +109,17 @@
       "category": "监管",
       "slug": "20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak",
       "localUrl": "/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "CMA Issues Warning to Kenyans Investing in MMFs, Forex, Shares & Crypto - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lcy1LZ2xpVXlQdkdsazhvdVZldlp0YlMwWkxqRkFWcjEyWmZrbnByeWpfVm1LNG9JeGRGYW8zZ3BVNHZmbTBqVk9MNXV5VTJwbGZNb0UxYnhWay15?oc=5\" target=\"_blank\">CMA Issues Warning to Kenyans Investing in…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lcy1LZ2xpVXlQdkdsazhvdVZldlp0YlMwWkxqRkFWcjEyWmZrbnByeWpfVm1LNG9JeGRGYW8zZ3BVNHZmbTBqVk9MNXV5VTJwbGZNb0UxYnhWay15?oc=5",
+      "publishedAt": "2026-07-25T05:15:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-cma-issues-warning-to-kenyans-investing-in-mmfs-forex-shares-crypto-xcom",
+      "localUrl": "/news/20260725-cma-issues-warning-to-kenyans-investing-in-mmfs-forex-shares-crypto-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -362,17 +386,6 @@
       "category": "监管",
       "slug": "20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway",
       "localUrl": "/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 The world's largest organization of sworn law enforcement officers now officially endorses the passage of the Clarity Act: - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWm1FeVFsZ1FJV2N2OE50MG9zSkJZa25zQlBDdjAxNWp0R1Y2TFlYRTFUN016eEs2RC1FVGdwNHRLQWozQ2JZblVtV283dGJWbS1MOFQzZERVcGNOM0prRkRqY2xhT1E?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The world's l…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWm1FeVFsZ1FJV2N2OE50MG9zSkJZa25zQlBDdjAxNWp0R1Y2TFlYRTFUN016eEs2RC1FVGdwNHRLQWozQ2JZblVtV283dGJWbS1MOFQzZERVcGNOM0prRkRqY2xhT1E?oc=5",
-      "publishedAt": "2026-07-24T15:12:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-just-in-the-worlds-largest-organization-of-sworn-law-enforcement-officers-now-of",
-      "localUrl": "/news/20260724-just-in-the-worlds-largest-organization-of-sworn-law-enforcement-officers-now-of.html"
     },
     {
       "source": "Cointelegraph",
@@ -853,17 +866,6 @@
       "localUrl": "/news/20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: World's former largest Bitcoin mining pool, Poolin, files for bankruptcy. Poolin plans to sell two Texas mining sites after listing as little as $1M in assets but up to $500M in liabilities. It owes roughly $173M, including $164M to customers after withdrawal - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSXlsN2pHU2g5Wlk2XzJ6ejRDRVpVU3pZTWs4MVI3bkpQNXJtNDJ4cC1PMUNKQVhJUk16RWJNR0pSNk95bG11SUdIOGpBaDR1Zm82SlRIVmx1TlhwN3JsQw?oc=5\" target=\"_blank\">JUST IN: World's former largest Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SSXlsN2pHU2g5Wlk2XzJ6ejRDRVpVU3pZTWs4MVI3bkpQNXJtNDJ4cC1PMUNKQVhJUk16RWJNR0pSNk95bG11SUdIOGpBaDR1Zm82SlRIVmx1TlhwN3JsQw?oc=5",
-      "publishedAt": "2026-07-24T07:04:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po",
-      "localUrl": "/news/20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
       "summary": "Ripple launched an institutional minting platform and added RLUSD to Notabene’s compliance network as holder growth rose but monthly transfer volume fell to $10.95 billion.",
@@ -962,6 +964,17 @@
       "localUrl": "/news/20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token.html"
     },
     {
+      "source": "X Wire",
+      "title": "List of DATs who have abandoned Bitcoin and crypto accumulation strategies since: 🔴 Full Liquidations / Complete Exits Satsuma Technology (SATS LN) — Shareholders voted on July 21, 2026 (>>90% approval) to liquid all 668 BTC (~$43.5M), return capital - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBneTBlR2M3RDV1eGxsdFctckg5RkZEc0o2bk01RlNyak1KVUNMbG1WMUJxbHhudDFyOWtMUjhoN3hMbUFoT3NlVTJDUFFHTUFGZVBtcWFWQVFNRVNHN0RBMUlYMWc?oc=5\" target=\"_blank\">List of DATs who have abandoned…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBneTBlR2M3RDV1eGxsdFctckg5RkZEc0o2bk01RlNyak1KVUNMbG1WMUJxbHhudDFyOWtMUjhoN3hMbUFoT3NlVTJDUFFHTUFGZVBtcWFWQVFNRVNHN0RBMUlYMWc?oc=5",
+      "publishedAt": "2026-07-23T19:12:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-list-of-dats-who-have-abandoned-bitcoin-and-crypto-accumulation-strategies-since",
+      "localUrl": "/news/20260723-list-of-dats-who-have-abandoned-bitcoin-and-crypto-accumulation-strategies-since.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitcoin May Have Already Bottomed—If the Fed Helps, Says Grayscale",
       "summary": "The crypto asset manager thinks the four-year cycle is dead, suggesting Bitcoin's price will follow macro forces and the Fed's next move.",
@@ -986,19 +999,6 @@
       "category": "监管",
       "slug": "20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working",
       "localUrl": "/news/20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
-      "summary": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure—including from future quantum computers.",
-      "url": "https://decrypt.co/374145/blackrock-coinbase-strategy-15m-quantum-proof-bitcoin",
-      "publishedAt": "2026-07-23T15:17:38.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260723-blackrock-coinbase-and-strategy-pledge-15m-to-quantum-proof-bitcoin",
-      "localUrl": "/news/20260723-blackrock-coinbase-and-strategy-pledge-15m-to-quantum-proof-bitcoin.html"
     },
     {
       "source": "X Wire",

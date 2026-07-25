@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T13:58:24.772Z</lastmod>
+    <lastmod>2026-07-25T15:16:44.544Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T13:58:24.772Z</lastmod>
+    <lastmod>2026-07-25T15:16:44.544Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html</loc>
+    <lastmod>2026-07-25T14:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260725-north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report.html</loc>
@@ -51,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html</loc>
     <lastmod>2026-07-25T07:40:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-cma-issues-warning-to-kenyans-investing-in-mmfs-forex-shares-crypto-xcom.html</loc>
+    <lastmod>2026-07-25T05:15:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -177,12 +189,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html</loc>
     <lastmod>2026-07-24T15:15:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-just-in-the-worlds-largest-organization-of-sworn-law-enforcement-officers-now-of.html</loc>
-    <lastmod>2026-07-24T15:12:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po.html</loc>
-    <lastmod>2026-07-24T07:04:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html</loc>
     <lastmod>2026-07-24T06:33:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -439,6 +439,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260723-list-of-dats-who-have-abandoned-bitcoin-and-crypto-accumulation-strategies-since.html</loc>
+    <lastmod>2026-07-23T19:12:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260723-bitcoin-may-have-already-bottomedif-the-fed-helps-says-grayscale.html</loc>
     <lastmod>2026-07-23T18:53:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working.html</loc>
     <lastmod>2026-07-23T17:31:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-blackrock-coinbase-and-strategy-pledge-15m-to-quantum-proof-bitcoin.html</loc>
-    <lastmod>2026-07-23T15:17:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
