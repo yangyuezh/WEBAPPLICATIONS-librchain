@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T17:11:54.343Z</lastmod>
+    <lastmod>2026-07-25T19:31:36.963Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T17:11:54.343Z</lastmod>
+    <lastmod>2026-07-25T19:31:36.963Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program.html</loc>
+    <lastmod>2026-07-25T18:15:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260725-russias-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december.html</loc>
@@ -91,6 +97,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260725-samsung-just-announced-they-will-officially-launch-a-crypto-wallet-to-all-their-.html</loc>
+    <lastmod>2026-07-25T02:33:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything.html</loc>
     <lastmod>2026-07-24T22:03:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -99,12 +111,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-eu-authorities-include-htx-exchange-in-russian-sanctions.html</loc>
     <lastmod>2026-07-24T21:53:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-white-house-crypto-policy-adviser-patrick-witt-says-president-trump-has-agreed-t.html</loc>
-    <lastmod>2026-07-24T21:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +277,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html</loc>
-    <lastmod>2026-07-24T13:04:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-new-crypto-groups-push-for-clarity-as-60-votes-remain-elusive-digitalchamber-cry.html</loc>
     <lastmod>2026-07-24T13:03:35.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -285,12 +285,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limit.html</loc>
     <lastmod>2026-07-24T13:03:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-breaking-samsung-just-announced-crypto-stablecoin-support-for-its-1-billion-user.html</loc>
-    <lastmod>2026-07-24T12:54:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-samsung-wallet-plans-stablecoin-support-in-digital-payments-expansion.html</loc>
-    <lastmod>2026-07-24T10:10:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch.html</loc>
     <lastmod>2026-07-24T09:54:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -403,8 +391,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af.html</loc>
+    <lastmod>2026-07-24T06:38:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260724-ripples-rlusd-gets-two-boosts-as-transfer-volume-drops-25.html</loc>
     <lastmod>2026-07-24T06:33:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-6476755-bitcoin-xcom.html</loc>
+    <lastmod>2026-07-24T00:45:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
