@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-07-25T09:09:20.133Z",
+  "updatedAt": "2026-07-25T11:30:11.723Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
+      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-25T10:01:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260725-dangos-perp-dex-taps-out-nearly-4-months-after-launch",
+      "localUrl": "/news/20260725-dangos-perp-dex-taps-out-nearly-4-months-after-launch.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "summary": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
+      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+      "publishedAt": "2026-07-25T10:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Robinhood",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi",
+      "localUrl": "/news/20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
@@ -752,6 +780,17 @@
       "localUrl": "/news/20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch.html"
     },
     {
+      "source": "X Wire",
+      "title": "At Least 29 Overseas Crypto Exchange Apps Unavailable for New Downloads on South Korea’s Google Play According to Digital Asset, at least 29 of CoinMarketCap’s top 50 overseas crypto derivatives exchanges are no longer available for new downloads - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTmp2c1JaVGhfTHRuM1RLYmZfblJMcTNSUTNmTGhCamNkcHV0LVVlal9FWEtOX1QwUmpvVWlleUJVMDdmamNYdzl1THZ0STFzR3FpT0N6aHBZejFHY0hhMVBrcw?oc=5\" target=\"_blank\">At Least 29 Overseas Crypto Exch…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zTmp2c1JaVGhfTHRuM1RLYmZfblJMcTNSUTNmTGhCamNkcHV0LVVlal9FWEtOX1QwUmpvVWlleUJVMDdmamNYdzl1THZ0STFzR3FpT0N6aHBZejFHY0hhMVBrcw?oc=5",
+      "publishedAt": "2026-07-24T09:47:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-at-least-29-overseas-crypto-exchange-apps-unavailable-for-new-downloads-on-south",
+      "localUrl": "/news/20260724-at-least-29-overseas-crypto-exchange-apps-unavailable-for-new-downloads-on-south.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "BTC supply in profit eyes 60%, but analysis hints recovery may ‘roll back over’",
       "summary": "Bitcoin supply profitability improved versus its 2026 low, but analysis warned that a fake recovery had already broken down at the start of June.",
@@ -792,19 +831,6 @@
       "localUrl": "/news/20260724-south-koreas-korbit-to-rebrand-as-digital-x-under-mirae-report.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ripple launches Mint to expand institutional access to RLUSD",
-      "summary": "Ripple launches Mint to expand RLUSD access for institutions as the stablecoin’s market cap approaches $1.6 billion.",
-      "url": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T08:47:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260724-ripple-launches-mint-to-expand-institutional-access-to-rlusd",
-      "localUrl": "/news/20260724-ripple-launches-mint-to-expand-institutional-access-to-rlusd.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin gives up gains, falls below $64,000 as stocks retreat",
       "summary": "Michael Saylor's Strategy — under continued pressure in this crypto bear market — released a new set of metrics to judge company performance.",
@@ -832,17 +858,6 @@
       "category": "X热点",
       "slug": "20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po",
       "localUrl": "/news/20260724-just-in-worlds-former-largest-bitcoin-mining-pool-poolin-files-for-bankruptcy-po.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Former No. 1 Bitcoin Mining Pool Poolin Files for Chapter 11 Poolin and two U.S. affiliates have filed for Chapter 11 bankruptcy protection in New Jersey and plan to sell two West Texas mining sites with a combined opening bid of USD 52 million. Court filings - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5\" target=\"_blank\">Former No. 1 Bitcoin Mining Pool…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5",
-      "publishedAt": "2026-07-24T06:38:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af",
-      "localUrl": "/news/20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af.html"
     },
     {
       "source": "CoinDesk",
@@ -982,22 +997,6 @@
       "localUrl": "/news/20260723-bitcoin-may-have-already-bottomedif-the-fed-helps-says-grayscale.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
-      "summary": "The post, now deleted, touted a token called $VLAD and falsely claimed it would be listed on Robinhood.",
-      "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
-      "publishedAt": "2026-07-23T18:29:31.000Z",
-      "keywords": [
-        "Finance",
-        "Robinhood",
-        "Memecoin",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
-      "localUrl": "/news/20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-promote-token-amid-memecoin-frenzy.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
       "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
@@ -1033,17 +1032,6 @@
       "category": "X热点",
       "slug": "20260723-new-lombard_finance-adopts-chainlink-to-unlock-cross-chain-distribution-for-its-",
       "localUrl": "/news/20260723-new-lombard_finance-adopts-chainlink-to-unlock-cross-chain-distribution-for-its-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Sad to see BitMex go. Some thoughts: BitMex pioneered 100x perps in crypto back in 2014. Delivery futures existed before then, making Fridays hectic. BTC deposits only, one chain only, withdrawals only once per day, through a multi-sig wallet. The constraint - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0VVZUQTQzNVpGX2wyTDNqMUZYWTdscTJ5LW56Y1BWNXFwSExfUTFnLVR6S2xobGg4SG1XYlhUWWthWWxFS3RBU1JhMHlQTk5KcURoZThmM3llQlJJeHdpRA?oc=5\" target=\"_blank\">Sad to see BitMex go. Some thoughts:…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0VVZUQTQzNVpGX2wyTDNqMUZYWTdscTJ5LW56Y1BWNXFwSExfUTFnLVR6S2xobGg4SG1XYlhUWWthWWxFS3RBU1JhMHlQTk5KcURoZThmM3llQlJJeHdpRA?oc=5",
-      "publishedAt": "2026-07-23T13:09:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-sad-to-see-bitmex-go-some-thoughts-bitmex-pioneered-100x-perps-in-crypto-back-in",
-      "localUrl": "/news/20260723-sad-to-see-bitmex-go-some-thoughts-bitmex-pioneered-100x-perps-in-crypto-back-in.html"
     },
     {
       "source": "Solana Blog",
@@ -1099,6 +1087,17 @@
       "category": "X热点",
       "slug": "20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l",
       "localUrl": "/news/20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Goldman Sachs CEO: It’s time to advance the crypto bill - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuV2lLSFYwdHp4M3VDX00zYy1pU0RFWGJ1clpjRzU2ZGlJZVNMQzNEbmZpenAyRHhscVk3WktOdFAzdkt0blNCOW5nS2xqNHE2a013RWdBRmZ4OVhXV0E?oc=5\" target=\"_blank\">Goldman Sachs CEO: It’s time to advance…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuV2lLSFYwdHp4M3VDX00zYy1pU0RFWGJ1clpjRzU2ZGlJZVNMQzNEbmZpenAyRHhscVk3WktOdFAzdkt0blNCOW5nS2xqNHE2a013RWdBRmZ4OVhXV0E?oc=5",
+      "publishedAt": "2026-07-23T11:57:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom",
+      "localUrl": "/news/20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
