@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T03:33:27.386Z</lastmod>
+    <lastmod>2026-07-25T06:26:56.862Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T03:33:27.386Z</lastmod>
+    <lastmod>2026-07-25T06:26:56.862Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -69,12 +69,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-07-24T19:03:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-fidelity-chose-ethereum-to-issue-its-first-ever-stablecoin-fidd-the-fidelity-dig.html</loc>
-    <lastmod>2026-07-24T18:44:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,6 +501,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l.html</loc>
     <lastmod>2026-07-23T12:02:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom.html</loc>
+    <lastmod>2026-07-23T11:57:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
