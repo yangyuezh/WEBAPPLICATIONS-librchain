@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-07-26T07:44:24.199Z",
+  "updatedAt": "2026-07-26T10:09:37.227Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "summary": "As MiCA beds in and the U.K. finalizes its crypto framework, stringent regulation could spur mergers, acquisitions and closer ties with banks.",
+      "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+      "publishedAt": "2026-07-26T10:00:00.000Z",
+      "keywords": [
+        "Policy",
+        "UK",
+        "MiCA",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260726-europes-high-regulatory-bar-could-spark-new-crypto-industry-ma-wave",
+      "localUrl": "/news/20260726-europes-high-regulatory-bar-could-spark-new-crypto-industry-ma-wave.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
@@ -42,6 +58,17 @@
       "category": "市场",
       "slug": "20260726-crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
       "localUrl": "/news/20260726-crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "solana bros are back w/ $ANSEM ethereum bros are back w/ $FWA before we know it majors will be back at all time highs & it'll be fun to speculate on the coins again long internet culture - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvTkFONW5vQ1drYW80SW1icWZqaVNhdUtCT1FuTGVDNms1RHY0RVJwLUxFRElJWkpkY0VMX1JPMVZ1dE1OQkZGdVpqNVRZZUpZWngybU9HaHFFc0doQVVj?oc=5\" target=\"_blank\">solana bros are back w/ $ANSEM ethereu…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvTkFONW5vQ1drYW80SW1icWZqaVNhdUtCT1FuTGVDNms1RHY0RVJwLUxFRElJWkpkY0VMX1JPMVZ1dE1OQkZGdVpqNVRZZUpZWngybU9HaHFFc0doQVVj?oc=5",
+      "publishedAt": "2026-07-26T04:43:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-solana-bros-are-back-w-ansem-ethereum-bros-are-back-w-fwa-before-we-know-it-majo",
+      "localUrl": "/news/20260726-solana-bros-are-back-w-ansem-ethereum-bros-are-back-w-fwa-before-we-know-it-majo.html"
     },
     {
       "source": "Cointelegraph",
@@ -171,14 +198,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🎮 The top blockchains powering crypto games right now @Immutable 📈 +59.15% @avax 📈 +36.23% @0xPolygon 📈 +25.46% Find more: 👉 playtoearn.com/blockchaingame… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RbEQ5THluamZKMFp3Nm1yd3pxdlZzTmlhcXR1TFJOV2pPTDZvXzNtc3dIZXZqX3pEam1NdUEtTUE5OWdseVVjLUk3V0hhMnFmQXlMbGpidW0xazVGWjlNZQ?oc=5\" target=\"_blank\">🎮 The top blockchains powering cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RbEQ5THluamZKMFp3Nm1yd3pxdlZzTmlhcXR1TFJOV2pPTDZvXzNtc3dIZXZqX3pEam1NdUEtTUE5OWdseVVjLUk3V0hhMnFmQXlMbGpidW0xazVGWjlNZQ?oc=5",
-      "publishedAt": "2026-07-25T15:36:03.000Z",
+      "title": "⚡ LATEST: Tokenized RWAs just became Hyperliquid's biggest market, surpassing all crypto trading categories combined. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWlhSdGtrdEk0SHdfem1kRm5TRmVwMzNxV3BST2pIUG1ES2RYaGluNDB3MHlocHBYZXlDMzUyWHFhMkItOWZ5bTVhM2t0ZG9BaFlDOXBjYmd1U3p3VGR4aF96M0w?oc=5\" target=\"_blank\">⚡ LATEST: Tokenized RWAs just b…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wWlhSdGtrdEk0SHdfem1kRm5TRmVwMzNxV3BST2pIUG1ES2RYaGluNDB3MHlocHBYZXlDMzUyWHFhMkItOWZ5bTVhM2t0ZG9BaFlDOXBjYmd1U3p3VGR4aF96M0w?oc=5",
+      "publishedAt": "2026-07-25T15:30:48.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260725-the-top-blockchains-powering-crypto-games-right-now-immutable-5915-avax-3623-0xp",
-      "localUrl": "/news/20260725-the-top-blockchains-powering-crypto-games-right-now-immutable-5915-avax-3623-0xp.html"
+      "slug": "20260725-latest-tokenized-rwas-just-became-hyperliquids-biggest-market-surpassing-all-cry",
+      "localUrl": "/news/20260725-latest-tokenized-rwas-just-became-hyperliquids-biggest-market-surpassing-all-cry.html"
     },
     {
       "source": "Decrypt",
@@ -192,6 +219,17 @@
       "category": "监管",
       "slug": "20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one",
       "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 BLOOMBERG: Trump's crypto ventures are complicating negotiations over the CLARITY Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcVBhZm10azg2cmxMU1VvdF9HREFTY1lZUXpuUkxJRm5PS1VKYUNkUWxSX0F5QTV4TnY2S1ZyNXpUWDRFQnlDdWo0eWFOaWRtaUduQTdpSVVSYjRjejJYdVhGNUo?oc=5\" target=\"_blank\">🇺🇸 BLOOMBERG: Trump's crypto …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcVBhZm10azg2cmxMU1VvdF9HREFTY1lZUXpuUkxJRm5PS1VKYUNkUWxSX0F5QTV4TnY2S1ZyNXpUWDRFQnlDdWo0eWFOaWRtaUduQTdpSVVSYjRjejJYdVhGNUo?oc=5",
+      "publishedAt": "2026-07-25T13:30:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-bloomberg-trumps-crypto-ventures-are-complicating-negotiations-over-the-clarity-",
+      "localUrl": "/news/20260725-bloomberg-trumps-crypto-ventures-are-complicating-negotiations-over-the-clarity-.html"
     },
     {
       "source": "Cointelegraph",
@@ -287,17 +325,6 @@
       "localUrl": "/news/20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi.html"
     },
     {
-      "source": "X Wire",
-      "title": "$ETH is still holding above its support zone. As compared to Bitcoin, Ethereum is looking strong, and I think the rally isn't done yet. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taGpDc3hsVHpfNkoxcDlGMFpJUGlxMFNpVVpxd1RXWUphakFhYmJROG1SWVgyYUdESHJ5S0VwTUpJTmN5RnVCUDdRRjZzN2taVUt4Uk9BSTZDOUtkZjdDQQ?oc=5\" target=\"_blank\">$ETH is still holding above its supp…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9taGpDc3hsVHpfNkoxcDlGMFpJUGlxMFNpVVpxd1RXWUphakFhYmJROG1SWVgyYUdESHJ5S0VwTUpJTmN5RnVCUDdRRjZzN2taVUt4Uk9BSTZDOUtkZjdDQQ?oc=5",
-      "publishedAt": "2026-07-25T08:44:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-eth-is-still-holding-above-its-support-zone-as-compared-to-bitcoin-ethereum-is-l",
-      "localUrl": "/news/20260725-eth-is-still-holding-above-its-support-zone-as-compared-to-bitcoin-ethereum-is-l.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
       "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
@@ -312,14 +339,14 @@
     },
     {
       "source": "X Wire",
-      "title": "CMA Issues Warning to Kenyans Investing in MMFs, Forex, Shares & Crypto - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lcy1LZ2xpVXlQdkdsazhvdVZldlp0YlMwWkxqRkFWcjEyWmZrbnByeWpfVm1LNG9JeGRGYW8zZ3BVNHZmbTBqVk9MNXV5VTJwbGZNb0UxYnhWay15?oc=5\" target=\"_blank\">CMA Issues Warning to Kenyans Investing in…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lcy1LZ2xpVXlQdkdsazhvdVZldlp0YlMwWkxqRkFWcjEyWmZrbnByeWpfVm1LNG9JeGRGYW8zZ3BVNHZmbTBqVk9MNXV5VTJwbGZNb0UxYnhWay15?oc=5",
-      "publishedAt": "2026-07-25T05:15:08.000Z",
+      "title": "$64,083.76 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWnhHb1VKMDZUZGlGVjZfQXRXZFp5LTBSUE1nTFRjU2dWaEpBaG91Um9rdkwwT0NEODBpR3BiOGZpbjBGRy1aMmZ2Z2N4SE9Cb25TMGtMcFYxeU5o?oc=5\" target=\"_blank\">$64,083.76 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWnhHb1VKMDZUZGlGVjZfQXRXZFp5LTBSUE1nTFRjU2dWaEpBaG91Um9rdkwwT0NEODBpR3BiOGZpbjBGRy1aMmZ2Z2N4SE9Cb25TMGtMcFYxeU5o?oc=5",
+      "publishedAt": "2026-07-25T00:43:45.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260725-cma-issues-warning-to-kenyans-investing-in-mmfs-forex-shares-crypto-xcom",
-      "localUrl": "/news/20260725-cma-issues-warning-to-kenyans-investing-in-mmfs-forex-shares-crypto-xcom.html"
+      "slug": "20260725-6408376-bitcoin-xcom",
+      "localUrl": "/news/20260725-6408376-bitcoin-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -888,21 +915,6 @@
       "localUrl": "/news/20260724-india-orders-takedown-of-jack-dorseys-bitcoin-linked-messaging-app-bitchat.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
-      "summary": "The complaint claims BitMEX designed a system to retain customer collateral and alleges an internal desk accessed private user data during server freezes.",
-      "url": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
-      "publishedAt": "2026-07-24T09:54:00.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto News",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch",
-      "localUrl": "/news/20260724-bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exch.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
       "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
@@ -996,28 +1008,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Binance is the first crypto exchange to partner with @STOPTHETRAFFIK to help disrupt crypto flows linked to human trafficking and child exploitation. This partnership reflects our commitment to helping protect the broader ecosystem, strengthen trust across th - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNHZJZkV3ZGpyWXNxdFBHNGpCQm0tMElvQTZ6WE1SLWJjUHZTVFVFb09IRUhIaS1EMmIyQk1IczU0N2ZlcG1SVkt4d0RuRTBfNXJJOFc0Y1o3S3kz?oc=5\" target=\"_blank\">Binance is the first crypto exchange to pa…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNHZJZkV3ZGpyWXNxdFBHNGpCQm0tMElvQTZ6WE1SLWJjUHZTVFVFb09IRUhIaS1EMmIyQk1IczU0N2ZlcG1SVkt4d0RuRTBfNXJJOFc0Y1o3S3kz?oc=5",
-      "publishedAt": "2026-07-23T16:00:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr",
-      "localUrl": "/news/20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "New asset now available to trade on Robinhood Crypto. $BILL (Billions Network) - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYVBPZzRBRjNVc1ExTHA4RDBrTzM1RUtHTnpYY084cGd2Mk5KWWNyNjAwZWVVRTY2TFJnQnBpWW1EOXhJOUdnemdqNmRseVdtY0JWX0hxV1Q4NlZHQy1qekk2Zw?oc=5\" target=\"_blank\">New asset now available to trade…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TYVBPZzRBRjNVc1ExTHA4RDBrTzM1RUtHTnpYY084cGd2Mk5KWWNyNjAwZWVVRTY2TFJnQnBpWW1EOXhJOUdnemdqNmRseVdtY0JWX0hxV1Q4NlZHQy1qekk2Zw?oc=5",
-      "publishedAt": "2026-07-23T14:20:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom",
-      "localUrl": "/news/20260723-new-asset-now-available-to-trade-on-robinhood-crypto-bill-billions-network-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "NEW: @Lombard_Finance adopts Chainlink to unlock cross-chain distribution for its Bitcoin Onchain Credit Strategy with @FlowTraders (Euronext: FLOW). Chainlink now powers secure cross-chain deposits of BTC.b and LBTC into the Strategy, expanding ac - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE96T1lnbHJzYW1YY2RkWG1PSWhpVVlVMU01QjdyX0JYVHQ5MlN4YzhzZEpoV1ZoU0pJZl9makU2OWl6Qk85WGdTU2NXXzJ6RkdfQl80MnhOTlpEbUctZ3dZ?oc=5\" target=\"_blank\">NEW: @Lombard_Finance adopts Chainlink…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96T1lnbHJzYW1YY2RkWG1PSWhpVVlVMU01QjdyX0JYVHQ5MlN4YzhzZEpoV1ZoU0pJZl9makU2OWl6Qk85WGdTU2NXXzJ6RkdfQl80MnhOTlpEbUctZ3dZ?oc=5",
@@ -1048,6 +1038,17 @@
       "category": "基础设施",
       "slug": "20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint",
       "localUrl": "/news/20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor announces Strategy, BlackRock, Fidelity and Coinbase are pledging $15 million to support open source Bitcoin development \"for the decades ahead.\" 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor ann…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5",
+      "publishedAt": "2026-07-23T12:40:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl",
+      "localUrl": "/news/20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl.html"
     },
     {
       "source": "X Wire",
