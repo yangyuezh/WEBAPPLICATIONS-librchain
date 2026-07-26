@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-07-26T16:12:17.048Z",
+  "updatedAt": "2026-07-26T18:10:14.331Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
+      "summary": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
+      "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-26T17:45:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica",
+      "localUrl": "/news/20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia’s Sberbank to launch crypto trading infrastructure this year",
+      "summary": "Russia’s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.",
+      "url": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-26T16:07:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260726-russias-sberbank-to-launch-crypto-trading-infrastructure-this-year",
+      "localUrl": "/news/20260726-russias-sberbank-to-launch-crypto-trading-infrastructure-this-year.html"
+    },
     {
       "source": "Decrypt",
       "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
@@ -43,6 +69,17 @@
       "category": "监管",
       "slug": "20260726-us-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
       "localUrl": "/news/20260726-us-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSzY5LVFXYkExZHpsck9MMFFrZjZRakNJMXQzRHhPSzhLYnVadjcyNTVEOWVfOG9RZ3h4Zm51VEx4czZPbjBqTGFhNHh2dXJhV2VYZUJYVFJOMFM2bnJIb09RV2sxWTQ?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSzY5LVFXYkExZHpsck9MMFFrZjZRakNJMXQzRHhPSzhLYnVadjcyNTVEOWVfOG9RZ3h4Zm51VEx4czZPbjBqTGFhNHh2dXJhV2VYZUJYVFJOMFM2bnJIb09RV2sxWTQ?oc=5",
+      "publishedAt": "2026-07-26T12:48:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
+      "localUrl": "/news/20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -151,6 +188,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Ethereum is positioned to the be most widely used settlement layer for finance and AI agents Great convo with @ethlabs_org and @milkroaddaily And $ETH is money - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQ0o1Tkl6ZkIxMFRRLXlLTUJWcEpUd18tV2VqUnJFN2NxMjhMd2RUVVByWkRUU1dGOER0QU8tMlJOYkJfX0VHSHdndFh2MDNxVE5aUDhwUC1CM3NuNExF?oc=5\" target=\"_blank\">Ethereum is positioned to the be most …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQ0o1Tkl6ZkIxMFRRLXlLTUJWcEpUd18tV2VqUnJFN2NxMjhMd2RUVVByWkRUU1dGOER0QU8tMlJOYkJfX0VHSHdndFh2MDNxVE5aUDhwUC1CM3NuNExF?oc=5",
+      "publishedAt": "2026-07-26T03:00:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-ethereum-is-positioned-to-the-be-most-widely-used-settlement-layer-for-finance-a",
+      "localUrl": "/news/20260726-ethereum-is-positioned-to-the-be-most-widely-used-settlement-layer-for-finance-a.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🚨ALERT: Centralized crypto exchange BitMart announces it will shut down, following BitMEX. New registrations, deposits and trading orders were suspended on July 26, with all trading set to end on August 26. BitMart’s BMX token plunged roughly 63% in 24 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUTFwNmM4VzIyTV9EWS0xYnlURmVXSEoyeDhZaDlMMDNVWE02Wi1SbEstNEhYZndDM2dUS3pSZTFsWDZ2c3hwTkUxZy1PdVlHQzlpLUwxMm1zdlRLMkloWQ?oc=5\" target=\"_blank\">🚨ALERT: Centralized crypto exchange…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUTFwNmM4VzIyTV9EWS0xYnlURmVXSEoyeDhZaDlMMDNVWE02Wi1SbEstNEhYZndDM2dUS3pSZTFsWDZ2c3hwTkUxZy1PdVlHQzlpLUwxMm1zdlRLMkloWQ?oc=5",
@@ -172,6 +220,17 @@
       "category": "监管",
       "slug": "20260726-binance-red-teams-its-own-staff-every-month-to-keep-hackers-out",
       "localUrl": "/news/20260726-binance-red-teams-its-own-staff-every-month-to-keep-hackers-out.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "the biggest crypto influencer in the world is saying this can happen i never expected him to do this but here we are - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Qbmxna3FFVzJkM1VVdFNqbVJIekxURGJSWWRCY3JxbE9HTDRnbUk3OVJzOGQ4MExtSmx0bFpqNUtYcHhlS29PQ1Q3SG9UQnUyWHRLWWRQeTBBVFpj?oc=5\" target=\"_blank\">the biggest crypto influencer in the world…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Qbmxna3FFVzJkM1VVdFNqbVJIekxURGJSWWRCY3JxbE9HTDRnbUk3OVJzOGQ4MExtSmx0bFpqNUtYcHhlS29PQ1Q3SG9UQnUyWHRLWWRQeTBBVFpj?oc=5",
+      "publishedAt": "2026-07-25T23:10:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-the-biggest-crypto-influencer-in-the-world-is-saying-this-can-happen-i-never-exp",
+      "localUrl": "/news/20260725-the-biggest-crypto-influencer-in-the-world-is-saying-this-can-happen-i-never-exp.html"
     },
     {
       "source": "X Wire",
@@ -333,17 +392,6 @@
       "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇺🇸 BLOOMBERG: Trump's crypto ventures are complicating negotiations over the CLARITY Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcVBhZm10azg2cmxMU1VvdF9HREFTY1lZUXpuUkxJRm5PS1VKYUNkUWxSX0F5QTV4TnY2S1ZyNXpUWDRFQnlDdWo0eWFOaWRtaUduQTdpSVVSYjRjejJYdVhGNUo?oc=5\" target=\"_blank\">🇺🇸 BLOOMBERG: Trump's crypto …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcVBhZm10azg2cmxMU1VvdF9HREFTY1lZUXpuUkxJRm5PS1VKYUNkUWxSX0F5QTV4TnY2S1ZyNXpUWDRFQnlDdWo0eWFOaWRtaUduQTdpSVVSYjRjejJYdVhGNUo?oc=5",
-      "publishedAt": "2026-07-25T13:30:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-bloomberg-trumps-crypto-ventures-are-complicating-negotiations-over-the-clarity-",
-      "localUrl": "/news/20260725-bloomberg-trumps-crypto-ventures-are-complicating-negotiations-over-the-clarity-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
       "summary": "South Korean Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
@@ -355,17 +403,6 @@
       "category": "安全",
       "slug": "20260725-north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report",
       "localUrl": "/news/20260725-north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#BTC Bitcoin continues to experience resistance at the ~$65500 level (blue) as the Weekly Close slowly approaches In fact, Bitcoin may be developing a new multi-week Lower High on price (black) More, the declining buy-side volume has actually now shifted - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yRE5kSG1mM2FVa1ktLUhLek9VUF80azJTVWd4c3hMODNCdTdva1JZNFJYTzJSeHJmTW5EUGNaRTUxamY3ZWt1QnJVSHZUOEZYSHZPejRKeTUtT2g1QWVqZEd3?oc=5\" target=\"_blank\">#BTC Bitcoin continues to experien…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yRE5kSG1mM2FVa1ktLUhLek9VUF80azJTVWd4c3hMODNCdTdva1JZNFJYTzJSeHJmTW5EUGNaRTUxamY3ZWt1QnJVSHZUOEZYSHZPejRKeTUtT2g1QWVqZEd3?oc=5",
-      "publishedAt": "2026-07-25T13:00:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-btc-bitcoin-continues-to-experience-resistance-at-the-65500-level-blue-as-the-we",
-      "localUrl": "/news/20260725-btc-bitcoin-continues-to-experience-resistance-at-the-65500-level-blue-as-the-we.html"
     },
     {
       "source": "CoinDesk",
@@ -681,19 +718,6 @@
       "localUrl": "/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
-      "summary": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
-      "url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T15:09:33.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260724-world-foundation-raises-525m-in-pantera-led-funding-to-expand-world-id-infrastru",
-      "localUrl": "/news/20260724-world-foundation-raises-525m-in-pantera-led-funding-to-expand-world-id-infrastru.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
       "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
@@ -756,19 +780,6 @@
       "category": "综合",
       "slug": "20260724-institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
       "localUrl": "/news/20260724-institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin falls under $64K as surging US bond yields boost Fed rate-hike odds",
-      "summary": "Bitcoin saw several dips under the $64,000 mark as a Binance “plunge protection team” reemerged with bid liquidity to avoid a deeper BTC price rout.",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-under-64k-us-bond-yields-fed-rate-hike-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T14:28:03.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260724-bitcoin-falls-under-64k-as-surging-us-bond-yields-boost-fed-rate-hike-odds",
-      "localUrl": "/news/20260724-bitcoin-falls-under-64k-as-surging-us-bond-yields-boost-fed-rate-hike-odds.html"
     },
     {
       "source": "Decrypt",
@@ -997,17 +1008,6 @@
       "category": "监管",
       "slug": "20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources",
       "localUrl": "/news/20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Former No. 1 Bitcoin Mining Pool Poolin Files for Chapter 11 Poolin and two U.S. affiliates have filed for Chapter 11 bankruptcy protection in New Jersey and plan to sell two West Texas mining sites with a combined opening bid of USD 52 million. Court filings - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5\" target=\"_blank\">Former No. 1 Bitcoin Mining Pool…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5",
-      "publishedAt": "2026-07-24T06:38:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af",
-      "localUrl": "/news/20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af.html"
     },
     {
       "source": "Decrypt",
