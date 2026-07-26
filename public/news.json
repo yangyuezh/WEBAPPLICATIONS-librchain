@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-07-26T18:10:14.331Z",
+  "updatedAt": "2026-07-26T20:16:23.874Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "summary": "The Senate leaves town in two weeks. Here's what needs to happen for Clarity to advance before then.",
+      "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "publishedAt": "2026-07-26T18:30:00.000Z",
+      "keywords": [
+        "Policy",
+        "State of Crypto",
+        "Newsletters",
+        "Election 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260726-2-weeks-left-for-clarity-state-of-crypto",
+      "localUrl": "/news/20260726-2-weeks-left-for-clarity-state-of-crypto.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
@@ -80,19 +97,6 @@
       "category": "X热点",
       "slug": "20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
       "localUrl": "/news/20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T12:04:52.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260726-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260726-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Cointelegraph",
@@ -315,6 +319,17 @@
     },
     {
       "source": "X Wire",
+      "title": "It’s time for Congress to hear from America’s crypto voters. Tell the Senate why the Clarity Act matters to you and urge a floor vote before the August recess. Write your letter at ClarityForAmerica.com 🇺🇸 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xVDFmNGdVQnFoNUJ6M1FsLWQ1dkJVQWNwTlEtT3FzRVJwVXRiQ2Fua0wyeTItd3o3MXp0ZnQ3QURFcHBkRFhlZGlXNm5RVVYtSW5naHR6dHNxZFJGZ0VOVV9IVnhvQQ?oc=5\" target=\"_blank\">It’s time for Congress to he…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xVDFmNGdVQnFoNUJ6M1FsLWQ1dkJVQWNwTlEtT3FzRVJwVXRiQ2Fua0wyeTItd3o3MXp0ZnQ3QURFcHBkRFhlZGlXNm5RVVYtSW5naHR6dHNxZFJGZ0VOVV9IVnhvQQ?oc=5",
+      "publishedAt": "2026-07-25T17:52:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-its-time-for-congress-to-hear-from-americas-crypto-voters-tell-the-senate-why-th",
+      "localUrl": "/news/20260725-its-time-for-congress-to-hear-from-americas-crypto-voters-tell-the-senate-why-th.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Last 10 Years NVIDIA $NVDA: +15,334% Bitcoin $BTC: +9,632% $AMD: +8,838% Tesla $TSLA: +2,013% Apple $AAPL: +1,385% Google $GOOGL: +750% Netflix $NFLX: +716% Microsoft $MSFT: +663% Amazon $AMZN: +525% Meta: $META: +396% S&P - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5\" target=\"_blank\">Last 10 Years NVIDIA $NVDA: …",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5",
@@ -485,17 +500,6 @@
       "localUrl": "/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html"
     },
     {
-      "source": "X Wire",
-      "title": "$64,083.76 #Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWnhHb1VKMDZUZGlGVjZfQXRXZFp5LTBSUE1nTFRjU2dWaEpBaG91Um9rdkwwT0NEODBpR3BiOGZpbjBGRy1aMmZ2Z2N4SE9Cb25TMGtMcFYxeU5o?oc=5\" target=\"_blank\">$64,083.76 #Bitcoin</a> <font color=\"#6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWnhHb1VKMDZUZGlGVjZfQXRXZFp5LTBSUE1nTFRjU2dWaEpBaG91Um9rdkwwT0NEODBpR3BiOGZpbjBGRy1aMmZ2Z2N4SE9Cb25TMGtMcFYxeU5o?oc=5",
-      "publishedAt": "2026-07-25T00:43:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-6408376-bitcoin-xcom",
-      "localUrl": "/news/20260725-6408376-bitcoin-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
       "summary": "For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
@@ -546,6 +550,17 @@
       "category": "监管",
       "slug": "20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading",
       "localUrl": "/news/20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The Clarity Act finally answers a question crypto has asked since Howey: when does a digital asset stop being a security? By defining \"ancillary assets,\" we're giving builders a clear path forward instead of years of regulatory guesswork that's driven innovation - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcU9wVFB2b3FlbGdnODBlc3BZRk1KQnA3a2NxY1M2ak5hYkt2Vk1ZWWxtNW5IQUt1VWJKMzJVM1pza3ZBS2hfSmE2Y1B6ZE9mNjBqSFItbUVjU1lfSUlR?oc=5\" target=\"_blank\">The Clarity Act finally answers a ques…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcU9wVFB2b3FlbGdnODBlc3BZRk1KQnA3a2NxY1M2ak5hYkt2Vk1ZWWxtNW5IQUt1VWJKMzJVM1pza3ZBS2hfSmE2Y1B6ZE9mNjBqSFItbUVjU1lfSUlR?oc=5",
+      "publishedAt": "2026-07-24T19:33:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-the-clarity-act-finally-answers-a-question-crypto-has-asked-since-howey-when-doe",
+      "localUrl": "/news/20260724-the-clarity-act-finally-answers-a-question-crypto-has-asked-since-howey-when-doe.html"
     },
     {
       "source": "Decrypt",
@@ -718,6 +733,19 @@
       "localUrl": "/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "World Foundation raises $52.5M in Pantera-led funding to expand World ID infrastructure",
+      "summary": "The organization sold locked WLD tokens to strategic investors as it seeks to grow its biometric identity network amid rising demand for human verification online.",
+      "url": "https://cointelegraph.com/news/world-foundation-funding-led-by-pantera-world-id-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-24T15:09:33.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260724-world-foundation-raises-525m-in-pantera-led-funding-to-expand-world-id-infrastru",
+      "localUrl": "/news/20260724-world-foundation-raises-525m-in-pantera-led-funding-to-expand-world-id-infrastru.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
       "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
@@ -830,17 +858,6 @@
       "category": "X热点",
       "slug": "20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di",
       "localUrl": "/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨🗞️NEW: Crypto Groups Push for Clarity as 60 Votes Remain Elusive @DigitalChamber, @crypto_council and @BlockchainAssn are urging Senate leaders to bring the Clarity Act to the floor, even as the bill currently lacks the support to advance. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOQzZfU1QxaE14dW5VcVBaNHR1VmZ5YnJTM1oxYUU1OEZRaTNPcUdVLTJOc3NVeW9XSW9makhSVGt4OXNpRC1YWFRWWXBtajkweUpIYllyZTVvcjczYldyTW96ZldXUQ?oc=5\" target=\"_blank\">🚨🗞️NEW: Crypto Groups Push…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOQzZfU1QxaE14dW5VcVBaNHR1VmZ5YnJTM1oxYUU1OEZRaTNPcUdVLTJOc3NVeW9XSW9makhSVGt4OXNpRC1YWFRWWXBtajkweUpIYllyZTVvcjczYldyTW96ZldXUQ?oc=5",
-      "publishedAt": "2026-07-24T13:03:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-new-crypto-groups-push-for-clarity-as-60-votes-remain-elusive-digitalchamber-cry",
-      "localUrl": "/news/20260724-new-crypto-groups-push-for-clarity-as-60-votes-remain-elusive-digitalchamber-cry.html"
     },
     {
       "source": "CoinDesk",
@@ -978,22 +995,6 @@
       "category": "市场",
       "slug": "20260724-poolin-was-bitcoins-biggest-mining-pool-and-now-its-filing-for-bankruptcy",
       "localUrl": "/news/20260724-poolin-was-bitcoins-biggest-mining-pool-and-now-its-filing-for-bankruptcy.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin treasury companies sell up, repay debt, pivot to AI as share prices collapse",
-      "summary": "Falling share prices, debt obligations and difficult market conditions are forcing former bitcoin accumulators to sell their holdings and restructure operations.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
-      "publishedAt": "2026-07-24T10:53:52.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260724-bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collap",
-      "localUrl": "/news/20260724-bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collap.html"
     },
     {
       "source": "Decrypt",

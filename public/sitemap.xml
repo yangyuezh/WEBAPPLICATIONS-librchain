@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-26T18:10:14.371Z</lastmod>
+    <lastmod>2026-07-26T20:16:23.914Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-26T18:10:14.371Z</lastmod>
+    <lastmod>2026-07-26T20:16:23.914Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260726-2-weeks-left-for-clarity-state-of-crypto.html</loc>
+    <lastmod>2026-07-26T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica.html</loc>
@@ -45,12 +51,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html</loc>
     <lastmod>2026-07-26T12:48:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260726-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-07-26T12:04:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -163,6 +163,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260725-its-time-for-congress-to-hear-from-americas-crypto-voters-tell-the-senate-why-th.html</loc>
+    <lastmod>2026-07-25T17:52:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-.html</loc>
     <lastmod>2026-07-25T17:10:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -241,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260725-6408376-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-25T00:43:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything.html</loc>
     <lastmod>2026-07-24T22:03:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,6 +267,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading.html</loc>
     <lastmod>2026-07-24T20:05:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260724-the-clarity-act-finally-answers-a-question-crypto-has-asked-since-howey-when-doe.html</loc>
+    <lastmod>2026-07-24T19:33:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,6 +355,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260724-world-foundation-raises-525m-in-pantera-led-funding-to-expand-world-id-infrastru.html</loc>
+    <lastmod>2026-07-24T15:09:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260724-senate-dems-should-accept-the-victory-they-won-on-trumps-crypto-limits-white-hou.html</loc>
     <lastmod>2026-07-24T15:01:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html</loc>
     <lastmod>2026-07-24T13:04:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-new-crypto-groups-push-for-clarity-as-60-votes-remain-elusive-digitalchamber-cry.html</loc>
-    <lastmod>2026-07-24T13:03:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-poolin-was-bitcoins-biggest-mining-pool-and-now-its-filing-for-bankruptcy.html</loc>
     <lastmod>2026-07-24T11:09:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collap.html</loc>
-    <lastmod>2026-07-24T10:53:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
