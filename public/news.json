@@ -1,13 +1,68 @@
 {
-  "updatedAt": "2026-07-26T12:13:19.903Z",
+  "updatedAt": "2026-07-26T14:42:55.582Z",
   "total": 84,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
+      "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
+      "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
+      "publishedAt": "2026-07-26T14:01:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260726-mira-muratis-inkling-ai-model-review-best-open-source-model-in-the-west",
+      "localUrl": "/news/20260726-mira-muratis-inkling-ai-model-review-best-open-source-model-in-the-west.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
+      "summary": "Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
+      "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-26T13:06:00.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260726-bitcoin-og-selling-eases-as-dormant-btc-movement-hits-4-year-low-galaxy",
+      "localUrl": "/news/20260726-bitcoin-og-selling-eases-as-dormant-btc-movement-hits-4-year-low-galaxy.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "summary": "The Commodity Futures Trading Commission again issued an advisory that signals firms have been straying into cookie-cutter self-certification.",
+      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+      "publishedAt": "2026-07-26T13:00:00.000Z",
+      "keywords": [
+        "Policy",
+        "Prediction Markets",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260726-us-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+      "localUrl": "/news/20260726-us-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-26T12:04:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260726-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260726-heres-what-happened-in-crypto-today.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
-      "summary": "South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+      "summary": "KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
       "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T10:21:25.000Z",
+      "publishedAt": "2026-07-26T10:23:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -50,7 +105,7 @@
       "title": "BitMart to wind down exchange, end trading by Aug. 26",
       "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
       "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T07:11:27.000Z",
+      "publishedAt": "2026-07-26T07:13:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -84,11 +139,22 @@
       "localUrl": "/news/20260726-solana-bros-are-back-w-ansem-ethereum-bros-are-back-w-fwa-before-we-know-it-majo.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨ALERT: Centralized crypto exchange BitMart announces it will shut down, following BitMEX. New registrations, deposits and trading orders were suspended on July 26, with all trading set to end on August 26. BitMart’s BMX token plunged roughly 63% in 24 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUTFwNmM4VzIyTV9EWS0xYnlURmVXSEoyeDhZaDlMMDNVWE02Wi1SbEstNEhYZndDM2dUS3pSZTFsWDZ2c3hwTkUxZy1PdVlHQzlpLUwxMm1zdlRLMkloWQ?oc=5\" target=\"_blank\">🚨ALERT: Centralized crypto exchange…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUTFwNmM4VzIyTV9EWS0xYnlURmVXSEoyeDhZaDlMMDNVWE02Wi1SbEstNEhYZndDM2dUS3pSZTFsWDZ2c3hwTkUxZy1PdVlHQzlpLUwxMm1zdlRLMkloWQ?oc=5",
+      "publishedAt": "2026-07-26T02:30:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-",
+      "localUrl": "/news/20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
-      "summary": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
+      "summary": "Binance regularly tests its employees for security hygiene, as social engineering is becoming a major source of industry breaches.",
       "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T02:00:00.000Z",
+      "publishedAt": "2026-07-26T02:01:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -108,11 +174,22 @@
       "localUrl": "/news/20260725-billionaire-coinbase-ceo-brian-armstrong-is-right-this-minute-doing-everything-h.html"
     },
     {
+      "source": "X Wire",
+      "title": "Vibe right now — So much exciting substance happening in crypto. Yet, broadly people are uninterested, skeptical. I think this is a great vibe. Crypto was born an underdog, outsider. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZnNpcm9kZ21oYWJPQVNyelAwYWFaSUJPNlg2S0huX3RHSi1OOVMyWDBpM19uNlZjZFNWcjdUT2hES2ppNm4tbm5iRHcxVGFyN3VZVjNrQ01pc2ZmNWc?oc=5\" target=\"_blank\">Vibe right now — So much exciting subst…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZnNpcm9kZ21oYWJPQVNyelAwYWFaSUJPNlg2S0huX3RHSi1OOVMyWDBpM19uNlZjZFNWcjdUT2hES2ppNm4tbm5iRHcxVGFyN3VZVjNrQ01pc2ZmNWc?oc=5",
+      "publishedAt": "2026-07-25T21:44:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people",
+      "localUrl": "/news/20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
       "summary": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
       "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T21:01:44.000Z",
+      "publishedAt": "2026-07-25T21:05:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -136,7 +213,7 @@
       "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
       "summary": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
       "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T18:15:44.000Z",
+      "publishedAt": "2026-07-25T18:19:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -183,16 +260,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Wise to resubmit US charter application under GENIUS Act",
+      "title": "Wise to resubmit US bank charter application under GENIUS Act",
       "summary": "The OCC denied the UK company’s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
       "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T16:05:31.000Z",
+      "publishedAt": "2026-07-25T16:10:00.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260725-wise-to-resubmit-us-charter-application-under-genius-act",
-      "localUrl": "/news/20260725-wise-to-resubmit-us-charter-application-under-genius-act.html"
+      "slug": "20260725-wise-to-resubmit-us-bank-charter-application-under-genius-act",
+      "localUrl": "/news/20260725-wise-to-resubmit-us-bank-charter-application-under-genius-act.html"
     },
     {
       "source": "CoinDesk",
@@ -221,6 +298,17 @@
       "localUrl": "/news/20260725-latest-tokenized-rwas-just-became-hyperliquids-biggest-market-surpassing-all-cry.html"
     },
     {
+      "source": "X Wire",
+      "title": "Crypto exchanges, DeFi platforms, and crypto ATMs won't hide from the law anymore. The Clarity Act closes the DINO loophole and brings every corner of the digital asset market inside the Bank Secrecy Act and sanctions framework. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5\" target=\"_blank\">Crypto exchanges, DeFi platforms, and …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5",
+      "publishedAt": "2026-07-25T14:34:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t",
+      "localUrl": "/news/20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t.html"
+    },
+    {
       "source": "Decrypt",
       "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
       "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
@@ -234,22 +322,11 @@
       "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇺🇸 BLOOMBERG: Trump's crypto ventures are complicating negotiations over the CLARITY Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcVBhZm10azg2cmxMU1VvdF9HREFTY1lZUXpuUkxJRm5PS1VKYUNkUWxSX0F5QTV4TnY2S1ZyNXpUWDRFQnlDdWo0eWFOaWRtaUduQTdpSVVSYjRjejJYdVhGNUo?oc=5\" target=\"_blank\">🇺🇸 BLOOMBERG: Trump's crypto …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcVBhZm10azg2cmxMU1VvdF9HREFTY1lZUXpuUkxJRm5PS1VKYUNkUWxSX0F5QTV4TnY2S1ZyNXpUWDRFQnlDdWo0eWFOaWRtaUduQTdpSVVSYjRjejJYdVhGNUo?oc=5",
-      "publishedAt": "2026-07-25T13:30:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-bloomberg-trumps-crypto-ventures-are-complicating-negotiations-over-the-clarity-",
-      "localUrl": "/news/20260725-bloomberg-trumps-crypto-ventures-are-complicating-negotiations-over-the-clarity-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-      "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+      "summary": "South Korean Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
       "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T13:14:18.000Z",
+      "publishedAt": "2026-07-25T13:16:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -274,23 +351,10 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T12:06:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260725-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260725-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Fidelity joins push for Senate passage of CLARITY Act",
       "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
       "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T11:30:15.000Z",
+      "publishedAt": "2026-07-25T11:32:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -310,22 +374,11 @@
       "localUrl": "/news/20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac.html"
     },
     {
-      "source": "X Wire",
-      "title": "Ethereum Treasury companies are holding well. I want to see a pump here, which would lead to more $ETH buying. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE82ZS0ybnpXaGlrbllqQjY2MUVPZ2NOdzZvZGUyTktLSXJ6VExTOXZZVkl3YkZvZkZBVWJfR0hUaXVDbE5hLTc1SkpBcmVNTzFSTTZQWlhMc1pMeldOMUxPOQ?oc=5\" target=\"_blank\">Ethereum Treasury companies are hold…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82ZS0ybnpXaGlrbllqQjY2MUVPZ2NOdzZvZGUyTktLSXJ6VExTOXZZVkl3YkZvZkZBVWJfR0hUaXVDbE5hLTc1SkpBcmVNTzFSTTZQWlhMc1pMeldOMUxPOQ?oc=5",
-      "publishedAt": "2026-07-25T10:45:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-ethereum-treasury-companies-are-holding-well-i-want-to-see-a-pump-here-which-wou",
-      "localUrl": "/news/20260725-ethereum-treasury-companies-are-holding-well-i-want-to-see-a-pump-here-which-wou.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Dango’s perp DEX taps out nearly 4 months after launch",
       "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
       "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T10:01:26.000Z",
+      "publishedAt": "2026-07-25T10:05:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -353,7 +406,7 @@
       "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
       "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
       "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T07:40:35.000Z",
+      "publishedAt": "2026-07-25T07:43:00.000Z",
       "keywords": [
         "Markets"
       ],
@@ -709,19 +762,6 @@
       "localUrl": "/news/20260724-eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "summary": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.",
-      "url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "市场",
-      "slug": "20260724-a-quantum-roadmap-would-push-bitcoin-much-higher-charles-edwards",
-      "localUrl": "/news/20260724-a-quantum-roadmap-would-push-bitcoin-much-higher-charles-edwards.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 The Digital Chamber, CCI, and Blockchain Association send letter to Senate Leaders urging them to pass the Clarity Act: \"For the United States to maintain its position as the global leader of financial innovation, there is no substitute for the long-ter - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paEY1YzNnUHJyY2dQVDBBXzFBM0dzb0JYXzJRVUtEbXY4UjlhSTVBNUFKLUFYNnFKM0FjT2F2MTh3YnZCeU52TUsxZnRlVDBXekkzaWVjcGpPVzItT0hmNGc3SFBlR0U?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The Digital C…",
@@ -923,20 +963,6 @@
       "localUrl": "/news/20260724-bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collap.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "India orders takedown of Jack Dorsey’s bitcoin-linked messaging app Bitchat",
-      "summary": "The order targets Bitchat, an offline Bluetooth mesh app built to relay encrypted messages and bitcoin transactions, as 'Cockroach Janta Party' protesters in Delhi use mesh tools to communicate through internet shutdowns.",
-      "url": "https://www.coindesk.com/tech/2026/07/24/india-orders-takedown-of-jack-dorsey-s-bitcoin-linked-messaging-app-bitchat",
-      "publishedAt": "2026-07-24T10:10:42.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-india-orders-takedown-of-jack-dorseys-bitcoin-linked-messaging-app-bitchat",
-      "localUrl": "/news/20260724-india-orders-takedown-of-jack-dorseys-bitcoin-linked-messaging-app-bitchat.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
       "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
@@ -949,6 +975,28 @@
       "category": "监管",
       "slug": "20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources",
       "localUrl": "/news/20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Former No. 1 Bitcoin Mining Pool Poolin Files for Chapter 11 Poolin and two U.S. affiliates have filed for Chapter 11 bankruptcy protection in New Jersey and plan to sell two West Texas mining sites with a combined opening bid of USD 52 million. Court filings - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5\" target=\"_blank\">Former No. 1 Bitcoin Mining Pool…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5",
+      "publishedAt": "2026-07-24T06:38:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af",
+      "localUrl": "/news/20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$64,767.55 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OWjhBMkRRbV9jekkyVzV3al9oMU82OGUxbEdmZUg5bHIyWWNRZ2JQRE52cS1JY2VqVmVSZG13b0x2TzVjSUN3X0FYRVhNRXNTakx5YXdBMkJmZjNW?oc=5\" target=\"_blank\">$64,767.55 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OWjhBMkRRbV9jekkyVzV3al9oMU82OGUxbEdmZUg5bHIyWWNRZ2JQRE52cS1JY2VqVmVSZG13b0x2TzVjSUN3X0FYRVhNRXNTakx5YXdBMkJmZjNW?oc=5",
+      "publishedAt": "2026-07-24T00:45:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-6476755-bitcoin-xcom",
+      "localUrl": "/news/20260724-6476755-bitcoin-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -1016,19 +1064,6 @@
       "localUrl": "/news/20260723-bitcoin-may-have-already-bottomedif-the-fed-helps-says-grayscale.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
-      "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
-      "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
-      "publishedAt": "2026-07-23T17:31:17.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working",
-      "localUrl": "/news/20260723-brazilian-farmers-are-tokenizing-cows-to-get-farm-loansand-its-working.html"
-    },
-    {
       "source": "X Wire",
       "title": "Binance is the first crypto exchange to partner with @STOPTHETRAFFIK to help disrupt crypto flows linked to human trafficking and child exploitation. This partnership reflects our commitment to helping protect the broader ecosystem, strengthen trust across th - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lNHZJZkV3ZGpyWXNxdFBHNGpCQm0tMElvQTZ6WE1SLWJjUHZTVFVFb09IRUhIaS1EMmIyQk1IczU0N2ZlcG1SVkt4d0RuRTBfNXJJOFc0Y1o3S3kz?oc=5\" target=\"_blank\">Binance is the first crypto exchange to pa…",
@@ -1038,17 +1073,6 @@
       "category": "X热点",
       "slug": "20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr",
       "localUrl": "/news/20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: @Lombard_Finance adopts Chainlink to unlock cross-chain distribution for its Bitcoin Onchain Credit Strategy with @FlowTraders (Euronext: FLOW). Chainlink now powers secure cross-chain deposits of BTC.b and LBTC into the Strategy, expanding ac - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE96T1lnbHJzYW1YY2RkWG1PSWhpVVlVMU01QjdyX0JYVHQ5MlN4YzhzZEpoV1ZoU0pJZl9makU2OWl6Qk85WGdTU2NXXzJ6RkdfQl80MnhOTlpEbUctZ3dZ?oc=5\" target=\"_blank\">NEW: @Lombard_Finance adopts Chainlink…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96T1lnbHJzYW1YY2RkWG1PSWhpVVlVMU01QjdyX0JYVHQ5MlN4YzhzZEpoV1ZoU0pJZl9makU2OWl6Qk85WGdTU2NXXzJ6RkdfQl80MnhOTlpEbUctZ3dZ?oc=5",
-      "publishedAt": "2026-07-23T13:25:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-new-lombard_finance-adopts-chainlink-to-unlock-cross-chain-distribution-for-its-",
-      "localUrl": "/news/20260723-new-lombard_finance-adopts-chainlink-to-unlock-cross-chain-distribution-for-its-.html"
     },
     {
       "source": "Solana Blog",
@@ -1071,28 +1095,6 @@
       "category": "基础设施",
       "slug": "20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint",
       "localUrl": "/news/20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor announces Strategy, BlackRock, Fidelity and Coinbase are pledging $15 million to support open source Bitcoin development \"for the decades ahead.\" 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor ann…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5",
-      "publishedAt": "2026-07-23T12:40:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl",
-      "localUrl": "/news/20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "We’re proud to announce the launch of the Bitcoin Security Consortium, in partnership with BlackRock, Fidelity, Block, and more. Together we’ll support the long-term security of the Bitcoin network. Quantum computing is coming. Crypto needs to be ready. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ULXNTOWZfYWtwMjR3STgzR3d5NlF1RHZUZGJaLXVlU3JoMVFxUDN5Nk9JMVNpWDFUdF9ONzRhaGdHQUZaR2YtR3VLMmlSRU9tVEI1UGF0el9lU1dkVUE?oc=5\" target=\"_blank\">We’re proud to announce the launch of t…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ULXNTOWZfYWtwMjR3STgzR3d5NlF1RHZUZGJaLXVlU3JoMVFxUDN5Nk9JMVNpWDFUdF9ONzRhaGdHQUZaR2YtR3VLMmlSRU9tVEI1UGF0el9lU1dkVUE?oc=5",
-      "publishedAt": "2026-07-23T12:25:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-were-proud-to-announce-the-launch-of-the-bitcoin-security-consortium-in-partners",
-      "localUrl": "/news/20260723-were-proud-to-announce-the-launch-of-the-bitcoin-security-consortium-in-partners.html"
     },
     {
       "source": "Chainalysis Blog",
