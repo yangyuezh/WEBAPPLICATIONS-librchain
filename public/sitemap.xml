@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-26T10:09:37.269Z</lastmod>
+    <lastmod>2026-07-26T12:13:19.945Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-26T10:09:37.269Z</lastmod>
+    <lastmod>2026-07-26T12:13:19.945Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260726-south-koreas-largest-bank-to-launch-payment-service-on-jpmorgans-kinexys.html</loc>
+    <lastmod>2026-07-26T10:21:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260726-europes-high-regulatory-bar-could-spark-new-crypto-industry-ma-wave.html</loc>
@@ -151,6 +157,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260725-ethereum-treasury-companies-are-holding-well-i-want-to-see-a-pump-here-which-wou.html</loc>
+    <lastmod>2026-07-25T10:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260725-dangos-perp-dex-taps-out-nearly-4-months-after-launch.html</loc>
     <lastmod>2026-07-25T10:01:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -165,6 +177,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html</loc>
     <lastmod>2026-07-25T07:40:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-samsung-just-announced-they-will-officially-launch-a-crypto-wallet-to-all-their-.html</loc>
+    <lastmod>2026-07-25T02:33:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-thailand-sec-files-complaint-against-bitkub-over-alleged-false-disclosures.html</loc>
-    <lastmod>2026-07-24T12:46:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-morning-minute-bitcoins-new-15m-quantum-defense-fund.html</loc>
     <lastmod>2026-07-24T12:29:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,6 +475,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260723-binance-is-the-first-crypto-exchange-to-partner-with-stopthetraffik-to-help-disr.html</loc>
+    <lastmod>2026-07-23T16:00:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260723-new-lombard_finance-adopts-chainlink-to-unlock-cross-chain-distribution-for-its-.html</loc>
     <lastmod>2026-07-23T13:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,24 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-were-proud-to-announce-the-launch-of-the-bitcoin-security-consortium-in-partners.html</loc>
     <lastmod>2026-07-23T12:25:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-bitcoins-security-is-a-shared-responsibility-today-we-are-launching-the-bitcoin-.html</loc>
-    <lastmod>2026-07-23T12:04:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-today-were-announcing-the-bitcoin-security-consortium-btcconsortium-a-group-of-l.html</loc>
-    <lastmod>2026-07-23T12:02:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-goldman-sachs-ceo-its-time-to-advance-the-crypto-bill-xcom.html</loc>
-    <lastmod>2026-07-23T11:57:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
