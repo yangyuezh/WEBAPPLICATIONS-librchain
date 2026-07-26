@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-07-26T00:09:56.184Z",
+  "updatedAt": "2026-07-26T04:37:14.232Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "summary": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
+      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-26T02:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260726-binance-red-teams-its-own-staff-every-month-to-keep-hackers-out",
+      "localUrl": "/news/20260726-binance-red-teams-its-own-staff-every-month-to-keep-hackers-out.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
@@ -49,6 +62,17 @@
       "category": "X热点",
       "slug": "20260725-revived-memecoins-defi-nfts-bottomed-bitcoin-all-at-the-same-time-xcom",
       "localUrl": "/news/20260725-revived-memecoins-defi-nfts-bottomed-bitcoin-all-at-the-same-time-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Last 10 Years NVIDIA $NVDA: +15,334% Bitcoin $BTC: +9,632% $AMD: +8,838% Tesla $TSLA: +2,013% Apple $AAPL: +1,385% Google $GOOGL: +750% Netflix $NFLX: +716% Microsoft $MSFT: +663% Amazon $AMZN: +525% Meta: $META: +396% S&P - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5\" target=\"_blank\">Last 10 Years NVIDIA $NVDA: …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5",
+      "publishedAt": "2026-07-25T17:10:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-",
+      "localUrl": "/news/20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-.html"
     },
     {
       "source": "CoinDesk",
@@ -170,6 +194,17 @@
       "category": "市场",
       "slug": "20260725-fidelity-joins-push-for-senate-passage-of-clarity-act",
       "localUrl": "/news/20260725-fidelity-joins-push-for-senate-passage-of-clarity-act.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "\"They're going to be perpetually living by charity.\" @IOHK_Charles says Ethereum's lack of an on-chain treasury leaves its long-term development model structurally weak, contrasting it with Cardano's treasury, which peaked at $4.5 billion. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmUUljSGlDR21jVXpaYldoZlBQUmpITnFTNHk3OXd1aXBHRWwybVB5Z0xaM1lWbjRXUXRHRHVJTmFqVU54bmdmZW9HN1VfTDJQZUxxdmQ2bW1MWjlwcEE?oc=5\" target=\"_blank\">\"They're going to be perpetually living…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmUUljSGlDR21jVXpaYldoZlBQUmpITnFTNHk3OXd1aXBHRWwybVB5Z0xaM1lWbjRXUXRHRHVJTmFqVU54bmdmZW9HN1VfTDJQZUxxdmQ2bW1MWjlwcEE?oc=5",
+      "publishedAt": "2026-07-25T11:21:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac",
+      "localUrl": "/news/20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac.html"
     },
     {
       "source": "Cointelegraph",
@@ -734,19 +769,6 @@
       "localUrl": "/news/20260724-crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "RWAs become Hyperliquid’s largest trading category",
-      "summary": "Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.",
-      "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T11:42:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260724-rwas-become-hyperliquids-largest-trading-category",
-      "localUrl": "/news/20260724-rwas-become-hyperliquids-largest-trading-category.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto's institutional influx has killed the memecoin craze",
       "summary": "Your day-ahead look for July 24, 2026",
@@ -883,17 +905,6 @@
       "category": "基础设施",
       "slug": "20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat",
       "localUrl": "/news/20260724-live-updates-bitcoin-gives-up-gains-falls-below-64000-as-stocks-retreat.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Former No. 1 Bitcoin Mining Pool Poolin Files for Chapter 11 Poolin and two U.S. affiliates have filed for Chapter 11 bankruptcy protection in New Jersey and plan to sell two West Texas mining sites with a combined opening bid of USD 52 million. Court filings - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5\" target=\"_blank\">Former No. 1 Bitcoin Mining Pool…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByNW1SeWNWLVhQVUo3aDhyQnd3VEZudnhsV0RZSjJVN0xvZW9INDRLRDZhSjBHbWUtVHNWeFNfRzNfNkRLODg0cmV3VGR3d3JPUWIxVXEyOTFQaC1VVFBpVy0wcw?oc=5",
-      "publishedAt": "2026-07-24T06:38:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af",
-      "localUrl": "/news/20260724-former-no-1-bitcoin-mining-pool-poolin-files-for-chapter-11-poolin-and-two-us-af.html"
     },
     {
       "source": "CoinDesk",
@@ -1043,17 +1054,6 @@
       "category": "基础设施",
       "slug": "20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint",
       "localUrl": "/news/20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor announces Strategy, BlackRock, Fidelity and Coinbase are pledging $15 million to support open source Bitcoin development \"for the decades ahead.\" 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5\" target=\"_blank\">JUST IN: Michael Saylor ann…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yYmpnOUY0YVF2bmF5ZjUteVZEQ09lenBScXMyZnFHN2FDYVdIa3ZhLTVLaVR3VFU2Vm41UUg1THlkQktSSkxiMnh3eXFfV0VDaEc0djFSM3JGRUJETXJDQnhocXNtbFk?oc=5",
-      "publishedAt": "2026-07-23T12:40:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl",
-      "localUrl": "/news/20260723-just-in-michael-saylor-announces-strategy-blackrock-fidelity-and-coinbase-are-pl.html"
     },
     {
       "source": "X Wire",
