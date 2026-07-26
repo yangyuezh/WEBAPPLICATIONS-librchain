@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-25T22:08:57.707Z</lastmod>
+    <lastmod>2026-07-26T00:09:56.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-25T22:08:57.707Z</lastmod>
+    <lastmod>2026-07-26T00:09:56.228Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,8 +19,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260725-ethereum0xf1a7000000950c7ad8aff13118bb7ab561a448ee-is-now-live-on-robinhood-rh-c.html</loc>
+    <lastmod>2026-07-25T18:58:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260725-bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program.html</loc>
     <lastmod>2026-07-25T18:15:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-revived-memecoins-defi-nfts-bottomed-bitcoin-all-at-the-same-time-xcom.html</loc>
+    <lastmod>2026-07-25T18:00:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -39,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260725-north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-countrys-ban.html</loc>
     <lastmod>2026-07-25T15:46:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260725-the-top-blockchains-powering-crypto-games-right-now-immutable-5915-avax-3623-0xp.html</loc>
+    <lastmod>2026-07-25T15:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -81,12 +99,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi.html</loc>
     <lastmod>2026-07-25T10:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260725-new-explore-experience-on-backpack-wallet-discover-whats-trending-across-crypto-.html</loc>
-    <lastmod>2026-07-25T09:41:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-6476755-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-24T00:45:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands.html</loc>
     <lastmod>2026-07-23T22:02:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,12 +435,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token.html</loc>
     <lastmod>2026-07-23T19:27:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260723-list-of-dats-who-have-abandoned-bitcoin-and-crypto-accumulation-strategies-since.html</loc>
-    <lastmod>2026-07-23T19:12:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
