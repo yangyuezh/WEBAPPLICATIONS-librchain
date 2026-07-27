@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-27T00:09:37.743Z</lastmod>
+    <lastmod>2026-07-27T04:49:03.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-27T00:09:37.743Z</lastmod>
+    <lastmod>2026-07-27T04:49:03.015Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-bitmart-withdrawals-appear-to-slow-following-wind-down-announcement.html</loc>
+    <lastmod>2026-07-27T04:34:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-bitcoin-is-back-above-65000-as-us-and-iran-hold-fire-oil-drops-5.html</loc>
+    <lastmod>2026-07-27T04:21:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-garden-finance-disables-app-as-blockaid-reports-450000-exploit.html</loc>
+    <lastmod>2026-07-27T01:58:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-storj-files-for-bankruptcy-explores-equity-path-for-tokenholders.html</loc>
+    <lastmod>2026-07-27T01:01:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26.html</loc>
@@ -31,8 +55,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html</loc>
+    <lastmod>2026-07-26T22:17:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260726-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-07-26T21:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260726-big-south-koreas-largest-bank-is-launching-jpmorgans-kinexys-blockchain-for-near.html</loc>
+    <lastmod>2026-07-26T20:30:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -45,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica.html</loc>
     <lastmod>2026-07-26T17:45:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260726-new-cbdt-issues-new-crypto-tax-reporting-guidelines-for-exchanges-key-points-no-.html</loc>
+    <lastmod>2026-07-26T17:01:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -67,8 +109,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260726-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-solchicksnft-80.html</loc>
-    <lastmod>2026-07-26T13:11:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260726-cz-says-acquiring-smaller-crypto-exchanges-carries-hidden-security-risks-after-b.html</loc>
+    <lastmod>2026-07-26T13:31:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -127,12 +169,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260726-solana-bros-are-back-w-ansem-ethereum-bros-are-back-w-fwa-before-we-know-it-majo.html</loc>
-    <lastmod>2026-07-26T04:43:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260726-ethereum-is-positioned-to-the-be-most-widely-used-settlement-layer-for-finance-a.html</loc>
     <lastmod>2026-07-26T03:00:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -141,6 +177,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-.html</loc>
     <lastmod>2026-07-26T02:30:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260726-breaking-another-centralized-crypto-exchange-bitmart-has-announced-its-closure-f.html</loc>
+    <lastmod>2026-07-26T02:13:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -165,12 +207,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html</loc>
     <lastmod>2026-07-25T21:05:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260725-still-believe-we-are-just-seeing-a-deviation-below-these-range-lows-atm-and-ulti.html</loc>
-    <lastmod>2026-07-25T20:45:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,18 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-strives-sata-recovers-most-of-june-decline-trades-within-3-of-par.html</loc>
-    <lastmod>2026-07-24T21:02:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading.html</loc>
-    <lastmod>2026-07-24T20:05:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-the-clarity-act-finally-answers-a-question-crypto-has-asked-since-howey-when-doe.html</loc>
     <lastmod>2026-07-24T19:33:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x.html</loc>
     <lastmod>2026-07-24T17:00:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-crypto-advocacy-groups-support-clarity-passage-as-ethics-rules-face-pushback.html</loc>
-    <lastmod>2026-07-24T16:55:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,20 +415,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-just-in-the-digital-chamber-cci-and-blockchain-association-send-letter-to-senate.html</loc>
-    <lastmod>2026-07-24T13:25:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-saylor-and-team-overhaul-strategys-bitcoin-metrics-as-bear-market-persists.html</loc>
     <lastmod>2026-07-24T13:15:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html</loc>
-    <lastmod>2026-07-24T13:04:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-a-5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story.html</loc>
     <lastmod>2026-07-24T11:34:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-bitcoin-settles-near-65000-as-oils-march-toward-100-fails-to-spook-the-market.html</loc>
-    <lastmod>2026-07-24T11:19:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

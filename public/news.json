@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-07-27T00:09:37.700Z",
+  "updatedAt": "2026-07-27T04:49:02.980Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BitMart withdrawals appear to slow following wind-down announcement",
+      "summary": "Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
+      "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T04:34:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-bitmart-withdrawals-appear-to-slow-following-wind-down-announcement",
+      "localUrl": "/news/20260727-bitmart-withdrawals-appear-to-slow-following-wind-down-announcement.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is back above $65,000 as U.S. and Iran hold fire. Oil drops 5%",
+      "summary": "ETH outperforms BTC, hinting at potential altcoin rally, as the U.S. and Iran hold fire and oil drops.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-is-back-above-usd65-000-as-u-s-iran-hold-fire-oil-drops-5",
+      "publishedAt": "2026-07-27T04:21:26.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-bitcoin-is-back-above-65000-as-us-and-iran-hold-fire-oil-drops-5",
+      "localUrl": "/news/20260727-bitcoin-is-back-above-65000-as-us-and-iran-hold-fire-oil-drops-5.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Garden Finance disables app as Blockaid reports $450,000 exploit",
+      "summary": "Garden Finance said no user funds or smart contracts were affected after an attacker compromised an independent solver’s off-chain database and inserted fraudulent swap records.",
+      "url": "https://cointelegraph.com/news/garden-finance-app-offline-450k-htlc-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T01:58:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260727-garden-finance-disables-app-as-blockaid-reports-450000-exploit",
+      "localUrl": "/news/20260727-garden-finance-disables-app-as-blockaid-reports-450000-exploit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Storj files for bankruptcy, explores equity path for tokenholders",
+      "summary": "The decentralized storage provider says its network will continue operating during Chapter 11 as it explores a court-approved ownership mechanism for STORJ holders.",
+      "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T01:01:43.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-storj-files-for-bankruptcy-explores-equity-path-for-tokenholders",
+      "localUrl": "/news/20260727-storj-files-for-bankruptcy-explores-equity-path-for-tokenholders.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
@@ -46,6 +100,17 @@
       "localUrl": "/news/20260726-wemix-says-attacker-moved-about-724000-after-contract-breach.html"
     },
     {
+      "source": "X Wire",
+      "title": "\"If you're in crypto, pivot to AI.\" I used to hear versions of this, and it's the wrong way to think about the world. It's zero sum, scarcity thinking. Crypto is a general purpose technology. It's infrastructure, the same way electricity or the internet is infrastructure. It does - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5\" target=\"_blank\">\"If you're in crypto, pivot…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5",
+      "publishedAt": "2026-07-26T22:17:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong",
+      "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -57,6 +122,17 @@
       "category": "监管",
       "slug": "20260726-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260726-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇰🇷 BIG: South Korea’s largest bank is launching JPMorgan’s Kinexys blockchain for near-instant cross-border US dollar payments. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVTM2RVdPZzNvOG1oSmw4elpmLWVaS09qc1VyWVd4NXltX05zUHFScTJreEhkZ21iS3gzb2t6Zk9qejI0RTd6WXBpSXVQNzl0alZaOW5MZklzeDFSWE4yQUZrdE8?oc=5\" target=\"_blank\">🇰🇷 BIG: South Korea’s largest…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVTM2RVdPZzNvOG1oSmw4elpmLWVaS09qc1VyWVd4NXltX05zUHFScTJreEhkZ21iS3gzb2t6Zk9qejI0RTd6WXBpSXVQNzl0alZaOW5MZklzeDFSWE4yQUZrdE8?oc=5",
+      "publishedAt": "2026-07-26T20:30:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-big-south-koreas-largest-bank-is-launching-jpmorgans-kinexys-blockchain-for-near",
+      "localUrl": "/news/20260726-big-south-koreas-largest-bank-is-launching-jpmorgans-kinexys-blockchain-for-near.html"
     },
     {
       "source": "CoinDesk",
@@ -87,6 +163,17 @@
       "category": "监管",
       "slug": "20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica",
       "localUrl": "/news/20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: 🇮🇳 CBDT issues new crypto tax reporting guidelines for exchanges. Key points: • No new crypto tax introduced • Exchanges, not investors, bear the primary reporting burden • First reporting is due in 2027 for 2026 transactions • Part of India's adoption of - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcTNmbUtZV01MeXhUM01DZVdSclhPTGVOOGVjRWZHYnJfVUJZcWtoWnd1MUhSLUcwRERZMmlxSTdYWXNLX3lEY2tIZFA4Z3F5dm01aEpldDlLdXR5T3kzOXpFZw?oc=5\" target=\"_blank\">NEW: 🇮🇳 CBDT issues new crypto…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcTNmbUtZV01MeXhUM01DZVdSclhPTGVOOGVjRWZHYnJfVUJZcWtoWnd1MUhSLUcwRERZMmlxSTdYWXNLX3lEY2tIZFA4Z3F5dm01aEpldDlLdXR5T3kzOXpFZw?oc=5",
+      "publishedAt": "2026-07-26T17:01:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-new-cbdt-issues-new-crypto-tax-reporting-guidelines-for-exchanges-key-points-no-",
+      "localUrl": "/news/20260726-new-cbdt-issues-new-crypto-tax-reporting-guidelines-for-exchanges-key-points-no-.html"
     },
     {
       "source": "Cointelegraph",
@@ -127,14 +214,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚀 Crypto gaming's biggest winners today Biggest 24h P2E Score moves: @SolChicksNFT +800% @theMatrixWorld +730.77% @MUSTCometh +718.18% @AshesOfMankind_ +718.18% @CryptOink_EN +700% @DesperadoB218 +626.67% @influenceth +6 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdVhkdUtMRTB1NUwtQ282V1dXM1VxdVdPYi14bTdLVUk2eHdXZWJ6d21iaFBEVm55YVl5b0p1SFRIakh3WHJ4cWZQdWtoeF9aMk9rbGwwcktfbGRKRFdsVw?oc=5\" target=\"_blank\">🚀 Crypto gaming's biggest winners t…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdVhkdUtMRTB1NUwtQ282V1dXM1VxdVdPYi14bTdLVUk2eHdXZWJ6d21iaFBEVm55YVl5b0p1SFRIakh3WHJ4cWZQdWtoeF9aMk9rbGwwcktfbGRKRFdsVw?oc=5",
-      "publishedAt": "2026-07-26T13:11:02.000Z",
+      "title": "CZ Says Acquiring Smaller Crypto Exchanges Carries Hidden Security Risks After BitMEX and BitMart announced plans to wind down their exchange operations, Binance founder @cz_binance said acquiring smaller centralized exchanges is more complicate - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9keHJKdDRudS1PVWRISzZSTGJoVTFtX3MzWnoxc2YwSzdiYWF3M0hjQUFRWHdGVVZMa1JyN2F1X1djUFdmUUR6bFczTVh6NDJ5bXR4ZVNQX3Frand1c1Q5bnlCcw?oc=5\" target=\"_blank\">CZ Says Acquiring Smaller Crypto…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9keHJKdDRudS1PVWRISzZSTGJoVTFtX3MzWnoxc2YwSzdiYWF3M0hjQUFRWHdGVVZMa1JyN2F1X1djUFdmUUR6bFczTVh6NDJ5bXR4ZVNQX3Frand1c1Q5bnlCcw?oc=5",
+      "publishedAt": "2026-07-26T13:31:37.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260726-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-solchicksnft-80",
-      "localUrl": "/news/20260726-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-solchicksnft-80.html"
+      "slug": "20260726-cz-says-acquiring-smaller-crypto-exchanges-carries-hidden-security-risks-after-b",
+      "localUrl": "/news/20260726-cz-says-acquiring-smaller-crypto-exchanges-carries-hidden-security-risks-after-b.html"
     },
     {
       "source": "Cointelegraph",
@@ -259,17 +346,6 @@
     },
     {
       "source": "X Wire",
-      "title": "solana bros are back w/ $ANSEM ethereum bros are back w/ $FWA before we know it majors will be back at all time highs & it'll be fun to speculate on the coins again long internet culture - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvTkFONW5vQ1drYW80SW1icWZqaVNhdUtCT1FuTGVDNms1RHY0RVJwLUxFRElJWkpkY0VMX1JPMVZ1dE1OQkZGdVpqNVRZZUpZWngybU9HaHFFc0doQVVj?oc=5\" target=\"_blank\">solana bros are back w/ $ANSEM ethereu…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvTkFONW5vQ1drYW80SW1icWZqaVNhdUtCT1FuTGVDNms1RHY0RVJwLUxFRElJWkpkY0VMX1JPMVZ1dE1OQkZGdVpqNVRZZUpZWngybU9HaHFFc0doQVVj?oc=5",
-      "publishedAt": "2026-07-26T04:43:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-solana-bros-are-back-w-ansem-ethereum-bros-are-back-w-fwa-before-we-know-it-majo",
-      "localUrl": "/news/20260726-solana-bros-are-back-w-ansem-ethereum-bros-are-back-w-fwa-before-we-know-it-majo.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Ethereum is positioned to the be most widely used settlement layer for finance and AI agents Great convo with @ethlabs_org and @milkroaddaily And $ETH is money - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQ0o1Tkl6ZkIxMFRRLXlLTUJWcEpUd18tV2VqUnJFN2NxMjhMd2RUVVByWkRUU1dGOER0QU8tMlJOYkJfX0VHSHdndFh2MDNxVE5aUDhwUC1CM3NuNExF?oc=5\" target=\"_blank\">Ethereum is positioned to the be most …",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQ0o1Tkl6ZkIxMFRRLXlLTUJWcEpUd18tV2VqUnJFN2NxMjhMd2RUVVByWkRUU1dGOER0QU8tMlJOYkJfX0VHSHdndFh2MDNxVE5aUDhwUC1CM3NuNExF?oc=5",
@@ -289,6 +365,17 @@
       "category": "X热点",
       "slug": "20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-",
       "localUrl": "/news/20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Breaking: Another centralized crypto exchange, Bitmart, has announced its closure, following BitMEX, In 2021, BitMart attracted retail investors in altcoins, and its 24-hour trading volume once entered the top 10. Fenbushi, Hack VC invested in it in 2021 at 300 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94ellLRGF4NFFCeUtpWFFndVJxMU9lUHBQb1dWWk5QaEFyVTgtSE5RR3hqWl9ENl9LaVZxQmNWenByaVlvcW0tN1FtMXRzZ01ZdWFad3hXbTY5SG0zUTJkaS1HOA?oc=5\" target=\"_blank\">Breaking: Another centralized cr…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94ellLRGF4NFFCeUtpWFFndVJxMU9lUHBQb1dWWk5QaEFyVTgtSE5RR3hqWl9ENl9LaVZxQmNWenByaVlvcW0tN1FtMXRzZ01ZdWFad3hXbTY5SG0zUTJkaS1HOA?oc=5",
+      "publishedAt": "2026-07-26T02:13:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-breaking-another-centralized-crypto-exchange-bitmart-has-announced-its-closure-f",
+      "localUrl": "/news/20260726-breaking-another-centralized-crypto-exchange-bitmart-has-announced-its-closure-f.html"
     },
     {
       "source": "Cointelegraph",
@@ -337,17 +424,6 @@
       "category": "市场",
       "slug": "20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj",
       "localUrl": "/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Still believe we are just seeing a deviation below these range lows atm and ultimately think the next \"larger\" move will be back to the upside/range highs. Just taking a bit longer to form our local bottom/base here but other than that not much has really changed - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVlNCRFpCS21lTjVSRjZGZEpwa3hqUnVXMS1sWHVpZTQzXzlMbXpzSHdaOEhGY2xJMWw3aGF1eFhEXzh4RURCVDRyV1hodkhHbERaZlBGV2E2SlFEbzM5a1kzQWJndw?oc=5\" target=\"_blank\">Still believe we are just se…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GVlNCRFpCS21lTjVSRjZGZEpwa3hqUnVXMS1sWHVpZTQzXzlMbXpzSHdaOEhGY2xJMWw3aGF1eFhEXzh4RURCVDRyV1hodkhHbERaZlBGV2E2SlFEbzM5a1kzQWJndw?oc=5",
-      "publishedAt": "2026-07-25T20:45:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-still-believe-we-are-just-seeing-a-deviation-below-these-range-lows-atm-and-ulti",
-      "localUrl": "/news/20260725-still-believe-we-are-just-seeing-a-deviation-below-these-range-lows-atm-and-ulti.html"
     },
     {
       "source": "X Wire",
@@ -593,32 +669,6 @@
       "localUrl": "/news/20260724-eu-authorities-include-htx-exchange-in-russian-sanctions.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-      "summary": "Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.",
-      "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T21:02:22.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260724-strives-sata-recovers-most-of-june-decline-trades-within-3-of-par",
-      "localUrl": "/news/20260724-strives-sata-recovers-most-of-june-decline-trades-within-3-of-par.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "House passes bill on lawmakers using insider information for stock trading",
-      "summary": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
-      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T20:05:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading",
-      "localUrl": "/news/20260724-house-passes-bill-on-lawmakers-using-insider-information-for-stock-trading.html"
-    },
-    {
       "source": "X Wire",
       "title": "The Clarity Act finally answers a question crypto has asked since Howey: when does a digital asset stop being a security? By defining \"ancillary assets,\" we're giving builders a clear path forward instead of years of regulatory guesswork that's driven innovation - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcU9wVFB2b3FlbGdnODBlc3BZRk1KQnA3a2NxY1M2ak5hYkt2Vk1ZWWxtNW5IQUt1VWJKMzJVM1pza3ZBS2hfSmE2Y1B6ZE9mNjBqSFItbUVjU1lfSUlR?oc=5\" target=\"_blank\">The Clarity Act finally answers a ques…",
@@ -709,19 +759,6 @@
       "category": "X热点",
       "slug": "20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x",
       "localUrl": "/news/20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto advocacy groups support CLARITY passage as ethics rules face pushback",
-      "summary": "The window for US lawmakers to address a comprehensive crypto market structure bill before the 2026 elections is closing, and industry organizations are calling for action.",
-      "url": "https://cointelegraph.com/news/crypto-advocacy-groups-support-clarity-act-pushback-ethics-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T16:55:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260724-crypto-advocacy-groups-support-clarity-passage-as-ethics-rules-face-pushback",
-      "localUrl": "/news/20260724-crypto-advocacy-groups-support-clarity-passage-as-ethics-rules-face-pushback.html"
     },
     {
       "source": "Decrypt",
@@ -840,17 +877,6 @@
       "localUrl": "/news/20260724-eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 The Digital Chamber, CCI, and Blockchain Association send letter to Senate Leaders urging them to pass the Clarity Act: \"For the United States to maintain its position as the global leader of financial innovation, there is no substitute for the long-ter - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paEY1YzNnUHJyY2dQVDBBXzFBM0dzb0JYXzJRVUtEbXY4UjlhSTVBNUFKLUFYNnFKM0FjT2F2MTh3YnZCeU52TUsxZnRlVDBXekkzaWVjcGpPVzItT0hmNGc3SFBlR0U?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The Digital C…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5paEY1YzNnUHJyY2dQVDBBXzFBM0dzb0JYXzJRVUtEbXY4UjlhSTVBNUFKLUFYNnFKM0FjT2F2MTh3YnZCeU52TUsxZnRlVDBXekkzaWVjcGpPVzItT0hmNGc3SFBlR0U?oc=5",
-      "publishedAt": "2026-07-24T13:25:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-just-in-the-digital-chamber-cci-and-blockchain-association-send-letter-to-senate",
-      "localUrl": "/news/20260724-just-in-the-digital-chamber-cci-and-blockchain-association-send-letter-to-senate.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
       "summary": "New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations",
@@ -864,17 +890,6 @@
       "category": "市场",
       "slug": "20260724-saylor-and-team-overhaul-strategys-bitcoin-metrics-as-bear-market-persists",
       "localUrl": "/news/20260724-saylor-and-team-overhaul-strategys-bitcoin-metrics-as-bear-market-persists.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The 3 leading U.S. digital asset trade groups — @BlockchainAssn, @crypto_council, and @DigitalChamber — express strong support for Senate floor consideration of the Clarity Act. The time is now for Clarity. theblockchainassociation.org/api/media/file… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWkROMkpTR2lpaF94RVR4Z1RtSDV1NlNkTDVKejRxV0hKLTNSdUFveGN0ZnN1MXhIanBBNkdjTm5LZlU2dllEVWJDcVJObXlZOTNlRExhY1BrVFpvQjFhbm82Sk1kUQ?oc=5\" target=\"_blank\">The 3 leading U.S. digital a…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWkROMkpTR2lpaF94RVR4Z1RtSDV1NlNkTDVKejRxV0hKLTNSdUFveGN0ZnN1MXhIanBBNkdjTm5LZlU2dllEVWJDcVJObXlZOTNlRExhY1BrVFpvQjFhbm82Sk1kUQ?oc=5",
-      "publishedAt": "2026-07-24T13:04:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di",
-      "localUrl": "/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html"
     },
     {
       "source": "CoinDesk",
@@ -981,21 +996,6 @@
       "category": "市场",
       "slug": "20260724-a-5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
       "localUrl": "/news/20260724-a-5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin settles near $65,000 as oil's march toward $100 fails to spook the market",
-      "summary": "BTC held just under $65,000 and crypto broadly rose on Friday even as Brent crude surged to $97.66, its highest since May, as the Iran conflict persists and traditional markets stay muted.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-settles-near-usd65-000-as-oil-s-march-toward-usd100-fails-to-spook-the-market",
-      "publishedAt": "2026-07-24T11:19:38.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-bitcoin-settles-near-65000-as-oils-march-toward-100-fails-to-spook-the-market",
-      "localUrl": "/news/20260724-bitcoin-settles-near-65000-as-oils-march-toward-100-fails-to-spook-the-market.html"
     },
     {
       "source": "Decrypt",
