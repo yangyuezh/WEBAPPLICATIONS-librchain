@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-26T22:09:18.707Z</lastmod>
+    <lastmod>2026-07-27T00:09:37.743Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-26T22:09:18.707Z</lastmod>
+    <lastmod>2026-07-27T00:09:37.743Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26.html</loc>
+    <lastmod>2026-07-27T00:03:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-.html</loc>
+    <lastmod>2026-07-27T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260726-wemix-says-attacker-moved-about-724000-after-contract-breach.html</loc>
+    <lastmod>2026-07-26T22:53:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260726-heres-what-happened-in-crypto-today.html</loc>
@@ -349,18 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260724-internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstit.html</loc>
-    <lastmod>2026-07-24T16:04:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html</loc>
-    <lastmod>2026-07-24T15:15:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260724-senate-dems-should-accept-the-victory-they-won-on-trumps-crypto-limits-white-hou.html</loc>
     <lastmod>2026-07-24T15:01:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260724-bitcoin-settles-near-65000-as-oils-march-toward-100-fails-to-spook-the-market.html</loc>
     <lastmod>2026-07-24T11:19:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260724-poolin-was-bitcoins-biggest-mining-pool-and-now-its-filing-for-bankruptcy.html</loc>
-    <lastmod>2026-07-24T11:09:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

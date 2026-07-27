@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-07-26T22:09:18.666Z",
+  "updatedAt": "2026-07-27T00:09:37.700Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
+      "summary": "Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act’s chances dim. BitMEX to close as crypto consolidates into five big players.",
+      "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T00:03:44.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "监管",
+      "slug": "20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26",
+      "localUrl": "/news/20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
+      "summary": "POSCO International and LG CNS is tapping Injective network to tokenize live commercial invoices, another sign blockchain rails are moving deeper into corporate finance.",
+      "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Trade Finance",
+        "Exclusive",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260727-south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-",
+      "localUrl": "/news/20260727-south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "WEMIX says attacker moved about $724,000 after contract breach",
+      "summary": "WEMIX suspended bridges, liquidity-pool trading and several services after an attacker compromised a WEMIX$-linked contract and moved 724,198 USDC.e.",
+      "url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-26T22:53:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260726-wemix-says-attacker-moved-about-724000-after-contract-breach",
+      "localUrl": "/news/20260726-wemix-says-attacker-moved-about-724000-after-contract-breach.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -720,32 +763,6 @@
       "localUrl": "/news/20260724-bitcoin-etfs-shed-225m-snapping-seven-day-inflow-streak-as-iran-tensions-spook-m.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Internet Freedom Foundation calls India’s BitChat GitHub takedown order ‘unconstitutional’",
-      "summary": "The digital rights group says India’s order to remove Jack Dorsey’s BitChat repositories from GitHub exceeds the government’s legal authority and threatens free speech.",
-      "url": "https://cointelegraph.com/news/internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstitutional?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T16:04:30.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260724-internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstit",
-      "localUrl": "/news/20260724-internet-freedom-foundation-calls-indias-bitchat-github-takedown-order-unconstit.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Is the AI-to-crypto rotation underway?",
-      "summary": "Bitcoin ETF inflows, cooling AI momentum and potential regulatory progress under the CLARITY Act are fueling speculation that capital is rotating back into crypto.",
-      "url": "https://cointelegraph.com/news/crypto-biz-ai-to-crypto-rotation-bitcoin-etf-inflows-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T15:15:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway",
-      "localUrl": "/news/20260724-crypto-biz-is-the-ai-to-crypto-rotation-underway.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
       "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
@@ -979,22 +996,6 @@
       "category": "市场",
       "slug": "20260724-bitcoin-settles-near-65000-as-oils-march-toward-100-fails-to-spook-the-market",
       "localUrl": "/news/20260724-bitcoin-settles-near-65000-as-oils-march-toward-100-fails-to-spook-the-market.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Poolin was bitcoin's biggest mining pool and now it's filing for bankruptcy",
-      "summary": "The Singapore-based company once controlled nearly a fifth of Bitcoin's global hashrate. Now it owes $173 million and is selling off what's left.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/poolin-was-bitcoin-s-biggest-mining-pool-and-now-it-s-filing-for-bankruptcy",
-      "publishedAt": "2026-07-24T11:09:40.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-poolin-was-bitcoins-biggest-mining-pool-and-now-its-filing-for-bankruptcy",
-      "localUrl": "/news/20260724-poolin-was-bitcoins-biggest-mining-pool-and-now-its-filing-for-bankruptcy.html"
     },
     {
       "source": "Decrypt",
