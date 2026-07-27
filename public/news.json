@@ -1,7 +1,64 @@
 {
-  "updatedAt": "2026-07-27T15:49:03.540Z",
+  "updatedAt": "2026-07-27T17:53:02.726Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
+      "summary": "Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.",
+      "url": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos",
+      "publishedAt": "2026-07-27T17:40:36.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f",
+      "localUrl": "/news/20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
+      "summary": "The crypto trading platform said the layoffs reflect a strategic shift toward its fast-growing enterprise business.",
+      "url": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
+      "publishedAt": "2026-07-27T16:47:06.000Z",
+      "keywords": [
+        "Finance",
+        "Exclusive",
+        "Crypto Trading",
+        "Uphold",
+        "Job cuts",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260727-digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-wint",
+      "localUrl": "/news/20260727-digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-wint.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
+      "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
+      "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T16:44:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260727-tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance",
+      "localUrl": "/news/20260727-tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken parent Payward acquires Magic Labs’ wallet business",
+      "summary": "The deal brings wallet technology to Payward’s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with.",
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T16:40:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-kraken-parent-payward-acquires-magic-labs-wallet-business",
+      "localUrl": "/news/20260727-kraken-parent-payward-acquires-magic-labs-wallet-business.html"
+    },
     {
       "source": "Decrypt",
       "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
@@ -70,6 +127,17 @@
       "category": "市场",
       "slug": "20260727-fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
       "localUrl": "/news/20260727-fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor's 'Strategy' has not purchased any Bitcoin over the past month. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmblowbkx2QUdmU0pwaWZQQ1NjOEF5VUwweHYtQWQ0bWRvNnJaeVBYdlpfNEtORXVBNkJuNTRrS05WWUQ2enkyYnpVMEtGTnAySk9iMDlOemNCRVdXWmszMXlB?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's 'Strateg…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmblowbkx2QUdmU0pwaWZQQ1NjOEF5VUwweHYtQWQ0bWRvNnJaeVBYdlpfNEtORXVBNkJuNTRrS05WWUQ2enkyYnpVMEtGTnAySk9iMDlOemNCRVdXWmszMXlB?oc=5",
+      "publishedAt": "2026-07-27T14:41:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-just-in-michael-saylors-strategy-has-not-purchased-any-bitcoin-over-the-past-mon",
+      "localUrl": "/news/20260727-just-in-michael-saylors-strategy-has-not-purchased-any-bitcoin-over-the-past-mon.html"
     },
     {
       "source": "CoinDesk",
@@ -312,6 +380,28 @@
       "localUrl": "/news/20260727-michael-saylors-strategy-boosted-cash-reserve-to-375-billion-repurchased-25-mill.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Storj Labs files for Chapter 11 bankruptcy, the fourth crypto company in seven days to announce a failure or wind-down, alongside BitMEX, BitMart, and Movement Labs. In a rare move, Storj says it plans to include token holders in ownership of the re - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTkxzRVlUbnRPMnpWcmNPY2t5cVFUcjJzdzJiRGhnMkdKem1VSzFZbEk5eUwxNE1adHBBZ2lSREFsUFN3Yzk1a2RucDBhMHBEWjdsdGEyUDZXdE96WGc?oc=5\" target=\"_blank\">JUST IN: Storj Labs files for Chapter 1…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTkxzRVlUbnRPMnpWcmNPY2t5cVFUcjJzdzJiRGhnMkdKem1VSzFZbEk5eUwxNE1adHBBZ2lSREFsUFN3Yzk1a2RucDBhMHBEWjdsdGEyUDZXdE96WGc?oc=5",
+      "publishedAt": "2026-07-27T12:05:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-just-in-storj-labs-files-for-chapter-11-bankruptcy-the-fourth-crypto-company-in-",
+      "localUrl": "/news/20260727-just-in-storj-labs-files-for-chapter-11-bankruptcy-the-fourth-crypto-company-in-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Strategy Sells $544.5M in MSTR Shares, Makes No Bitcoin Purchases Strategy said it sold 5.43 million MSTR shares for $544.5 million in net proceeds between July 20 and July 26, while repurchasing 288,930 STRC preferred shares for $25 million. The com - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zb1ZTakUteFhHbm5mRGgwWnRqUWdKdkZacnI4Rk9ZcC1PUEN4Y3E1QmhuQ0YzM3E0ckVEOGRMUmRSNkhIN1BSNmR1ZEJhN2M4ZXI4V2tQc2J1dXpsRF9qZzlfMA?oc=5\" target=\"_blank\">Strategy Sells $544.5M in MSTR S…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zb1ZTakUteFhHbm5mRGgwWnRqUWdKdkZacnI4Rk9ZcC1PUEN4Y3E1QmhuQ0YzM3E0ckVEOGRMUmRSNkhIN1BSNmR1ZEJhN2M4ZXI4V2tQc2J1dXpsRF9qZzlfMA?oc=5",
+      "publishedAt": "2026-07-27T12:04:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-strategy-sells-5445m-in-mstr-shares-makes-no-bitcoin-purchases-strategy-said-it-",
+      "localUrl": "/news/20260727-strategy-sells-5445m-in-mstr-shares-makes-no-bitcoin-purchases-strategy-said-it-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
       "summary": "Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
@@ -546,22 +636,6 @@
       "localUrl": "/news/20260727-live-updates-bitcoin-gives-up-early-gains-as-stocks-reverse-lower.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
-      "summary": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
-      "publishedAt": "2026-07-27T06:37:54.000Z",
-      "keywords": [
-        "Markets",
-        "quantum computing",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260727-crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-s",
-      "localUrl": "/news/20260727-crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-s.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
       "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
@@ -698,14 +772,14 @@
     },
     {
       "source": "X Wire",
-      "title": "To reject Bitcoin’s integration with banks and corporations, custodians and exchanges, equity and credit markets, governments and currencies is to deny its benefits to 99% of the world and doom it to 1% of its potential. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NanVza2RDWkh0UERwdWJ2RGxnZ1ZHVUJFRnhmV0VUaTNRMjc3blJBSWFTZGJhUnJ5bXQ4OHpCRmc5NW5TR3pmV3RuVC1kTzBxc21ISlk0TjE1Rms?oc=5\" target=\"_blank\">To reject Bitcoin’s integration with banks …",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NanVza2RDWkh0UERwdWJ2RGxnZ1ZHVUJFRnhmV0VUaTNRMjc3blJBSWFTZGJhUnJ5bXQ4OHpCRmc5NW5TR3pmV3RuVC1kTzBxc21ISlk0TjE1Rms?oc=5",
-      "publishedAt": "2026-07-26T20:14:22.000Z",
+      "title": "bottom's in on bitcoin bottom's in on solana bottom's in on onchain speculation time to make some money - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5\" target=\"_blank\">bottom's in on bitcoin bottom's in on …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5",
+      "publishedAt": "2026-07-26T21:26:49.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260726-to-reject-bitcoins-integration-with-banks-and-corporations-custodians-and-exchan",
-      "localUrl": "/news/20260726-to-reject-bitcoins-integration-with-banks-and-corporations-custodians-and-exchan.html"
+      "slug": "20260726-bottoms-in-on-bitcoin-bottoms-in-on-solana-bottoms-in-on-onchain-speculation-tim",
+      "localUrl": "/news/20260726-bottoms-in-on-bitcoin-bottoms-in-on-solana-bottoms-in-on-onchain-speculation-tim.html"
     },
     {
       "source": "X Wire",
@@ -768,7 +842,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
+      "title": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West",
       "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
       "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
       "publishedAt": "2026-07-26T14:01:03.000Z",
@@ -776,8 +850,8 @@
         "Artificial Intelligence"
       ],
       "category": "市场",
-      "slug": "20260726-mira-muratis-inkling-ai-model-review-best-open-source-model-in-the-west",
-      "localUrl": "/news/20260726-mira-muratis-inkling-ai-model-review-best-open-source-model-in-the-west.html"
+      "slug": "20260726-mira-muratis-inkling-ai-model-review-best-open-weights-model-in-the-west",
+      "localUrl": "/news/20260726-mira-muratis-inkling-ai-model-review-best-open-weights-model-in-the-west.html"
     },
     {
       "source": "X Wire",
@@ -791,19 +865,6 @@
       "localUrl": "/news/20260726-cz-says-acquiring-smaller-crypto-exchanges-carries-hidden-security-risks-after-b.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
-      "summary": "Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
-      "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T13:06:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260726-bitcoin-og-selling-eases-as-dormant-btc-movement-hits-4-year-low-galaxy",
-      "localUrl": "/news/20260726-bitcoin-og-selling-eases-as-dormant-btc-movement-hits-4-year-low-galaxy.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSzY5LVFXYkExZHpsck9MMFFrZjZRakNJMXQzRHhPSzhLYnVadjcyNTVEOWVfOG9RZ3h4Zm51VEx4czZPbjBqTGFhNHh2dXJhV2VYZUJYVFJOMFM2bnJIb09RV2sxWTQ?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
@@ -813,19 +874,6 @@
       "category": "X热点",
       "slug": "20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
       "localUrl": "/news/20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
-      "summary": "KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
-      "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T10:23:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260726-south-koreas-largest-bank-to-launch-payment-service-on-jpmorgans-kinexys",
-      "localUrl": "/news/20260726-south-koreas-largest-bank-to-launch-payment-service-on-jpmorgans-kinexys.html"
     },
     {
       "source": "X Wire",
@@ -872,17 +920,6 @@
       "localUrl": "/news/20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto exchanges, DeFi platforms, and crypto ATMs won't hide from the law anymore. The Clarity Act closes the DINO loophole and brings every corner of the digital asset market inside the Bank Secrecy Act and sanctions framework. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5\" target=\"_blank\">Crypto exchanges, DeFi platforms, and …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5",
-      "publishedAt": "2026-07-25T14:34:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t",
-      "localUrl": "/news/20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t.html"
-    },
-    {
       "source": "Decrypt",
       "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
       "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
@@ -896,17 +933,6 @@
       "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
     },
     {
-      "source": "X Wire",
-      "title": "\"They're going to be perpetually living by charity.\" @IOHK_Charles says Ethereum's lack of an on-chain treasury leaves its long-term development model structurally weak, contrasting it with Cardano's treasury, which peaked at $4.5 billion. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmUUljSGlDR21jVXpaYldoZlBQUmpITnFTNHk3OXd1aXBHRWwybVB5Z0xaM1lWbjRXUXRHRHVJTmFqVU54bmdmZW9HN1VfTDJQZUxxdmQ2bW1MWjlwcEE?oc=5\" target=\"_blank\">\"They're going to be perpetually living…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmUUljSGlDR21jVXpaYldoZlBQUmpITnFTNHk3OXd1aXBHRWwybVB5Z0xaM1lWbjRXUXRHRHVJTmFqVU54bmdmZW9HN1VfTDJQZUxxdmQ2bW1MWjlwcEE?oc=5",
-      "publishedAt": "2026-07-25T11:21:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac",
-      "localUrl": "/news/20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
       "summary": "For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
@@ -918,17 +944,6 @@
       "category": "DeFi",
       "slug": "20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything",
       "localUrl": "/news/20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The Clarity Act finally answers a question crypto has asked since Howey: when does a digital asset stop being a security? By defining \"ancillary assets,\" we're giving builders a clear path forward instead of years of regulatory guesswork that's driven innovation - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcU9wVFB2b3FlbGdnODBlc3BZRk1KQnA3a2NxY1M2ak5hYkt2Vk1ZWWxtNW5IQUt1VWJKMzJVM1pza3ZBS2hfSmE2Y1B6ZE9mNjBqSFItbUVjU1lfSUlR?oc=5\" target=\"_blank\">The Clarity Act finally answers a ques…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcU9wVFB2b3FlbGdnODBlc3BZRk1KQnA3a2NxY1M2ak5hYkt2Vk1ZWWxtNW5IQUt1VWJKMzJVM1pza3ZBS2hfSmE2Y1B6ZE9mNjBqSFItbUVjU1lfSUlR?oc=5",
-      "publishedAt": "2026-07-24T19:33:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-the-clarity-act-finally-answers-a-question-crypto-has-asked-since-howey-when-doe",
-      "localUrl": "/news/20260724-the-clarity-act-finally-answers-a-question-crypto-has-asked-since-howey-when-doe.html"
     },
     {
       "source": "Decrypt",
@@ -1052,19 +1067,6 @@
       "category": "综合",
       "slug": "20260724-world-foundation-raises-525m-to-scale-sam-altmans-proof-of-human-id",
       "localUrl": "/news/20260724-world-foundation-raises-525m-to-scale-sam-altmans-proof-of-human-id.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "EU Names Justin Sun's HTX in Russia Sanctions, Two Months After UK",
-      "summary": "The 21st package stops short of a full asset freeze for HTX, which it accused of \"significantly frustrating\" its Russia measures.",
-      "url": "https://decrypt.co/374245/eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk",
-      "publishedAt": "2026-07-24T14:21:37.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260724-eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk",
-      "localUrl": "/news/20260724-eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk.html"
     }
   ]
 }
