@@ -1,10 +1,234 @@
 {
-  "updatedAt": "2026-07-27T08:44:19.682Z",
-  "total": 84,
+  "updatedAt": "2026-07-27T12:35:02.203Z",
+  "total": 83,
   "items": [
     {
+      "source": "Decrypt",
+      "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
+      "summary": "Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
+      "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
+      "publishedAt": "2026-07-27T12:27:47.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260727-crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
+      "localUrl": "/news/20260727-crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+      "title": "Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC",
+      "summary": "The company last week raised $544.5 million in cash via sales of its common stock.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion",
+      "publishedAt": "2026-07-27T12:12:54.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-michael-saylors-strategy-boosted-cash-reserve-to-375-billion-repurchased-25-mill",
+      "localUrl": "/news/20260727-michael-saylors-strategy-boosted-cash-reserve-to-375-billion-repurchased-25-mill.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
+      "summary": "Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
+      "url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
+      "publishedAt": "2026-07-27T12:00:49.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260727-morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
+      "localUrl": "/news/20260727-morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin options traders are dropping their hedges going into the Fed meeting",
+      "summary": "The put/call ratio has fallen to about 0.52 from 0.76 in late June, and one-week downside protection has collapsed in price. The options market is positioned for a quiet week that contains an FOMC decision.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
+      "publishedAt": "2026-07-27T11:53:18.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
+      "localUrl": "/news/20260727-bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
+      "summary": "The selling reversed a seven-day, $1 billion inflow streak, with analysts blaming renewed U.S.-Iran tensions and Fed rate-hike fears.",
+      "url": "https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
+      "publishedAt": "2026-07-27T11:23:01.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260727-bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
+      "localUrl": "/news/20260727-bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
+      "summary": "Your day-ahead look for July 27, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
+      "publishedAt": "2026-07-27T11:15:00.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-ballooning-us-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devalu",
+      "localUrl": "/news/20260727-ballooning-us-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devalu.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
+      "summary": "The vast majority of the activity was concentrated in BlackRock’s IBIT product accounting for nearly $415 million of the outflows.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
+      "publishedAt": "2026-07-27T11:04:39.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "ETFs",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260727-bitcoin-etfs-post-third-straight-weekly-inflows-despite-465-million-in-late-week",
+      "localUrl": "/news/20260727-bitcoin-etfs-post-third-straight-weekly-inflows-despite-465-million-in-late-week.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
+      "summary": "Armstrong said blockchain technology acts as a general-purpose infrastructure that will underpin future automation rather than competing with it.",
+      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
+      "publishedAt": "2026-07-27T10:39:22.000Z",
+      "keywords": [
+        "Finance",
+        "Artificial Intelligence",
+        "Coinbase",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260727-coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
+      "localUrl": "/news/20260727-coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
+      "summary": "BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CASPs, including banks and crypto platforms, in the third post-deadline update.",
+      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T10:38:09.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-bny-mellon-unit-joins-mica-register-as-esma-adds-15-providers",
+      "localUrl": "/news/20260727-bny-mellon-unit-joins-mica-register-as-esma-adds-15-providers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
+      "summary": "Brent crude plunged 7% after the U.S. and Iran paused Strait of Hormuz strikes, lifting equities and DeFi tokens while bitcoin held near $65,000 ahead of a pivotal Fed decision Wednesday.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets",
+      "publishedAt": "2026-07-27T10:35:04.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260727-crypto-steadies-as-iran-us-pause-sends-oil-tumbling-lifts-risk-assets",
+      "localUrl": "/news/20260727-crypto-steadies-as-iran-us-pause-sends-oil-tumbling-lifts-risk-assets.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
+      "summary": "BitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.",
+      "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
+      "publishedAt": "2026-07-27T09:57:20.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260727-bitmart-becomes-latest-crypto-exchange-to-shut-down",
+      "localUrl": "/news/20260727-bitmart-becomes-latest-crypto-exchange-to-shut-down.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting July 27.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+      "publishedAt": "2026-07-27T09:43:58.000Z",
+      "keywords": [
+        "Markets",
+        "week ahead",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-interest-rates-in-us-uk-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+      "localUrl": "/news/20260727-interest-rates-in-us-uk-japan-and-coinbase-strategy-earnings-crypto-week-ahead.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
+      "summary": "Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine and laundering billions in Brazilian reals through crypto-enabled illicit money brokers.",
+      "url": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T09:29:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-brazilian-police-bust-cocaine-traffickers-in-crypto-linked-transnational-probe",
+      "localUrl": "/news/20260727-brazilian-police-bust-cocaine-traffickers-in-crypto-linked-transnational-probe.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
+      "summary": "The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.",
+      "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+      "publishedAt": "2026-07-27T09:16:14.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+      "localUrl": "/news/20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+      "summary": "The decentralized data storage company says operations continue and proposes that token holders take equity in the restructured business — an unusual arrangement in bankruptcy.",
+      "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
+      "publishedAt": "2026-07-27T09:15:43.000Z",
+      "keywords": [
+        "Finance",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260727-cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-t",
+      "localUrl": "/news/20260727-cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-t.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
+      "summary": "Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointing to Base, USDC and x402 as key pieces of agentic finance.",
+      "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T09:01:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-coinbase-ceo-touts-agentic-finance-as-base-tops-100m-ai-payments",
+      "localUrl": "/news/20260727-coinbase-ceo-touts-agentic-finance-as-base-tops-100m-ai-payments.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rises above $65,000 as oil tumbles on Iran war cooldown",
       "summary": "CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
       "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
       "publishedAt": "2026-07-27T06:43:34.000Z",
@@ -14,8 +238,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260727-live-updates-ether-leads-crypto-higher-chinas-gold-imports-surge",
-      "localUrl": "/news/20260727-live-updates-ether-leads-crypto-higher-chinas-gold-imports-surge.html"
+      "slug": "20260727-live-updates-bitcoin-rises-above-65000-as-oil-tumbles-on-iran-war-cooldown",
+      "localUrl": "/news/20260727-live-updates-bitcoin-rises-above-65000-as-oil-tumbles-on-iran-war-cooldown.html"
     },
     {
       "source": "CoinDesk",
@@ -45,6 +269,17 @@
       "category": "安全",
       "slug": "20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m",
       "localUrl": "/news/20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⏰ Upcoming Token Unlocks (July 27 - Aug 2） Several crypto projects will unlock tokens this week, including $FET, $XPL, $FF, $KMNO, $SUI, $EIGEN,$ENA Investors, keep an eye on these token unlocks events! - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5\" target=\"_blank\">⏰ Upcoming Token Unlocks (J…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5",
+      "publishedAt": "2026-07-27T05:13:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-",
+      "localUrl": "/news/20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-.html"
     },
     {
       "source": "Cointelegraph",
@@ -102,14 +337,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Storj Labs Files for Chapter 11 Bankruptcy After Raising Approximately $35 Million Storj Labs, the company behind decentralized cloud storage network Storj, has voluntarily filed for Chapter 11 bankruptcy protection to address legacy debt while continuing op - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE52STUwUzNhMlNtQVlZRUQtVTAwRUw2SGxhaVNGa3NzWE5JYUFKWndrLWtLOEZSc1NJVHVCYnRjSXh1aUlzZ19zS3Vmd2VCNGNudEpDcENrQzR0bmVLT05Ud3FjUQ?oc=5\" target=\"_blank\">Storj Labs Files for Chapter 11 …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52STUwUzNhMlNtQVlZRUQtVTAwRUw2SGxhaVNGa3NzWE5JYUFKWndrLWtLOEZSc1NJVHVCYnRjSXh1aUlzZ19zS3Vmd2VCNGNudEpDcENrQzR0bmVLT05Ud3FjUQ?oc=5",
-      "publishedAt": "2026-07-27T00:37:03.000Z",
+      "title": "🇷🇺 NEW: Russia's Sberbank plans to launch crypto trading and custody infrastructure by Dec. 1. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OMVRHRlBzSjJNUUFTMElRX2w3TF9kSDVEZEY1SGMteGdqU014M3FiWGprTF9UWFJjY1NkZmNRZU4xWno1Vl80UDB5ckdFZnNDVGNrQWZHcl9xRjV3T0VMLUtzMm4?oc=5\" target=\"_blank\">🇷🇺 NEW: Russia's Sberbank pla…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OMVRHRlBzSjJNUUFTMElRX2w3TF9kSDVEZEY1SGMteGdqU014M3FiWGprTF9UWFJjY1NkZmNRZU4xWno1Vl80UDB5ckdFZnNDVGNrQWZHcl9xRjV3T0VMLUtzMm4?oc=5",
+      "publishedAt": "2026-07-27T01:00:43.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260727-storj-labs-files-for-chapter-11-bankruptcy-after-raising-approximately-35-millio",
-      "localUrl": "/news/20260727-storj-labs-files-for-chapter-11-bankruptcy-after-raising-approximately-35-millio.html"
+      "slug": "20260727-new-russias-sberbank-plans-to-launch-crypto-trading-and-custody-infrastructure-b",
+      "localUrl": "/news/20260727-new-russias-sberbank-plans-to-launch-crypto-trading-and-custody-infrastructure-b.html"
     },
     {
       "source": "Cointelegraph",
@@ -191,14 +426,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🇰🇷 BIG: South Korea’s largest bank is launching JPMorgan’s Kinexys blockchain for near-instant cross-border US dollar payments. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVTM2RVdPZzNvOG1oSmw4elpmLWVaS09qc1VyWVd4NXltX05zUHFScTJreEhkZ21iS3gzb2t6Zk9qejI0RTd6WXBpSXVQNzl0alZaOW5MZklzeDFSWE4yQUZrdE8?oc=5\" target=\"_blank\">🇰🇷 BIG: South Korea’s largest…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByVTM2RVdPZzNvOG1oSmw4elpmLWVaS09qc1VyWVd4NXltX05zUHFScTJreEhkZ21iS3gzb2t6Zk9qejI0RTd6WXBpSXVQNzl0alZaOW5MZklzeDFSWE4yQUZrdE8?oc=5",
-      "publishedAt": "2026-07-26T20:30:41.000Z",
+      "title": "Steak n Shake is a sustainable Bitcoin company. Bitcoin payments go into our Strategic Bitcoin Reserve. And the savings in processing fees over credit cards helps us reinvest in improving the quality of our offerings. The allegiance of Bitcoiners is unparalleled. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83UDdXTk8tSmI2a1ZQWG1WQ1Z6bTNOWVlqS3diYlVVbzl4ZXgyVFhveHpqbzEwdWtCbUt1RW1pUDdSNnItU0FvMXJWMVYzb0ZsTV9GRW1kNjJweG1WeklvWDRn?oc=5\" target=\"_blank\">Steak n Shake is a sustainable Bit…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83UDdXTk8tSmI2a1ZQWG1WQ1Z6bTNOWVlqS3diYlVVbzl4ZXgyVFhveHpqbzEwdWtCbUt1RW1pUDdSNnItU0FvMXJWMVYzb0ZsTV9GRW1kNjJweG1WeklvWDRn?oc=5",
+      "publishedAt": "2026-07-26T19:28:24.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260726-big-south-koreas-largest-bank-is-launching-jpmorgans-kinexys-blockchain-for-near",
-      "localUrl": "/news/20260726-big-south-koreas-largest-bank-is-launching-jpmorgans-kinexys-blockchain-for-near.html"
+      "slug": "20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra",
+      "localUrl": "/news/20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra.html"
     },
     {
       "source": "CoinDesk",
@@ -506,17 +741,6 @@
     },
     {
       "source": "X Wire",
-      "title": "It’s time for Congress to hear from America’s crypto voters. Tell the Senate why the Clarity Act matters to you and urge a floor vote before the August recess. Write your letter at ClarityForAmerica.com 🇺🇸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xVDFmNGdVQnFoNUJ6M1FsLWQ1dkJVQWNwTlEtT3FzRVJwVXRiQ2Fua0wyeTItd3o3MXp0ZnQ3QURFcHBkRFhlZGlXNm5RVVYtSW5naHR6dHNxZFJGZ0VOVV9IVnhvQQ?oc=5\" target=\"_blank\">It’s time for Congress to he…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xVDFmNGdVQnFoNUJ6M1FsLWQ1dkJVQWNwTlEtT3FzRVJwVXRiQ2Fua0wyeTItd3o3MXp0ZnQ3QURFcHBkRFhlZGlXNm5RVVYtSW5naHR6dHNxZFJGZ0VOVV9IVnhvQQ?oc=5",
-      "publishedAt": "2026-07-25T17:52:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-its-time-for-congress-to-hear-from-americas-crypto-voters-tell-the-senate-why-th",
-      "localUrl": "/news/20260725-its-time-for-congress-to-hear-from-americas-crypto-voters-tell-the-senate-why-th.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Last 10 Years NVIDIA $NVDA: +15,334% Bitcoin $BTC: +9,632% $AMD: +8,838% Tesla $TSLA: +2,013% Apple $AAPL: +1,385% Google $GOOGL: +750% Netflix $NFLX: +716% Microsoft $MSFT: +663% Amazon $AMZN: +525% Meta: $META: +396% S&P - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5\" target=\"_blank\">Last 10 Years NVIDIA $NVDA: …",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5",
@@ -622,19 +846,6 @@
       "localUrl": "/news/20260725-democratizing-weather-derivatives-through-tokenization-could-be-cryptos-most-imp.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Fidelity joins push for Senate passage of CLARITY Act",
-      "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
-      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T11:32:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260725-fidelity-joins-push-for-senate-passage-of-clarity-act",
-      "localUrl": "/news/20260725-fidelity-joins-push-for-senate-passage-of-clarity-act.html"
-    },
-    {
       "source": "X Wire",
       "title": "\"They're going to be perpetually living by charity.\" @IOHK_Charles says Ethereum's lack of an on-chain treasury leaves its long-term development model structurally weak, contrasting it with Cardano's treasury, which peaked at $4.5 billion. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmUUljSGlDR21jVXpaYldoZlBQUmpITnFTNHk3OXd1aXBHRWwybVB5Z0xaM1lWbjRXUXRHRHVJTmFqVU54bmdmZW9HN1VfTDJQZUxxdmQ2bW1MWjlwcEE?oc=5\" target=\"_blank\">\"They're going to be perpetually living…",
@@ -644,47 +855,6 @@
       "category": "X热点",
       "slug": "20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac",
       "localUrl": "/news/20260725-theyre-going-to-be-perpetually-living-by-charity-iohk_charles-says-ethereums-lac.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
-      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T10:05:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260725-dangos-perp-dex-taps-out-nearly-4-months-after-launch",
-      "localUrl": "/news/20260725-dangos-perp-dex-taps-out-nearly-4-months-after-launch.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "summary": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
-      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
-      "publishedAt": "2026-07-25T10:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Robinhood",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi",
-      "localUrl": "/news/20260725-robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
-      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
-      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-25T07:43:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak",
-      "localUrl": "/news/20260725-ethereum-etfs-close-week-in-red-end-5-day-inflow-streak.html"
     },
     {
       "source": "Decrypt",
@@ -820,38 +990,6 @@
       "localUrl": "/news/20260724-bitcoin-etfs-shed-225m-snapping-seven-day-inflow-streak-as-iran-tensions-spook-m.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-      "summary": "U.S. Senate Democrats got President Donald Trump to accept potential limits on his lucrative crypto dealings, but they say the Clarity Act's restrictions aren't enough.",
-      "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-      "publishedAt": "2026-07-24T15:01:46.000Z",
-      "keywords": [
-        "Policy",
-        "White House",
-        "Clarity Act",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260724-senate-dems-should-accept-the-victory-they-won-on-trumps-crypto-limits-white-hou",
-      "localUrl": "/news/20260724-senate-dems-should-accept-the-victory-they-won-on-trumps-crypto-limits-white-hou.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-      "summary": "The project is moving away from basic network expansion to focus entirely on integrating its biometric screening devices across enterprise software suites.",
-      "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-      "publishedAt": "2026-07-24T15:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260724-sam-altman-backed-world-network-secures-525-million-in-fresh-funding-to-fight-on",
-      "localUrl": "/news/20260724-sam-altman-backed-world-network-secures-525-million-in-fresh-funding-to-fight-on.html"
-    },
-    {
       "source": "Decrypt",
       "title": "World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID",
       "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
@@ -864,24 +1002,6 @@
       "category": "综合",
       "slug": "20260724-world-foundation-raises-525m-to-scale-sam-altmans-proof-of-human-id",
       "localUrl": "/news/20260724-world-foundation-raises-525m-to-scale-sam-altmans-proof-of-human-id.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-      "summary": "LMAX is working with Morgan Stanley and investment bank KBW to assess its options, which could lead to a sale or a public offering.",
-      "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-      "publishedAt": "2026-07-24T14:36:16.000Z",
-      "keywords": [
-        "Finance",
-        "mergers and acquisitions",
-        "LMAX",
-        "Morgan Stanley",
-        "Exclusive",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260724-institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-      "localUrl": "/news/20260724-institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo.html"
     },
     {
       "source": "Decrypt",
@@ -897,21 +1017,6 @@
       "localUrl": "/news/20260724-eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
-      "summary": "New framework gives common shareholders a clearer view of net bitcoin exposure after preferred stock and convertible debt obligations",
-      "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
-      "publishedAt": "2026-07-24T13:15:15.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-saylor-and-team-overhaul-strategys-bitcoin-metrics-as-bear-market-persists",
-      "localUrl": "/news/20260724-saylor-and-team-overhaul-strategys-bitcoin-metrics-as-bear-market-persists.html"
-    },
-    {
       "source": "X Wire",
       "title": "The 3 leading U.S. digital asset trade groups — @BlockchainAssn, @crypto_council, and @DigitalChamber — express strong support for Senate floor consideration of the Clarity Act. The time is now for Clarity. theblockchainassociation.org/api/media/file… - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWkROMkpTR2lpaF94RVR4Z1RtSDV1NlNkTDVKejRxV0hKLTNSdUFveGN0ZnN1MXhIanBBNkdjTm5LZlU2dllEVWJDcVJObXlZOTNlRExhY1BrVFpvQjFhbm82Sk1kUQ?oc=5\" target=\"_blank\">The 3 leading U.S. digital a…",
@@ -921,22 +1026,6 @@
       "category": "X热点",
       "slug": "20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di",
       "localUrl": "/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
-      "summary": "Smart collars monitor herd health in real time to prevent fraud, allowing local agricultural businesses to secure thousands in funding backed by livestock.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "publishedAt": "2026-07-24T13:03:03.000Z",
-      "keywords": [
-        "Markets",
-        "Real World Assets",
-        "Tokenization",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260724-brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limit",
-      "localUrl": "/news/20260724-brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limit.html"
     },
     {
       "source": "Decrypt",
@@ -965,40 +1054,6 @@
       "localUrl": "/news/20260724-india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-      "summary": "The EU is considering a ban on third-country crypto services providers for the first time and is targeting 14 crypto companies, which it has not named yet.",
-      "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-      "publishedAt": "2026-07-24T11:58:06.000Z",
-      "keywords": [
-        "Policy",
-        "Cryptocurrency",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260724-eu-hits-russia-with-massive-21st-sanctions-package-targeting-120b-crypto-network",
-      "localUrl": "/news/20260724-eu-hits-russia-with-massive-21st-sanctions-package-targeting-120b-crypto-network.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
-      "summary": "The SBI-owned crypto trading firm is said to have attracted takeover interest from a number of suitors over the past 18 months, but valuation has been a sticking point.",
-      "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
-      "publishedAt": "2026-07-24T11:49:06.000Z",
-      "keywords": [
-        "Finance",
-        "Market Makers",
-        "mergers and acquisitions",
-        "Exclusive",
-        "B2C2",
-        "SBI Holdings",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
-      "localUrl": "/news/20260724-crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
       "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
@@ -1011,71 +1066,6 @@
       "category": "监管",
       "slug": "20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources",
       "localUrl": "/news/20260724-polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Black Forest Labs Unveils FLUX 3 AI: Ditches Stills for Video—And Robot Hands",
-      "summary": "FLUX 3 is the German AI lab’s first video model, and the same system is already teaching robots to work an Audi assembly line.",
-      "url": "https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands",
-      "publishedAt": "2026-07-23T22:02:41.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands",
-      "localUrl": "/news/20260723-black-forest-labs-unveils-flux-3-ai-ditches-stills-for-videoand-robot-hands.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
-      "summary": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
-      "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
-      "publishedAt": "2026-07-23T20:44:09.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "DeFi",
-      "slug": "20260723-goldman-sachs-ceo-breaks-with-wall-street-to-back-crypto-clarity-act",
-      "localUrl": "/news/20260723-goldman-sachs-ceo-breaks-with-wall-street-to-back-crypto-clarity-act.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nasdaq-Listed Zhibao Wants a Bitcoin Treasury, Plans to Sell $220M in Stock for BTC",
-      "summary": "A Shanghai-based insurance-tech company trading below $1 wants to build a bitcoin treasury by taking BTC directly as payment for new shares.",
-      "url": "https://decrypt.co/374178/nasdaq-listed-zhibao-bitcoin-treasury-220-million-stock-sale",
-      "publishedAt": "2026-07-23T20:12:19.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "RWA",
-      "slug": "20260723-nasdaq-listed-zhibao-wants-a-bitcoin-treasury-plans-to-sell-220m-in-stock-for-bt",
-      "localUrl": "/news/20260723-nasdaq-listed-zhibao-wants-a-bitcoin-treasury-plans-to-sell-220m-in-stock-for-bt.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
-      "summary": "The deleted post touted a bogus \"Vladhood\" token as the mascot of Robinhood Chain—the latest fraud to exploit a network currently dominated by memes.",
-      "url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
-      "publishedAt": "2026-07-23T19:27:57.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
-      "localUrl": "/news/20260723-robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin May Have Already Bottomed—If the Fed Helps, Says Grayscale",
-      "summary": "The crypto asset manager thinks the four-year cycle is dead, suggesting Bitcoin's price will follow macro forces and the Fed's next move.",
-      "url": "https://decrypt.co/374156/bitcoin-price-already-bottomed-fed-helps-grayscale",
-      "publishedAt": "2026-07-23T18:53:17.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260723-bitcoin-may-have-already-bottomedif-the-fed-helps-says-grayscale",
-      "localUrl": "/news/20260723-bitcoin-may-have-already-bottomedif-the-fed-helps-says-grayscale.html"
     },
     {
       "source": "Solana Blog",
@@ -1098,24 +1088,6 @@
       "category": "基础设施",
       "slug": "20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint",
       "localUrl": "/news/20260723-deploying-enterprise-stablecoin-rails-on-solana-in-days-with-crossmint.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "What FATF’s 7th Crypto Compliance Report Card Means: Enforcement Must Catch Up With Legislation",
-      "summary": "Summary Laws are outpacing enforcement: While jurisdictions are increasingly adopting necessary regulations — from Travel Rule legislation to VASP licensing… The post What FATF’s 7th Crypto Compliance Report Card Means: Enforcement Must Ca…",
-      "url": "https://www.chainalysis.com/blog/fatf-7th-targeted-update-crypto-compliance/",
-      "publishedAt": "2026-07-23T11:54:33.000Z",
-      "keywords": [
-        "Policy & Regulation",
-        "AML",
-        "Compliance",
-        "crypto policy",
-        "FATF",
-        "VASPs"
-      ],
-      "category": "监管",
-      "slug": "20260723-what-fatfs-7th-crypto-compliance-report-card-means-enforcement-must-catch-up-wit",
-      "localUrl": "/news/20260723-what-fatfs-7th-crypto-compliance-report-card-means-enforcement-must-catch-up-wit.html"
     }
   ]
 }
