@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-07-27T21:21:02.716Z",
+  "updatedAt": "2026-07-27T23:17:30.236Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
+      "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
+      "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
+      "publishedAt": "2026-07-27T23:00:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "X热点",
+      "slug": "20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade",
+      "localUrl": "/news/20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
+      "summary": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
+      "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T22:55:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260727-new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement",
+      "localUrl": "/news/20260727-new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
+      "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
+      "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
+      "publishedAt": "2026-07-27T22:31:03.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260727-openais-gpt-6-will-arrive-by-september-markets-predict",
+      "localUrl": "/news/20260727-openais-gpt-6-will-arrive-by-september-markets-predict.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Cross River to enable P2P payments, banking services for X Money",
@@ -136,6 +175,17 @@
       "localUrl": "/news/20260727-securitize-capital-becomes-sec-registered-investment-adviser.html"
     },
     {
+      "source": "X Wire",
+      "title": "BITCOIN ETF OUTFLOWS RETURN Bitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows. Analysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5\" target=\"_blank\">BITCOIN ETF OUTFLOWS RETURN Bitcoin ETF…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5",
+      "publishedAt": "2026-07-27T18:32:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow",
+      "localUrl": "/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
       "summary": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing—and someone already saved 11,241 of those messages to GitHub.",
@@ -175,6 +225,17 @@
       "category": "监管",
       "slug": "20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse",
       "localUrl": "/news/20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "bitcoin:native This fixation on 50K, 40K reminds me exactly of 2022, when everyone was waiting for 10K–12K. You had the opportunity to buy at 16K, yet people still wanted another 15–20% lower. In the end, did it really matter? Whether you bought at 16K, 20 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5idi1IUUM5LWc2RW9jUmotbVMwbTF5Uy1hZ1lWczZhY1Q0NmlrT0NmbDB5TVRRV2Y4Zk5JUi1jQzB0cUJTUHB1N3ZtRXM4c3JOelZsQ21fSTVhdXNPbVE?oc=5\" target=\"_blank\">bitcoin:native This fixation on 50K, 40…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5idi1IUUM5LWc2RW9jUmotbVMwbTF5Uy1hZ1lWczZhY1Q0NmlrT0NmbDB5TVRRV2Y4Zk5JUi1jQzB0cUJTUHB1N3ZtRXM4c3JOelZsQ21fSTVhdXNPbVE?oc=5",
+      "publishedAt": "2026-07-27T17:44:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-bitcoinnative-this-fixation-on-50k-40k-reminds-me-exactly-of-2022-when-everyone-",
+      "localUrl": "/news/20260727-bitcoinnative-this-fixation-on-50k-40k-reminds-me-exactly-of-2022-when-everyone-.html"
     },
     {
       "source": "Decrypt",
@@ -566,6 +627,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Public company Strive purchases 79 Bitcoin for $5.2 million! 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QalV4TXFKanRSTHlRU1Yyd2tLVmtqeTN6X29WWUxCUUxUcUlWWEhCekFvT19SYWF3SGFkYmtJYU51SHJVZ0VmWUJURGhuTFBJX2pwdzVnSVkybURBRFQxc3BWYlBnLWc?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QalV4TXFKanRSTHlRU1Yyd2tLVmtqeTN6X29WWUxCUUxUcUlWWEhCekFvT19SYWF3SGFkYmtJYU51SHJVZ0VmWUJURGhuTFBJX2pwdzVnSVkybURBRFQxc3BWYlBnLWc?oc=5",
+      "publishedAt": "2026-07-27T12:11:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-just-in-public-company-strive-purchases-79-bitcoin-for-52-million-xcom",
+      "localUrl": "/news/20260727-just-in-public-company-strive-purchases-79-bitcoin-for-52-million-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Storj Labs files for Chapter 11 bankruptcy, the fourth crypto company in seven days to announce a failure or wind-down, alongside BitMEX, BitMart, and Movement Labs. In a rare move, Storj says it plans to include token holders in ownership of the re - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTkxzRVlUbnRPMnpWcmNPY2t5cVFUcjJzdzJiRGhnMkdKem1VSzFZbEk5eUwxNE1adHBBZ2lSREFsUFN3Yzk1a2RucDBhMHBEWjdsdGEyUDZXdE96WGc?oc=5\" target=\"_blank\">JUST IN: Storj Labs files for Chapter 1…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTkxzRVlUbnRPMnpWcmNPY2t5cVFUcjJzdzJiRGhnMkdKem1VSzFZbEk5eUwxNE1adHBBZ2lSREFsUFN3Yzk1a2RucDBhMHBEWjdsdGEyUDZXdE96WGc?oc=5",
@@ -764,17 +836,6 @@
       "localUrl": "/news/20260727-interest-rates-in-us-uk-japan-and-coinbase-strategy-earnings-crypto-week-ahead.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: FULL SENATE VOTE ON THE #BITCOIN AND CRYPTO CLARITY ACT NOW EXPECTED TO HAPPEN AUGUST 3 - COINDESK WE ARE NOW ONLY A WEEK AWAY FROM AMERICA BECOMING THE CRYPTO CAPITAL OF THE WORLD IT'S FI - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3ZWxaZkNEdmhIY3ZzZDg4ci14UHJhMk9yRUx5QUxYWkdKTVVkblJfd19EaUZ0ZThLTjNvWms4UTZ4V2RyQ0JneHZ5eS1vcHBUbFBjVWJZc0NEa0pOWjk4Q21R?oc=5\" target=\"_blank\">BREAKING: FULL SENATE VOTE ON THE …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3ZWxaZkNEdmhIY3ZzZDg4ci14UHJhMk9yRUx5QUxYWkdKTVVkblJfd19EaUZ0ZThLTjNvWms4UTZ4V2RyQ0JneHZ5eS1vcHBUbFBjVWJZc0NEa0pOWjk4Q21R?oc=5",
-      "publishedAt": "2026-07-27T09:31:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-breaking-full-senate-vote-on-the-bitcoin-and-crypto-clarity-act-now-expected-to-",
-      "localUrl": "/news/20260727-breaking-full-senate-vote-on-the-bitcoin-and-crypto-clarity-act-now-expected-to-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
       "summary": "Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine and laundering billions in Brazilian reals through crypto-enabled illicit money brokers.",
@@ -801,17 +862,6 @@
       "localUrl": "/news/20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack.html"
     },
     {
-      "source": "X Wire",
-      "title": "Get ready for all your favorite crypto KOLs to explain you how @Revolut is great for you - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UY2NTMENqMnF0UDIzYk54RmVUNTlodGFVMGFwb3lmLVlrejBEMUZ1ZnlzNzlqWVMyRXQzVVZtY2ktWUtVdnFDZHpoVzZ5RE5JVHJIaGY3YVAzSGc?oc=5\" target=\"_blank\">Get ready for all your favorite crypto KOLs…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UY2NTMENqMnF0UDIzYk54RmVUNTlodGFVMGFwb3lmLVlrejBEMUZ1ZnlzNzlqWVMyRXQzVVZtY2ktWUtVdnFDZHpoVzZ5RE5JVHJIaGY3YVAzSGc?oc=5",
-      "publishedAt": "2026-07-27T09:02:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-get-ready-for-all-your-favorite-crypto-kols-to-explain-you-how-revolut-is-great-",
-      "localUrl": "/news/20260727-get-ready-for-all-your-favorite-crypto-kols-to-explain-you-how-revolut-is-great-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
       "summary": "Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointing to Base, USDC and x402 as key pieces of agentic finance.",
@@ -836,6 +886,17 @@
       "category": "安全",
       "slug": "20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m",
       "localUrl": "/news/20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⏰ Upcoming Token Unlocks (July 27 - Aug 2） Several crypto projects will unlock tokens this week, including $FET, $XPL, $FF, $KMNO, $SUI, $EIGEN,$ENA Investors, keep an eye on these token unlocks events! - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5\" target=\"_blank\">⏰ Upcoming Token Unlocks (J…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5",
+      "publishedAt": "2026-07-27T05:13:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-",
+      "localUrl": "/news/20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-.html"
     },
     {
       "source": "Cointelegraph",
@@ -886,19 +947,6 @@
       "category": "X热点",
       "slug": "20260727-new-russias-sberbank-plans-to-launch-crypto-trading-and-custody-infrastructure-b",
       "localUrl": "/news/20260727-new-russias-sberbank-plans-to-launch-crypto-trading-and-custody-infrastructure-b.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
-      "summary": "Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act’s chances dim. BitMEX to close as crypto consolidates into five big players.",
-      "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T00:03:44.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "监管",
-      "slug": "20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26",
-      "localUrl": "/news/20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26.html"
     },
     {
       "source": "X Wire",
@@ -959,17 +1007,6 @@
     },
     {
       "source": "X Wire",
-      "title": "CZ Says Acquiring Smaller Crypto Exchanges Carries Hidden Security Risks After BitMEX and BitMart announced plans to wind down their exchange operations, Binance founder @cz_binance said acquiring smaller centralized exchanges is more complicate - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9keHJKdDRudS1PVWRISzZSTGJoVTFtX3MzWnoxc2YwSzdiYWF3M0hjQUFRWHdGVVZMa1JyN2F1X1djUFdmUUR6bFczTVh6NDJ5bXR4ZVNQX3Frand1c1Q5bnlCcw?oc=5\" target=\"_blank\">CZ Says Acquiring Smaller Crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9keHJKdDRudS1PVWRISzZSTGJoVTFtX3MzWnoxc2YwSzdiYWF3M0hjQUFRWHdGVVZMa1JyN2F1X1djUFdmUUR6bFczTVh6NDJ5bXR4ZVNQX3Frand1c1Q5bnlCcw?oc=5",
-      "publishedAt": "2026-07-26T13:31:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-cz-says-acquiring-smaller-crypto-exchanges-carries-hidden-security-risks-after-b",
-      "localUrl": "/news/20260726-cz-says-acquiring-smaller-crypto-exchanges-carries-hidden-security-risks-after-b.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSzY5LVFXYkExZHpsck9MMFFrZjZRakNJMXQzRHhPSzhLYnVadjcyNTVEOWVfOG9RZ3h4Zm51VEx4czZPbjBqTGFhNHh2dXJhV2VYZUJYVFJOMFM2bnJIb09RV2sxWTQ?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GSzY5LVFXYkExZHpsck9MMFFrZjZRakNJMXQzRHhPSzhLYnVadjcyNTVEOWVfOG9RZ3h4Zm51VEx4czZPbjBqTGFhNHh2dXJhV2VYZUJYVFJOMFM2bnJIb09RV2sxWTQ?oc=5",
@@ -978,17 +1015,6 @@
       "category": "X热点",
       "slug": "20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
       "localUrl": "/news/20260726-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum is positioned to the be most widely used settlement layer for finance and AI agents Great convo with @ethlabs_org and @milkroaddaily And $ETH is money - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQ0o1Tkl6ZkIxMFRRLXlLTUJWcEpUd18tV2VqUnJFN2NxMjhMd2RUVVByWkRUU1dGOER0QU8tMlJOYkJfX0VHSHdndFh2MDNxVE5aUDhwUC1CM3NuNExF?oc=5\" target=\"_blank\">Ethereum is positioned to the be most …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQ0o1Tkl6ZkIxMFRRLXlLTUJWcEpUd18tV2VqUnJFN2NxMjhMd2RUVVByWkRUU1dGOER0QU8tMlJOYkJfX0VHSHdndFh2MDNxVE5aUDhwUC1CM3NuNExF?oc=5",
-      "publishedAt": "2026-07-26T03:00:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-ethereum-is-positioned-to-the-be-most-widely-used-settlement-layer-for-finance-a",
-      "localUrl": "/news/20260726-ethereum-is-positioned-to-the-be-most-widely-used-settlement-layer-for-finance-a.html"
     },
     {
       "source": "X Wire",
@@ -1024,32 +1050,6 @@
       "category": "监管",
       "slug": "20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one",
       "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "summary": "For the first time, real-world assets—stocks, commodities, and market indices—outpaced crypto on the world's biggest decentralized derivatives exchange.",
-      "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-      "publishedAt": "2026-07-24T22:03:16.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "DeFi",
-      "slug": "20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything",
-      "localUrl": "/news/20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-      "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
-      "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-      "publishedAt": "2026-07-24T19:30:01.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260724-samsung-wallet-will-add-stablecoin-support-including-usdc",
-      "localUrl": "/news/20260724-samsung-wallet-will-add-stablecoin-support-including-usdc.html"
     },
     {
       "source": "Chainalysis Blog",
