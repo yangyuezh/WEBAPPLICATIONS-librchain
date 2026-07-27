@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-07-27T19:49:43.363Z",
+  "updatedAt": "2026-07-27T21:21:02.716Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Cross River to enable P2P payments, banking services for X Money",
+      "summary": "The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
+      "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T21:05:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260727-cross-river-to-enable-p2p-payments-banking-services-for-x-money",
+      "localUrl": "/news/20260727-cross-river-to-enable-p2p-payments-banking-services-for-x-money.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
+      "summary": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
+      "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
+      "publishedAt": "2026-07-27T21:05:05.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260727-searchable-nyc-property-database-puts-wealthy-residents-at-risk-critics-warn",
+      "localUrl": "/news/20260727-searchable-nyc-property-database-puts-wealthy-residents-at-risk-critics-warn.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
+      "summary": "Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
+      "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
+      "publishedAt": "2026-07-27T20:43:16.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260727-prediction-market-traders-brace-for-surprise-fed-rate-hike",
+      "localUrl": "/news/20260727-prediction-market-traders-brace-for-surprise-fed-rate-hike.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
+      "summary": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
+      "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
+      "publishedAt": "2026-07-27T20:09:57.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260727-sparkkitty-malware-found-in-app-stores-targets-crypto-wallet-seed-phrases",
+      "localUrl": "/news/20260727-sparkkitty-malware-found-in-app-stores-targets-crypto-wallet-seed-phrases.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
+      "summary": "BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
+      "publishedAt": "2026-07-27T19:55:45.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Market Wrap",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-whats-",
+      "localUrl": "/news/20260727-bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-whats-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
@@ -120,6 +188,17 @@
       "category": "监管",
       "slug": "20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f",
       "localUrl": "/news/20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5\" target=\"_blank\">1/ It’s Monday and we have a…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5",
+      "publishedAt": "2026-07-27T17:00:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
+      "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
     },
     {
       "source": "CoinDesk",
@@ -508,6 +587,17 @@
       "localUrl": "/news/20260727-strategy-sells-5445m-in-mstr-shares-makes-no-bitcoin-purchases-strategy-said-it-.html"
     },
     {
+      "source": "X Wire",
+      "title": "$MSTR - STRATEGY SELLS STOCK, PAUSES BITCOIN BUYING $MSTR raised $544.5 million by selling 5.4 million shares through its ATM program last week. The company did not buy any Bitcoin, keeping its holdings at 843,775 BTC. Strategy also repurcha - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE11SEx6MzNnbnVRZXoxWGpHekVIMmtLXzVZS2tpX3VadDZSRTk0Y05QWDk2YzRFb2tYN1BZTS1UWUc4SkJ4MGhCN29YOEtCRThPS3JuU0pka2IwZGo0NXc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS STOCK, PAUSES BI…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11SEx6MzNnbnVRZXoxWGpHekVIMmtLXzVZS2tpX3VadDZSRTk0Y05QWDk2YzRFb2tYN1BZTS1UWUc4SkJ4MGhCN29YOEtCRThPS3JuU0pka2IwZGo0NXc?oc=5",
+      "publishedAt": "2026-07-27T12:03:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-mstr-strategy-sells-stock-pauses-bitcoin-buying-mstr-raised-5445-million-by-sell",
+      "localUrl": "/news/20260727-mstr-strategy-sells-stock-pauses-bitcoin-buying-mstr-raised-5445-million-by-sell.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
       "summary": "Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
@@ -547,6 +637,17 @@
       "category": "监管",
       "slug": "20260727-bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
       "localUrl": "/news/20260727-bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "UPDATE: Russia's largest bank, Sberbank, plans to build crypto trading infrastructure by December 1 including a digital depository and active crypto wallet, following the State Duma's passage of a comprehensive crypto trading bill on July 21. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5\" target=\"_blank\">UPDATE: Russia's largest bank, Sberbank…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5",
+      "publishedAt": "2026-07-27T11:20:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur",
+      "localUrl": "/news/20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur.html"
     },
     {
       "source": "CoinDesk",
@@ -637,6 +738,17 @@
       "localUrl": "/news/20260727-bitmart-becomes-latest-crypto-exchange-to-shut-down.html"
     },
     {
+      "source": "X Wire",
+      "title": "2026 is the first year ever in which bitcoin difficulty dropped. What do you think it means? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HSVRVUUVQeGtEU2phLVViTkdiZmwzVmpybUJhVWlZY3kzTUVTdTJ5Vk9fbDJoeWNiQkdNck1oeHprS3Z4LTVHbWtwdEVnWUwwZHJEOTNWejZUclNDMnF5c05aT2hqUQ?oc=5\" target=\"_blank\">2026 is the first year ever …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HSVRVUUVQeGtEU2phLVViTkdiZmwzVmpybUJhVWlZY3kzTUVTdTJ5Vk9fbDJoeWNiQkdNck1oeHprS3Z4LTVHbWtwdEVnWUwwZHJEOTNWejZUclNDMnF5c05aT2hqUQ?oc=5",
+      "publishedAt": "2026-07-27T09:46:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin",
+      "localUrl": "/news/20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
       "summary": "Your look at what's coming in the week starting July 27.",
@@ -689,20 +801,6 @@
       "localUrl": "/news/20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
-      "summary": "The decentralized data storage company says operations continue and proposes that token holders take equity in the restructured business — an unusual arrangement in bankruptcy.",
-      "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
-      "publishedAt": "2026-07-27T09:15:43.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260727-cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-t",
-      "localUrl": "/news/20260727-cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-t.html"
-    },
-    {
       "source": "X Wire",
       "title": "Get ready for all your favorite crypto KOLs to explain you how @Revolut is great for you - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UY2NTMENqMnF0UDIzYk54RmVUNTlodGFVMGFwb3lmLVlrejBEMUZ1ZnlzNzlqWVMyRXQzVVZtY2ktWUtVdnFDZHpoVzZ5RE5JVHJIaGY3YVAzSGc?oc=5\" target=\"_blank\">Get ready for all your favorite crypto KOLs…",
@@ -738,17 +836,6 @@
       "category": "安全",
       "slug": "20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m",
       "localUrl": "/news/20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "⏰ Upcoming Token Unlocks (July 27 - Aug 2） Several crypto projects will unlock tokens this week, including $FET, $XPL, $FF, $KMNO, $SUI, $EIGEN,$ENA Investors, keep an eye on these token unlocks events! - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5\" target=\"_blank\">⏰ Upcoming Token Unlocks (J…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5",
-      "publishedAt": "2026-07-27T05:13:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-",
-      "localUrl": "/news/20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-.html"
     },
     {
       "source": "Cointelegraph",
@@ -825,19 +912,6 @@
       "localUrl": "/news/20260727-latest-coinbase-ceo-brian-armstrong-says-ai-wont-replace-crypto-itll-need-it-ai-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "WEMIX says attacker moved about $724,000 after contract breach",
-      "summary": "WEMIX suspended bridges, liquidity-pool trading and several services after an attacker compromised a WEMIX$-linked contract and moved 724,198 USDC.e.",
-      "url": "https://cointelegraph.com/news/wemix-attacker-moves-724k-contract-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T22:53:55.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260726-wemix-says-attacker-moved-about-724000-after-contract-breach",
-      "localUrl": "/news/20260726-wemix-says-attacker-moved-about-724000-after-contract-breach.html"
-    },
-    {
       "source": "X Wire",
       "title": "\"If you're in crypto, pivot to AI.\" I used to hear versions of this, and it's the wrong way to think about the world. It's zero sum, scarcity thinking. Crypto is a general purpose technology. It's infrastructure, the same way electricity or the internet is infrastructure. It does - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5\" target=\"_blank\">\"If you're in crypto, pivot…",
@@ -847,17 +921,6 @@
       "category": "X热点",
       "slug": "20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong",
       "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "bottom's in on bitcoin bottom's in on solana bottom's in on onchain speculation time to make some money - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5\" target=\"_blank\">bottom's in on bitcoin bottom's in on …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5",
-      "publishedAt": "2026-07-26T21:26:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-bottoms-in-on-bitcoin-bottoms-in-on-solana-bottoms-in-on-onchain-speculation-tim",
-      "localUrl": "/news/20260726-bottoms-in-on-bitcoin-bottoms-in-on-solana-bottoms-in-on-onchain-speculation-tim.html"
     },
     {
       "source": "X Wire",
@@ -950,28 +1013,6 @@
       "localUrl": "/news/20260725-while-quantum-computing-isnt-an-immediate-threat-to-bitcoin-were-making-sure-coi.html"
     },
     {
-      "source": "X Wire",
-      "title": "Last 10 Years NVIDIA $NVDA: +15,334% Bitcoin $BTC: +9,632% $AMD: +8,838% Tesla $TSLA: +2,013% Apple $AAPL: +1,385% Google $GOOGL: +750% Netflix $NFLX: +716% Microsoft $MSFT: +663% Amazon $AMZN: +525% Meta: $META: +396% S&P - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5\" target=\"_blank\">Last 10 Years NVIDIA $NVDA: …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ySmlnSmRBQ0pkcDlfNmk1bmNQekVqRC1wMG9TcFNGTGhHd2xGVElkenBYUk1GUElSQzY1LVdpRnI5YmdoaElBT1YzWTNkWDNBVlZtN1lpX2g4RGVLRzI5UzM2M1dIdw?oc=5",
-      "publishedAt": "2026-07-25T17:10:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-",
-      "localUrl": "/news/20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto exchanges, DeFi platforms, and crypto ATMs won't hide from the law anymore. The Clarity Act closes the DINO loophole and brings every corner of the digital asset market inside the Bank Secrecy Act and sanctions framework. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5\" target=\"_blank\">Crypto exchanges, DeFi platforms, and …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5",
-      "publishedAt": "2026-07-25T14:34:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t",
-      "localUrl": "/news/20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t.html"
-    },
-    {
       "source": "Decrypt",
       "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
       "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
@@ -1027,45 +1068,6 @@
       "category": "市场",
       "slug": "20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva",
       "localUrl": "/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-      "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
-      "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-      "publishedAt": "2026-07-24T18:28:43.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260724-claude-opus-5-outscores-fable-5-on-most-benchmarksat-half-the-price",
-      "localUrl": "/news/20260724-claude-opus-5-outscores-fable-5-on-most-benchmarksat-half-the-price.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
-      "summary": "Senate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
-      "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
-      "publishedAt": "2026-07-24T17:50:26.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260724-clarity-act-on-the-ropes-as-ethics-fight-and-shrinking-calendar-threaten-passage",
-      "localUrl": "/news/20260724-clarity-act-on-the-ropes-as-ethics-fight-and-shrinking-calendar-threaten-passage.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
-      "summary": "The Singapore-based pool never recovered from freezing withdrawals in 2022. Now it's auctioning off its last Texas mining sites to pay back 11,700 users still holding IOUs.",
-      "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
-      "publishedAt": "2026-07-24T17:44:48.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy",
-      "localUrl": "/news/20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy.html"
     }
   ]
 }
