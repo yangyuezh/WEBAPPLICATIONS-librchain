@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-27T04:49:02.980Z",
+  "updatedAt": "2026-07-27T08:44:19.682Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+      "summary": "CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+      "publishedAt": "2026-07-27T06:43:34.000Z",
+      "keywords": [
+        "Markets",
+        "Live News",
+        "live_news"
+      ],
+      "category": "DeFi",
+      "slug": "20260727-live-updates-ether-leads-crypto-higher-chinas-gold-imports-surge",
+      "localUrl": "/news/20260727-live-updates-ether-leads-crypto-higher-chinas-gold-imports-surge.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+      "summary": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks.",
+      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+      "publishedAt": "2026-07-27T06:37:54.000Z",
+      "keywords": [
+        "Markets",
+        "quantum computing",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260727-crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-s",
+      "localUrl": "/news/20260727-crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-s.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
+      "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
+      "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T05:15:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m",
+      "localUrl": "/news/20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "BitMart withdrawals appear to slow following wind-down announcement",
@@ -57,6 +101,17 @@
       "localUrl": "/news/20260727-storj-files-for-bankruptcy-explores-equity-path-for-tokenholders.html"
     },
     {
+      "source": "X Wire",
+      "title": "Storj Labs Files for Chapter 11 Bankruptcy After Raising Approximately $35 Million Storj Labs, the company behind decentralized cloud storage network Storj, has voluntarily filed for Chapter 11 bankruptcy protection to address legacy debt while continuing op - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE52STUwUzNhMlNtQVlZRUQtVTAwRUw2SGxhaVNGa3NzWE5JYUFKWndrLWtLOEZSc1NJVHVCYnRjSXh1aUlzZ19zS3Vmd2VCNGNudEpDcENrQzR0bmVLT05Ud3FjUQ?oc=5\" target=\"_blank\">Storj Labs Files for Chapter 11 …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52STUwUzNhMlNtQVlZRUQtVTAwRUw2SGxhaVNGa3NzWE5JYUFKWndrLWtLOEZSc1NJVHVCYnRjSXh1aUlzZ19zS3Vmd2VCNGNudEpDcENrQzR0bmVLT05Ud3FjUQ?oc=5",
+      "publishedAt": "2026-07-27T00:37:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-storj-labs-files-for-chapter-11-bankruptcy-after-raising-approximately-35-millio",
+      "localUrl": "/news/20260727-storj-labs-files-for-chapter-11-bankruptcy-after-raising-approximately-35-millio.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler’s Digest, July 26",
       "summary": "Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act’s chances dim. BitMEX to close as crypto consolidates into five big players.",
@@ -68,6 +123,17 @@
       "category": "监管",
       "slug": "20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26",
       "localUrl": "/news/20260727-clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-26.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 LATEST: Coinbase CEO Brian Armstrong says AI won't replace crypto, it'll need it. \"AI being a megatrend takes nothing away from crypto. If anything, it makes crypto more important.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUzR4NkdKOG9nNGtEcUlKTkxSekMwS0Y4UUl1S3VFVnlGaC1QZGN5QTVlVGZDdjhnYkVOeDQ2em41RE5Lb1lrNnRzcjg2cDFzc1JDbmI3WTFvQ09XUW1qMjRsUkc?oc=5\" target=\"_blank\">🔥 LATEST: Coinbase CEO Brian A…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUzR4NkdKOG9nNGtEcUlKTkxSekMwS0Y4UUl1S3VFVnlGaC1QZGN5QTVlVGZDdjhnYkVOeDQ2em41RE5Lb1lrNnRzcjg2cDFzc1JDbmI3WTFvQ09XUW1qMjRsUkc?oc=5",
+      "publishedAt": "2026-07-27T00:00:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-latest-coinbase-ceo-brian-armstrong-says-ai-wont-replace-crypto-itll-need-it-ai-",
+      "localUrl": "/news/20260727-latest-coinbase-ceo-brian-armstrong-says-ai-wont-replace-crypto-itll-need-it-ai-.html"
     },
     {
       "source": "CoinDesk",
@@ -163,6 +229,17 @@
       "category": "监管",
       "slug": "20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica",
       "localUrl": "/news/20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: BitMart has processed 0 altcoin, stablecoin, or Bitcoin withdrawals above $25K in the past 24 hours. Onchain data shows no large withdrawals from BitMart by retail users, MMs, or listed projects during this period. In other verified news, BitMart Global - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qRkM5MjVjWFNYRVJDa2dTM3pUeXpzdjhLWXBGTWxCZHNGczJYNXF4OTNsV2FJNG90ODU0Y0RTMmhfdWZwb1BTUi1KU2ROcUFaRGVJbWdUQkVLV3ZGbkdBUm5R?oc=5\" target=\"_blank\">JUST IN: BitMart has processed 0 a…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qRkM5MjVjWFNYRVJDa2dTM3pUeXpzdjhLWXBGTWxCZHNGczJYNXF4OTNsV2FJNG90ODU0Y0RTMmhfdWZwb1BTUi1KU2ROcUFaRGVJbWdUQkVLV3ZGbkdBUm5R?oc=5",
+      "publishedAt": "2026-07-26T17:11:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260726-just-in-bitmart-has-processed-0-altcoin-stablecoin-or-bitcoin-withdrawals-above-",
+      "localUrl": "/news/20260726-just-in-bitmart-has-processed-0-altcoin-stablecoin-or-bitcoin-withdrawals-above-.html"
     },
     {
       "source": "X Wire",
@@ -357,17 +434,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨ALERT: Centralized crypto exchange BitMart announces it will shut down, following BitMEX. New registrations, deposits and trading orders were suspended on July 26, with all trading set to end on August 26. BitMart’s BMX token plunged roughly 63% in 24 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUTFwNmM4VzIyTV9EWS0xYnlURmVXSEoyeDhZaDlMMDNVWE02Wi1SbEstNEhYZndDM2dUS3pSZTFsWDZ2c3hwTkUxZy1PdVlHQzlpLUwxMm1zdlRLMkloWQ?oc=5\" target=\"_blank\">🚨ALERT: Centralized crypto exchange…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zUTFwNmM4VzIyTV9EWS0xYnlURmVXSEoyeDhZaDlMMDNVWE02Wi1SbEstNEhYZndDM2dUS3pSZTFsWDZ2c3hwTkUxZy1PdVlHQzlpLUwxMm1zdlRLMkloWQ?oc=5",
-      "publishedAt": "2026-07-26T02:30:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-",
-      "localUrl": "/news/20260726-alert-centralized-crypto-exchange-bitmart-announces-it-will-shut-down-following-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Breaking: Another centralized crypto exchange, Bitmart, has announced its closure, following BitMEX, In 2021, BitMart attracted retail investors in altcoins, and its 24-hour trading volume once entered the top 10. Fenbushi, Hack VC invested in it in 2021 at 300 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94ellLRGF4NFFCeUtpWFFndVJxMU9lUHBQb1dWWk5QaEFyVTgtSE5RR3hqWl9ENl9LaVZxQmNWenByaVlvcW0tN1FtMXRzZ01ZdWFad3hXbTY5SG0zUTJkaS1HOA?oc=5\" target=\"_blank\">Breaking: Another centralized cr…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94ellLRGF4NFFCeUtpWFFndVJxMU9lUHBQb1dWWk5QaEFyVTgtSE5RR3hqWl9ENl9LaVZxQmNWenByaVlvcW0tN1FtMXRzZ01ZdWFad3hXbTY5SG0zUTJkaS1HOA?oc=5",
@@ -426,17 +492,6 @@
       "localUrl": "/news/20260725-robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj.html"
     },
     {
-      "source": "X Wire",
-      "title": "ethereum:0xf1a7000000950c7ad8aff13118bb7ab561a448ee is now LIVE on Robinhood. RH CA: 0x667f0926022E6B9e9F67A9314eD5830bE54346b2 Base CA: 0xf1a7000000950c7ad8aff13118bb7ab561a448ee ETH Mainnet CA: 0xf1a7000000950c7ad8 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ySmxyNG9TQU9ES3p1eFdob2YtalFsclJ1aHU0Z3AwcW4tRWdGdW1pcGZJbWYzYlNuMEdPTEN3SmZiUzZCbUQ1V1hNYkNKdHItLUpOWWpvdjFBQ3lsOHpV?oc=5\" target=\"_blank\">ethereum:0xf1a7000000950c7ad8aff13118b…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ySmxyNG9TQU9ES3p1eFdob2YtalFsclJ1aHU0Z3AwcW4tRWdGdW1pcGZJbWYzYlNuMEdPTEN3SmZiUzZCbUQ1V1hNYkNKdHItLUpOWWpvdjFBQ3lsOHpV?oc=5",
-      "publishedAt": "2026-07-25T18:58:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-ethereum0xf1a7000000950c7ad8aff13118bb7ab561a448ee-is-now-live-on-robinhood-rh-c",
-      "localUrl": "/news/20260725-ethereum0xf1a7000000950c7ad8aff13118bb7ab561a448ee-is-now-live-on-robinhood-rh-c.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
       "summary": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
@@ -448,17 +503,6 @@
       "category": "监管",
       "slug": "20260725-bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program",
       "localUrl": "/news/20260725-bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "revived memecoins, defi, NFTs & bottomed bitcoin all at the same time 🐂🀄️ - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lNnk2UU0yYTgyOVJMRnNlckhnTE9qVmtXZ1F1bUpUdWdQSGxRRUJTdWZmd2dHQWg0UlVqRm5RRUFVV1BPODhKZmxlYkdJOG14bHdvelRJaDVqdUM4Uk9n?oc=5\" target=\"_blank\">revived memecoins, defi, NFTs & bottom…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lNnk2UU0yYTgyOVJMRnNlckhnTE9qVmtXZ1F1bUpUdWdQSGxRRUJTdWZmd2dHQWg0UlVqRm5RRUFVV1BPODhKZmxlYkdJOG14bHdvelRJaDVqdUM4Uk9n?oc=5",
-      "publishedAt": "2026-07-25T18:00:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-revived-memecoins-defi-nfts-bottomed-bitcoin-all-at-the-same-time-xcom",
-      "localUrl": "/news/20260725-revived-memecoins-defi-nfts-bottomed-bitcoin-all-at-the-same-time-xcom.html"
     },
     {
       "source": "X Wire",
@@ -656,19 +700,6 @@
       "localUrl": "/news/20260724-stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "EU authorities include HTX exchange in Russian sanctions",
-      "summary": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
-      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-24T21:53:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260724-eu-authorities-include-htx-exchange-in-russian-sanctions",
-      "localUrl": "/news/20260724-eu-authorities-include-htx-exchange-in-russian-sanctions.html"
-    },
-    {
       "source": "X Wire",
       "title": "The Clarity Act finally answers a question crypto has asked since Howey: when does a digital asset stop being a security? By defining \"ancillary assets,\" we're giving builders a clear path forward instead of years of regulatory guesswork that's driven innovation - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZcU9wVFB2b3FlbGdnODBlc3BZRk1KQnA3a2NxY1M2ak5hYkt2Vk1ZWWxtNW5IQUt1VWJKMzJVM1pza3ZBS2hfSmE2Y1B6ZE9mNjBqSFItbUVjU1lfSUlR?oc=5\" target=\"_blank\">The Clarity Act finally answers a ques…",
@@ -748,17 +779,6 @@
       "category": "市场",
       "slug": "20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy",
       "localUrl": "/news/20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Morgan Stanley Bitcoin Trust (MSBT) has surpassed $400 million in inflows 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qSXo5azZ0SnQwZ25QQ0FpRlpNalZzLWI0US13eE5PbGFyTGk5T0lCVlVIaHp5WnFIU3dsUC1yN3oweDhpbVlEMERtN2RPVUp0U3VlcVFZMjBPNDdDVDVOcUcyc1BPa0k?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Morgan Stanle…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qSXo5azZ0SnQwZ25QQ0FpRlpNalZzLWI0US13eE5PbGFyTGk5T0lCVlVIaHp5WnFIU3dsUC1yN3oweDhpbVlEMERtN2RPVUp0U3VlcVFZMjBPNDdDVDVOcUcyc1BPa0k?oc=5",
-      "publishedAt": "2026-07-24T17:00:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x",
-      "localUrl": "/news/20260724-just-in-morgan-stanley-bitcoin-trust-msbt-has-surpassed-400-million-in-inflows-x.html"
     },
     {
       "source": "Decrypt",
@@ -892,6 +912,17 @@
       "localUrl": "/news/20260724-saylor-and-team-overhaul-strategys-bitcoin-metrics-as-bear-market-persists.html"
     },
     {
+      "source": "X Wire",
+      "title": "The 3 leading U.S. digital asset trade groups — @BlockchainAssn, @crypto_council, and @DigitalChamber — express strong support for Senate floor consideration of the Clarity Act. The time is now for Clarity. theblockchainassociation.org/api/media/file… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWkROMkpTR2lpaF94RVR4Z1RtSDV1NlNkTDVKejRxV0hKLTNSdUFveGN0ZnN1MXhIanBBNkdjTm5LZlU2dllEVWJDcVJObXlZOTNlRExhY1BrVFpvQjFhbm82Sk1kUQ?oc=5\" target=\"_blank\">The 3 leading U.S. digital a…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pWkROMkpTR2lpaF94RVR4Z1RtSDV1NlNkTDVKejRxV0hKLTNSdUFveGN0ZnN1MXhIanBBNkdjTm5LZlU2dllEVWJDcVJObXlZOTNlRExhY1BrVFpvQjFhbm82Sk1kUQ?oc=5",
+      "publishedAt": "2026-07-24T13:04:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di",
+      "localUrl": "/news/20260724-the-3-leading-us-digital-asset-trade-groups-blockchainassn-crypto_council-and-di.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
       "summary": "Smart collars monitor herd health in real time to prevent fraud, allowing local agricultural businesses to secure thousands in funding backed by livestock.",
@@ -966,36 +997,6 @@
       "category": "市场",
       "slug": "20260724-crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
       "localUrl": "/news/20260724-crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's institutional influx has killed the memecoin craze",
-      "summary": "Your day-ahead look for July 24, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
-      "publishedAt": "2026-07-24T11:35:48.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260724-cryptos-institutional-influx-has-killed-the-memecoin-craze",
-      "localUrl": "/news/20260724-cryptos-institutional-influx-has-killed-the-memecoin-craze.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A $5 billion cluster has formed in bitcoin options. It tells a bullish story",
-      "summary": "Bitcoin's $70,000 and $72,000 call strikes on Deribit have accumulated nearly $5 billion in open interest, with calls outnumbering puts by a significant margin.",
-      "url": "https://www.coindesk.com/markets/2026/07/24/a-usd5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
-      "publishedAt": "2026-07-24T11:34:53.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260724-a-5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story",
-      "localUrl": "/news/20260724-a-5-billion-cluster-has-formed-in-bitcoin-options-it-tells-a-bullish-story.html"
     },
     {
       "source": "Decrypt",
