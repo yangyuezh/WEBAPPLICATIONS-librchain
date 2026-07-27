@@ -1,7 +1,113 @@
 {
-  "updatedAt": "2026-07-27T17:53:02.726Z",
+  "updatedAt": "2026-07-27T19:49:43.363Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
+      "summary": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
+      "url": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets",
+      "publishedAt": "2026-07-27T19:45:31.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260727-fanatics-buys-cftc-registered-exchange-in-prediction-markets-land-grab",
+      "localUrl": "/news/20260727-fanatics-buys-cftc-registered-exchange-in-prediction-markets-land-grab.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
+      "summary": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
+      "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T19:22:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260727-bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin",
+      "localUrl": "/news/20260727-bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
+      "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
+      "url": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
+      "publishedAt": "2026-07-27T19:01:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test",
+      "localUrl": "/news/20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T18:51:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260727-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260727-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Securitize Capital becomes SEC-registered investment adviser",
+      "summary": "The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
+      "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-27T18:41:30.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260727-securitize-capital-becomes-sec-registered-investment-adviser",
+      "localUrl": "/news/20260727-securitize-capital-becomes-sec-registered-investment-adviser.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
+      "summary": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing—and someone already saved 11,241 of those messages to GitHub.",
+      "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
+      "publishedAt": "2026-07-27T18:24:29.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260727-your-shared-claude-chats-were-being-quietly-published-on-google",
+      "localUrl": "/news/20260727-your-shared-claude-chats-were-being-quietly-published-on-google.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
+      "summary": "Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back until liquidity, rules, and infrastruc…",
+      "url": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Perps Week 2026",
+        "Feature"
+      ],
+      "category": "DeFi",
+      "slug": "20260727-cryptos-favorite-90-trillion-trading-product-is-coming-to-wall-street-but-big-ba",
+      "localUrl": "/news/20260727-cryptos-favorite-90-trillion-trading-product-is-coming-to-wall-street-but-big-ba.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity",
+      "summary": "More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.",
+      "url": "https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
+      "publishedAt": "2026-07-27T17:58:46.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse",
+      "localUrl": "/news/20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse.html"
+    },
     {
       "source": "Decrypt",
       "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
@@ -129,17 +235,6 @@
       "localUrl": "/news/20260727-fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor's 'Strategy' has not purchased any Bitcoin over the past month. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmblowbkx2QUdmU0pwaWZQQ1NjOEF5VUwweHYtQWQ0bWRvNnJaeVBYdlpfNEtORXVBNkJuNTRrS05WWUQ2enkyYnpVMEtGTnAySk9iMDlOemNCRVdXWmszMXlB?oc=5\" target=\"_blank\">JUST IN: Michael Saylor's 'Strateg…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmblowbkx2QUdmU0pwaWZQQ1NjOEF5VUwweHYtQWQ0bWRvNnJaeVBYdlpfNEtORXVBNkJuNTRrS05WWUQ2enkyYnpVMEtGTnAySk9iMDlOemNCRVdXWmszMXlB?oc=5",
-      "publishedAt": "2026-07-27T14:41:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-just-in-michael-saylors-strategy-has-not-purchased-any-bitcoin-over-the-past-mon",
-      "localUrl": "/news/20260727-just-in-michael-saylors-strategy-has-not-purchased-any-bitcoin-over-the-past-mon.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
       "summary": "The Swiss bank is exploring multiple paths to the public markets, though discussions are ongoing and no final decision has been made.",
@@ -156,6 +251,17 @@
       "category": "RWA",
       "slug": "20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
       "localUrl": "/news/20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Strategy holds 843,775 Bitcoin - more than 4% of the 21 million BTC that will ever exist. Following today's announcement, they can cover their preferred equity obligations for 2.1 years without raising a single new dollar. What they've built with preferred equity i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HN0RuMGZkVjB1Z3M5US04SGEzbjRka1FUTHJ0RzNrMXpyQTBMbHJBVEZmM0RMNmd2NDl0dXBpUkFsSHYzdEptRWhLdHdWaGhnbkNiYklSZ3BpWmtuWmFv?oc=5\" target=\"_blank\">Strategy holds 843,775 Bitcoin - more …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HN0RuMGZkVjB1Z3M5US04SGEzbjRka1FUTHJ0RzNrMXpyQTBMbHJBVEZmM0RMNmd2NDl0dXBpUkFsSHYzdEptRWhLdHdWaGhnbkNiYklSZ3BpWmtuWmFv?oc=5",
+      "publishedAt": "2026-07-27T14:04:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-strategy-holds-843775-bitcoin-more-than-4-of-the-21-million-btc-that-will-ever-e",
+      "localUrl": "/news/20260727-strategy-holds-843775-bitcoin-more-than-4-of-the-21-million-btc-that-will-ever-e.html"
     },
     {
       "source": "CoinDesk",
@@ -621,21 +727,6 @@
       "localUrl": "/news/20260727-coinbase-ceo-touts-agentic-finance-as-base-tops-100m-ai-payments.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gives up early gains as stocks reverse lower",
-      "summary": "CoinEx's Jeff Ko sees bitcoin staying range-bound near $65,000 while retreating oil, a 4.7% 10-year yield and a week of mega-cap earnings set the tone.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-      "publishedAt": "2026-07-27T06:43:34.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "DeFi",
-      "slug": "20260727-live-updates-bitcoin-gives-up-early-gains-as-stocks-reverse-lower",
-      "localUrl": "/news/20260727-live-updates-bitcoin-gives-up-early-gains-as-stocks-reverse-lower.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
       "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
@@ -758,19 +849,6 @@
       "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T21:40:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260726-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260726-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "X Wire",
       "title": "bottom's in on bitcoin bottom's in on solana bottom's in on onchain speculation time to make some money - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5\" target=\"_blank\">bottom's in on bitcoin bottom's in on …",
@@ -793,19 +871,6 @@
       "localUrl": "/news/20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
-      "summary": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
-      "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T17:45:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica",
-      "localUrl": "/news/20260726-cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW: 🇮🇳 CBDT issues new crypto tax reporting guidelines for exchanges. Key points: • No new crypto tax introduced • Exchanges, not investors, bear the primary reporting burden • First reporting is due in 2027 for 2026 transactions • Part of India's adoption of - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcTNmbUtZV01MeXhUM01DZVdSclhPTGVOOGVjRWZHYnJfVUJZcWtoWnd1MUhSLUcwRERZMmlxSTdYWXNLX3lEY2tIZFA4Z3F5dm01aEpldDlLdXR5T3kzOXpFZw?oc=5\" target=\"_blank\">NEW: 🇮🇳 CBDT issues new crypto…",
@@ -815,30 +880,6 @@
       "category": "X热点",
       "slug": "20260726-new-cbdt-issues-new-crypto-tax-reporting-guidelines-for-exchanges-key-points-no-",
       "localUrl": "/news/20260726-new-cbdt-issues-new-crypto-tax-reporting-guidelines-for-exchanges-key-points-no-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Russia’s Sberbank to launch crypto trading infrastructure this year",
-      "summary": "Russia’s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.",
-      "url": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-26T16:07:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260726-russias-sberbank-to-launch-crypto-trading-infrastructure-this-year",
-      "localUrl": "/news/20260726-russias-sberbank-to-launch-crypto-trading-infrastructure-this-year.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: BitMart's crypto token $BMX collapses over 60% after the exchange announces it is shutting down. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pUkFIemlCSXp3eEVLU3EyZFpsd3NJcE10aS03M3ZRcElvQlNGOUdYb0RvS3hUbHZzTTFkaFdNVF96U2VPNjB3RXF6bFpXNXRpdDR4bTR0cW14S21ZY0RGNExR?oc=5\" target=\"_blank\">JUST IN: BitMart's crypto token $B…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pUkFIemlCSXp3eEVLU3EyZFpsd3NJcE10aS03M3ZRcElvQlNGOUdYb0RvS3hUbHZzTTFkaFdNVF96U2VPNjB3RXF6bFpXNXRpdDR4bTR0cW14S21ZY0RGNExR?oc=5",
-      "publishedAt": "2026-07-26T14:36:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-just-in-bitmarts-crypto-token-bmx-collapses-over-60-after-the-exchange-announces",
-      "localUrl": "/news/20260726-just-in-bitmarts-crypto-token-bmx-collapses-over-60-after-the-exchange-announces.html"
     },
     {
       "source": "Decrypt",
@@ -918,6 +959,17 @@
       "category": "X热点",
       "slug": "20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-",
       "localUrl": "/news/20260725-last-10-years-nvidia-nvda-15334-bitcoin-btc-9632-amd-8838-tesla-tsla-2013-apple-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto exchanges, DeFi platforms, and crypto ATMs won't hide from the law anymore. The Clarity Act closes the DINO loophole and brings every corner of the digital asset market inside the Bank Secrecy Act and sanctions framework. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5\" target=\"_blank\">Crypto exchanges, DeFi platforms, and …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBN2o5UklPbldRRnVpTnFWekotbGhaRmtnZF94M1NhMzFQcURLcDJoclVUaHR0TDZKTVozTEpzZ0V6Ry0zNWhyOHVUakRJRG9lUVN4OXJmdjRKelkzZFpJ?oc=5",
+      "publishedAt": "2026-07-25T14:34:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t",
+      "localUrl": "/news/20260725-crypto-exchanges-defi-platforms-and-crypto-atms-wont-hide-from-the-law-anymore-t.html"
     },
     {
       "source": "Decrypt",
@@ -1014,59 +1066,6 @@
       "category": "市场",
       "slug": "20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy",
       "localUrl": "/news/20260724-poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
-      "summary": "Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
-      "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
-      "publishedAt": "2026-07-24T16:34:25.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260724-nvidia-meta-and-microsoft-tell-washington-dont-kill-open-source-ai",
-      "localUrl": "/news/20260724-nvidia-meta-and-microsoft-tell-washington-dont-kill-open-source-ai.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Strategy Overhauls Bitcoin Metrics, Debuting 'Net Bitcoin Per Share'",
-      "summary": "The firm says its \"digital credit\" shift needs new yardsticks that strip out debt and preferred claims to show what common shareholders own.",
-      "url": "https://decrypt.co/374281/strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
-      "publishedAt": "2026-07-24T16:21:52.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260724-strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
-      "localUrl": "/news/20260724-strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
-      "summary": "BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities—though the week still closed in the green.",
-      "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
-      "publishedAt": "2026-07-24T16:17:37.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260724-bitcoin-etfs-shed-225m-snapping-seven-day-inflow-streak-as-iran-tensions-spook-m",
-      "localUrl": "/news/20260724-bitcoin-etfs-shed-225m-snapping-seven-day-inflow-streak-as-iran-tensions-spook-m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID",
-      "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
-      "url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
-      "publishedAt": "2026-07-24T14:57:56.000Z",
-      "keywords": [
-        "worldcoin-wld",
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260724-world-foundation-raises-525m-to-scale-sam-altmans-proof-of-human-id",
-      "localUrl": "/news/20260724-world-foundation-raises-525m-to-scale-sam-altmans-proof-of-human-id.html"
     }
   ]
 }
