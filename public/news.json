@@ -1,7 +1,123 @@
 {
-  "updatedAt": "2026-07-28T06:37:22.922Z",
+  "updatedAt": "2026-07-28T09:44:02.951Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
+      "summary": "Trading volumes across major centralized platforms fell down to $1.05 trillion, marking the quietest stretch of activity for the digital asset market in over two years.",
+      "url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
+      "publishedAt": "2026-07-28T09:36:01.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
+      "localUrl": "/news/20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+      "summary": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
+      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T09:14:45.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-lido-upgrade-aims-to-slash-ethereums-validator-count-by-one-third",
+      "localUrl": "/news/20260728-lido-upgrade-aims-to-slash-ethereums-validator-count-by-one-third.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+      "summary": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
+      "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T09:12:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260728-ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network",
+      "localUrl": "/news/20260728-ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban—For Now",
+      "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
+      "url": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now",
+      "publishedAt": "2026-07-28T09:04:19.000Z",
+      "keywords": [
+        "polygon",
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n",
+      "localUrl": "/news/20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+      "summary": "Weeks ago, the U.S. CFTC opened the gates for crypto perps with its first listing approval, but major derivatives player CME is fighting back against what it sees as a diversion from the law.",
+      "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+      "publishedAt": "2026-07-28T08:00:00.000Z",
+      "keywords": [
+        "Policy",
+        "Perps Week 2026",
+        "Feature"
+      ],
+      "category": "监管",
+      "slug": "20260728-inside-the-cme-and-cftcs-battle-over-onchain-perpetual-futures",
+      "localUrl": "/news/20260728-inside-the-cme-and-cftcs-battle-over-onchain-perpetual-futures.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
+      "summary": "The Hong Kong Monetary Authority published a whitepaper on the quantum preparedness of Hong Kong’s banking industry and its first Quantum Preparedness Index.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
+      "publishedAt": "2026-07-28T07:55:41.000Z",
+      "keywords": [
+        "Markets",
+        "quantum computing",
+        "Hong Kong",
+        "banks",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260728-hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l",
+      "localUrl": "/news/20260728-hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+      "summary": "It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
+      "publishedAt": "2026-07-28T07:46:22.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Live News",
+        "live_news"
+      ],
+      "category": "市场",
+      "slug": "20260728-live-updates-bitcoins-next-move-hinges-on-breakeven-wall-at-68500-nasdaq-futures",
+      "localUrl": "/news/20260728-live-updates-bitcoins-next-move-hinges-on-breakeven-wall-at-68500-nasdaq-futures.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+      "summary": "Three users allege a fake Sparrow Wallet app on Apple’s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.",
+      "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T07:40:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses",
+      "localUrl": "/news/20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
@@ -45,7 +161,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
+      "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
       "summary": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
       "url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-28T03:17:10.000Z",
@@ -53,8 +169,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260728-zimbabwe-admits-seven-fintech-projects-to-regulatory-sandbox",
-      "localUrl": "/news/20260728-zimbabwe-admits-seven-fintech-projects-to-regulatory-sandbox.html"
+      "slug": "20260728-zimbabwe-admits-7-fintech-projects-to-regulatory-sandbox",
+      "localUrl": "/news/20260728-zimbabwe-admits-7-fintech-projects-to-regulatory-sandbox.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -87,7 +203,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
+      "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
       "summary": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
       "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-28T01:23:07.000Z",
@@ -95,8 +211,8 @@
         "Magazine"
       ],
       "category": "安全",
-      "slug": "20260728-binance-phishs-its-own-staff-monthly-india-censors-bitchat-code-asia-express",
-      "localUrl": "/news/20260728-binance-phishs-its-own-staff-monthly-india-censors-bitchat-code-asia-express.html"
+      "slug": "20260728-binance-phishes-its-own-staff-monthly-india-censors-bitchat-code-asia-express",
+      "localUrl": "/news/20260728-binance-phishes-its-own-staff-monthly-india-censors-bitchat-code-asia-express.html"
     },
     {
       "source": "CoinDesk",
@@ -455,6 +571,17 @@
       "localUrl": "/news/20260727-kraken-parent-payward-acquires-magic-labs-wallet-business.html"
     },
     {
+      "source": "X Wire",
+      "title": "NEW: 🇺🇸 Sen. Dave McCormic on CLARITY ACT \"The time for delay is over.\" \"Bring the CLARITY Act to the Senate Floor for a vote and let every senator go on the record.\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oQ29TdFZaNGY3aWZIZTl3VWhHNGNxUld1a0s2MG44cjFJYXJiOWZObWk4YWM3RkFORlE5V3hpMUV0emp1NmY0d0N0R3BQNGR5T2RXNGJSTVU3SWM1ZzVYZnRMRTJVajA?oc=5\" target=\"_blank\">NEW: 🇺🇸 Sen. Dave McCormi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oQ29TdFZaNGY3aWZIZTl3VWhHNGNxUld1a0s2MG44cjFJYXJiOWZObWk4YWM3RkFORlE5V3hpMUV0emp1NmY0d0N0R3BQNGR5T2RXNGJSTVU3SWM1ZzVYZnRMRTJVajA?oc=5",
+      "publishedAt": "2026-07-27T16:20:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-new-sen-dave-mccormic-on-clarity-act-the-time-for-delay-is-over-bring-the-clarit",
+      "localUrl": "/news/20260727-new-sen-dave-mccormic-on-clarity-act-the-time-for-delay-is-over-bring-the-clarit.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
       "summary": "The company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.",
@@ -562,6 +689,17 @@
       "category": "RWA",
       "slug": "20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
       "localUrl": "/news/20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto deal-making has collapsed. Just 44 crypto deals were announced in July: • 41 fundraising rounds • 2 M&A deals • 1 debt financing Source: Blockworks Research - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5\" target=\"_blank\">Crypto deal-making has collapsed…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5",
+      "publishedAt": "2026-07-27T14:10:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-",
+      "localUrl": "/news/20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-.html"
     },
     {
       "source": "CoinDesk",
@@ -757,19 +895,6 @@
       "localUrl": "/news/20260727-circle-buys-nearly-1000-blockchain-patents-from-ibm.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock",
-      "summary": "Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 million of STRC shares and expanded its US dollar reserve to $3.75 billion.",
-      "url": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T12:34:36.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-strategy-sells-mstr-shares-buys-back-25m-in-strc-preferred-stock",
-      "localUrl": "/news/20260727-strategy-sells-mstr-shares-buys-back-25m-in-strc-preferred-stock.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
       "summary": "Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
@@ -792,20 +917,6 @@
       "category": "X热点",
       "slug": "20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-",
       "localUrl": "/news/20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Michael Saylor's Strategy boosted cash reserve to $3.75 billion, repurchased $25 million of STRC",
-      "summary": "The company last week raised $544.5 million in cash via sales of its common stock.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/michael-saylor-s-strategy-boosted-cash-reserve-to-usd3-75-billion",
-      "publishedAt": "2026-07-27T12:12:54.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260727-michael-saylors-strategy-boosted-cash-reserve-to-375-billion-repurchased-25-mill",
-      "localUrl": "/news/20260727-michael-saylors-strategy-boosted-cash-reserve-to-375-billion-repurchased-25-mill.html"
     },
     {
       "source": "X Wire",
@@ -854,21 +965,6 @@
       "localUrl": "/news/20260727-morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin options traders are dropping their hedges going into the Fed meeting",
-      "summary": "The put/call ratio has fallen to about 0.52 from 0.76 in late June, and one-week downside protection has collapsed in price. The options market is positioned for a quiet week that contains an FOMC decision.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
-      "publishedAt": "2026-07-27T11:53:18.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260727-bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting",
-      "localUrl": "/news/20260727-bitcoin-options-traders-are-dropping-their-hedges-going-into-the-fed-meeting.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
       "summary": "The selling reversed a seven-day, $1 billion inflow streak, with analysts blaming renewed U.S.-Iran tensions and Fed rate-hike fears.",
@@ -891,50 +987,6 @@
       "category": "X热点",
       "slug": "20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur",
       "localUrl": "/news/20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ballooning U.S. debt sends investors to bitcoin, gold to shelter from dollar devaluation",
-      "summary": "Your day-ahead look for July 27, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/27/ballooning-u-s-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devaluation",
-      "publishedAt": "2026-07-27T11:15:00.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260727-ballooning-us-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devalu",
-      "localUrl": "/news/20260727-ballooning-us-debt-sends-investors-to-bitcoin-gold-to-shelter-from-dollar-devalu.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETFs post third straight weekly inflows despite $465 million in late-week losses",
-      "summary": "The vast majority of the activity was concentrated in BlackRock’s IBIT product accounting for nearly $415 million of the outflows.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-etfs-record-third-consecutive-weekly-inflows-despite-losses-of-usd465-million-to-end-week",
-      "publishedAt": "2026-07-27T11:04:39.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "ETFs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-bitcoin-etfs-post-third-straight-weekly-inflows-despite-465-million-in-late-week",
-      "localUrl": "/news/20260727-bitcoin-etfs-post-third-straight-weekly-inflows-despite-465-million-in-late-week.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-      "summary": "BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CASPs, including banks and crypto platforms, in the third post-deadline update.",
-      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T10:38:09.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-bny-mellon-unit-joins-mica-register-as-esma-adds-15-providers",
-      "localUrl": "/news/20260727-bny-mellon-unit-joins-mica-register-as-esma-adds-15-providers.html"
     },
     {
       "source": "Decrypt",
@@ -961,19 +1013,6 @@
       "localUrl": "/news/20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
-      "summary": "Brazilian police suspect the group of shipping around 6.5 metric tons of cocaine and laundering billions in Brazilian reals through crypto-enabled illicit money brokers.",
-      "url": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T09:29:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-brazilian-police-bust-cocaine-traffickers-in-crypto-linked-transnational-probe",
-      "localUrl": "/news/20260727-brazilian-police-bust-cocaine-traffickers-in-crypto-linked-transnational-probe.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
       "summary": "The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.",
@@ -988,17 +1027,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 LATEST: Coinbase CEO Brian Armstrong says AI won't replace crypto, it'll need it. \"AI being a megatrend takes nothing away from crypto. If anything, it makes crypto more important.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUzR4NkdKOG9nNGtEcUlKTkxSekMwS0Y4UUl1S3VFVnlGaC1QZGN5QTVlVGZDdjhnYkVOeDQ2em41RE5Lb1lrNnRzcjg2cDFzc1JDbmI3WTFvQ09XUW1qMjRsUkc?oc=5\" target=\"_blank\">🔥 LATEST: Coinbase CEO Brian A…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tUzR4NkdKOG9nNGtEcUlKTkxSekMwS0Y4UUl1S3VFVnlGaC1QZGN5QTVlVGZDdjhnYkVOeDQ2em41RE5Lb1lrNnRzcjg2cDFzc1JDbmI3WTFvQ09XUW1qMjRsUkc?oc=5",
-      "publishedAt": "2026-07-27T00:00:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-latest-coinbase-ceo-brian-armstrong-says-ai-wont-replace-crypto-itll-need-it-ai-",
-      "localUrl": "/news/20260727-latest-coinbase-ceo-brian-armstrong-says-ai-wont-replace-crypto-itll-need-it-ai-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "\"If you're in crypto, pivot to AI.\" I used to hear versions of this, and it's the wrong way to think about the world. It's zero sum, scarcity thinking. Crypto is a general purpose technology. It's infrastructure, the same way electricity or the internet is infrastructure. It does - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5\" target=\"_blank\">\"If you're in crypto, pivot…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5",
@@ -1007,17 +1035,6 @@
       "category": "X热点",
       "slug": "20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong",
       "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "bottom's in on bitcoin bottom's in on solana bottom's in on onchain speculation time to make some money - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5\" target=\"_blank\">bottom's in on bitcoin bottom's in on …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkNmgtUnZUbzZOUWVuSWlhNkRIMzRINU5nR3RXOUdZRkxCaGhGNmpGVlF6eWwwb0szOE01TXlubUQ0RG5RXzBEVTVGbl9qWnBwR21HOC1aTjFLZlMzWjk4?oc=5",
-      "publishedAt": "2026-07-26T21:26:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-bottoms-in-on-bitcoin-bottoms-in-on-solana-bottoms-in-on-onchain-speculation-tim",
-      "localUrl": "/news/20260726-bottoms-in-on-bitcoin-bottoms-in-on-solana-bottoms-in-on-onchain-speculation-tim.html"
     },
     {
       "source": "X Wire",
@@ -1053,19 +1070,6 @@
       "category": "X热点",
       "slug": "20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people",
       "localUrl": "/news/20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
-      "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
-      "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
-      "publishedAt": "2026-07-25T14:01:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one",
-      "localUrl": "/news/20260725-what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one.html"
     },
     {
       "source": "Chainalysis Blog",
