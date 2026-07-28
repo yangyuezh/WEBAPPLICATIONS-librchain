@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-07-28T03:30:15.883Z",
+  "updatedAt": "2026-07-28T06:37:22.922Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+      "summary": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
+      "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T06:00:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-binance-co-founder-cz-backs-crypto-license-passporting-across-asean",
+      "localUrl": "/news/20260728-binance-co-founder-cz-backs-crypto-license-passporting-across-asean.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+      "publishedAt": "2026-07-28T04:32:39.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-bitcoin-slides-2-after-us-close-while-koreas-kospi-plunges-10",
+      "localUrl": "/news/20260728-bitcoin-slides-2-after-us-close-while-koreas-kospi-plunges-10.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US judge temporarily blocks Minnesota prediction market ban",
+      "summary": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
+      "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T04:28:10.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban",
+      "localUrl": "/news/20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
@@ -113,6 +154,17 @@
       "category": "监管",
       "slug": "20260727-new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement",
       "localUrl": "/news/20260727-new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin falls back under $64,000 as $100 million is liquidated from the crypto market in the past 60 minutes. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcG9uRTYtZG9NYVljVXczdGd0MFh6Mmt2M2dqemY3N0hVQVhOU1p0Y0o4Tlp6WFFPZkNpbVljeGQtWDBWWnhBS2hpQXlxcy1MamtMM21Bamp2bl90RFdjWGpB?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls back under …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcG9uRTYtZG9NYVljVXczdGd0MFh6Mmt2M2dqemY3N0hVQVhOU1p0Y0o4Tlp6WFFPZkNpbVljeGQtWDBWWnhBS2hpQXlxcy1MamtMM21Bamp2bl90RFdjWGpB?oc=5",
+      "publishedAt": "2026-07-27T22:54:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-just-in-bitcoin-falls-back-under-64000-as-100-million-is-liquidated-from-the-cry",
+      "localUrl": "/news/20260727-just-in-bitcoin-falls-back-under-64000-as-100-million-is-liquidated-from-the-cry.html"
     },
     {
       "source": "Decrypt",
@@ -285,6 +337,17 @@
       "localUrl": "/news/20260727-your-shared-claude-chats-were-being-quietly-published-on-google.html"
     },
     {
+      "source": "X Wire",
+      "title": "“The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5\" target=\"_blank\">“The nature of Bitcoin is such that on…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5",
+      "publishedAt": "2026-07-27T18:01:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-",
+      "localUrl": "/news/20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
       "summary": "Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back until liquidity, rules, and infrastruc…",
@@ -313,17 +376,6 @@
       "localUrl": "/news/20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse.html"
     },
     {
-      "source": "X Wire",
-      "title": "bitcoin:native This fixation on 50K, 40K reminds me exactly of 2022, when everyone was waiting for 10K–12K. You had the opportunity to buy at 16K, yet people still wanted another 15–20% lower. In the end, did it really matter? Whether you bought at 16K, 20 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5idi1IUUM5LWc2RW9jUmotbVMwbTF5Uy1hZ1lWczZhY1Q0NmlrT0NmbDB5TVRRV2Y4Zk5JUi1jQzB0cUJTUHB1N3ZtRXM4c3JOelZsQ21fSTVhdXNPbVE?oc=5\" target=\"_blank\">bitcoin:native This fixation on 50K, 40…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5idi1IUUM5LWc2RW9jUmotbVMwbTF5Uy1hZ1lWczZhY1Q0NmlrT0NmbDB5TVRRV2Y4Zk5JUi1jQzB0cUJTUHB1N3ZtRXM4c3JOelZsQ21fSTVhdXNPbVE?oc=5",
-      "publishedAt": "2026-07-27T17:44:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-bitcoinnative-this-fixation-on-50k-40k-reminds-me-exactly-of-2022-when-everyone-",
-      "localUrl": "/news/20260727-bitcoinnative-this-fixation-on-50k-40k-reminds-me-exactly-of-2022-when-everyone-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
       "summary": "Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.",
@@ -335,6 +387,17 @@
       "category": "监管",
       "slug": "20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f",
       "localUrl": "/news/20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin’s core design is set in stone. Protocol changes should be rare, conservative, and driven by necessity, not ambition. Don’t fix what isn’t broken. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maTNkYUs1aTZ0Tmc0aC12UkV3QmRhUC1ydXNDcTMwdk05d25XZ1RQRUgxTUgwR0FZMnBDbXlMM241Tmh1Vkh5Rnl3NWdGRGwxTm9CR3paVE9xU1k?oc=5\" target=\"_blank\">Bitcoin’s core design is set in stone. Prot…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maTNkYUs1aTZ0Tmc0aC12UkV3QmRhUC1ydXNDcTMwdk05d25XZ1RQRUgxTUgwR0FZMnBDbXlMM241Tmh1Vkh5Rnl3NWdGRGwxTm9CR3paVE9xU1k?oc=5",
+      "publishedAt": "2026-07-27T17:30:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-bitcoins-core-design-is-set-in-stone-protocol-changes-should-be-rare-conservativ",
+      "localUrl": "/news/20260727-bitcoins-core-design-is-set-in-stone-protocol-changes-should-be-rare-conservativ.html"
     },
     {
       "source": "X Wire",
@@ -472,6 +535,17 @@
       "localUrl": "/news/20260727-fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5",
+      "publishedAt": "2026-07-27T14:44:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
+      "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
       "summary": "The Swiss bank is exploring multiple paths to the public markets, though discussions are ongoing and no final decision has been made.",
@@ -488,17 +562,6 @@
       "category": "RWA",
       "slug": "20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
       "localUrl": "/news/20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Strategy holds 843,775 Bitcoin - more than 4% of the 21 million BTC that will ever exist. Following today's announcement, they can cover their preferred equity obligations for 2.1 years without raising a single new dollar. What they've built with preferred equity i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HN0RuMGZkVjB1Z3M5US04SGEzbjRka1FUTHJ0RzNrMXpyQTBMbHJBVEZmM0RMNmd2NDl0dXBpUkFsSHYzdEptRWhLdHdWaGhnbkNiYklSZ3BpWmtuWmFv?oc=5\" target=\"_blank\">Strategy holds 843,775 Bitcoin - more …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HN0RuMGZkVjB1Z3M5US04SGEzbjRka1FUTHJ0RzNrMXpyQTBMbHJBVEZmM0RMNmd2NDl0dXBpUkFsSHYzdEptRWhLdHdWaGhnbkNiYklSZ3BpWmtuWmFv?oc=5",
-      "publishedAt": "2026-07-27T14:04:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-strategy-holds-843775-bitcoin-more-than-4-of-the-21-million-btc-that-will-ever-e",
-      "localUrl": "/news/20260727-strategy-holds-843775-bitcoin-more-than-4-of-the-21-million-btc-that-will-ever-e.html"
     },
     {
       "source": "CoinDesk",
@@ -861,22 +924,6 @@
       "localUrl": "/news/20260727-bitcoin-etfs-post-third-straight-weekly-inflows-despite-465-million-in-late-week.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
-      "summary": "Armstrong said blockchain technology acts as a general-purpose infrastructure that will underpin future automation rather than competing with it.",
-      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
-      "publishedAt": "2026-07-27T10:39:22.000Z",
-      "keywords": [
-        "Finance",
-        "Artificial Intelligence",
-        "Coinbase",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260727-coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
-      "localUrl": "/news/20260727-coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
       "summary": "BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CASPs, including banks and crypto platforms, in the third post-deadline update.",
@@ -938,54 +985,6 @@
       "category": "监管",
       "slug": "20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
       "localUrl": "/news/20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Get ready for all your favorite crypto KOLs to explain you how @Revolut is great for you - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UY2NTMENqMnF0UDIzYk54RmVUNTlodGFVMGFwb3lmLVlrejBEMUZ1ZnlzNzlqWVMyRXQzVVZtY2ktWUtVdnFDZHpoVzZ5RE5JVHJIaGY3YVAzSGc?oc=5\" target=\"_blank\">Get ready for all your favorite crypto KOLs…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UY2NTMENqMnF0UDIzYk54RmVUNTlodGFVMGFwb3lmLVlrejBEMUZ1ZnlzNzlqWVMyRXQzVVZtY2ktWUtVdnFDZHpoVzZ5RE5JVHJIaGY3YVAzSGc?oc=5",
-      "publishedAt": "2026-07-27T09:02:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-get-ready-for-all-your-favorite-crypto-kols-to-explain-you-how-revolut-is-great-",
-      "localUrl": "/news/20260727-get-ready-for-all-your-favorite-crypto-kols-to-explain-you-how-revolut-is-great-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-      "summary": "Coinbase CEO Brian Armstrong says AI agents will expand crypto adoption, pointing to Base, USDC and x402 as key pieces of agentic finance.",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T09:01:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-coinbase-ceo-touts-agentic-finance-as-base-tops-100m-ai-payments",
-      "localUrl": "/news/20260727-coinbase-ceo-touts-agentic-finance-as-base-tops-100m-ai-payments.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
-      "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
-      "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T05:15:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m",
-      "localUrl": "/news/20260727-triple-a-confirms-treasury-wallet-breach-after-losses-reach-118m.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "⏰ Upcoming Token Unlocks (July 27 - Aug 2） Several crypto projects will unlock tokens this week, including $FET, $XPL, $FF, $KMNO, $SUI, $EIGEN,$ENA Investors, keep an eye on these token unlocks events! - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5\" target=\"_blank\">⏰ Upcoming Token Unlocks (J…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yWkZGYTRZMVBuU01UMG9QUktsT0RxTUYxOTMyVXQ2VHAxWVRPcmNCT0RpYVlEV1M5a1BfZ0RRa1BleVladmU4MUs0TjlWWk12ZkJEU09YemFNcmVaN1AwNjY5cDRFRVU?oc=5",
-      "publishedAt": "2026-07-27T05:13:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-",
-      "localUrl": "/news/20260727-upcoming-token-unlocks-july-27-aug-2-several-crypto-projects-will-unlock-tokens-.html"
     },
     {
       "source": "X Wire",
