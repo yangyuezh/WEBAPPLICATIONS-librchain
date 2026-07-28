@@ -1,7 +1,128 @@
 {
-  "updatedAt": "2026-07-28T15:30:07.360Z",
+  "updatedAt": "2026-07-28T17:43:55.289Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+      "summary": "DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
+      "publishedAt": "2026-07-28T17:23:35.000Z",
+      "keywords": [
+        "Markets",
+        "Perps Week 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-wall-street-veteran-don-wilson-says-regulators-are-getting-perps-all-wrong",
+      "localUrl": "/news/20260728-wall-street-veteran-don-wilson-says-regulators-are-getting-perps-all-wrong.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
+      "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
+      "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
+      "publishedAt": "2026-07-28T16:54:11.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260728-first-chatgpt-now-claude-frontier-ai-models-are-escaping-their-sandboxes",
+      "localUrl": "/news/20260728-first-chatgpt-now-claude-frontier-ai-models-are-escaping-their-sandboxes.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin has won. Now it must survive victory. Its gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5\" target=\"_blank\">Bitcoin has won. Now it must survive victor…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5",
+      "publishedAt": "2026-07-28T16:27:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a",
+      "localUrl": "/news/20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
+      "summary": "Bitcoin and crypto dropped as contagion from a major Asia stock-market correction spreads to the US at the Wall Street open.",
+      "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T16:27:46.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260728-bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spreads-to-wall-street",
+      "localUrl": "/news/20260728-bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spreads-to-wall-street.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
+      "summary": "The Bitcoin bounce looked promising. The charts now say it wasn't.",
+      "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
+      "publishedAt": "2026-07-28T16:22:18.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap",
+      "localUrl": "/news/20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
+      "summary": "Eligible US users can request IPO allocations, while customers in more than 110 countries gain access to tokenized Jersey Mike’s shares backed 1:1 by the underlying stock.",
+      "url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T16:20:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260728-kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-d",
+      "localUrl": "/news/20260728-kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-d.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
+      "summary": "BlackRock, Fidelity, Franklin Templeton, Goldman Sachs and SoFi have publicly endorsed the crypto market structure bill as the Senate's timeline tightens.",
+      "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
+      "publishedAt": "2026-07-28T16:08:19.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
+      "localUrl": "/news/20260728-blackrock-fidelity-other-wall-street-giants-back-the-clarity-act.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
+      "summary": "Core Scientific reported strong second-quarter revenue growth as AI colocation became its largest business, though a non-cash accounting charge resulted in a $1.15 billion net loss.",
+      "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T15:47:00.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260728-core-scientific-revenue-doubles-in-q2-as-ai-colocation-expansion-accelerates",
+      "localUrl": "/news/20260728-core-scientific-revenue-doubles-in-q2-as-ai-colocation-expansion-accelerates.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
+      "summary": "EthSystems, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.",
+      "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
+      "publishedAt": "2026-07-28T15:46:33.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block",
+      "localUrl": "/news/20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
@@ -90,6 +211,17 @@
       "localUrl": "/news/20260728-the-real-reason-defi-projects-that-survived-2022-crash-are-shutting-down-now.html"
     },
     {
+      "source": "X Wire",
+      "title": "Every year, crypto has a \"big theme.\" This year? It's the merging of crypto and traditional finance (TradFi) - and it's happening faster than anyone expected. Here's why 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5\" target=\"_blank\">Every year, crypto has a \"big th…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5",
+      "publishedAt": "2026-07-28T13:17:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit",
+      "localUrl": "/news/20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
       "summary": "Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting.",
@@ -151,12 +283,12 @@
       "source": "Cointelegraph",
       "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
       "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
-      "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-28T12:07:51.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
-      "category": "综合",
+      "category": "市场",
       "slug": "20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results",
       "localUrl": "/news/20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results.html"
     },
@@ -440,8 +572,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls back to $63,000 as Nasdaq nears correction territory",
-      "summary": "It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.",
+      "title": "Live updates: Crypto climbs off worst levels as stock selloff is contained to AI names",
+      "summary": "While the chipmakers continue their tumble, the DJIA is actually higher by more than 1%, led by Coca-Cola, Walmart, and Home Depot.",
       "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
       "publishedAt": "2026-07-28T07:46:22.000Z",
       "keywords": [
@@ -451,8 +583,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260728-live-updates-bitcoin-falls-back-to-63000-as-nasdaq-nears-correction-territory",
-      "localUrl": "/news/20260728-live-updates-bitcoin-falls-back-to-63000-as-nasdaq-nears-correction-territory.html"
+      "slug": "20260728-live-updates-crypto-climbs-off-worst-levels-as-stock-selloff-is-contained-to-ai-",
+      "localUrl": "/news/20260728-live-updates-crypto-climbs-off-worst-levels-as-stock-selloff-is-contained-to-ai-.html"
     },
     {
       "source": "Cointelegraph",
@@ -469,14 +601,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Ex-Multicoin Co-Founder Kyle Samani Turns on His Old Firm: “They’re Working Against Everything Solana Builders Are Building” Kyle Samani, a Multicoin Capital co-founder and former managing partner, said developers building in the Solana ecosystem sho - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ONnotTGR4U0RFLWJDNDE2dHZVRlNGbGJSV1pFT2V2TU4td1JmeGFsSTNWOF9sM0NidzZtZVE3OVFYS1RHVXR6R1J6aWhoUWNwXzFYakJtMC0xMkFiOTJTbUExOA?oc=5\" target=\"_blank\">Ex-Multicoin Co-Founder Kyle Sam…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ONnotTGR4U0RFLWJDNDE2dHZVRlNGbGJSV1pFT2V2TU4td1JmeGFsSTNWOF9sM0NidzZtZVE3OVFYS1RHVXR6R1J6aWhoUWNwXzFYakJtMC0xMkFiOTJTbUExOA?oc=5",
-      "publishedAt": "2026-07-28T07:17:35.000Z",
+      "title": "🚨 UPDATE: Bitcoin's whale and shark wallets have accumulated nearly 19,700 $BTC in just 8 days, while retail dip-buying cools. Santiment calls the combo constructive for supply dynamics. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZmVMcW52N25WRktwa2pfZ1ZwNXZNZkNUM0p6RVMtOFZ2TWk2cE9PS0hQVjJLb0tESEtOZ3RhVC12WFFTVmJVRVdBSjFRYWxoUmxWX1R4VncxM1VSQ3hPbERyU2k?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin's whale and …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZmVMcW52N25WRktwa2pfZ1ZwNXZNZkNUM0p6RVMtOFZ2TWk2cE9PS0hQVjJLb0tESEtOZ3RhVC12WFFTVmJVRVdBSjFRYWxoUmxWX1R4VncxM1VSQ3hPbERyU2k?oc=5",
+      "publishedAt": "2026-07-28T07:00:57.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260728-ex-multicoin-co-founder-kyle-samani-turns-on-his-old-firm-theyre-working-against",
-      "localUrl": "/news/20260728-ex-multicoin-co-founder-kyle-samani-turns-on-his-old-firm-theyre-working-against.html"
+      "slug": "20260728-update-bitcoins-whale-and-shark-wallets-have-accumulated-nearly-19700-btc-in-jus",
+      "localUrl": "/news/20260728-update-bitcoins-whale-and-shark-wallets-have-accumulated-nearly-19700-btc-in-jus.html"
     },
     {
       "source": "Cointelegraph",
@@ -518,6 +650,17 @@
       "category": "监管",
       "slug": "20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban",
       "localUrl": "/news/20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin ETFs Post $11.6 Million Outflow as Ether Funds Add $9.2 Million U.S. spot Bitcoin ETFs recorded net outflows of USD 11.64 million on July 27, according to SoSoValue, with BlackRock’s IBIT posting the largest single-fund outflow at USD 8.82 million. S - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ROTZNWmg1dno3bWZySS1IWUhrQUdXRWd3OEVnRW5fVUkwVEVyXzdJeUNlZDdxSURSSGRva3duQV9DczJEZ0ptME04eDE4c0lVMjQ2VHpkRWpucmNhTEh4R0I0WQ?oc=5\" target=\"_blank\">Bitcoin ETFs Post $11.6 Million …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ROTZNWmg1dno3bWZySS1IWUhrQUdXRWd3OEVnRW5fVUkwVEVyXzdJeUNlZDdxSURSSGRva3duQV9DczJEZ0ptME04eDE4c0lVMjQ2VHpkRWpucmNhTEh4R0I0WQ?oc=5",
+      "publishedAt": "2026-07-28T04:17:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-bitcoin-etfs-post-116-million-outflow-as-ether-funds-add-92-million-us-spot-bitc",
+      "localUrl": "/news/20260728-bitcoin-etfs-post-116-million-outflow-as-ether-funds-add-92-million-us-spot-bitc.html"
     },
     {
       "source": "Cointelegraph",
@@ -589,21 +732,6 @@
       "category": "监管",
       "slug": "20260727-us-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-el",
       "localUrl": "/news/20260727-us-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-el.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
-      "summary": "A federal judge ruled that Minnesota's law criminalizing prediction markets would probably violate the federal Commodity Exchange Act.",
-      "url": "https://www.coindesk.com/policy/2026/07/27/kalshi-polymarket-win-pause-against-minnesota-s-prediction-market-ban",
-      "publishedAt": "2026-07-27T23:29:38.000Z",
-      "keywords": [
-        "Policy",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-kalshi-polymarket-win-pause-against-minnesotas-prediction-market-ban",
-      "localUrl": "/news/20260727-kalshi-polymarket-win-pause-against-minnesotas-prediction-market-ban.html"
     },
     {
       "source": "Decrypt",
@@ -708,22 +836,6 @@
       "localUrl": "/news/20260727-sparkkitty-malware-found-in-app-stores-targets-crypto-wallet-seed-phrases.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin shrugs off AI selloff but high-stakes Fed meeting could determine what's next",
-      "summary": "BTC held near $65,000 even as Nvidia and AI stocks fell sharply. This week's Fed decision could determine whether bitcoin finally breaks higher or revisits June's lows, analysts said.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-what-s-next",
-      "publishedAt": "2026-07-27T19:55:45.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Market Wrap",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260727-bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-whats-",
-      "localUrl": "/news/20260727-bitcoin-shrugs-off-ai-selloff-but-high-stakes-fed-meeting-could-determine-whats-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
       "summary": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
@@ -737,19 +849,6 @@
       "localUrl": "/news/20260727-fanatics-buys-cftc-registered-exchange-in-prediction-markets-land-grab.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
-      "summary": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
-      "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T19:22:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260727-bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin",
-      "localUrl": "/news/20260727-bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
       "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
@@ -761,19 +860,6 @@
       "category": "监管",
       "slug": "20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test",
       "localUrl": "/news/20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Securitize Capital becomes SEC-registered investment adviser",
-      "summary": "The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
-      "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T18:41:30.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260727-securitize-capital-becomes-sec-registered-investment-adviser",
-      "localUrl": "/news/20260727-securitize-capital-becomes-sec-registered-investment-adviser.html"
     },
     {
       "source": "X Wire",
@@ -798,32 +884,6 @@
       "category": "综合",
       "slug": "20260727-your-shared-claude-chats-were-being-quietly-published-on-google",
       "localUrl": "/news/20260727-your-shared-claude-chats-were-being-quietly-published-on-google.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "“The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5\" target=\"_blank\">“The nature of Bitcoin is such that on…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5",
-      "publishedAt": "2026-07-27T18:01:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-",
-      "localUrl": "/news/20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
-      "summary": "Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back until liquidity, rules, and infrastruc…",
-      "url": "https://www.coindesk.com/markets/2026/07/22/crypto-s-favorite-usd90-trillion-trading-product-is-coming-to-wall-street-but-big-banks-are-taking-it-slow",
-      "publishedAt": "2026-07-27T18:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Perps Week 2026",
-        "Feature"
-      ],
-      "category": "DeFi",
-      "slug": "20260727-cryptos-favorite-90-trillion-trading-product-is-coming-to-wall-street-but-big-ba",
-      "localUrl": "/news/20260727-cryptos-favorite-90-trillion-trading-product-is-coming-to-wall-street-but-big-ba.html"
     },
     {
       "source": "Decrypt",
@@ -872,19 +932,6 @@
       "category": "X热点",
       "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-      "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
-      "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T16:44:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260727-tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance",
-      "localUrl": "/news/20260727-tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance.html"
     },
     {
       "source": "Decrypt",
@@ -957,32 +1004,6 @@
       "localUrl": "/news/20260727-update-circle-has-acquired-nearly-1000-ibm-blockchain-patents-becoming-the-large.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
-      "summary": "The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
-      "url": "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
-      "publishedAt": "2026-07-27T13:00:29.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "RWA",
-      "slug": "20260727-strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
-      "localUrl": "/news/20260727-strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
-      "summary": "Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
-      "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
-      "publishedAt": "2026-07-27T12:27:47.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260727-crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
-      "localUrl": "/news/20260727-crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo.html"
-    },
-    {
       "source": "X Wire",
       "title": "Circle has acquired fundamental assets from the @IBM blockchain patent portfolio, including 680+ patent families and nearly 1,000 issued patents worldwide. The acquisition makes Circle the leading U.S. blockchain patent holder and strengthens the foundati - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbGpueXN5R08ybW9vcmtEUWxnRk44cjROa1VuVnNZNk1ha1pvZXBsay13TTJLcFYzcTZ6WlI0YUkyMW16VWxwcUFqQmxJbTJyM1F3N0NSWl9Qb3M?oc=5\" target=\"_blank\">Circle has acquired fundamental assets from…",
@@ -1028,17 +1049,6 @@
     },
     {
       "source": "X Wire",
-      "title": "2026 is the first year ever in which bitcoin difficulty dropped. What do you think it means? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HSVRVUUVQeGtEU2phLVViTkdiZmwzVmpybUJhVWlZY3kzTUVTdTJ5Vk9fbDJoeWNiQkdNck1oeHprS3Z4LTVHbWtwdEVnWUwwZHJEOTNWejZUclNDMnF5c05aT2hqUQ?oc=5\" target=\"_blank\">2026 is the first year ever …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HSVRVUUVQeGtEU2phLVViTkdiZmwzVmpybUJhVWlZY3kzTUVTdTJ5Vk9fbDJoeWNiQkdNck1oeHprS3Z4LTVHbWtwdEVnWUwwZHJEOTNWejZUclNDMnF5c05aT2hqUQ?oc=5",
-      "publishedAt": "2026-07-27T09:46:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin",
-      "localUrl": "/news/20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin.html"
-    },
-    {
-      "source": "X Wire",
       "title": "\"If you're in crypto, pivot to AI.\" I used to hear versions of this, and it's the wrong way to think about the world. It's zero sum, scarcity thinking. Crypto is a general purpose technology. It's infrastructure, the same way electricity or the internet is infrastructure. It does - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5\" target=\"_blank\">\"If you're in crypto, pivot…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5",
@@ -1047,17 +1057,6 @@
       "category": "X热点",
       "slug": "20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong",
       "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Steak n Shake is a sustainable Bitcoin company. Bitcoin payments go into our Strategic Bitcoin Reserve. And the savings in processing fees over credit cards helps us reinvest in improving the quality of our offerings. The allegiance of Bitcoiners is unparalleled. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83UDdXTk8tSmI2a1ZQWG1WQ1Z6bTNOWVlqS3diYlVVbzl4ZXgyVFhveHpqbzEwdWtCbUt1RW1pUDdSNnItU0FvMXJWMVYzb0ZsTV9GRW1kNjJweG1WeklvWDRn?oc=5\" target=\"_blank\">Steak n Shake is a sustainable Bit…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83UDdXTk8tSmI2a1ZQWG1WQ1Z6bTNOWVlqS3diYlVVbzl4ZXgyVFhveHpqbzEwdWtCbUt1RW1pUDdSNnItU0FvMXJWMVYzb0ZsTV9GRW1kNjJweG1WeklvWDRn?oc=5",
-      "publishedAt": "2026-07-26T19:28:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra",
-      "localUrl": "/news/20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra.html"
     },
     {
       "source": "X Wire",
