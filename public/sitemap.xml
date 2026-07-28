@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-28T19:48:54.925Z</lastmod>
+    <lastmod>2026-07-28T21:19:06.812Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-28T19:48:54.925Z</lastmod>
+    <lastmod>2026-07-28T21:19:06.812Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html</loc>
+    <lastmod>2026-07-28T20:45:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst.html</loc>
+    <lastmod>2026-07-28T20:23:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps.html</loc>
+    <lastmod>2026-07-28T20:10:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing.html</loc>
+    <lastmod>2026-07-28T20:08:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo.html</loc>
@@ -129,6 +153,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block.html</loc>
     <lastmod>2026-07-28T15:46:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-just-in-us-senate-unlikely-to-vote-on-crypto-clarity-act-before-leaving-for-summ.html</loc>
+    <lastmod>2026-07-28T15:27:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260728-bitcoin-slides-2-after-us-close-while-koreas-kospi-plunges-10.html</loc>
-    <lastmod>2026-07-28T04:32:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban.html</loc>
     <lastmod>2026-07-28T04:28:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260728-hong-kong-prepares-banks-for-quantum-threats-amid-tokenization-push.html</loc>
     <lastmod>2026-07-28T02:21:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-binance-phishes-its-own-staff-monthly-india-censors-bitchat-code-asia-express.html</loc>
-    <lastmod>2026-07-28T01:23:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,18 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260727-fanatics-buys-cftc-registered-exchange-in-prediction-markets-land-grab.html</loc>
-    <lastmod>2026-07-27T19:45:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test.html</loc>
-    <lastmod>2026-07-27T19:01:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html</loc>
     <lastmod>2026-07-27T18:32:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html</loc>
     <lastmod>2026-07-27T17:00:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260727-bitcoin-faces-downside-risk-bitcoin-slipped-02-as-nansen-warned-the-market-has-y.html</loc>
-    <lastmod>2026-07-27T15:03:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-07-28T19:48:54.887Z",
+  "updatedAt": "2026-07-28T21:19:06.781Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
+      "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
+      "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+      "publishedAt": "2026-07-28T20:45:38.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-",
+      "localUrl": "/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
+      "summary": "Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
+      "publishedAt": "2026-07-28T20:23:31.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Market Wrap",
+        "Federal Reserve",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst",
+      "localUrl": "/news/20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
+      "summary": "The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.",
+      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T20:10:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps",
+      "localUrl": "/news/20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
+      "summary": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
+      "url": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
+      "publishedAt": "2026-07-28T20:08:48.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing",
+      "localUrl": "/news/20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
@@ -266,6 +322,17 @@
       "category": "基础设施",
       "slug": "20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block",
       "localUrl": "/news/20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 US Senate unlikely to vote on Crypto Clarity Act before leaving for summer recess in August. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRjg5WVNfRFhkb3AyNmlIN3lUSmN0bmNkbVluWkc1Qk1Nem1zTGxlYnJ4UEppVzJWMkpWS1llS0pTLVlOTS1nQUU3Qmx4ai1fLVA5cWJMTXNtSEF5WElrcnFB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 US Senate unlikely t…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRjg5WVNfRFhkb3AyNmlIN3lUSmN0bmNkbVluWkc1Qk1Nem1zTGxlYnJ4UEppVzJWMkpWS1llS0pTLVlOTS1nQUU3Qmx4ai1fLVA5cWJMTXNtSEF5WElrcnFB?oc=5",
+      "publishedAt": "2026-07-28T15:27:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-us-senate-unlikely-to-vote-on-crypto-clarity-act-before-leaving-for-summ",
+      "localUrl": "/news/20260728-just-in-us-senate-unlikely-to-vote-on-crypto-clarity-act-before-leaving-for-summ.html"
     },
     {
       "source": "CoinDesk",
@@ -744,21 +811,6 @@
       "localUrl": "/news/20260728-binance-co-founder-cz-backs-crypto-license-passporting-across-asean.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
-      "publishedAt": "2026-07-28T04:32:39.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-bitcoin-slides-2-after-us-close-while-koreas-kospi-plunges-10",
-      "localUrl": "/news/20260728-bitcoin-slides-2-after-us-close-while-koreas-kospi-plunges-10.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "US judge temporarily blocks Minnesota prediction market ban",
       "summary": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
@@ -823,19 +875,6 @@
       "category": "监管",
       "slug": "20260728-hong-kong-prepares-banks-for-quantum-threats-amid-tokenization-push",
       "localUrl": "/news/20260728-hong-kong-prepares-banks-for-quantum-threats-amid-tokenization-push.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance phishes its own staff monthly, India censors BitChat code: Asia Express",
-      "summary": "Binance has been phishing its own staff to get ahead of potential attacks. South Korean crypto volumes tank 89% — plus all of the week’s other crypto news from Asia.",
-      "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T01:23:07.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "安全",
-      "slug": "20260728-binance-phishes-its-own-staff-monthly-india-censors-bitchat-code-asia-express",
-      "localUrl": "/news/20260728-binance-phishes-its-own-staff-monthly-india-censors-bitchat-code-asia-express.html"
     },
     {
       "source": "Decrypt",
@@ -925,32 +964,6 @@
       "localUrl": "/news/20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
-      "summary": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
-      "url": "https://decrypt.co/374449/fanatics-buys-cftc-registered-exchange-prediction-markets",
-      "publishedAt": "2026-07-27T19:45:31.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260727-fanatics-buys-cftc-registered-exchange-in-prediction-markets-land-grab",
-      "localUrl": "/news/20260727-fanatics-buys-cftc-registered-exchange-in-prediction-markets-land-grab.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
-      "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
-      "url": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
-      "publishedAt": "2026-07-27T19:01:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test",
-      "localUrl": "/news/20260727-microsoft-says-mdash-beats-claude-mythos-and-gpt-56-sol-in-cybersecurity-test.html"
-    },
-    {
       "source": "X Wire",
       "title": "BITCOIN ETF OUTFLOWS RETURN Bitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows. Analysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5\" target=\"_blank\">BITCOIN ETF OUTFLOWS RETURN Bitcoin ETF…",
@@ -993,17 +1006,6 @@
       "category": "X热点",
       "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN FACES DOWNSIDE RISK Bitcoin slipped 0.2% as Nansen warned the market has yet to confirm a durable bottom, with a retest of $52,000–$58,000 possible. The firm said this week's Federal Reserve decision and Strategy's second-quarter earnings - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSkRWcnlhWi1jY19jWnhxcno0U3VpdEVlSDJfWUVKTm9NUEMzS3h1czJNaW5LaFZJZlhrcDVhUjZfdFVTYlhTaE01cHlGZjhiQ0ZVTHZMOEJwcENwRFE?oc=5\" target=\"_blank\">BITCOIN FACES DOWNSIDE RISK Bitcoin sli…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSkRWcnlhWi1jY19jWnhxcno0U3VpdEVlSDJfWUVKTm9NUEMzS3h1czJNaW5LaFZJZlhrcDVhUjZfdFVTYlhTaE01cHlGZjhiQ0ZVTHZMOEJwcENwRFE?oc=5",
-      "publishedAt": "2026-07-27T15:03:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-bitcoin-faces-downside-risk-bitcoin-slipped-02-as-nansen-warned-the-market-has-y",
-      "localUrl": "/news/20260727-bitcoin-faces-downside-risk-bitcoin-slipped-02-as-nansen-warned-the-market-has-y.html"
     },
     {
       "source": "X Wire",
