@@ -1,7 +1,129 @@
 {
-  "updatedAt": "2026-07-28T17:43:55.289Z",
-  "total": 82,
+  "updatedAt": "2026-07-28T19:48:54.887Z",
+  "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
+      "summary": "The new network powers Ondo's recently-launched perpetual futures platform and will eventually support trading across onchain financial assets.",
+      "url": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
+      "publishedAt": "2026-07-28T19:44:26.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Real World Assets",
+        "Derivatives",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo",
+      "localUrl": "/news/20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
+      "summary": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
+      "url": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
+      "publishedAt": "2026-07-28T19:36:03.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "市场",
+      "slug": "20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri",
+      "localUrl": "/news/20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+      "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
+      "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
+      "publishedAt": "2026-07-28T19:14:14.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-morgan-stanley-expands-crypto-push-with-ethereum-and-solana-etps",
+      "localUrl": "/news/20260728-morgan-stanley-expands-crypto-push-with-ethereum-and-solana-etps.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
+      "summary": "The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses.",
+      "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T18:47:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-mig",
+      "localUrl": "/news/20260728-americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-mig.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
+      "summary": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
+      "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
+      "publishedAt": "2026-07-28T18:35:37.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260728-xrp-price-slides-as-senate-drops-clarity-act-and-fed-decision-looms",
+      "localUrl": "/news/20260728-xrp-price-slides-as-senate-drops-clarity-act-and-fed-decision-looms.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
+      "summary": "The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.",
+      "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
+      "publishedAt": "2026-07-28T18:24:19.000Z",
+      "keywords": [
+        "zcash",
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare",
+      "localUrl": "/news/20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T18:15:25.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260728-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
+      "summary": "The crypto-focused companies announced separate acquisitions as demand for power-intensive AI and digital infrastructure continues to grow.",
+      "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T18:08:32.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260728-galaxy-mara-holdings-deepen-texas-expansion-with-land-acquisitions",
+      "localUrl": "/news/20260728-galaxy-mara-holdings-deepen-texas-expansion-with-land-acquisitions.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
+      "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.",
+      "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
+      "publishedAt": "2026-07-28T18:04:00.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng",
+      "localUrl": "/news/20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
@@ -29,6 +151,17 @@
       "category": "综合",
       "slug": "20260728-first-chatgpt-now-claude-frontier-ai-models-are-escaping-their-sandboxes",
       "localUrl": "/news/20260728-first-chatgpt-now-claude-frontier-ai-models-are-escaping-their-sandboxes.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local. Protocol changes must be rare, conservative, and driven by necessity, not ambition. Defend Bitcoin’s constitution. Defe - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5\" target=\"_blank\">Keep Bitcoin’s base layer simple, neutral, …",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5",
+      "publishedAt": "2026-07-28T16:27:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the",
+      "localUrl": "/news/20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the.html"
     },
     {
       "source": "X Wire",
@@ -94,6 +227,17 @@
       "category": "监管",
       "slug": "20260728-blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
       "localUrl": "/news/20260728-blackrock-fidelity-other-wall-street-giants-back-the-clarity-act.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇦🇪 UAE's largest airline 'Emirates' begins accepting crypto payments for flight bookings. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeHpLVUFtYmFoX0gzVzI5d2o4NENiVVRPbVhPMWhHSHpLanZfQ1lQUHhrNi12aklRUGF4UHVjVER4Uk55S0MwMlNQWEU0RFVFSy1ZeUFycHdYS0RkbWs2YXl3?oc=5\" target=\"_blank\">JUST IN: 🇦🇪 UAE's largest airlin…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeHpLVUFtYmFoX0gzVzI5d2o4NENiVVRPbVhPMWhHSHpLanZfQ1lQUHhrNi12aklRUGF4UHVjVER4Uk55S0MwMlNQWEU0RFVFSy1ZeUFycHdYS0RkbWs2YXl3?oc=5",
+      "publishedAt": "2026-07-28T16:00:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh",
+      "localUrl": "/news/20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh.html"
     },
     {
       "source": "Cointelegraph",
@@ -183,19 +327,6 @@
       "category": "监管",
       "slug": "20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s",
       "localUrl": "/news/20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T13:42:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260728-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Cointelegraph",
@@ -600,17 +731,6 @@
       "localUrl": "/news/20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Bitcoin's whale and shark wallets have accumulated nearly 19,700 $BTC in just 8 days, while retail dip-buying cools. Santiment calls the combo constructive for supply dynamics. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZmVMcW52N25WRktwa2pfZ1ZwNXZNZkNUM0p6RVMtOFZ2TWk2cE9PS0hQVjJLb0tESEtOZ3RhVC12WFFTVmJVRVdBSjFRYWxoUmxWX1R4VncxM1VSQ3hPbERyU2k?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin's whale and …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZmVMcW52N25WRktwa2pfZ1ZwNXZNZkNUM0p6RVMtOFZ2TWk2cE9PS0hQVjJLb0tESEtOZ3RhVC12WFFTVmJVRVdBSjFRYWxoUmxWX1R4VncxM1VSQ3hPbERyU2k?oc=5",
-      "publishedAt": "2026-07-28T07:00:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-update-bitcoins-whale-and-shark-wallets-have-accumulated-nearly-19700-btc-in-jus",
-      "localUrl": "/news/20260728-update-bitcoins-whale-and-shark-wallets-have-accumulated-nearly-19700-btc-in-jus.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
       "summary": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
@@ -718,22 +838,6 @@
       "localUrl": "/news/20260728-binance-phishes-its-own-staff-monthly-india-censors-bitchat-code-asia-express.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
-      "summary": "The majority leader is pursuing floor time for unrelated bills as the crypto industry waits for its policy effort to get its chance for votes.",
-      "url": "https://www.coindesk.com/policy/2026/07/27/u-s-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-elsewhere",
-      "publishedAt": "2026-07-27T23:55:16.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-us-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-el",
-      "localUrl": "/news/20260727-us-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-el.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
       "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
@@ -745,19 +849,6 @@
       "category": "X热点",
       "slug": "20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade",
       "localUrl": "/news/20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-      "summary": "New York Attorney General Letitia James said the federal crypto market structure bill could restrict state regulators and urged Congress to impose stronger consumer protections on digital asset platforms.",
-      "url": "https://cointelegraph.com/news/new-york-ag-clarity-act-state-crypto-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T22:55:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260727-new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement",
-      "localUrl": "/news/20260727-new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement.html"
     },
     {
       "source": "X Wire",
@@ -782,19 +873,6 @@
       "category": "市场",
       "slug": "20260727-openais-gpt-6-will-arrive-by-september-markets-predict",
       "localUrl": "/news/20260727-openais-gpt-6-will-arrive-by-september-markets-predict.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cross River to enable P2P payments, banking services for X Money",
-      "summary": "The banking-as-a-service provider will power X Money’s peer-to-peer payments, FDIC-insured accounts and Visa debit cards as the platform expands its financial services.",
-      "url": "https://cointelegraph.com/news/x-money-cross-river-embedded-banking-p2p-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T21:05:05.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-cross-river-to-enable-p2p-payments-banking-services-for-x-money",
-      "localUrl": "/news/20260727-cross-river-to-enable-p2p-payments-banking-services-for-x-money.html"
     },
     {
       "source": "Decrypt",
@@ -836,6 +914,17 @@
       "localUrl": "/news/20260727-sparkkitty-malware-found-in-app-stores-targets-crypto-wallet-seed-phrases.html"
     },
     {
+      "source": "X Wire",
+      "title": "Bitcoin is 87% correlated to global liquidity. The NASDAQ is 97% correlated. Which tells you something most people never realise. These assets are not really trading on earnings, or news, or whatever the story of the week is. They’re tracking the amount of mo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5\" target=\"_blank\">Bitcoin is 87% correlated to global liq…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5",
+      "publishedAt": "2026-07-27T20:09:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t",
+      "localUrl": "/news/20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Fanatics Buys CFTC-Registered Exchange in Prediction Markets Land Grab",
       "summary": "The deal for BGC's Water Street Labs and CX Clearinghouse lets Fanatics list and settle its own event contracts, echoing DraftKings and FanDuel as sports-betting giants scramble for a foothold in the sector.",
@@ -873,43 +962,15 @@
       "localUrl": "/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
-      "summary": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing—and someone already saved 11,241 of those messages to GitHub.",
-      "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
-      "publishedAt": "2026-07-27T18:24:29.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260727-your-shared-claude-chats-were-being-quietly-published-on-google",
-      "localUrl": "/news/20260727-your-shared-claude-chats-were-being-quietly-published-on-google.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity",
-      "summary": "More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.",
-      "url": "https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
-      "publishedAt": "2026-07-27T17:58:46.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse",
-      "localUrl": "/news/20260727-nvidia-microsoft-and-ibm-launch-open-secure-ai-alliance-to-strengthen-ai-cyberse.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
-      "summary": "Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.",
-      "url": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos",
-      "publishedAt": "2026-07-27T17:40:36.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f",
-      "localUrl": "/news/20260727-a-man-gave-border-agents-his-phone-passcode-it-wiped-everything-now-hes-facing-f.html"
+      "source": "X Wire",
+      "title": "“The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5\" target=\"_blank\">“The nature of Bitcoin is such that on…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5",
+      "publishedAt": "2026-07-27T18:01:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-",
+      "localUrl": "/news/20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-.html"
     },
     {
       "source": "X Wire",
@@ -934,32 +995,6 @@
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-      "summary": "The company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.",
-      "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
-      "publishedAt": "2026-07-27T15:42:54.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260727-bitmine-nears-goal-of-controlling-5-of-ethereum-supply-with-118-billion-treasury",
-      "localUrl": "/news/20260727-bitmine-nears-goal-of-controlling-5-of-ethereum-supply-with-118-billion-treasury.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder",
-      "summary": "The USDC issuer acquired nearly 1,000 patents from IBM in a single deal, but IBM is still backing USDC's most dangerous rival.",
-      "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-      "publishedAt": "2026-07-27T15:35:25.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260727-circle-buys-ibm-blockchain-patent-estateand-becomes-americas-biggest-holder",
-      "localUrl": "/news/20260727-circle-buys-ibm-blockchain-patent-estateand-becomes-americas-biggest-holder.html"
-    },
-    {
       "source": "X Wire",
       "title": "BITCOIN FACES DOWNSIDE RISK Bitcoin slipped 0.2% as Nansen warned the market has yet to confirm a durable bottom, with a retest of $52,000–$58,000 possible. The firm said this week's Federal Reserve decision and Strategy's second-quarter earnings - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lSkRWcnlhWi1jY19jWnhxcno0U3VpdEVlSDJfWUVKTm9NUEMzS3h1czJNaW5LaFZJZlhrcDVhUjZfdFVTYlhTaE01cHlGZjhiQ0ZVTHZMOEJwcENwRFE?oc=5\" target=\"_blank\">BITCOIN FACES DOWNSIDE RISK Bitcoin sli…",
@@ -980,28 +1015,6 @@
       "category": "X热点",
       "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
       "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto deal-making has collapsed. Just 44 crypto deals were announced in July: • 41 fundraising rounds • 2 M&A deals • 1 debt financing Source: Blockworks Research - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5\" target=\"_blank\">Crypto deal-making has collapsed…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5",
-      "publishedAt": "2026-07-27T14:10:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-",
-      "localUrl": "/news/20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 UPDATE: Circle has acquired nearly 1,000 IBM blockchain patents, becoming the largest U.S. holder of blockchain patents. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzMUNMU2hGS0U1aWhhUEpMTzJDWXBob0xQS0VWdDlPOUhmMk9uUkZnWVNZR0tPcXFzOXF6c2dwTUJsM3p0NmVJTFJndks3RWJnUnVqQVFKcGhvT0FNRzNZUkZYeXU?oc=5\" target=\"_blank\">🇺🇸 UPDATE: Circle has acquire…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzMUNMU2hGS0U1aWhhUEpMTzJDWXBob0xQS0VWdDlPOUhmMk9uUkZnWVNZR0tPcXFzOXF6c2dwTUJsM3p0NmVJTFJndks3RWJnUnVqQVFKcGhvT0FNRzNZUkZYeXU?oc=5",
-      "publishedAt": "2026-07-27T13:30:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-update-circle-has-acquired-nearly-1000-ibm-blockchain-patents-becoming-the-large",
-      "localUrl": "/news/20260727-update-circle-has-acquired-nearly-1000-ibm-blockchain-patents-becoming-the-large.html"
     },
     {
       "source": "X Wire",
@@ -1038,17 +1051,6 @@
     },
     {
       "source": "X Wire",
-      "title": "UPDATE: Russia's largest bank, Sberbank, plans to build crypto trading infrastructure by December 1 including a digital depository and active crypto wallet, following the State Duma's passage of a comprehensive crypto trading bill on July 21. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5\" target=\"_blank\">UPDATE: Russia's largest bank, Sberbank…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5",
-      "publishedAt": "2026-07-27T11:20:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur",
-      "localUrl": "/news/20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur.html"
-    },
-    {
-      "source": "X Wire",
       "title": "\"If you're in crypto, pivot to AI.\" I used to hear versions of this, and it's the wrong way to think about the world. It's zero sum, scarcity thinking. Crypto is a general purpose technology. It's infrastructure, the same way electricity or the internet is infrastructure. It does - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5\" target=\"_blank\">\"If you're in crypto, pivot…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5",
@@ -1068,24 +1070,6 @@
       "category": "X热点",
       "slug": "20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people",
       "localUrl": "/news/20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions Evasion, Introduces Third-Country Ban Mechanism",
-      "summary": "Summary The EU’s 21st Russia sanctions package introduces a transaction ban on 14 crypto-related service platforms across six jurisdictions: Georgia,… The post The EU’s 21st Russia Sanctions Package Targets Crypto Platforms for Sanctions E…",
-      "url": "https://www.chainalysis.com/blog/eu-21st-russia-sanctions-package-crypto-patforms-july-2026/",
-      "publishedAt": "2026-07-24T19:23:06.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Platforms",
-        "EU",
-        "MiCA",
-        "Russia",
-        "Sanctions"
-      ],
-      "category": "市场",
-      "slug": "20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva",
-      "localUrl": "/news/20260724-the-eus-21st-russia-sanctions-package-targets-crypto-platforms-for-sanctions-eva.html"
     }
   ]
 }
