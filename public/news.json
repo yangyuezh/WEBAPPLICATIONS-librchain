@@ -1,7 +1,165 @@
 {
-  "updatedAt": "2026-07-28T12:08:45.106Z",
+  "updatedAt": "2026-07-28T15:30:07.360Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+      "summary": "The central bank's draft rules require digital asset platforms to hold up to $2.8 million in liquid capital as a sweeping regulatory framework looms.",
+      "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
+      "publishedAt": "2026-07-28T14:49:50.000Z",
+      "keywords": [
+        "Policy",
+        "Cryptocurrency",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll",
+      "localUrl": "/news/20260728-russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+      "summary": "Hyperliquid is capitalizing on the volume and depth of its order book by giving firms the option to compose with the platform’s shared liquidity, rather than fragmenting it.",
+      "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+      "publishedAt": "2026-07-28T14:49:01.000Z",
+      "keywords": [
+        "Finance",
+        "Perps Week 2026",
+        "Feature"
+      ],
+      "category": "DeFi",
+      "slug": "20260728-hyperliquid-is-taking-crypto-perps-deep-into-defis-money-lego-land",
+      "localUrl": "/news/20260728-hyperliquid-is-taking-crypto-perps-deep-into-defis-money-lego-land.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+      "summary": "The upgrade retires Orchard, where a counterfeiting bug sat undetected for four years. Every coin inside now has to leave through a gate that caps withdrawals at verified deposits.",
+      "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
+      "publishedAt": "2026-07-28T14:35:28.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-zcash-seals-17-billion-shielded-pool-as-ironwood-upgrade-activates",
+      "localUrl": "/news/20260728-zcash-seals-17-billion-shielded-pool-as-ironwood-upgrade-activates.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+      "summary": "The asset manager is offering low-cost ETH and SOL exchange-traded products after its bitcoin fund topped $381 million in assets.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
+      "publishedAt": "2026-07-28T14:30:57.000Z",
+      "keywords": [
+        "Markets",
+        "Morgan Stanley",
+        "ETFs",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s",
+      "localUrl": "/news/20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T13:42:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260728-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+      "summary": "DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it’s not a case of industry consolidation — but the opposite.",
+      "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "DeFi",
+      "slug": "20260728-the-real-reason-defi-projects-that-survived-2022-crash-are-shutting-down-now",
+      "localUrl": "/news/20260728-the-real-reason-defi-projects-that-survived-2022-crash-are-shutting-down-now.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+      "summary": "Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting.",
+      "url": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T13:11:28.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260728-markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-low",
+      "localUrl": "/news/20260728-markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-low.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+      "summary": "Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the network with the second-highest losses, driven largely by key compromises.",
+      "url": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid",
+      "localUrl": "/news/20260728-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+      "summary": "The agreement accelerates Core Scientific’s pivot from bitcoin mining toward AI data centers, following the termination of its ASIC agreement with Block.",
+      "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+      "publishedAt": "2026-07-28T12:46:05.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin News",
+        "Bitcoin Mining",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
+      "localUrl": "/news/20260728-core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance makes fighting crypto crime more difficult, says new report",
+      "summary": "The New York Times says a quiet change to Binance's compliance rules is forcing international law enforcement to navigate slow-moving government treaties to get user data.",
+      "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
+      "publishedAt": "2026-07-28T12:24:02.000Z",
+      "keywords": [
+        "Finance",
+        "Binance",
+        "Crime",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-binance-makes-fighting-crypto-crime-more-difficult-says-new-report",
+      "localUrl": "/news/20260728-binance-makes-fighting-crypto-crime-more-difficult-says-new-report.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
+      "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T12:07:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results",
+      "localUrl": "/news/20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
@@ -119,6 +277,30 @@
     },
     {
       "source": "Cointelegraph",
+      "title": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
+      "summary": "Decentralized exchange aggregator 1inch announced the launch of its Aqua protocol allowing users to provide liquidity to many protocols at once.",
+      "url": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T11:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-1inch-moves-to-unite-defi-liquidity-across-13-chains-with-aqua",
+      "localUrl": "/news/20260728-1inch-moves-to-unite-defi-liquidity-across-13-chains-with-aqua.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is the asset. Solana is the infrastructure. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NHVWNkZXSTJNUVJfbjFaWnhBV3RUZ2xLakd3UTVvR3BiTUxRZXMtWjBsVEJua0dFSWprOUM5bi1Zb05xaHZXa01WZ0FKT1phdW9RUjNFaF9BR0k?oc=5\" target=\"_blank\">Bitcoin is the asset. Solana is the infrast…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NHVWNkZXSTJNUVJfbjFaWnhBV3RUZ2xLakd3UTVvR3BiTUxRZXMtWjBsVEJua0dFSWprOUM5bi1Zb05xaHZXa01WZ0FKT1phdW9RUjNFaF9BR0k?oc=5",
+      "publishedAt": "2026-07-28T10:26:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom",
+      "localUrl": "/news/20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom.html"
+    },
+    {
+      "source": "Cointelegraph",
       "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
       "summary": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
       "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -172,6 +354,17 @@
       "category": "市场",
       "slug": "20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
       "localUrl": "/news/20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Hyperliquid Community Addresses SK Hynix Perp Anomaly: Deployed by XYZ and Under Investigation Hyperliquid’s xyz:SKHYNIX perpetual contract briefly fell 17.9% after an anomalous pre-market trade in South Korea’s NXT market priced one SK Hynix sha - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5\" target=\"_blank\">Hyperliquid Community Addresses …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5",
+      "publishedAt": "2026-07-28T09:16:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-",
+      "localUrl": "/news/20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-.html"
     },
     {
       "source": "Cointelegraph",
@@ -247,7 +440,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls back to $63,000 as South Korea's Kospi crashes nearly 11%",
+      "title": "Live updates: Bitcoin falls back to $63,000 as Nasdaq nears correction territory",
       "summary": "It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.",
       "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
       "publishedAt": "2026-07-28T07:46:22.000Z",
@@ -258,8 +451,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260728-live-updates-bitcoin-falls-back-to-63000-as-south-koreas-kospi-crashes-nearly-11",
-      "localUrl": "/news/20260728-live-updates-bitcoin-falls-back-to-63000-as-south-koreas-kospi-crashes-nearly-11.html"
+      "slug": "20260728-live-updates-bitcoin-falls-back-to-63000-as-nasdaq-nears-correction-territory",
+      "localUrl": "/news/20260728-live-updates-bitcoin-falls-back-to-63000-as-nasdaq-nears-correction-territory.html"
     },
     {
       "source": "Cointelegraph",
@@ -571,19 +764,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T18:51:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260727-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260727-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Securitize Capital becomes SEC-registered investment adviser",
       "summary": "The registration expands Securitize’s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
       "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -618,6 +798,17 @@
       "category": "综合",
       "slug": "20260727-your-shared-claude-chats-were-being-quietly-published-on-google",
       "localUrl": "/news/20260727-your-shared-claude-chats-were-being-quietly-published-on-google.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "“The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5\" target=\"_blank\">“The nature of Bitcoin is such that on…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5",
+      "publishedAt": "2026-07-27T18:01:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-",
+      "localUrl": "/news/20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-.html"
     },
     {
       "source": "CoinDesk",
@@ -683,24 +874,6 @@
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
-      "summary": "The crypto trading platform said the layoffs reflect a strategic shift toward its fast-growing enterprise business.",
-      "url": "https://www.coindesk.com/business/2026/07/27/digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-winter-bites",
-      "publishedAt": "2026-07-27T16:47:06.000Z",
-      "keywords": [
-        "Finance",
-        "Exclusive",
-        "Crypto Trading",
-        "Uphold",
-        "Job cuts",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260727-digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-wint",
-      "localUrl": "/news/20260727-digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-wint.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
       "summary": "The certification could expand access to Tether’s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
@@ -712,19 +885,6 @@
       "category": "市场",
       "slug": "20260727-tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance",
       "localUrl": "/news/20260727-tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kraken parent Payward acquires Magic Labs’ wallet business",
-      "summary": "The deal brings wallet technology to Payward’s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with.",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T16:40:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-kraken-parent-payward-acquires-magic-labs-wallet-business",
-      "localUrl": "/news/20260727-kraken-parent-payward-acquires-magic-labs-wallet-business.html"
     },
     {
       "source": "Decrypt",
@@ -764,49 +924,6 @@
       "localUrl": "/news/20260727-bitcoin-faces-downside-risk-bitcoin-slipped-02-as-nansen-warned-the-market-has-y.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "What are perps, anyway? Everything you need to know about crypto’s hottest trading instrument",
-      "summary": "Perps, which launched on BitMEX in 2016, have become one of the most traded financial products in the world.",
-      "url": "https://www.coindesk.com/business/2026/07/27/what-are-perps-anyway-everything-you-need-to-know-about-crypto-s-hottest-trading-instrument",
-      "publishedAt": "2026-07-27T15:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Perps Week 2026",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260727-what-are-perps-anyway-everything-you-need-to-know-about-cryptos-hottest-trading-",
-      "localUrl": "/news/20260727-what-are-perps-anyway-everything-you-need-to-know-about-cryptos-hottest-trading-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price eyes $66K as US stocks rise on Iran-strike pause",
-      "summary": "Bitcoin copied US stocks as relief over end of US-Iran strikes spread to risk assets at the start of the US trading session.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T14:51:26.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260727-bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause",
-      "localUrl": "/news/20260727-bitcoin-price-eyes-66k-as-us-stocks-rise-on-iran-strike-pause.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fanatics buys regulated exchange in bid to grow prediction markets business",
-      "summary": "The deal gives Fanatics control of its own prediction market infrastructure as event-based trading gains traction across sports, finance and crypto.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-      "publishedAt": "2026-07-27T14:46:10.000Z",
-      "keywords": [
-        "Markets",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260727-fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business",
-      "localUrl": "/news/20260727-fanatics-buys-regulated-exchange-in-bid-to-grow-prediction-markets-business.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
@@ -816,24 +933,6 @@
       "category": "X热点",
       "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
       "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cantor is advising crypto bank AMINA on path to potential public listing",
-      "summary": "The Swiss bank is exploring multiple paths to the public markets, though discussions are ongoing and no final decision has been made.",
-      "url": "https://www.coindesk.com/business/2026/07/27/cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-      "publishedAt": "2026-07-27T14:36:30.000Z",
-      "keywords": [
-        "Finance",
-        "IPOs",
-        "Exclusive",
-        "Cantor Fitzgerald",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing",
-      "localUrl": "/news/20260727-cantor-is-advising-crypto-bank-amina-on-path-to-potential-public-listing.html"
     },
     {
       "source": "X Wire",
@@ -847,63 +946,6 @@
       "localUrl": "/news/20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
-      "summary": "The liquid staking protocol is consolidating 8 million ETH and requiring its professional node operators to post bonds for the first time.",
-      "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-      "publishedAt": "2026-07-27T14:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "Staking",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260727-lido-begins-moving-165-billion-in-staked-ether-to-cut-validator-count-by-a-third",
-      "localUrl": "/news/20260727-lido-begins-moving-165-billion-in-staked-ether-to-cut-validator-count-by-a-third.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
-      "summary": "Hong Kong’s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform.",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T13:41:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-hong-kong-crypto-giant-hashkey-merges-regional-exchange-into-one",
-      "localUrl": "/news/20260727-hong-kong-crypto-giant-hashkey-merges-regional-exchange-into-one.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Thailand's SEC alleges Bitkub concealed cyberattack that led to $50 million hack",
-      "summary": "Bitkub was the victim of a cyberattack in May 2021, which led to hacks stealing 1.7 billion baht across 16 different digital assets.",
-      "url": "https://www.coindesk.com/policy/2026/07/27/thailand-s-sec-alleges-bitkub-concealed-cyberattack-that-led-to-usd50-million-hack",
-      "publishedAt": "2026-07-27T13:32:16.000Z",
-      "keywords": [
-        "Policy",
-        "Hack",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-thailands-sec-alleges-bitkub-concealed-cyberattack-that-led-to-50-million-hack",
-      "localUrl": "/news/20260727-thailands-sec-alleges-bitkub-concealed-cyberattack-that-led-to-50-million-hack.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
-      "summary": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state.",
-      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T13:31:07.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260727-rate-path-still-divides-investors-five-things-to-know-in-bitcoin-this-week",
-      "localUrl": "/news/20260727-rate-path-still-divides-investors-five-things-to-know-in-bitcoin-this-week.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 UPDATE: Circle has acquired nearly 1,000 IBM blockchain patents, becoming the largest U.S. holder of blockchain patents. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzMUNMU2hGS0U1aWhhUEpMTzJDWXBob0xQS0VWdDlPOUhmMk9uUkZnWVNZR0tPcXFzOXF6c2dwTUJsM3p0NmVJTFJndks3RWJnUnVqQVFKcGhvT0FNRzNZUkZYeXU?oc=5\" target=\"_blank\">🇺🇸 UPDATE: Circle has acquire…",
@@ -913,30 +955,6 @@
       "category": "X热点",
       "slug": "20260727-update-circle-has-acquired-nearly-1000-ibm-blockchain-patents-becoming-the-large",
       "localUrl": "/news/20260727-update-circle-has-acquired-nearly-1000-ibm-blockchain-patents-becoming-the-large.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance disappears from Google Play in certain EU countries",
-      "summary": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
-      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T13:24:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260727-binance-disappears-from-google-play-in-certain-eu-countries",
-      "localUrl": "/news/20260727-binance-disappears-from-google-play-in-certain-eu-countries.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN RISES AS TENSIONS EASE Bitcoin gained 0.5% as risk sentiment improved after President Trump delayed a major escalation against Iran, raising hopes for renewed diplomacy. Investors are also watching progress on the U.S. Clarity Act, while Strat - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSFZjeUcwZ3lDRFdNM1dsT0FJWjB3VXlSeTNDcjZyc2VjSlFTNG5IOWJ0cUdyUWJkU2FrbzJiaVZqdXlicktydE5XZWY3S3RWWXI0cTVHWW0yZWROM1E?oc=5\" target=\"_blank\">BITCOIN RISES AS TENSIONS EASE Bitcoin …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSFZjeUcwZ3lDRFdNM1dsT0FJWjB3VXlSeTNDcjZyc2VjSlFTNG5IOWJ0cUdyUWJkU2FrbzJiaVZqdXlicktydE5XZWY3S3RWWXI0cTVHWW0yZWROM1E?oc=5",
-      "publishedAt": "2026-07-27T13:19:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-bitcoin-rises-as-tensions-ease-bitcoin-gained-05-as-risk-sentiment-improved-afte",
-      "localUrl": "/news/20260727-bitcoin-rises-as-tensions-ease-bitcoin-gained-05-as-risk-sentiment-improved-afte.html"
     },
     {
       "source": "Decrypt",
@@ -985,28 +1003,6 @@
       "category": "X热点",
       "slug": "20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y",
       "localUrl": "/news/20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Storj Labs files for Chapter 11 bankruptcy, the fourth crypto company in seven days to announce a failure or wind-down, alongside BitMEX, BitMart, and Movement Labs. In a rare move, Storj says it plans to include token holders in ownership of the re - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTkxzRVlUbnRPMnpWcmNPY2t5cVFUcjJzdzJiRGhnMkdKem1VSzFZbEk5eUwxNE1adHBBZ2lSREFsUFN3Yzk1a2RucDBhMHBEWjdsdGEyUDZXdE96WGc?oc=5\" target=\"_blank\">JUST IN: Storj Labs files for Chapter 1…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tTkxzRVlUbnRPMnpWcmNPY2t5cVFUcjJzdzJiRGhnMkdKem1VSzFZbEk5eUwxNE1adHBBZ2lSREFsUFN3Yzk1a2RucDBhMHBEWjdsdGEyUDZXdE96WGc?oc=5",
-      "publishedAt": "2026-07-27T12:05:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-just-in-storj-labs-files-for-chapter-11-bankruptcy-the-fourth-crypto-company-in-",
-      "localUrl": "/news/20260727-just-in-storj-labs-files-for-chapter-11-bankruptcy-the-fourth-crypto-company-in-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Strategy Sells $544.5M in MSTR Shares, Makes No Bitcoin Purchases Strategy said it sold 5.43 million MSTR shares for $544.5 million in net proceeds between July 20 and July 26, while repurchasing 288,930 STRC preferred shares for $25 million. The com - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zb1ZTakUteFhHbm5mRGgwWnRqUWdKdkZacnI4Rk9ZcC1PUEN4Y3E1QmhuQ0YzM3E0ckVEOGRMUmRSNkhIN1BSNmR1ZEJhN2M4ZXI4V2tQc2J1dXpsRF9qZzlfMA?oc=5\" target=\"_blank\">Strategy Sells $544.5M in MSTR S…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Zb1ZTakUteFhHbm5mRGgwWnRqUWdKdkZacnI4Rk9ZcC1PUEN4Y3E1QmhuQ0YzM3E0ckVEOGRMUmRSNkhIN1BSNmR1ZEJhN2M4ZXI4V2tQc2J1dXpsRF9qZzlfMA?oc=5",
-      "publishedAt": "2026-07-27T12:04:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-strategy-sells-5445m-in-mstr-shares-makes-no-bitcoin-purchases-strategy-said-it-",
-      "localUrl": "/news/20260727-strategy-sells-5445m-in-mstr-shares-makes-no-bitcoin-purchases-strategy-said-it-.html"
     },
     {
       "source": "X Wire",
