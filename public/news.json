@@ -1,7 +1,57 @@
 {
-  "updatedAt": "2026-07-28T21:19:06.781Z",
+  "updatedAt": "2026-07-28T23:13:05.910Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
+      "summary": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
+      "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
+      "publishedAt": "2026-07-28T22:46:03.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last",
+      "localUrl": "/news/20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+      "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
+      "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
+      "publishedAt": "2026-07-28T22:08:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july",
+      "localUrl": "/news/20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Visa outlines stablecoin strategy during Q3 earnings call",
+      "summary": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
+      "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T21:57:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call",
+      "localUrl": "/news/20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 SEC says it is ready to create crypto rules if Congress fails to pass the Clarity Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC says it is ready…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5",
+      "publishedAt": "2026-07-28T21:51:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th",
+      "localUrl": "/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html"
+    },
     {
       "source": "Decrypt",
       "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
@@ -864,17 +914,15 @@
       "localUrl": "/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-      "summary": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
-      "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T02:21:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-hong-kong-prepares-banks-for-quantum-threats-amid-tokenization-push",
-      "localUrl": "/news/20260728-hong-kong-prepares-banks-for-quantum-threats-amid-tokenization-push.html"
+      "source": "X Wire",
+      "title": "After some modest strength in recent days, bitcoin approaching key support level again - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yNlVKUGhTM3dsRU5Ud2I5dkdQVmUyWXJTc0wwbjBJYkpxZTlUbk1KWXY1WVljR1BnZlYwRGhKbV81TWZoZE1nQVJuWU5FZ3BYU1k3Y0FEcF9wSUFQY2J3?oc=5\" target=\"_blank\">After some modest strength in recent d…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yNlVKUGhTM3dsRU5Ud2I5dkdQVmUyWXJTc0wwbjBJYkpxZTlUbk1KWXY1WVljR1BnZlYwRGhKbV81TWZoZE1nQVJuWU5FZ3BYU1k3Y0FEcF9wSUFQY2J3?oc=5",
+      "publishedAt": "2026-07-28T00:24:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-after-some-modest-strength-in-recent-days-bitcoin-approaching-key-support-level-",
+      "localUrl": "/news/20260728-after-some-modest-strength-in-recent-days-bitcoin-approaching-key-support-level-.html"
     },
     {
       "source": "Decrypt",
@@ -927,32 +975,6 @@
       "localUrl": "/news/20260727-searchable-nyc-property-database-puts-wealthy-residents-at-risk-critics-warn.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Prediction Market Traders Brace for Surprise Fed Rate Hike",
-      "summary": "Prediction market traders have pushed the odds of a July Fed rate hike to 27% on both Polymarket and Myriad, rising double digits in the last 24 hours.",
-      "url": "https://decrypt.co/374453/prediction-market-traders-brace-for-surprise-fed-rate-hike",
-      "publishedAt": "2026-07-27T20:43:16.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260727-prediction-market-traders-brace-for-surprise-fed-rate-hike",
-      "localUrl": "/news/20260727-prediction-market-traders-brace-for-surprise-fed-rate-hike.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
-      "summary": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
-      "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
-      "publishedAt": "2026-07-27T20:09:57.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260727-sparkkitty-malware-found-in-app-stores-targets-crypto-wallet-seed-phrases",
-      "localUrl": "/news/20260727-sparkkitty-malware-found-in-app-stores-targets-crypto-wallet-seed-phrases.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is 87% correlated to global liquidity. The NASDAQ is 97% correlated. Which tells you something most people never realise. These assets are not really trading on earnings, or news, or whatever the story of the week is. They’re tracking the amount of mo - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5\" target=\"_blank\">Bitcoin is 87% correlated to global liq…",
@@ -973,17 +995,6 @@
       "category": "X热点",
       "slug": "20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow",
       "localUrl": "/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "“The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5\" target=\"_blank\">“The nature of Bitcoin is such that on…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5",
-      "publishedAt": "2026-07-27T18:01:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-",
-      "localUrl": "/news/20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-.html"
     },
     {
       "source": "X Wire",
@@ -1061,17 +1072,6 @@
       "category": "X热点",
       "slug": "20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong",
       "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Vibe right now — So much exciting substance happening in crypto. Yet, broadly people are uninterested, skeptical. I think this is a great vibe. Crypto was born an underdog, outsider. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZnNpcm9kZ21oYWJPQVNyelAwYWFaSUJPNlg2S0huX3RHSi1OOVMyWDBpM19uNlZjZFNWcjdUT2hES2ppNm4tbm5iRHcxVGFyN3VZVjNrQ01pc2ZmNWc?oc=5\" target=\"_blank\">Vibe right now — So much exciting subst…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NZnNpcm9kZ21oYWJPQVNyelAwYWFaSUJPNlg2S0huX3RHSi1OOVMyWDBpM19uNlZjZFNWcjdUT2hES2ppNm4tbm5iRHcxVGFyN3VZVjNrQ01pc2ZmNWc?oc=5",
-      "publishedAt": "2026-07-25T21:44:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people",
-      "localUrl": "/news/20260725-vibe-right-now-so-much-exciting-substance-happening-in-crypto-yet-broadly-people.html"
     }
   ]
 }
