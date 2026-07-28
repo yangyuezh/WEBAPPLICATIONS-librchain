@@ -1,7 +1,163 @@
 {
-  "updatedAt": "2026-07-28T09:44:02.951Z",
+  "updatedAt": "2026-07-28T12:08:45.106Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
+      "summary": "A lawsuit alleges Apple kept a fake bitcoin wallet app on its store after one user reported an $875,000 theft, leading to another user having roughly $840,000 stolen.",
+      "url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
+      "publishedAt": "2026-07-28T11:59:17.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-apple-kept-fake-bitcoin-wallet-on-app-store-after-875000-theft-report-lawsuit-al",
+      "localUrl": "/news/20260728-apple-kept-fake-bitcoin-wallet-on-app-store-after-875000-theft-report-lawsuit-al.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
+      "summary": "Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.",
+      "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
+      "publishedAt": "2026-07-28T11:57:58.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260728-morning-minute-strategy-chooses-cash-strc-over-btc",
+      "localUrl": "/news/20260728-morning-minute-strategy-chooses-cash-strc-over-btc.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "1inch's Shared Liquidity Layer Aqua Goes Live",
+      "summary": "The shared liquidity layer opens to all users on 13 chains, letting one wallet balance stand behind several positions at once.",
+      "url": "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
+      "publishedAt": "2026-07-28T11:53:26.000Z",
+      "keywords": [
+        "1inch",
+        "DeFi"
+      ],
+      "category": "DeFi",
+      "slug": "20260728-1inchs-shared-liquidity-layer-aqua-goes-live",
+      "localUrl": "/news/20260728-1inchs-shared-liquidity-layer-aqua-goes-live.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
+      "summary": "Your day-ahead look for July 28, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
+      "publishedAt": "2026-07-28T11:37:31.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally",
+      "localUrl": "/news/20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
+      "summary": "The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.",
+      "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
+      "publishedAt": "2026-07-28T11:31:03.000Z",
+      "keywords": [
+        "zcash",
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260728-zcash-miner-fortitude-powers-up-nebraska-facility-as-it-eyes-public-listing",
+      "localUrl": "/news/20260728-zcash-miner-fortitude-powers-up-nebraska-facility-as-it-eyes-public-listing.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
+      "summary": "Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.",
+      "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
+      "publishedAt": "2026-07-28T11:29:21.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260728-myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
+      "localUrl": "/news/20260728-myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
+      "summary": "BTC shed 2% as South Korea's Kospi plunged 11% and the U.S. Senate shelved the Clarity Act, leaving the market facing a pivotal Fed decision on Wednesday.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
+      "publishedAt": "2026-07-28T11:09:16.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
+      "localUrl": "/news/20260728-bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "1inch opens Aqua liquidity protocol across 13 chains",
+      "summary": "Liquidity providers can keep assets in their own wallets, using one balance to back multiple positions without splitting capital across different pools.",
+      "url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
+      "publishedAt": "2026-07-28T11:00:00.000Z",
+      "keywords": [
+        "Web3",
+        "Web3",
+        "Crypto News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260728-1inch-opens-aqua-liquidity-protocol-across-13-chains",
+      "localUrl": "/news/20260728-1inch-opens-aqua-liquidity-protocol-across-13-chains.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
+      "summary": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
+      "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T10:09:47.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260728-imf-warns-brazils-stablecoin-activity-outpaces-traditional-capital-flows",
+      "localUrl": "/news/20260728-imf-warns-brazils-stablecoin-activity-outpaces-traditional-capital-flows.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
+      "summary": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
+      "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
+      "publishedAt": "2026-07-28T10:08:09.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
+      "localUrl": "/news/20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
+      "summary": "Perpetual futures on the South Korean chipmaker's American depositary receipts plunged 20% in one minute before quickly rebounding above $1,000.",
+      "url": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
+      "publishedAt": "2026-07-28T10:05:43.000Z",
+      "keywords": [
+        "Markets",
+        "Hyperliquid",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260728-perpetuals-tied-to-sk-hynix-hit-by-flash-crash-to-900-on-hyperliquid",
+      "localUrl": "/news/20260728-perpetuals-tied-to-sk-hynix-hit-by-flash-crash-to-900-on-hyperliquid.html"
+    },
     {
       "source": "CoinDesk",
       "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
@@ -91,7 +247,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+      "title": "Live updates: Bitcoin falls back to $63,000 as South Korea's Kospi crashes nearly 11%",
       "summary": "It's a risk-off day. Still, bitcoin is holding better than Nasdaq and Asian equity markets.",
       "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
       "publishedAt": "2026-07-28T07:46:22.000Z",
@@ -102,8 +258,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260728-live-updates-bitcoins-next-move-hinges-on-breakeven-wall-at-68500-nasdaq-futures",
-      "localUrl": "/news/20260728-live-updates-bitcoins-next-move-hinges-on-breakeven-wall-at-68500-nasdaq-futures.html"
+      "slug": "20260728-live-updates-bitcoin-falls-back-to-63000-as-south-koreas-kospi-crashes-nearly-11",
+      "localUrl": "/news/20260728-live-updates-bitcoin-falls-back-to-63000-as-south-koreas-kospi-crashes-nearly-11.html"
     },
     {
       "source": "Cointelegraph",
@@ -117,6 +273,17 @@
       "category": "监管",
       "slug": "20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses",
       "localUrl": "/news/20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ex-Multicoin Co-Founder Kyle Samani Turns on His Old Firm: “They’re Working Against Everything Solana Builders Are Building” Kyle Samani, a Multicoin Capital co-founder and former managing partner, said developers building in the Solana ecosystem sho - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ONnotTGR4U0RFLWJDNDE2dHZVRlNGbGJSV1pFT2V2TU4td1JmeGFsSTNWOF9sM0NidzZtZVE3OVFYS1RHVXR6R1J6aWhoUWNwXzFYakJtMC0xMkFiOTJTbUExOA?oc=5\" target=\"_blank\">Ex-Multicoin Co-Founder Kyle Sam…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ONnotTGR4U0RFLWJDNDE2dHZVRlNGbGJSV1pFT2V2TU4td1JmeGFsSTNWOF9sM0NidzZtZVE3OVFYS1RHVXR6R1J6aWhoUWNwXzFYakJtMC0xMkFiOTJTbUExOA?oc=5",
+      "publishedAt": "2026-07-28T07:17:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-ex-multicoin-co-founder-kyle-samani-turns-on-his-old-firm-theyre-working-against",
+      "localUrl": "/news/20260728-ex-multicoin-co-founder-kyle-samani-turns-on-his-old-firm-theyre-working-against.html"
     },
     {
       "source": "Cointelegraph",
@@ -453,17 +620,6 @@
       "localUrl": "/news/20260727-your-shared-claude-chats-were-being-quietly-published-on-google.html"
     },
     {
-      "source": "X Wire",
-      "title": "“The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5\" target=\"_blank\">“The nature of Bitcoin is such that on…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tUzFBckhDUlIzbE40SlRpYkFqQVVLMUFaRlU0dWxMTzQ1aGRuRGJKcXdOaGtqRFJBaV82ekZ1T0Z6SXd1b0VOOHYtVGJPNHpNZlZ5WGpsQUJTSjZoTE9N?oc=5",
-      "publishedAt": "2026-07-27T18:01:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-",
-      "localUrl": "/news/20260727-the-nature-of-bitcoin-is-such-that-once-version-01-was-released-the-core-design-.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto’s favorite $90 trillion trading product is coming to Wall Street, but big banks are taking it slow",
       "summary": "Regulated perpetual futures are officially landing in the U.S., but while agile trading firms and crypto exchanges race to capture massive retail demand, traditional Wall Street banks are holding back until liquidity, rules, and infrastruc…",
@@ -569,17 +725,6 @@
       "category": "综合",
       "slug": "20260727-kraken-parent-payward-acquires-magic-labs-wallet-business",
       "localUrl": "/news/20260727-kraken-parent-payward-acquires-magic-labs-wallet-business.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: 🇺🇸 Sen. Dave McCormic on CLARITY ACT \"The time for delay is over.\" \"Bring the CLARITY Act to the Senate Floor for a vote and let every senator go on the record.\" 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oQ29TdFZaNGY3aWZIZTl3VWhHNGNxUld1a0s2MG44cjFJYXJiOWZObWk4YWM3RkFORlE5V3hpMUV0emp1NmY0d0N0R3BQNGR5T2RXNGJSTVU3SWM1ZzVYZnRMRTJVajA?oc=5\" target=\"_blank\">NEW: 🇺🇸 Sen. Dave McCormi…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oQ29TdFZaNGY3aWZIZTl3VWhHNGNxUld1a0s2MG44cjFJYXJiOWZObWk4YWM3RkFORlE5V3hpMUV0emp1NmY0d0N0R3BQNGR5T2RXNGJSTVU3SWM1ZzVYZnRMRTJVajA?oc=5",
-      "publishedAt": "2026-07-27T16:20:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-new-sen-dave-mccormic-on-clarity-act-the-time-for-delay-is-over-bring-the-clarit",
-      "localUrl": "/news/20260727-new-sen-dave-mccormic-on-clarity-act-the-time-for-delay-is-over-bring-the-clarit.html"
     },
     {
       "source": "Decrypt",
@@ -770,20 +915,6 @@
       "localUrl": "/news/20260727-update-circle-has-acquired-nearly-1000-ibm-blockchain-patents-becoming-the-large.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Nvidia forms 37-member AI security alliance without OpenAI, Anthropic or Google",
-      "summary": "The chipmaker and 36 other companies say defenders need AI they can run themselves. Major AI players OpenAI, Anthropic and Google are not among them.",
-      "url": "https://www.coindesk.com/tech/2026/07/27/nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-      "publishedAt": "2026-07-27T13:25:58.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google",
-      "localUrl": "/news/20260727-nvidia-forms-37-member-ai-security-alliance-without-openai-anthropic-or-google.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Binance disappears from Google Play in certain EU countries",
       "summary": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
@@ -808,19 +939,6 @@
       "localUrl": "/news/20260727-bitcoin-rises-as-tensions-ease-bitcoin-gained-05-as-risk-sentiment-improved-afte.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
-      "summary": "IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
-      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-27T13:08:55.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260727-usdc-issuer-circle-to-acquire-nearly-1000-ibm-blockchain-patents",
-      "localUrl": "/news/20260727-usdc-issuer-circle-to-acquire-nearly-1000-ibm-blockchain-patents.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
       "summary": "The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.",
@@ -832,67 +950,6 @@
       "category": "RWA",
       "slug": "20260727-strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
       "localUrl": "/news/20260727-strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-      "summary": "The license broadens the BlackRock tokenization partner's offering as regulators weigh rules for onchain investment products.",
-      "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenizati",
-      "localUrl": "/news/20260727-securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenizati.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto is rewriting how Wall Street traders spend their weekends",
-      "summary": "Around-the-clock crypto markets are forcing Wall Street to reevaluate one of its oldest assumptions: that weekends are for waiting.",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
-      "publishedAt": "2026-07-27T13:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Perps Week 2026",
-        "Feature"
-      ],
-      "category": "市场",
-      "slug": "20260727-crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
-      "localUrl": "/news/20260727-crypto-is-rewriting-how-wall-street-traders-spend-their-weekends.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
-      "summary": "The Ethereum treasury company added nearly 10,000 ETH while expanding its stock buyback, citing ether outperforming bitcoin is sending a bullish signal.",
-      "url": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
-      "publishedAt": "2026-07-27T12:55:57.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260727-bitmine-buys-more-ether-as-tom-lee-says-rising-ethbtc-ratio-points-to-stronger-c",
-      "localUrl": "/news/20260727-bitmine-buys-more-ether-as-tom-lee-says-rising-ethbtc-ratio-points-to-stronger-c.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle buys nearly 1,000 blockchain patents from IBM",
-      "summary": "The portfolio covers blockchain technology, banking, insurance, and cloud security, though the financial terms of the deal were not disclosed.",
-      "url": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm",
-      "publishedAt": "2026-07-27T12:47:04.000Z",
-      "keywords": [
-        "Finance",
-        "Circle",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260727-circle-buys-nearly-1000-blockchain-patents-from-ibm",
-      "localUrl": "/news/20260727-circle-buys-nearly-1000-blockchain-patents-from-ibm.html"
     },
     {
       "source": "Decrypt",
@@ -917,6 +974,17 @@
       "category": "X热点",
       "slug": "20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-",
       "localUrl": "/news/20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "1/ Every transaction on a public blockchain leaves a trail. Your wallet activity. Your transaction history. Your interactions. For many people, that's just how crypto works. But does it have to? 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2OHNhdUdtb285LW05ekkxUmNuTDZGNW1aRmF3MHJCRVpXV2V5UENDQm9zT0dYdzhfOWU1Zk5YdGRsMzRISnU1cUVCcnRib2tjQmU1VlgzQ1RVUVU3QjVZQkM3TmI?oc=5\" target=\"_blank\">1/ Every transaction on a publi…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2OHNhdUdtb285LW05ekkxUmNuTDZGNW1aRmF3MHJCRVpXV2V5UENDQm9zT0dYdzhfOWU1Zk5YdGRsMzRISnU1cUVCcnRib2tjQmU1VlgzQ1RVUVU3QjVZQkM3TmI?oc=5",
+      "publishedAt": "2026-07-27T12:10:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y",
+      "localUrl": "/news/20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y.html"
     },
     {
       "source": "X Wire",
@@ -952,32 +1020,6 @@
       "localUrl": "/news/20260727-mstr-strategy-sells-stock-pauses-bitcoin-buying-mstr-raised-5445-million-by-sell.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
-      "summary": "Plus markets are green after oil fell 8%; ETH is greatly outpacing BTC in ETF inflows; and another major crypto exchange has shut down",
-      "url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
-      "publishedAt": "2026-07-27T12:00:49.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260727-morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
-      "localUrl": "/news/20260727-morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin ETFs Shed $465M Over Two Days, Led by BlackRock's IBIT",
-      "summary": "The selling reversed a seven-day, $1 billion inflow streak, with analysts blaming renewed U.S.-Iran tensions and Fed rate-hike fears.",
-      "url": "https://decrypt.co/374354/bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
-      "publishedAt": "2026-07-27T11:23:01.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260727-bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit",
-      "localUrl": "/news/20260727-bitcoin-etfs-shed-465m-over-two-days-led-by-blackrocks-ibit.html"
-    },
-    {
       "source": "X Wire",
       "title": "UPDATE: Russia's largest bank, Sberbank, plans to build crypto trading infrastructure by December 1 including a digital depository and active crypto wallet, following the State Duma's passage of a comprehensive crypto trading bill on July 21. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5\" target=\"_blank\">UPDATE: Russia's largest bank, Sberbank…",
@@ -989,19 +1031,6 @@
       "localUrl": "/news/20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur.html"
     },
     {
-      "source": "Decrypt",
-      "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
-      "summary": "BitMart’s closure, citing the market environment and “future strategic direction,” comes days after crypto perps exchange BitMEX shut down.",
-      "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
-      "publishedAt": "2026-07-27T09:57:20.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260727-bitmart-becomes-latest-crypto-exchange-to-shut-down",
-      "localUrl": "/news/20260727-bitmart-becomes-latest-crypto-exchange-to-shut-down.html"
-    },
-    {
       "source": "X Wire",
       "title": "2026 is the first year ever in which bitcoin difficulty dropped. What do you think it means? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HSVRVUUVQeGtEU2phLVViTkdiZmwzVmpybUJhVWlZY3kzTUVTdTJ5Vk9fbDJoeWNiQkdNck1oeHprS3Z4LTVHbWtwdEVnWUwwZHJEOTNWejZUclNDMnF5c05aT2hqUQ?oc=5\" target=\"_blank\">2026 is the first year ever …",
@@ -1011,19 +1040,6 @@
       "category": "X热点",
       "slug": "20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin",
       "localUrl": "/news/20260727-2026-is-the-first-year-ever-in-which-bitcoin-difficulty-dropped-what-do-you-thin.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
-      "summary": "The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.",
-      "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
-      "publishedAt": "2026-07-27T09:16:14.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
-      "localUrl": "/news/20260727-thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack.html"
     },
     {
       "source": "X Wire",
@@ -1046,19 +1062,6 @@
       "category": "X热点",
       "slug": "20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra",
       "localUrl": "/news/20260726-steak-n-shake-is-a-sustainable-bitcoin-company-bitcoin-payments-go-into-our-stra.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Mira Murati’s Inkling AI Model Review: Best Open-Weights Model in the West",
-      "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
-      "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
-      "publishedAt": "2026-07-26T14:01:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260726-mira-muratis-inkling-ai-model-review-best-open-weights-model-in-the-west",
-      "localUrl": "/news/20260726-mira-muratis-inkling-ai-model-review-best-open-weights-model-in-the-west.html"
     },
     {
       "source": "X Wire",
