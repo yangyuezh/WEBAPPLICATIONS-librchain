@@ -1,7 +1,118 @@
 {
-  "updatedAt": "2026-07-29T06:41:57.506Z",
+  "updatedAt": "2026-07-29T09:46:39.525Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
+      "summary": "Durov has previously called Russia’s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
+      "url": "https://decrypt.co/374625/russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
+      "publishedAt": "2026-07-29T09:34:35.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260729-russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
+      "localUrl": "/news/20260729-russia-charges-telegrams-pavel-durov-with-aiding-terrorism.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
+      "summary": "The bitcoin miner reached a market valuation of roughly $2.8 billion based on its 44.9 million shares outstanding.",
+      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
+      "publishedAt": "2026-07-29T09:22:24.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "Bitcoin Mining",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex",
+      "localUrl": "/news/20260729-ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hungary repeals crypto checks as first MiCA license is granted",
+      "summary": "Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.",
+      "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T09:15:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-hungary-repeals-crypto-checks-as-first-mica-license-is-granted",
+      "localUrl": "/news/20260729-hungary-repeals-crypto-checks-as-first-mica-license-is-granted.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+      "summary": "The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.",
+      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
+      "publishedAt": "2026-07-29T09:10:54.000Z",
+      "keywords": [
+        "Policy",
+        "Crypto News",
+        "Telegram",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260729-russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
+      "localUrl": "/news/20260729-russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
+      "summary": "Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump’s speeches, is no longer employed by the federal government.",
+      "url": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T08:12:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-trump-teleprompter-operator-accused-over-kalshi-bets-leaves-government-ap",
+      "localUrl": "/news/20260729-trump-teleprompter-operator-accused-over-kalshi-bets-leaves-government-ap.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX is a battleground Solana must win",
+      "summary": "Perps are a trojan horse to bring all of traditional finance onchain, argues Brian Smith, president of the Jito Foundation.",
+      "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
+      "publishedAt": "2026-07-29T08:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-spacex-is-a-battleground-solana-must-win",
+      "localUrl": "/news/20260729-spacex-is-a-battleground-solana-must-win.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+      "summary": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T07:16:47.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260729-bitcoin-etfs-extend-outflow-streak-as-btc-fails-to-hold-65k",
+      "localUrl": "/news/20260729-bitcoin-etfs-extend-outflow-streak-as-btc-fails-to-hold-65k.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
+      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T07:11:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-uk-policy-sprint-finds-cross-border-payments-are-stablecoins-top-use-case",
+      "localUrl": "/news/20260729-uk-policy-sprint-finds-cross-border-payments-are-stablecoins-top-use-case.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
@@ -254,17 +365,6 @@
       "category": "X热点",
       "slug": "20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th",
       "localUrl": "/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says he will support Congress in passing the Clarity Act: “I am committed to supporting Congress in advancing the CLARITY Act, including providing technical assistance.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC Chair Pau…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5",
-      "publishedAt": "2026-07-28T21:03:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari",
-      "localUrl": "/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html"
     },
     {
       "source": "Decrypt",
@@ -560,19 +660,6 @@
       "localUrl": "/news/20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Core Scientific revenue doubles in Q2 as AI colocation expansion accelerates",
-      "summary": "Core Scientific reported strong second-quarter revenue growth as AI colocation became its largest business, though a non-cash accounting charge resulted in a $1.15 billion net loss.",
-      "url": "https://cointelegraph.com/markets/core-scientific-revenue-doubles-q2-ai-colocation-expansion-accelerate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T15:47:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260728-core-scientific-revenue-doubles-in-q2-as-ai-colocation-expansion-accelerates",
-      "localUrl": "/news/20260728-core-scientific-revenue-doubles-in-q2-as-ai-colocation-expansion-accelerates.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
       "summary": "EthSystems, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.",
@@ -660,19 +747,6 @@
       "localUrl": "/news/20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
-      "summary": "DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it’s not a case of industry consolidation — but the opposite.",
-      "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "DeFi",
-      "slug": "20260728-the-real-reason-defi-projects-that-survived-2022-crash-are-shutting-down-now",
-      "localUrl": "/news/20260728-the-real-reason-defi-projects-that-survived-2022-crash-are-shutting-down-now.html"
-    },
-    {
       "source": "X Wire",
       "title": "Every year, crypto has a \"big theme.\" This year? It's the merging of crypto and traditional finance (TradFi) - and it's happening faster than anyone expected. Here's why 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5\" target=\"_blank\">Every year, crypto has a \"big th…",
@@ -682,32 +756,6 @@
       "category": "X热点",
       "slug": "20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit",
       "localUrl": "/news/20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
-      "summary": "Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting.",
-      "url": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T13:11:28.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260728-markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-low",
-      "localUrl": "/news/20260728-markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-low.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
-      "summary": "Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the network with the second-highest losses, driven largely by key compromises.",
-      "url": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid",
-      "localUrl": "/news/20260728-ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid.html"
     },
     {
       "source": "CoinDesk",
@@ -784,21 +832,6 @@
       "localUrl": "/news/20260728-1inchs-shared-liquidity-layer-aqua-goes-live.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s recent stability hasn't been enough to spark a broader altcoin rally",
-      "summary": "Your day-ahead look for July 28, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/28/bitcoin-s-recent-stability-hasn-t-been-enough-to-spark-a-broader-altcoin-rally",
-      "publishedAt": "2026-07-28T11:37:31.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally",
-      "localUrl": "/news/20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally.html"
-    },
-    {
       "source": "X Wire",
       "title": "Crypto․com is partnering with @emirates to enable Crypto․com Pay™ for flight bookings. Available to approved users in the UAE, this brings next-generation payments to world-class travel while accelerating the vision of the Dubai Cashless Strategy under th - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5\" target=\"_blank\">Crypto․com is partnering with @emirate…",
@@ -837,37 +870,6 @@
       "localUrl": "/news/20260728-myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops as South Korean stocks tumble, Senate shelves crypto Clarity Act",
-      "summary": "BTC shed 2% as South Korea's Kospi plunged 11% and the U.S. Senate shelved the Clarity Act, leaving the market facing a pivotal Fed decision on Wednesday.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
-      "publishedAt": "2026-07-28T11:09:16.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act",
-      "localUrl": "/news/20260728-bitcoin-drops-as-south-korean-stocks-tumble-senate-shelves-crypto-clarity-act.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "1inch opens Aqua liquidity protocol across 13 chains",
-      "summary": "Liquidity providers can keep assets in their own wallets, using one balance to back multiple positions without splitting capital across different pools.",
-      "url": "https://www.coindesk.com/web3/2026/07/27/1inch-opens-aqua-liquidity-protocol-across-13-chains",
-      "publishedAt": "2026-07-28T11:00:00.000Z",
-      "keywords": [
-        "Web3",
-        "Web3",
-        "Crypto News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-1inch-opens-aqua-liquidity-protocol-across-13-chains",
-      "localUrl": "/news/20260728-1inch-opens-aqua-liquidity-protocol-across-13-chains.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is the asset. Solana is the infrastructure. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NHVWNkZXSTJNUVJfbjFaWnhBV3RUZ2xLakd3UTVvR3BiTUxRZXMtWjBsVEJua0dFSWprOUM5bi1Zb05xaHZXa01WZ0FKT1phdW9RUjNFaF9BR0k?oc=5\" target=\"_blank\">Bitcoin is the asset. Solana is the infrast…",
@@ -890,6 +892,17 @@
       "category": "综合",
       "slug": "20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
       "localUrl": "/news/20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Hyperliquid Community Addresses SK Hynix Perp Anomaly: Deployed by XYZ and Under Investigation Hyperliquid’s xyz:SKHYNIX perpetual contract briefly fell 17.9% after an anomalous pre-market trade in South Korea’s NXT market priced one SK Hynix sha - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5\" target=\"_blank\">Hyperliquid Community Addresses …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5",
+      "publishedAt": "2026-07-28T09:16:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-",
+      "localUrl": "/news/20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-.html"
     },
     {
       "source": "Decrypt",
@@ -959,19 +972,6 @@
       "localUrl": "/news/20260727-openais-gpt-6-will-arrive-by-september-markets-predict.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-      "summary": "A searchable database built from New York City's public property assessment records has drawn backlash from critics who say it creates privacy and security risks.",
-      "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
-      "publishedAt": "2026-07-27T21:05:05.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260727-searchable-nyc-property-database-puts-wealthy-residents-at-risk-critics-warn",
-      "localUrl": "/news/20260727-searchable-nyc-property-database-puts-wealthy-residents-at-risk-critics-warn.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is 87% correlated to global liquidity. The NASDAQ is 97% correlated. Which tells you something most people never realise. These assets are not really trading on earnings, or news, or whatever the story of the week is. They’re tracking the amount of mo - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5\" target=\"_blank\">Bitcoin is 87% correlated to global liq…",
@@ -981,17 +981,6 @@
       "category": "X热点",
       "slug": "20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t",
       "localUrl": "/news/20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN ETF OUTFLOWS RETURN Bitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows. Analysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5\" target=\"_blank\">BITCOIN ETF OUTFLOWS RETURN Bitcoin ETF…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5",
-      "publishedAt": "2026-07-27T18:32:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow",
-      "localUrl": "/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html"
     },
     {
       "source": "X Wire",
@@ -1036,6 +1025,17 @@
       "category": "X热点",
       "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
       "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto deal-making has collapsed. Just 44 crypto deals were announced in July: • 41 fundraising rounds • 2 M&A deals • 1 debt financing Source: Blockworks Research - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5\" target=\"_blank\">Crypto deal-making has collapsed…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5",
+      "publishedAt": "2026-07-27T14:10:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-",
+      "localUrl": "/news/20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-.html"
     },
     {
       "source": "X Wire",
