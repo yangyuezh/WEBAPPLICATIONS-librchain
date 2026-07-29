@@ -1,7 +1,131 @@
 {
-  "updatedAt": "2026-07-29T03:33:07.251Z",
+  "updatedAt": "2026-07-29T06:41:57.506Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
+      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
+      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T06:32:25.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says",
+      "localUrl": "/news/20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+      "summary": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
+      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+      "publishedAt": "2026-07-29T06:25:21.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "监管",
+      "slug": "20260729-live-updates-bitcoin-clears-64000-in-asia-hours-ahead-of-fed-decision",
+      "localUrl": "/news/20260729-live-updates-bitcoin-clears-64000-in-asia-hours-ahead-of-fed-decision.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+      "summary": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
+      "publishedAt": "2026-07-29T06:03:28.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-company-behind-ai-trade-that-caused-60-million-crypto-liquidations-to-cover-all-",
+      "localUrl": "/news/20260729-company-behind-ai-trade-that-caused-60-million-crypto-liquidations-to-cover-all-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
+      "summary": "Citadel's macro team says Wednesday's hike isn't about the data. It's about Warsh's best shot at making a surprise actually count before the market stops being surprised.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
+      "publishedAt": "2026-07-29T05:37:38.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Federal Reserve",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon",
+      "localUrl": "/news/20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched",
+      "summary": "SK Hynix fell 17% after profit rose 557% and still missed estimates. Bitcoin is up 1%, and the Fed decides rates today.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
+      "publishedAt": "2026-07-29T05:32:27.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-bitcoin-rises-toward-64000-as-koreas-record-chip-crash-leaves-crypto-untouched",
+      "localUrl": "/news/20260729-bitcoin-rises-toward-64000-as-koreas-record-chip-crash-leaves-crypto-untouched.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
+      "summary": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
+      "url": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T05:29:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260729-tradexyz-to-cover-sk-hynix-perp-liquidation-losses-tied-to-price-anomaly",
+      "localUrl": "/news/20260729-tradexyz-to-cover-sk-hynix-perp-liquidation-losses-tied-to-price-anomaly.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
+      "summary": "Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol fees, rejecting claims the change reduces liquidity providers’ earnings.",
+      "url": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T05:02:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-uniswap-founder-rejects-claims-v4-fees-reduce-lp-earnings",
+      "localUrl": "/news/20260729-uniswap-founder-rejects-claims-v4-fees-reduce-lp-earnings.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
+      "summary": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.",
+      "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T03:43:05.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-south-korea-plans-stablecoin-rules-as-opposition-pushes-crypto-tax-repeal",
+      "localUrl": "/news/20260729-south-korea-plans-stablecoin-rules-as-opposition-pushes-crypto-tax-repeal.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
+      "summary": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
+      "url": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T03:26:44.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260729-celsius-linked-bitcoin-miner-ionic-digital-gains-26-in-nasdaq-debut",
+      "localUrl": "/news/20260729-celsius-linked-bitcoin-miner-ionic-digital-gains-26-in-nasdaq-debut.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
@@ -59,8 +183,8 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
-      "summary": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers.",
+      "title": "Myanmar Parliament passes crypto scam bill with penalties up to life",
+      "summary": "Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.",
       "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-28T23:27:28.000Z",
       "keywords": [
@@ -618,19 +742,6 @@
       "localUrl": "/news/20260728-binance-makes-fighting-crypto-crime-more-difficult-says-new-report.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
-      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
-      "url": "https://cointelegraph.com/markets/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T12:07:51.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results",
-      "localUrl": "/news/20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
       "summary": "A lawsuit alleges Apple kept a fake bitcoin wallet app on its store after one user reported an $875,000 theft, leading to another user having roughly $840,000 stolen.",
@@ -686,6 +797,17 @@
       "category": "市场",
       "slug": "20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally",
       "localUrl": "/news/20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto․com is partnering with @emirates to enable Crypto․com Pay™ for flight bookings. Available to approved users in the UAE, this brings next-generation payments to world-class travel while accelerating the vision of the Dubai Cashless Strategy under th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5\" target=\"_blank\">Crypto․com is partnering with @emirate…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5",
+      "publishedAt": "2026-07-28T11:31:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki",
+      "localUrl": "/news/20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki.html"
     },
     {
       "source": "Decrypt",
@@ -746,19 +868,6 @@
       "localUrl": "/news/20260728-1inch-opens-aqua-liquidity-protocol-across-13-chains.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
-      "summary": "Decentralized exchange aggregator 1inch announced the launch of its Aqua protocol allowing users to provide liquidity to many protocols at once.",
-      "url": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T11:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-1inch-moves-to-unite-defi-liquidity-across-13-chains-with-aqua",
-      "localUrl": "/news/20260728-1inch-moves-to-unite-defi-liquidity-across-13-chains-with-aqua.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is the asset. Solana is the infrastructure. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NHVWNkZXSTJNUVJfbjFaWnhBV3RUZ2xLakd3UTVvR3BiTUxRZXMtWjBsVEJua0dFSWprOUM5bi1Zb05xaHZXa01WZ0FKT1phdW9RUjNFaF9BR0k?oc=5\" target=\"_blank\">Bitcoin is the asset. Solana is the infrast…",
@@ -768,19 +877,6 @@
       "category": "X热点",
       "slug": "20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom",
       "localUrl": "/news/20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-      "summary": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
-      "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T10:09:47.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260728-imf-warns-brazils-stablecoin-activity-outpaces-traditional-capital-flows",
-      "localUrl": "/news/20260728-imf-warns-brazils-stablecoin-activity-outpaces-traditional-capital-flows.html"
     },
     {
       "source": "Decrypt",
@@ -796,73 +892,6 @@
       "localUrl": "/news/20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
-      "summary": "Perpetual futures on the South Korean chipmaker's American depositary receipts plunged 20% in one minute before quickly rebounding above $1,000.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/perpetuals-tied-to-sk-hynix-suffer-a-flash-crash-to-usd900-on-hyperliquid",
-      "publishedAt": "2026-07-28T10:05:43.000Z",
-      "keywords": [
-        "Markets",
-        "Hyperliquid",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-perpetuals-tied-to-sk-hynix-hit-by-flash-crash-to-900-on-hyperliquid",
-      "localUrl": "/news/20260728-perpetuals-tied-to-sk-hynix-hit-by-flash-crash-to-900-on-hyperliquid.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
-      "summary": "Trading volumes across major centralized platforms fell down to $1.05 trillion, marking the quietest stretch of activity for the digital asset market in over two years.",
-      "url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
-      "publishedAt": "2026-07-28T09:36:01.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
-      "localUrl": "/news/20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Hyperliquid Community Addresses SK Hynix Perp Anomaly: Deployed by XYZ and Under Investigation Hyperliquid’s xyz:SKHYNIX perpetual contract briefly fell 17.9% after an anomalous pre-market trade in South Korea’s NXT market priced one SK Hynix sha - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5\" target=\"_blank\">Hyperliquid Community Addresses …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5",
-      "publishedAt": "2026-07-28T09:16:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-",
-      "localUrl": "/news/20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-      "summary": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
-      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T09:14:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-lido-upgrade-aims-to-slash-ethereums-validator-count-by-one-third",
-      "localUrl": "/news/20260728-lido-upgrade-aims-to-slash-ethereums-validator-count-by-one-third.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-      "summary": "The new system marks an apparent departure from the institution-focused layer-1 blockchain Ondo announced in 2025.",
-      "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T09:12:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260728-ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network",
-      "localUrl": "/news/20260728-ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban—For Now",
       "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
@@ -875,38 +904,6 @@
       "category": "监管",
       "slug": "20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n",
       "localUrl": "/news/20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
-      "summary": "Weeks ago, the U.S. CFTC opened the gates for crypto perps with its first listing approval, but major derivatives player CME is fighting back against what it sees as a diversion from the law.",
-      "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
-      "publishedAt": "2026-07-28T08:00:00.000Z",
-      "keywords": [
-        "Policy",
-        "Perps Week 2026",
-        "Feature"
-      ],
-      "category": "监管",
-      "slug": "20260728-inside-the-cme-and-cftcs-battle-over-onchain-perpetual-futures",
-      "localUrl": "/news/20260728-inside-the-cme-and-cftcs-battle-over-onchain-perpetual-futures.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
-      "summary": "The Hong Kong Monetary Authority published a whitepaper on the quantum preparedness of Hong Kong’s banking industry and its first Quantum Preparedness Index.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
-      "publishedAt": "2026-07-28T07:55:41.000Z",
-      "keywords": [
-        "Markets",
-        "quantum computing",
-        "Hong Kong",
-        "banks",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260728-hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l",
-      "localUrl": "/news/20260728-hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l.html"
     },
     {
       "source": "X Wire",
@@ -947,17 +944,6 @@
       "category": "X热点",
       "slug": "20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade",
       "localUrl": "/news/20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin falls back under $64,000 as $100 million is liquidated from the crypto market in the past 60 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcG9uRTYtZG9NYVljVXczdGd0MFh6Mmt2M2dqemY3N0hVQVhOU1p0Y0o4Tlp6WFFPZkNpbVljeGQtWDBWWnhBS2hpQXlxcy1MamtMM21Bamp2bl90RFdjWGpB?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls back under …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lcG9uRTYtZG9NYVljVXczdGd0MFh6Mmt2M2dqemY3N0hVQVhOU1p0Y0o4Tlp6WFFPZkNpbVljeGQtWDBWWnhBS2hpQXlxcy1MamtMM21Bamp2bl90RFdjWGpB?oc=5",
-      "publishedAt": "2026-07-27T22:54:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-just-in-bitcoin-falls-back-under-64000-as-100-million-is-liquidated-from-the-cry",
-      "localUrl": "/news/20260727-just-in-bitcoin-falls-back-under-64000-as-100-million-is-liquidated-from-the-cry.html"
     },
     {
       "source": "Decrypt",
@@ -1039,6 +1025,17 @@
       "category": "X热点",
       "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5",
+      "publishedAt": "2026-07-27T14:44:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
+      "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
     },
     {
       "source": "X Wire",

@@ -2,15 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-29T03:33:07.293Z</lastmod>
+    <lastmod>2026-07-29T06:41:57.547Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-29T03:33:07.293Z</lastmod>
+    <lastmod>2026-07-29T06:41:57.547Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says.html</loc>
+    <lastmod>2026-07-29T06:32:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-live-updates-bitcoin-clears-64000-in-asia-hours-ahead-of-fed-decision.html</loc>
+    <lastmod>2026-07-29T06:25:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-company-behind-ai-trade-that-caused-60-million-crypto-liquidations-to-cover-all-.html</loc>
+    <lastmod>2026-07-29T06:03:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon.html</loc>
+    <lastmod>2026-07-29T05:37:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-bitcoin-rises-toward-64000-as-koreas-record-chip-crash-leaves-crypto-untouched.html</loc>
+    <lastmod>2026-07-29T05:32:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-tradexyz-to-cover-sk-hynix-perp-liquidation-losses-tied-to-price-anomaly.html</loc>
+    <lastmod>2026-07-29T05:29:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-uniswap-founder-rejects-claims-v4-fees-reduce-lp-earnings.html</loc>
+    <lastmod>2026-07-29T05:02:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-south-korea-plans-stablecoin-rules-as-opposition-pushes-crypto-tax-repeal.html</loc>
+    <lastmod>2026-07-29T03:43:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-celsius-linked-bitcoin-miner-ionic-digital-gains-26-in-nasdaq-debut.html</loc>
+    <lastmod>2026-07-29T03:26:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange.html</loc>
@@ -289,12 +343,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260728-paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results.html</loc>
-    <lastmod>2026-07-28T12:07:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260728-apple-kept-fake-bitcoin-wallet-on-app-store-after-875000-theft-report-lawsuit-al.html</loc>
     <lastmod>2026-07-28T11:59:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -315,6 +363,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260728-bitcoins-recent-stability-hasnt-been-enough-to-spark-a-broader-altcoin-rally.html</loc>
     <lastmod>2026-07-28T11:37:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki.html</loc>
+    <lastmod>2026-07-28T11:31:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,20 +397,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260728-1inch-moves-to-unite-defi-liquidity-across-13-chains-with-aqua.html</loc>
-    <lastmod>2026-07-28T11:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom.html</loc>
     <lastmod>2026-07-28T10:26:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-imf-warns-brazils-stablecoin-activity-outpaces-traditional-capital-flows.html</loc>
-    <lastmod>2026-07-28T10:09:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,50 +409,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260728-perpetuals-tied-to-sk-hynix-hit-by-flash-crash-to-900-on-hyperliquid.html</loc>
-    <lastmod>2026-07-28T10:05:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump.html</loc>
-    <lastmod>2026-07-28T09:36:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-.html</loc>
-    <lastmod>2026-07-28T09:16:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-lido-upgrade-aims-to-slash-ethereums-validator-count-by-one-third.html</loc>
-    <lastmod>2026-07-28T09:14:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network.html</loc>
-    <lastmod>2026-07-28T09:12:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n.html</loc>
     <lastmod>2026-07-28T09:04:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-inside-the-cme-and-cftcs-battle-over-onchain-perpetual-futures.html</loc>
-    <lastmod>2026-07-28T08:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l.html</loc>
-    <lastmod>2026-07-28T07:55:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -429,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade.html</loc>
     <lastmod>2026-07-27T23:00:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260727-just-in-bitcoin-falls-back-under-64000-as-100-million-is-liquidated-from-the-cry.html</loc>
-    <lastmod>2026-07-27T22:54:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,6 +471,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html</loc>
     <lastmod>2026-07-27T17:00:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html</loc>
+    <lastmod>2026-07-27T14:44:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
