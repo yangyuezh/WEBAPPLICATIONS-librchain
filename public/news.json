@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-07-28T23:13:05.910Z",
+  "updatedAt": "2026-07-29T03:33:07.251Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
+      "summary": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
+      "url": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T02:50:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange",
+      "localUrl": "/news/20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
+      "summary": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.",
+      "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T01:05:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-zcash-says-ironwood-proof-rules-out-undetectable-counterfeiting-bugs",
+      "localUrl": "/news/20260729-zcash-says-ironwood-proof-rules-out-undetectable-counterfeiting-bugs.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "European financial institutions launch RL1 cooperative blockchain network",
+      "summary": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
+      "url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T00:09:29.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network",
+      "localUrl": "/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+      "summary": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.",
+      "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+      "publishedAt": "2026-07-28T23:50:38.000Z",
+      "keywords": [
+        "Policy",
+        "Coinbase",
+        "Exclusive",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need",
+      "localUrl": "/news/20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Myanmar parliament passes crypto scam bill with penalties up to life",
+      "summary": "Myanmar lawmakers approved an anti-online scam bill whose draft proposed prison terms of 10 years to life for crypto scams and operating scam centers.",
+      "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-28T23:27:28.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life",
+      "localUrl": "/news/20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life.html"
+    },
     {
       "source": "Decrypt",
       "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
@@ -14,6 +82,17 @@
       "category": "监管",
       "slug": "20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last",
       "localUrl": "/news/20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Consumer Technology Association supports the passage of the CLARITY ACT \"America should be competitive in blockchain and digital asset technologies. We respectfully urge you to prioritize Senate floor consideration of the CLARITY Act.\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rzlrb21kRU1JNmQ2V2kzd3hfbEw5N21RTEp1R1B6Yll4NDg3TjdMTGp5cFBUOEV3TDR6NmVPMzB5UzFuQ2JMQjd2V2MtWDFRaVZLM1dNSFdsQ3RXM1Jaa2x5SjZpZDg?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Consumer Tech…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rzlrb21kRU1JNmQ2V2kzd3hfbEw5N21RTEp1R1B6Yll4NDg3TjdMTGp5cFBUOEV3TDR6NmVPMzB5UzFuQ2JMQjd2V2MtWDFRaVZLM1dNSFdsQ3RXM1Jaa2x5SjZpZDg?oc=5",
+      "publishedAt": "2026-07-28T22:08:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-",
+      "localUrl": "/news/20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-.html"
     },
     {
       "source": "Decrypt",
@@ -51,6 +130,17 @@
       "category": "X热点",
       "slug": "20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th",
       "localUrl": "/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says he will support Congress in passing the Clarity Act: “I am committed to supporting Congress in advancing the CLARITY Act, including providing technical assistance.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC Chair Pau…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5",
+      "publishedAt": "2026-07-28T21:03:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari",
+      "localUrl": "/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html"
     },
     {
       "source": "Decrypt",
@@ -819,61 +909,6 @@
       "localUrl": "/news/20260728-hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Crypto climbs off worst levels as stock selloff is contained to AI names",
-      "summary": "While the chipmakers continue their tumble, the DJIA is actually higher by more than 1%, led by Coca-Cola, Walmart, and Home Depot.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
-      "publishedAt": "2026-07-28T07:46:22.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260728-live-updates-crypto-climbs-off-worst-levels-as-stock-selloff-is-contained-to-ai-",
-      "localUrl": "/news/20260728-live-updates-crypto-climbs-off-worst-levels-as-stock-selloff-is-contained-to-ai-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-      "summary": "Three users allege a fake Sparrow Wallet app on Apple’s App Store drained their Bitcoin holdings, with losses totaling more than $1.8 million.",
-      "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T07:40:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses",
-      "localUrl": "/news/20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-      "summary": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition.",
-      "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T06:00:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-binance-co-founder-cz-backs-crypto-license-passporting-across-asean",
-      "localUrl": "/news/20260728-binance-co-founder-cz-backs-crypto-license-passporting-across-asean.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US judge temporarily blocks Minnesota prediction market ban",
-      "summary": "The preliminary injunction allows Kalshi and Polymarket US to continue operating in Minnesota while the court considers their challenge to the state law.",
-      "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T04:28:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban",
-      "localUrl": "/news/20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin ETFs Post $11.6 Million Outflow as Ether Funds Add $9.2 Million U.S. spot Bitcoin ETFs recorded net outflows of USD 11.64 million on July 27, according to SoSoValue, with BlackRock’s IBIT posting the largest single-fund outflow at USD 8.82 million. S - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ROTZNWmg1dno3bWZySS1IWUhrQUdXRWd3OEVnRW5fVUkwVEVyXzdJeUNlZDdxSURSSGRva3duQV9DczJEZ0ptME04eDE4c0lVMjQ2VHpkRWpucmNhTEh4R0I0WQ?oc=5\" target=\"_blank\">Bitcoin ETFs Post $11.6 Million …",
@@ -883,19 +918,6 @@
       "category": "X热点",
       "slug": "20260728-bitcoin-etfs-post-116-million-outflow-as-ether-funds-add-92-million-us-spot-bitc",
       "localUrl": "/news/20260728-bitcoin-etfs-post-116-million-outflow-as-ether-funds-add-92-million-us-spot-bitc.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Zimbabwe admits 7 fintech projects to regulatory sandbox",
-      "summary": "Sandbox participation permits supervised testing but does not guarantee full commercial registration.",
-      "url": "https://cointelegraph.com/news/zimbabwe-seven-fintech-projects-regulatory-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T03:17:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-zimbabwe-admits-7-fintech-projects-to-regulatory-sandbox",
-      "localUrl": "/news/20260728-zimbabwe-admits-7-fintech-projects-to-regulatory-sandbox.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -912,17 +934,6 @@
       "category": "综合",
       "slug": "20260728-ofac-sanctions-members-of-hamas-financing-network",
       "localUrl": "/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "After some modest strength in recent days, bitcoin approaching key support level again - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yNlVKUGhTM3dsRU5Ud2I5dkdQVmUyWXJTc0wwbjBJYkpxZTlUbk1KWXY1WVljR1BnZlYwRGhKbV81TWZoZE1nQVJuWU5FZ3BYU1k3Y0FEcF9wSUFQY2J3?oc=5\" target=\"_blank\">After some modest strength in recent d…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yNlVKUGhTM3dsRU5Ud2I5dkdQVmUyWXJTc0wwbjBJYkpxZTlUbk1KWXY1WVljR1BnZlYwRGhKbV81TWZoZE1nQVJuWU5FZ3BYU1k3Y0FEcF9wSUFQY2J3?oc=5",
-      "publishedAt": "2026-07-28T00:24:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-after-some-modest-strength-in-recent-days-bitcoin-approaching-key-support-level-",
-      "localUrl": "/news/20260728-after-some-modest-strength-in-recent-days-bitcoin-approaching-key-support-level-.html"
     },
     {
       "source": "Decrypt",
@@ -998,6 +1009,17 @@
     },
     {
       "source": "X Wire",
+      "title": "NEW: @circle acquires nearly 1,000 blockchain patents from @IBM, making it the largest holder of blockchain patents in the U.S. The portfolio spans blockchain, banking, insurance, and cloud security. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE53OGRoVjI5N3pWcFdwNFlJMTI0LUdsa2RLQ2Joek16V0tfT1lzMldmUldkQVRSUkJKUVFCVml2ckpYa3lIOHRCM1NWY0Y5dk5vOUcyNDZIamVTTE16OUE?oc=5\" target=\"_blank\">NEW: @circle acquires nearly 1,000 bloc…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53OGRoVjI5N3pWcFdwNFlJMTI0LUdsa2RLQ2Joek16V0tfT1lzMldmUldkQVRSUkJKUVFCVml2ckpYa3lIOHRCM1NWY0Y5dk5vOUcyNDZIamVTTE16OUE?oc=5",
+      "publishedAt": "2026-07-27T17:30:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-new-circle-acquires-nearly-1000-blockchain-patents-from-ibm-making-it-the-larges",
+      "localUrl": "/news/20260727-new-circle-acquires-nearly-1000-blockchain-patents-from-ibm-making-it-the-larges.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Bitcoin’s core design is set in stone. Protocol changes should be rare, conservative, and driven by necessity, not ambition. Don’t fix what isn’t broken. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maTNkYUs1aTZ0Tmc0aC12UkV3QmRhUC1ydXNDcTMwdk05d25XZ1RQRUgxTUgwR0FZMnBDbXlMM241Tmh1Vkh5Rnl3NWdGRGwxTm9CR3paVE9xU1k?oc=5\" target=\"_blank\">Bitcoin’s core design is set in stone. Prot…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maTNkYUs1aTZ0Tmc0aC12UkV3QmRhUC1ydXNDcTMwdk05d25XZ1RQRUgxTUgwR0FZMnBDbXlMM241Tmh1Vkh5Rnl3NWdGRGwxTm9CR3paVE9xU1k?oc=5",
@@ -1017,28 +1039,6 @@
       "category": "X热点",
       "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5",
-      "publishedAt": "2026-07-27T14:44:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
-      "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Circle has acquired fundamental assets from the @IBM blockchain patent portfolio, including 680+ patent families and nearly 1,000 issued patents worldwide. The acquisition makes Circle the leading U.S. blockchain patent holder and strengthens the foundati - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbGpueXN5R08ybW9vcmtEUWxnRk44cjROa1VuVnNZNk1ha1pvZXBsay13TTJLcFYzcTZ6WlI0YUkyMW16VWxwcUFqQmxJbTJyM1F3N0NSWl9Qb3M?oc=5\" target=\"_blank\">Circle has acquired fundamental assets from…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbGpueXN5R08ybW9vcmtEUWxnRk44cjROa1VuVnNZNk1ha1pvZXBsay13TTJLcFYzcTZ6WlI0YUkyMW16VWxwcUFqQmxJbTJyM1F3N0NSWl9Qb3M?oc=5",
-      "publishedAt": "2026-07-27T12:15:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-",
-      "localUrl": "/news/20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-.html"
     },
     {
       "source": "X Wire",

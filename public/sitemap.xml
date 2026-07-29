@@ -2,19 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-28T23:13:05.952Z</lastmod>
+    <lastmod>2026-07-29T03:33:07.293Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-28T23:13:05.952Z</lastmod>
+    <lastmod>2026-07-29T03:33:07.293Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange.html</loc>
+    <lastmod>2026-07-29T02:50:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-zcash-says-ironwood-proof-rules-out-undetectable-counterfeiting-bugs.html</loc>
+    <lastmod>2026-07-29T01:05:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html</loc>
+    <lastmod>2026-07-29T00:09:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need.html</loc>
+    <lastmod>2026-07-28T23:50:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life.html</loc>
+    <lastmod>2026-07-28T23:27:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last.html</loc>
     <lastmod>2026-07-28T22:46:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-.html</loc>
+    <lastmod>2026-07-28T22:08:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html</loc>
     <lastmod>2026-07-28T21:51:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html</loc>
+    <lastmod>2026-07-28T21:03:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,50 +415,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260728-live-updates-crypto-climbs-off-worst-levels-as-stock-selloff-is-contained-to-ai-.html</loc>
-    <lastmod>2026-07-28T07:46:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses.html</loc>
-    <lastmod>2026-07-28T07:40:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-binance-co-founder-cz-backs-crypto-license-passporting-across-asean.html</loc>
-    <lastmod>2026-07-28T06:00:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-us-judge-temporarily-blocks-minnesota-prediction-market-ban.html</loc>
-    <lastmod>2026-07-28T04:28:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260728-bitcoin-etfs-post-116-million-outflow-as-ether-funds-add-92-million-us-spot-bitc.html</loc>
     <lastmod>2026-07-28T04:17:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260728-zimbabwe-admits-7-fintech-projects-to-regulatory-sandbox.html</loc>
-    <lastmod>2026-07-28T03:17:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html</loc>
     <lastmod>2026-07-28T02:40:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260728-after-some-modest-strength-in-recent-days-bitcoin-approaching-key-support-level-.html</loc>
-    <lastmod>2026-07-28T00:24:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,6 +463,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260727-new-circle-acquires-nearly-1000-blockchain-patents-from-ibm-making-it-the-larges.html</loc>
+    <lastmod>2026-07-27T17:30:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260727-bitcoins-core-design-is-set-in-stone-protocol-changes-should-be-rare-conservativ.html</loc>
     <lastmod>2026-07-27T17:30:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,18 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html</loc>
     <lastmod>2026-07-27T17:00:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html</loc>
-    <lastmod>2026-07-27T14:44:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-.html</loc>
-    <lastmod>2026-07-27T12:15:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
