@@ -1,7 +1,176 @@
 {
-  "updatedAt": "2026-07-29T15:17:17.309Z",
-  "total": 82,
+  "updatedAt": "2026-07-29T17:33:43.917Z",
+  "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
+      "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
+      "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
+      "publishedAt": "2026-07-29T17:18:49.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260729-ethereum-price-stalls-as-fed-rate-decision-looms",
+      "localUrl": "/news/20260729-ethereum-price-stalls-as-fed-rate-decision-looms.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance launches regulated gold, silver options through ADGM exchange",
+      "summary": "New commodity options let traders gain exposure to gold and silver prices through Binance’s Abu Dhabi-regulated exchange.",
+      "url": "https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T17:09:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260729-binance-launches-regulated-gold-silver-options-through-adgm-exchange",
+      "localUrl": "/news/20260729-binance-launches-regulated-gold-silver-options-through-adgm-exchange.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%",
+      "summary": "Bitcoin traders weathered an oil-price surge and ongoing Asia chip-stock sell-off into the Federal Reserve interest-rate decision.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T17:06:55.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260729-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8",
+      "localUrl": "/news/20260729-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead",
+      "summary": "Summary Institutions are shaping blockchain design: A new generation of hybrid blockchains are building capabilities that suit the privacy-forward needs… The post Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead a…",
+      "url": "https://www.chainalysis.com/blog/privacy-blockchain-compliance/",
+      "publishedAt": "2026-07-29T17:02:03.000Z",
+      "keywords": [
+        "Crypto Basics",
+        "Blockchain Privacy",
+        "Canton",
+        "Compliance",
+        "Institutions",
+        "On-Chain",
+        "Transactions"
+      ],
+      "category": "监管",
+      "slug": "20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead",
+      "localUrl": "/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
+      "summary": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
+      "url": "https://decrypt.co/resources/zcash",
+      "publishedAt": "2026-07-29T16:43:52.000Z",
+      "keywords": [
+        "zcash",
+        "The Coins"
+      ],
+      "category": "综合",
+      "slug": "20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs",
+      "localUrl": "/news/20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots",
+      "summary": "AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.",
+      "url": "https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots",
+      "publishedAt": "2026-07-29T16:38:25.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260729-ai-book-burning-companies-are-destroying-millions-of-books-to-feed-chatbots",
+      "localUrl": "/news/20260729-ai-book-burning-companies-are-destroying-millions-of-books-to-feed-chatbots.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
+      "summary": "MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchases, token swaps and crosschain transactions while retaining custody of their assets.",
+      "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T16:20:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions",
+      "localUrl": "/news/20260729-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
+      "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
+      "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
+      "publishedAt": "2026-07-29T16:16:43.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260729-openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
+      "localUrl": "/news/20260729-openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+      "summary": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
+      "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+      "publishedAt": "2026-07-29T16:09:34.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+      "localUrl": "/news/20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "summary": "Tokenization and 24/7 markets are reshaping finance, making always-on banking a reality.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
+      "publishedAt": "2026-07-29T16:09:32.000Z",
+      "keywords": [
+        "Markets",
+        "Tokenization",
+        "Morgan Stanley",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs",
+      "localUrl": "/news/20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
+      "summary": "Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite — in equities and in bonds.",
+      "url": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T16:04:22.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "RWA",
+      "slug": "20260729-cost-to-insure-ai-debt-reaches-record-high-amid-asian-semiconductor-tumble",
+      "localUrl": "/news/20260729-cost-to-insure-ai-debt-reaches-record-high-amid-asian-semiconductor-tumble.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "summary": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, Brale CEO Ben Milne said in an interview.",
+      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "publishedAt": "2026-07-29T15:27:30.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "Exclusive",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus",
+      "localUrl": "/news/20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
@@ -115,6 +284,17 @@
       "category": "综合",
       "slug": "20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures",
       "localUrl": "/news/20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Governments can accelerate Bitcoin adoption. Governments can delay Bitcoin adoption. They cannot stop Bitcoin. Block by block. Nation by nation. Bitcoin advances. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5\" target=\"_blank\">Governments can accelerate Bitcoin adoption…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5",
+      "publishedAt": "2026-07-29T13:29:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-governments-can-accelerate-bitcoin-adoption-governments-can-delay-bitcoin-adopti",
+      "localUrl": "/news/20260729-governments-can-accelerate-bitcoin-adoption-governments-can-delay-bitcoin-adopti.html"
     },
     {
       "source": "X Wire",
@@ -553,19 +733,6 @@
       "localUrl": "/news/20260729-zcash-says-ironwood-proof-rules-out-undetectable-counterfeiting-bugs.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "European financial institutions launch RL1 cooperative blockchain network",
-      "summary": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
-      "url": "https://cointelegraph.com/markets/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T00:09:29.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network",
-      "localUrl": "/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html"
-    },
-    {
       "source": "Ethereum Blog",
       "title": "Ethereum Foundation Board Update",
       "summary": "We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder and lead of SEAL 911, and has been a member of the EF's Silviculture Society, wh…",
@@ -593,19 +760,6 @@
       "category": "监管",
       "slug": "20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need",
       "localUrl": "/news/20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Myanmar Parliament passes crypto scam bill with penalties up to life",
-      "summary": "Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.",
-      "url": "https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T23:27:28.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life",
-      "localUrl": "/news/20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life.html"
     },
     {
       "source": "Decrypt",
@@ -645,19 +799,6 @@
       "localUrl": "/news/20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Visa outlines stablecoin strategy during Q3 earnings call",
-      "summary": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
-      "url": "https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T21:57:49.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call",
-      "localUrl": "/news/20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 SEC says it is ready to create crypto rules if Congress fails to pass the Clarity Act. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC says it is ready…",
@@ -693,36 +834,6 @@
       "localUrl": "/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "'Anything remotely dovish' from Fed could be good for bitcoin, says analyst",
-      "summary": "Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst",
-      "publishedAt": "2026-07-28T20:23:31.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Market Wrap",
-        "Federal Reserve",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst",
-      "localUrl": "/news/20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
-      "summary": "The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.",
-      "url": "https://cointelegraph.com/markets/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T20:10:46.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps",
-      "localUrl": "/news/20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
       "summary": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
@@ -734,23 +845,6 @@
       "category": "综合",
       "slug": "20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing",
       "localUrl": "/news/20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
-      "summary": "The new network powers Ondo's recently-launched perpetual futures platform and will eventually support trading across onchain financial assets.",
-      "url": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
-      "publishedAt": "2026-07-28T19:44:26.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "Real World Assets",
-        "Derivatives",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo",
-      "localUrl": "/news/20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo.html"
     },
     {
       "source": "Decrypt",
@@ -820,14 +914,14 @@
     },
     {
       "source": "X Wire",
-      "title": "If CLARITY stalls, the SEC and CFTC are already advancing Project Crypto — a joint regulatory effort aimed at delivering a meaningful portion of the market structure framework through rulemaking rather than statute. It’s not the same as legislation, but it’s real - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcHlpNkozRlpRTFhrY09uR1d5a3JyZDd2dlpEYUU1Y0h4d0pxRjhPc0tHRnNNaE83d2ZOc1J0al8tdVdjZFJ3b0VhamJFc1B3eU5PMnEwT0oxRUlFQTF3?oc=5\" target=\"_blank\">If CLARITY stalls, the SEC and CFTC ar…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcHlpNkozRlpRTFhrY09uR1d5a3JyZDd2dlpEYUU1Y0h4d0pxRjhPc0tHRnNNaE83d2ZOc1J0al8tdVdjZFJ3b0VhamJFc1B3eU5PMnEwT0oxRUlFQTF3?oc=5",
-      "publishedAt": "2026-07-28T16:57:25.000Z",
+      "title": "If you still only know Coinbase as a place to trade crypto, you're due an update. Come listen in on July 30th. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5\" target=\"_blank\">If you still only know Coinbase as a pl…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5",
+      "publishedAt": "2026-07-28T17:52:30.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260728-if-clarity-stalls-the-sec-and-cftc-are-already-advancing-project-crypto-a-joint-",
-      "localUrl": "/news/20260728-if-clarity-stalls-the-sec-and-cftc-are-already-advancing-project-crypto-a-joint-.html"
+      "slug": "20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c",
+      "localUrl": "/news/20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c.html"
     },
     {
       "source": "Decrypt",
@@ -890,6 +984,17 @@
     },
     {
       "source": "X Wire",
+      "title": "US Senate: Clarity Act is delayed Crypto investors: - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdzIwNU9BdFN4cmRuM0pWUVI3V2Nkb2xlU2RZeVJ6UzJGYktnTnJHaEJ4eTZhRFdJREdBVC0wYUVublE3Q0xaM2hkb2Z4c2VYSUxBUm02aVNueE5hcWFr?oc=5\" target=\"_blank\">US Senate: Clarity Act is delayed Cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zdzIwNU9BdFN4cmRuM0pWUVI3V2Nkb2xlU2RZeVJ6UzJGYktnTnJHaEJ4eTZhRFdJREdBVC0wYUVublE3Q0xaM2hkb2Z4c2VYSUxBUm02aVNueE5hcWFr?oc=5",
+      "publishedAt": "2026-07-28T15:43:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-us-senate-clarity-act-is-delayed-crypto-investors-xcom",
+      "localUrl": "/news/20260728-us-senate-clarity-act-is-delayed-crypto-investors-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Every year, crypto has a \"big theme.\" This year? It's the merging of crypto and traditional finance (TradFi) - and it's happening faster than anyone expected. Here's why 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5\" target=\"_blank\">Every year, crypto has a \"big th…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5",
@@ -898,33 +1003,6 @@
       "category": "X热点",
       "slug": "20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit",
       "localUrl": "/news/20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
-      "summary": "Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.",
-      "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
-      "publishedAt": "2026-07-28T11:57:58.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260728-morning-minute-strategy-chooses-cash-strc-over-btc",
-      "localUrl": "/news/20260728-morning-minute-strategy-chooses-cash-strc-over-btc.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "1inch's Shared Liquidity Layer Aqua Goes Live",
-      "summary": "The shared liquidity layer opens to all users on 13 chains, letting one wallet balance stand behind several positions at once.",
-      "url": "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
-      "publishedAt": "2026-07-28T11:53:26.000Z",
-      "keywords": [
-        "1inch",
-        "DeFi"
-      ],
-      "category": "DeFi",
-      "slug": "20260728-1inchs-shared-liquidity-layer-aqua-goes-live",
-      "localUrl": "/news/20260728-1inchs-shared-liquidity-layer-aqua-goes-live.html"
     },
     {
       "source": "X Wire",
@@ -936,46 +1014,6 @@
       "category": "X热点",
       "slug": "20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki",
       "localUrl": "/news/20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
-      "summary": "The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.",
-      "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
-      "publishedAt": "2026-07-28T11:31:03.000Z",
-      "keywords": [
-        "zcash",
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260728-zcash-miner-fortitude-powers-up-nebraska-facility-as-it-eyes-public-listing",
-      "localUrl": "/news/20260728-zcash-miner-fortitude-powers-up-nebraska-facility-as-it-eyes-public-listing.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
-      "summary": "Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.",
-      "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
-      "publishedAt": "2026-07-28T11:29:21.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260728-myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
-      "localUrl": "/news/20260728-myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
-      "summary": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
-      "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
-      "publishedAt": "2026-07-28T10:08:09.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
-      "localUrl": "/news/20260728-running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates.html"
     },
     {
       "source": "X Wire",
@@ -1036,28 +1074,6 @@
       "category": "X热点",
       "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
       "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5",
-      "publishedAt": "2026-07-27T14:44:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
-      "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto deal-making has collapsed. Just 44 crypto deals were announced in July: • 41 fundraising rounds • 2 M&A deals • 1 debt financing Source: Blockworks Research - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5\" target=\"_blank\">Crypto deal-making has collapsed…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56SV9nbm5BcTQ0OU5sVzg5NDJ1QVBYcGtQWVJ0azFSWkJHOWhQWmsxTHQ0d09mUEhzRGdRb0t1Y3dUMFBwdTBjbkhZcnZlSDF3NGNLcGFRRFlPdjVqckhOOUtQTQ?oc=5",
-      "publishedAt": "2026-07-27T14:10:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-",
-      "localUrl": "/news/20260727-crypto-deal-making-has-collapsed-just-44-crypto-deals-were-announced-in-july-41-.html"
     },
     {
       "source": "X Wire",

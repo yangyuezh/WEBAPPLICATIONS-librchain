@@ -5,7 +5,103 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 29 Jul 2026 15:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:33:43 GMT</lastBuildDate>
+    <item>
+      <title>Ethereum Price Stalls as Fed Rate Decision Looms</title>
+      <link>https://www.librchain.com/news/20260729-ethereum-price-stalls-as-fed-rate-decision-looms.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-ethereum-price-stalls-as-fed-rate-decision-looms.html</guid>
+      <description>Despite being down today, ETH has clawed back from the worst levels of the year. Now it&apos;s waiting on the Fed.</description>
+      <pubDate>Wed, 29 Jul 2026 17:18:49 GMT</pubDate>
+      <source url="https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision">Decrypt</source>
+    </item>
+    <item>
+      <title>Binance launches regulated gold, silver options through ADGM exchange</title>
+      <link>https://www.librchain.com/news/20260729-binance-launches-regulated-gold-silver-options-through-adgm-exchange.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-binance-launches-regulated-gold-silver-options-through-adgm-exchange.html</guid>
+      <description>New commodity options let traders gain exposure to gold and silver prices through Binance’s Abu Dhabi-regulated exchange.</description>
+      <pubDate>Wed, 29 Jul 2026 17:09:24 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%</title>
+      <link>https://www.librchain.com/news/20260729-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8.html</guid>
+      <description>Bitcoin traders weathered an oil-price surge and ongoing Asia chip-stock sell-off into the Federal Reserve interest-rate decision.</description>
+      <pubDate>Wed, 29 Jul 2026 17:06:55 GMT</pubDate>
+      <source url="https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead</title>
+      <link>https://www.librchain.com/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html</guid>
+      <description>Summary Institutions are shaping blockchain design: A new generation of hybrid blockchains are building capabilities that suit the privacy-forward needs… The post Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead a…</description>
+      <pubDate>Wed, 29 Jul 2026 17:02:03 GMT</pubDate>
+      <source url="https://www.chainalysis.com/blog/privacy-blockchain-compliance/">Chainalysis Blog</source>
+    </item>
+    <item>
+      <title>What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs</title>
+      <link>https://www.librchain.com/news/20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs.html</guid>
+      <description>Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.</description>
+      <pubDate>Wed, 29 Jul 2026 16:43:52 GMT</pubDate>
+      <source url="https://decrypt.co/resources/zcash">Decrypt</source>
+    </item>
+    <item>
+      <title>AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots</title>
+      <link>https://www.librchain.com/news/20260729-ai-book-burning-companies-are-destroying-millions-of-books-to-feed-chatbots.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-ai-book-burning-companies-are-destroying-millions-of-books-to-feed-chatbots.html</guid>
+      <description>AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.</description>
+      <pubDate>Wed, 29 Jul 2026 16:38:25 GMT</pubDate>
+      <source url="https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots">Decrypt</source>
+    </item>
+    <item>
+      <title>MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions</title>
+      <link>https://www.librchain.com/news/20260729-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions.html</guid>
+      <description>MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchases, token swaps and crosschain transactions while retaining custody of their assets.</description>
+      <pubDate>Wed, 29 Jul 2026 16:20:37 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>OpenAI&apos;s Rogue AI Hacked Four More Platforms Besides Hugging Face</title>
+      <link>https://www.librchain.com/news/20260729-openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face.html</guid>
+      <description>OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.</description>
+      <pubDate>Wed, 29 Jul 2026 16:16:43 GMT</pubDate>
+      <source url="https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face">Decrypt</source>
+    </item>
+    <item>
+      <title>SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins</title>
+      <link>https://www.librchain.com/news/20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins.html</guid>
+      <description>Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.</description>
+      <pubDate>Wed, 29 Jul 2026 16:09:34 GMT</pubDate>
+      <source url="https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins">Decrypt</source>
+    </item>
+    <item>
+      <title>The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs</title>
+      <link>https://www.librchain.com/news/20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs.html</guid>
+      <description>Tokenization and 24/7 markets are reshaping finance, making always-on banking a reality.</description>
+      <pubDate>Wed, 29 Jul 2026 16:09:32 GMT</pubDate>
+      <source url="https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying">CoinDesk</source>
+    </item>
+    <item>
+      <title>Cost to insure AI debt reaches record high amid Asian semiconductor tumble</title>
+      <link>https://www.librchain.com/news/20260729-cost-to-insure-ai-debt-reaches-record-high-amid-asian-semiconductor-tumble.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-cost-to-insure-ai-debt-reaches-record-high-amid-asian-semiconductor-tumble.html</guid>
+      <description>Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite — in equities and in bonds.</description>
+      <pubDate>Wed, 29 Jul 2026 16:04:22 GMT</pubDate>
+      <source url="https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens</title>
+      <link>https://www.librchain.com/news/20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus.html</guid>
+      <description>Today&apos;s bridge model won&apos;t scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, Brale CEO Ben Milne said in an interview.</description>
+      <pubDate>Wed, 29 Jul 2026 15:27:30 GMT</pubDate>
+      <source url="https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens">CoinDesk</source>
+    </item>
     <item>
       <title>Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings</title>
       <link>https://www.librchain.com/news/20260729-coinbase-hit-by-spot-trading-slump-wall-street-trims-expectations-ahead-of-earni.html</link>
@@ -69,6 +165,14 @@
       <description>Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance.</description>
       <pubDate>Wed, 29 Jul 2026 13:30:00 GMT</pubDate>
       <source url="https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Governments can accelerate Bitcoin adoption. Governments can delay Bitcoin adoption. They cannot stop Bitcoin. Block by block. Nation by nation. Bitcoin advances. - x.com</title>
+      <link>https://www.librchain.com/news/20260729-governments-can-accelerate-bitcoin-adoption-governments-can-delay-bitcoin-adopti.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260729-governments-can-accelerate-bitcoin-adoption-governments-can-delay-bitcoin-adopti.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5&quot; target=&quot;_blank&quot;&gt;Governments can accelerate Bitcoin adoption…</description>
+      <pubDate>Wed, 29 Jul 2026 13:29:59 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5">X Wire</source>
     </item>
     <item>
       <title>16 years ago the most important quote in crypto history dropped. - x.com</title>
@@ -327,14 +431,6 @@
       <source url="https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
-      <title>European financial institutions launch RL1 cooperative blockchain network</title>
-      <link>https://www.librchain.com/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html</guid>
-      <description>RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.</description>
-      <pubDate>Wed, 29 Jul 2026 00:09:29 GMT</pubDate>
-      <source url="https://cointelegraph.com/markets/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
       <title>Ethereum Foundation Board Update</title>
       <link>https://www.librchain.com/news/20260729-ethereum-foundation-board-update.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260729-ethereum-foundation-board-update.html</guid>
@@ -349,14 +445,6 @@
       <description>Coinbase Canada&apos;s new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.</description>
       <pubDate>Tue, 28 Jul 2026 23:50:38 GMT</pubDate>
       <source url="https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first">CoinDesk</source>
-    </item>
-    <item>
-      <title>Myanmar Parliament passes crypto scam bill with penalties up to life</title>
-      <link>https://www.librchain.com/news/20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-myanmar-parliament-passes-crypto-scam-bill-with-penalties-up-to-life.html</guid>
-      <description>Myanmar lawmakers approved an anti-online scam bill whose draft proposes prison terms of 10 years to life for crypto scams and operating scam centers.</description>
-      <pubDate>Tue, 28 Jul 2026 23:27:28 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/myanmar-parliament-crypto-scam-bill-life-sentences?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
       <title>Markets Don’t Buy the US Ceasefire Against Iran Will Last</title>
@@ -383,14 +471,6 @@
       <source url="https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july">Decrypt</source>
     </item>
     <item>
-      <title>Visa outlines stablecoin strategy during Q3 earnings call</title>
-      <link>https://www.librchain.com/news/20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call.html</guid>
-      <description>Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.</description>
-      <pubDate>Tue, 28 Jul 2026 21:57:49 GMT</pubDate>
-      <source url="https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
       <title>JUST IN: 🇺🇸 SEC says it is ready to create crypto rules if Congress fails to pass the Clarity Act. - x.com</title>
       <link>https://www.librchain.com/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html</guid>
@@ -405,86 +485,6 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5&quot; target=&quot;_blank&quot;&gt;The midterms are coming, an…</description>
       <pubDate>Tue, 28 Jul 2026 21:35:46 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break</title>
-      <link>https://www.librchain.com/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html</guid>
-      <description>Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.</description>
-      <pubDate>Tue, 28 Jul 2026 20:45:38 GMT</pubDate>
-      <source url="https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography">Decrypt</source>
-    </item>
-    <item>
-      <title>&apos;Anything remotely dovish&apos; from Fed could be good for bitcoin, says analyst</title>
-      <link>https://www.librchain.com/news/20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-anything-remotely-dovish-from-fed-could-be-good-for-bitcoin-says-analyst.html</guid>
-      <description>Traders are divided on whether the Fed will hike rates, but analysts said crypto may be less exposed than AI-driven tech stocks.</description>
-      <pubDate>Tue, 28 Jul 2026 20:23:31 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/07/28/remotely-dovish-fed-could-be-good-for-bitcoin-says-analyst">CoinDesk</source>
-    </item>
-    <item>
-      <title>Morgan Stanley expands crypto lineup with Ether, Solana ETPs</title>
-      <link>https://www.librchain.com/news/20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps.html</guid>
-      <description>The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.</description>
-      <pubDate>Tue, 28 Jul 2026 20:10:46 GMT</pubDate>
-      <source url="https://cointelegraph.com/markets/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Teacher Arrested for Clapping at AI Data Center Public Hearing</title>
-      <link>https://www.librchain.com/news/20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing.html</guid>
-      <description>The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.</description>
-      <pubDate>Tue, 28 Jul 2026 20:08:48 GMT</pubDate>
-      <source url="https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing">Decrypt</source>
-    </item>
-    <item>
-      <title>Ondo drops tokenized asset blockchain plans for private, high-speed trading network</title>
-      <link>https://www.librchain.com/news/20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-netwo.html</guid>
-      <description>The new network powers Ondo&apos;s recently-launched perpetual futures platform and will eventually support trading across onchain financial assets.</description>
-      <pubDate>Tue, 28 Jul 2026 19:44:26 GMT</pubDate>
-      <source url="https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network">CoinDesk</source>
-    </item>
-    <item>
-      <title>Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on &apos;Economic Rights&apos;</title>
-      <link>https://www.librchain.com/news/20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri.html</guid>
-      <description>The Strategy chairman&apos;s latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same &quot;constitutional offense.&quot;</description>
-      <pubDate>Tue, 28 Jul 2026 19:36:03 GMT</pubDate>
-      <source url="https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110">Decrypt</source>
-    </item>
-    <item>
-      <title>Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs</title>
-      <link>https://www.librchain.com/news/20260728-morgan-stanley-expands-crypto-push-with-ethereum-and-solana-etps.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-morgan-stanley-expands-crypto-push-with-ethereum-and-solana-etps.html</guid>
-      <description>The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.</description>
-      <pubDate>Tue, 28 Jul 2026 19:14:14 GMT</pubDate>
-      <source url="https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps">Decrypt</source>
-    </item>
-    <item>
-      <title>XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms</title>
-      <link>https://www.librchain.com/news/20260728-xrp-price-slides-as-senate-drops-clarity-act-and-fed-decision-looms.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-xrp-price-slides-as-senate-drops-clarity-act-and-fed-decision-looms.html</guid>
-      <description>The Senate kicked the can, the Fed has traders on edge, and XRP&apos;s charts are running out of support zones to fall back on.</description>
-      <pubDate>Tue, 28 Jul 2026 18:35:37 GMT</pubDate>
-      <source url="https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms">Decrypt</source>
-    </item>
-    <item>
-      <title>Zcash Activates Ironwood Upgrade After Counterfeiting Scare</title>
-      <link>https://www.librchain.com/news/20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare.html</guid>
-      <description>The long-awaited network upgrade retires Zcash&apos;s vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency&apos;s supply.</description>
-      <pubDate>Tue, 28 Jul 2026 18:24:19 GMT</pubDate>
-      <source url="https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare">Decrypt</source>
-    </item>
-    <item>
-      <title>The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering</title>
-      <link>https://www.librchain.com/news/20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng.html</guid>
-      <description>The dev told Claude Opus 5 to be &quot;utterly perfect&quot; and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.</description>
-      <pubDate>Tue, 28 Jul 2026 18:04:00 GMT</pubDate>
-      <source url="https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design">Decrypt</source>
     </item>
   </channel>
 </rss>
