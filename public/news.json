@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-07-29T19:39:13.689Z",
+  "updatedAt": "2026-07-29T21:10:04.335Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
+      "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
+      "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
+      "publishedAt": "2026-07-29T20:46:03.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260729-flock-cameras-face-growing-backlash-as-privacy-concerns-reach-capitol-hill",
+      "localUrl": "/news/20260729-flock-cameras-face-growing-backlash-as-privacy-concerns-reach-capitol-hill.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+      "summary": "The brokerage reported $100 million revenue from crypto trading, a 38% decline in a year, offset by stronger options, equities and prediction markets activity.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+      "publishedAt": "2026-07-29T20:40:43.000Z",
+      "keywords": [
+        "Markets",
+        "Robinhood",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+      "localUrl": "/news/20260729-robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto entering biggest consolidation phase in history, says ARK analyst",
+      "summary": "ARK Invest’s Lorenzo Valente says revenue is becoming increasingly concentrated among a handful of crypto protocols, setting the stage for more mergers, acquisitions and exchange closures.",
+      "url": "https://cointelegraph.com/news/crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T20:40:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst",
+      "localUrl": "/news/20260729-crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tennessee county passes another ban on crypto operations",
+      "summary": "A group of 12 county commissioners voted unanimously to ban mining facilities and data centers in unincorporated areas as it deals with a lawsuit by a digital asset company.",
+      "url": "https://cointelegraph.com/news/tennessee-county-ban-crypto-operations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T20:11:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-tennessee-county-passes-another-ban-on-crypto-operations",
+      "localUrl": "/news/20260729-tennessee-county-passes-another-ban-on-crypto-operations.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+      "summary": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
+      "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+      "publishedAt": "2026-07-29T20:01:03.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "市场",
+      "slug": "20260729-theres-a-new-way-to-protect-bitcoin-from-future-quantum-attacks-researchers-say",
+      "localUrl": "/news/20260729-theres-a-new-way-to-protect-bitcoin-from-future-quantum-attacks-researchers-say.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
+      "summary": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill.",
+      "url": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T19:43:29.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-us-prosecutors-propose-changes-to-clarity-as-voting-window-narrows-report",
+      "localUrl": "/news/20260729-us-prosecutors-propose-changes-to-clarity-as-voting-window-narrows-report.html"
+    },
     {
       "source": "Decrypt",
       "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
@@ -456,17 +536,6 @@
       "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
     },
     {
-      "source": "X Wire",
-      "title": "Six years in crypto. Still unshaken. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5\" target=\"_blank\">Six years in crypto. Still unshaken.</…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5",
-      "publishedAt": "2026-07-29T11:34:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-six-years-in-crypto-still-unshaken-xcom",
-      "localUrl": "/news/20260729-six-years-in-crypto-still-unshaken-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
       "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
@@ -692,22 +761,6 @@
       "localUrl": "/news/20260729-company-behind-ai-trade-that-caused-60-million-crypto-liquidations-to-cover-all-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Citadel bets on a Fed rate hike Wednesday as bitcoin analysts call a hold. Someone will be wrong.",
-      "summary": "Citadel's macro team says Wednesday's hike isn't about the data. It's about Warsh's best shot at making a surprise actually count before the market stops being surprised.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someone-will-be-wrong",
-      "publishedAt": "2026-07-29T05:37:38.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Federal Reserve",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon",
-      "localUrl": "/news/20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
       "summary": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
@@ -745,45 +798,6 @@
       "category": "监管",
       "slug": "20260729-south-korea-plans-stablecoin-rules-as-opposition-pushes-crypto-tax-repeal",
       "localUrl": "/news/20260729-south-korea-plans-stablecoin-rules-as-opposition-pushes-crypto-tax-repeal.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-      "summary": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
-      "url": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T03:26:44.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260729-celsius-linked-bitcoin-miner-ionic-digital-gains-26-in-nasdaq-debut",
-      "localUrl": "/news/20260729-celsius-linked-bitcoin-miner-ionic-digital-gains-26-in-nasdaq-debut.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-      "summary": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
-      "url": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T02:50:51.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange",
-      "localUrl": "/news/20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Zcash says Ironwood proof rules out undetectable counterfeiting bugs",
-      "summary": "Zcash researchers published more than 2,700 machine-checked theorems designed to rule out undetectable counterfeiting bugs in Ironwood.",
-      "url": "https://cointelegraph.com/news/zcash-ironwood-proof-counterfeiting-orchard-flaw?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T01:05:15.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-zcash-says-ironwood-proof-rules-out-undetectable-counterfeiting-bugs",
-      "localUrl": "/news/20260729-zcash-says-ironwood-proof-rules-out-undetectable-counterfeiting-bugs.html"
     },
     {
       "source": "Ethereum Blog",
@@ -858,6 +872,17 @@
       "localUrl": "/news/20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says he will support Congress in passing the Clarity Act: “I am committed to supporting Congress in advancing the CLARITY Act, including providing technical assistance.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC Chair Pau…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5",
+      "publishedAt": "2026-07-28T21:03:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari",
+      "localUrl": "/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
       "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
@@ -923,33 +948,6 @@
       "localUrl": "/news/20260728-xrp-price-slides-as-senate-drops-clarity-act-and-fed-decision-looms.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-      "summary": "The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.",
-      "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
-      "publishedAt": "2026-07-28T18:24:19.000Z",
-      "keywords": [
-        "zcash",
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare",
-      "localUrl": "/news/20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
-      "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.",
-      "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
-      "publishedAt": "2026-07-28T18:04:00.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng",
-      "localUrl": "/news/20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng.html"
-    },
-    {
       "source": "X Wire",
       "title": "If you still only know Coinbase as a place to trade crypto, you're due an update. Come listen in on July 30th. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5\" target=\"_blank\">If you still only know Coinbase as a pl…",
@@ -995,6 +993,17 @@
     },
     {
       "source": "X Wire",
+      "title": "NEW: 🇷🇺 Bank of Russia says it has drafted \"first regulations to launch cryptocurrency market in Russia.\" 👀 \"The Bank of Russia has created conditions for organised trading in digital currencies and digital rights.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndXRyOGZBNkxXQkpGb3VVOE8xSTBtUUlVdlhvLUh0MU1UbzhjQTUwLTRmLTB3Z1QtU1pSMGVGM1pIR2RUQ1VWeTNqZW5ta2JFYnRUNVAxa1Bfa21hRzQwU1JkS2E1UFk?oc=5\" target=\"_blank\">NEW: 🇷🇺 Bank of Russia sa…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndXRyOGZBNkxXQkpGb3VVOE8xSTBtUUlVdlhvLUh0MU1UbzhjQTUwLTRmLTB3Z1QtU1pSMGVGM1pIR2RUQ1VWeTNqZW5ta2JFYnRUNVAxa1Bfa21hRzQwU1JkS2E1UFk?oc=5",
+      "publishedAt": "2026-07-28T14:13:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-new-bank-of-russia-says-it-has-drafted-first-regulations-to-launch-cryptocurrenc",
+      "localUrl": "/news/20260728-new-bank-of-russia-says-it-has-drafted-first-regulations-to-launch-cryptocurrenc.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Every year, crypto has a \"big theme.\" This year? It's the merging of crypto and traditional finance (TradFi) - and it's happening faster than anyone expected. Here's why 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5\" target=\"_blank\">Every year, crypto has a \"big th…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JeFlQWmRVdDdFdk9ULUJXaW9MV0hEbEdReFhDaldhb3pTSnlLRUdiTUFNRlZPVHZWM1dvczFqaVZWOTA4SEhVU0lMOFpYbW1WY0s1eVpINVpyakpuYnF3RkFfWQ?oc=5",
@@ -1027,6 +1036,17 @@
       "localUrl": "/news/20260728-bitcoin-etfs-post-116-million-outflow-as-ether-funds-add-92-million-us-spot-bitc.html"
     },
     {
+      "source": "X Wire",
+      "title": "Stablecoin Market Shrinks $7.7 Billion in June, Biggest Drop Since Terra The stablecoin market lost USD 7.7 billion in June, its largest monthly decline since the Terra-Luna collapse in May 2022, bringing total capitalization down roughly USD 10 billion from its - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfdlVnUmtEamFzWGR1TUM5WUJQQlF3dlREc1pwcm9VMENsX1pKZ3kteVpmZ0V2NGhvUTJ1cThaUFotdDJnS1Bxei0tVVcwdDB5WmcyVEdmakwwei1ET0ZDanNJdw?oc=5\" target=\"_blank\">Stablecoin Market Shrinks $7.7 B…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfdlVnUmtEamFzWGR1TUM5WUJQQlF3dlREc1pwcm9VMENsX1pKZ3kteVpmZ0V2NGhvUTJ1cThaUFotdDJnS1Bxei0tVVcwdDB5WmcyVEdmakwwei1ET0ZDanNJdw?oc=5",
+      "publishedAt": "2026-07-28T03:06:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-stablecoin-market-shrinks-77-billion-in-june-biggest-drop-since-terra-the-stable",
+      "localUrl": "/news/20260728-stablecoin-market-shrinks-77-billion-in-june-biggest-drop-since-terra-the-stable.html"
+    },
+    {
       "source": "Chainalysis Blog",
       "title": "OFAC Sanctions Members of Hamas Financing Network",
       "summary": "Summary OFAC designated Zaid Issam Ahmed al-Jebouri, an Iraqi national based in Istanbul, and two associates as Specially Designated Global… The post OFAC Sanctions Members of Hamas Financing Network appeared first on Chainalysis .",
@@ -1044,17 +1064,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin is 87% correlated to global liquidity. The NASDAQ is 97% correlated. Which tells you something most people never realise. These assets are not really trading on earnings, or news, or whatever the story of the week is. They’re tracking the amount of mo - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5\" target=\"_blank\">Bitcoin is 87% correlated to global liq…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5",
-      "publishedAt": "2026-07-27T20:09:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t",
-      "localUrl": "/news/20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BITCOIN ETF OUTFLOWS RETURN Bitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows. Analysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5\" target=\"_blank\">BITCOIN ETF OUTFLOWS RETURN Bitcoin ETF…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5",
@@ -1063,17 +1072,6 @@
       "category": "X热点",
       "slug": "20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow",
       "localUrl": "/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5",
-      "publishedAt": "2026-07-27T14:44:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
-      "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
     },
     {
       "source": "X Wire",
@@ -1088,14 +1086,14 @@
     },
     {
       "source": "X Wire",
-      "title": "\"If you're in crypto, pivot to AI.\" I used to hear versions of this, and it's the wrong way to think about the world. It's zero sum, scarcity thinking. Crypto is a general purpose technology. It's infrastructure, the same way electricity or the internet is infrastructure. It does - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5\" target=\"_blank\">\"If you're in crypto, pivot…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdG9nYndWQXAwTE1MdHdxLU1teXZNc29FbkhpTDBaa19yNjdILWhSUGhTSnprRVpYUEVxRzJZeDBva0w4cmpEdWo1RlI5NzJtQi1oUnR3SEVXdGxKbFVTTGFiNmd1b3c?oc=5",
-      "publishedAt": "2026-07-26T22:17:00.000Z",
+      "title": "UPDATE: Russia's largest bank, Sberbank, plans to build crypto trading infrastructure by December 1 including a digital depository and active crypto wallet, following the State Duma's passage of a comprehensive crypto trading bill on July 21. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5\" target=\"_blank\">UPDATE: Russia's largest bank, Sberbank…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVkhpVGVPZ3h3MVF3OUxEU3dkTlg1TFF4REJWbkJraUNQd0t1bGpva1VoS29QY0NBMzVaZEJILXBTeVpvWmpaLXRSQXNfanluWUhpc1hHbFNiNDhMZ2c?oc=5",
+      "publishedAt": "2026-07-27T11:20:06.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong",
-      "localUrl": "/news/20260726-if-youre-in-crypto-pivot-to-ai-i-used-to-hear-versions-of-this-and-its-the-wrong.html"
+      "slug": "20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur",
+      "localUrl": "/news/20260727-update-russias-largest-bank-sberbank-plans-to-build-crypto-trading-infrastructur.html"
     }
   ]
 }
