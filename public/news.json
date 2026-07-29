@@ -1,7 +1,174 @@
 {
-  "updatedAt": "2026-07-29T12:15:54.075Z",
+  "updatedAt": "2026-07-29T15:17:17.309Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "summary": "Wall Street expects a sluggish second quarter from Coinbase as crypto trading activity cools, putting all eyes on and pending U.S. crypto legislation.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+      "publishedAt": "2026-07-29T15:15:08.000Z",
+      "keywords": [
+        "Markets",
+        "Coinbase",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260729-coinbase-hit-by-spot-trading-slump-wall-street-trims-expectations-ahead-of-earni",
+      "localUrl": "/news/20260729-coinbase-hit-by-spot-trading-slump-wall-street-trims-expectations-ahead-of-earni.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
+      "summary": "In this week's Crypto Long & Short, Immunefi's Mitchell Amador writes that most of 2026's stolen crypto is leaving through keys, signers and governance, not contract bugs, and explains why “we were audited” was never the same as “we are sa…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
+      "publishedAt": "2026-07-29T15:13:07.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "Crypto Long & Short",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou",
+      "localUrl": "/news/20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
+      "summary": "pcaversaccio (known as \"pc\"), is a prominent security researcher in the Ethereum ecosystem. His addition brings the foundation's board to four members.",
+      "url": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
+      "publishedAt": "2026-07-29T14:11:21.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260729-ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
+      "localUrl": "/news/20260729-ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The inside story of how a hike in Hong Kong changed crypto trading forever",
+      "summary": "\"We were a scrappy startup,\" Delo said of BitMEX back in 2016, when it launched the first perpetual future. \"We thought, ‘Just get it out there. If it was any good, the market would show us.’\"",
+      "url": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
+      "publishedAt": "2026-07-29T13:53:01.000Z",
+      "keywords": [
+        "Finance",
+        "Perps Week 2026",
+        "Feature"
+      ],
+      "category": "市场",
+      "slug": "20260729-the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
+      "localUrl": "/news/20260729-the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T13:47:35.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260729-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BNY to bring transfer agency records onchain in blockchain push",
+      "summary": "BNY is launching a blockchain-based transfer agency platform as the bank expands its digital asset infrastructure and moves core financial records onchain.",
+      "url": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T13:36:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-bny-to-bring-transfer-agency-records-onchain-in-blockchain-push",
+      "localUrl": "/news/20260729-bny-to-bring-transfer-agency-records-onchain-in-blockchain-push.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "About $80 million ZEC crosses into Zcash's new Ironwood pool in the first day",
+      "summary": "Roughly 5% of the funds in the retired Orchard pool have gone through the turnstile. The rest sit in a pool that can no longer take deposits.",
+      "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
+      "publishedAt": "2026-07-29T13:32:37.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260729-about-80-million-zec-crosses-into-zcashs-new-ironwood-pool-in-the-first-day",
+      "localUrl": "/news/20260729-about-80-million-zec-crosses-into-zcashs-new-ironwood-pool-in-the-first-day.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "The 100x obsession: Fundamentals grow in importance as crypto matures",
+      "summary": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance.",
+      "url": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "综合",
+      "slug": "20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures",
+      "localUrl": "/news/20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "16 years ago the most important quote in crypto history dropped. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5cnBfRjJNbG51STd2LXhWaHRNNURwZnNSb3c4a2o3QTRmdmt6Qk9ZQlAya0hRMEJSRDNsM054MGkzeDg5QTNia24zclFhWHhza1hkYjd2LWdhOElXRkE?oc=5\" target=\"_blank\">16 years ago the most important quote i…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5cnBfRjJNbG51STd2LXhWaHRNNURwZnNSb3c4a2o3QTRmdmt6Qk9ZQlAya0hRMEJSRDNsM054MGkzeDg5QTNia24zclFhWHhza1hkYjd2LWdhOElXRkE?oc=5",
+      "publishedAt": "2026-07-29T13:15:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-16-years-ago-the-most-important-quote-in-crypto-history-dropped-xcom",
+      "localUrl": "/news/20260729-16-years-ago-the-most-important-quote-in-crypto-history-dropped-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "1/ We’re excited to announce the close of @ethereuminsti's initial ecosystem funding round and supporter coalition, with broad participation and support from individuals and entities focused on driving institutional adoption of @ethereum. Our ecosystem fundin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BOHlEa2xUbkswQ1Y5ZWhsSDBjSVdxUU1YaG9MdVdkVjNOWEdGWGtyWE1DWmVZXzJDMjRqQkhNbU54UnU0UzVYRlllZEh1TXFteVpKeGpGR2RQRzctU0JicFlkLTg?oc=5\" target=\"_blank\">1/ We’re excited to announce th…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BOHlEa2xUbkswQ1Y5ZWhsSDBjSVdxUU1YaG9MdVdkVjNOWEdGWGtyWE1DWmVZXzJDMjRqQkhNbU54UnU0UzVYRlllZEh1TXFteVpKeGpGR2RQRzctU0JicFlkLTg?oc=5",
+      "publishedAt": "2026-07-29T13:11:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-1-were-excited-to-announce-the-close-of-ethereuminstis-initial-ecosystem-funding",
+      "localUrl": "/news/20260729-1-were-excited-to-announce-the-close-of-ethereuminstis-initial-ecosystem-funding.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
+      "summary": "As perpetuals enter regulated markets, critics warn they import systemic risk. But the risk comes from venue design — leverage limits, margin rules, index construction, and default handling — not the contract itself, argues Chris Tyrer, Pr…",
+      "url": "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
+      "publishedAt": "2026-07-29T13:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Perps Week 2026",
+        "Opinion"
+      ],
+      "category": "DeFi",
+      "slug": "20260729-the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
+      "localUrl": "/news/20260729-the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY targets $8.6 trillion transfer agency market on blockchain rails",
+      "summary": "The world’s largest custodian will keep its existing system while adding a digital ownership record for tokenized funds.",
+      "url": "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
+      "publishedAt": "2026-07-29T12:18:58.000Z",
+      "keywords": [
+        "Finance",
+        "banks",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260729-bny-targets-86-trillion-transfer-agency-market-on-blockchain-rails",
+      "localUrl": "/news/20260729-bny-targets-86-trillion-transfer-agency-market-on-blockchain-rails.html"
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography",
@@ -16,6 +183,19 @@
       "localUrl": "/news/20260729-morning-minute-claude-mythos-breaks-post-quantum-cryptography.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Emirates enables UAE residents to pay for flights through Crypto.com",
+      "summary": "The service is limited to eligible UAE residents and bookings are priced and settled in dirhams.",
+      "url": "https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T12:14:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260729-emirates-enables-uae-residents-to-pay-for-flights-through-cryptocom",
+      "localUrl": "/news/20260729-emirates-enables-uae-residents-to-pay-for-flights-through-cryptocom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
       "summary": "The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.",
@@ -27,6 +207,17 @@
       "category": "综合",
       "slug": "20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report",
       "localUrl": "/news/20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "We’re pleased to welcome @pcaversaccio to the EF Board. A longtime Ethereum contributor, co-founder of SEAL 911, Silviculture Society member, and privacy and security maximalist, pc has consistently championed the values at Ethereum’s core. We look fo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RWg3bnpUQUEyYkc0RzZpRThhVUp2VV8zQ3dQclB0VTd0ZmE2ZEE0RjNmVHBOTUMzRnFRblpROWY4X29XX2hQMnliZTN3UHg1UUYxVlEtQ0VYSVRwck11WVJSRQ?oc=5\" target=\"_blank\">We’re pleased to welcome @pcaver…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RWg3bnpUQUEyYkc0RzZpRThhVUp2VV8zQ3dQclB0VTd0ZmE2ZEE0RjNmVHBOTUMzRnFRblpROWY4X29XX2hQMnliZTN3UHg1UUYxVlEtQ0VYSVRwck11WVJSRQ?oc=5",
+      "publishedAt": "2026-07-29T12:04:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib",
+      "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
     },
     {
       "source": "Cointelegraph",
@@ -55,19 +246,6 @@
       "category": "市场",
       "slug": "20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc",
       "localUrl": "/news/20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance disappears from Google Play in certain EU countries",
-      "summary": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
-      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T11:00:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260729-binance-disappears-from-google-play-in-certain-eu-countries",
-      "localUrl": "/news/20260729-binance-disappears-from-google-play-in-certain-eu-countries.html"
     },
     {
       "source": "CoinDesk",
@@ -239,7 +417,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $64,000 ahead of Fed rate decision",
+      "title": "Live updates: Bitcoin attempts to hold $64,000 ahead of Fed as AI favorites fall again",
       "summary": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
       "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
       "publishedAt": "2026-07-29T06:25:21.000Z",
@@ -249,8 +427,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260729-live-updates-bitcoin-rises-above-64000-ahead-of-fed-rate-decision",
-      "localUrl": "/news/20260729-live-updates-bitcoin-rises-above-64000-ahead-of-fed-rate-decision.html"
+      "slug": "20260729-live-updates-bitcoin-attempts-to-hold-64000-ahead-of-fed-as-ai-favorites-fall-ag",
+      "localUrl": "/news/20260729-live-updates-bitcoin-attempts-to-hold-64000-ahead-of-fed-as-ai-favorites-fall-ag.html"
     },
     {
       "source": "CoinDesk",
@@ -300,10 +478,10 @@
       "source": "Cointelegraph",
       "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
       "summary": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
-      "url": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T05:29:48.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
       "category": "市场",
       "slug": "20260729-tradexyz-to-cover-sk-hynix-perp-liquidation-losses-tied-to-price-anomaly",
@@ -352,10 +530,10 @@
       "source": "Cointelegraph",
       "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
       "summary": "The agreement covers tokenized securities, blockchain-based market infrastructure and the potential use of USDT as a settlement layer.",
-      "url": "https://cointelegraph.com/news/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/tether-signs-tokenization-deal-with-nairobi-securities-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T02:50:51.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
       "category": "监管",
       "slug": "20260729-tether-signs-tokenization-deal-with-nairobi-securities-exchange",
@@ -378,12 +556,12 @@
       "source": "Cointelegraph",
       "title": "European financial institutions launch RL1 cooperative blockchain network",
       "summary": "RL1 began operations as a member-owned blockchain cooperative backed by 10 European financial institutions, including ABN AMRO, DekaBank and Natixis CIB.",
-      "url": "https://cointelegraph.com/news/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/european-financial-institutions-launch-rl1-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T00:09:29.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
-      "category": "综合",
+      "category": "市场",
       "slug": "20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network",
       "localUrl": "/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html"
     },
@@ -470,10 +648,10 @@
       "source": "Cointelegraph",
       "title": "Visa outlines stablecoin strategy during Q3 earnings call",
       "summary": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
-      "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-28T21:57:49.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
       "category": "RWA",
       "slug": "20260728-visa-outlines-stablecoin-strategy-during-q3-earnings-call",
@@ -489,6 +667,17 @@
       "category": "X热点",
       "slug": "20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th",
       "localUrl": "/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The midterms are coming, and the crypto voters are watching. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5\" target=\"_blank\">The midterms are coming, an…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5",
+      "publishedAt": "2026-07-28T21:35:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom",
+      "localUrl": "/news/20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -524,10 +713,10 @@
       "source": "Cointelegraph",
       "title": "Morgan Stanley expands crypto lineup with Ether, Solana ETPs",
       "summary": "The new exchange-traded products track Ether and Solana, offer staking rewards and follow the firm’s Bitcoin fund launched earlier this year.",
-      "url": "https://cointelegraph.com/news/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/morgan-stanley-expands-crypto-lineup-with-ether-solana-etps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-28T20:10:46.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
       "category": "基础设施",
       "slug": "20260728-morgan-stanley-expands-crypto-lineup-with-ether-solana-etps",
@@ -590,19 +779,6 @@
       "localUrl": "/news/20260728-morgan-stanley-expands-crypto-push-with-ethereum-and-solana-etps.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "AmericanFortress proposes quantum-safe crypto wallet protection without fund migration",
-      "summary": "The proposed cryptographic scheme aims to protect existing Bitcoin, Ethereum and Solana wallets from future quantum attacks without requiring users to move funds or change wallet addresses.",
-      "url": "https://cointelegraph.com/news/americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T18:47:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-mig",
-      "localUrl": "/news/20260728-americanfortress-proposes-quantum-safe-crypto-wallet-protection-without-fund-mig.html"
-    },
-    {
       "source": "Decrypt",
       "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
       "summary": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
@@ -630,32 +806,6 @@
       "localUrl": "/news/20260728-zcash-activates-ironwood-upgrade-after-counterfeiting-scare.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T18:15:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260728-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260728-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Galaxy, MARA Holdings deepen Texas expansion with land acquisitions",
-      "summary": "The crypto-focused companies announced separate acquisitions as demand for power-intensive AI and digital infrastructure continues to grow.",
-      "url": "https://cointelegraph.com/news/galaxy-mara-texas-land-deals-ai-bitcoin-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T18:08:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260728-galaxy-mara-holdings-deepen-texas-expansion-with-land-acquisitions",
-      "localUrl": "/news/20260728-galaxy-mara-holdings-deepen-texas-expansion-with-land-acquisitions.html"
-    },
-    {
       "source": "Decrypt",
       "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
       "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.",
@@ -669,19 +819,15 @@
       "localUrl": "/news/20260728-the-dumbest-looking-ai-prompt-just-beat-months-of-careful-game-design-prompt-eng.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
-      "summary": "DRW CEO Don Wilson says perpetual futures aren't inherently risky crypto gambling tools, and it’s time traditional markets and regulators start embracing them.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
-      "publishedAt": "2026-07-28T17:23:35.000Z",
-      "keywords": [
-        "Markets",
-        "Perps Week 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-wall-street-veteran-don-wilson-says-regulators-are-getting-perps-all-wrong",
-      "localUrl": "/news/20260728-wall-street-veteran-don-wilson-says-regulators-are-getting-perps-all-wrong.html"
+      "source": "X Wire",
+      "title": "If CLARITY stalls, the SEC and CFTC are already advancing Project Crypto — a joint regulatory effort aimed at delivering a meaningful portion of the market structure framework through rulemaking rather than statute. It’s not the same as legislation, but it’s real - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcHlpNkozRlpRTFhrY09uR1d5a3JyZDd2dlpEYUU1Y0h4d0pxRjhPc0tHRnNNaE83d2ZOc1J0al8tdVdjZFJ3b0VhamJFc1B3eU5PMnEwT0oxRUlFQTF3?oc=5\" target=\"_blank\">If CLARITY stalls, the SEC and CFTC ar…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcHlpNkozRlpRTFhrY09uR1d5a3JyZDd2dlpEYUU1Y0h4d0pxRjhPc0tHRnNNaE83d2ZOc1J0al8tdVdjZFJ3b0VhamJFc1B3eU5PMnEwT0oxRUlFQTF3?oc=5",
+      "publishedAt": "2026-07-28T16:57:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-if-clarity-stalls-the-sec-and-cftc-are-already-advancing-project-crypto-a-joint-",
+      "localUrl": "/news/20260728-if-clarity-stalls-the-sec-and-cftc-are-already-advancing-project-crypto-a-joint-.html"
     },
     {
       "source": "Decrypt",
@@ -732,21 +878,6 @@
       "localUrl": "/news/20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
-      "summary": "BlackRock, Fidelity, Franklin Templeton, Goldman Sachs and SoFi have publicly endorsed the crypto market structure bill as the Senate's timeline tightens.",
-      "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "publishedAt": "2026-07-28T16:08:19.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "localUrl": "/news/20260728-blackrock-fidelity-other-wall-street-giants-back-the-clarity-act.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇦🇪 UAE's largest airline 'Emirates' begins accepting crypto payments for flight bookings. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeHpLVUFtYmFoX0gzVzI5d2o4NENiVVRPbVhPMWhHSHpLanZfQ1lQUHhrNi12aklRUGF4UHVjVER4Uk55S0MwMlNQWEU0RFVFSy1ZeUFycHdYS0RkbWs2YXl3?oc=5\" target=\"_blank\">JUST IN: 🇦🇪 UAE's largest airlin…",
@@ -756,93 +887,6 @@
       "category": "X热点",
       "slug": "20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh",
       "localUrl": "/news/20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum startup EthSystems bets privacy is key to getting banks on public blockchains",
-      "summary": "EthSystems, which spun out of the Ethereum Foundation earlier this month, is focused on building privacy infrastructure for banks and other financial institutions.",
-      "url": "https://www.coindesk.com/tech/2026/07/28/ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-blockchains",
-      "publishedAt": "2026-07-28T15:46:33.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block",
-      "localUrl": "/news/20260728-ethereum-startup-ethsystems-bets-privacy-is-key-to-getting-banks-on-public-block.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 US Senate unlikely to vote on Crypto Clarity Act before leaving for summer recess in August. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRjg5WVNfRFhkb3AyNmlIN3lUSmN0bmNkbVluWkc1Qk1Nem1zTGxlYnJ4UEppVzJWMkpWS1llS0pTLVlOTS1nQUU3Qmx4ai1fLVA5cWJMTXNtSEF5WElrcnFB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 US Senate unlikely t…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRjg5WVNfRFhkb3AyNmlIN3lUSmN0bmNkbVluWkc1Qk1Nem1zTGxlYnJ4UEppVzJWMkpWS1llS0pTLVlOTS1nQUU3Qmx4ai1fLVA5cWJMTXNtSEF5WElrcnFB?oc=5",
-      "publishedAt": "2026-07-28T15:27:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-us-senate-unlikely-to-vote-on-crypto-clarity-act-before-leaving-for-summ",
-      "localUrl": "/news/20260728-just-in-us-senate-unlikely-to-vote-on-crypto-clarity-act-before-leaving-for-summ.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
-      "summary": "The central bank's draft rules require digital asset platforms to hold up to $2.8 million in liquid capital as a sweeping regulatory framework looms.",
-      "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
-      "publishedAt": "2026-07-28T14:49:50.000Z",
-      "keywords": [
-        "Policy",
-        "Cryptocurrency",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll",
-      "localUrl": "/news/20260728-russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
-      "summary": "Hyperliquid is capitalizing on the volume and depth of its order book by giving firms the option to compose with the platform’s shared liquidity, rather than fragmenting it.",
-      "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
-      "publishedAt": "2026-07-28T14:49:01.000Z",
-      "keywords": [
-        "Finance",
-        "Perps Week 2026",
-        "Feature"
-      ],
-      "category": "DeFi",
-      "slug": "20260728-hyperliquid-is-taking-crypto-perps-deep-into-defis-money-lego-land",
-      "localUrl": "/news/20260728-hyperliquid-is-taking-crypto-perps-deep-into-defis-money-lego-land.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
-      "summary": "The upgrade retires Orchard, where a counterfeiting bug sat undetected for four years. Every coin inside now has to leave through a gate that caps withdrawals at verified deposits.",
-      "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
-      "publishedAt": "2026-07-28T14:35:28.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260728-zcash-seals-17-billion-shielded-pool-as-ironwood-upgrade-activates",
-      "localUrl": "/news/20260728-zcash-seals-17-billion-shielded-pool-as-ironwood-upgrade-activates.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
-      "summary": "The asset manager is offering low-cost ETH and SOL exchange-traded products after its bitcoin fund topped $381 million in assets.",
-      "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
-      "publishedAt": "2026-07-28T14:30:57.000Z",
-      "keywords": [
-        "Markets",
-        "Morgan Stanley",
-        "ETFs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s",
-      "localUrl": "/news/20260728-morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s.html"
     },
     {
       "source": "X Wire",
@@ -935,17 +979,6 @@
     },
     {
       "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 The Senate has put the Crypto Clarity Act on hold to focus on other bills. How many more delays? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE00VzE1eENfbjdNZUFhdXFVVWVyTG9XUmJIY2lVZW42UkVteDZOdHNqendRMnliRXRFLTVGM0ZUMzltdm01N3o0R3lMMm8yYTJxSHBxRFdla3l4ejFtUFhn?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 The Senate has put the …",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00VzE1eENfbjdNZUFhdXFVVWVyTG9XUmJIY2lVZW42UkVteDZOdHNqendRMnliRXRFLTVGM0ZUMzltdm01N3o0R3lMMm8yYTJxSHBxRFdla3l4ejFtUFhn?oc=5",
-      "publishedAt": "2026-07-28T07:25:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-breaking-the-senate-has-put-the-crypto-clarity-act-on-hold-to-focus-on-other-bil",
-      "localUrl": "/news/20260728-breaking-the-senate-has-put-the-crypto-clarity-act-on-hold-to-focus-on-other-bil.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin ETFs Post $11.6 Million Outflow as Ether Funds Add $9.2 Million U.S. spot Bitcoin ETFs recorded net outflows of USD 11.64 million on July 27, according to SoSoValue, with BlackRock’s IBIT posting the largest single-fund outflow at USD 8.82 million. S - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ROTZNWmg1dno3bWZySS1IWUhrQUdXRWd3OEVnRW5fVUkwVEVyXzdJeUNlZDdxSURSSGRva3duQV9DczJEZ0ptME04eDE4c0lVMjQ2VHpkRWpucmNhTEh4R0I0WQ?oc=5\" target=\"_blank\">Bitcoin ETFs Post $11.6 Million …",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ROTZNWmg1dno3bWZySS1IWUhrQUdXRWd3OEVnRW5fVUkwVEVyXzdJeUNlZDdxSURSSGRva3duQV9DczJEZ0ptME04eDE4c0lVMjQ2VHpkRWpucmNhTEh4R0I0WQ?oc=5",
@@ -995,28 +1028,6 @@
     },
     {
       "source": "X Wire",
-      "title": "NEW: @circle acquires nearly 1,000 blockchain patents from @IBM, making it the largest holder of blockchain patents in the U.S. The portfolio spans blockchain, banking, insurance, and cloud security. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE53OGRoVjI5N3pWcFdwNFlJMTI0LUdsa2RLQ2Joek16V0tfT1lzMldmUldkQVRSUkJKUVFCVml2ckpYa3lIOHRCM1NWY0Y5dk5vOUcyNDZIamVTTE16OUE?oc=5\" target=\"_blank\">NEW: @circle acquires nearly 1,000 bloc…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53OGRoVjI5N3pWcFdwNFlJMTI0LUdsa2RLQ2Joek16V0tfT1lzMldmUldkQVRSUkJKUVFCVml2ckpYa3lIOHRCM1NWY0Y5dk5vOUcyNDZIamVTTE16OUE?oc=5",
-      "publishedAt": "2026-07-27T17:30:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-new-circle-acquires-nearly-1000-blockchain-patents-from-ibm-making-it-the-larges",
-      "localUrl": "/news/20260727-new-circle-acquires-nearly-1000-blockchain-patents-from-ibm-making-it-the-larges.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin’s core design is set in stone. Protocol changes should be rare, conservative, and driven by necessity, not ambition. Don’t fix what isn’t broken. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maTNkYUs1aTZ0Tmc0aC12UkV3QmRhUC1ydXNDcTMwdk05d25XZ1RQRUgxTUgwR0FZMnBDbXlMM241Tmh1Vkh5Rnl3NWdGRGwxTm9CR3paVE9xU1k?oc=5\" target=\"_blank\">Bitcoin’s core design is set in stone. Prot…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9maTNkYUs1aTZ0Tmc0aC12UkV3QmRhUC1ydXNDcTMwdk05d25XZ1RQRUgxTUgwR0FZMnBDbXlMM241Tmh1Vkh5Rnl3NWdGRGwxTm9CR3paVE9xU1k?oc=5",
-      "publishedAt": "2026-07-27T17:30:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-bitcoins-core-design-is-set-in-stone-protocol-changes-should-be-rare-conservativ",
-      "localUrl": "/news/20260727-bitcoins-core-design-is-set-in-stone-protocol-changes-should-be-rare-conservativ.html"
-    },
-    {
-      "source": "X Wire",
       "title": "1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5\" target=\"_blank\">1/ It’s Monday and we have a…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5",
@@ -1058,17 +1069,6 @@
       "category": "X热点",
       "slug": "20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-",
       "localUrl": "/news/20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "1/ Every transaction on a public blockchain leaves a trail. Your wallet activity. Your transaction history. Your interactions. For many people, that's just how crypto works. But does it have to? 🧵 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2OHNhdUdtb285LW05ekkxUmNuTDZGNW1aRmF3MHJCRVpXV2V5UENDQm9zT0dYdzhfOWU1Zk5YdGRsMzRISnU1cUVCcnRib2tjQmU1VlgzQ1RVUVU3QjVZQkM3TmI?oc=5\" target=\"_blank\">1/ Every transaction on a publi…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2OHNhdUdtb285LW05ekkxUmNuTDZGNW1aRmF3MHJCRVpXV2V5UENDQm9zT0dYdzhfOWU1Zk5YdGRsMzRISnU1cUVCcnRib2tjQmU1VlgzQ1RVUVU3QjVZQkM3TmI?oc=5",
-      "publishedAt": "2026-07-27T12:10:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y",
-      "localUrl": "/news/20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y.html"
     },
     {
       "source": "X Wire",
