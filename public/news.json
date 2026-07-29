@@ -1,7 +1,131 @@
 {
-  "updatedAt": "2026-07-29T09:46:39.525Z",
-  "total": 81,
+  "updatedAt": "2026-07-29T12:15:54.075Z",
+  "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography",
+      "summary": "Plus markets are mixed ahead of FOMC; new Wall St. giants are backing the Clarity Act; and Zcash officially launched its Ironwood upgrade",
+      "url": "https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography",
+      "publishedAt": "2026-07-29T12:15:00.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-morning-minute-claude-mythos-breaks-post-quantum-cryptography",
+      "localUrl": "/news/20260729-morning-minute-claude-mythos-breaks-post-quantum-cryptography.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
+      "summary": "The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.",
+      "url": "https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report",
+      "publishedAt": "2026-07-29T12:10:26.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "综合",
+      "slug": "20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report",
+      "localUrl": "/news/20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
+      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
+      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T11:18:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says",
+      "localUrl": "/news/20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "3 reasons Wednesday's Fed meeting is pivotal for BTC",
+      "summary": "Your day-ahead look for July 29, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/29/3-reasons-wednesday-s-fed-meeting-is-pivotal-for-btc",
+      "publishedAt": "2026-07-29T11:15:00.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc",
+      "localUrl": "/news/20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance disappears from Google Play in certain EU countries",
+      "summary": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
+      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T11:00:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260729-binance-disappears-from-google-play-in-certain-eu-countries",
+      "localUrl": "/news/20260729-binance-disappears-from-google-play-in-certain-eu-countries.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision",
+      "summary": "BTC added 0.75% before the Federal Reserve's rate decision. Inflation at 4.1% keeps an increase firmly on the table even as oil prices ease.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-steadies-above-usd64-000-as-crypto-looks-to-fed-interest-rate-decision",
+      "publishedAt": "2026-07-29T10:34:18.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-bitcoin-steadies-above-64000-as-crypto-looks-to-fed-interest-rate-decision",
+      "localUrl": "/news/20260729-bitcoin-steadies-above-64000-as-crypto-looks-to-fed-interest-rate-decision.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
+      "summary": "The suit claims Apple ranked a fake Sparrow Wallet app and put it in curated crypto collections alongside legitimate ones.",
+      "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
+      "publishedAt": "2026-07-29T10:22:57.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260729-apple-sued-after-fake-iphone-wallet-app-drained-18m-in-bitcoin",
+      "localUrl": "/news/20260729-apple-sued-after-fake-iphone-wallet-app-drained-18m-in-bitcoin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
+      "summary": "The crypto exchange unveils commodity options following strong uptake for gold and silver perps.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Binance",
+        "Commodities",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260729-binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-",
+      "localUrl": "/news/20260729-binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
+      "summary": "A CoinGecko study points to rising demand for tokenized equities and commodities on centralized exchanges, with perpetual futures driving most of the market’s trading activity.",
+      "url": "https://cointelegraph.com/news/crypto-exchanges-tokenized-assets-market-6-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-29T10:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260729-crypto-tradfi-grows-fivefold-to-66b-as-exchanges-expand-into-stocks-commodities-",
+      "localUrl": "/news/20260729-crypto-tradfi-grows-fivefold-to-66b-as-exchanges-expand-into-stocks-commodities-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
@@ -114,21 +238,8 @@
       "localUrl": "/news/20260729-uk-policy-sprint-finds-cross-border-payments-are-stablecoins-top-use-case.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
-      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T06:32:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says",
-      "localUrl": "/news/20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says.html"
-    },
-    {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+      "title": "Live updates: Bitcoin rises above $64,000 ahead of Fed rate decision",
       "summary": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
       "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
       "publishedAt": "2026-07-29T06:25:21.000Z",
@@ -138,8 +249,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260729-live-updates-bitcoin-clears-64000-in-asia-hours-ahead-of-fed-decision",
-      "localUrl": "/news/20260729-live-updates-bitcoin-clears-64000-in-asia-hours-ahead-of-fed-decision.html"
+      "slug": "20260729-live-updates-bitcoin-rises-above-64000-ahead-of-fed-rate-decision",
+      "localUrl": "/news/20260729-live-updates-bitcoin-rises-above-64000-ahead-of-fed-rate-decision.html"
     },
     {
       "source": "CoinDesk",
@@ -275,6 +386,19 @@
       "category": "综合",
       "slug": "20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network",
       "localUrl": "/news/20260729-european-financial-institutions-launch-rl1-cooperative-blockchain-network.html"
+    },
+    {
+      "source": "Ethereum Blog",
+      "title": "Ethereum Foundation Board Update",
+      "summary": "We are pleased to share that pcaversaccio (pc) has joined the Ethereum Foundation Board. pc is a long time contributor to the Ethereum ecosystem, a co-founder and lead of SEAL 911, and has been a member of the EF's Silviculture Society, wh…",
+      "url": "https://blog.ethereum.org/en/2026/07/29/ef-board-update",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "keywords": [
+        "Organizational"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-ethereum-foundation-board-update",
+      "localUrl": "/news/20260729-ethereum-foundation-board-update.html"
     },
     {
       "source": "CoinDesk",
@@ -595,19 +719,6 @@
       "localUrl": "/news/20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin lows pierce $63K as Asia chip-stock crash spreads to Wall Street",
-      "summary": "Bitcoin and crypto dropped as contagion from a major Asia stock-market correction spreads to the US at the Wall Street open.",
-      "url": "https://cointelegraph.com/markets/bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spills?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T16:27:46.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260728-bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spreads-to-wall-street",
-      "localUrl": "/news/20260728-bitcoin-lows-pierce-63k-as-asia-chip-stock-crash-spreads-to-wall-street.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
       "summary": "The Bitcoin bounce looked promising. The charts now say it wasn't.",
@@ -619,19 +730,6 @@
       "category": "市场",
       "slug": "20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap",
       "localUrl": "/news/20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kraken opens Jersey Mike’s IPO to retail investors through tokenized shares and direct allocations",
-      "summary": "Eligible US users can request IPO allocations, while customers in more than 110 countries gain access to tokenized Jersey Mike’s shares backed 1:1 by the underlying stock.",
-      "url": "https://cointelegraph.com/news/kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-direct-allocations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-28T16:20:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260728-kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-d",
-      "localUrl": "/news/20260728-kraken-opens-jersey-mikes-ipo-to-retail-investors-through-tokenized-shares-and-d.html"
     },
     {
       "source": "CoinDesk",
@@ -758,53 +856,6 @@
       "localUrl": "/news/20260728-every-year-crypto-has-a-big-theme-this-year-its-the-merging-of-crypto-and-tradit.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
-      "summary": "The agreement accelerates Core Scientific’s pivot from bitcoin mining toward AI data centers, following the termination of its ASIC agreement with Block.",
-      "url": "https://www.coindesk.com/business/2026/07/28/core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-      "publishedAt": "2026-07-28T12:46:05.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260728-core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down",
-      "localUrl": "/news/20260728-core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance makes fighting crypto crime more difficult, says new report",
-      "summary": "The New York Times says a quiet change to Binance's compliance rules is forcing international law enforcement to navigate slow-moving government treaties to get user data.",
-      "url": "https://www.coindesk.com/business/2026/07/28/binance-makes-fighting-crypto-crime-more-difficult-says-new-nyt-article",
-      "publishedAt": "2026-07-28T12:24:02.000Z",
-      "keywords": [
-        "Finance",
-        "Binance",
-        "Crime",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-binance-makes-fighting-crypto-crime-more-difficult-says-new-report",
-      "localUrl": "/news/20260728-binance-makes-fighting-crypto-crime-more-difficult-says-new-report.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Apple kept fake bitcoin wallet on App Store after $875,000 theft report, lawsuit alleges",
-      "summary": "A lawsuit alleges Apple kept a fake bitcoin wallet app on its store after one user reported an $875,000 theft, leading to another user having roughly $840,000 stolen.",
-      "url": "https://www.coindesk.com/business/2026/07/28/apple-kept-fake-bitcoin-wallet-on-app-store-after-usd875-000-theft-report-lawsuit-alleges",
-      "publishedAt": "2026-07-28T11:59:17.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-apple-kept-fake-bitcoin-wallet-on-app-store-after-875000-theft-report-lawsuit-al",
-      "localUrl": "/news/20260728-apple-kept-fake-bitcoin-wallet-on-app-store-after-875000-theft-report-lawsuit-al.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
       "summary": "Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.",
@@ -870,17 +921,6 @@
       "localUrl": "/news/20260728-myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin is the asset. Solana is the infrastructure. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NHVWNkZXSTJNUVJfbjFaWnhBV3RUZ2xLakd3UTVvR3BiTUxRZXMtWjBsVEJua0dFSWprOUM5bi1Zb05xaHZXa01WZ0FKT1phdW9RUjNFaF9BR0k?oc=5\" target=\"_blank\">Bitcoin is the asset. Solana is the infrast…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11NHVWNkZXSTJNUVJfbjFaWnhBV3RUZ2xLakd3UTVvR3BiTUxRZXMtWjBsVEJua0dFSWprOUM5bi1Zb05xaHZXa01WZ0FKT1phdW9RUjNFaF9BR0k?oc=5",
-      "publishedAt": "2026-07-28T10:26:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom",
-      "localUrl": "/news/20260728-bitcoin-is-the-asset-solana-is-the-infrastructure-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
       "summary": "The suit sidesteps the fight over AI training data, alleging the comic sits in a paywalled template catalogue, searchable by name.",
@@ -895,28 +935,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Hyperliquid Community Addresses SK Hynix Perp Anomaly: Deployed by XYZ and Under Investigation Hyperliquid’s xyz:SKHYNIX perpetual contract briefly fell 17.9% after an anomalous pre-market trade in South Korea’s NXT market priced one SK Hynix sha - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5\" target=\"_blank\">Hyperliquid Community Addresses …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hRkZZbVNiYmp3UlZMWEpTcGdpcVJpeWRjV0lDb21sbnJxb1BPLTVJTzRSbXV1bzFnMFdUQjhfQVQweEJXdHFtZTI4cmxGSzUxTGxyOXRFU0JhUGxtbmZIZUlLRQ?oc=5",
-      "publishedAt": "2026-07-28T09:16:51.000Z",
+      "title": "BREAKING: 🇺🇸 The Senate has put the Crypto Clarity Act on hold to focus on other bills. How many more delays? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE00VzE1eENfbjdNZUFhdXFVVWVyTG9XUmJIY2lVZW42UkVteDZOdHNqendRMnliRXRFLTVGM0ZUMzltdm01N3o0R3lMMm8yYTJxSHBxRFdla3l4ejFtUFhn?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 The Senate has put the …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00VzE1eENfbjdNZUFhdXFVVWVyTG9XUmJIY2lVZW42UkVteDZOdHNqendRMnliRXRFLTVGM0ZUMzltdm01N3o0R3lMMm8yYTJxSHBxRFdla3l4ejFtUFhn?oc=5",
+      "publishedAt": "2026-07-28T07:25:58.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-",
-      "localUrl": "/news/20260728-hyperliquid-community-addresses-sk-hynix-perp-anomaly-deployed-by-xyz-and-under-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kalshi, Polymarket Score Win as Judge Blocks Minnesota Prediction Market Ban—For Now",
-      "summary": "The order turns on whether each contract counts as a swap under federal law, and the judge found that not every one does.",
-      "url": "https://decrypt.co/374498/kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-ban-for-now",
-      "publishedAt": "2026-07-28T09:04:19.000Z",
-      "keywords": [
-        "polygon",
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n",
-      "localUrl": "/news/20260728-kalshi-polymarket-score-win-as-judge-blocks-minnesota-prediction-market-banfor-n.html"
+      "slug": "20260728-breaking-the-senate-has-put-the-crypto-clarity-act-on-hold-to-focus-on-other-bil",
+      "localUrl": "/news/20260728-breaking-the-senate-has-put-the-crypto-clarity-act-on-hold-to-focus-on-other-bil.html"
     },
     {
       "source": "X Wire",
@@ -946,32 +972,6 @@
       "localUrl": "/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Elon Musk: Humans Will Lose Control of AI Within a Decade",
-      "summary": "The SpaceX founder says artificial intelligence is advancing too quickly to stop and is urging leading AI companies to coordinate on safety before releasing their most powerful models.",
-      "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
-      "publishedAt": "2026-07-27T23:00:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "X热点",
-      "slug": "20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade",
-      "localUrl": "/news/20260727-elon-musk-humans-will-lose-control-of-ai-within-a-decade.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
-      "summary": "Money is moving on a September bet for OpenAI’s next major model on both Polymarket and Myriad prediction markets.",
-      "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-      "publishedAt": "2026-07-27T22:31:03.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260727-openais-gpt-6-will-arrive-by-september-markets-predict",
-      "localUrl": "/news/20260727-openais-gpt-6-will-arrive-by-september-markets-predict.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is 87% correlated to global liquidity. The NASDAQ is 97% correlated. Which tells you something most people never realise. These assets are not really trading on earnings, or news, or whatever the story of the week is. They’re tracking the amount of mo - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQmhlNWtULW01NnFuaFM3NWVsdzNkYjhXbTVvS3RXcGFfTWhXVUlyUHA4V0F5Rkc2OW4xZEJWVTVKSDhGNmtXaDRxWFk0YU9IcHkzR1pWTEMwQ3o4UGc?oc=5\" target=\"_blank\">Bitcoin is 87% correlated to global liq…",
@@ -981,6 +981,17 @@
       "category": "X热点",
       "slug": "20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t",
       "localUrl": "/news/20260727-bitcoin-is-87-correlated-to-global-liquidity-the-nasdaq-is-97-correlated-which-t.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BITCOIN ETF OUTFLOWS RETURN Bitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows. Analysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5\" target=\"_blank\">BITCOIN ETF OUTFLOWS RETURN Bitcoin ETF…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WbXA0TWZkbHlJOEtHTk5YZlpTNDVlVlgzeUU2MFNZOU5SZ05pcm5CUnh2WlZyZ2VRLTRtT0E3S2UwY1JkQkdud002QV9HQmxxbVUyQ1MyQnFRTVg1ckE?oc=5",
+      "publishedAt": "2026-07-27T18:32:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow",
+      "localUrl": "/news/20260727-bitcoin-etf-outflows-return-bitcoin-etfs-posted-two-straight-days-of-net-outflow.html"
     },
     {
       "source": "X Wire",
@@ -1039,6 +1050,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Circle has acquired fundamental assets from the @IBM blockchain patent portfolio, including 680+ patent families and nearly 1,000 issued patents worldwide. The acquisition makes Circle the leading U.S. blockchain patent holder and strengthens the foundati - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbGpueXN5R08ybW9vcmtEUWxnRk44cjROa1VuVnNZNk1ha1pvZXBsay13TTJLcFYzcTZ6WlI0YUkyMW16VWxwcUFqQmxJbTJyM1F3N0NSWl9Qb3M?oc=5\" target=\"_blank\">Circle has acquired fundamental assets from…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zbGpueXN5R08ybW9vcmtEUWxnRk44cjROa1VuVnNZNk1ha1pvZXBsay13TTJLcFYzcTZ6WlI0YUkyMW16VWxwcUFqQmxJbTJyM1F3N0NSWl9Qb3M?oc=5",
+      "publishedAt": "2026-07-27T12:15:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-",
+      "localUrl": "/news/20260727-circle-has-acquired-fundamental-assets-from-the-ibm-blockchain-patent-portfolio-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "1/ Every transaction on a public blockchain leaves a trail. Your wallet activity. Your transaction history. Your interactions. For many people, that's just how crypto works. But does it have to? 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2OHNhdUdtb285LW05ekkxUmNuTDZGNW1aRmF3MHJCRVpXV2V5UENDQm9zT0dYdzhfOWU1Zk5YdGRsMzRISnU1cUVCcnRib2tjQmU1VlgzQ1RVUVU3QjVZQkM3TmI?oc=5\" target=\"_blank\">1/ Every transaction on a publi…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2OHNhdUdtb285LW05ekkxUmNuTDZGNW1aRmF3MHJCRVpXV2V5UENDQm9zT0dYdzhfOWU1Zk5YdGRsMzRISnU1cUVCcnRib2tjQmU1VlgzQ1RVUVU3QjVZQkM3TmI?oc=5",
@@ -1047,17 +1069,6 @@
       "category": "X热点",
       "slug": "20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y",
       "localUrl": "/news/20260727-1-every-transaction-on-a-public-blockchain-leaves-a-trail-your-wallet-activity-y.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$MSTR - STRATEGY SELLS STOCK, PAUSES BITCOIN BUYING $MSTR raised $544.5 million by selling 5.4 million shares through its ATM program last week. The company did not buy any Bitcoin, keeping its holdings at 843,775 BTC. Strategy also repurcha - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE11SEx6MzNnbnVRZXoxWGpHekVIMmtLXzVZS2tpX3VadDZSRTk0Y05QWDk2YzRFb2tYN1BZTS1UWUc4SkJ4MGhCN29YOEtCRThPS3JuU0pka2IwZGo0NXc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS STOCK, PAUSES BI…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11SEx6MzNnbnVRZXoxWGpHekVIMmtLXzVZS2tpX3VadDZSRTk0Y05QWDk2YzRFb2tYN1BZTS1UWUc4SkJ4MGhCN29YOEtCRThPS3JuU0pka2IwZGo0NXc?oc=5",
-      "publishedAt": "2026-07-27T12:03:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-mstr-strategy-sells-stock-pauses-bitcoin-buying-mstr-raised-5445-million-by-sell",
-      "localUrl": "/news/20260727-mstr-strategy-sells-stock-pauses-bitcoin-buying-mstr-raised-5445-million-by-sell.html"
     },
     {
       "source": "X Wire",
