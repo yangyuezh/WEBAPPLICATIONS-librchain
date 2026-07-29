@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-07-29T17:33:43.917Z",
+  "updatedAt": "2026-07-29T19:39:13.689Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
+      "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
+      "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
+      "publishedAt": "2026-07-29T19:31:03.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo",
+      "localUrl": "/news/20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+      "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
+      "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+      "publishedAt": "2026-07-29T18:43:45.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-bitcoin-ethereum-wobble-as-fed-holds-rates-steady",
+      "localUrl": "/news/20260729-bitcoin-ethereum-wobble-as-fed-holds-rates-steady.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+      "summary": "Rather than competing directly with faster chains, some builders argue Ethereum's strength lies in supporting the layer-2 networks where trading is taking place.",
+      "url": "https://www.coindesk.com/tech/2026/07/29/as-crypto-perpetual-futures-boom-ethereum-s-role-is-shifting",
+      "publishedAt": "2026-07-29T18:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Perps Week 2026",
+        "Feature"
+      ],
+      "category": "基础设施",
+      "slug": "20260729-as-crypto-perpetual-futures-boom-ethereums-role-is-shifting",
+      "localUrl": "/news/20260729-as-crypto-perpetual-futures-boom-ethereums-role-is-shifting.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+      "summary": "For the first time in several years, markets were somewhat split on whether the U.S. central bank would hike rates.",
+      "url": "https://www.coindesk.com/markets/2026/07/29/fomc-hold-fed-holds-rates-steady-extending-pause-as-markets-await-warsh-s-policy-roadmap",
+      "publishedAt": "2026-07-29T17:58:33.000Z",
+      "keywords": [
+        "Markets",
+        "Federal Reserve",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260729-fed-holds-rates-steady-extending-pause-as-markets-await-kevin-warshs-policy-road",
+      "localUrl": "/news/20260729-fed-holds-rates-steady-extending-pause-as-markets-await-kevin-warshs-policy-road.html"
+    },
     {
       "source": "Decrypt",
       "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
@@ -400,6 +456,17 @@
       "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
     },
     {
+      "source": "X Wire",
+      "title": "Six years in crypto. Still unshaken. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5\" target=\"_blank\">Six years in crypto. Still unshaken.</…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5",
+      "publishedAt": "2026-07-29T11:34:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-six-years-in-crypto-still-unshaken-xcom",
+      "localUrl": "/news/20260729-six-years-in-crypto-still-unshaken-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
       "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
@@ -597,8 +664,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin attempts to hold $64,000 ahead of Fed as AI favorites fall again",
-      "summary": "Markets price a hold at Wednesday's decision, but a real minority sees a surprise hike, with Citadel Securities and UBS among those flagging the risk.",
+      "title": "Live updates: Bitcoin edges above $64,000 as Fed holds policy steady",
+      "summary": "The formerly popular names in AI infrastructure continued their sharp selloff on Wednesday.",
       "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
       "publishedAt": "2026-07-29T06:25:21.000Z",
       "keywords": [
@@ -607,8 +674,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260729-live-updates-bitcoin-attempts-to-hold-64000-ahead-of-fed-as-ai-favorites-fall-ag",
-      "localUrl": "/news/20260729-live-updates-bitcoin-attempts-to-hold-64000-ahead-of-fed-as-ai-favorites-fall-ag.html"
+      "slug": "20260729-live-updates-bitcoin-edges-above-64000-as-fed-holds-policy-steady",
+      "localUrl": "/news/20260729-live-updates-bitcoin-edges-above-64000-as-fed-holds-policy-steady.html"
     },
     {
       "source": "CoinDesk",
@@ -639,20 +706,6 @@
       "category": "市场",
       "slug": "20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon",
       "localUrl": "/news/20260729-citadel-bets-on-a-fed-rate-hike-wednesday-as-bitcoin-analysts-call-a-hold-someon.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rises toward $64,000 as Korea's record chip crash leaves crypto untouched",
-      "summary": "SK Hynix fell 17% after profit rose 557% and still missed estimates. Bitcoin is up 1%, and the Fed decides rates today.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-rises-toward-usd64-000-as-korea-s-record-chip-crash-leaves-crypto-untouched",
-      "publishedAt": "2026-07-29T05:32:27.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-bitcoin-rises-toward-64000-as-koreas-record-chip-crash-leaves-crypto-untouched",
-      "localUrl": "/news/20260729-bitcoin-rises-toward-64000-as-koreas-record-chip-crash-leaves-crypto-untouched.html"
     },
     {
       "source": "Cointelegraph",
@@ -744,22 +797,6 @@
       "category": "基础设施",
       "slug": "20260729-ethereum-foundation-board-update",
       "localUrl": "/news/20260729-ethereum-foundation-board-update.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
-      "summary": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.",
-      "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-      "publishedAt": "2026-07-28T23:50:38.000Z",
-      "keywords": [
-        "Policy",
-        "Coinbase",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need",
-      "localUrl": "/news/20260728-coinbase-wants-to-be-canadas-everything-exchange-but-says-clearer-rules-are-need.html"
     },
     {
       "source": "Decrypt",
@@ -924,19 +961,6 @@
       "localUrl": "/news/20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c.html"
     },
     {
-      "source": "Decrypt",
-      "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
-      "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
-      "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
-      "publishedAt": "2026-07-28T16:54:11.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260728-first-chatgpt-now-claude-frontier-ai-models-are-escaping-their-sandboxes",
-      "localUrl": "/news/20260728-first-chatgpt-now-claude-frontier-ai-models-are-escaping-their-sandboxes.html"
-    },
-    {
       "source": "X Wire",
       "title": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local. Protocol changes must be rare, conservative, and driven by necessity, not ambition. Defend Bitcoin’s constitution. Defe - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5\" target=\"_blank\">Keep Bitcoin’s base layer simple, neutral, …",
@@ -957,30 +981,6 @@
       "category": "X热点",
       "slug": "20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a",
       "localUrl": "/news/20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
-      "summary": "The Bitcoin bounce looked promising. The charts now say it wasn't.",
-      "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
-      "publishedAt": "2026-07-28T16:22:18.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap",
-      "localUrl": "/news/20260728-why-the-bitcoin-rally-seems-more-like-a-bull-trap.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇦🇪 UAE's largest airline 'Emirates' begins accepting crypto payments for flight bookings. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeHpLVUFtYmFoX0gzVzI5d2o4NENiVVRPbVhPMWhHSHpLanZfQ1lQUHhrNi12aklRUGF4UHVjVER4Uk55S0MwMlNQWEU0RFVFSy1ZeUFycHdYS0RkbWs2YXl3?oc=5\" target=\"_blank\">JUST IN: 🇦🇪 UAE's largest airlin…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VeHpLVUFtYmFoX0gzVzI5d2o4NENiVVRPbVhPMWhHSHpLanZfQ1lQUHhrNi12aklRUGF4UHVjVER4Uk55S0MwMlNQWEU0RFVFSy1ZeUFycHdYS0RkbWs2YXl3?oc=5",
-      "publishedAt": "2026-07-28T16:00:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh",
-      "localUrl": "/news/20260728-just-in-uaes-largest-airline-emirates-begins-accepting-crypto-payments-for-fligh.html"
     },
     {
       "source": "X Wire",
@@ -1066,14 +1066,14 @@
     },
     {
       "source": "X Wire",
-      "title": "1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5\" target=\"_blank\">1/ It’s Monday and we have a…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5",
-      "publishedAt": "2026-07-27T17:00:54.000Z",
+      "title": "JUST IN: Bitcoin Long-term-holder supply climbed to an all-time high of 14.85 million BTC at the end of Q1, according to Ark Invest 👀 Conviction continues to grow 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5\" target=\"_blank\">JUST IN: Bitcoin Long-term-…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEEwQ2ZFRWZEajJwWnRwOHhDTDd6OURjZS0xYnJBT2VuN3duNm82eHhUMDl4UGloNWk4NnJleW1WQ3gxaVprWFdPaEZHb3BHQUJMdGxpc09ZdlozNXNTU3UwbVR3OWc?oc=5",
+      "publishedAt": "2026-07-27T14:44:17.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
-      "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
+      "slug": "20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill",
+      "localUrl": "/news/20260727-just-in-bitcoin-long-term-holder-supply-climbed-to-an-all-time-high-of-1485-mill.html"
     },
     {
       "source": "X Wire",
