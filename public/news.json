@@ -1,10 +1,93 @@
 {
-  "updatedAt": "2026-07-30T06:37:58.419Z",
+  "updatedAt": "2026-07-30T09:37:46.837Z",
   "total": 83,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Bitcoin analysts agree the Fed's hold was hawkish. They don't agree on what happens next.",
+      "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+      "summary": "S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.",
+      "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
+      "publishedAt": "2026-07-30T09:01:13.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "DeFi",
+      "slug": "20260730-live-updates-bitcoin-holds-near-64000-as-microsofts-ai-payoff-lifts-stocks",
+      "localUrl": "/news/20260730-live-updates-bitcoin-holds-near-64000-as-microsofts-ai-payoff-lifts-stocks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+      "summary": "Perpetual futures drive much of the price discovery for bitcoin and ether. When traders pointed the same machinery at a private company, they priced the biggest IPO in history more accurately than Wall Street, and then watched the stock wa…",
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+      "publishedAt": "2026-07-30T09:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Perps Week 2026",
+        "Feature"
+      ],
+      "category": "市场",
+      "slug": "20260730-bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influen",
+      "localUrl": "/news/20260730-bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influen.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australia sues Telegram over alleged failures to remove terror content",
+      "summary": "Telegram faces Australian court proceedings after eSafety alleged the platform failed to detect and remove extremist material shared by users.",
+      "url": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T08:49:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-australia-sues-telegram-over-alleged-failures-to-remove-terror-content",
+      "localUrl": "/news/20260730-australia-sues-telegram-over-alleged-failures-to-remove-terror-content.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
+      "summary": "China Business Journal says fraudsters impersonated the publication, demanding Bitcoin to suppress purported investigative reports about targeted companies.",
+      "url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T07:28:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260730-chinese-newspaper-warns-of-bitcoin-extortion-scam-using-its-name",
+      "localUrl": "/news/20260730-chinese-newspaper-warns-of-bitcoin-extortion-scam-using-its-name.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
+      "summary": "US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitcoin dipping below $64,000, ending a four-session outflow streak.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T07:05:23.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260730-bitcoin-etf-inflows-return-as-ether-funds-slip-into-outflows",
+      "localUrl": "/news/20260730-bitcoin-etf-inflows-return-as-ether-funds-slip-into-outflows.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
+      "summary": "Price volatility around the Federal Reserve's rate decision cleared positions for roughly 90,000 traders, with unusually equal losses for bulls and bears.",
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
+      "publishedAt": "2026-07-30T06:59:10.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-bitcoin-ether-whipsaw-wipes-out-286-million-in-leveraged-bets",
+      "localUrl": "/news/20260730-bitcoin-ether-whipsaw-wipes-out-286-million-in-leveraged-bets.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
       "summary": "Four analysts agree the Fed's hawkish hold changes the calculus for risk assets, but they split on whether bitcoin's real test is already here or still six weeks away.",
       "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
       "publishedAt": "2026-07-30T06:28:58.000Z",
@@ -15,8 +98,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260730-bitcoin-analysts-agree-the-feds-hold-was-hawkish-they-dont-agree-on-what-happens",
-      "localUrl": "/news/20260730-bitcoin-analysts-agree-the-feds-hold-was-hawkish-they-dont-agree-on-what-happens.html"
+      "slug": "20260730-bitcoin-analysts-agree-the-feds-hold-was-hawkish-they-are-split-on-what-happens-",
+      "localUrl": "/news/20260730-bitcoin-analysts-agree-the-feds-hold-was-hawkish-they-are-split-on-what-happens-.html"
     },
     {
       "source": "Cointelegraph",
@@ -99,6 +182,17 @@
       "localUrl": "/news/20260730-japanese-game-developer-launches-bitcoin-altcoin-fund-with-sbi.html"
     },
     {
+      "source": "X Wire",
+      "title": "Founder of Russia’s Largest Crypto Miner Held Over Alleged 1 Billion-Ruble Fraud A Moscow court has moved BitRiver founder Igor Runets from house arrest to pretrial detention for two months over alleged large-scale fraud involving nearly RUB 1 billion. Inv - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94MXJLVHRQR1Q4M29hUmN1RzNPYmhKUEtfQ0tBdTNGYWpRMTNzdW1qUWNDSFR4bWJBTERaU2Rvc3RfRTNKbFVXTGhQNHNzT3ZvVkduYXN5V1IwUFZqUkVfV3hCVQ?oc=5\" target=\"_blank\">Founder of Russia’s Largest Cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94MXJLVHRQR1Q4M29hUmN1RzNPYmhKUEtfQ0tBdTNGYWpRMTNzdW1qUWNDSFR4bWJBTERaU2Rvc3RfRTNKbFVXTGhQNHNzT3ZvVkduYXN5V1IwUFZqUkVfV3hCVQ?oc=5",
+      "publishedAt": "2026-07-30T02:29:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-founder-of-russias-largest-crypto-miner-held-over-alleged-1-billion-ruble-fraud-",
+      "localUrl": "/news/20260730-founder-of-russias-largest-crypto-miner-held-over-alleged-1-billion-ruble-fraud-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
       "summary": "Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the organization elevates privacy and security in its protocol strategy.",
@@ -172,10 +266,10 @@
       "source": "Cointelegraph",
       "title": "Robinhood posts record quarter as crypto revenue slides 38%",
       "summary": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
-      "url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T21:53:35.000Z",
       "keywords": [
-        "Latest News"
+        "Markets"
       ],
       "category": "DeFi",
       "slug": "20260729-robinhood-posts-record-quarter-as-crypto-revenue-slides-38",
@@ -427,6 +521,17 @@
       "localUrl": "/news/20260729-ai-book-burning-companies-are-destroying-millions-of-books-to-feed-chatbots.html"
     },
     {
+      "source": "X Wire",
+      "title": "$59.8 billion SoFi Bank CEO says \"SoFi actively supports passing the CLARITY Act to set clear rules of the road.\" \"The time is now for everyone to get together to support this.\" \"Congress should pass it immediately. Let’s Go! 🇺🇸\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiaUh1UldGRlQ3cUF4YjZkWDc3ZFlySl9QSVZfT1hQajBRUFVZQjRaZ0lJVHJTNEw2ejl4N1d5UHI2cloyV2NIU1dqX0Fnem11NUpXQW1Sbkx4NjhlXzE1SmtWcWlpZ2s?oc=5\" target=\"_blank\">$59.8 billion SoFi Bank CEO…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiaUh1UldGRlQ3cUF4YjZkWDc3ZFlySl9QSVZfT1hQajBRUFVZQjRaZ0lJVHJTNEw2ejl4N1d5UHI2cloyV2NIU1dqX0Fnem11NUpXQW1Sbkx4NjhlXzE1SmtWcWlpZ2s?oc=5",
+      "publishedAt": "2026-07-29T16:27:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-598-billion-sofi-bank-ceo-says-sofi-actively-supports-passing-the-clarity-act-to",
+      "localUrl": "/news/20260729-598-billion-sofi-bank-ceo-says-sofi-actively-supports-passing-the-clarity-act-to.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
       "summary": "MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchases, token swaps and crosschain transactions while retaining custody of their assets.",
@@ -482,6 +587,17 @@
       "localUrl": "/news/20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs.html"
     },
     {
+      "source": "X Wire",
+      "title": "Our CEO @felix_fan, was onstage at Malaysia Blockchain Week to discuss why a wallet holds more opportunity for this generation than a bank. Both allow you to move money but only one where you control the keys. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cVhXYWkwajZuRzRQbVZnQkE0SS1Xb2dpSkp5VlN5SUlwZzlaY1NFejllc2JjTFlyWHJDdEthS1k3OG1pejBkc2xWcVhfV05ZLWc4QVNDQmF0akpXZTAzSTRR?oc=5\" target=\"_blank\">Our CEO @felix_fan, was onstage at…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cVhXYWkwajZuRzRQbVZnQkE0SS1Xb2dpSkp5VlN5SUlwZzlaY1NFejllc2JjTFlyWHJDdEthS1k3OG1pejBkc2xWcVhfV05ZLWc4QVNDQmF0akpXZTAzSTRR?oc=5",
+      "publishedAt": "2026-07-29T16:04:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-our-ceo-felix_fan-was-onstage-at-malaysia-blockchain-week-to-discuss-why-a-walle",
+      "localUrl": "/news/20260729-our-ceo-felix_fan-was-onstage-at-malaysia-blockchain-week-to-discuss-why-a-walle.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
       "summary": "Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite — in equities and in bonds.",
@@ -509,6 +625,17 @@
       "category": "基础设施",
       "slug": "20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus",
       "localUrl": "/news/20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Major venture capital firm DCG sends letter to the Senate supporting the Clarity Act: \"We respectfully urge you to schedule a floor vote on the Digital Asset Market Clarity Act before the August recess.\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WeVVpckMtZ3FNQzdOeEcxWnZkU1FOU1Z2YkpmdEtkaVFoOV9keFNjS2V3S211dktRNF93QlZPNGlESXQyX1dabC1qdjV2WUNaV3JxOTAxWFRYSlBXNmNEYnY5M3Y5cVE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Major venture…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WeVVpckMtZ3FNQzdOeEcxWnZkU1FOU1Z2YkpmdEtkaVFoOV9keFNjS2V3S211dktRNF93QlZPNGlESXQyX1dabC1qdjV2WUNaV3JxOTAxWFRYSlBXNmNEYnY5M3Y5cVE?oc=5",
+      "publishedAt": "2026-07-29T15:21:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-just-in-major-venture-capital-firm-dcg-sends-letter-to-the-senate-supporting-the",
+      "localUrl": "/news/20260729-just-in-major-venture-capital-firm-dcg-sends-letter-to-the-senate-supporting-the.html"
     },
     {
       "source": "CoinDesk",
@@ -540,6 +667,17 @@
       "category": "监管",
       "slug": "20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou",
       "localUrl": "/news/20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Bitcoin’s average daily spot trading volume fell to about $2.2B in July, the lowest level since July 2023, per K33 Research. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iLW51YTJUaXEwdWZPY2psWkxqT2pLX3dEZ2hqYjYta21lRzhrLWEyRmNVYWpNUGdVYTlDWksxR2RST3h3NmUwR2phWXk4WW9Ha00xWFVDbndTeG45Q2MxMjl3UDA?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin’s average da…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iLW51YTJUaXEwdWZPY2psWkxqT2pLX3dEZ2hqYjYta21lRzhrLWEyRmNVYWpNUGdVYTlDWksxR2RST3h3NmUwR2phWXk4WW9Ha00xWFVDbndTeG45Q2MxMjl3UDA?oc=5",
+      "publishedAt": "2026-07-29T14:20:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-update-bitcoins-average-daily-spot-trading-volume-fell-to-about-22b-in-july-the-",
+      "localUrl": "/news/20260729-update-bitcoins-average-daily-spot-trading-volume-fell-to-about-22b-in-july-the-.html"
     },
     {
       "source": "X Wire",
@@ -621,19 +759,6 @@
       "category": "综合",
       "slug": "20260729-about-80-million-zec-crosses-into-zcashs-new-ironwood-pool-in-the-first-day",
       "localUrl": "/news/20260729-about-80-million-zec-crosses-into-zcashs-new-ironwood-pool-in-the-first-day.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "The 100x obsession: Fundamentals grow in importance as crypto matures",
-      "summary": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get-rich-quick stories continue to beat substance.",
-      "url": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "综合",
-      "slug": "20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures",
-      "localUrl": "/news/20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures.html"
     },
     {
       "source": "X Wire",
@@ -735,19 +860,6 @@
       "localUrl": "/news/20260729-morning-minute-claude-mythos-breaks-post-quantum-cryptography.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Emirates enables UAE residents to pay for flights through Crypto.com",
-      "summary": "The service is limited to eligible UAE residents and bookings are priced and settled in dirhams.",
-      "url": "https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T12:14:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260729-emirates-enables-uae-residents-to-pay-for-flights-through-cryptocom",
-      "localUrl": "/news/20260729-emirates-enables-uae-residents-to-pay-for-flights-through-cryptocom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
       "summary": "The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.",
@@ -773,17 +885,6 @@
     },
     {
       "source": "X Wire",
-      "title": "FED 🇺🇸 interest rate decision will be announced today at 2:00 PM ET. Something like this? IF RATE 4.00% → MARKETS CRASH Me & my team will cover everything. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE11bXN6UjZIUm14b0ZvR3RNZm5oY2dqR09vMGFTdGpyMGVtQWRBNVNyTUE5NjVhemxCRTNCYTAzMTNhZmJ5d01UbnNyQ0pMeDNtMHBKZlZZNFlwSkx1dmk2Q3BB?oc=5\" target=\"_blank\">FED 🇺🇸 interest rate decision wi…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11bXN6UjZIUm14b0ZvR3RNZm5oY2dqR09vMGFTdGpyMGVtQWRBNVNyTUE5NjVhemxCRTNCYTAzMTNhZmJ5d01UbnNyQ0pMeDNtMHBKZlZZNFlwSkx1dmk2Q3BB?oc=5",
-      "publishedAt": "2026-07-29T11:36:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-fed-interest-rate-decision-will-be-announced-today-at-200-pm-et-something-like-t",
-      "localUrl": "/news/20260729-fed-interest-rate-decision-will-be-announced-today-at-200-pm-et-something-like-t.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Six years in crypto. Still unshaken. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5\" target=\"_blank\">Six years in crypto. Still unshaken.</…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5",
@@ -792,19 +893,6 @@
       "category": "X热点",
       "slug": "20260729-six-years-in-crypto-still-unshaken-xcom",
       "localUrl": "/news/20260729-six-years-in-crypto-still-unshaken-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
-      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T11:18:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says",
-      "localUrl": "/news/20260729-telegram-founder-pavel-durov-internationally-wanted-russias-fsb-says.html"
     },
     {
       "source": "CoinDesk",
@@ -822,19 +910,15 @@
       "localUrl": "/news/20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies above $64,000 as crypto looks to Fed interest-rate decision",
-      "summary": "BTC added 0.75% before the Federal Reserve's rate decision. Inflation at 4.1% keeps an increase firmly on the table even as oil prices ease.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/bitcoin-steadies-above-usd64-000-as-crypto-looks-to-fed-interest-rate-decision",
-      "publishedAt": "2026-07-29T10:34:18.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-bitcoin-steadies-above-64000-as-crypto-looks-to-fed-interest-rate-decision",
-      "localUrl": "/news/20260729-bitcoin-steadies-above-64000-as-crypto-looks-to-fed-interest-rate-decision.html"
+      "source": "X Wire",
+      "title": "BlackRock is selling Bitcoin - and buying ETH. So far this week BlackRock’s clients have net SOLD $60M of the IBIT ETF. However, they have bought more than $20M of ETH in the same time period. Are institutions rotating into ETH? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcGZWX3ZHQ2xNRWZfY3pDQ0gzZU5WcG9HNFhfYUJqQW1EUjYzYzJHcktFZG83aFJBaDBRaUExTEZzM2pZbjFpeTBvNkpEcVhWNVhkMWJoSmlBY2M?oc=5\" target=\"_blank\">BlackRock is selling Bitcoin - and buying E…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcGZWX3ZHQ2xNRWZfY3pDQ0gzZU5WcG9HNFhfYUJqQW1EUjYzYzJHcktFZG83aFJBaDBRaUExTEZzM2pZbjFpeTBvNkpEcVhWNVhkMWJoSmlBY2M?oc=5",
+      "publishedAt": "2026-07-29T11:02:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-blackrock-is-selling-bitcoin-and-buying-eth-so-far-this-week-blackrocks-clients-",
+      "localUrl": "/news/20260729-blackrock-is-selling-bitcoin-and-buying-eth-so-far-this-week-blackrocks-clients-.html"
     },
     {
       "source": "Decrypt",
@@ -850,22 +934,6 @@
       "localUrl": "/news/20260729-apple-sued-after-fake-iphone-wallet-app-drained-18m-in-bitcoin.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-      "summary": "The crypto exchange unveils commodity options following strong uptake for gold and silver perps.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
-      "publishedAt": "2026-07-29T10:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Binance",
-        "Commodities",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-",
-      "localUrl": "/news/20260729-binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
       "summary": "Durov has previously called Russia’s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
@@ -879,20 +947,15 @@
       "localUrl": "/news/20260729-russia-charges-telegrams-pavel-durov-with-aiding-terrorism.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "summary": "The bitcoin miner reached a market valuation of roughly $2.8 billion based on its 44.9 million shares outstanding.",
-      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
-      "publishedAt": "2026-07-29T09:22:24.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto News",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex",
-      "localUrl": "/news/20260729-ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex.html"
+      "source": "X Wire",
+      "title": "Ethereum’s next major upgrade, Glamsterdam, is moving into its final testing phase and is expected on mainnet in the second half of 2026 (most likely around September–October). Here’s what it actually does for the network: - It introduces enshrined Proposer- - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CY3M1dzBiOEMzTlpPekY0MDZUSTNDZU5ScjZhWG03elVmMTdTMlRqM0VPcWxGX1ZYQ2poZU02Z3l0ZFpNTTdOa05LUmp1bWMwc3hZR3ByMGYzNEQza204?oc=5\" target=\"_blank\">Ethereum’s next major upgrade, Glamste…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CY3M1dzBiOEMzTlpPekY0MDZUSTNDZU5ScjZhWG03elVmMTdTMlRqM0VPcWxGX1ZYQ2poZU02Z3l0ZFpNTTdOa05LUmp1bWMwc3hZR3ByMGYzNEQza204?oc=5",
+      "publishedAt": "2026-07-29T02:35:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-ethereums-next-major-upgrade-glamsterdam-is-moving-into-its-final-testing-phase-",
+      "localUrl": "/news/20260729-ethereums-next-major-upgrade-glamsterdam-is-moving-into-its-final-testing-phase-.html"
     },
     {
       "source": "Ethereum Blog",
@@ -921,17 +984,6 @@
       "localUrl": "/news/20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Consumer Technology Association supports the passage of the CLARITY ACT \"America should be competitive in blockchain and digital asset technologies. We respectfully urge you to prioritize Senate floor consideration of the CLARITY Act.\" 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rzlrb21kRU1JNmQ2V2kzd3hfbEw5N21RTEp1R1B6Yll4NDg3TjdMTGp5cFBUOEV3TDR6NmVPMzB5UzFuQ2JMQjd2V2MtWDFRaVZLM1dNSFdsQ3RXM1Jaa2x5SjZpZDg?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Consumer Tech…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rzlrb21kRU1JNmQ2V2kzd3hfbEw5N21RTEp1R1B6Yll4NDg3TjdMTGp5cFBUOEV3TDR6NmVPMzB5UzFuQ2JMQjd2V2MtWDFRaVZLM1dNSFdsQ3RXM1Jaa2x5SjZpZDg?oc=5",
-      "publishedAt": "2026-07-28T22:08:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-",
-      "localUrl": "/news/20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
       "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
@@ -943,17 +995,6 @@
       "category": "市场",
       "slug": "20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july",
       "localUrl": "/news/20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The midterms are coming, and the crypto voters are watching. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5\" target=\"_blank\">The midterms are coming, an…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5",
-      "publishedAt": "2026-07-28T21:35:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom",
-      "localUrl": "/news/20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1018,28 +1059,6 @@
     },
     {
       "source": "X Wire",
-      "title": "If you still only know Coinbase as a place to trade crypto, you're due an update. Come listen in on July 30th. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5\" target=\"_blank\">If you still only know Coinbase as a pl…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5",
-      "publishedAt": "2026-07-28T17:52:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c",
-      "localUrl": "/news/20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Sen. Cynthia Lummis lists 5 major financial institutions now supporting the CLARITY ACT: ✅BlackRock ✅Goldman Sachs ✅Fidelity ✅Franklin Templeton ✅SoFi Wall Street says pass it 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Cynthia …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5",
-      "publishedAt": "2026-07-28T17:50:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t",
-      "localUrl": "/news/20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin has won. Now it must survive victory. Its gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5\" target=\"_blank\">Bitcoin has won. Now it must survive victor…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5",
@@ -1048,17 +1067,6 @@
       "category": "X热点",
       "slug": "20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a",
       "localUrl": "/news/20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Sen. Mike Haridopolos talks CLARITY ACT on FOX \"The Clarity Act helps grow the American economy...CLARITY will allow us to make sure that we are the center of the action on digital assets, blockchain, and the internet in general.\" 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oUEJFUGZMeEFNenRGYVlibjlpbUhPNk5iZk93bnhsUTdPLU0xeV9yRjF4UDdrSFZid2tUVGhQRDhiSUZ1dWppOHVIVWpJZzE5cnhCWFR3SGEzeGJBUU5Kendudm1TVXM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Mike Har…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oUEJFUGZMeEFNenRGYVlibjlpbUhPNk5iZk93bnhsUTdPLU0xeV9yRjF4UDdrSFZid2tUVGhQRDhiSUZ1dWppOHVIVWpJZzE5cnhCWFR3SGEzeGJBUU5Kendudm1TVXM?oc=5",
-      "publishedAt": "2026-07-28T16:19:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-sen-mike-haridopolos-talks-clarity-act-on-fox-the-clarity-act-helps-grow",
-      "localUrl": "/news/20260728-just-in-sen-mike-haridopolos-talks-clarity-act-on-fox-the-clarity-act-helps-grow.html"
     },
     {
       "source": "X Wire",
@@ -1086,17 +1094,6 @@
       "category": "综合",
       "slug": "20260728-ofac-sanctions-members-of-hamas-financing-network",
       "localUrl": "/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5\" target=\"_blank\">1/ It’s Monday and we have a…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5",
-      "publishedAt": "2026-07-27T17:00:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
-      "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
     }
   ]
 }
