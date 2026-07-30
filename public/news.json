@@ -1,7 +1,135 @@
 {
-  "updatedAt": "2026-07-30T09:37:46.837Z",
+  "updatedAt": "2026-07-30T12:01:45.765Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.",
+      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T11:46:43.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-samsung-unit-explores-stablecoin-infrastructure-with-upbits-operator",
+      "localUrl": "/news/20260730-samsung-unit-explores-stablecoin-infrastructure-with-upbits-operator.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
+      "summary": "CEO James Lanigan cited automation reshaping the business, as the exchange shifts from retail trading toward institutional infrastructure.",
+      "url": "https://decrypt.co/374699/crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
+      "publishedAt": "2026-07-30T11:42:03.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260730-crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
+      "localUrl": "/news/20260730-crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
+      "summary": "The FT said Situational Awareness had approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
+      "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T11:29:03.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260730-hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft",
+      "localUrl": "/news/20260730-hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs on track for the smallest monthly inflows ever",
+      "summary": "Your day-ahead look for July 30, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/30/bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
+      "publishedAt": "2026-07-30T11:18:34.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
+      "localUrl": "/news/20260730-bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
+      "summary": "The country plans on taxing cryptocurrency gains from Jan. 1, 2027, signaling that it does not intend to postpone the measure for a fourth time.",
+      "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
+      "publishedAt": "2026-07-30T11:17:56.000Z",
+      "keywords": [
+        "Policy",
+        "South Korea",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-south-korea-plans-to-tax-crypto-gains-over-1740-as-political-battle-moves-to-par",
+      "localUrl": "/news/20260730-south-korea-plans-to-tax-crypto-gains-over-1740-as-political-battle-moves-to-par.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
+      "summary": "Bitcoin held near $64,000 despite the Fed's hawkish split, Iranian ballistic missiles and an 8% surge in oil overnight that sent the Dow down 2.2% and the Nasdaq to a three-month low.",
+      "url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
+      "publishedAt": "2026-07-30T10:56:24.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-cryptos-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-coul",
+      "localUrl": "/news/20260730-cryptos-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-coul.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitRiver founder charged in Russia with $12.5 million fraud",
+      "summary": "Igor Runets has been transferred to a pre-trial detention facility from house arrest as he faces accusations of failing to deliver on a contract.",
+      "url": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
+      "publishedAt": "2026-07-30T10:02:33.000Z",
+      "keywords": [
+        "Policy",
+        "Mining",
+        "Cryptocurrency",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-bitriver-founder-charged-in-russia-with-125-million-fraud",
+      "localUrl": "/news/20260730-bitriver-founder-charged-in-russia-with-125-million-fraud.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
+      "summary": "The DCG-owned company previously cut 35% of staff in January 2023 citing tough market conditions.",
+      "url": "https://www.coindesk.com/business/2026/07/30/crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-slumps",
+      "publishedAt": "2026-07-30T09:54:18.000Z",
+      "keywords": [
+        "Finance",
+        "Jobs",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-sl",
+      "localUrl": "/news/20260730-crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-sl.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
+      "summary": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
+      "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
+      "publishedAt": "2026-07-30T09:50:02.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260730-fake-flare-network-staking-site-drained-85m-in-xrp-seoul-police",
+      "localUrl": "/news/20260730-fake-flare-network-staking-site-drained-85m-in-xrp-seoul-police.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
@@ -706,61 +834,6 @@
       "localUrl": "/news/20260729-ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The inside story of how a hike in Hong Kong changed crypto trading forever",
-      "summary": "\"We were a scrappy startup,\" Delo said of BitMEX back in 2016, when it launched the first perpetual future. \"We thought, ‘Just get it out there. If it was any good, the market would show us.’\"",
-      "url": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
-      "publishedAt": "2026-07-29T13:53:01.000Z",
-      "keywords": [
-        "Finance",
-        "Perps Week 2026",
-        "Feature"
-      ],
-      "category": "市场",
-      "slug": "20260729-the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
-      "localUrl": "/news/20260729-the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T13:47:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260729-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260729-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BNY to bring transfer agency records onchain in blockchain push",
-      "summary": "BNY is launching a blockchain-based transfer agency platform as the bank expands its digital asset infrastructure and moves core financial records onchain.",
-      "url": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T13:36:18.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-bny-to-bring-transfer-agency-records-onchain-in-blockchain-push",
-      "localUrl": "/news/20260729-bny-to-bring-transfer-agency-records-onchain-in-blockchain-push.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "About $80 million ZEC crosses into Zcash's new Ironwood pool in the first day",
-      "summary": "Roughly 5% of the funds in the retired Orchard pool have gone through the turnstile. The rest sit in a pool that can no longer take deposits.",
-      "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
-      "publishedAt": "2026-07-29T13:32:37.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260729-about-80-million-zec-crosses-into-zcashs-new-ironwood-pool-in-the-first-day",
-      "localUrl": "/news/20260729-about-80-million-zec-crosses-into-zcashs-new-ironwood-pool-in-the-first-day.html"
-    },
-    {
       "source": "X Wire",
       "title": "Governments can accelerate Bitcoin adoption. Governments can delay Bitcoin adoption. They cannot stop Bitcoin. Block by block. Nation by nation. Bitcoin advances. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5\" target=\"_blank\">Governments can accelerate Bitcoin adoption…",
@@ -794,21 +867,6 @@
       "localUrl": "/news/20260729-1-were-excited-to-announce-the-close-of-ethereuminstis-initial-ecosystem-funding.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
-      "summary": "As perpetuals enter regulated markets, critics warn they import systemic risk. But the risk comes from venue design — leverage limits, margin rules, index construction, and default handling — not the contract itself, argues Chris Tyrer, Pr…",
-      "url": "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
-      "publishedAt": "2026-07-29T13:00:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Perps Week 2026",
-        "Opinion"
-      ],
-      "category": "DeFi",
-      "slug": "20260729-the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
-      "localUrl": "/news/20260729-the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target.html"
-    },
-    {
       "source": "X Wire",
       "title": "$64,236.40 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iazF0NVFFQ2tpbThhLVd6U2drUUw3RHVtVHRLd00wRUtfT3JJaHVMcWVhZ2theGJGVEcwMW9BSnBDeFZuYXFxMVhZSEhLaFJvbVdpeW5xZXJaSFI5?oc=5\" target=\"_blank\">$64,236.40 #Bitcoin</a> <font color=\"#6f6f…",
@@ -829,22 +887,6 @@
       "category": "X热点",
       "slug": "20260729-16-years-ago-today-satoshi-nakamoto-said-if-you-dont-believe-me-or-dont-get-it-i",
       "localUrl": "/news/20260729-16-years-ago-today-satoshi-nakamoto-said-if-you-dont-believe-me-or-dont-get-it-i.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BNY targets $8.6 trillion transfer agency market on blockchain rails",
-      "summary": "The world’s largest custodian will keep its existing system while adding a digital ownership record for tokenized funds.",
-      "url": "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
-      "publishedAt": "2026-07-29T12:18:58.000Z",
-      "keywords": [
-        "Finance",
-        "banks",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260729-bny-targets-86-trillion-transfer-agency-market-on-blockchain-rails",
-      "localUrl": "/news/20260729-bny-targets-86-trillion-transfer-agency-market-on-blockchain-rails.html"
     },
     {
       "source": "Decrypt",
@@ -895,21 +937,6 @@
       "localUrl": "/news/20260729-six-years-in-crypto-still-unshaken-xcom.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "3 reasons Wednesday's Fed meeting is pivotal for BTC",
-      "summary": "Your day-ahead look for July 29, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/29/3-reasons-wednesday-s-fed-meeting-is-pivotal-for-btc",
-      "publishedAt": "2026-07-29T11:15:00.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc",
-      "localUrl": "/news/20260729-3-reasons-wednesdays-fed-meeting-is-pivotal-for-btc.html"
-    },
-    {
       "source": "X Wire",
       "title": "BlackRock is selling Bitcoin - and buying ETH. So far this week BlackRock’s clients have net SOLD $60M of the IBIT ETF. However, they have bought more than $20M of ETH in the same time period. Are institutions rotating into ETH? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcGZWX3ZHQ2xNRWZfY3pDQ0gzZU5WcG9HNFhfYUJqQW1EUjYzYzJHcktFZG83aFJBaDBRaUExTEZzM2pZbjFpeTBvNkpEcVhWNVhkMWJoSmlBY2M?oc=5\" target=\"_blank\">BlackRock is selling Bitcoin - and buying E…",
@@ -945,17 +972,6 @@
       "category": "监管",
       "slug": "20260729-russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
       "localUrl": "/news/20260729-russia-charges-telegrams-pavel-durov-with-aiding-terrorism.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum’s next major upgrade, Glamsterdam, is moving into its final testing phase and is expected on mainnet in the second half of 2026 (most likely around September–October). Here’s what it actually does for the network: - It introduces enshrined Proposer- - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CY3M1dzBiOEMzTlpPekY0MDZUSTNDZU5ScjZhWG03elVmMTdTMlRqM0VPcWxGX1ZYQ2poZU02Z3l0ZFpNTTdOa05LUmp1bWMwc3hZR3ByMGYzNEQza204?oc=5\" target=\"_blank\">Ethereum’s next major upgrade, Glamste…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CY3M1dzBiOEMzTlpPekY0MDZUSTNDZU5ScjZhWG03elVmMTdTMlRqM0VPcWxGX1ZYQ2poZU02Z3l0ZFpNTTdOa05LUmp1bWMwc3hZR3ByMGYzNEQza204?oc=5",
-      "publishedAt": "2026-07-29T02:35:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-ethereums-next-major-upgrade-glamsterdam-is-moving-into-its-final-testing-phase-",
-      "localUrl": "/news/20260729-ethereums-next-major-upgrade-glamsterdam-is-moving-into-its-final-testing-phase-.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1021,41 +1037,26 @@
       "localUrl": "/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
-      "summary": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
-      "url": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
-      "publishedAt": "2026-07-28T20:08:48.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing",
-      "localUrl": "/news/20260728-teacher-arrested-for-clapping-at-ai-data-center-public-hearing.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Michael Saylor: Bitcoin Code Is a Constitution, Changes Are Attacks on 'Economic Rights'",
-      "summary": "The Strategy chairman's latest thread extends his war far beyond BIP-110: now covenants, larger blocks, and any base-layer change are all the same \"constitutional offense.\"",
-      "url": "https://decrypt.co/374588/michael-saylor-bitcoin-constitution-bip-110",
-      "publishedAt": "2026-07-28T19:36:03.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri",
-      "localUrl": "/news/20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri.html"
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Sen. Cynthia Lummis lists 5 major financial institutions now supporting the CLARITY ACT: ✅BlackRock ✅Goldman Sachs ✅Fidelity ✅Franklin Templeton ✅SoFi Wall Street says pass it 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Cynthia …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5",
+      "publishedAt": "2026-07-28T17:50:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t",
+      "localUrl": "/news/20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t.html"
     },
     {
       "source": "X Wire",
-      "title": "NEW: 🇺🇸 Senate Majority Leader John Thune on CLARITY ACT \"We'll probably have a vote on the CLARITY ACT which is the digital assets bill/legislation, we'll see if the Democrats give us the votes to get on that\" 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MeU9pTGJOUEl2alZFS1FFbzBuYWt4NXgtTlNWVC1vX2EzcVhpNjdtRkpIdWs3bHdVa0gyUFhGTjh4NlQ5MU14U09RbEl6VkdOaEp1bmhub0pRcUxIOGF6U0NMUVJJVEU?oc=5\" target=\"_blank\">NEW: 🇺🇸 Senate Majority L…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MeU9pTGJOUEl2alZFS1FFbzBuYWt4NXgtTlNWVC1vX2EzcVhpNjdtRkpIdWs3bHdVa0gyUFhGTjh4NlQ5MU14U09RbEl6VkdOaEp1bmhub0pRcUxIOGF6U0NMUVJJVEU?oc=5",
-      "publishedAt": "2026-07-28T19:06:23.000Z",
+      "title": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local. Protocol changes must be rare, conservative, and driven by necessity, not ambition. Defend Bitcoin’s constitution. Defe - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5\" target=\"_blank\">Keep Bitcoin’s base layer simple, neutral, …",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5",
+      "publishedAt": "2026-07-28T16:27:57.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260728-new-senate-majority-leader-john-thune-on-clarity-act-well-probably-have-a-vote-o",
-      "localUrl": "/news/20260728-new-senate-majority-leader-john-thune-on-clarity-act-well-probably-have-a-vote-o.html"
+      "slug": "20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the",
+      "localUrl": "/news/20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the.html"
     },
     {
       "source": "X Wire",
