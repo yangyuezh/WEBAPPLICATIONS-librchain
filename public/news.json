@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-07-29T23:10:57.320Z",
-  "total": 63,
+  "updatedAt": "2026-07-30T03:22:33.388Z",
+  "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
+      "summary": "Pascal Caversaccio joins the Ethereum Foundation’s four-member board as the organization elevates privacy and security in its protocol strategy.",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T01:34:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260730-ethereum-foundation-adds-seal-911-co-founder-to-board-as-privacy-focus-grows",
+      "localUrl": "/news/20260730-ethereum-foundation-adds-seal-911-co-founder-to-board-as-privacy-focus-grows.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US arbitration giant launches specialist panel for crypto disputes",
+      "summary": "The American Arbitration Association’s Web3 Panel brings together specialists in blockchain, smart contracts, digital assets and autonomous transactions.",
+      "url": "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T00:29:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260730-us-arbitration-giant-launches-specialist-panel-for-crypto-disputes",
+      "localUrl": "/news/20260730-us-arbitration-giant-launches-specialist-panel-for-crypto-disputes.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
+      "summary": "Insiders say that the bipartisan Senate duo revamping the bill's Trump-approved ethics section have come up with something they hope wins sufficient yes votes.",
+      "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
+      "publishedAt": "2026-07-29T23:12:04.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "Clarity Act",
+        "Donald Trump",
+        "Exclusive",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260729-senators-ready-to-send-stricter-ethics-rules-on-trumps-crypto-ventures-to-white-",
+      "localUrl": "/news/20260729-senators-ready-to-send-stricter-ethics-rules-on-trumps-crypto-ventures-to-white-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
@@ -122,6 +166,17 @@
       "localUrl": "/news/20260729-theres-a-new-way-to-protect-bitcoin-from-future-quantum-attacks-researchers-say.html"
     },
     {
+      "source": "X Wire",
+      "title": "whoops accidentally launched the most viral new Crypto x AI product of 2026 we see all of your comments about PayBox and appreciate the support we'll be back in action very soon moon that - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUGx6VkJzalBfZmtfbktlc2NPcmROcjRkdFlHVHNpMU9xX1VOMmtubjFnR0dXWUhSV2lhaElMa2cyYUtHbnZyNkg1ZVlSX3lsUjJkNWlLRDMtYm5Q?oc=5\" target=\"_blank\">whoops accidentally launched the most vira…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LUGx6VkJzalBfZmtfbktlc2NPcmROcjRkdFlHVHNpMU9xX1VOMmtubjFnR0dXWUhSV2lhaElMa2cyYUtHbnZyNkg1ZVlSX3lsUjJkNWlLRDMtYm5Q?oc=5",
+      "publishedAt": "2026-07-29T19:51:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-whoops-accidentally-launched-the-most-viral-new-crypto-x-ai-product-of-2026-we-s",
+      "localUrl": "/news/20260729-whoops-accidentally-launched-the-most-viral-new-crypto-x-ai-product-of-2026-we-s.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
       "summary": "A White House crypto adviser said that the proposed changes to the CLARITY Act were “not even close” to the administration’s position, signaling another fight over the bill.",
@@ -146,6 +201,17 @@
       "category": "综合",
       "slug": "20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo",
       "localUrl": "/news/20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "If you’re in crypto, let your AI agent use crypto - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5\" target=\"_blank\">If you’re in crypto, let yo…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5",
+      "publishedAt": "2026-07-29T18:59:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom",
+      "localUrl": "/news/20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -391,6 +457,17 @@
       "localUrl": "/news/20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Sen. Catherine Cortez Masto backs the new CLARITY ACT proposal sent to the White House saying: \"We feel good about the chance to resolve this issue once and for all\" - POLITICO 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVllzY2pZUjEwWGthclV0cjFWTjZkUzdGcThkLTZtWkIxclRlTUxBci1ON2JCdUlEU2w4eV9KV25sRGZKU3d1dnZCVDFvM2xtZkdBd2FfMzJmdllSZ3hhUDZNWG9IRVU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Catherin…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVllzY2pZUjEwWGthclV0cjFWTjZkUzdGcThkLTZtWkIxclRlTUxBci1ON2JCdUlEU2w4eV9KV25sRGZKU3d1dnZCVDFvM2xtZkdBd2FfMzJmdllSZ3hhUDZNWG9IRVU?oc=5",
+      "publishedAt": "2026-07-29T14:19:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-just-in-sen-catherine-cortez-masto-backs-the-new-clarity-act-proposal-sent-to-th",
+      "localUrl": "/news/20260729-just-in-sen-catherine-cortez-masto-backs-the-new-clarity-act-proposal-sent-to-th.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
       "summary": "pcaversaccio (known as \"pc\"), is a prominent security researcher in the Ethereum ecosystem. His addition brings the foundation's board to four members.",
@@ -474,6 +551,39 @@
       "localUrl": "/news/20260729-the-100x-obsession-fundamentals-grow-in-importance-as-crypto-matures.html"
     },
     {
+      "source": "X Wire",
+      "title": "Governments can accelerate Bitcoin adoption. Governments can delay Bitcoin adoption. They cannot stop Bitcoin. Block by block. Nation by nation. Bitcoin advances. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5\" target=\"_blank\">Governments can accelerate Bitcoin adoption…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jSVZ0VWFySk5IQzRfZ20tM1lkbHRVLXBBbW9ndjltOVR3Y192emZnY0xpa19WZzBXaV9zeV9uX1c2SExiYnNxTl9UWkdkb29SeVVqY185bHlJQjg?oc=5",
+      "publishedAt": "2026-07-29T13:29:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-governments-can-accelerate-bitcoin-adoption-governments-can-delay-bitcoin-adopti",
+      "localUrl": "/news/20260729-governments-can-accelerate-bitcoin-adoption-governments-can-delay-bitcoin-adopti.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 American Bankers Association CEO tells CNBC \"There's a lot of good in the Clarity Act\" 👀 \"I do think that the crypto and the banking sectors can coexist. I think we can be the crypto capital of the world.\" \"We're working with the Senators\" on this bill. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZeEd1SVhjcW1ZMVNCQ0p1TjhLT0d3bWhHSkdIM3g3LWVXd2pIckxZSTZIQnlyMlBvamVtWGZsdWhndVV3dFI0VEJ4TWltb0VoOFpialFkOUt4QmdmSzZkbnNxbnI2MzA?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 American Bank…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZeEd1SVhjcW1ZMVNCQ0p1TjhLT0d3bWhHSkdIM3g3LWVXd2pIckxZSTZIQnlyMlBvamVtWGZsdWhndVV3dFI0VEJ4TWltb0VoOFpialFkOUt4QmdmSzZkbnNxbnI2MzA?oc=5",
+      "publishedAt": "2026-07-29T13:18:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-just-in-american-bankers-association-ceo-tells-cnbc-theres-a-lot-of-good-in-the-",
+      "localUrl": "/news/20260729-just-in-american-bankers-association-ceo-tells-cnbc-theres-a-lot-of-good-in-the-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "1/ We’re excited to announce the close of @ethereuminsti's initial ecosystem funding round and supporter coalition, with broad participation and support from individuals and entities focused on driving institutional adoption of @ethereum. Our ecosystem fundin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BOHlEa2xUbkswQ1Y5ZWhsSDBjSVdxUU1YaG9MdVdkVjNOWEdGWGtyWE1DWmVZXzJDMjRqQkhNbU54UnU0UzVYRlllZEh1TXFteVpKeGpGR2RQRzctU0JicFlkLTg?oc=5\" target=\"_blank\">1/ We’re excited to announce th…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BOHlEa2xUbkswQ1Y5ZWhsSDBjSVdxUU1YaG9MdVdkVjNOWEdGWGtyWE1DWmVZXzJDMjRqQkhNbU54UnU0UzVYRlllZEh1TXFteVpKeGpGR2RQRzctU0JicFlkLTg?oc=5",
+      "publishedAt": "2026-07-29T13:11:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-1-were-excited-to-announce-the-close-of-ethereuminstis-initial-ecosystem-funding",
+      "localUrl": "/news/20260729-1-were-excited-to-announce-the-close-of-ethereuminstis-initial-ecosystem-funding.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
       "summary": "As perpetuals enter regulated markets, critics warn they import systemic risk. But the risk comes from venue design — leverage limits, margin rules, index construction, and default handling — not the contract itself, argues Chris Tyrer, Pr…",
@@ -487,6 +597,17 @@
       "category": "DeFi",
       "slug": "20260729-the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
       "localUrl": "/news/20260729-the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$64,236.40 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iazF0NVFFQ2tpbThhLVd6U2drUUw3RHVtVHRLd00wRUtfT3JJaHVMcWVhZ2theGJGVEcwMW9BSnBDeFZuYXFxMVhZSEhLaFJvbVdpeW5xZXJaSFI5?oc=5\" target=\"_blank\">$64,236.40 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iazF0NVFFQ2tpbThhLVd6U2drUUw3RHVtVHRLd00wRUtfT3JJaHVMcWVhZ2theGJGVEcwMW9BSnBDeFZuYXFxMVhZSEhLaFJvbVdpeW5xZXJaSFI5?oc=5",
+      "publishedAt": "2026-07-29T12:45:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-6423640-bitcoin-xcom",
+      "localUrl": "/news/20260729-6423640-bitcoin-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -542,6 +663,28 @@
       "category": "综合",
       "slug": "20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report",
       "localUrl": "/news/20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "We’re pleased to welcome @pcaversaccio to the EF Board. A longtime Ethereum contributor, co-founder of SEAL 911, Silviculture Society member, and privacy and security maximalist, pc has consistently championed the values at Ethereum’s core. We look fo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RWg3bnpUQUEyYkc0RzZpRThhVUp2VV8zQ3dQclB0VTd0ZmE2ZEE0RjNmVHBOTUMzRnFRblpROWY4X29XX2hQMnliZTN3UHg1UUYxVlEtQ0VYSVRwck11WVJSRQ?oc=5\" target=\"_blank\">We’re pleased to welcome @pcaver…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RWg3bnpUQUEyYkc0RzZpRThhVUp2VV8zQ3dQclB0VTd0ZmE2ZEE0RjNmVHBOTUMzRnFRblpROWY4X29XX2hQMnliZTN3UHg1UUYxVlEtQ0VYSVRwck11WVJSRQ?oc=5",
+      "publishedAt": "2026-07-29T12:04:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib",
+      "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Six years in crypto. Still unshaken. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5\" target=\"_blank\">Six years in crypto. Still unshaken.</…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5",
+      "publishedAt": "2026-07-29T11:34:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-six-years-in-crypto-still-unshaken-xcom",
+      "localUrl": "/news/20260729-six-years-in-crypto-still-unshaken-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -727,19 +870,6 @@
       "localUrl": "/news/20260729-bitcoin-etfs-extend-outflow-streak-as-btc-fails-to-hold-65k.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-      "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
-      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T07:11:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260729-uk-policy-sprint-finds-cross-border-payments-are-stablecoins-top-use-case",
-      "localUrl": "/news/20260729-uk-policy-sprint-finds-cross-border-payments-are-stablecoins-top-use-case.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin edges above $64,000 as Fed holds policy steady",
       "summary": "The formerly popular names in AI infrastructure continued their sharp selloff on Wednesday.",
@@ -753,33 +883,6 @@
       "category": "监管",
       "slug": "20260729-live-updates-bitcoin-edges-above-64000-as-fed-holds-policy-steady",
       "localUrl": "/news/20260729-live-updates-bitcoin-edges-above-64000-as-fed-holds-policy-steady.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "summary": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "publishedAt": "2026-07-29T06:03:28.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-company-behind-ai-trade-that-caused-60-million-crypto-liquidations-to-cover-all-",
-      "localUrl": "/news/20260729-company-behind-ai-trade-that-caused-60-million-crypto-liquidations-to-cover-all-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
-      "summary": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
-      "url": "https://cointelegraph.com/markets/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T05:29:48.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260729-tradexyz-to-cover-sk-hynix-perp-liquidation-losses-tied-to-price-anomaly",
-      "localUrl": "/news/20260729-tradexyz-to-cover-sk-hynix-perp-liquidation-losses-tied-to-price-anomaly.html"
     },
     {
       "source": "Ethereum Blog",
@@ -808,6 +911,17 @@
       "localUrl": "/news/20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Consumer Technology Association supports the passage of the CLARITY ACT \"America should be competitive in blockchain and digital asset technologies. We respectfully urge you to prioritize Senate floor consideration of the CLARITY Act.\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rzlrb21kRU1JNmQ2V2kzd3hfbEw5N21RTEp1R1B6Yll4NDg3TjdMTGp5cFBUOEV3TDR6NmVPMzB5UzFuQ2JMQjd2V2MtWDFRaVZLM1dNSFdsQ3RXM1Jaa2x5SjZpZDg?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Consumer Tech…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0Rzlrb21kRU1JNmQ2V2kzd3hfbEw5N21RTEp1R1B6Yll4NDg3TjdMTGp5cFBUOEV3TDR6NmVPMzB5UzFuQ2JMQjd2V2MtWDFRaVZLM1dNSFdsQ3RXM1Jaa2x5SjZpZDg?oc=5",
+      "publishedAt": "2026-07-28T22:08:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-",
+      "localUrl": "/news/20260728-just-in-consumer-technology-association-supports-the-passage-of-the-clarity-act-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
       "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
@@ -819,6 +933,39 @@
       "category": "市场",
       "slug": "20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july",
       "localUrl": "/news/20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 SEC says it is ready to create crypto rules if Congress fails to pass the Clarity Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC says it is ready…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5",
+      "publishedAt": "2026-07-28T21:51:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th",
+      "localUrl": "/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The midterms are coming, and the crypto voters are watching. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5\" target=\"_blank\">The midterms are coming, an…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xa3JmcVFjS2ZFTng3cS1ZUFJZS0YwU2hqRTl0b21NN3dwTkwyQWJCS3k2QjlKa19VSFVwckJhN0gyVS13a0d4SFRtQTRxbUsya0s2MnNMN1E5SHlLSmpmTGNnMHBlR28?oc=5",
+      "publishedAt": "2026-07-28T21:35:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom",
+      "localUrl": "/news/20260728-the-midterms-are-coming-and-the-crypto-voters-are-watching-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says he will support Congress in passing the Clarity Act: “I am committed to supporting Congress in advancing the CLARITY Act, including providing technical assistance.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC Chair Pau…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5",
+      "publishedAt": "2026-07-28T21:03:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari",
+      "localUrl": "/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html"
     },
     {
       "source": "Decrypt",
@@ -858,6 +1005,83 @@
       "category": "市场",
       "slug": "20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri",
       "localUrl": "/news/20260728-michael-saylor-bitcoin-code-is-a-constitution-changes-are-attacks-on-economic-ri.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: 🇺🇸 Senate Majority Leader John Thune on CLARITY ACT \"We'll probably have a vote on the CLARITY ACT which is the digital assets bill/legislation, we'll see if the Democrats give us the votes to get on that\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MeU9pTGJOUEl2alZFS1FFbzBuYWt4NXgtTlNWVC1vX2EzcVhpNjdtRkpIdWs3bHdVa0gyUFhGTjh4NlQ5MU14U09RbEl6VkdOaEp1bmhub0pRcUxIOGF6U0NMUVJJVEU?oc=5\" target=\"_blank\">NEW: 🇺🇸 Senate Majority L…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MeU9pTGJOUEl2alZFS1FFbzBuYWt4NXgtTlNWVC1vX2EzcVhpNjdtRkpIdWs3bHdVa0gyUFhGTjh4NlQ5MU14U09RbEl6VkdOaEp1bmhub0pRcUxIOGF6U0NMUVJJVEU?oc=5",
+      "publishedAt": "2026-07-28T19:06:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-new-senate-majority-leader-john-thune-on-clarity-act-well-probably-have-a-vote-o",
+      "localUrl": "/news/20260728-new-senate-majority-leader-john-thune-on-clarity-act-well-probably-have-a-vote-o.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "If you still only know Coinbase as a place to trade crypto, you're due an update. Come listen in on July 30th. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5\" target=\"_blank\">If you still only know Coinbase as a pl…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fR08zUkl6a3YwX0VJbW9rVVN5MVdpb3otOHY3WTdwNV9VMDJ6Qkl0R1VscENTQml0YkdKaTN3QXZYUlV6cUFic0UzZHZteTRGbFZ2YUN5aDVZbThuWHc?oc=5",
+      "publishedAt": "2026-07-28T17:52:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c",
+      "localUrl": "/news/20260728-if-you-still-only-know-coinbase-as-a-place-to-trade-crypto-youre-due-an-update-c.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Sen. Cynthia Lummis lists 5 major financial institutions now supporting the CLARITY ACT: ✅BlackRock ✅Goldman Sachs ✅Fidelity ✅Franklin Templeton ✅SoFi Wall Street says pass it 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Cynthia …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5",
+      "publishedAt": "2026-07-28T17:50:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t",
+      "localUrl": "/news/20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local. Protocol changes must be rare, conservative, and driven by necessity, not ambition. Defend Bitcoin’s constitution. Defe - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5\" target=\"_blank\">Keep Bitcoin’s base layer simple, neutral, …",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5",
+      "publishedAt": "2026-07-28T16:27:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the",
+      "localUrl": "/news/20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin has won. Now it must survive victory. Its gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5\" target=\"_blank\">Bitcoin has won. Now it must survive victor…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5",
+      "publishedAt": "2026-07-28T16:27:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a",
+      "localUrl": "/news/20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: 🇷🇺 Bank of Russia says it has drafted \"first regulations to launch cryptocurrency market in Russia.\" 👀 \"The Bank of Russia has created conditions for organised trading in digital currencies and digital rights.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndXRyOGZBNkxXQkpGb3VVOE8xSTBtUUlVdlhvLUh0MU1UbzhjQTUwLTRmLTB3Z1QtU1pSMGVGM1pIR2RUQ1VWeTNqZW5ta2JFYnRUNVAxa1Bfa21hRzQwU1JkS2E1UFk?oc=5\" target=\"_blank\">NEW: 🇷🇺 Bank of Russia sa…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndXRyOGZBNkxXQkpGb3VVOE8xSTBtUUlVdlhvLUh0MU1UbzhjQTUwLTRmLTB3Z1QtU1pSMGVGM1pIR2RUQ1VWeTNqZW5ta2JFYnRUNVAxa1Bfa21hRzQwU1JkS2E1UFk?oc=5",
+      "publishedAt": "2026-07-28T14:13:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-new-bank-of-russia-says-it-has-drafted-first-regulations-to-launch-cryptocurrenc",
+      "localUrl": "/news/20260728-new-bank-of-russia-says-it-has-drafted-first-regulations-to-launch-cryptocurrenc.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto․com is partnering with @emirates to enable Crypto․com Pay™ for flight bookings. Available to approved users in the UAE, this brings next-generation payments to world-class travel while accelerating the vision of the Dubai Cashless Strategy under th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5\" target=\"_blank\">Crypto․com is partnering with @emirate…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5",
+      "publishedAt": "2026-07-28T11:31:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki",
+      "localUrl": "/news/20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki.html"
     },
     {
       "source": "Chainalysis Blog",
