@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-07-30T03:22:33.388Z",
+  "updatedAt": "2026-07-30T06:37:58.419Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin analysts agree the Fed's hold was hawkish. They don't agree on what happens next.",
+      "summary": "Four analysts agree the Fed's hawkish hold changes the calculus for risk assets, but they split on whether bitcoin's real test is already here or still six weeks away.",
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
+      "publishedAt": "2026-07-30T06:28:58.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Federal Reserve",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-bitcoin-analysts-agree-the-feds-hold-was-hawkish-they-dont-agree-on-what-happens",
+      "localUrl": "/news/20260730-bitcoin-analysts-agree-the-feds-hold-was-hawkish-they-dont-agree-on-what-happens.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea report proposes stablecoin rules before crypto law",
+      "summary": "Policy report recommends interim licensing guidance, greater flexibility for stablecoin issuers and rules ahead of the Digital Asset Basic Act.",
+      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T05:33:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260730-south-korea-report-proposes-stablecoin-rules-before-crypto-law",
+      "localUrl": "/news/20260730-south-korea-report-proposes-stablecoin-rules-before-crypto-law.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
+      "summary": "The US Treasury said HormuzSafe accepted Bitcoin and other digital assets to evade sanctions and generate revenue for Iran’s Islamic Revolutionary Guard Corps.",
+      "url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T05:23:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260730-us-sanctions-iranian-maritime-firm-says-it-accepted-bitcoin-to-evade-restriction",
+      "localUrl": "/news/20260730-us-sanctions-iranian-maritime-firm-says-it-accepted-bitcoin-to-evade-restriction.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+      "summary": "Crypto's majors barely moved as Asia's semiconductor selloff eased. Most are still lower over the week, with HYPE down 8%.",
+      "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+      "publishedAt": "2026-07-30T05:19:47.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-ether-xrp-flat-as-chip-stocks-steady-on-samsungs-250-fold-profit-surge",
+      "localUrl": "/news/20260730-ether-xrp-flat-as-chip-stocks-steady-on-samsungs-250-fold-profit-surge.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
+      "summary": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
+      "url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
+      "publishedAt": "2026-07-30T04:16:30.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-bitcoins-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-h",
+      "localUrl": "/news/20260730-bitcoins-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-h.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Luno cuts 20% of staff as crypto layoffs spread across 12 firms in July",
+      "summary": "Luno and Gnosis joined a widening round of crypto restructurings in July, when at least 12 companies reported job cuts.",
+      "url": "https://cointelegraph.com/news/luno-cuts-staff-crypto-layoffs-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T04:13:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-luno-cuts-20-of-staff-as-crypto-layoffs-spread-across-12-firms-in-july",
+      "localUrl": "/news/20260730-luno-cuts-20-of-staff-as-crypto-layoffs-spread-across-12-firms-in-july.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
+      "summary": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
+      "url": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T03:19:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260730-japanese-game-developer-launches-bitcoin-altcoin-fund-with-sbi",
+      "localUrl": "/news/20260730-japanese-game-developer-launches-bitcoin-altcoin-fund-with-sbi.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows",
@@ -74,7 +170,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
+      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
       "summary": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
       "url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T21:53:35.000Z",
@@ -82,13 +178,13 @@
         "Latest News"
       ],
       "category": "DeFi",
-      "slug": "20260729-robinhood-posts-record-quarter-but-crypto-revenue-slides-38",
-      "localUrl": "/news/20260729-robinhood-posts-record-quarter-but-crypto-revenue-slides-38.html"
+      "slug": "20260729-robinhood-posts-record-quarter-as-crypto-revenue-slides-38",
+      "localUrl": "/news/20260729-robinhood-posts-record-quarter-as-crypto-revenue-slides-38.html"
     },
     {
       "source": "Cointelegraph",
       "title": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
-      "summary": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets.",
+      "summary": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August, allowing it to offer prediction markets.",
       "url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T21:52:27.000Z",
       "keywords": [
@@ -201,17 +297,6 @@
       "category": "综合",
       "slug": "20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo",
       "localUrl": "/news/20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "If you’re in crypto, let your AI agent use crypto - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5\" target=\"_blank\">If you’re in crypto, let yo…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5",
-      "publishedAt": "2026-07-29T18:59:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom",
-      "localUrl": "/news/20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -540,7 +625,7 @@
     {
       "source": "Cointelegraph",
       "title": "The 100x obsession: Fundamentals grow in importance as crypto matures",
-      "summary": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance.",
+      "summary": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get-rich-quick stories continue to beat substance.",
       "url": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-29T13:30:00.000Z",
       "keywords": [
@@ -610,6 +695,17 @@
       "localUrl": "/news/20260729-6423640-bitcoin-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "16 years ago today, Satoshi Nakamoto said: \"If you don't believe me or don't get it, I don't have time to try to convince you, sorry.\" Today, Bitcoin is now a global currency and store of value ✨ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUmdBSWRFX2s1VC1KSVZyRFc2allnSWFjNUNJYUd6cV95UzI2OXBMVkNITzNRQUItUm95UVcyVTE1NGR3UUVDYS0tUlFuTEQ2Z21Yem42N194WVNsTEtnUndiTE1hWDg?oc=5\" target=\"_blank\">16 years ago today, Satoshi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUmdBSWRFX2s1VC1KSVZyRFc2allnSWFjNUNJYUd6cV95UzI2OXBMVkNITzNRQUItUm95UVcyVTE1NGR3UUVDYS0tUlFuTEQ2Z21Yem42N194WVNsTEtnUndiTE1hWDg?oc=5",
+      "publishedAt": "2026-07-29T12:26:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-16-years-ago-today-satoshi-nakamoto-said-if-you-dont-believe-me-or-dont-get-it-i",
+      "localUrl": "/news/20260729-16-years-ago-today-satoshi-nakamoto-said-if-you-dont-believe-me-or-dont-get-it-i.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "BNY targets $8.6 trillion transfer agency market on blockchain rails",
       "summary": "The world’s largest custodian will keep its existing system while adding a digital ownership record for tokenized funds.",
@@ -674,6 +770,17 @@
       "category": "X热点",
       "slug": "20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib",
       "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "FED 🇺🇸 interest rate decision will be announced today at 2:00 PM ET. Something like this? IF RATE 4.00% → MARKETS CRASH Me & my team will cover everything. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE11bXN6UjZIUm14b0ZvR3RNZm5oY2dqR09vMGFTdGpyMGVtQWRBNVNyTUE5NjVhemxCRTNCYTAzMTNhZmJ5d01UbnNyQ0pMeDNtMHBKZlZZNFlwSkx1dmk2Q3BB?oc=5\" target=\"_blank\">FED 🇺🇸 interest rate decision wi…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11bXN6UjZIUm14b0ZvR3RNZm5oY2dqR09vMGFTdGpyMGVtQWRBNVNyTUE5NjVhemxCRTNCYTAzMTNhZmJ5d01UbnNyQ0pMeDNtMHBKZlZZNFlwSkx1dmk2Q3BB?oc=5",
+      "publishedAt": "2026-07-29T11:36:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-fed-interest-rate-decision-will-be-announced-today-at-200-pm-et-something-like-t",
+      "localUrl": "/news/20260729-fed-interest-rate-decision-will-be-announced-today-at-200-pm-et-something-like-t.html"
     },
     {
       "source": "X Wire",
@@ -759,19 +866,6 @@
       "localUrl": "/news/20260729-binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
-      "summary": "A CoinGecko study points to rising demand for tokenized equities and commodities on centralized exchanges, with perpetual futures driving most of the market’s trading activity.",
-      "url": "https://cointelegraph.com/news/crypto-exchanges-tokenized-assets-market-6-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T10:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260729-crypto-tradfi-grows-fivefold-to-66b-as-exchanges-expand-into-stocks-commodities-",
-      "localUrl": "/news/20260729-crypto-tradfi-grows-fivefold-to-66b-as-exchanges-expand-into-stocks-commodities-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
       "summary": "Durov has previously called Russia’s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
@@ -799,90 +893,6 @@
       "category": "市场",
       "slug": "20260729-ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex",
       "localUrl": "/news/20260729-ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hungary repeals crypto checks as first MiCA license is granted",
-      "summary": "Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.",
-      "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T09:15:36.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-hungary-repeals-crypto-checks-as-first-mica-license-is-granted",
-      "localUrl": "/news/20260729-hungary-repeals-crypto-checks-as-first-mica-license-is-granted.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "summary": "The charges could result in life imprisonment, escalating an investigation that has already led to over 100 million rubles in fines for the platform this year.",
-      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
-      "publishedAt": "2026-07-29T09:10:54.000Z",
-      "keywords": [
-        "Policy",
-        "Crypto News",
-        "Telegram",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260729-russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
-      "localUrl": "/news/20260729-russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
-      "summary": "Gabriel Perez, who was accused of profiting from Kalshi bets tied to President Donald Trump’s speeches, is no longer employed by the federal government.",
-      "url": "https://cointelegraph.com/news/trump-teleprompter-kalshi-bets-government-ap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T08:12:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-trump-teleprompter-operator-accused-over-kalshi-bets-leaves-government-ap",
-      "localUrl": "/news/20260729-trump-teleprompter-operator-accused-over-kalshi-bets-leaves-government-ap.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SpaceX is a battleground Solana must win",
-      "summary": "Perps are a trojan horse to bring all of traditional finance onchain, argues Brian Smith, president of the Jito Foundation.",
-      "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
-      "publishedAt": "2026-07-29T08:00:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "基础设施",
-      "slug": "20260729-spacex-is-a-battleground-solana-must-win",
-      "localUrl": "/news/20260729-spacex-is-a-battleground-solana-must-win.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
-      "summary": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T07:16:47.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260729-bitcoin-etfs-extend-outflow-streak-as-btc-fails-to-hold-65k",
-      "localUrl": "/news/20260729-bitcoin-etfs-extend-outflow-streak-as-btc-fails-to-hold-65k.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin edges above $64,000 as Fed holds policy steady",
-      "summary": "The formerly popular names in AI infrastructure continued their sharp selloff on Wednesday.",
-      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
-      "publishedAt": "2026-07-29T06:25:21.000Z",
-      "keywords": [
-        "Tech",
-        "Live News",
-        "live_news"
-      ],
-      "category": "监管",
-      "slug": "20260729-live-updates-bitcoin-edges-above-64000-as-fed-holds-policy-steady",
-      "localUrl": "/news/20260729-live-updates-bitcoin-edges-above-64000-as-fed-holds-policy-steady.html"
     },
     {
       "source": "Ethereum Blog",
@@ -933,17 +943,6 @@
       "category": "市场",
       "slug": "20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july",
       "localUrl": "/news/20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 SEC says it is ready to create crypto rules if Congress fails to pass the Clarity Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC says it is ready…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aU1d3TndjeEtUMzN5RnJFeVBxd09OSlF3SjRRUEFHSzZXQTh0Slp2aWN6amlyTzJnQmM5M0VXamJtR1hHOHhoT3JzWVZ4dlBCMzBURUVId3l5NDdwdEJ6U2h3?oc=5",
-      "publishedAt": "2026-07-28T21:51:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th",
-      "localUrl": "/news/20260728-just-in-sec-says-it-is-ready-to-create-crypto-rules-if-congress-fails-to-pass-th.html"
     },
     {
       "source": "X Wire",
@@ -1041,17 +1040,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local. Protocol changes must be rare, conservative, and driven by necessity, not ambition. Defend Bitcoin’s constitution. Defe - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5\" target=\"_blank\">Keep Bitcoin’s base layer simple, neutral, …",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5",
-      "publishedAt": "2026-07-28T16:27:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the",
-      "localUrl": "/news/20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin has won. Now it must survive victory. Its gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5\" target=\"_blank\">Bitcoin has won. Now it must survive victor…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5",
@@ -1063,6 +1051,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Sen. Mike Haridopolos talks CLARITY ACT on FOX \"The Clarity Act helps grow the American economy...CLARITY will allow us to make sure that we are the center of the action on digital assets, blockchain, and the internet in general.\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oUEJFUGZMeEFNenRGYVlibjlpbUhPNk5iZk93bnhsUTdPLU0xeV9yRjF4UDdrSFZid2tUVGhQRDhiSUZ1dWppOHVIVWpJZzE5cnhCWFR3SGEzeGJBUU5Kendudm1TVXM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Mike Har…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oUEJFUGZMeEFNenRGYVlibjlpbUhPNk5iZk93bnhsUTdPLU0xeV9yRjF4UDdrSFZid2tUVGhQRDhiSUZ1dWppOHVIVWpJZzE5cnhCWFR3SGEzeGJBUU5Kendudm1TVXM?oc=5",
+      "publishedAt": "2026-07-28T16:19:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260728-just-in-sen-mike-haridopolos-talks-clarity-act-on-fox-the-clarity-act-helps-grow",
+      "localUrl": "/news/20260728-just-in-sen-mike-haridopolos-talks-clarity-act-on-fox-the-clarity-act-helps-grow.html"
+    },
+    {
+      "source": "X Wire",
       "title": "NEW: 🇷🇺 Bank of Russia says it has drafted \"first regulations to launch cryptocurrency market in Russia.\" 👀 \"The Bank of Russia has created conditions for organised trading in digital currencies and digital rights.\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndXRyOGZBNkxXQkpGb3VVOE8xSTBtUUlVdlhvLUh0MU1UbzhjQTUwLTRmLTB3Z1QtU1pSMGVGM1pIR2RUQ1VWeTNqZW5ta2JFYnRUNVAxa1Bfa21hRzQwU1JkS2E1UFk?oc=5\" target=\"_blank\">NEW: 🇷🇺 Bank of Russia sa…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBndXRyOGZBNkxXQkpGb3VVOE8xSTBtUUlVdlhvLUh0MU1UbzhjQTUwLTRmLTB3Z1QtU1pSMGVGM1pIR2RUQ1VWeTNqZW5ta2JFYnRUNVAxa1Bfa21hRzQwU1JkS2E1UFk?oc=5",
@@ -1071,17 +1070,6 @@
       "category": "X热点",
       "slug": "20260728-new-bank-of-russia-says-it-has-drafted-first-regulations-to-launch-cryptocurrenc",
       "localUrl": "/news/20260728-new-bank-of-russia-says-it-has-drafted-first-regulations-to-launch-cryptocurrenc.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto․com is partnering with @emirates to enable Crypto․com Pay™ for flight bookings. Available to approved users in the UAE, this brings next-generation payments to world-class travel while accelerating the vision of the Dubai Cashless Strategy under th - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5\" target=\"_blank\">Crypto․com is partnering with @emirate…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Mc1huVThFc0hEM2VZZ004STljV3hmeVBOV2NOa1pNeHlOVGpfNFdkc1VxYTR0TUxpajJxNVo2NTZVdGI2aGMybjBkdDN4S0trR0NxeTZtYUFoUjh6bDNV?oc=5",
-      "publishedAt": "2026-07-28T11:31:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki",
-      "localUrl": "/news/20260728-cryptocom-is-partnering-with-emirates-to-enable-cryptocom-paytm-for-flight-booki.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1098,6 +1086,17 @@
       "category": "综合",
       "slug": "20260728-ofac-sanctions-members-of-hamas-financing-network",
       "localUrl": "/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5\" target=\"_blank\">1/ It’s Monday and we have a…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDY3N6d0FRTFdxWFJtMlRVYnB6MzE1Y09mNEpDeDBZT3VBdVRCSU1sUGF6ZjJTVko3d2xPdklLcnNQQzk3anNZb0E5ajRuem1qSjZoZEtnRXd5NEh2bi1tdXNad25kQQ?oc=5",
+      "publishedAt": "2026-07-27T17:00:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t",
+      "localUrl": "/news/20260727-1-its-monday-and-we-have-a-big-week-ahead-for-the-clarity-act-as-cci-goes-back-t.html"
     }
   ]
 }
