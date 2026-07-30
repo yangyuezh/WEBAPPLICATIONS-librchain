@@ -1,13 +1,166 @@
 {
-  "updatedAt": "2026-07-30T12:01:45.765Z",
+  "updatedAt": "2026-07-30T14:27:59.375Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
+      "summary": "A governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, and retire 50 asset markets elsewhere. Deposits on some have fallen more than 90%.",
+      "url": "https://www.coindesk.com/tech/2026/07/30/the-economics-behind-the-aave-proposal-to-ditch-6-chains-that-earn-chump-change",
+      "publishedAt": "2026-07-30T14:25:41.000Z",
+      "keywords": [
+        "Tech",
+        "Aave",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260730-the-economics-behind-aave-proposal-to-ditch-6-chains-that-earn-loose-change-in-r",
+      "localUrl": "/news/20260730-the-economics-behind-aave-proposal-to-ditch-6-chains-that-earn-loose-change-in-r.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korean crypto trading surges amid stock market plunge",
+      "summary": "South Korean crypto exchanges saw a fresh spike in trading activity as the country’s stock market had several days of significant downside.",
+      "url": "https://cointelegraph.com/markets/south-korean-crypto-trading-surges-amid-stock-market-plunge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T14:10:31.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260730-south-korean-crypto-trading-surges-amid-stock-market-plunge",
+      "localUrl": "/news/20260730-south-korean-crypto-trading-surges-amid-stock-market-plunge.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan says fading Clarity Act odds weigh on crypto outlook",
+      "summary": "The bank said deteriorating prospects for U.S. market structure legislation remove a key catalyst for digital assets, even as tokenization and institutional adoption advance.",
+      "url": "https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+      "publishedAt": "2026-07-30T14:06:14.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "Regulation",
+        "JPMorgan",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook",
+      "localUrl": "/news/20260730-jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings",
+      "summary": "A new report from market maker Wintermute found that institutions now dominate crypto trading, driving lower volatility, selective altcoin flows and growth in tokenized assets.",
+      "url": "https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings",
+      "publishedAt": "2026-07-30T13:55:18.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260730-institutional-crypto-trading-hits-a-record-72-as-wall-street-calms-cryptos-wild-",
+      "localUrl": "/news/20260730-institutional-crypto-trading-hits-a-record-72-as-wall-street-calms-cryptos-wild-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum enters its second decade after a year of upheaval at the foundation",
+      "summary": "Few periods in Ethereum's 11-year history have brought as much change, from leadership shakeups at the Ethereum Foundation to institutional adoption, as the past year has.",
+      "url": "https://www.coindesk.com/tech/2026/07/30/ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
+      "publishedAt": "2026-07-30T13:52:37.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation",
+      "localUrl": "/news/20260730-ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T13:50:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260730-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260730-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitRiver founder charged in Russia over alleged $8M fraud",
+      "summary": "Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire Oleg Deripaska.",
+      "url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T13:26:06.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-bitriver-founder-charged-in-russia-over-alleged-8m-fraud",
+      "localUrl": "/news/20260730-bitriver-founder-charged-in-russia-over-alleged-8m-fraud.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
+      "summary": "Activist Samuel Tunick said his prosecution is meant to set a precedent against privacy and \"intimidate people.\"",
+      "url": "https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
+      "publishedAt": "2026-07-30T13:25:27.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
+      "localUrl": "/news/20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "To protect market integrity in our crypto up/down markets, we're updating how these markets resolve. What's changing: Starting August 7th at 12 am UTC, affected markets will no longer resolve based on a single snapshot-in-time price. Instead, resolution will u - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUk9FSmc3NGZ2cFhPQnNrZWFmOFFubi1lOURNUmo1Rnh5blRaajlSdUltYjhkUWluLUo5N0pVRDF0b2FvWG1NOW9DMjNjSG9kU2t0OUhENklneE5OS0NhZkliUEM2dw?oc=5\" target=\"_blank\">To protect market integrity …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MUk9FSmc3NGZ2cFhPQnNrZWFmOFFubi1lOURNUmo1Rnh5blRaajlSdUltYjhkUWluLUo5N0pVRDF0b2FvWG1NOW9DMjNjSG9kU2t0OUhENklneE5OS0NhZkliUEM2dw?oc=5",
+      "publishedAt": "2026-07-30T13:00:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-to-protect-market-integrity-in-our-crypto-updown-markets-were-updating-how-these",
+      "localUrl": "/news/20260730-to-protect-market-integrity-in-our-crypto-updown-markets-were-updating-how-these.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
+      "summary": "The platform faces a fine of up to $38 million for allegedly failing to remove terror-related content.",
+      "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
+      "publishedAt": "2026-07-30T12:09:18.000Z",
+      "keywords": [
+        "Policy",
+        "Telegram",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is",
+      "localUrl": "/news/20260730-telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
+      "summary": "Plus markets are rebounding after a slightly hawkish FOMC, BTC ETFs flip to inflows and MoonPay launches a new AI product + airdrop",
+      "url": "https://decrypt.co/374702/morning-minute-robinhood-posts-its-best-quarter-ever",
+      "publishedAt": "2026-07-30T12:01:11.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260730-morning-minute-robinhood-posts-its-best-quarter-ever",
+      "localUrl": "/news/20260730-morning-minute-robinhood-posts-its-best-quarter-ever.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
       "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.",
       "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T11:46:43.000Z",
+      "publishedAt": "2026-07-30T11:49:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -31,7 +184,7 @@
     {
       "source": "Cointelegraph",
       "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-      "summary": "The FT said Situational Awareness had approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
+      "summary": "The FT said Situational Awareness has approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
       "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-30T11:29:03.000Z",
       "keywords": [
@@ -132,8 +285,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
-      "summary": "S&P 500 futures gained 0.2% and Nasdaq 100 contracts rose 0.4% after the index had slipped into a correction, with Microsoft up 8% in premarket after its cloud unit grew at the fastest pace in four years while it held the line on spending.",
+      "title": "Live updates: Bitcoin rises above $64,000 as Microsoft's AI payoff lifts stocks",
+      "summary": "The Nasdaq is up more than 2%, with Microsoft higher by 15% after its cloud unit grew at the fastest pace in four years while it held the line on spending.",
       "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
       "publishedAt": "2026-07-30T09:01:13.000Z",
       "keywords": [
@@ -141,9 +294,9 @@
         "Live News",
         "live_news"
       ],
-      "category": "DeFi",
-      "slug": "20260730-live-updates-bitcoin-holds-near-64000-as-microsofts-ai-payoff-lifts-stocks",
-      "localUrl": "/news/20260730-live-updates-bitcoin-holds-near-64000-as-microsofts-ai-payoff-lifts-stocks.html"
+      "category": "市场",
+      "slug": "20260730-live-updates-bitcoin-rises-above-64000-as-microsofts-ai-payoff-lifts-stocks",
+      "localUrl": "/news/20260730-live-updates-bitcoin-rises-above-64000-as-microsofts-ai-payoff-lifts-stocks.html"
     },
     {
       "source": "CoinDesk",
@@ -268,6 +421,17 @@
       "category": "市场",
       "slug": "20260730-ether-xrp-flat-as-chip-stocks-steady-on-samsungs-250-fold-profit-surge",
       "localUrl": "/news/20260730-ether-xrp-flat-as-chip-stocks-steady-on-samsungs-250-fold-profit-surge.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "SEC Ready to Set Crypto Rules if Congress Stalls on CLARITY Act U.S. SEC Chair Paul Atkins said the agency is prepared to move ahead with crypto market rules within its authority if Congress fails to pass the CLARITY Act, although legislation would provide - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3SWFzOFN2aklqOW9VcHNoakN2QXNnaUlPcGhqOGxuNGk0dFRtM1dBQ21fbUd6NUlUTklaWGxzV21kbVBLeWs2SFE3V1dJSllQdGpKOHNJdC15eEdxc0lzeGJOTQ?oc=5\" target=\"_blank\">SEC Ready to Set Crypto Rules if…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3SWFzOFN2aklqOW9VcHNoakN2QXNnaUlPcGhqOGxuNGk0dFRtM1dBQ21fbUd6NUlUTklaWGxzV21kbVBLeWs2SFE3V1dJSllQdGpKOHNJdC15eEdxc0lzeGJOTQ?oc=5",
+      "publishedAt": "2026-07-30T04:40:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-sec-ready-to-set-crypto-rules-if-congress-stalls-on-clarity-act-us-sec-chair-pau",
+      "localUrl": "/news/20260730-sec-ready-to-set-crypto-rules-if-congress-stalls-on-clarity-act-us-sec-chair-pau.html"
     },
     {
       "source": "CoinDesk",
@@ -521,6 +685,17 @@
       "localUrl": "/news/20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo.html"
     },
     {
+      "source": "X Wire",
+      "title": "If you’re in crypto, let your AI agent use crypto - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5\" target=\"_blank\">If you’re in crypto, let yo…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5",
+      "publishedAt": "2026-07-29T18:59:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom",
+      "localUrl": "/news/20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
       "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
@@ -590,19 +765,6 @@
       "localUrl": "/news/20260729-binance-launches-regulated-gold-silver-options-through-adgm-exchange.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price wedged into ‘most divided’ FOMC as Iran war spikes oil prices 8%",
-      "summary": "Bitcoin traders weathered an oil-price surge and ongoing Asia chip-stock sell-off into the Federal Reserve interest-rate decision.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T17:06:55.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260729-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8",
-      "localUrl": "/news/20260729-bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices-8.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead",
       "summary": "Summary Institutions are shaping blockchain design: A new generation of hybrid blockchains are building capabilities that suit the privacy-forward needs… The post Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead a…",
@@ -649,30 +811,6 @@
       "localUrl": "/news/20260729-ai-book-burning-companies-are-destroying-millions-of-books-to-feed-chatbots.html"
     },
     {
-      "source": "X Wire",
-      "title": "$59.8 billion SoFi Bank CEO says \"SoFi actively supports passing the CLARITY Act to set clear rules of the road.\" \"The time is now for everyone to get together to support this.\" \"Congress should pass it immediately. Let’s Go! 🇺🇸\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiaUh1UldGRlQ3cUF4YjZkWDc3ZFlySl9QSVZfT1hQajBRUFVZQjRaZ0lJVHJTNEw2ejl4N1d5UHI2cloyV2NIU1dqX0Fnem11NUpXQW1Sbkx4NjhlXzE1SmtWcWlpZ2s?oc=5\" target=\"_blank\">$59.8 billion SoFi Bank CEO…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiaUh1UldGRlQ3cUF4YjZkWDc3ZFlySl9QSVZfT1hQajBRUFVZQjRaZ0lJVHJTNEw2ejl4N1d5UHI2cloyV2NIU1dqX0Fnem11NUpXQW1Sbkx4NjhlXzE1SmtWcWlpZ2s?oc=5",
-      "publishedAt": "2026-07-29T16:27:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-598-billion-sofi-bank-ceo-says-sofi-actively-supports-passing-the-clarity-act-to",
-      "localUrl": "/news/20260729-598-billion-sofi-bank-ceo-says-sofi-actively-supports-passing-the-clarity-act-to.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
-      "summary": "MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchases, token swaps and crosschain transactions while retaining custody of their assets.",
-      "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T16:20:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260729-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions",
-      "localUrl": "/news/20260729-moonpay-vault-enables-chatgpt-and-claude-users-to-authorize-crypto-transactions.html"
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
       "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
@@ -699,22 +837,6 @@
       "localUrl": "/news/20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
-      "summary": "Tokenization and 24/7 markets are reshaping finance, making always-on banking a reality.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
-      "publishedAt": "2026-07-29T16:09:32.000Z",
-      "keywords": [
-        "Markets",
-        "Tokenization",
-        "Morgan Stanley",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs",
-      "localUrl": "/news/20260729-the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs.html"
-    },
-    {
       "source": "X Wire",
       "title": "Our CEO @felix_fan, was onstage at Malaysia Blockchain Week to discuss why a wallet holds more opportunity for this generation than a bank. Both allow you to move money but only one where you control the keys. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cVhXYWkwajZuRzRQbVZnQkE0SS1Xb2dpSkp5VlN5SUlwZzlaY1NFejllc2JjTFlyWHJDdEthS1k3OG1pejBkc2xWcVhfV05ZLWc4QVNDQmF0akpXZTAzSTRR?oc=5\" target=\"_blank\">Our CEO @felix_fan, was onstage at…",
@@ -726,35 +848,6 @@
       "localUrl": "/news/20260729-our-ceo-felix_fan-was-onstage-at-malaysia-blockchain-week-to-discuss-why-a-walle.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Cost to insure AI debt reaches record high amid Asian semiconductor tumble",
-      "summary": "Seoul’s historic two-day crash and widening hyperscaler credit spreads suggest the AI trade’s leverage is starting to bite — in equities and in bonds.",
-      "url": "https://cointelegraph.com/markets/cost-to-insure-ai-debt-reaches-new-all-time-high-amid-asian-semiconductor-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T16:04:22.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260729-cost-to-insure-ai-debt-reaches-record-high-amid-asian-semiconductor-tumble",
-      "localUrl": "/news/20260729-cost-to-insure-ai-debt-reaches-record-high-amid-asian-semiconductor-tumble.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
-      "summary": "Today's bridge model won't scale as hundreds of companies issue their own stablecoins, fragmenting liquidity, Brale CEO Ben Milne said in an interview.",
-      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
-      "publishedAt": "2026-07-29T15:27:30.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Exclusive",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus",
-      "localUrl": "/news/20260729-stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Major venture capital firm DCG sends letter to the Senate supporting the Clarity Act: \"We respectfully urge you to schedule a floor vote on the Digital Asset Market Clarity Act before the August recess.\" 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WeVVpckMtZ3FNQzdOeEcxWnZkU1FOU1Z2YkpmdEtkaVFoOV9keFNjS2V3S211dktRNF93QlZPNGlESXQyX1dabC1qdjV2WUNaV3JxOTAxWFRYSlBXNmNEYnY5M3Y5cVE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Major venture…",
@@ -764,37 +857,6 @@
       "category": "X热点",
       "slug": "20260729-just-in-major-venture-capital-firm-dcg-sends-letter-to-the-senate-supporting-the",
       "localUrl": "/news/20260729-just-in-major-venture-capital-firm-dcg-sends-letter-to-the-senate-supporting-the.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
-      "summary": "Wall Street expects a sluggish second quarter from Coinbase as crypto trading activity cools, putting all eyes on and pending U.S. crypto legislation.",
-      "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
-      "publishedAt": "2026-07-29T15:15:08.000Z",
-      "keywords": [
-        "Markets",
-        "Coinbase",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260729-coinbase-hit-by-spot-trading-slump-wall-street-trims-expectations-ahead-of-earni",
-      "localUrl": "/news/20260729-coinbase-hit-by-spot-trading-slump-wall-street-trims-expectations-ahead-of-earni.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
-      "summary": "In this week's Crypto Long & Short, Immunefi's Mitchell Amador writes that most of 2026's stolen crypto is leaving through keys, signers and governance, not contract bugs, and explains why “we were audited” was never the same as “we are sa…",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
-      "publishedAt": "2026-07-29T15:13:07.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "Crypto Long & Short",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou",
-      "localUrl": "/news/20260729-crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou.html"
     },
     {
       "source": "X Wire",
@@ -817,21 +879,6 @@
       "category": "X热点",
       "slug": "20260729-just-in-sen-catherine-cortez-masto-backs-the-new-clarity-act-proposal-sent-to-th",
       "localUrl": "/news/20260729-just-in-sen-catherine-cortez-masto-backs-the-new-clarity-act-proposal-sent-to-th.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
-      "summary": "pcaversaccio (known as \"pc\"), is a prominent security researcher in the Ethereum ecosystem. His addition brings the foundation's board to four members.",
-      "url": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
-      "publishedAt": "2026-07-29T14:11:21.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260729-ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
-      "localUrl": "/news/20260729-ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes.html"
     },
     {
       "source": "X Wire",
@@ -926,28 +973,6 @@
       "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
     },
     {
-      "source": "X Wire",
-      "title": "Six years in crypto. Still unshaken. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5\" target=\"_blank\">Six years in crypto. Still unshaken.</…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11Wk5MN3BhRjZCRG9rMkV6ZVgybmdaYVVxbFJzbGlvNkl5Y2VicG1yYmxrOHFYWEowVHBHTUhWOGtVcmlQSFRwS3hXZl92SlhGRTdkNF9FWW11Z2ZHVmow?oc=5",
-      "publishedAt": "2026-07-29T11:34:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-six-years-in-crypto-still-unshaken-xcom",
-      "localUrl": "/news/20260729-six-years-in-crypto-still-unshaken-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BlackRock is selling Bitcoin - and buying ETH. So far this week BlackRock’s clients have net SOLD $60M of the IBIT ETF. However, they have bought more than $20M of ETH in the same time period. Are institutions rotating into ETH? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcGZWX3ZHQ2xNRWZfY3pDQ0gzZU5WcG9HNFhfYUJqQW1EUjYzYzJHcktFZG83aFJBaDBRaUExTEZzM2pZbjFpeTBvNkpEcVhWNVhkMWJoSmlBY2M?oc=5\" target=\"_blank\">BlackRock is selling Bitcoin - and buying E…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jcGZWX3ZHQ2xNRWZfY3pDQ0gzZU5WcG9HNFhfYUJqQW1EUjYzYzJHcktFZG83aFJBaDBRaUExTEZzM2pZbjFpeTBvNkpEcVhWNVhkMWJoSmlBY2M?oc=5",
-      "publishedAt": "2026-07-29T11:02:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-blackrock-is-selling-bitcoin-and-buying-eth-so-far-this-week-blackrocks-clients-",
-      "localUrl": "/news/20260729-blackrock-is-selling-bitcoin-and-buying-eth-so-far-this-week-blackrocks-clients-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
       "summary": "The suit claims Apple ranked a fake Sparrow Wallet app and put it in curated crypto collections alongside legitimate ones.",
@@ -1000,19 +1025,6 @@
       "localUrl": "/news/20260728-markets-dont-buy-the-us-ceasefire-against-iran-will-last.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
-      "summary": "Apple’s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
-      "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-      "publishedAt": "2026-07-28T22:08:04.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july",
-      "localUrl": "/news/20260728-apple-overtakes-nvidiawhich-will-be-bigger-by-end-of-july.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says he will support Congress in passing the Clarity Act: “I am committed to supporting Congress in advancing the CLARITY Act, including providing technical assistance.” - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC Chair Pau…",
@@ -1022,19 +1034,6 @@
       "category": "X热点",
       "slug": "20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari",
       "localUrl": "/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
-      "summary": "Anthropic’s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
-      "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
-      "publishedAt": "2026-07-28T20:45:38.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-",
-      "localUrl": "/news/20260728-claude-mythos-cracked-post-quantum-cryptography-that-humans-spent-years-failing-.html"
     },
     {
       "source": "X Wire",
