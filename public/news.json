@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-07-30T18:41:41.204Z",
+  "updatedAt": "2026-07-30T20:32:23.144Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "summary": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
+      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "publishedAt": "2026-07-30T20:18:33.000Z",
+      "keywords": [
+        "Markets",
+        "Coinbase",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260730-coinbase-sinks-5-after-missing-second-quarter-revenue-estimates",
+      "localUrl": "/news/20260730-coinbase-sinks-5-after-missing-second-quarter-revenue-estimates.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T20:10:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260730-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260730-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
+      "summary": "The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.",
+      "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T19:54:06.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-telegrams-pavel-durov-responds-to-russias-terrorism-designation",
+      "localUrl": "/news/20260730-telegrams-pavel-durov-responds-to-russias-terrorism-designation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senator Schumer proposes agency to address corruption, including Trump’s crypto ventures",
+      "summary": "The proposed legislation referenced Donald Trump’s disclosure of billions of dollars in crypto earnings in 2025, as well as his family’s business ties to foreign governments.",
+      "url": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T19:45:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-senator-schumer-proposes-agency-to-address-corruption-including-trumps-crypto-ve",
+      "localUrl": "/news/20260730-senator-schumer-proposes-agency-to-address-corruption-including-trumps-crypto-ve.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
+      "summary": "Scott Bessent urged the Senate to immediately vote on the crypto market structure bill, accusing Democrats of delaying the legislation for political reasons.",
+      "url": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
+      "publishedAt": "2026-07-30T19:32:19.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260730-treasury-secretary-invokes-bitcoin-creator-satoshi-nakamoto-in-plea-for-clarity-",
+      "localUrl": "/news/20260730-treasury-secretary-invokes-bitcoin-creator-satoshi-nakamoto-in-plea-for-clarity-.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Researchers Tried Letting AI Do Science. It Failed",
+      "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
+      "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
+      "publishedAt": "2026-07-30T19:13:46.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260730-researchers-tried-letting-ai-do-science-it-failed",
+      "localUrl": "/news/20260730-researchers-tried-letting-ai-do-science-it-failed.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
@@ -111,7 +191,7 @@
       "source": "CoinDesk",
       "title": "Ondo Finance weighs acquisition worth up to $500 million",
       "summary": "The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.",
-      "url": "https://www.coindesk.com/business/2026/07/29/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
+      "url": "https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million",
       "publishedAt": "2026-07-30T16:04:16.000Z",
       "keywords": [
         "Finance",
@@ -328,19 +408,6 @@
       "localUrl": "/news/20260730-ethereum-enters-its-second-decade-after-a-year-of-upheaval-at-the-foundation.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T13:50:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260730-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260730-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
       "summary": "Seoul police say the amount of the scam might rise to nearly $20 million. Two alleged scammers were detained and a third remains at-large.",
@@ -381,6 +448,17 @@
       "category": "监管",
       "slug": "20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
       "localUrl": "/news/20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is inside the gates of Wall Street. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5\" target=\"_blank\">Bitcoin is inside the gates of Wall Street.…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5",
+      "publishedAt": "2026-07-30T13:20:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom",
+      "localUrl": "/news/20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom.html"
     },
     {
       "source": "X Wire",
@@ -675,20 +753,6 @@
       "localUrl": "/news/20260730-us-sanctions-iranian-maritime-firm-says-it-accepted-bitcoin-to-evade-restriction.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
-      "summary": "Crypto's majors barely moved as Asia's semiconductor selloff eased. Most are still lower over the week, with HYPE down 8%.",
-      "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
-      "publishedAt": "2026-07-30T05:19:47.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260730-ether-xrp-flat-as-chip-stocks-steady-on-samsungs-250-fold-profit-surge",
-      "localUrl": "/news/20260730-ether-xrp-flat-as-chip-stocks-steady-on-samsungs-250-fold-profit-surge.html"
-    },
-    {
       "source": "X Wire",
       "title": "> be leopold aschenbrenner > work in crypto > join ftx > it blows up > work in ai > start situational awareness > it blows up that's cinema - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZRkdtZHdPOV9lby1JZWJBcDQtMXpRX055a0NOempnS0tVOWVBNTMyRHcxbUV3cWpFODFCbUIwM1FfLUp1Zmw5QS1Qak55QXREcVo1ZkNhdU8xQ1RsanFr?oc=5\" target=\"_blank\">> be leopold aschenbrenner > work in c…",
@@ -761,19 +825,6 @@
       "localUrl": "/news/20260730-ethereum-foundation-adds-seal-911-co-founder-to-board-as-privacy-focus-grows.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US arbitration giant launches specialist panel for crypto disputes",
-      "summary": "The American Arbitration Association’s Web3 Panel brings together specialists in blockchain, smart contracts, digital assets and autonomous transactions.",
-      "url": "https://cointelegraph.com/news/aaa-web3-panel-crypto-blockchain-disputes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T00:29:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260730-us-arbitration-giant-launches-specialist-panel-for-crypto-disputes",
-      "localUrl": "/news/20260730-us-arbitration-giant-launches-specialist-panel-for-crypto-disputes.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
       "summary": "A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.",
@@ -798,30 +849,6 @@
       "category": "市场",
       "slug": "20260729-robinhood-posts-best-quarter-ever-as-prediction-market-and-robinhood-chain-take-",
       "localUrl": "/news/20260729-robinhood-posts-best-quarter-ever-as-prediction-market-and-robinhood-chain-take-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
-      "summary": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
-      "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T21:53:35.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260729-robinhood-posts-record-quarter-as-crypto-revenue-slides-38",
-      "localUrl": "/news/20260729-robinhood-posts-record-quarter-as-crypto-revenue-slides-38.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 American financial technology Block officially endorses passing the Clarity Act: \"I'm writing to express our strong support for the Digital Asset Market (Clarity) Act, and to respectfully urge Senate floor consideration of this bill.\" 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJZTdmTFlBYXd1MlBabi03blNBcm44dy1CSnZPeVZySWM2cldHbGluMER0UFMtWWdrYi1MRDAxT1VlRDdrclp2ZC04MXZmRWpreTByT3hUcVk1S2pFanNVd1dKTUhlanM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 American fina…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJZTdmTFlBYXd1MlBabi03blNBcm44dy1CSnZPeVZySWM2cldHbGluMER0UFMtWWdrYi1MRDAxT1VlRDdrclp2ZC04MXZmRWpreTByT3hUcVk1S2pFanNVd1dKTUhlanM?oc=5",
-      "publishedAt": "2026-07-29T20:47:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-just-in-american-financial-technology-block-officially-endorses-passing-the-clar",
-      "localUrl": "/news/20260729-just-in-american-financial-technology-block-officially-endorses-passing-the-clar.html"
     },
     {
       "source": "Decrypt",
@@ -966,32 +993,6 @@
       "category": "X热点",
       "slug": "20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov",
       "localUrl": "/news/20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
-      "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
-      "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
-      "publishedAt": "2026-07-29T16:16:43.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260729-openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
-      "localUrl": "/news/20260729-openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
-      "summary": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
-      "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
-      "publishedAt": "2026-07-29T16:09:34.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
-      "localUrl": "/news/20260729-sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins.html"
     },
     {
       "source": "X Wire",
