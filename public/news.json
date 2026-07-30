@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-07-30T16:44:51.227Z",
+  "updatedAt": "2026-07-30T18:41:41.204Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+      "summary": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
+      "url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T17:38:13.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260730-aviva-investors-launches-tokenized-fund-after-central-bank-of-ireland-approval",
+      "localUrl": "/news/20260730-aviva-investors-launches-tokenized-fund-after-central-bank-of-ireland-approval.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
+      "summary": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
+      "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
+      "publishedAt": "2026-07-30T17:36:03.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "市场",
+      "slug": "20260730-bitcoin-quantum-threat-inches-closer-as-ibm-claims-trusted-quantum-advantage",
+      "localUrl": "/news/20260730-bitcoin-quantum-threat-inches-closer-as-ibm-claims-trusted-quantum-advantage.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
+      "summary": "Twenty-eight banks, including JPMorgan, Citi and UBS, moved real money across borders in a live test of blockchain-based settlement.",
+      "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
+      "publishedAt": "2026-07-30T17:34:03.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "JPMorgan",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260730-global-banks-test-tokenized-money-for-cross-border-payments-in-1-million-bis-pil",
+      "localUrl": "/news/20260730-global-banks-test-tokenized-money-for-cross-border-payments-in-1-million-bis-pil.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Canadian crypto ownership increases to 25%: Ontario survey",
+      "summary": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
+      "url": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-30T17:03:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260730-canadian-crypto-ownership-increases-to-25-ontario-survey",
+      "localUrl": "/news/20260730-canadian-crypto-ownership-increases-to-25-ontario-survey.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
+      "summary": "Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.",
+      "url": "https://decrypt.co/374736/ftc-sues-hims-hers-sexual-wellness-health-data-sharing-meta",
+      "publishedAt": "2026-07-30T16:44:11.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260730-your-sexual-wellness-pills-order-info-from-hims-got-shared-with-meta-says-ftc",
+      "localUrl": "/news/20260730-your-sexual-wellness-pills-order-info-from-hims-got-shared-with-meta-says-ftc.html"
+    },
     {
       "source": "Decrypt",
       "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
@@ -27,6 +95,17 @@
       "category": "市场",
       "slug": "20260730-bitcoin-stable-as-fed-fave-pce-inflation-sees-first-monthly-drop-in-six-years",
       "localUrl": "/news/20260730-bitcoin-stable-as-fed-fave-pce-inflation-sees-first-monthly-drop-in-six-years.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Weird but true: without crypto, the current AI boom would not have been possible. Today's data center buildout would've been impossible without Bitcoin miners spending a decade building the knowhow around power, sites, and scale in remote locations. Nvidi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xbE5NcGRnam5Mam52Z0hmcnlqS3FVQ19HcEpsbXNWYW45Vk54cmc1dEhNZGM0V3otQUV6aTJaSExlRFh4a0dZQ0JNS3RXUmNUeVhsbGh6Nkh1NVRJ?oc=5\" target=\"_blank\">Weird but true: without crypto, the curren…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xbE5NcGRnam5Mam52Z0hmcnlqS3FVQ19HcEpsbXNWYW45Vk54cmc1dEhNZGM0V3otQUV6aTJaSExlRFh4a0dZQ0JNS3RXUmNUeVhsbGh6Nkh1NVRJ?oc=5",
+      "publishedAt": "2026-07-30T16:12:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-weird-but-true-without-crypto-the-current-ai-boom-would-not-have-been-possible-t",
+      "localUrl": "/news/20260730-weird-but-true-without-crypto-the-current-ai-boom-would-not-have-been-possible-t.html"
     },
     {
       "source": "CoinDesk",
@@ -108,6 +187,17 @@
       "localUrl": "/news/20260730-elon-musks-xai-sues-minnesota-to-kill-the-uss-first-ai-nudification-law.html"
     },
     {
+      "source": "X Wire",
+      "title": "Ethereum Mainnet turns 11 today. The next chapter is already shipping. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5\" target=\"_blank\">Ethereum Mainnet turns 11 today. The ne…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5",
+      "publishedAt": "2026-07-30T15:27:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom",
+      "localUrl": "/news/20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
       "summary": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
@@ -150,6 +240,17 @@
       "category": "监管",
       "slug": "20260730-cmes-duffy-warns-an-overlooked-tax-risk-looms-over-us-perpetual-futures",
       "localUrl": "/news/20260730-cmes-duffy-warns-an-overlooked-tax-risk-looms-over-us-perpetual-futures.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Happy Birthday Ethereum, click the link to join the party. You get 11x11 pixels and 11 colors to make something fully onchain. Then you share your link. Everyone who draws through your link connects to yours. Everyone who draws through theirs connects to t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE05bjdlSW04SmRFV0pKRl84RDJNU0ZyRnE5MFlVT3N3blJfSDRqTTg3Y1J5LWFzMDFpRlhpUktlVm9YcGh5TlFrLXB0S3pFWC1PeHpFR1ZEdTJXTUtKbVR4T1Rn?oc=5\" target=\"_blank\">Happy Birthday Ethereum, click the…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05bjdlSW04SmRFV0pKRl84RDJNU0ZyRnE5MFlVT3N3blJfSDRqTTg3Y1J5LWFzMDFpRlhpUktlVm9YcGh5TlFrLXB0S3pFWC1PeHpFR1ZEdTJXTUtKbVR4T1Rn?oc=5",
+      "publishedAt": "2026-07-30T14:28:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-happy-birthday-ethereum-click-the-link-to-join-the-party-you-get-11x11-pixels-an",
+      "localUrl": "/news/20260730-happy-birthday-ethereum-click-the-link-to-join-the-party-you-get-11x11-pixels-an.html"
     },
     {
       "source": "CoinDesk",
@@ -280,6 +381,17 @@
       "category": "监管",
       "slug": "20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
       "localUrl": "/news/20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ethereum turns 11 today. Since mainnet went live on July 30, 2015, Ethereum has: → Never halted. Not once, across 11 years of continuous block production. → Become the settlement layer for stablecoins, holding more than half of all supply → Taken the larg - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMFZEQ1dMdFF4UFVRUGtRbi02NnJHWGJLQ1BBQkRhVFUwWUUtbDRiX21NSlYtR2pHRnkyMjFURno2Yzg5R1VVLU4tcmc5Nm5yQmNLdlBvdGkxdFc2YUNlaExMOUw?oc=5\" target=\"_blank\">Ethereum turns 11 today. Since …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMFZEQ1dMdFF4UFVRUGtRbi02NnJHWGJLQ1BBQkRhVFUwWUUtbDRiX21NSlYtR2pHRnkyMjFURno2Yzg5R1VVLU4tcmc5Nm5yQmNLdlBvdGkxdFc2YUNlaExMOUw?oc=5",
+      "publishedAt": "2026-07-30T12:43:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-ethereum-turns-11-today-since-mainnet-went-live-on-july-30-2015-ethereum-has-nev",
+      "localUrl": "/news/20260730-ethereum-turns-11-today-since-mainnet-went-live-on-july-30-2015-ethereum-has-nev.html"
     },
     {
       "source": "CoinDesk",
@@ -578,6 +690,17 @@
     },
     {
       "source": "X Wire",
+      "title": "> be leopold aschenbrenner > work in crypto > join ftx > it blows up > work in ai > start situational awareness > it blows up that's cinema - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZRkdtZHdPOV9lby1JZWJBcDQtMXpRX055a0NOempnS0tVOWVBNTMyRHcxbUV3cWpFODFCbUIwM1FfLUp1Zmw5QS1Qak55QXREcVo1ZkNhdU8xQ1RsanFr?oc=5\" target=\"_blank\">> be leopold aschenbrenner > work in c…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZRkdtZHdPOV9lby1JZWJBcDQtMXpRX055a0NOempnS0tVOWVBNTMyRHcxbUV3cWpFODFCbUIwM1FfLUp1Zmw5QS1Qak55QXREcVo1ZkNhdU8xQ1RsanFr?oc=5",
+      "publishedAt": "2026-07-30T04:48:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-be-leopold-aschenbrenner-work-in-crypto-join-ftx-it-blows-up-work-in-ai-start-si",
+      "localUrl": "/news/20260730-be-leopold-aschenbrenner-work-in-crypto-join-ftx-it-blows-up-work-in-ai-start-si.html"
+    },
+    {
+      "source": "X Wire",
       "title": "SEC Ready to Set Crypto Rules if Congress Stalls on CLARITY Act U.S. SEC Chair Paul Atkins said the agency is prepared to move ahead with crypto market rules within its authority if Congress fails to pass the CLARITY Act, although legislation would provide - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3SWFzOFN2aklqOW9VcHNoakN2QXNnaUlPcGhqOGxuNGk0dFRtM1dBQ21fbUd6NUlUTklaWGxzV21kbVBLeWs2SFE3V1dJSllQdGpKOHNJdC15eEdxc0lzeGJOTQ?oc=5\" target=\"_blank\">SEC Ready to Set Crypto Rules if…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3SWFzOFN2aklqOW9VcHNoakN2QXNnaUlPcGhqOGxuNGk0dFRtM1dBQ21fbUd6NUlUTklaWGxzV21kbVBLeWs2SFE3V1dJSllQdGpKOHNJdC15eEdxc0lzeGJOTQ?oc=5",
@@ -586,20 +709,6 @@
       "category": "X热点",
       "slug": "20260730-sec-ready-to-set-crypto-rules-if-congress-stalls-on-clarity-act-us-sec-chair-pau",
       "localUrl": "/news/20260730-sec-ready-to-set-crypto-rules-if-congress-stalls-on-clarity-act-us-sec-chair-pau.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-      "summary": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
-      "url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-      "publishedAt": "2026-07-30T04:16:30.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260730-bitcoins-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-h",
-      "localUrl": "/news/20260730-bitcoins-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-h.html"
     },
     {
       "source": "Cointelegraph",
@@ -704,17 +813,15 @@
       "localUrl": "/news/20260729-robinhood-posts-record-quarter-as-crypto-revenue-slides-38.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
-      "summary": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August, allowing it to offer prediction markets.",
-      "url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T21:52:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260729-binanceus-to-attempt-prediction-markets-entry-as-cftc-licensed-entity-says-ceo",
-      "localUrl": "/news/20260729-binanceus-to-attempt-prediction-markets-entry-as-cftc-licensed-entity-says-ceo.html"
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 American financial technology Block officially endorses passing the Clarity Act: \"I'm writing to express our strong support for the Digital Asset Market (Clarity) Act, and to respectfully urge Senate floor consideration of this bill.\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJZTdmTFlBYXd1MlBabi03blNBcm44dy1CSnZPeVZySWM2cldHbGluMER0UFMtWWdrYi1MRDAxT1VlRDdrclp2ZC04MXZmRWpreTByT3hUcVk1S2pFanNVd1dKTUhlanM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 American fina…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJZTdmTFlBYXd1MlBabi03blNBcm44dy1CSnZPeVZySWM2cldHbGluMER0UFMtWWdrYi1MRDAxT1VlRDdrclp2ZC04MXZmRWpreTByT3hUcVk1S2pFanNVd1dKTUhlanM?oc=5",
+      "publishedAt": "2026-07-29T20:47:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260729-just-in-american-financial-technology-block-officially-endorses-passing-the-clar",
+      "localUrl": "/news/20260729-just-in-american-financial-technology-block-officially-endorses-passing-the-clar.html"
     },
     {
       "source": "Decrypt",
@@ -728,30 +835,6 @@
       "category": "综合",
       "slug": "20260729-flock-cameras-face-growing-backlash-as-privacy-concerns-reach-capitol-hill",
       "localUrl": "/news/20260729-flock-cameras-face-growing-backlash-as-privacy-concerns-reach-capitol-hill.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto entering biggest consolidation phase in history, says ARK analyst",
-      "summary": "ARK Invest’s Lorenzo Valente says revenue is becoming increasingly concentrated among a handful of crypto protocols, setting the stage for more mergers, acquisitions and exchange closures.",
-      "url": "https://cointelegraph.com/news/crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-29T20:40:38.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260729-crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst",
-      "localUrl": "/news/20260729-crypto-entering-biggest-consolidation-phase-in-history-says-ark-analyst.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Just In: Binance US Plans to Apply for CFTC DCM Status to Offer Prediction Markets Crypto journalist Eleanor Terrett reported that Binance US plans to apply to the CFTC in August for designated contract market status, with the goal of offering prediction marke - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6ejR4eUtMcDdTTDhwQTFFRXZLQWE4Q19kWlFyYTRpTlcwUkVDVzMxWEt0NXJwb29XcGQtX0g2dDExTjFGQzNUZkR6cFdlLWNQdXNSQkJfWmFpdjZuMVlhOTFwaw?oc=5\" target=\"_blank\">Just In: Binance US Plans to App…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6ejR4eUtMcDdTTDhwQTFFRXZLQWE4Q19kWlFyYTRpTlcwUkVDVzMxWEt0NXJwb29XcGQtX0g2dDExTjFGQzNUZkR6cFdlLWNQdXNSQkJfWmFpdjZuMVlhOTFwaw?oc=5",
-      "publishedAt": "2026-07-29T20:10:42.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-just-in-binance-us-plans-to-apply-for-cftc-dcm-status-to-offer-prediction-market",
-      "localUrl": "/news/20260729-just-in-binance-us-plans-to-apply-for-cftc-dcm-status-to-offer-prediction-market.html"
     },
     {
       "source": "Decrypt",
@@ -999,32 +1082,6 @@
       "localUrl": "/news/20260729-16-years-ago-today-satoshi-nakamoto-said-if-you-dont-believe-me-or-dont-get-it-i.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography",
-      "summary": "Plus markets are mixed ahead of FOMC; new Wall St. giants are backing the Clarity Act; and Zcash officially launched its Ironwood upgrade",
-      "url": "https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography",
-      "publishedAt": "2026-07-29T12:15:00.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "基础设施",
-      "slug": "20260729-morning-minute-claude-mythos-breaks-post-quantum-cryptography",
-      "localUrl": "/news/20260729-morning-minute-claude-mythos-breaks-post-quantum-cryptography.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
-      "summary": "The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.",
-      "url": "https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report",
-      "publishedAt": "2026-07-29T12:10:26.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "综合",
-      "slug": "20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report",
-      "localUrl": "/news/20260729-crypto-scams-cost-americans-an-estimated-807b-in-2025-report.html"
-    },
-    {
       "source": "X Wire",
       "title": "We’re pleased to welcome @pcaversaccio to the EF Board. A longtime Ethereum contributor, co-founder of SEAL 911, Silviculture Society member, and privacy and security maximalist, pc has consistently championed the values at Ethereum’s core. We look fo - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE91RWg3bnpUQUEyYkc0RzZpRThhVUp2VV8zQ3dQclB0VTd0ZmE2ZEE0RjNmVHBOTUMzRnFRblpROWY4X29XX2hQMnliZTN3UHg1UUYxVlEtQ0VYSVRwck11WVJSRQ?oc=5\" target=\"_blank\">We’re pleased to welcome @pcaver…",
@@ -1034,17 +1091,6 @@
       "category": "X热点",
       "slug": "20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib",
       "localUrl": "/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#Bitcoin Could $28k be the cycle bottom? Absolutely not my base case scenario. However, some would argue that a 55% drawdown isn't deep enough for a typical BTC bear market. Interestingly, a move toward $28k would also align with the lower boundary o - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZHY5bTZjR3lXNlhreHVhNTFZZC1NVTRVNU1TbXZ1QlpsU1hsY0hkQ1BWODNTOXBZSWFnWnRrRHJ2cHVsUnFEY3k2NDY4elpHVXpKNEt4d2huUTZJOXB1VGJn?oc=5\" target=\"_blank\">#Bitcoin Could $28k be the cycle b…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwZHY5bTZjR3lXNlhreHVhNTFZZC1NVTRVNU1TbXZ1QlpsU1hsY0hkQ1BWODNTOXBZSWFnWnRrRHJ2cHVsUnFEY3k2NDY4elpHVXpKNEt4d2huUTZJOXB1VGJn?oc=5",
-      "publishedAt": "2026-07-29T09:23:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-bitcoin-could-28k-be-the-cycle-bottom-absolutely-not-my-base-case-scenario-howev",
-      "localUrl": "/news/20260729-bitcoin-could-28k-be-the-cycle-bottom-absolutely-not-my-base-case-scenario-howev.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1058,50 +1104,6 @@
       "category": "基础设施",
       "slug": "20260729-ethereum-foundation-board-update",
       "localUrl": "/news/20260729-ethereum-foundation-board-update.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 SEC Chair Paul Atkins says he will support Congress in passing the Clarity Act: “I am committed to supporting Congress in advancing the CLARITY Act, including providing technical assistance.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC Chair Pau…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oTzVnaFZwV2ZBQVlNd3FZbmZ5VDZCRVpNNi1tZFRxTmxfR210Y1JyZHZyb1NiMHpCNWRHQVpGM3pLNkFMLUIwSTBIREVtSkJHd05wTnBuQ3JqbG1Ob1FnWlFHUEtkTlE?oc=5",
-      "publishedAt": "2026-07-28T21:03:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari",
-      "localUrl": "/news/20260728-just-in-sec-chair-paul-atkins-says-he-will-support-congress-in-passing-the-clari.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Sen. Cynthia Lummis lists 5 major financial institutions now supporting the CLARITY ACT: ✅BlackRock ✅Goldman Sachs ✅Fidelity ✅Franklin Templeton ✅SoFi Wall Street says pass it 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Cynthia …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XMThEUmgwelVRVFlzaERvWUNsMzN3Z1MzN1doOUs5NVRtQ2g0LXdObEJwdzhSanZKRDQzeUlIbkJkQ1RFdVZGYU1HQmZ3ZWUzQUJNbFJfaDhNU2ZoUm1fUFItRVBMbjQ?oc=5",
-      "publishedAt": "2026-07-28T17:50:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t",
-      "localUrl": "/news/20260728-just-in-sen-cynthia-lummis-lists-5-major-financial-institutions-now-supporting-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Keep Bitcoin’s base layer simple, neutral, scarce, and secure. Keep innovation at the edges, where adoption is voluntary and failure is local. Protocol changes must be rare, conservative, and driven by necessity, not ambition. Defend Bitcoin’s constitution. Defe - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5\" target=\"_blank\">Keep Bitcoin’s base layer simple, neutral, …",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWTzZwZzNiTFlGNm5oVk1lejlOTzRqSnBoQk1Jc1Q1ODM5VXNOR1ZuLTVPYjd0d2MtdnhLN1hveDBtdXhIYWtvaVgxYjJJM3RFM0hQbHBwYWdTUVE?oc=5",
-      "publishedAt": "2026-07-28T16:27:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the",
-      "localUrl": "/news/20260728-keep-bitcoins-base-layer-simple-neutral-scarce-and-secure-keep-innovation-at-the.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin has won. Now it must survive victory. Its gravest threat is not an enemy at the gates, but corruption from within: factions that invent pretexts, rewrite the rules, and seize economic rights until freedom becomes permission and law becomes loot. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5\" target=\"_blank\">Bitcoin has won. Now it must survive victor…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qcy0tZDdDNUtDUDRqSEc1WTU4WEdUcWNzS3JodmQyUGRKYVR3bHpsZEVNei12N2J6aVctS2dtaENTZEEzMTJ3NTM5bWJjb1JCUmM5SGZtUjlLZTg?oc=5",
-      "publishedAt": "2026-07-28T16:27:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a",
-      "localUrl": "/news/20260728-bitcoin-has-won-now-it-must-survive-victory-its-gravest-threat-is-not-an-enemy-a.html"
     },
     {
       "source": "Chainalysis Blog",
