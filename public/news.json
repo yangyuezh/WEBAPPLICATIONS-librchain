@@ -1,7 +1,44 @@
 {
-  "updatedAt": "2026-07-31T00:13:17.932Z",
+  "updatedAt": "2026-07-31T04:34:51.490Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+      "summary": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
+      "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-31T02:38:09.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain",
+      "localUrl": "/news/20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+      "summary": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
+      "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-31T00:31:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260731-bhutans-gelephu-taps-3iq-to-manage-part-of-bitcoin-treasury",
+      "localUrl": "/news/20260731-bhutans-gelephu-taps-3iq-to-manage-part-of-bitcoin-treasury.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Coldcard issues Mk3 seed warning after 594 BTC theft raises security concerns Coinkite warned that wallets created on Coldcard Mk3 devices running firmware versions 4.0.1 through 5.0.3 may be at risk due to a seed generation flaw. Users are advised to mi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DTVZwaktteFV0N2NIVHNvWGRjYm5hNEdzazFPTHVhOENJcXNkOHdCbVlFNUlWa0c0WmV0akpMMmxrcGtYWTRKdWRrS3dhSkdMeDd5VEU4XzNSQ2x3aE54dzFUaw?oc=5\" target=\"_blank\">Coldcard issues Mk3 seed warning…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DTVZwaktteFV0N2NIVHNvWGRjYm5hNEdzazFPTHVhOENJcXNkOHdCbVlFNUlWa0c0WmV0akpMMmxrcGtYWTRKdWRrS3dhSkdMeDd5VEU4XzNSQ2x3aE54dzFUaw?oc=5",
+      "publishedAt": "2026-07-31T00:00:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-coldcard-issues-mk3-seed-warning-after-594-btc-theft-raises-security-concerns-co",
+      "localUrl": "/news/20260731-coldcard-issues-mk3-seed-warning-after-594-btc-theft-raises-security-concerns-co.html"
+    },
     {
       "source": "X Wire",
       "title": "⚡️ DID YOU KNOW? Crypto tax rates range from 0% in the UAE and Singapore to as high as 55% in Japan. - x.com",
@@ -256,6 +293,28 @@
       "localUrl": "/news/20260730-cathie-woods-ark-invest-sells-bitmine-while-adding-to-coinbase-and-circle-holdin.html"
     },
     {
+      "source": "X Wire",
+      "title": "More than a year ago, the House passed the Clarity Act. There’s been progress since — thousands of hours of bipartisan negotiations took place at the staff and Member levels. The Senate Committees on Banking and Agriculture advanced their respective title - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5\" target=\"_blank\">More than a year ago, the H…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5",
+      "publishedAt": "2026-07-30T16:32:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-more-than-a-year-ago-the-house-passed-the-clarity-act-theres-been-progress-since",
+      "localUrl": "/news/20260730-more-than-a-year-ago-the-house-passed-the-clarity-act-theres-been-progress-since.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Excited to be powering crypto adoption for major financial players like @MorganStanley - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nSDNlZE1mUkhtSGFITEdCSFJycUVTVGk3X3hpczd1MHR2V05Wd2VSYUg0bnBUOGh6LWlQbXdTZFBDSUkwaEFNOWRRU2JOV0hXaC1uN2xiX2E0aVBaWHdlQk1NbWk5VFU?oc=5\" target=\"_blank\">Excited to be powering cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nSDNlZE1mUkhtSGFITEdCSFJycUVTVGk3X3hpczd1MHR2V05Wd2VSYUg0bnBUOGh6LWlQbXdTZFBDSUkwaEFNOWRRU2JOV0hXaC1uN2xiX2E0aVBaWHdlQk1NbWk5VFU?oc=5",
+      "publishedAt": "2026-07-30T16:26:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-excited-to-be-powering-crypto-adoption-for-major-financial-players-like-morganst",
+      "localUrl": "/news/20260730-excited-to-be-powering-crypto-adoption-for-major-financial-players-like-morganst.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
       "summary": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
@@ -383,6 +442,17 @@
       "localUrl": "/news/20260730-australia-sues-telegram-for-38m-over-pro-terror-videos.html"
     },
     {
+      "source": "X Wire",
+      "title": "Capitulation is no where to be seen. Bitcoin holders just started to realized losses on a yearly basis, -136K Bitcoin. However, previous cycles bottomed at -1.3M and -3.7M Bitcoin of annual realized losses. Either this is the most benign cycle in terms of realized - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE94emxhNFdMcFFPM2prZGR3N0hZZ0x3NU9KWU5sSXBUR1BLU1BqNXA0VGYwcDBPTzM4SHZhWktLUEFlc0Zla2hpU1E1Q3BGWVR3Rmg3NnhkU3A0c0F3dTlB?oc=5\" target=\"_blank\">Capitulation is no where to be seen. B…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94emxhNFdMcFFPM2prZGR3N0hZZ0x3NU9KWU5sSXBUR1BLU1BqNXA0VGYwcDBPTzM4SHZhWktLUEFlc0Zla2hpU1E1Q3BGWVR3Rmg3NnhkU3A0c0F3dTlB?oc=5",
+      "publishedAt": "2026-07-30T15:15:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-capitulation-is-no-where-to-be-seen-bitcoin-holders-just-started-to-realized-los",
+      "localUrl": "/news/20260730-capitulation-is-no-where-to-be-seen-bitcoin-holders-just-started-to-realized-los.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Is the Clarity Act dead?",
       "summary": "",
@@ -397,6 +467,17 @@
       "category": "综合",
       "slug": "20260730-crypto-for-advisors-is-the-clarity-act-dead",
       "localUrl": "/news/20260730-crypto-for-advisors-is-the-clarity-act-dead.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 INSIGHT: White House crypto advisor Patrick Witt says the CLARITY Act is a pro-law enforcement bill. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbURXajBTRTE4a2lTOE1TQWhUS1ZKcGhFcjJqb19pcHJSZE83ZHhkU0lfOGVXbDNXT21USk5ZTVdKTWQ3cWdrYndaekhXenBNM3JVd0dLMlFjdzRVbnZXelFGSW4?oc=5\" target=\"_blank\">🔥 INSIGHT: White House crypto …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbURXajBTRTE4a2lTOE1TQWhUS1ZKcGhFcjJqb19pcHJSZE83ZHhkU0lfOGVXbDNXT21USk5ZTVdKTWQ3cWdrYndaekhXenBNM3JVd0dLMlFjdzRVbnZXelFGSW4?oc=5",
+      "publishedAt": "2026-07-30T15:00:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-insight-white-house-crypto-advisor-patrick-witt-says-the-clarity-act-is-a-pro-la",
+      "localUrl": "/news/20260730-insight-white-house-crypto-advisor-patrick-witt-says-the-clarity-act-is-a-pro-la.html"
     },
     {
       "source": "CoinDesk",
@@ -565,17 +646,6 @@
       "category": "综合",
       "slug": "20260730-everything-is-becoming-a-perp",
       "localUrl": "/news/20260730-everything-is-becoming-a-perp.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: White House crypto adviser @patrickjwitt calls out the banking industry for continuing to oppose the CLARITY Act, even though it already bans interest-bearing stablecoins, a provision banks had demanded. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zQlVWNTRiV0RRaTRyYW9NbGFiWjR5cFZoWkdkUGw2UTg5TFRJbzI1bUd5UEZMT3c3amE5aTBkVkpUUkJ2RHV1WXVyejdWbVNncjJuRVBfZG1vTy1DSlE?oc=5\" target=\"_blank\">NEW: White House crypto adviser @patric…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zQlVWNTRiV0RRaTRyYW9NbGFiWjR5cFZoWkdkUGw2UTg5TFRJbzI1bUd5UEZMT3c3amE5aTBkVkpUUkJ2RHV1WXVyejdWbVNncjJuRVBfZG1vTy1DSlE?oc=5",
-      "publishedAt": "2026-07-30T12:58:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-new-white-house-crypto-adviser-patrickjwitt-calls-out-the-banking-industry-for-c",
-      "localUrl": "/news/20260730-new-white-house-crypto-adviser-patrickjwitt-calls-out-the-banking-industry-for-c.html"
     },
     {
       "source": "X Wire",
@@ -812,32 +882,6 @@
       "localUrl": "/news/20260730-chinese-newspaper-warns-of-bitcoin-extortion-scam-using-its-name.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
-      "summary": "US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitcoin dipping below $64,000, ending a four-session outflow streak.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T07:05:23.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260730-bitcoin-etf-inflows-return-as-ether-funds-slip-into-outflows",
-      "localUrl": "/news/20260730-bitcoin-etf-inflows-return-as-ether-funds-slip-into-outflows.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea report proposes stablecoin rules before crypto law",
-      "summary": "Policy report recommends interim licensing guidance, greater flexibility for stablecoin issuers and rules ahead of the Digital Asset Basic Act.",
-      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T05:33:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260730-south-korea-report-proposes-stablecoin-rules-before-crypto-law",
-      "localUrl": "/news/20260730-south-korea-report-proposes-stablecoin-rules-before-crypto-law.html"
-    },
-    {
       "source": "X Wire",
       "title": "SEC Ready to Set Crypto Rules if Congress Stalls on CLARITY Act U.S. SEC Chair Paul Atkins said the agency is prepared to move ahead with crypto market rules within its authority if Congress fails to pass the CLARITY Act, although legislation would provide - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3SWFzOFN2aklqOW9VcHNoakN2QXNnaUlPcGhqOGxuNGk0dFRtM1dBQ21fbUd6NUlUTklaWGxzV21kbVBLeWs2SFE3V1dJSllQdGpKOHNJdC15eEdxc0lzeGJOTQ?oc=5\" target=\"_blank\">SEC Ready to Set Crypto Rules if…",
@@ -993,50 +1037,6 @@
       "category": "综合",
       "slug": "20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs",
       "localUrl": "/news/20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Dear Fiat24 community, First of all, thank you for the trust you've placed in us over the years. Since 14 July, we have temporarily paused Crypto Top-Up, and we know this has been inconvenient for many of you. We sincerely apologize. From day one, Complia - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMGM0bndVaFdBQ29XU2ZCV05mSWd0OEhqNnZqQ290dG4zeHpHZHVNOGQ1YUkwQ04wc041VEo5bVZWU3hnZFljS3JwVC1HNTRMWjFjdWtybFNZT0FnSVY3OXo3eFd3Zw?oc=5\" target=\"_blank\">Dear Fiat24 community, First…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMGM0bndVaFdBQ29XU2ZCV05mSWd0OEhqNnZqQ290dG4zeHpHZHVNOGQ1YUkwQ04wc041VEo5bVZWU3hnZFljS3JwVC1HNTRMWjFjdWtybFNZT0FnSVY3OXo3eFd3Zw?oc=5",
-      "publishedAt": "2026-07-29T16:34:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov",
-      "localUrl": "/news/20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Our CEO @felix_fan, was onstage at Malaysia Blockchain Week to discuss why a wallet holds more opportunity for this generation than a bank. Both allow you to move money but only one where you control the keys. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cVhXYWkwajZuRzRQbVZnQkE0SS1Xb2dpSkp5VlN5SUlwZzlaY1NFejllc2JjTFlyWHJDdEthS1k3OG1pejBkc2xWcVhfV05ZLWc4QVNDQmF0akpXZTAzSTRR?oc=5\" target=\"_blank\">Our CEO @felix_fan, was onstage at…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cVhXYWkwajZuRzRQbVZnQkE0SS1Xb2dpSkp5VlN5SUlwZzlaY1NFejllc2JjTFlyWHJDdEthS1k3OG1pejBkc2xWcVhfV05ZLWc4QVNDQmF0akpXZTAzSTRR?oc=5",
-      "publishedAt": "2026-07-29T16:04:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-our-ceo-felix_fan-was-onstage-at-malaysia-blockchain-week-to-discuss-why-a-walle",
-      "localUrl": "/news/20260729-our-ceo-felix_fan-was-onstage-at-malaysia-blockchain-week-to-discuss-why-a-walle.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Major venture capital firm DCG sends letter to the Senate supporting the Clarity Act: \"We respectfully urge you to schedule a floor vote on the Digital Asset Market Clarity Act before the August recess.\" 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WeVVpckMtZ3FNQzdOeEcxWnZkU1FOU1Z2YkpmdEtkaVFoOV9keFNjS2V3S211dktRNF93QlZPNGlESXQyX1dabC1qdjV2WUNaV3JxOTAxWFRYSlBXNmNEYnY5M3Y5cVE?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Major venture…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WeVVpckMtZ3FNQzdOeEcxWnZkU1FOU1Z2YkpmdEtkaVFoOV9keFNjS2V3S211dktRNF93QlZPNGlESXQyX1dabC1qdjV2WUNaV3JxOTAxWFRYSlBXNmNEYnY5M3Y5cVE?oc=5",
-      "publishedAt": "2026-07-29T15:21:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-just-in-major-venture-capital-firm-dcg-sends-letter-to-the-senate-supporting-the",
-      "localUrl": "/news/20260729-just-in-major-venture-capital-firm-dcg-sends-letter-to-the-senate-supporting-the.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Sen. Catherine Cortez Masto backs the new CLARITY ACT proposal sent to the White House saying: \"We feel good about the chance to resolve this issue once and for all\" - POLITICO 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVllzY2pZUjEwWGthclV0cjFWTjZkUzdGcThkLTZtWkIxclRlTUxBci1ON2JCdUlEU2w4eV9KV25sRGZKU3d1dnZCVDFvM2xtZkdBd2FfMzJmdllSZ3hhUDZNWG9IRVU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Catherin…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVllzY2pZUjEwWGthclV0cjFWTjZkUzdGcThkLTZtWkIxclRlTUxBci1ON2JCdUlEU2w4eV9KV25sRGZKU3d1dnZCVDFvM2xtZkdBd2FfMzJmdllSZ3hhUDZNWG9IRVU?oc=5",
-      "publishedAt": "2026-07-29T14:19:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-just-in-sen-catherine-cortez-masto-backs-the-new-clarity-act-proposal-sent-to-th",
-      "localUrl": "/news/20260729-just-in-sen-catherine-cortez-masto-backs-the-new-clarity-act-proposal-sent-to-th.html"
     },
     {
       "source": "X Wire",
