@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-07-31T19:48:19.626Z",
+  "updatedAt": "2026-07-31T21:17:27.296Z",
   "total": 86,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
+      "summary": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
+      "publishedAt": "2026-07-31T20:50:58.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Market Wrap",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy",
+      "localUrl": "/news/20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
+      "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+      "publishedAt": "2026-07-31T20:32:50.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260731-google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears",
+      "localUrl": "/news/20260731-google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
+      "summary": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.",
+      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-31T20:10:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260731-bank-of-italy-finds-no-consistent-cost-advantage-for-stablecoin-remittances",
+      "localUrl": "/news/20260731-bank-of-italy-finds-no-consistent-cost-advantage-for-stablecoin-remittances.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Music Company Suno Loses Copyright Case in Germany",
+      "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
+      "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+      "publishedAt": "2026-07-31T20:03:22.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260731-ai-music-company-suno-loses-copyright-case-in-germany",
+      "localUrl": "/news/20260731-ai-music-company-suno-loses-copyright-case-in-germany.html"
+    },
     {
       "source": "Decrypt",
       "title": "US Is Banning Foreign Robots—Even Roombas",
@@ -18,7 +73,7 @@
     {
       "source": "Cointelegraph",
       "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "summary": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to said the company growing too quickly.",
+      "summary": "Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.",
       "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-31T19:16:19.000Z",
       "keywords": [
@@ -153,6 +208,17 @@
       "category": "DeFi",
       "slug": "20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative",
       "localUrl": "/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Coinbase Chief Policy Officer talks CLARITY ACT progress on The Hill: \"\"We've got ethics nailed down, we've got nominations nailed down, we've got a bipartisan bill on the substance, we should be good to go\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Coinbase Chie…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5",
+      "publishedAt": "2026-07-31T16:07:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev",
+      "localUrl": "/news/20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev.html"
     },
     {
       "source": "Cointelegraph",
@@ -774,17 +840,15 @@
       "localUrl": "/news/20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
-      "summary": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
-      "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T00:31:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260731-bhutans-gelephu-taps-3iq-to-manage-part-of-bitcoin-treasury",
-      "localUrl": "/news/20260731-bhutans-gelephu-taps-3iq-to-manage-part-of-bitcoin-treasury.html"
+      "source": "X Wire",
+      "title": "BITCOIN CORE DEVELOPER: “SORRY, THIS IS THE TIME TO PANIC” OVER COLDCARD MK2/MK3 VULNERABILITY Bitcoin Core developer instagibbs says he successfully reproduced the reported COLDCARD vulnerability on a freshly initialized MK3 devi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5\" target=\"_blank\">BITCOIN CORE DEVELOPER: “SOR…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5",
+      "publishedAt": "2026-07-30T23:00:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln",
+      "localUrl": "/news/20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln.html"
     },
     {
       "source": "X Wire",
@@ -809,22 +873,6 @@
       "category": "DeFi",
       "slug": "20260730-coinbase-misses-on-q2-earnings-as-crypto-trading-activity-slows",
       "localUrl": "/news/20260730-coinbase-misses-on-q2-earnings-as-crypto-trading-activity-slows.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
-      "summary": "The world's largest corporate bitcoin holder says it has built a cash reserve covering more than two years of dividend payments after investors questioned its growing stack of preferred securities.",
-      "url": "https://www.coindesk.com/markets/2026/07/30/strategy-books-usd8-2-billion-second-quarter-loss-on-bitcoin-price-decline",
-      "publishedAt": "2026-07-30T20:32:13.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "MicroStrategy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260730-strategy-books-82-billion-q2-loss-on-bitcoin-price-decline",
-      "localUrl": "/news/20260730-strategy-books-82-billion-q2-loss-on-bitcoin-price-decline.html"
     },
     {
       "source": "Decrypt",
@@ -915,17 +963,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Excited to be powering crypto adoption for major financial players like @MorganStanley - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nSDNlZE1mUkhtSGFITEdCSFJycUVTVGk3X3hpczd1MHR2V05Wd2VSYUg0bnBUOGh6LWlQbXdTZFBDSUkwaEFNOWRRU2JOV0hXaC1uN2xiX2E0aVBaWHdlQk1NbWk5VFU?oc=5\" target=\"_blank\">Excited to be powering cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nSDNlZE1mUkhtSGFITEdCSFJycUVTVGk3X3hpczd1MHR2V05Wd2VSYUg0bnBUOGh6LWlQbXdTZFBDSUkwaEFNOWRRU2JOV0hXaC1uN2xiX2E0aVBaWHdlQk1NbWk5VFU?oc=5",
-      "publishedAt": "2026-07-30T16:26:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-excited-to-be-powering-crypto-adoption-for-major-financial-players-like-morganst",
-      "localUrl": "/news/20260730-excited-to-be-powering-crypto-adoption-for-major-financial-players-like-morganst.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Weird but true: without crypto, the current AI boom would not have been possible. Today's data center buildout would've been impossible without Bitcoin miners spending a decade building the knowhow around power, sites, and scale in remote locations. Nvidi - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xbE5NcGRnam5Mam52Z0hmcnlqS3FVQ19HcEpsbXNWYW45Vk54cmc1dEhNZGM0V3otQUV6aTJaSExlRFh4a0dZQ0JNS3RXUmNUeVhsbGh6Nkh1NVRJ?oc=5\" target=\"_blank\">Weird but true: without crypto, the curren…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xbE5NcGRnam5Mam52Z0hmcnlqS3FVQ19HcEpsbXNWYW45Vk54cmc1dEhNZGM0V3otQUV6aTJaSExlRFh4a0dZQ0JNS3RXUmNUeVhsbGh6Nkh1NVRJ?oc=5",
@@ -1004,19 +1041,6 @@
       "localUrl": "/news/20260730-overview-of-institutional-real-world-assets-on-solana.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
-      "summary": "The eSafety Commissioner accused the social media platform of failing to detect material relating to the Christchurch and Buffalo attacks.",
-      "url": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
-      "publishedAt": "2026-07-30T15:22:50.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260730-australia-sues-telegram-for-38m-over-pro-terror-videos",
-      "localUrl": "/news/20260730-australia-sues-telegram-for-38m-over-pro-terror-videos.html"
-    },
-    {
       "source": "X Wire",
       "title": "Capitulation is no where to be seen. Bitcoin holders just started to realized losses on a yearly basis, -136K Bitcoin. However, previous cycles bottomed at -1.3M and -3.7M Bitcoin of annual realized losses. Either this is the most benign cycle in terms of realized - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE94emxhNFdMcFFPM2prZGR3N0hZZ0x3NU9KWU5sSXBUR1BLU1BqNXA0VGYwcDBPTzM4SHZhWktLUEFlc0Zla2hpU1E1Q3BGWVR3Rmg3NnhkU3A0c0F3dTlB?oc=5\" target=\"_blank\">Capitulation is no where to be seen. B…",
@@ -1039,19 +1063,6 @@
       "localUrl": "/news/20260730-happy-birthday-ethereum-click-the-link-to-join-the-party-you-get-11x11-pixels-an.html"
     },
     {
-      "source": "Decrypt",
-      "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
-      "summary": "Activist Samuel Tunick said his prosecution is meant to set a precedent against privacy and \"intimidate people.\"",
-      "url": "https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
-      "publishedAt": "2026-07-30T13:25:27.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
-      "localUrl": "/news/20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin is inside the gates of Wall Street. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5\" target=\"_blank\">Bitcoin is inside the gates of Wall Street.…",
@@ -1072,17 +1083,6 @@
       "category": "基础设施",
       "slug": "20260730-solana-changelog-mainnet-raises-block-limits-to-100m-cus",
       "localUrl": "/news/20260730-solana-changelog-mainnet-raises-block-limits-to-100m-cus.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum turns 11 today. Since mainnet went live on July 30, 2015, Ethereum has: → Never halted. Not once, across 11 years of continuous block production. → Become the settlement layer for stablecoins, holding more than half of all supply → Taken the larg - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMFZEQ1dMdFF4UFVRUGtRbi02NnJHWGJLQ1BBQkRhVFUwWUUtbDRiX21NSlYtR2pHRnkyMjFURno2Yzg5R1VVLU4tcmc5Nm5yQmNLdlBvdGkxdFc2YUNlaExMOUw?oc=5\" target=\"_blank\">Ethereum turns 11 today. Since …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfMFZEQ1dMdFF4UFVRUGtRbi02NnJHWGJLQ1BBQkRhVFUwWUUtbDRiX21NSlYtR2pHRnkyMjFURno2Yzg5R1VVLU4tcmc5Nm5yQmNLdlBvdGkxdFc2YUNlaExMOUw?oc=5",
-      "publishedAt": "2026-07-30T12:43:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-ethereum-turns-11-today-since-mainnet-went-live-on-july-30-2015-ethereum-has-nev",
-      "localUrl": "/news/20260730-ethereum-turns-11-today-since-mainnet-went-live-on-july-30-2015-ethereum-has-nev.html"
     },
     {
       "source": "X Wire",
