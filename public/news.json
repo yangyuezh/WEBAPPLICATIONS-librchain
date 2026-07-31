@@ -1,7 +1,120 @@
 {
-  "updatedAt": "2026-07-31T08:08:04.106Z",
+  "updatedAt": "2026-07-31T10:50:24.814Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
+      "summary": "The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
+      "url": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
+      "publishedAt": "2026-07-31T10:12:16.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260731-new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
+      "localUrl": "/news/20260731-new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "New York sues Kalshi over alleged illegal gambling operation",
+      "summary": "The lawsuit adds to a growing clash between New York and the CFTC over whether federally regulated prediction markets are subject to state gambling laws.",
+      "url": "https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-31T10:05:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260731-new-york-sues-kalshi-over-alleged-illegal-gambling-operation",
+      "localUrl": "/news/20260731-new-york-sues-kalshi-over-alleged-illegal-gambling-operation.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
+      "summary": "The suit wants to bar the company from operating what it says is an unlicensed gambling business and seeks financial redress.",
+      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
+      "publishedAt": "2026-07-31T09:55:47.000Z",
+      "keywords": [
+        "Policy",
+        "Kalshi",
+        "litigation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260731-new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
+      "localUrl": "/news/20260731-new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
+      "summary": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
+      "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+      "publishedAt": "2026-07-31T09:02:01.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260731-38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+      "localUrl": "/news/20260731-38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+      "summary": "DeFi risk management service LlamaRisk recommended that Aave wind down every reserve on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, but action against most of those instances was already taken.",
+      "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-31T08:57:53.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260731-aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves",
+      "localUrl": "/news/20260731-aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+      "summary": "The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.",
+      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+      "publishedAt": "2026-07-31T08:57:02.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "Digital Asset Treasury",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260731-quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+      "localUrl": "/news/20260731-quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+      "summary": "Bitcoin’s daily price swings have tightened to their narrowest since January, making clean trades harder to find. Here's what could happen next.",
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+      "publishedAt": "2026-07-31T08:30:31.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Technical Analysis",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260731-bitcoins-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+      "localUrl": "/news/20260731-bitcoins-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
+      "summary": "RWA perpetual futures reached 99.2% of Bitcoin perpetual volume on Hyperliquid and Binance as tokenized equities led trading.",
+      "url": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-07-31T08:29:51.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "RWA",
+      "slug": "20260731-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance",
+      "localUrl": "/news/20260731-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
@@ -16,6 +129,17 @@
       "category": "市场",
       "slug": "20260731-live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trad",
       "localUrl": "/news/20260731-live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trad.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 BULLISH: Bitcoin is up 9.82% in July so far, rebounding after back-to-back red months in May and June. Will the momentum continue in August? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin is up 9.82%…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5",
+      "publishedAt": "2026-07-31T07:40:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month",
+      "localUrl": "/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html"
     },
     {
       "source": "Cointelegraph",
@@ -132,17 +256,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Coldcard issues Mk3 seed warning after 594 BTC theft raises security concerns Coinkite warned that wallets created on Coldcard Mk3 devices running firmware versions 4.0.1 through 5.0.3 may be at risk due to a seed generation flaw. Users are advised to mi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DTVZwaktteFV0N2NIVHNvWGRjYm5hNEdzazFPTHVhOENJcXNkOHdCbVlFNUlWa0c0WmV0akpMMmxrcGtYWTRKdWRrS3dhSkdMeDd5VEU4XzNSQ2x3aE54dzFUaw?oc=5\" target=\"_blank\">Coldcard issues Mk3 seed warning…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DTVZwaktteFV0N2NIVHNvWGRjYm5hNEdzazFPTHVhOENJcXNkOHdCbVlFNUlWa0c0WmV0akpMMmxrcGtYWTRKdWRrS3dhSkdMeDd5VEU4XzNSQ2x3aE54dzFUaw?oc=5",
-      "publishedAt": "2026-07-31T00:00:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-coldcard-issues-mk3-seed-warning-after-594-btc-theft-raises-security-concerns-co",
-      "localUrl": "/news/20260731-coldcard-issues-mk3-seed-warning-after-594-btc-theft-raises-security-concerns-co.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BITCOIN CORE DEVELOPER: “SORRY, THIS IS THE TIME TO PANIC” OVER COLDCARD MK2/MK3 VULNERABILITY Bitcoin Core developer instagibbs says he successfully reproduced the reported COLDCARD vulnerability on a freshly initialized MK3 devi - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5\" target=\"_blank\">BITCOIN CORE DEVELOPER: “SOR…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5",
@@ -246,7 +359,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "title": "Coinbase sinks 5% after missing second-quarter revenue estimates",
       "summary": "The company reported $1.22 billion in overall revenue, down from $1.5 billion in the year prior.",
       "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
       "publishedAt": "2026-07-30T20:18:33.000Z",
@@ -310,6 +423,17 @@
       "category": "监管",
       "slug": "20260730-treasury-secretary-invokes-bitcoin-creator-satoshi-nakamoto-in-plea-for-clarity-",
       "localUrl": "/news/20260730-treasury-secretary-invokes-bitcoin-creator-satoshi-nakamoto-in-plea-for-clarity-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Sen. Cynthia Lummis says a Senate vote is still on track before the August recess 👀 \"Sen. Thune has kept a place for the CLARITY ACT on the agenda before the August recess...and I believe he does intend to go through with it...We will be movin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUjY5Y3JJdkVNVFg0TXFYaFRqbHRUTzJIeUg4akFrV0hsc1JsREZVTEhWMGIwOUFGRklBY25oUERHc3hNMFZpVi1GVEkyeTJKdmhuc2V5MFFWZGc5X0l2VXNQcUVBRFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Cynthia …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUjY5Y3JJdkVNVFg0TXFYaFRqbHRUTzJIeUg4akFrV0hsc1JsREZVTEhWMGIwOUFGRklBY25oUERHc3hNMFZpVi1GVEkyeTJKdmhuc2V5MFFWZGc5X0l2VXNQcUVBRFU?oc=5",
+      "publishedAt": "2026-07-30T19:26:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-just-in-sen-cynthia-lummis-says-a-senate-vote-is-still-on-track-before-the-augus",
+      "localUrl": "/news/20260730-just-in-sen-cynthia-lummis-says-a-senate-vote-is-still-on-track-before-the-augus.html"
     },
     {
       "source": "Decrypt",
@@ -407,17 +531,6 @@
     },
     {
       "source": "X Wire",
-      "title": "More than a year ago, the House passed the Clarity Act. There’s been progress since — thousands of hours of bipartisan negotiations took place at the staff and Member levels. The Senate Committees on Banking and Agriculture advanced their respective title - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5\" target=\"_blank\">More than a year ago, the H…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5",
-      "publishedAt": "2026-07-30T16:32:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-more-than-a-year-ago-the-house-passed-the-clarity-act-theres-been-progress-since",
-      "localUrl": "/news/20260730-more-than-a-year-ago-the-house-passed-the-clarity-act-theres-been-progress-since.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Excited to be powering crypto adoption for major financial players like @MorganStanley - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nSDNlZE1mUkhtSGFITEdCSFJycUVTVGk3X3hpczd1MHR2V05Wd2VSYUg0bnBUOGh6LWlQbXdTZFBDSUkwaEFNOWRRU2JOV0hXaC1uN2xiX2E0aVBaWHdlQk1NbWk5VFU?oc=5\" target=\"_blank\">Excited to be powering cryp…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nSDNlZE1mUkhtSGFITEdCSFJycUVTVGk3X3hpczd1MHR2V05Wd2VSYUg0bnBUOGh6LWlQbXdTZFBDSUkwaEFNOWRRU2JOV0hXaC1uN2xiX2E0aVBaWHdlQk1NbWk5VFU?oc=5",
@@ -429,7 +542,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
+      "title": "Bitcoin stable as Fed favorite PCE inflation sees first monthly drop in 6 years",
       "summary": "Bitcoin and US stocks enjoyed a relief bounce as the South Korea semiconductor rout eased and US PCE inflation data conforms to year-on-year expectations.",
       "url": "https://cointelegraph.com/markets/bitcoin-crypto-stable-as-us-pce-inflation-sees-first-monthly-drop-in-six-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-07-30T16:17:29.000Z",
@@ -437,8 +550,8 @@
         "Markets"
       ],
       "category": "市场",
-      "slug": "20260730-bitcoin-stable-as-fed-fave-pce-inflation-sees-first-monthly-drop-in-six-years",
-      "localUrl": "/news/20260730-bitcoin-stable-as-fed-fave-pce-inflation-sees-first-monthly-drop-in-six-years.html"
+      "slug": "20260730-bitcoin-stable-as-fed-favorite-pce-inflation-sees-first-monthly-drop-in-6-years",
+      "localUrl": "/news/20260730-bitcoin-stable-as-fed-favorite-pce-inflation-sees-first-monthly-drop-in-6-years.html"
     },
     {
       "source": "X Wire",
@@ -593,17 +706,6 @@
       "localUrl": "/news/20260730-crypto-for-advisors-is-the-clarity-act-dead.html"
     },
     {
-      "source": "X Wire",
-      "title": "🔥 INSIGHT: White House crypto advisor Patrick Witt says the CLARITY Act is a pro-law enforcement bill. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbURXajBTRTE4a2lTOE1TQWhUS1ZKcGhFcjJqb19pcHJSZE83ZHhkU0lfOGVXbDNXT21USk5ZTVdKTWQ3cWdrYndaekhXenBNM3JVd0dLMlFjdzRVbnZXelFGSW4?oc=5\" target=\"_blank\">🔥 INSIGHT: White House crypto …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvbURXajBTRTE4a2lTOE1TQWhUS1ZKcGhFcjJqb19pcHJSZE83ZHhkU0lfOGVXbDNXT21USk5ZTVdKTWQ3cWdrYndaekhXenBNM3JVd0dLMlFjdzRVbnZXelFGSW4?oc=5",
-      "publishedAt": "2026-07-30T15:00:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-insight-white-house-crypto-advisor-patrick-witt-says-the-clarity-act-is-a-pro-la",
-      "localUrl": "/news/20260730-insight-white-house-crypto-advisor-patrick-witt-says-the-clarity-act-is-a-pro-la.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
       "summary": "CME CEO Terry Duffy said a court battle over whether perpetual futures are swaps or futures could eventually affect how the IRS taxes the contracts. Independent legal experts say the issue remains unresolved.",
@@ -721,19 +823,6 @@
       "localUrl": "/news/20260730-fake-staking-site-drains-85-million-in-xrp-from-dozens-of-investors-promising-ea.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "BitRiver founder charged in Russia over alleged $8M fraud",
-      "summary": "Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire Oleg Deripaska.",
-      "url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T13:26:06.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260730-bitriver-founder-charged-in-russia-over-alleged-8m-fraud",
-      "localUrl": "/news/20260730-bitriver-founder-charged-in-russia-over-alleged-8m-fraud.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
       "summary": "Activist Samuel Tunick said his prosecution is meant to set a precedent against privacy and \"intimidate people.\"",
@@ -745,6 +834,17 @@
       "category": "监管",
       "slug": "20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
       "localUrl": "/news/20260730-completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is inside the gates of Wall Street. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5\" target=\"_blank\">Bitcoin is inside the gates of Wall Street.…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5",
+      "publishedAt": "2026-07-30T13:20:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom",
+      "localUrl": "/news/20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom.html"
     },
     {
       "source": "X Wire",
@@ -783,6 +883,17 @@
       "localUrl": "/news/20260730-ethereum-turns-11-today-since-mainnet-went-live-on-july-30-2015-ethereum-has-nev.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇪🇸 Spain's largest bank, Banco Santander, reports owning $4.3 million in spot Bitcoin ETFs 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53YUdfd2FxX3hlb0xNWnZ3dnNKc1dSMzk4c0lpdS1aWFlacXhUeHJ4bFZiUnpJeWh4cFBpOExiOUtZbnNUMUN3RENOZTNWejZXTmdnXzRoSUcwcFhzaHJIczNQbzc3NlU?oc=5\" target=\"_blank\">JUST IN: 🇪🇸 Spain's large…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53YUdfd2FxX3hlb0xNWnZ3dnNKc1dSMzk4c0lpdS1aWFlacXhUeHJ4bFZiUnpJeWh4cFBpOExiOUtZbnNUMUN3RENOZTNWejZXTmdnXzRoSUcwcFhzaHJIczNQbzc3NlU?oc=5",
+      "publishedAt": "2026-07-30T12:14:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-just-in-spains-largest-bank-banco-santander-reports-owning-43-million-in-spot-bi",
+      "localUrl": "/news/20260730-just-in-spains-largest-bank-banco-santander-reports-owning-43-million-in-spot-bi.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
       "summary": "The platform faces a fine of up to $38 million for allegedly failing to remove terror-related content.",
@@ -811,19 +922,6 @@
       "localUrl": "/news/20260730-morning-minute-robinhood-posts-its-best-quarter-ever.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
-      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.",
-      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T11:49:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260730-samsung-unit-explores-stablecoin-infrastructure-with-upbits-operator",
-      "localUrl": "/news/20260730-samsung-unit-explores-stablecoin-infrastructure-with-upbits-operator.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
       "summary": "CEO James Lanigan cited automation reshaping the business, as the exchange shifts from retail trading toward institutional infrastructure.",
@@ -835,19 +933,6 @@
       "category": "综合",
       "slug": "20260730-crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
       "localUrl": "/news/20260730-crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-      "summary": "The FT said Situational Awareness has approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
-      "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-30T11:29:03.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260730-hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft",
-      "localUrl": "/news/20260730-hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft.html"
     },
     {
       "source": "CoinDesk",
@@ -863,52 +948,6 @@
       "category": "监管",
       "slug": "20260730-bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever",
       "localUrl": "/news/20260730-bitcoin-etfs-on-track-for-the-smallest-monthly-inflows-ever.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-      "summary": "The country plans on taxing cryptocurrency gains from Jan. 1, 2027, signaling that it does not intend to postpone the measure for a fourth time.",
-      "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-      "publishedAt": "2026-07-30T11:17:56.000Z",
-      "keywords": [
-        "Policy",
-        "South Korea",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260730-south-korea-plans-to-tax-crypto-gains-over-1740-as-political-battle-moves-to-par",
-      "localUrl": "/news/20260730-south-korea-plans-to-tax-crypto-gains-over-1740-as-political-battle-moves-to-par.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
-      "summary": "Bitcoin held near $64,000 despite the Fed's hawkish split, Iranian ballistic missiles and an 8% surge in oil overnight that sent the Dow down 2.2% and the Nasdaq to a three-month low.",
-      "url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
-      "publishedAt": "2026-07-30T10:56:24.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260730-cryptos-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-coul",
-      "localUrl": "/news/20260730-cryptos-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-coul.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitRiver founder charged in Russia with $12.5 million fraud",
-      "summary": "Igor Runets has been transferred to a pre-trial detention facility from house arrest as he faces accusations of failing to deliver on a contract.",
-      "url": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
-      "publishedAt": "2026-07-30T10:02:33.000Z",
-      "keywords": [
-        "Policy",
-        "Mining",
-        "Cryptocurrency",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260730-bitriver-founder-charged-in-russia-with-125-million-fraud",
-      "localUrl": "/news/20260730-bitriver-founder-charged-in-russia-with-125-million-fraud.html"
     },
     {
       "source": "Decrypt",
@@ -1000,17 +1039,6 @@
       "localUrl": "/news/20260729-moonpays-paybox-puts-a-crypto-wallet-inside-claude-and-chatgptand-lets-it-pay-fo.html"
     },
     {
-      "source": "X Wire",
-      "title": "If you’re in crypto, let your AI agent use crypto - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5\" target=\"_blank\">If you’re in crypto, let yo…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDN0ZaV3F4VFNSUEhJeGlhTWFPaFpuRi04UnlISHluVjNSRF9YUWNPVzgzLTZDR01fODlRTXNmb2RJMWtteHdJYkJRMnR5NWRHV25mdUdoMjB6UTJkVGlmdVhYZS1oT28?oc=5",
-      "publishedAt": "2026-07-29T18:59:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom",
-      "localUrl": "/news/20260729-if-youre-in-crypto-let-your-ai-agent-use-crypto-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
       "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.",
@@ -1022,19 +1050,6 @@
       "category": "基础设施",
       "slug": "20260729-bitcoin-ethereum-wobble-as-fed-holds-rates-steady",
       "localUrl": "/news/20260729-bitcoin-ethereum-wobble-as-fed-holds-rates-steady.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-      "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
-      "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-      "publishedAt": "2026-07-29T17:18:49.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260729-ethereum-price-stalls-as-fed-rate-decision-looms",
-      "localUrl": "/news/20260729-ethereum-price-stalls-as-fed-rate-decision-looms.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1054,20 +1069,6 @@
       "category": "监管",
       "slug": "20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead",
       "localUrl": "/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
-      "summary": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
-      "url": "https://decrypt.co/resources/zcash",
-      "publishedAt": "2026-07-29T16:43:52.000Z",
-      "keywords": [
-        "zcash",
-        "The Coins"
-      ],
-      "category": "综合",
-      "slug": "20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs",
-      "localUrl": "/news/20260729-what-is-zcash-zec-the-privacy-coin-using-zero-knowledge-proofs.html"
     },
     {
       "source": "X Wire",
