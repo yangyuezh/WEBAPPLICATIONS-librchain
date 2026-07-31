@@ -2,19 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-07-31T04:34:51.530Z</lastmod>
+    <lastmod>2026-07-31T08:08:04.166Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-07-31T04:34:51.530Z</lastmod>
+    <lastmod>2026-07-31T08:08:04.166Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260731-live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trad.html</loc>
+    <lastmod>2026-07-31T07:46:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green.html</loc>
+    <lastmod>2026-07-31T06:46:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-bitcoin-flat-near-64000-as-kospis-record-17-surge-leaves-crypto-untouched.html</loc>
+    <lastmod>2026-07-31T05:43:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-107000-of-free-crypto-has-been-delivered-to-participants-paybox-claim-wallets-ar.html</loc>
+    <lastmod>2026-07-31T05:19:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep.html</loc>
+    <lastmod>2026-07-31T05:12:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-cryptos-next-altseason-may-have-fewer-winners-wintermute.html</loc>
+    <lastmod>2026-07-31T04:46:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca.html</loc>
+    <lastmod>2026-07-31T02:50:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain.html</loc>
     <lastmod>2026-07-31T02:38:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest.html</loc>
+    <lastmod>2026-07-31T01:49:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-coldcard-issues-mk3-seed-warning-after-594-btc-theft-raises-security-concerns-co.html</loc>
     <lastmod>2026-07-31T00:00:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln.html</loc>
+    <lastmod>2026-07-30T23:00:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260730-breaking-open-usd-will-launch-on-ethereum-on-day-one-over-140-businesses-includi.html</loc>
+    <lastmod>2026-07-30T15:56:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260730-hyperscale-data-sells-100-btc-to-fund-michigan-ai-data-center.html</loc>
     <lastmod>2026-07-30T15:53:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -289,8 +349,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom.html</loc>
-    <lastmod>2026-07-30T13:20:22.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260730-to-protect-market-integrity-in-our-crypto-updown-markets-were-updating-how-these.html</loc>
+    <lastmod>2026-07-30T13:00:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260730-crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-sl.html</loc>
-    <lastmod>2026-07-30T09:54:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260730-fake-flare-network-staking-site-drained-85m-in-xrp-seoul-police.html</loc>
     <lastmod>2026-07-30T09:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,42 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260730-today-ethereums-mainnet-genesis-block-was-mined-11-years-ago-happy-birthday-eth-.html</loc>
     <lastmod>2026-07-30T09:47:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-live-updates-bitcoin-holds-above-64000-as-nasdaq-surges-on-ai-trade-comeback.html</loc>
-    <lastmod>2026-07-30T09:01:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influen.html</loc>
-    <lastmod>2026-07-30T09:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-australia-sues-telegram-over-alleged-failures-to-remove-terror-content.html</loc>
-    <lastmod>2026-07-30T08:49:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-chinese-newspaper-warns-of-bitcoin-extortion-scam-using-its-name.html</loc>
-    <lastmod>2026-07-30T07:28:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-sec-ready-to-set-crypto-rules-if-congress-stalls-on-clarity-act-us-sec-chair-pau.html</loc>
-    <lastmod>2026-07-30T04:40:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-founder-of-russias-largest-crypto-miner-held-over-alleged-1-billion-ruble-fraud-.html</loc>
-    <lastmod>2026-07-30T02:29:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,26 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260729-just-in-american-bankers-association-ceo-tells-cnbc-theres-a-lot-of-good-in-the-.html</loc>
-    <lastmod>2026-07-29T13:18:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260729-1-were-excited-to-announce-the-close-of-ethereuminstis-initial-ecosystem-funding.html</loc>
     <lastmod>2026-07-29T13:11:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260729-16-years-ago-today-satoshi-nakamoto-said-if-you-dont-believe-me-or-dont-get-it-i.html</loc>
-    <lastmod>2026-07-29T12:26:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260729-were-pleased-to-welcome-pcaversaccio-to-the-ef-board-a-longtime-ethereum-contrib.html</loc>
-    <lastmod>2026-07-29T12:04:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
