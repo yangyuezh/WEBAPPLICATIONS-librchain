@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-08-01T15:14:14.302Z",
+  "updatedAt": "2026-08-01T17:11:14.438Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "summary": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
+      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "publishedAt": "2026-08-01T16:51:35.000Z",
+      "keywords": [
+        "Markets",
+        "Binance",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260801-tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "localUrl": "/news/20260801-tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
+      "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
+      "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+      "publishedAt": "2026-08-01T16:01:17.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "安全",
+      "slug": "20260801-cz-warns-bitcoin-holders-after-70-million-wallet-exploit-nothing-is-100",
+      "localUrl": "/news/20260801-cz-warns-bitcoin-holders-after-70-million-wallet-exploit-nothing-is-100.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "summary": "A mystery-shopping experiment found that exchange fees, foreign exchange spreads and banking rails mean stablecoin remittances are often no cheaper than traditional transfer means.",
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "publishedAt": "2026-08-01T16:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260801-bank-of-italy-research-suggests-stablecoins-arent-necessarily-cheaper-for-remitt",
+      "localUrl": "/news/20260801-bank-of-italy-research-suggests-stablecoins-arent-necessarily-cheaper-for-remitt.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "summary": "Difficulty falls as weak mining economics reduce capacity, while forward markets signal little relief through year-end.",
+      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "publishedAt": "2026-08-01T15:51:10.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin Mining",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260801-bitcoin-mining-difficulty-shrinks-14-from-this-years-high-as-plunging-revenues-f",
+      "localUrl": "/news/20260801-bitcoin-mining-difficulty-shrinks-14-from-this-years-high-as-plunging-revenues-f.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
+      "summary": "CME argues that because bitcoin is a commodity, options tied to its value fall under CFTC jurisdiction, not the SEC's authority.",
+      "url": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "publishedAt": "2026-08-01T15:48:27.000Z",
+      "keywords": [
+        "Policy",
+        "Nasdaq",
+        "SEC",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260801-sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
+      "localUrl": "/news/20260801-sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PAC pours another $1M into Michigan House race",
+      "summary": "Michigan incumbent Shri Thanedar’s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
+      "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-01T15:44:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260801-crypto-pac-pours-another-1m-into-michigan-house-race",
+      "localUrl": "/news/20260801-crypto-pac-pours-another-1m-into-michigan-house-race.html"
+    },
     {
       "source": "Decrypt",
       "title": "The More Americans Know About AI, the Less They Like It: Gallup",
@@ -14,6 +103,28 @@
       "category": "综合",
       "slug": "20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup",
       "localUrl": "/news/20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Yes, an ETF fixes this (and it is kinda ironic given some cold storage ppl label ETFs as ‘paper bitcoin’). That said this truly sucks. Feel for the victims and hope the thiefs get hard time. What losers. In order for the bitcoin ETFs to do well the underlying Bitcoin net - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX24tRGhmc3NQWFBRbnB0WVZkLWJZY3k4UUZuSUliaHJGeklialRGaXZ6YUtUM2M1cFUxbkVYRDdHRWR5cXNrSGl4UEhxUURHN2xnRkZNX05NU2drV1JrWWU0UUo?oc=5\" target=\"_blank\">Yes, an ETF fixes this (and it …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nX24tRGhmc3NQWFBRbnB0WVZkLWJZY3k4UUZuSUliaHJGeklialRGaXZ6YUtUM2M1cFUxbkVYRDdHRWR5cXNrSGl4UEhxUURHN2xnRkZNX05NU2drV1JrWWU0UUo?oc=5",
+      "publishedAt": "2026-08-01T14:50:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-yes-an-etf-fixes-this-and-it-is-kinda-ironic-given-some-cold-storage-ppl-label-e",
+      "localUrl": "/news/20260801-yes-an-etf-fixes-this-and-it-is-kinda-ironic-given-some-cold-storage-ppl-label-e.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Global expansion: accelerating Attempt to kill crypto: exposed Sovereign wealth tokenizing on @Base: $600B worth Bitcoin’s quantum defense: assembling Emmy nomination: 1 Mini Cooper up for grabs: also 1 Here's everything that happened @Coinbase in - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkt5VmNPVEdXMkQyT2NLbVUwT2t6NUdRQVBmNFVKX2gwTGNBSkhoR09EWVI2aVl0OGUySVp6Xy1UaGIyZmVUeDlwQjg5dk1TN3pDbHhMMUVSdVVITFE?oc=5\" target=\"_blank\">Global expansion: accelerating Attempt …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkt5VmNPVEdXMkQyT2NLbVUwT2t6NUdRQVBmNFVKX2gwTGNBSkhoR09EWVI2aVl0OGUySVp6Xy1UaGIyZmVUeDlwQjg5dk1TN3pDbHhMMUVSdVVITFE?oc=5",
+      "publishedAt": "2026-08-01T14:33:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to",
+      "localUrl": "/news/20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to.html"
     },
     {
       "source": "CoinDesk",
@@ -56,6 +167,17 @@
       "category": "X热点",
       "slug": "20260801-this-was-possibly-one-of-the-worst-weeks-in-the-history-of-bitcoin-many-people-b",
       "localUrl": "/news/20260801-this-was-possibly-one-of-the-worst-weeks-in-the-history-of-bitcoin-many-people-b.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$1.6 million dollars in Bitcoin was drained from my account on July 29th in the Cold Card wallet hack. My Bitcoin was in cold storage. My keys were on a ColdCard device kept in a safety deposit box that had never been connected to the internet. This part's ner - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRFcyaHlVN1Z6Ml9UOXAyOGpQa3dUU2FqN0pISEQ0TkctNlh2REt3em5lLWdsZVlNN2NtMkJJN3ZVaUNWRjBwV0hNUmxIUDdlVkJnZ2hkRkViQ0ozSnI2UjJESkJnbWM?oc=5\" target=\"_blank\">$1.6 million dollars in Bit…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRFcyaHlVN1Z6Ml9UOXAyOGpQa3dUU2FqN0pISEQ0TkctNlh2REt3em5lLWdsZVlNN2NtMkJJN3ZVaUNWRjBwV0hNUmxIUDdlVkJnZ2hkRkViQ0ozSnI2UjJESkJnbWM?oc=5",
+      "publishedAt": "2026-08-01T12:15:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-16-million-dollars-in-bitcoin-was-drained-from-my-account-on-july-29th-in-the-co",
+      "localUrl": "/news/20260801-16-million-dollars-in-bitcoin-was-drained-from-my-account-on-july-29th-in-the-co.html"
     },
     {
       "source": "X Wire",
@@ -523,17 +645,6 @@
       "localUrl": "/news/20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-.html"
     },
     {
-      "source": "X Wire",
-      "title": "How does Strategy navigate a challenging Bitcoin market, return $STRC to par, and continue compounding Bitcoin per share? In our Q2 earnings call, we laid out the strategy, reviewed our financial position and capital-management framework, and answered - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ084bHNkelFFbEx6S1lYbWtDR0M0bGNPejZNbVNQNm5VSXlCZGVpU3Q3dXFnY0FYM09LbVU3LUZyZmczZHZORXN2V3VxM2NYcEZUZHdKejVvNzg?oc=5\" target=\"_blank\">How does Strategy navigate a challenging Bi…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ084bHNkelFFbEx6S1lYbWtDR0M0bGNPejZNbVNQNm5VSXlCZGVpU3Q3dXFnY0FYM09LbVU3LUZyZmczZHZORXN2V3VxM2NYcEZUZHdKejVvNzg?oc=5",
-      "publishedAt": "2026-07-31T14:07:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-how-does-strategy-navigate-a-challenging-bitcoin-market-return-strc-to-par-and-c",
-      "localUrl": "/news/20260731-how-does-strategy-navigate-a-challenging-bitcoin-market-return-strc-to-par-and-c.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "ECB says digital euro app will exceed EU accessibility standards",
       "summary": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
@@ -722,20 +833,6 @@
       "localUrl": "/news/20260731-world-cup-bets-smash-records-as-prediction-markets-hit-20-billion-in-volume.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
-      "summary": "The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.",
-      "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-      "publishedAt": "2026-07-31T11:58:33.000Z",
-      "keywords": [
-        "Policy",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-us-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-      "localUrl": "/news/20260731-us-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 NEW: Over 594 BTC worth $38 million was stolen from Bitcoin hardware wallet Coldcard users. The attacker then moved around the BTC and consolidated 562 BTC into this address below. Users are urged to review the company's official security guidance - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2b1g3d0RXTkFUanptREhidVVzZ3NHVEhTTGlfeXZKZFVfbzB6dXkzbXFBSHJJVnU4c1JSbTV5SnRkSGZKRVlwUnhaZXJkczhqa1FTT2NodnFPcW5uMVVEMm5LX3Rsb00?oc=5\" target=\"_blank\">🚨 NEW: Over 594 BTC worth …",
@@ -745,21 +842,6 @@
       "category": "X热点",
       "slug": "20260731-new-over-594-btc-worth-38-million-was-stolen-from-bitcoin-hardware-wallet-coldca",
       "localUrl": "/news/20260731-new-over-594-btc-worth-38-million-was-stolen-from-bitcoin-hardware-wallet-coldca.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade",
-      "summary": "Your day-ahead look for July 31, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august",
-      "publishedAt": "2026-07-31T11:36:45.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260731-traders-brace-for-an-august-crypto-pull-back-as-protection-against-60000-bitcoin",
-      "localUrl": "/news/20260731-traders-brace-for-an-august-crypto-pull-back-as-protection-against-60000-bitcoin.html"
     },
     {
       "source": "Cointelegraph",
@@ -786,21 +868,6 @@
       "category": "监管",
       "slug": "20260731-crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
       "localUrl": "/news/20260731-crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
-      "summary": "BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-      "publishedAt": "2026-07-31T11:07:52.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260731-bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-m",
-      "localUrl": "/news/20260731-bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-m.html"
     },
     {
       "source": "Cointelegraph",
@@ -842,33 +909,6 @@
       "localUrl": "/news/20260731-new-york-sues-kalshi-over-alleged-illegal-gambling-operation.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "summary": "The suit wants to bar the company from operating what it says is an unlicensed gambling business and seeks financial redress.",
-      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "publishedAt": "2026-07-31T09:55:47.000Z",
-      "keywords": [
-        "Policy",
-        "Kalshi",
-        "litigation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "localUrl": "/news/20260731-new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $40 million worth of Bitcoin stolen after 500 'Coldcard' hardware wallets were hacked. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mR1ktaFlldUhnSVdsQ0g1UThMd3hsbjk0RkprRDFGeUtlVHlyeTdNWlk3SXJtd3lRRUotZ1RiY3R6aHN0Ukh3eVd0RTVxRDBLaHBia3YyTUFydFNqdzhOY1FB?oc=5\" target=\"_blank\">JUST IN: $40 million worth of Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mR1ktaFlldUhnSVdsQ0g1UThMd3hsbjk0RkprRDFGeUtlVHlyeTdNWlk3SXJtd3lRRUotZ1RiY3R6aHN0Ukh3eVd0RTVxRDBLaHBia3YyTUFydFNqdzhOY1FB?oc=5",
-      "publishedAt": "2026-07-31T09:43:42.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-just-in-40-million-worth-of-bitcoin-stolen-after-500-coldcard-hardware-wallets-w",
-      "localUrl": "/news/20260731-just-in-40-million-worth-of-bitcoin-stolen-after-500-coldcard-hardware-wallets-w.html"
-    },
-    {
       "source": "Decrypt",
       "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
       "summary": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
@@ -893,19 +933,6 @@
       "category": "DeFi",
       "slug": "20260731-aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves",
       "localUrl": "/news/20260731-aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
-      "summary": "RWA perpetual futures reached 99.2% of Bitcoin perpetual volume on Hyperliquid and Binance as tokenized equities led trading.",
-      "url": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T08:29:51.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260731-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance",
-      "localUrl": "/news/20260731-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance.html"
     },
     {
       "source": "X Wire",
@@ -1017,19 +1044,6 @@
       "localUrl": "/news/20260730-your-sexual-wellness-pills-order-info-from-hims-got-shared-with-meta-says-ftc.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
-      "summary": "Ark Invest sold shares of Bitmine, Robinhood, Bullish, and Block during Wednesday's pullback in crypto equities, while continuing to add to Coinbase and Circle.",
-      "url": "https://decrypt.co/374738/cathie-wood-ark-invest-sells-bitmine-adds-coinbase-circle",
-      "publishedAt": "2026-07-30T16:35:26.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260730-cathie-woods-ark-invest-sells-bitmine-while-adding-to-coinbase-and-circle-holdin",
-      "localUrl": "/news/20260730-cathie-woods-ark-invest-sells-bitmine-while-adding-to-coinbase-and-circle-holdin.html"
-    },
-    {
       "source": "X Wire",
       "title": "More than a year ago, the House passed the Clarity Act. There’s been progress since — thousands of hours of bipartisan negotiations took place at the staff and Member levels. The Senate Committees on Banking and Agriculture advanced their respective title - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5\" target=\"_blank\">More than a year ago, the H…",
@@ -1061,17 +1075,6 @@
       "category": "市场",
       "slug": "20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets",
       "localUrl": "/news/20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum Mainnet turns 11 today. The next chapter is already shipping. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5\" target=\"_blank\">Ethereum Mainnet turns 11 today. The ne…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5",
-      "publishedAt": "2026-07-30T15:27:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom",
-      "localUrl": "/news/20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom.html"
     },
     {
       "source": "Solana Blog",
