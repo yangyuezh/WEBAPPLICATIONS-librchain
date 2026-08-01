@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-01T21:06:59.222Z",
+  "updatedAt": "2026-08-01T22:09:59.957Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Strategy holds STRC dividend at 12%",
+      "summary": "Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.",
+      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "publishedAt": "2026-08-01T22:01:57.000Z",
+      "keywords": [
+        "Markets",
+        "MicroStrategy",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260801-strategy-holds-strc-dividend-at-12",
+      "localUrl": "/news/20260801-strategy-holds-strc-dividend-at-12.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-01T21:14:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260801-onchain-in-court-what-happened-in-crypto-legal-news-this-week",
+      "localUrl": "/news/20260801-onchain-in-court-what-happened-in-crypto-legal-news-this-week.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
@@ -249,17 +278,6 @@
       "category": "X热点",
       "slug": "20260801-16-million-dollars-in-bitcoin-was-drained-from-my-account-on-july-29th-in-the-co",
       "localUrl": "/news/20260801-16-million-dollars-in-bitcoin-was-drained-from-my-account-on-july-29th-in-the-co.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin closed July $62,818 200-week moving average $63k Realized price $52k (still decreasing) Monthly RSI 43 (still - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLVZvRU5kb2tCOFphVXJ4QTRqV0dWcXdxN3daUWo1cS0wdEdCVWZOblUtZmMzWVRQX05aWDNOQkdmSmtES0VtaFU0QzJ5NjJuYy1fNHJ6SWp0bV9nNmVhNWNUWTY2Zw?oc=5\" target=\"_blank\">Bitcoin closed July $62,818 …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLVZvRU5kb2tCOFphVXJ4QTRqV0dWcXdxN3daUWo1cS0wdEdCVWZOblUtZmMzWVRQX05aWDNOQkdmSmtES0VtaFU0QzJ5NjJuYy1fNHJ6SWp0bV9nNmVhNWNUWTY2Zw?oc=5",
-      "publishedAt": "2026-08-01T10:34:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-bitcoin-closed-july-62818-200-week-moving-average-63k-realized-price-52k-still-d",
-      "localUrl": "/news/20260801-bitcoin-closed-july-62818-200-week-moving-average-63k-realized-price-52k-still-d.html"
     },
     {
       "source": "Cointelegraph",
@@ -814,6 +832,17 @@
       "localUrl": "/news/20260731-boj-intervenes-to-defend-yen-near-160-holds-rates-steady.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Former £55.8 billion Barclay’s bank CEO tells CNBC the Clarity Act \"is really good for the banks\" 👀 \"The largest, most successful banks are going to benefit from this.\" “No one is investing more in innovation right now” than the big banks 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWjRlWVdBRklRMjVzU1B6YjkyUEFnelplUGNPUG9jQXJja1hXbjl2ZEZfaWZvZWktazNNUVhRTk5nYldXSDlOV0lTOHJkNDVER05CM3V1aUlXLURrY1RYYWk5VEtzX2M?oc=5\" target=\"_blank\">JUST IN: Former £55.8 billi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWjRlWVdBRklRMjVzU1B6YjkyUEFnelplUGNPUG9jQXJja1hXbjl2ZEZfaWZvZWktazNNUVhRTk5nYldXSDlOV0lTOHJkNDVER05CM3V1aUlXLURrY1RYYWk5VEtzX2M?oc=5",
+      "publishedAt": "2026-07-31T13:02:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-former-558-billion-barclays-bank-ceo-tells-cnbc-the-clarity-act-is-reall",
+      "localUrl": "/news/20260731-just-in-former-558-billion-barclays-bank-ceo-tells-cnbc-the-clarity-act-is-reall.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "RWA perps will outpace tokenization",
       "summary": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
@@ -826,21 +855,6 @@
       "category": "RWA",
       "slug": "20260731-rwa-perps-will-outpace-tokenization",
       "localUrl": "/news/20260731-rwa-perps-will-outpace-tokenization.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-      "summary": "Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.",
-      "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-      "publishedAt": "2026-07-31T12:28:02.000Z",
-      "keywords": [
-        "Finance",
-        "Iran",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260731-dubai-based-crypto-exchange-tied-to-4-billion-iran-sanctioned-evasion-network",
-      "localUrl": "/news/20260731-dubai-based-crypto-exchange-tied-to-4-billion-iran-sanctioned-evasion-network.html"
     },
     {
       "source": "Decrypt",
@@ -917,19 +931,6 @@
       "category": "监管",
       "slug": "20260731-new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
       "localUrl": "/news/20260731-new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "New York sues Kalshi over alleged illegal gambling operation",
-      "summary": "The lawsuit adds to a growing clash between New York and the CFTC over whether federally regulated prediction markets are subject to state gambling laws.",
-      "url": "https://cointelegraph.com/news/new-york-sues-kalshi-gambling-operation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T10:05:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260731-new-york-sues-kalshi-over-alleged-illegal-gambling-operation",
-      "localUrl": "/news/20260731-new-york-sues-kalshi-over-alleged-illegal-gambling-operation.html"
     },
     {
       "source": "Decrypt",
