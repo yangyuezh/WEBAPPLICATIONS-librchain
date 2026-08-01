@@ -1,7 +1,32 @@
 {
-  "updatedAt": "2026-08-01T19:30:01.145Z",
+  "updatedAt": "2026-08-01T21:06:59.222Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "publishedAt": "2026-08-01T20:10:54.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260801-bitcoin-cold-wallet-attack-spreads-to-4500-addresses-as-losses-near-89-million",
+      "localUrl": "/news/20260801-bitcoin-cold-wallet-attack-spreads-to-4500-addresses-as-losses-near-89-million.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: A third Coldcard hack has been reported with another 207.7294 BTC stolen. A total of 1,367.05 BTC has been stolen from 4,585 addresses so far, according to Galaxy Research. Users are urged to review the company's official security guidance as so - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5TkdpNFgtbkFlYXl0akJyVVFiSDNOVEstaUdkeWlsSk01YWVLT29sZWcxNVRmRTUzM0piV1pQYlQyVE05MXh3cFNwbGp3cFNJMG1wSUhoTDVtUWZIbXpvTko4NUhuUlE?oc=5\" target=\"_blank\">JUST IN: A third Coldcard h…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5TkdpNFgtbkFlYXl0akJyVVFiSDNOVEstaUdkeWlsSk01YWVLT29sZWcxNVRmRTUzM0piV1pQYlQyVE05MXh3cFNwbGp3cFNJMG1wSUhoTDVtUWZIbXpvTko4NUhuUlE?oc=5",
+      "publishedAt": "2026-08-01T19:21:29.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-just-in-a-third-coldcard-hack-has-been-reported-with-another-2077294-btc-stolen-",
+      "localUrl": "/news/20260801-just-in-a-third-coldcard-hack-has-been-reported-with-another-2077294-btc-stolen-.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
@@ -114,6 +139,17 @@
       "category": "综合",
       "slug": "20260801-crypto-pac-pours-another-1m-into-michigan-house-race",
       "localUrl": "/news/20260801-crypto-pac-pours-another-1m-into-michigan-house-race.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "STRATEGY DETAILS PLAN TO SELL UP TO $5B IN BITCOIN Strategy $MSTR said it may sell up to $5 billion worth of bitcoin under its current capital programs. This is 4X higher than the amount they initially said might sell under their new capital management - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTFg5VmROUEJRbzlhbllrYkI3WnlKVHN4aktxWmI2Q3NscnpLdjZBQ3RRbDJrVDJ0WnVQZDJrWEhzRlpaU2pwSHBKR2xORUwyUlNVTlpJMThGNEZEOGlfVU1jWmdNQQ?oc=5\" target=\"_blank\">STRATEGY DETAILS PLAN TO SEL…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTFg5VmROUEJRbzlhbllrYkI3WnlKVHN4aktxWmI2Q3NscnpLdjZBQ3RRbDJrVDJ0WnVQZDJrWEhzRlpaU2pwSHBKR2xORUwyUlNVTlpJMThGNEZEOGlfVU1jWmdNQQ?oc=5",
+      "publishedAt": "2026-08-01T15:02:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-strategy-details-plan-to-sell-up-to-5b-in-bitcoin-strategy-mstr-said-it-may-sell",
+      "localUrl": "/news/20260801-strategy-details-plan-to-sell-up-to-5b-in-bitcoin-strategy-mstr-said-it-may-sell.html"
     },
     {
       "source": "Decrypt",
@@ -778,17 +814,6 @@
       "localUrl": "/news/20260731-boj-intervenes-to-defend-yen-near-160-holds-rates-steady.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Former £55.8 billion Barclay’s bank CEO tells CNBC the Clarity Act \"is really good for the banks\" 👀 \"The largest, most successful banks are going to benefit from this.\" “No one is investing more in innovation right now” than the big banks 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWjRlWVdBRklRMjVzU1B6YjkyUEFnelplUGNPUG9jQXJja1hXbjl2ZEZfaWZvZWktazNNUVhRTk5nYldXSDlOV0lTOHJkNDVER05CM3V1aUlXLURrY1RYYWk5VEtzX2M?oc=5\" target=\"_blank\">JUST IN: Former £55.8 billi…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWjRlWVdBRklRMjVzU1B6YjkyUEFnelplUGNPUG9jQXJja1hXbjl2ZEZfaWZvZWktazNNUVhRTk5nYldXSDlOV0lTOHJkNDVER05CM3V1aUlXLURrY1RYYWk5VEtzX2M?oc=5",
-      "publishedAt": "2026-07-31T13:02:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-just-in-former-558-billion-barclays-bank-ceo-tells-cnbc-the-clarity-act-is-reall",
-      "localUrl": "/news/20260731-just-in-former-558-billion-barclays-bank-ceo-tells-cnbc-the-clarity-act-is-reall.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "RWA perps will outpace tokenization",
       "summary": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
@@ -829,21 +854,6 @@
       "category": "监管",
       "slug": "20260731-morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
       "localUrl": "/news/20260731-morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-      "summary": "Markets ranged from the simple question of who would win the tournament to whether Cristiano Ronaldo would cry when Portugal were eliminated (he did).",
-      "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-      "publishedAt": "2026-07-31T12:00:26.000Z",
-      "keywords": [
-        "Markets",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260731-world-cup-bets-smash-records-as-prediction-markets-hit-20-billion-in-volume",
-      "localUrl": "/news/20260731-world-cup-bets-smash-records-as-prediction-markets-hit-20-billion-in-volume.html"
     },
     {
       "source": "X Wire",
@@ -1064,17 +1074,6 @@
       "category": "市场",
       "slug": "20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets",
       "localUrl": "/news/20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum Mainnet turns 11 today. The next chapter is already shipping. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5\" target=\"_blank\">Ethereum Mainnet turns 11 today. The ne…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5",
-      "publishedAt": "2026-07-30T15:27:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom",
-      "localUrl": "/news/20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom.html"
     },
     {
       "source": "Solana Blog",
