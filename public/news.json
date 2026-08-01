@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-01T13:50:04.894Z",
+  "updatedAt": "2026-08-01T15:14:14.302Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+      "summary": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
+      "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+      "publishedAt": "2026-08-01T15:01:09.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup",
+      "localUrl": "/news/20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
@@ -32,6 +45,17 @@
       "category": "市场",
       "slug": "20260801-everyone-has-the-perps-convergence-backwards",
       "localUrl": "/news/20260801-everyone-has-the-perps-convergence-backwards.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "This was possibly one of the worst weeks in the history of Bitcoin. Many people believed they had done virtually everything right. They bought a respected hardware wallet, generated their seed offline, followed established best practices, and still lost significant - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRXZsaktoREpsVlJkU2FSdVJNZjVEbFYzdkxWOFBIR1J1YlZsUm5feEY4c1FyeVpscnYxX0g0dmRyZ3M4SHZMWmFoRkkwQktlREM1b2pfdGlLQ2Z1WmRCeQ?oc=5\" target=\"_blank\">This was possibly one of the worst w…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRXZsaktoREpsVlJkU2FSdVJNZjVEbFYzdkxWOFBIR1J1YlZsUm5feEY4c1FyeVpscnYxX0g0dmRyZ3M4SHZMWmFoRkkwQktlREM1b2pfdGlLQ2Z1WmRCeQ?oc=5",
+      "publishedAt": "2026-08-01T12:48:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-this-was-possibly-one-of-the-worst-weeks-in-the-history-of-bitcoin-many-people-b",
+      "localUrl": "/news/20260801-this-was-possibly-one-of-the-worst-weeks-in-the-history-of-bitcoin-many-people-b.html"
     },
     {
       "source": "X Wire",
@@ -377,17 +401,6 @@
       "category": "DeFi",
       "slug": "20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative",
       "localUrl": "/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Coinbase Chief Policy Officer talks CLARITY ACT progress on The Hill: \"\"We've got ethics nailed down, we've got nominations nailed down, we've got a bipartisan bill on the substance, we should be good to go\" 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Coinbase Chie…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5",
-      "publishedAt": "2026-07-31T16:07:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev",
-      "localUrl": "/news/20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev.html"
     },
     {
       "source": "X Wire",
@@ -1048,19 +1061,6 @@
       "category": "市场",
       "slug": "20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets",
       "localUrl": "/news/20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
-      "summary": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal—and wants a federal court to stop it before Saturday.",
-      "url": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
-      "publishedAt": "2026-07-30T15:42:17.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260730-elon-musks-xai-sues-minnesota-to-kill-the-uss-first-ai-nudification-law",
-      "localUrl": "/news/20260730-elon-musks-xai-sues-minnesota-to-kill-the-uss-first-ai-nudification-law.html"
     },
     {
       "source": "X Wire",
