@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-01T06:38:33.638Z",
+  "updatedAt": "2026-08-01T09:17:06.959Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "summary": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
+      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "publishedAt": "2026-08-01T09:01:08.000Z",
+      "keywords": [
+        "Markets",
+        "Binance",
+        "CZ",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260801-binance-founder-cz-calls-for-wallet-diversification-after-70-million-coldcard-ex",
+      "localUrl": "/news/20260801-binance-founder-cz-calls-for-wallet-diversification-after-70-million-coldcard-ex.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs end July in the green despite late-month selling",
+      "summary": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-01T07:23:07.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260801-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling",
+      "localUrl": "/news/20260801-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling.html"
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
@@ -40,17 +69,6 @@
       "category": "X热点",
       "slug": "20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a",
       "localUrl": "/news/20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CHAINALYSIS: ATTACKER TARGETED LARGEST COLDCARD WALLETS FIRST, BLOCK SAYS INVESTIGATION TRACED SWEEPER’S WORKFLOW Chainalysis says analysis of the $38M+ Coldcard exploit shows the attacker deliberately targeted the high - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BWjh3S20wakVEV0gwcDBucWw2X1Vwdm1QOFQ1MFVabHV1WFpZb0NHdE53MmFOUkZrS3h5M3BhR2ZVak93bXJ2M3BDY3dSV2VyZTdzbjZSeXFNWnFFUExWREM4Z0hDQQ?oc=5\" target=\"_blank\">CHAINALYSIS: ATTACKER TARGET…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BWjh3S20wakVEV0gwcDBucWw2X1Vwdm1QOFQ1MFVabHV1WFpZb0NHdE53MmFOUkZrS3h5M3BhR2ZVak93bXJ2M3BDY3dSV2VyZTdzbjZSeXFNWnFFUExWREM4Z0hDQQ?oc=5",
-      "publishedAt": "2026-07-31T21:03:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-chainalysis-attacker-targeted-largest-coldcard-wallets-first-block-says-investig",
-      "localUrl": "/news/20260731-chainalysis-attacker-targeted-largest-coldcard-wallets-first-block-says-investig.html"
     },
     {
       "source": "CoinDesk",
@@ -106,17 +124,6 @@
       "category": "综合",
       "slug": "20260731-ai-music-company-suno-loses-copyright-case-in-germany",
       "localUrl": "/news/20260731-ai-music-company-suno-loses-copyright-case-in-germany.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Live now on Robinhood Chain. Stock Tokens are tokenized debt securities issued by Robinhood Assets (Jersey) Limited. See Robinhood website for more information and their terms. Availability may be restricted in certain jurisdictions. Subject to our Terms of - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGT0FlSlNxTU9rOXV5c2E2aEE4UVZ5TWNTRFFhbUZUVUhyZGJucnFtd2pzOVJyVGhoRUgtbnloRFIwZVFFajdEelpFTWtIa3NILUJpelF1RDZnNGt2TVNlS0I5aW5lNXM?oc=5\" target=\"_blank\">Live now on Robinhood Chain…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGT0FlSlNxTU9rOXV5c2E2aEE4UVZ5TWNTRFFhbUZUVUhyZGJucnFtd2pzOVJyVGhoRUgtbnloRFIwZVFFajdEelpFTWtIa3NILUJpelF1RDZnNGt2TVNlS0I5aW5lNXM?oc=5",
-      "publishedAt": "2026-07-31T20:00:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-live-now-on-robinhood-chain-stock-tokens-are-tokenized-debt-securities-issued-by",
-      "localUrl": "/news/20260731-live-now-on-robinhood-chain-stock-tokens-are-tokenized-debt-securities-issued-by.html"
     },
     {
       "source": "Decrypt",
@@ -392,6 +399,17 @@
     },
     {
       "source": "X Wire",
+      "title": "This bill literally requires President Trump to divest his digital asset holdings or put them in a blind trust. It's becoming painfully clear some of my Democrat colleagues would rather let consumers lose everything if a crypto exchange fails and posture for the midt - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zR0FkX1p0MER0ZkFuOW15MkMxUmhOY1ZDOU5ic0JxMk5xWWNmb1dtWUdJZGE0eS1aUklURlQ2Z1hVa3pZVXJPLTlBVzYydnZJc19pSU5fRG0zRUljeDJZ?oc=5\" target=\"_blank\">This bill literally requires President…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zR0FkX1p0MER0ZkFuOW15MkMxUmhOY1ZDOU5ic0JxMk5xWWNmb1dtWUdJZGE0eS1aUklURlQ2Z1hVa3pZVXJPLTlBVzYydnZJc19pSU5fRG0zRUljeDJZ?oc=5",
+      "publishedAt": "2026-07-31T14:18:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-this-bill-literally-requires-president-trump-to-divest-his-digital-asset-holding",
+      "localUrl": "/news/20260731-this-bill-literally-requires-president-trump-to-divest-his-digital-asset-holding.html"
+    },
+    {
+      "source": "X Wire",
       "title": "How does Strategy navigate a challenging Bitcoin market, return $STRC to par, and continue compounding Bitcoin per share? In our Q2 earnings call, we laid out the strategy, reviewed our financial position and capital-management framework, and answered - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ084bHNkelFFbEx6S1lYbWtDR0M0bGNPejZNbVNQNm5VSXlCZGVpU3Q3dXFnY0FYM09LbVU3LUZyZmczZHZORXN2V3VxM2NYcEZUZHdKejVvNzg?oc=5\" target=\"_blank\">How does Strategy navigate a challenging Bi…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ084bHNkelFFbEx6S1lYbWtDR0M0bGNPejZNbVNQNm5VSXlCZGVpU3Q3dXFnY0FYM09LbVU3LUZyZmczZHZORXN2V3VxM2NYcEZUZHdKejVvNzg?oc=5",
@@ -604,6 +622,17 @@
       "localUrl": "/news/20260731-us-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 NEW: Over 594 BTC worth $38 million was stolen from Bitcoin hardware wallet Coldcard users. The attacker then moved around the BTC and consolidated 562 BTC into this address below. Users are urged to review the company's official security guidance - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2b1g3d0RXTkFUanptREhidVVzZ3NHVEhTTGlfeXZKZFVfbzB6dXkzbXFBSHJJVnU4c1JSbTV5SnRkSGZKRVlwUnhaZXJkczhqa1FTT2NodnFPcW5uMVVEMm5LX3Rsb00?oc=5\" target=\"_blank\">🚨 NEW: Over 594 BTC worth …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2b1g3d0RXTkFUanptREhidVVzZ3NHVEhTTGlfeXZKZFVfbzB6dXkzbXFBSHJJVnU4c1JSbTV5SnRkSGZKRVlwUnhaZXJkczhqa1FTT2NodnFPcW5uMVVEMm5LX3Rsb00?oc=5",
+      "publishedAt": "2026-07-31T11:40:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-new-over-594-btc-worth-38-million-was-stolen-from-bitcoin-hardware-wallet-coldca",
+      "localUrl": "/news/20260731-new-over-594-btc-worth-38-million-was-stolen-from-bitcoin-hardware-wallet-coldca.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade",
       "summary": "Your day-ahead look for July 31, 2026",
@@ -797,21 +826,6 @@
       "localUrl": "/news/20260731-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: 'Move your funds now,' says co-founder and CEO of Coldcard maker Coinkite",
-      "summary": "The Bank of Japan left its benchmark at 1% and Governor Ueda's hawkish signals landed softly, since markets had already priced an October hike.",
-      "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
-      "publishedAt": "2026-07-31T07:46:10.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260731-live-updates-move-your-funds-now-says-co-founder-and-ceo-of-coldcard-maker-coink",
-      "localUrl": "/news/20260731-live-updates-move-your-funds-now-says-co-founder-and-ceo-of-coldcard-maker-coink.html"
-    },
-    {
       "source": "X Wire",
       "title": "🔥 BULLISH: Bitcoin is up 9.82% in July so far, rebounding after back-to-back red months in May and June. Will the momentum continue in August? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin is up 9.82%…",
@@ -858,19 +872,6 @@
       "category": "X热点",
       "slug": "20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca",
       "localUrl": "/news/20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
-      "summary": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
-      "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T02:38:09.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain",
-      "localUrl": "/news/20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain.html"
     },
     {
       "source": "X Wire",

@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-01T06:38:33.679Z</lastmod>
+    <lastmod>2026-08-01T09:17:07.001Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-01T06:38:33.679Z</lastmod>
+    <lastmod>2026-08-01T09:17:07.001Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-binance-founder-cz-calls-for-wallet-diversification-after-70-million-coldcard-ex.html</loc>
+    <lastmod>2026-08-01T09:01:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling.html</loc>
+    <lastmod>2026-08-01T07:23:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260801-xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs.html</loc>
@@ -27,12 +39,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a.html</loc>
     <lastmod>2026-07-31T22:58:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-chainalysis-attacker-targeted-largest-coldcard-wallets-first-block-says-investig.html</loc>
-    <lastmod>2026-07-31T21:03:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -57,12 +63,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-ai-music-company-suno-loses-copyright-case-in-germany.html</loc>
     <lastmod>2026-07-31T20:03:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-live-now-on-robinhood-chain-stock-tokens-are-tokenized-debt-securities-issued-by.html</loc>
-    <lastmod>2026-07-31T20:00:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -187,6 +187,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260731-this-bill-literally-requires-president-trump-to-divest-his-digital-asset-holding.html</loc>
+    <lastmod>2026-07-31T14:18:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260731-how-does-strategy-navigate-a-challenging-bitcoin-market-return-strc-to-par-and-c.html</loc>
     <lastmod>2026-07-31T14:07:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,6 +289,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260731-new-over-594-btc-worth-38-million-was-stolen-from-bitcoin-hardware-wallet-coldca.html</loc>
+    <lastmod>2026-07-31T11:40:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260731-traders-brace-for-an-august-crypto-pull-back-as-protection-against-60000-bitcoin.html</loc>
     <lastmod>2026-07-31T11:36:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -367,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-live-updates-move-your-funds-now-says-co-founder-and-ceo-of-coldcard-maker-coink.html</loc>
-    <lastmod>2026-07-31T07:46:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html</loc>
     <lastmod>2026-07-31T07:40:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,12 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca.html</loc>
     <lastmod>2026-07-31T02:50:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain.html</loc>
-    <lastmod>2026-07-31T02:38:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
