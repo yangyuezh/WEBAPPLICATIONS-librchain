@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-01T11:32:30.229Z",
+  "updatedAt": "2026-08-01T13:50:04.894Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "summary": "Michael Coates, the foundation’s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns.",
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "publishedAt": "2026-08-01T13:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Solana News",
+        "quantum computing",
+        "Hack",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260801-solana-foundations-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "localUrl": "/news/20260801-solana-foundations-new-ciso-warns-ai-is-making-crypto-scams-more-convincing.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Everyone has the perps convergence backwards",
+      "summary": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
+      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "publishedAt": "2026-08-01T13:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260801-everyone-has-the-perps-convergence-backwards",
+      "localUrl": "/news/20260801-everyone-has-the-perps-convergence-backwards.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin closed July $62,818 200-week moving average $63k Realized price $52k (still decreasing) Monthly RSI 43 (still - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLVZvRU5kb2tCOFphVXJ4QTRqV0dWcXdxN3daUWo1cS0wdEdCVWZOblUtZmMzWVRQX05aWDNOQkdmSmtES0VtaFU0QzJ5NjJuYy1fNHJ6SWp0bV9nNmVhNWNUWTY2Zw?oc=5\" target=\"_blank\">Bitcoin closed July $62,818 …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BLVZvRU5kb2tCOFphVXJ4QTRqV0dWcXdxN3daUWo1cS0wdEdCVWZOblUtZmMzWVRQX05aWDNOQkdmSmtES0VtaFU0QzJ5NjJuYy1fNHJ6SWp0bV9nNmVhNWNUWTY2Zw?oc=5",
+      "publishedAt": "2026-08-01T10:34:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-bitcoin-closed-july-62818-200-week-moving-average-63k-realized-price-52k-still-d",
+      "localUrl": "/news/20260801-bitcoin-closed-july-62818-200-week-moving-average-63k-realized-price-52k-still-d.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Russia expands crypto mining ban to Moscow through 2032",
@@ -56,6 +98,17 @@
       "category": "监管",
       "slug": "20260801-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling",
       "localUrl": "/news/20260801-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: The Total Crypto Market added over $130B in the past 30 days. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mU3FTc1c1MGVKYlZRLV9Pd0h1dTluZ3JROHBLRlFYYnhQbkRVTXc3SnlPZS1NbVV0andQc3ljcko4Y3BYQUdlb1dIaXlKU2FzYURoMEx4NzBEb1Y2bDBmckluN0I?oc=5\" target=\"_blank\">🚨 UPDATE: The Total Crypto Mar…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mU3FTc1c1MGVKYlZRLV9Pd0h1dTluZ3JROHBLRlFYYnhQbkRVTXc3SnlPZS1NbVV0andQc3ljcko4Y3BYQUdlb1dIaXlKU2FzYURoMEx4NzBEb1Y2bDBmckluN0I?oc=5",
+      "publishedAt": "2026-08-01T06:30:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-update-the-total-crypto-market-added-over-130b-in-the-past-30-days-xcom",
+      "localUrl": "/news/20260801-update-the-total-crypto-market-added-over-130b-in-the-past-30-days-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -122,6 +175,17 @@
       "category": "市场",
       "slug": "20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy",
       "localUrl": "/news/20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor and Strategy now officially endorse the passage of the Clarity Act: \"We support the CLARITY Act and believe a clear, durable market structure framework would help advance the digital asset industry and encourage broader institutiona - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GY3JaYkREcVVlTTZ0UW53VjdRTEFQWTBTaTR3eC1TMEJHUEZtWmJ6RVM4Qk5uaVRpSGh3U0xaRzRIQ1BpNkJTQmRfRlFLN1FJM0VFem1SOHpkYm1DeUd5N19JWWtZUjg?oc=5\" target=\"_blank\">JUST IN: Michael Saylor and…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GY3JaYkREcVVlTTZ0UW53VjdRTEFQWTBTaTR3eC1TMEJHUEZtWmJ6RVM4Qk5uaVRpSGh3U0xaRzRIQ1BpNkJTQmRfRlFLN1FJM0VFem1SOHpkYm1DeUd5N19JWWtZUjg?oc=5",
+      "publishedAt": "2026-07-31T20:40:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-michael-saylor-and-strategy-now-officially-endorse-the-passage-of-the-cl",
+      "localUrl": "/news/20260731-just-in-michael-saylor-and-strategy-now-officially-endorse-the-passage-of-the-cl.html"
     },
     {
       "source": "Decrypt",
@@ -444,17 +508,6 @@
       "category": "X热点",
       "slug": "20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-",
       "localUrl": "/news/20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "This bill literally requires President Trump to divest his digital asset holdings or put them in a blind trust. It's becoming painfully clear some of my Democrat colleagues would rather let consumers lose everything if a crypto exchange fails and posture for the midt - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zR0FkX1p0MER0ZkFuOW15MkMxUmhOY1ZDOU5ic0JxMk5xWWNmb1dtWUdJZGE0eS1aUklURlQ2Z1hVa3pZVXJPLTlBVzYydnZJc19pSU5fRG0zRUljeDJZ?oc=5\" target=\"_blank\">This bill literally requires President…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zR0FkX1p0MER0ZkFuOW15MkMxUmhOY1ZDOU5ic0JxMk5xWWNmb1dtWUdJZGE0eS1aUklURlQ2Z1hVa3pZVXJPLTlBVzYydnZJc19pSU5fRG0zRUljeDJZ?oc=5",
-      "publishedAt": "2026-07-31T14:18:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-this-bill-literally-requires-president-trump-to-divest-his-digital-asset-holding",
-      "localUrl": "/news/20260731-this-bill-literally-requires-president-trump-to-divest-his-digital-asset-holding.html"
     },
     {
       "source": "X Wire",
@@ -829,38 +882,6 @@
       "localUrl": "/news/20260731-aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
-      "summary": "The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.",
-      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
-      "publishedAt": "2026-07-31T08:57:02.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260731-quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
-      "localUrl": "/news/20260731-quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
-      "summary": "Bitcoin’s daily price swings have tightened to their narrowest since January, making clean trades harder to find. Here's what could happen next.",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
-      "publishedAt": "2026-07-31T08:30:31.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Technical Analysis",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260731-bitcoins-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
-      "localUrl": "/news/20260731-bitcoins-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
       "summary": "RWA perpetual futures reached 99.2% of Bitcoin perpetual volume on Hyperliquid and Binance as tokenized equities led trading.",
@@ -957,17 +978,6 @@
       "localUrl": "/news/20260730-researchers-tried-letting-ai-do-science-it-failed.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto is the currency of choice for crooks. Lori Flowers shares her story as a victim of crypto-enabled transnational organized crime—in order for them to succeed, her scammers needed crypto. We cannot keep giving the bad guys an easy button. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VaWZ2TzZodlV5UDd4ckxyaUpJNE8wTEN1VGs4QmVQeGxlSURucENhNlBCdXh4NXA4WXlydEhjU1A5cFRXcUdPV2NnVDVGSkpxSlRDMERVa0RNcTFSRzh6RnVoaTE?oc=5\" target=\"_blank\">Crypto is the currency of choic…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VaWZ2TzZodlV5UDd4ckxyaUpJNE8wTEN1VGs4QmVQeGxlSURucENhNlBCdXh4NXA4WXlydEhjU1A5cFRXcUdPV2NnVDVGSkpxSlRDMERVa0RNcTFSRzh6RnVoaTE?oc=5",
-      "publishedAt": "2026-07-30T18:10:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-crypto-is-the-currency-of-choice-for-crooks-lori-flowers-shares-her-story-as-a-v",
-      "localUrl": "/news/20260730-crypto-is-the-currency-of-choice-for-crooks-lori-flowers-shares-her-story-as-a-v.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
       "summary": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
@@ -1038,17 +1048,6 @@
       "category": "市场",
       "slug": "20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets",
       "localUrl": "/news/20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Breaking: Open USD will launch on @ethereum on day one. Over 140 businesses, including Visa, Mastercard, Stripe, BlackRock and BNY. All reserve earnings flow to the partners that grow it. A shared asset needs neutral ground. We're excited to be working - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xa0JZVGZSY1FYdGpnRVUxcWtvZmR6eDBNdGstSkRURFdhWlJuUS1SMFRlOE9mYWhXbnFKZ2hJazNFaGowbTU5bFJFUFdBY0U3dlhlRTd5Z0xDS1FFbmMxbGlQWVc?oc=5\" target=\"_blank\">Breaking: Open USD will launch …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xa0JZVGZSY1FYdGpnRVUxcWtvZmR6eDBNdGstSkRURFdhWlJuUS1SMFRlOE9mYWhXbnFKZ2hJazNFaGowbTU5bFJFUFdBY0U3dlhlRTd5Z0xDS1FFbmMxbGlQWVc?oc=5",
-      "publishedAt": "2026-07-30T15:56:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-breaking-open-usd-will-launch-on-ethereum-on-day-one-over-140-businesses-includi",
-      "localUrl": "/news/20260730-breaking-open-usd-will-launch-on-ethereum-on-day-one-over-140-businesses-includi.html"
     },
     {
       "source": "Decrypt",

@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-01T11:32:30.271Z</lastmod>
+    <lastmod>2026-08-01T13:50:04.937Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-01T11:32:30.271Z</lastmod>
+    <lastmod>2026-08-01T13:50:04.937Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-solana-foundations-new-ciso-warns-ai-is-making-crypto-scams-more-convincing.html</loc>
+    <lastmod>2026-08-01T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-everyone-has-the-perps-convergence-backwards.html</loc>
+    <lastmod>2026-08-01T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-bitcoin-closed-july-62818-200-week-moving-average-63k-realized-price-52k-still-d.html</loc>
+    <lastmod>2026-08-01T10:34:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260801-russia-expands-crypto-mining-ban-to-moscow-through-2032.html</loc>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260801-bitcoin-etfs-end-july-in-the-green-despite-late-month-selling.html</loc>
     <lastmod>2026-08-01T07:23:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-update-the-total-crypto-market-added-over-130b-in-the-past-30-days-xcom.html</loc>
+    <lastmod>2026-08-01T06:30:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -63,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy.html</loc>
     <lastmod>2026-07-31T20:50:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-just-in-michael-saylor-and-strategy-now-officially-endorse-the-passage-of-the-cl.html</loc>
+    <lastmod>2026-07-31T20:40:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -207,12 +237,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-.html</loc>
     <lastmod>2026-07-31T14:22:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-this-bill-literally-requires-president-trump-to-divest-his-digital-asset-holding.html</loc>
-    <lastmod>2026-07-31T14:18:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,18 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers.html</loc>
-    <lastmod>2026-07-31T08:57:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-bitcoins-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion.html</loc>
-    <lastmod>2026-07-31T08:30:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-rwa-perpetual-futures-volume-nears-bitcoin-on-hyperliquid-binance.html</loc>
     <lastmod>2026-07-31T08:29:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260730-crypto-is-the-currency-of-choice-for-crooks-lori-flowers-shares-her-story-as-a-v.html</loc>
-    <lastmod>2026-07-30T18:10:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260730-bitcoin-quantum-threat-inches-closer-as-ibm-claims-trusted-quantum-advantage.html</loc>
     <lastmod>2026-07-30T17:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets.html</loc>
     <lastmod>2026-07-30T16:00:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-breaking-open-usd-will-launch-on-ethereum-on-day-one-over-140-businesses-includi.html</loc>
-    <lastmod>2026-07-30T15:56:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
