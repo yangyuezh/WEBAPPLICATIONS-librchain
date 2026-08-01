@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-01T17:11:14.479Z</lastmod>
+    <lastmod>2026-08-01T19:30:01.187Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-01T17:11:14.479Z</lastmod>
+    <lastmod>2026-08-01T19:30:01.187Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260801-minnesota-crypto-atm-ban-goes-into-effect-after-reported-1m-losses.html</loc>
+    <lastmod>2026-08-01T18:07:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260801-tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it.html</loc>
     <lastmod>2026-08-01T16:51:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-just-in-a-second-coldcard-hack-has-been-reported-a-total-of-115881-btc-has-been-.html</loc>
+    <lastmod>2026-08-01T16:06:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -75,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260801-everyone-has-the-perps-convergence-backwards.html</loc>
     <lastmod>2026-08-01T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-the-clarity-act-sabotaging-americas-crypto-leadership-the-old-rule-still-holds-m.html</loc>
+    <lastmod>2026-08-01T12:50:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,12 +313,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-.html</loc>
-    <lastmod>2026-07-31T14:22:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-ecb-says-digital-euro-app-will-exceed-eu-accessibility-standards.html</loc>
     <lastmod>2026-07-31T14:05:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-rwa-perps-will-outpace-tokenization.html</loc>
     <lastmod>2026-07-31T13:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-6358758-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-31T12:45:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves.html</loc>
-    <lastmod>2026-07-31T08:57:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html</loc>
     <lastmod>2026-07-31T07:40:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest.html</loc>
     <lastmod>2026-07-31T01:49:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-did-you-know-crypto-tax-rates-range-from-0-in-the-uae-and-singapore-to-as-high-a.html</loc>
-    <lastmod>2026-07-30T22:30:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260730-the-2026-world-cup-on-chain-20-billion-in-crypto-flows-from-bets-to-tickets.html</loc>
     <lastmod>2026-07-30T16:00:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom.html</loc>
+    <lastmod>2026-07-30T15:27:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
