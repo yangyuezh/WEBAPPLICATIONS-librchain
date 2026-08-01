@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 01 Aug 2026 03:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:38:33 GMT</lastBuildDate>
+    <item>
+      <title>XRP Ledger upgrade brings back features once pulled over critical bugs</title>
+      <link>https://www.librchain.com/news/20260801-xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260801-xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs.html</guid>
+      <description>The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.</description>
+      <pubDate>Sat, 01 Aug 2026 06:09:51 GMT</pubDate>
+      <source url="https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs">CoinDesk</source>
+    </item>
+    <item>
+      <title>How bitcoin cold wallets lost $70 million in an attack that never touched the devices</title>
+      <link>https://www.librchain.com/news/20260801-how-bitcoin-cold-wallets-lost-70-million-in-an-attack-that-never-touched-the-dev.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260801-how-bitcoin-cold-wallets-lost-70-million-in-an-attack-that-never-touched-the-dev.html</guid>
+      <description>Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.</description>
+      <pubDate>Sat, 01 Aug 2026 05:55:46 GMT</pubDate>
+      <source url="https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices">CoinDesk</source>
+    </item>
     <item>
       <title>As the largest crypto custodian in the world, @coinbase is here to help 🫡 There is a lot we can say about secure storage, but air-gapping keys (so they never touch the internet) and distributing them (with consensus protocols), helps convert some (but not all) of - x.com</title>
       <link>https://www.librchain.com/news/20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a.html</link>
@@ -13,6 +29,14 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56TWxreXdzRDl1S1dtRlMtR2tOcVc3Y09BeTBnVkFIYnJQNzhCbk13aGt2S3V3Z1JRN0hBMmtOMVZSZkJPNXNMeVhKYXpKcmIzNkp2ei1jdGxSMlJxX2ZhTXgyeDdTZ1U?oc=5&quot; target=&quot;_blank&quot;&gt;As the largest crypto custo…</description>
       <pubDate>Fri, 31 Jul 2026 22:58:30 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56TWxreXdzRDl1S1dtRlMtR2tOcVc3Y09BeTBnVkFIYnJQNzhCbk13aGt2S3V3Z1JRN0hBMmtOMVZSZkJPNXNMeVhKYXpKcmIzNkp2ei1jdGxSMlJxX2ZhTXgyeDdTZ1U?oc=5">X Wire</source>
+    </item>
+    <item>
+      <title>CHAINALYSIS: ATTACKER TARGETED LARGEST COLDCARD WALLETS FIRST, BLOCK SAYS INVESTIGATION TRACED SWEEPER’S WORKFLOW Chainalysis says analysis of the $38M+ Coldcard exploit shows the attacker deliberately targeted the high - x.com</title>
+      <link>https://www.librchain.com/news/20260731-chainalysis-attacker-targeted-largest-coldcard-wallets-first-block-says-investig.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260731-chainalysis-attacker-targeted-largest-coldcard-wallets-first-block-says-investig.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BWjh3S20wakVEV0gwcDBucWw2X1Vwdm1QOFQ1MFVabHV1WFpZb0NHdE53MmFOUkZrS3h5M3BhR2ZVak93bXJ2M3BDY3dSV2VyZTdzbjZSeXFNWnFFUExWREM4Z0hDQQ?oc=5&quot; target=&quot;_blank&quot;&gt;CHAINALYSIS: ATTACKER TARGET…</description>
+      <pubDate>Fri, 31 Jul 2026 21:03:41 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BWjh3S20wakVEV0gwcDBucWw2X1Vwdm1QOFQ1MFVabHV1WFpZb0NHdE53MmFOUkZrS3h5M3BhR2ZVak93bXJ2M3BDY3dSV2VyZTdzbjZSeXFNWnFFUExWREM4Z0hDQQ?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin holds monthly gain, faces &apos;choppy&apos; August as &apos;forced-selling&apos; exhausted, analysts say</title>
@@ -151,6 +175,14 @@
       <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5">X Wire</source>
     </item>
     <item>
+      <title>Happy Birthday Ethereum - x.com</title>
+      <link>https://www.librchain.com/news/20260731-happy-birthday-ethereum-xcom.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260731-happy-birthday-ethereum-xcom.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NdnVHTktERE5kNWVseTVtdHNId0VPNnlmTXh4QVE4YnMzWWdnY185elhxajhKMXlQQWxnYzl3Ul91ck5pU0FVbDFYeF8zTEVPZVNzRy1RVnZWREhzdlVfYVRB?oc=5&quot; target=&quot;_blank&quot;&gt;Happy Birthday Ethereum&lt;/a&gt; &lt;font …</description>
+      <pubDate>Fri, 31 Jul 2026 16:03:11 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NdnVHTktERE5kNWVseTVtdHNId0VPNnlmTXh4QVE4YnMzWWdnY185elhxajhKMXlQQWxnYzl3Ul91ck5pU0FVbDFYeF8zTEVPZVNzRy1RVnZWREhzdlVfYVRB?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound</title>
       <link>https://www.librchain.com/news/20260731-bitcoin-price-sinks-to-2-week-lows-as-us-stocks-fail-to-copy-asia-rebound.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260731-bitcoin-price-sinks-to-2-week-lows-as-us-stocks-fail-to-copy-asia-rebound.html</guid>
@@ -197,6 +229,14 @@
       <description>Institutional options selling, AI and delayed U.S. crypto regulation are weighing on bitcoin, according to STS Digital CEO Maxime Seiler.</description>
       <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
       <source url="https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says">CoinDesk</source>
+    </item>
+    <item>
+      <title>JUST IN: 🇺🇸 Coinbase buys 819 BTC worth $52 million for their balance sheet 👀 Now they hold 17,311 BTC, making them the 9th largest public company holding Bitcoin! 💥 - x.com</title>
+      <link>https://www.librchain.com/news/20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260731-just-in-coinbase-buys-819-btc-worth-52-million-for-their-balance-sheet-now-they-.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wUE9aaDFxWHBjVXJiQUdlS1Nub3JGMjJoaFNqQzhUeURjSlhKaGxnZVdleWdWaWtmaEVYSW45S2V0OTFwN1BvTWZYcmpkNXZXVXVwMDZRMDJQaFJNU3FnYjB2cFphYnM?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: 🇺🇸 Coinbase buys…</description>
+      <pubDate>Fri, 31 Jul 2026 14:22:05 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wUE9aaDFxWHBjVXJiQUdlS1Nub3JGMjJoaFNqQzhUeURjSlhKaGxnZVdleWdWaWtmaEVYSW45S2V0OTFwN1BvTWZYcmpkNXZXVXVwMDZRMDJQaFJNU3FnYjB2cFphYnM?oc=5">X Wire</source>
     </item>
     <item>
       <title>How does Strategy navigate a challenging Bitcoin market, return $STRC to par, and continue compounding Bitcoin per share? In our Q2 earnings call, we laid out the strategy, reviewed our financial position and capital-management framework, and answered - x.com</title>
@@ -445,46 +485,6 @@
       <description>The Bank of Japan left its benchmark at 1% and Governor Ueda&apos;s hawkish signals landed softly, since markets had already priced an October hike.</description>
       <pubDate>Fri, 31 Jul 2026 07:46:10 GMT</pubDate>
       <source url="https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive">CoinDesk</source>
-    </item>
-    <item>
-      <title>🔥 BULLISH: Bitcoin is up 9.82% in July so far, rebounding after back-to-back red months in May and June. Will the momentum continue in August? - x.com</title>
-      <link>https://www.librchain.com/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5&quot; target=&quot;_blank&quot;&gt;🔥 BULLISH: Bitcoin is up 9.82%…</description>
-      <pubDate>Fri, 31 Jul 2026 07:40:27 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Bitcoin ETFs post $233M inflows, pushing week back into the green</title>
-      <link>https://www.librchain.com/news/20260731-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green.html</guid>
-      <description>BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs turned positive for the week and July stayed on track to end in the green.</description>
-      <pubDate>Fri, 31 Jul 2026 06:46:23 GMT</pubDate>
-      <source url="https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Bitcoin flat near $64,000 as Kospi&apos;s record 17% surge leaves crypto untouched</title>
-      <link>https://www.librchain.com/news/20260731-bitcoin-flat-near-64000-as-kospis-record-17-surge-leaves-crypto-untouched.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-bitcoin-flat-near-64000-as-kospis-record-17-surge-leaves-crypto-untouched.html</guid>
-      <description>Samsung and SK Hynix both jumped more than 23%. Bitcoin moved a fraction of a percent in the past 24 hours, and most majors are still lower on the week.</description>
-      <pubDate>Fri, 31 Jul 2026 05:43:39 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched">CoinDesk</source>
-    </item>
-    <item>
-      <title>$107,000 of free crypto has been delivered to participants PayBox claim wallets are currently being reloaded if you claim now, delivery will be slightly delayed thanks for your patience and participation - x.com</title>
-      <link>https://www.librchain.com/news/20260731-107000-of-free-crypto-has-been-delivered-to-participants-paybox-claim-wallets-ar.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-107000-of-free-crypto-has-been-delivered-to-participants-paybox-claim-wallets-ar.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Wm13NjFvME12MmNCY1U2UE56MXB2M1dFOTk5d21CektKTnhjTE55dXVYMnFpOFRIcXUxU1JDYkdJUWYtQzEzXy1jbUhXLXNtMHNZeUJKdlZmVDlC?oc=5&quot; target=&quot;_blank&quot;&gt;$107,000 of free crypto has been delivered…</description>
-      <pubDate>Fri, 31 Jul 2026 05:19:40 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Wm13NjFvME12MmNCY1U2UE56MXB2M1dFOTk5d21CektKTnhjTE55dXVYMnFpOFRIcXUxU1JDYkdJUWYtQzEzXy1jbUhXLXNtMHNZeUJKdlZmVDlC?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep</title>
-      <link>https://www.librchain.com/news/20260731-major-bitcoin-wallet-flaw-drains-38-million-worth-of-btc-in-25-minute-sweep.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-major-bitcoin-wallet-flaw-drains-38-million-worth-of-btc-in-25-minute-sweep.html</guid>
-      <description>A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.</description>
-      <pubDate>Fri, 31 Jul 2026 05:12:55 GMT</pubDate>
-      <source url="https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep">CoinDesk</source>
     </item>
   </channel>
 </rss>
