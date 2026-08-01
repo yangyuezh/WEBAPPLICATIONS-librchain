@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-31T23:13:45.855Z",
-  "total": 66,
+  "updatedAt": "2026-08-01T03:46:00.744Z",
+  "total": 85,
   "items": [
+    {
+      "source": "X Wire",
+      "title": "As the largest crypto custodian in the world, @coinbase is here to help 🫡 There is a lot we can say about secure storage, but air-gapping keys (so they never touch the internet) and distributing them (with consensus protocols), helps convert some (but not all) of - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56TWxreXdzRDl1S1dtRlMtR2tOcVc3Y09BeTBnVkFIYnJQNzhCbk13aGt2S3V3Z1JRN0hBMmtOMVZSZkJPNXNMeVhKYXpKcmIzNkp2ei1jdGxSMlJxX2ZhTXgyeDdTZ1U?oc=5\" target=\"_blank\">As the largest crypto custo…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56TWxreXdzRDl1S1dtRlMtR2tOcVc3Y09BeTBnVkFIYnJQNzhCbk13aGt2S3V3Z1JRN0hBMmtOMVZSZkJPNXNMeVhKYXpKcmIzNkp2ei1jdGxSMlJxX2ZhTXgyeDdTZ1U?oc=5",
+      "publishedAt": "2026-07-31T22:58:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a",
+      "localUrl": "/news/20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
@@ -56,6 +67,17 @@
       "category": "综合",
       "slug": "20260731-ai-music-company-suno-loses-copyright-case-in-germany",
       "localUrl": "/news/20260731-ai-music-company-suno-loses-copyright-case-in-germany.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Live now on Robinhood Chain. Stock Tokens are tokenized debt securities issued by Robinhood Assets (Jersey) Limited. See Robinhood website for more information and their terms. Availability may be restricted in certain jurisdictions. Subject to our Terms of - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGT0FlSlNxTU9rOXV5c2E2aEE4UVZ5TWNTRFFhbUZUVUhyZGJucnFtd2pzOVJyVGhoRUgtbnloRFIwZVFFajdEelpFTWtIa3NILUJpelF1RDZnNGt2TVNlS0I5aW5lNXM?oc=5\" target=\"_blank\">Live now on Robinhood Chain…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGT0FlSlNxTU9rOXV5c2E2aEE4UVZ5TWNTRFFhbUZUVUhyZGJucnFtd2pzOVJyVGhoRUgtbnloRFIwZVFFajdEelpFTWtIa3NILUJpelF1RDZnNGt2TVNlS0I5aW5lNXM?oc=5",
+      "publishedAt": "2026-07-31T20:00:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-live-now-on-robinhood-chain-stock-tokens-are-tokenized-debt-securities-issued-by",
+      "localUrl": "/news/20260731-live-now-on-robinhood-chain-stock-tokens-are-tokenized-debt-securities-issued-by.html"
     },
     {
       "source": "Decrypt",
@@ -210,6 +232,17 @@
       "localUrl": "/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Coinbase Chief Policy Officer talks CLARITY ACT progress on The Hill: \"\"We've got ethics nailed down, we've got nominations nailed down, we've got a bipartisan bill on the substance, we should be good to go\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Coinbase Chie…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5",
+      "publishedAt": "2026-07-31T16:07:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev",
+      "localUrl": "/news/20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
       "summary": "Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
@@ -295,6 +328,17 @@
       "category": "监管",
       "slug": "20260731-crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
       "localUrl": "/news/20260731-crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "How does Strategy navigate a challenging Bitcoin market, return $STRC to par, and continue compounding Bitcoin per share? In our Q2 earnings call, we laid out the strategy, reviewed our financial position and capital-management framework, and answered - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ084bHNkelFFbEx6S1lYbWtDR0M0bGNPejZNbVNQNm5VSXlCZGVpU3Q3dXFnY0FYM09LbVU3LUZyZmczZHZORXN2V3VxM2NYcEZUZHdKejVvNzg?oc=5\" target=\"_blank\">How does Strategy navigate a challenging Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZ084bHNkelFFbEx6S1lYbWtDR0M0bGNPejZNbVNQNm5VSXlCZGVpU3Q3dXFnY0FYM09LbVU3LUZyZmczZHZORXN2V3VxM2NYcEZUZHdKejVvNzg?oc=5",
+      "publishedAt": "2026-07-31T14:07:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-how-does-strategy-navigate-a-challenging-bitcoin-market-return-strc-to-par-and-c",
+      "localUrl": "/news/20260731-how-does-strategy-navigate-a-challenging-bitcoin-market-return-strc-to-par-and-c.html"
     },
     {
       "source": "Cointelegraph",
@@ -406,6 +450,17 @@
       "localUrl": "/news/20260731-boj-intervenes-to-defend-yen-near-160-holds-rates-steady.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Former £55.8 billion Barclay’s bank CEO tells CNBC the Clarity Act \"is really good for the banks\" 👀 \"The largest, most successful banks are going to benefit from this.\" “No one is investing more in innovation right now” than the big banks 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWjRlWVdBRklRMjVzU1B6YjkyUEFnelplUGNPUG9jQXJja1hXbjl2ZEZfaWZvZWktazNNUVhRTk5nYldXSDlOV0lTOHJkNDVER05CM3V1aUlXLURrY1RYYWk5VEtzX2M?oc=5\" target=\"_blank\">JUST IN: Former £55.8 billi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWWjRlWVdBRklRMjVzU1B6YjkyUEFnelplUGNPUG9jQXJja1hXbjl2ZEZfaWZvZWktazNNUVhRTk5nYldXSDlOV0lTOHJkNDVER05CM3V1aUlXLURrY1RYYWk5VEtzX2M?oc=5",
+      "publishedAt": "2026-07-31T13:02:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-former-558-billion-barclays-bank-ceo-tells-cnbc-the-clarity-act-is-reall",
+      "localUrl": "/news/20260731-just-in-former-558-billion-barclays-bank-ceo-tells-cnbc-the-clarity-act-is-reall.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "RWA perps will outpace tokenization",
       "summary": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
@@ -418,6 +473,17 @@
       "category": "RWA",
       "slug": "20260731-rwa-perps-will-outpace-tokenization",
       "localUrl": "/news/20260731-rwa-perps-will-outpace-tokenization.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$63,587.58 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DR3ZEWnZPUzFJM1pzUGRzZ1lyNWdCdmt0NDdUYXd3LWZjRFVrTGI4VGtHMFRRV0ZEQ1NpUVN3M1hxbUQxTW5fS3l4QU94R2V3eVM2MmN4cm9FMUhv?oc=5\" target=\"_blank\">$63,587.58 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DR3ZEWnZPUzFJM1pzUGRzZ1lyNWdCdmt0NDdUYXd3LWZjRFVrTGI4VGtHMFRRV0ZEQ1NpUVN3M1hxbUQxTW5fS3l4QU94R2V3eVM2MmN4cm9FMUhv?oc=5",
+      "publishedAt": "2026-07-31T12:45:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-6358758-bitcoin-xcom",
+      "localUrl": "/news/20260731-6358758-bitcoin-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -588,6 +654,17 @@
       "localUrl": "/news/20260731-new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: $40 million worth of Bitcoin stolen after 500 'Coldcard' hardware wallets were hacked. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mR1ktaFlldUhnSVdsQ0g1UThMd3hsbjk0RkprRDFGeUtlVHlyeTdNWlk3SXJtd3lRRUotZ1RiY3R6aHN0Ukh3eVd0RTVxRDBLaHBia3YyTUFydFNqdzhOY1FB?oc=5\" target=\"_blank\">JUST IN: $40 million worth of Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mR1ktaFlldUhnSVdsQ0g1UThMd3hsbjk0RkprRDFGeUtlVHlyeTdNWlk3SXJtd3lRRUotZ1RiY3R6aHN0Ukh3eVd0RTVxRDBLaHBia3YyTUFydFNqdzhOY1FB?oc=5",
+      "publishedAt": "2026-07-31T09:43:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-40-million-worth-of-bitcoin-stolen-after-500-coldcard-hardware-wallets-w",
+      "localUrl": "/news/20260731-just-in-40-million-worth-of-bitcoin-stolen-after-500-coldcard-hardware-wallets-w.html"
+    },
+    {
       "source": "Decrypt",
       "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
       "summary": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
@@ -674,6 +751,17 @@
       "localUrl": "/news/20260731-live-updates-move-your-funds-now-says-co-founder-and-ceo-of-coldcard-maker-coink.html"
     },
     {
+      "source": "X Wire",
+      "title": "🔥 BULLISH: Bitcoin is up 9.82% in July so far, rebounding after back-to-back red months in May and June. Will the momentum continue in August? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin is up 9.82%…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5",
+      "publishedAt": "2026-07-31T07:40:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month",
+      "localUrl": "/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
       "summary": "BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs turned positive for the week and July stayed on track to end in the green.",
@@ -699,6 +787,17 @@
       "category": "市场",
       "slug": "20260731-bitcoin-flat-near-64000-as-kospis-record-17-surge-leaves-crypto-untouched",
       "localUrl": "/news/20260731-bitcoin-flat-near-64000-as-kospis-record-17-surge-leaves-crypto-untouched.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$107,000 of free crypto has been delivered to participants PayBox claim wallets are currently being reloaded if you claim now, delivery will be slightly delayed thanks for your patience and participation - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Wm13NjFvME12MmNCY1U2UE56MXB2M1dFOTk5d21CektKTnhjTE55dXVYMnFpOFRIcXUxU1JDYkdJUWYtQzEzXy1jbUhXLXNtMHNZeUJKdlZmVDlC?oc=5\" target=\"_blank\">$107,000 of free crypto has been delivered…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93Wm13NjFvME12MmNCY1U2UE56MXB2M1dFOTk5d21CektKTnhjTE55dXVYMnFpOFRIcXUxU1JDYkdJUWYtQzEzXy1jbUhXLXNtMHNZeUJKdlZmVDlC?oc=5",
+      "publishedAt": "2026-07-31T05:19:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-107000-of-free-crypto-has-been-delivered-to-participants-paybox-claim-wallets-ar",
+      "localUrl": "/news/20260731-107000-of-free-crypto-has-been-delivered-to-participants-paybox-claim-wallets-ar.html"
     },
     {
       "source": "CoinDesk",
@@ -728,6 +827,17 @@
       "localUrl": "/news/20260731-cryptos-next-altseason-may-have-fewer-winners-wintermute.html"
     },
     {
+      "source": "X Wire",
+      "title": "Strategy says it will continue selling Bitcoin and no longer allocate all new capital to BTC purchases Strategy said during its Q2 earnings call that it will continue selling Bitcoin when advantageous to replenish its USD reserve, fund preferred dividends and inter - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56QnZtaWxEeE1BWHNadVBWZ0huaTlNS0FJVHczMFZsb2VoS3RjeTV0aXJ3OFhYTE10bnZCdzVDS2N1LXdYVkNhUXlfckoyR0tRaU5iYS1mbzZFR0xBN1Y5QkNZaw?oc=5\" target=\"_blank\">Strategy says it will continue s…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56QnZtaWxEeE1BWHNadVBWZ0huaTlNS0FJVHczMFZsb2VoS3RjeTV0aXJ3OFhYTE10bnZCdzVDS2N1LXdYVkNhUXlfckoyR0tRaU5iYS1mbzZFR0xBN1Y5QkNZaw?oc=5",
+      "publishedAt": "2026-07-31T02:50:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca",
+      "localUrl": "/news/20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
       "summary": "Coinkite urged Coldcard Mk3 users to migrate funds after identifying a potential seed-generation risk, as Bitcoin security experts separately examine an unexplained $38 million wallet drain.",
@@ -739,6 +849,39 @@
       "category": "监管",
       "slug": "20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain",
       "localUrl": "/news/20260731-coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "1/ Earlier today, our Bitcoin engineering and security teams at Block began investigating reports of non-Bitkey wallets being drained. To proactively protect our customers, we began investigating immediately. Here’s what we found 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sSzJlUHAxc1A4Rk5wbXQ2ZU8xTE9mZlZrQkNLUXMzUGVIcndlcEY4RFlIU2lPa0NVMFFVUUhzbVFhQzdLZDN5TnMtTXlXR2tLOXVHcWpwYzd6SFJ4TDJr?oc=5\" target=\"_blank\">1/ Earlier today, our Bitcoin engineer…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sSzJlUHAxc1A4Rk5wbXQ2ZU8xTE9mZlZrQkNLUXMzUGVIcndlcEY4RFlIU2lPa0NVMFFVUUhzbVFhQzdLZDN5TnMtTXlXR2tLOXVHcWpwYzd6SFJ4TDJr?oc=5",
+      "publishedAt": "2026-07-31T01:49:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest",
+      "localUrl": "/news/20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BITCOIN CORE DEVELOPER: “SORRY, THIS IS THE TIME TO PANIC” OVER COLDCARD MK2/MK3 VULNERABILITY Bitcoin Core developer instagibbs says he successfully reproduced the reported COLDCARD vulnerability on a freshly initialized MK3 devi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5\" target=\"_blank\">BITCOIN CORE DEVELOPER: “SOR…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5",
+      "publishedAt": "2026-07-30T23:00:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln",
+      "localUrl": "/news/20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚡️ DID YOU KNOW? Crypto tax rates range from 0% in the UAE and Singapore to as high as 55% in Japan. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE13NG8wQjU5SW82ZktIOFNDTGN4Z2huRzh0ekJhTDM4VDBXSnRqSlRDU1FsbWZXSXpxNmtkeGlabEROTF91cXNhWHh1N0hzMWJzQmF6VkpoVUkyTm4zWUxKdUtTR1Q?oc=5\" target=\"_blank\">⚡️ DID YOU KNOW? Crypto tax rat…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13NG8wQjU5SW82ZktIOFNDTGN4Z2huRzh0ekJhTDM4VDBXSnRqSlRDU1FsbWZXSXpxNmtkeGlabEROTF91cXNhWHh1N0hzMWJzQmF6VkpoVUkyTm4zWUxKdUtTR1Q?oc=5",
+      "publishedAt": "2026-07-30T22:30:29.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-did-you-know-crypto-tax-rates-range-from-0-in-the-uae-and-singapore-to-as-high-a",
+      "localUrl": "/news/20260730-did-you-know-crypto-tax-rates-range-from-0-in-the-uae-and-singapore-to-as-high-a.html"
     },
     {
       "source": "Decrypt",
@@ -767,6 +910,17 @@
       "localUrl": "/news/20260730-treasury-secretary-invokes-bitcoin-creator-satoshi-nakamoto-in-plea-for-clarity-.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Sen. Cynthia Lummis says a Senate vote is still on track before the August recess 👀 \"Sen. Thune has kept a place for the CLARITY ACT on the agenda before the August recess...and I believe he does intend to go through with it...We will be movin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUjY5Y3JJdkVNVFg0TXFYaFRqbHRUTzJIeUg4akFrV0hsc1JsREZVTEhWMGIwOUFGRklBY25oUERHc3hNMFZpVi1GVEkyeTJKdmhuc2V5MFFWZGc5X0l2VXNQcUVBRFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Sen. Cynthia …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUjY5Y3JJdkVNVFg0TXFYaFRqbHRUTzJIeUg4akFrV0hsc1JsREZVTEhWMGIwOUFGRklBY25oUERHc3hNMFZpVi1GVEkyeTJKdmhuc2V5MFFWZGc5X0l2VXNQcUVBRFU?oc=5",
+      "publishedAt": "2026-07-30T19:26:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-just-in-sen-cynthia-lummis-says-a-senate-vote-is-still-on-track-before-the-augus",
+      "localUrl": "/news/20260730-just-in-sen-cynthia-lummis-says-a-senate-vote-is-still-on-track-before-the-augus.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Researchers Tried Letting AI Do Science. It Failed",
       "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
@@ -778,6 +932,17 @@
       "category": "综合",
       "slug": "20260730-researchers-tried-letting-ai-do-science-it-failed",
       "localUrl": "/news/20260730-researchers-tried-letting-ai-do-science-it-failed.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto is the currency of choice for crooks. Lori Flowers shares her story as a victim of crypto-enabled transnational organized crime—in order for them to succeed, her scammers needed crypto. We cannot keep giving the bad guys an easy button. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VaWZ2TzZodlV5UDd4ckxyaUpJNE8wTEN1VGs4QmVQeGxlSURucENhNlBCdXh4NXA4WXlydEhjU1A5cFRXcUdPV2NnVDVGSkpxSlRDMERVa0RNcTFSRzh6RnVoaTE?oc=5\" target=\"_blank\">Crypto is the currency of choic…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VaWZ2TzZodlV5UDd4ckxyaUpJNE8wTEN1VGs4QmVQeGxlSURucENhNlBCdXh4NXA4WXlydEhjU1A5cFRXcUdPV2NnVDVGSkpxSlRDMERVa0RNcTFSRzh6RnVoaTE?oc=5",
+      "publishedAt": "2026-07-30T18:10:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-crypto-is-the-currency-of-choice-for-crooks-lori-flowers-shares-her-story-as-a-v",
+      "localUrl": "/news/20260730-crypto-is-the-currency-of-choice-for-crooks-lori-flowers-shares-her-story-as-a-v.html"
     },
     {
       "source": "Decrypt",
@@ -819,6 +984,28 @@
       "localUrl": "/news/20260730-cathie-woods-ark-invest-sells-bitmine-while-adding-to-coinbase-and-circle-holdin.html"
     },
     {
+      "source": "X Wire",
+      "title": "More than a year ago, the House passed the Clarity Act. There’s been progress since — thousands of hours of bipartisan negotiations took place at the staff and Member levels. The Senate Committees on Banking and Agriculture advanced their respective title - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5\" target=\"_blank\">More than a year ago, the H…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTkQySjRRZGo1SDVIVi1oY3pkV1pzTExBUXJHaG9aLUNoRWFWdUxVcGJrd1VUWEt4RHVYQTl3VHQ1NGJiNW5HRGtMaDl3YWVONDU4X0pPN2NSbERTcDdjbVpNNFJ1WUk?oc=5",
+      "publishedAt": "2026-07-30T16:32:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-more-than-a-year-ago-the-house-passed-the-clarity-act-theres-been-progress-since",
+      "localUrl": "/news/20260730-more-than-a-year-ago-the-house-passed-the-clarity-act-theres-been-progress-since.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Weird but true: without crypto, the current AI boom would not have been possible. Today's data center buildout would've been impossible without Bitcoin miners spending a decade building the knowhow around power, sites, and scale in remote locations. Nvidi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xbE5NcGRnam5Mam52Z0hmcnlqS3FVQ19HcEpsbXNWYW45Vk54cmc1dEhNZGM0V3otQUV6aTJaSExlRFh4a0dZQ0JNS3RXUmNUeVhsbGh6Nkh1NVRJ?oc=5\" target=\"_blank\">Weird but true: without crypto, the curren…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xbE5NcGRnam5Mam52Z0hmcnlqS3FVQ19HcEpsbXNWYW45Vk54cmc1dEhNZGM0V3otQUV6aTJaSExlRFh4a0dZQ0JNS3RXUmNUeVhsbGh6Nkh1NVRJ?oc=5",
+      "publishedAt": "2026-07-30T16:12:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-weird-but-true-without-crypto-the-current-ai-boom-would-not-have-been-possible-t",
+      "localUrl": "/news/20260730-weird-but-true-without-crypto-the-current-ai-boom-would-not-have-been-possible-t.html"
+    },
+    {
       "source": "Chainalysis Blog",
       "title": "The 2026 World Cup On-Chain: $20 Billion in Crypto Flows, From Bets to Tickets",
       "summary": "Summary The 2026 World Cup generated $20 billion in prediction market volume and $24 million in digital collectible trades, with… The post The 2026 World Cup On-Chain: $20 Billion in Crypto Flows, From Bets to Tickets appeared first on Cha…",
@@ -854,6 +1041,17 @@
       "localUrl": "/news/20260730-elon-musks-xai-sues-minnesota-to-kill-the-uss-first-ai-nudification-law.html"
     },
     {
+      "source": "X Wire",
+      "title": "Ethereum Mainnet turns 11 today. The next chapter is already shipping. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5\" target=\"_blank\">Ethereum Mainnet turns 11 today. The ne…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5URFF0SUxPVHBqNldXRnJZckVuSzJDSFJfeTJUc2pYVWNnSHlfMnlWcV9DWE1aRVc1eGFHTHRqaGdUWEJoYkhiSTBYNm05Z2xib1BNclFBYXU1NWZBX0E?oc=5",
+      "publishedAt": "2026-07-30T15:27:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom",
+      "localUrl": "/news/20260730-ethereum-mainnet-turns-11-today-the-next-chapter-is-already-shipping-xcom.html"
+    },
+    {
       "source": "Solana Blog",
       "title": "Overview of Institutional Real World Assets on Solana",
       "summary": "Learn how BlackRock, J.P. Morgan, Visa, Franklin Templeton, and other institutions are building the future of tokenized real-world assets on Solana.",
@@ -863,6 +1061,28 @@
       "category": "基础设施",
       "slug": "20260730-overview-of-institutional-real-world-assets-on-solana",
       "localUrl": "/news/20260730-overview-of-institutional-real-world-assets-on-solana.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Capitulation is no where to be seen. Bitcoin holders just started to realized losses on a yearly basis, -136K Bitcoin. However, previous cycles bottomed at -1.3M and -3.7M Bitcoin of annual realized losses. Either this is the most benign cycle in terms of realized - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE94emxhNFdMcFFPM2prZGR3N0hZZ0x3NU9KWU5sSXBUR1BLU1BqNXA0VGYwcDBPTzM4SHZhWktLUEFlc0Zla2hpU1E1Q3BGWVR3Rmg3NnhkU3A0c0F3dTlB?oc=5\" target=\"_blank\">Capitulation is no where to be seen. B…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94emxhNFdMcFFPM2prZGR3N0hZZ0x3NU9KWU5sSXBUR1BLU1BqNXA0VGYwcDBPTzM4SHZhWktLUEFlc0Zla2hpU1E1Q3BGWVR3Rmg3NnhkU3A0c0F3dTlB?oc=5",
+      "publishedAt": "2026-07-30T15:15:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-capitulation-is-no-where-to-be-seen-bitcoin-holders-just-started-to-realized-los",
+      "localUrl": "/news/20260730-capitulation-is-no-where-to-be-seen-bitcoin-holders-just-started-to-realized-los.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is inside the gates of Wall Street. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5\" target=\"_blank\">Bitcoin is inside the gates of Wall Street.…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZXg4b0FPZjhSb0Joc2lzNjV4Mm56R1ZpeGZncHp4VFNkRWFiLUVHczV3LXpJcGsxWUR1aS1wb1JIQjNvOWRQWDRHZXo4bVRSM3ZQVTRybFF2MTg?oc=5",
+      "publishedAt": "2026-07-30T13:20:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom",
+      "localUrl": "/news/20260730-bitcoin-is-inside-the-gates-of-wall-street-xcom.html"
     },
     {
       "source": "Solana Blog",
@@ -906,22 +1126,6 @@
       "category": "基础设施",
       "slug": "20260729-ethereum-foundation-board-update",
       "localUrl": "/news/20260729-ethereum-foundation-board-update.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "OFAC Sanctions Members of Hamas Financing Network",
-      "summary": "Summary OFAC designated Zaid Issam Ahmed al-Jebouri, an Iraqi national based in Istanbul, and two associates as Specially Designated Global… The post OFAC Sanctions Members of Hamas Financing Network appeared first on Chainalysis .",
-      "url": "https://www.chainalysis.com/blog/ofac-sanctions-hamas-facilitators-illicit-finance-july-2026/",
-      "publishedAt": "2026-07-28T02:40:06.000Z",
-      "keywords": [
-        "Crime",
-        "Crypto crime",
-        "OFAC",
-        "Sanctions"
-      ],
-      "category": "综合",
-      "slug": "20260728-ofac-sanctions-members-of-hamas-financing-network",
-      "localUrl": "/news/20260728-ofac-sanctions-members-of-hamas-financing-network.html"
     }
   ]
 }
