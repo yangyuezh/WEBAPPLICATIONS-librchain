@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-01T09:17:06.959Z",
+  "updatedAt": "2026-08-01T11:32:30.229Z",
   "total": 85,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-01T10:23:41.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260801-russia-expands-crypto-mining-ban-to-moscow-through-2032",
+      "localUrl": "/news/20260801-russia-expands-crypto-mining-ban-to-moscow-through-2032.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "summary": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
+      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-01T09:23:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260801-coldcard-bitcoin-loss-estimate-rises-to-70m-after-galaxy-analysis",
+      "localUrl": "/news/20260801-coldcard-bitcoin-loss-estimate-rises-to-70m-after-galaxy-analysis.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
@@ -58,6 +84,17 @@
       "category": "市场",
       "slug": "20260801-how-bitcoin-cold-wallets-lost-70-million-in-an-attack-that-never-touched-the-dev",
       "localUrl": "/news/20260801-how-bitcoin-cold-wallets-lost-70-million-in-an-attack-that-never-touched-the-dev.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Tether Q2 Excess Reserves Halved, Overall Financial Result May Have Exceeded $4B Loss Tether's latest reserve attestation shows excess reserves fell from a record $8.23 billion at the end of Q1 to $4.11 billion as of June 30, a decline of about 50%. Althoug - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZHhtTGU0b0Y4QW9oV3lEWXhqVWtENktUdlVRaFB0dW0zMXFxaEs5SzJMNHVDVlVhTkhyQjVEQXBzT3pDdzdMNHRLQUlCM0QzZmtuNkZrbXNBZmhyb0h6Y0wtRQ?oc=5\" target=\"_blank\">Tether Q2 Excess Reserves Halved…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BZHhtTGU0b0Y4QW9oV3lEWXhqVWtENktUdlVRaFB0dW0zMXFxaEs5SzJMNHVDVlVhTkhyQjVEQXBzT3pDdzdMNHRLQUlCM0QzZmtuNkZrbXNBZmhyb0h6Y0wtRQ?oc=5",
+      "publishedAt": "2026-08-01T05:45:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-tether-q2-excess-reserves-halved-overall-financial-result-may-have-exceeded-4b-l",
+      "localUrl": "/news/20260801-tether-q2-excess-reserves-halved-overall-financial-result-may-have-exceeded-4b-l.html"
     },
     {
       "source": "X Wire",
@@ -365,6 +402,17 @@
       "category": "综合",
       "slug": "20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
       "localUrl": "/news/20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Bitcoin’s current bear market is down 49%, making it the mildest on record by drawdown, per Glassnode. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQmY0cmwyano1YWxtTktBcHo3UmtqWDc3enkxS1ZROEI3d1FyVU9lZElYRDNFY29LZ0pPTURUbUtKTmlKVkNYT1BydEhfUVZRWTdZRE1McG9INzBncHU4cUZ0aVI?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin’s current be…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQmY0cmwyano1YWxtTktBcHo3UmtqWDc3enkxS1ZROEI3d1FyVU9lZElYRDNFY29LZ0pPTURUbUtKTmlKVkNYT1BydEhfUVZRWTdZRE1McG9INzBncHU4cUZ0aVI?oc=5",
+      "publishedAt": "2026-07-31T15:01:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-update-bitcoins-current-bear-market-is-down-49-making-it-the-mildest-on-record-b",
+      "localUrl": "/news/20260731-update-bitcoins-current-bear-market-is-down-49-making-it-the-mildest-on-record-b.html"
     },
     {
       "source": "CoinDesk",
@@ -837,32 +885,6 @@
       "localUrl": "/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
-      "summary": "BlackRock’s IBIT led $233.1 million in daily inflows as US spot Bitcoin ETFs turned positive for the week and July stayed on track to end in the green.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T06:46:23.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260731-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green",
-      "localUrl": "/news/20260731-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto’s next altseason may have fewer winners: Wintermute",
-      "summary": "Institutional investors accounted for 72% of Wintermute’s spot OTC flow in the first half of 2026 as capital clustered in fewer tokens and altcoin rallies became more selective.",
-      "url": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T04:46:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260731-cryptos-next-altseason-may-have-fewer-winners-wintermute",
-      "localUrl": "/news/20260731-cryptos-next-altseason-may-have-fewer-winners-wintermute.html"
-    },
-    {
       "source": "X Wire",
       "title": "Strategy says it will continue selling Bitcoin and no longer allocate all new capital to BTC purchases Strategy said during its Q2 earnings call that it will continue selling Bitcoin when advantageous to replenish its USD reserve, fund preferred dividends and inter - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE56QnZtaWxEeE1BWHNadVBWZ0huaTlNS0FJVHczMFZsb2VoS3RjeTV0aXJ3OFhYTE10bnZCdzVDS2N1LXdYVkNhUXlfckoyR0tRaU5iYS1mbzZFR0xBN1Y5QkNZaw?oc=5\" target=\"_blank\">Strategy says it will continue s…",
@@ -883,17 +905,6 @@
       "category": "X热点",
       "slug": "20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest",
       "localUrl": "/news/20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN CORE DEVELOPER: “SORRY, THIS IS THE TIME TO PANIC” OVER COLDCARD MK2/MK3 VULNERABILITY Bitcoin Core developer instagibbs says he successfully reproduced the reported COLDCARD vulnerability on a freshly initialized MK3 devi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5\" target=\"_blank\">BITCOIN CORE DEVELOPER: “SOR…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1RXVHTkdtSjRqalA1ekI3LVdpdmY5NTFfNXoyV3IxY0dnWVFLdjdWWFQ2aFQyZkR4dnFOTFJrRDV5aXBQeXBGSTRGWHF4c3RhUlVXVXFoSGRac0NiTjJCR292dkFnQQ?oc=5",
-      "publishedAt": "2026-07-30T23:00:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln",
-      "localUrl": "/news/20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln.html"
     },
     {
       "source": "X Wire",
@@ -1103,17 +1114,6 @@
       "category": "监管",
       "slug": "20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead",
       "localUrl": "/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Dear Fiat24 community, First of all, thank you for the trust you've placed in us over the years. Since 14 July, we have temporarily paused Crypto Top-Up, and we know this has been inconvenient for many of you. We sincerely apologize. From day one, Complia - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMGM0bndVaFdBQ29XU2ZCV05mSWd0OEhqNnZqQ290dG4zeHpHZHVNOGQ1YUkwQ04wc041VEo5bVZWU3hnZFljS3JwVC1HNTRMWjFjdWtybFNZT0FnSVY3OXo3eFd3Zw?oc=5\" target=\"_blank\">Dear Fiat24 community, First…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMGM0bndVaFdBQ29XU2ZCV05mSWd0OEhqNnZqQ290dG4zeHpHZHVNOGQ1YUkwQ04wc041VEo5bVZWU3hnZFljS3JwVC1HNTRMWjFjdWtybFNZT0FnSVY3OXo3eFd3Zw?oc=5",
-      "publishedAt": "2026-07-29T16:34:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov",
-      "localUrl": "/news/20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov.html"
     },
     {
       "source": "Ethereum Blog",

@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-01T09:17:07.001Z</lastmod>
+    <lastmod>2026-08-01T11:32:30.271Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-01T09:17:07.001Z</lastmod>
+    <lastmod>2026-08-01T11:32:30.271Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-russia-expands-crypto-mining-ban-to-moscow-through-2032.html</loc>
+    <lastmod>2026-08-01T10:23:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-coldcard-bitcoin-loss-estimate-rises-to-70m-after-galaxy-analysis.html</loc>
+    <lastmod>2026-08-01T09:23:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260801-binance-founder-cz-calls-for-wallet-diversification-after-70-million-coldcard-ex.html</loc>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260801-how-bitcoin-cold-wallets-lost-70-million-in-an-attack-that-never-touched-the-dev.html</loc>
     <lastmod>2026-08-01T05:55:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-tether-q2-excess-reserves-halved-overall-financial-result-may-have-exceeded-4b-l.html</loc>
+    <lastmod>2026-08-01T05:45:42.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -171,6 +189,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay.html</loc>
     <lastmod>2026-07-31T15:01:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-update-bitcoins-current-bear-market-is-down-49-making-it-the-mildest-on-record-b.html</loc>
+    <lastmod>2026-07-31T15:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,18 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-bitcoin-etfs-post-233m-inflows-pushing-week-back-into-the-green.html</loc>
-    <lastmod>2026-07-31T06:46:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-cryptos-next-altseason-may-have-fewer-winners-wintermute.html</loc>
-    <lastmod>2026-07-31T04:46:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-strategy-says-it-will-continue-selling-bitcoin-and-no-longer-allocate-all-new-ca.html</loc>
     <lastmod>2026-07-31T02:50:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,12 +417,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-1-earlier-today-our-bitcoin-engineering-and-security-teams-at-block-began-invest.html</loc>
     <lastmod>2026-07-31T01:49:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260730-bitcoin-core-developer-sorry-this-is-the-time-to-panic-over-coldcard-mk2mk3-vuln.html</loc>
-    <lastmod>2026-07-30T23:00:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html</loc>
     <lastmod>2026-07-29T17:02:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260729-dear-fiat24-community-first-of-all-thank-you-for-the-trust-youve-placed-in-us-ov.html</loc>
-    <lastmod>2026-07-29T16:34:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
