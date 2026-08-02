@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-08-02T15:15:45.561Z",
-  "total": 84,
+  "updatedAt": "2026-08-02T17:11:40.779Z",
+  "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "summary": "Revenue fell from $80 million to $20 million in the bear market. OTC lending at $260 million outstanding is the fastest-growing line, targeting $1 billion by year-end.",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "publishedAt": "2026-08-02T17:00:00.000Z",
+      "keywords": [
+        "Web3",
+        "DeFi",
+        "Stablecoins",
+        "Web3",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260802-why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-te",
+      "localUrl": "/news/20260802-why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-te.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+      "summary": "Alex Fine said standalone crypto payment rails are becoming obsolete as platforms shift toward unified funding flows that abstract away blockchain complexity for users.",
+      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "publishedAt": "2026-08-02T16:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Prediction Markets",
+        "Exclusive",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260802-the-future-of-crypto-payments-wont-include-on-ramps-or-bridges-fun-ceo-says",
+      "localUrl": "/news/20260802-the-future-of-crypto-payments-wont-include-on-ramps-or-bridges-fun-ceo-says.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
+      "summary": "Investors have previously benefited from a payout boost when the preferred STRC shares traded well below their $100 par value for a month.",
+      "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-02T15:23:33.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260802-strategy-leaves-preferred-strc-dividend-at-12-as-price-still-below-par",
+      "localUrl": "/news/20260802-strategy-leaves-preferred-strc-dividend-at-12-as-price-still-below-par.html"
+    },
     {
       "source": "Decrypt",
       "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
@@ -29,17 +75,6 @@
       "category": "DeFi",
       "slug": "20260802-the-reverse-bridge-crypto-meets-wall-street-using-perps",
       "localUrl": "/news/20260802-the-reverse-bridge-crypto-meets-wall-street-using-perps.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin Drive engaged. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5\" target=\"_blank\">Bitcoin Drive engaged.</a> <font color=\"#6f…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5",
-      "publishedAt": "2026-08-02T12:36:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-bitcoin-drive-engaged-xcom",
-      "localUrl": "/news/20260802-bitcoin-drive-engaged-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -110,6 +145,17 @@
     },
     {
       "source": "X Wire",
+      "title": "ALERT: 🇺🇸🇯🇵The US and Japan may be preparing a MAJOR shock for global markets. A \"joint operation\" to strengthen the yen expected to be announced tomorrow. If the US sells dollars to buy yen, the dollar weakens and USD/JPY falls. Normally, this supp - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNG1SZ18yWnBWajAtUkUtTjM0ZDBKcjRwdVRoZTVNelhFcXgwbG5RZ05RRF81U04xeEFMUXFyY3F2N2FHN1NNLU1Rc0tZcnkzdTgwdTRVNTBzbElhZGtibA?oc=5\" target=\"_blank\">ALERT: 🇺🇸🇯🇵The US and Japan may …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNG1SZ18yWnBWajAtUkUtTjM0ZDBKcjRwdVRoZTVNelhFcXgwbG5RZ05RRF81U04xeEFMUXFyY3F2N2FHN1NNLU1Rc0tZcnkzdTgwdTRVNTBzbElhZGtibA?oc=5",
+      "publishedAt": "2026-08-02T05:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-alert-the-us-and-japan-may-be-preparing-a-major-shock-for-global-markets-a-joint",
+      "localUrl": "/news/20260802-alert-the-us-and-japan-may-be-preparing-a-major-shock-for-global-markets-a-joint.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Michael Saylor: Strategy Never Promised It Would Never Sell Bitcoin and Expects to Remain a Net Buyer Michael Saylor said Strategy has never committed to a “never sell” Bitcoin policy, and its BTC monetization program does not require the company to sell - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GOE9WTTJQcHRTSFNnMC1QMEpTVHhCakRoNTcxeHFISTkzRGMyYmdLWGVldzJoN1NsbkI3d3dZT2NxakVjOWkyVlFfRkI4NVhwcndkOW9JOGVEWHA1ZlpOODZ6dw?oc=5\" target=\"_blank\">Michael Saylor: Strategy Never P…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GOE9WTTJQcHRTSFNnMC1QMEpTVHhCakRoNTcxeHFISTkzRGMyYmdLWGVldzJoN1NsbkI3d3dZT2NxakVjOWkyVlFfRkI4NVhwcndkOW9JOGVEWHA1ZlpOODZ6dw?oc=5",
@@ -140,6 +186,17 @@
       "category": "X热点",
       "slug": "20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc",
       "localUrl": "/news/20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "bitcoin sellers as soon as they see us having fun on-chain for the first time in months - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ld2ZsUzBoQ2NiaUZ0SHA5dlpQTm9UdW1veEx6Q3E4bkNXODAzbWkycUxsbkx1YVJueGVvbUJjUDJ3bktPUGxFLWlJcFBGdTZnSExDMC1SV01CQ1NBc1BJ?oc=5\" target=\"_blank\">bitcoin sellers as soon as they see us…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ld2ZsUzBoQ2NiaUZ0SHA5dlpQTm9UdW1veEx6Q3E4bkNXODAzbWkycUxsbkx1YVJueGVvbUJjUDJ3bktPUGxFLWlJcFBGdTZnSExDMC1SV01CQ1NBc1BJ?oc=5",
+      "publishedAt": "2026-08-01T23:17:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-bitcoin-sellers-as-soon-as-they-see-us-having-fun-on-chain-for-the-first-time-in",
+      "localUrl": "/news/20260801-bitcoin-sellers-as-soon-as-they-see-us-having-fun-on-chain-for-the-first-time-in.html"
     },
     {
       "source": "X Wire",
@@ -216,17 +273,6 @@
       "category": "X热点",
       "slug": "20260801-just-in-a-third-coldcard-hack-has-been-reported-with-another-2077294-btc-stolen-",
       "localUrl": "/news/20260801-just-in-a-third-coldcard-hack-has-been-reported-with-another-2077294-btc-stolen-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "This is a fair point.. but it brings me back to how ETFs were such an intermediary upgrade for Bitcoin. Just what the doctor ordered. Safer, more secure and almost always cheaper. 33yr old industry 15T in aum, 500T in volume, 5400 funds and never once “lost” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rdXpGM1JFMk9WQ3dDa0lKOTNhNDBiS2VETzN1OTNqSmh5Z2c0N1pCcmpia245dEVYY0ZkSElqN05YNXo0Z19WTGl6WFV4dHphSEE4c2Etb09iaDFicE1fMkpTY2g?oc=5\" target=\"_blank\">This is a fair point.. but it b…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rdXpGM1JFMk9WQ3dDa0lKOTNhNDBiS2VETzN1OTNqSmh5Z2c0N1pCcmpia245dEVYY0ZkSElqN05YNXo0Z19WTGl6WFV4dHphSEE4c2Etb09iaDFicE1fMkpTY2g?oc=5",
-      "publishedAt": "2026-08-01T18:13:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-this-is-a-fair-point-but-it-brings-me-back-to-how-etfs-were-such-an-intermediary",
-      "localUrl": "/news/20260801-this-is-a-fair-point-but-it-brings-me-back-to-how-etfs-were-such-an-intermediary.html"
     },
     {
       "source": "Cointelegraph",
@@ -365,6 +411,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨 SAYLOR: Just 2.54% of recent Bitcoin blocks signaled BIP-110. He says the required 55% threshold is mathematically unreachable. \"This is not miner consensus.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tV2dMWUhqVDdhaUFDZ0EyS0pEdklzZE90b0dlRDBKbWc4TTJyZHNrdlRLYzBJazRqaEZMalZvQzN3Y3k0dlItU2NmVlNRX3h3azc1RGtHcHhrMUpBb1lDbjFEQ1Y?oc=5\" target=\"_blank\">🚨 SAYLOR: Just 2.54% of recent…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tV2dMWUhqVDdhaUFDZ0EyS0pEdklzZE90b0dlRDBKbWc4TTJyZHNrdlRLYzBJazRqaEZMalZvQzN3Y3k0dlItU2NmVlNRX3h3azc1RGtHcHhrMUpBb1lDbjFEQ1Y?oc=5",
+      "publishedAt": "2026-08-01T15:30:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-saylor-just-254-of-recent-bitcoin-blocks-signaled-bip-110-he-says-the-required-5",
+      "localUrl": "/news/20260801-saylor-just-254-of-recent-bitcoin-blocks-signaled-bip-110-he-says-the-required-5.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Starting to see more anti-crypto ads. In Minnesota, Peggy Flanagan is running ads hitting Angie Craig for her crypto votes, saying she \"voted to let Trump make billions selling crypto coins.\" This second ad is running in DC on the Clarity Act. I've seen it run 4 tim - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VMF9VeE9yMFlITWd3VEVhaHpaTUJ5cXI5X3VFdG1TODBPMi1jRWNBZjlFanNDdk1PdExmcS0wNGRvSmVydVdVeS0xdGE2bkR1MDN4YTdzZ1pDVUtRU0VndmxHdC1zR2M?oc=5\" target=\"_blank\">Starting to see more anti-c…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VMF9VeE9yMFlITWd3VEVhaHpaTUJ5cXI5X3VFdG1TODBPMi1jRWNBZjlFanNDdk1PdExmcS0wNGRvSmVydVdVeS0xdGE2bkR1MDN4YTdzZ1pDVUtRU0VndmxHdC1zR2M?oc=5",
@@ -489,7 +546,7 @@
       "title": "Russia expands crypto mining ban to Moscow through 2032",
       "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
       "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-01T10:23:41.000Z",
+      "publishedAt": "2026-08-01T10:30:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -531,7 +588,7 @@
       "title": "Bitcoin ETFs end July in the green despite late-month selling",
       "summary": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
       "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-01T07:23:07.000Z",
+      "publishedAt": "2026-08-01T07:25:00.000Z",
       "keywords": [
         "Markets"
       ],
@@ -773,17 +830,6 @@
       "localUrl": "/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html"
     },
     {
-      "source": "X Wire",
-      "title": "Happy Birthday Ethereum - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NdnVHTktERE5kNWVseTVtdHNId0VPNnlmTXh4QVE4YnMzWWdnY185elhxajhKMXlQQWxnYzl3Ul91ck5pU0FVbDFYeF8zTEVPZVNzRy1RVnZWREhzdlVfYVRB?oc=5\" target=\"_blank\">Happy Birthday Ethereum</a> <font …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NdnVHTktERE5kNWVseTVtdHNId0VPNnlmTXh4QVE4YnMzWWdnY185elhxajhKMXlQQWxnYzl3Ul91ck5pU0FVbDFYeF8zTEVPZVNzRy1RVnZWREhzdlVfYVRB?oc=5",
-      "publishedAt": "2026-07-31T16:03:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-happy-birthday-ethereum-xcom",
-      "localUrl": "/news/20260731-happy-birthday-ethereum-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
       "summary": "Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
@@ -851,26 +897,6 @@
       "localUrl": "/news/20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
-      "summary": "Institutional options selling, AI and delayed U.S. crypto regulation are weighing on bitcoin, according to STS Digital CEO Maxime Seiler.",
-      "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
-      "publishedAt": "2026-07-31T15:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Trading",
-        "Exclusive",
-        "STS Digital",
-        "crypto options",
-        "Regulation",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
-      "localUrl": "/news/20260731-crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "ECB says digital euro app will exceed EU accessibility standards",
       "summary": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
@@ -921,35 +947,6 @@
       "category": "安全",
       "slug": "20260731-claude-hacked-three-companies-in-internal-testing-anthropic",
       "localUrl": "/news/20260731-claude-hacked-three-companies-in-internal-testing-anthropic.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
-      "summary": "The approval lets the USDC issuer offer fiduciary and custody services under New York banking law.",
-      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "publishedAt": "2026-07-31T13:35:17.000Z",
-      "keywords": [
-        "Policy",
-        "Circle",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "localUrl": "/news/20260731-circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Circle receives New York trust charter for subsidiary",
-      "summary": "The New York trust charter allows Circle’s subsidiary to provide fiduciary and custody services under state banking law.",
-      "url": "https://cointelegraph.com/news/circle-receives-new-york-trust-charter-for-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T13:27:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260731-circle-receives-new-york-trust-charter-for-subsidiary",
-      "localUrl": "/news/20260731-circle-receives-new-york-trust-charter-for-subsidiary.html"
     },
     {
       "source": "Decrypt",
@@ -1098,25 +1095,6 @@
       "category": "基础设施",
       "slug": "20260730-solana-changelog-mainnet-raises-block-limits-to-100m-cus",
       "localUrl": "/news/20260730-solana-changelog-mainnet-raises-block-limits-to-100m-cus.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead",
-      "summary": "Summary Institutions are shaping blockchain design: A new generation of hybrid blockchains are building capabilities that suit the privacy-forward needs… The post Monitoring Privacy Blockchains: How Compliance Teams Can Stay a Step Ahead a…",
-      "url": "https://www.chainalysis.com/blog/privacy-blockchain-compliance/",
-      "publishedAt": "2026-07-29T17:02:03.000Z",
-      "keywords": [
-        "Crypto Basics",
-        "Blockchain Privacy",
-        "Canton",
-        "Compliance",
-        "Institutions",
-        "On-Chain",
-        "Transactions"
-      ],
-      "category": "监管",
-      "slug": "20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead",
-      "localUrl": "/news/20260729-monitoring-privacy-blockchains-how-compliance-teams-can-stay-a-step-ahead.html"
     }
   ]
 }
