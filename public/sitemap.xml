@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-02T21:07:34.574Z</lastmod>
+    <lastmod>2026-08-02T22:09:23.267Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-02T21:07:34.574Z</lastmod>
+    <lastmod>2026-08-02T22:09:23.267Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,12 +21,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-counting-down-the-days-state-of-crypto.html</loc>
     <lastmod>2026-08-02T18:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html</loc>
-    <lastmod>2026-08-02T17:48:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -63,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-whats-the-deal-with-metas-pervert-glasses.html</loc>
     <lastmod>2026-08-02T15:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html</loc>
+    <lastmod>2026-08-02T14:59:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
