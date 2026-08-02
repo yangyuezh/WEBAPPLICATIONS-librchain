@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T03:52:26.283Z",
+  "updatedAt": "2026-08-02T06:42:41.050Z",
   "total": 84,
   "items": [
     {
@@ -43,6 +43,17 @@
       "localUrl": "/news/20260801-just-in-bitcoin-stolen-from-coldcard-hardware-wallet-hack-now-exceeds-88000000-x.html"
     },
     {
+      "source": "X Wire",
+      "title": "🔥TOM LEE: \"I'm still quite bullish on Bitcoin\" but says BitMine \"wanted to accumulate Ethereum.\" He says he holds MicroStrategy for Bitcoin exposure but built BitMine's treasury around Ethereum because the capital structure was simpler. \"BitMine is the largest - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iSzdsMkp2aTJKZkg0NG45Yk9oemZCS21WRG5lb0lZZ0R1MEZpU1NfVThkdzk1LTRaOUhLTDBIR0R4VHEyVW1neFlzMVR3dXNwYjJkTTFERWFCeUhaMWJBXw?oc=5\" target=\"_blank\">🔥TOM LEE: \"I'm still quite bullish …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iSzdsMkp2aTJKZkg0NG45Yk9oemZCS21WRG5lb0lZZ0R1MEZpU1NfVThkdzk1LTRaOUhLTDBIR0R4VHEyVW1neFlzMVR3dXNwYjJkTTFERWFCeUhaMWJBXw?oc=5",
+      "publishedAt": "2026-08-01T20:15:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-tom-lee-im-still-quite-bullish-on-bitcoin-but-says-bitmine-wanted-to-accumulate-",
+      "localUrl": "/news/20260801-tom-lee-im-still-quite-bullish-on-bitcoin-but-says-bitmine-wanted-to-accumulate-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
       "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
@@ -79,6 +90,17 @@
       "category": "综合",
       "slug": "20260801-minnesota-crypto-atm-ban-goes-into-effect-after-reported-1m-losses",
       "localUrl": "/news/20260801-minnesota-crypto-atm-ban-goes-into-effect-after-reported-1m-losses.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Less than 1% of Bitcoin’s economic weight has adopted BIP-110. The claim that 16%-18% of nodes equals 16%-18% support confuses software distribution with economic consensus. Bitcoin is not one node, one vote. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DNllnR3BreGYwNzZURFVxYk1FUmFmX0V0Mk9TTDlsR0NqN2dNYlYzY0lZNUktQXZqMUlUOHpNa1B0RXRRbjVqa2VIb05qcHFsYkFURVRDUG50dUk?oc=5\" target=\"_blank\">Less than 1% of Bitcoin’s economic weight h…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DNllnR3BreGYwNzZURFVxYk1FUmFmX0V0Mk9TTDlsR0NqN2dNYlYzY0lZNUktQXZqMUlUOHpNa1B0RXRRbjVqa2VIb05qcHFsYkFURVRDUG50dUk?oc=5",
+      "publishedAt": "2026-08-01T17:57:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-less-than-1-of-bitcoins-economic-weight-has-adopted-bip-110-the-claim-that-16-18",
+      "localUrl": "/news/20260801-less-than-1-of-bitcoins-economic-weight-has-adopted-bip-110-the-claim-that-16-18.html"
     },
     {
       "source": "CoinDesk",
@@ -434,17 +456,6 @@
       "localUrl": "/news/20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor and Strategy now officially endorse the passage of the Clarity Act: \"We support the CLARITY Act and believe a clear, durable market structure framework would help advance the digital asset industry and encourage broader institutiona - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GY3JaYkREcVVlTTZ0UW53VjdRTEFQWTBTaTR3eC1TMEJHUEZtWmJ6RVM4Qk5uaVRpSGh3U0xaRzRIQ1BpNkJTQmRfRlFLN1FJM0VFem1SOHpkYm1DeUd5N19JWWtZUjg?oc=5\" target=\"_blank\">JUST IN: Michael Saylor and…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GY3JaYkREcVVlTTZ0UW53VjdRTEFQWTBTaTR3eC1TMEJHUEZtWmJ6RVM4Qk5uaVRpSGh3U0xaRzRIQ1BpNkJTQmRfRlFLN1FJM0VFem1SOHpkYm1DeUd5N19JWWtZUjg?oc=5",
-      "publishedAt": "2026-07-31T20:40:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-just-in-michael-saylor-and-strategy-now-officially-endorse-the-passage-of-the-cl",
-      "localUrl": "/news/20260731-just-in-michael-saylor-and-strategy-now-officially-endorse-the-passage-of-the-cl.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
       "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
@@ -634,6 +645,17 @@
       "category": "DeFi",
       "slug": "20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative",
       "localUrl": "/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Coinbase Chief Policy Officer talks CLARITY ACT progress on The Hill: \"\"We've got ethics nailed down, we've got nominations nailed down, we've got a bipartisan bill on the substance, we should be good to go\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Coinbase Chie…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yS2t1cmYyenFjaGdHbFFWaXhYdnppS0sxSXNuWTBDOVRhUmd6MWczd1RSLUY3eGpxMDdJZW5GeXp1aXlTblhKRTNtNmQ5VzNpTzJZS3lwbzJrWEZyb3JuSnRVNkp4dW8?oc=5",
+      "publishedAt": "2026-07-31T16:07:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev",
+      "localUrl": "/news/20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev.html"
     },
     {
       "source": "X Wire",
@@ -868,17 +890,6 @@
       "localUrl": "/news/20260731-rwa-perps-will-outpace-tokenization.html"
     },
     {
-      "source": "X Wire",
-      "title": "$63,587.58 #Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DR3ZEWnZPUzFJM1pzUGRzZ1lyNWdCdmt0NDdUYXd3LWZjRFVrTGI4VGtHMFRRV0ZEQ1NpUVN3M1hxbUQxTW5fS3l4QU94R2V3eVM2MmN4cm9FMUhv?oc=5\" target=\"_blank\">$63,587.58 #Bitcoin</a> <font color=\"#6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DR3ZEWnZPUzFJM1pzUGRzZ1lyNWdCdmt0NDdUYXd3LWZjRFVrTGI4VGtHMFRRV0ZEQ1NpUVN3M1hxbUQxTW5fS3l4QU94R2V3eVM2MmN4cm9FMUhv?oc=5",
-      "publishedAt": "2026-07-31T12:45:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-6358758-bitcoin-xcom",
-      "localUrl": "/news/20260731-6358758-bitcoin-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
       "summary": "Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages",
@@ -955,17 +966,6 @@
       "category": "监管",
       "slug": "20260731-38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
       "localUrl": "/news/20260731-38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 BULLISH: Bitcoin is up 9.82% in July so far, rebounding after back-to-back red months in May and June. Will the momentum continue in August? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin is up 9.82%…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10QmlIT0YwUjI5UEJSQlFBQTA5QWVJYkZWTkdKdUc5ZUZmeFo1ZmhSTm5wYlRRM2pnVFFjcmJzSnJ0Uk5Vb1VXLTFHaTZXZWEyVzJqaE9ldldGazBrUmdteXQ1Nl8?oc=5",
-      "publishedAt": "2026-07-31T07:40:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month",
-      "localUrl": "/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html"
     },
     {
       "source": "X Wire",

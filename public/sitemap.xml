@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-02T03:52:26.327Z</lastmod>
+    <lastmod>2026-08-02T06:42:41.092Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-02T03:52:26.327Z</lastmod>
+    <lastmod>2026-08-02T06:42:41.092Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,6 +31,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260801-tom-lee-im-still-quite-bullish-on-bitcoin-but-says-bitmine-wanted-to-accumulate-.html</loc>
+    <lastmod>2026-08-01T20:15:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260801-bitcoin-cold-wallet-attack-spreads-to-4500-addresses-as-losses-near-89-million.html</loc>
     <lastmod>2026-08-01T20:10:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -45,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260801-minnesota-crypto-atm-ban-goes-into-effect-after-reported-1m-losses.html</loc>
     <lastmod>2026-08-01T18:07:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260801-less-than-1-of-bitcoins-economic-weight-has-adopted-bip-110-the-claim-that-16-18.html</loc>
+    <lastmod>2026-08-01T17:57:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,12 +223,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-just-in-michael-saylor-and-strategy-now-officially-endorse-the-passage-of-the-cl.html</loc>
-    <lastmod>2026-07-31T20:40:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears.html</loc>
     <lastmod>2026-07-31T20:32:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -297,6 +303,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html</loc>
     <lastmod>2026-07-31T16:14:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260731-just-in-coinbase-chief-policy-officer-talks-clarity-act-progress-on-the-hill-wev.html</loc>
+    <lastmod>2026-07-31T16:07:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-6358758-bitcoin-xcom.html</loc>
-    <lastmod>2026-07-31T12:45:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up.html</loc>
     <lastmod>2026-07-31T12:11:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found.html</loc>
     <lastmod>2026-07-31T09:02:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-bullish-bitcoin-is-up-982-in-july-so-far-rebounding-after-back-to-back-red-month.html</loc>
-    <lastmod>2026-07-31T07:40:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
