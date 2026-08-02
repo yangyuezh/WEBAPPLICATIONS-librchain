@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-02T19:30:34.086Z</lastmod>
+    <lastmod>2026-08-02T21:07:34.574Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-02T19:30:34.086Z</lastmod>
+    <lastmod>2026-08-02T21:07:34.574Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260802-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-02T20:00:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260802-counting-down-the-days-state-of-crypto.html</loc>
     <lastmod>2026-08-02T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html</loc>
+    <lastmod>2026-08-02T17:48:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,20 +73,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-bitcoin-drive-engaged-xcom.html</loc>
-    <lastmod>2026-08-02T12:36:12.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom.html</loc>
+    <lastmod>2026-08-02T12:37:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260802-unlike-the-ftx-collapse-the-89-million-coldcard-exploit-has-investors-sending-bi.html</loc>
     <lastmod>2026-08-02T12:03:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260802-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-02T11:56:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -205,14 +211,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260801-sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge.html</loc>
-    <lastmod>2026-08-01T15:48:27.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260801-crypto-pac-pours-another-1m-into-michigan-house-race.html</loc>
+    <lastmod>2026-08-01T15:49:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260801-crypto-pac-pours-another-1m-into-michigan-house-race.html</loc>
-    <lastmod>2026-08-01T15:44:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260801-sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge.html</loc>
+    <lastmod>2026-08-01T15:48:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -237,12 +243,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup.html</loc>
     <lastmod>2026-08-01T15:01:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260801-yes-an-etf-fixes-this-and-it-is-kinda-ironic-given-some-cold-storage-ppl-label-e.html</loc>
-    <lastmod>2026-08-01T14:50:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
