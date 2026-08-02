@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-02T17:11:40.779Z",
+  "updatedAt": "2026-08-02T19:30:34.046Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Counting down the days: State of Crypto",
+      "summary": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.",
+      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "publishedAt": "2026-08-02T18:30:00.000Z",
+      "keywords": [
+        "Policy",
+        "Newsletters",
+        "State of Crypto",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260802-counting-down-the-days-state-of-crypto",
+      "localUrl": "/news/20260802-counting-down-the-days-state-of-crypto.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+      "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
+      "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+      "publishedAt": "2026-08-02T17:18:51.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260802-coldcard-bitcoin-exploit-balloons-to-88-million-as-attackers-keep-draining-walle",
+      "localUrl": "/news/20260802-coldcard-bitcoin-exploit-balloons-to-88-million-as-attackers-keep-draining-walle.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
@@ -36,11 +65,22 @@
       "localUrl": "/news/20260802-the-future-of-crypto-payments-wont-include-on-ramps-or-bridges-fun-ceo-says.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 SAYLOR: \"Bitcoin Drive engaged.\" What do you think they're going to do tomorrow? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mOEJ2Zmd2R19ZdVVRRmpGNDZOcTQzMF9LbGNueVZMTEtrakdEWHZPNEhaZmhhdWRnREdmYVlUQlJhOXJ2S1d4czJ3YTNPMWM2VUlYRTlzMjQ1S0FXLTc3dW9UbjE?oc=5\" target=\"_blank\">🚨 SAYLOR: \"Bitcoin Drive engag…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mOEJ2Zmd2R19ZdVVRRmpGNDZOcTQzMF9LbGNueVZMTEtrakdEWHZPNEhaZmhhdWRnREdmYVlUQlJhOXJ2S1d4czJ3YTNPMWM2VUlYRTlzMjQ1S0FXLTc3dW9UbjE?oc=5",
+      "publishedAt": "2026-08-02T15:31:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-saylor-bitcoin-drive-engaged-what-do-you-think-theyre-going-to-do-tomorrow-xcom",
+      "localUrl": "/news/20260802-saylor-bitcoin-drive-engaged-what-do-you-think-theyre-going-to-do-tomorrow-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
       "summary": "Investors have previously benefited from a payout boost when the preferred STRC shares traded well below their $100 par value for a month.",
       "url": "https://cointelegraph.com/news/strategy-leaves-preferred-strc-dividend-at-12-price-still-below-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-02T15:23:33.000Z",
+      "publishedAt": "2026-08-02T15:24:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -75,6 +115,17 @@
       "category": "DeFi",
       "slug": "20260802-the-reverse-bridge-crypto-meets-wall-street-using-perps",
       "localUrl": "/news/20260802-the-reverse-bridge-crypto-meets-wall-street-using-perps.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin Drive engaged. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5\" target=\"_blank\">Bitcoin Drive engaged.</a> <font color=\"#6f…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5",
+      "publishedAt": "2026-08-02T12:36:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-bitcoin-drive-engaged-xcom",
+      "localUrl": "/news/20260802-bitcoin-drive-engaged-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -230,7 +281,7 @@
       "title": "Onchain, in court: What happened in crypto legal news this week",
       "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
       "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-01T21:14:39.000Z",
+      "publishedAt": "2026-08-01T21:19:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -432,17 +483,6 @@
       "localUrl": "/news/20260801-starting-to-see-more-anti-crypto-ads-in-minnesota-peggy-flanagan-is-running-ads-.html"
     },
     {
-      "source": "X Wire",
-      "title": "STRATEGY DETAILS PLAN TO SELL UP TO $5B IN BITCOIN Strategy $MSTR said it may sell up to $5 billion worth of bitcoin under its current capital programs. This is 4X higher than the amount they initially said might sell under their new capital management - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTFg5VmROUEJRbzlhbllrYkI3WnlKVHN4aktxWmI2Q3NscnpLdjZBQ3RRbDJrVDJ0WnVQZDJrWEhzRlpaU2pwSHBKR2xORUwyUlNVTlpJMThGNEZEOGlfVU1jWmdNQQ?oc=5\" target=\"_blank\">STRATEGY DETAILS PLAN TO SEL…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTFg5VmROUEJRbzlhbllrYkI3WnlKVHN4aktxWmI2Q3NscnpLdjZBQ3RRbDJrVDJ0WnVQZDJrWEhzRlpaU2pwSHBKR2xORUwyUlNVTlpJMThGNEZEOGlfVU1jWmdNQQ?oc=5",
-      "publishedAt": "2026-08-01T15:02:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-strategy-details-plan-to-sell-up-to-5b-in-bitcoin-strategy-mstr-said-it-may-sell",
-      "localUrl": "/news/20260801-strategy-details-plan-to-sell-up-to-5b-in-bitcoin-strategy-mstr-said-it-may-sell.html"
-    },
-    {
       "source": "Decrypt",
       "title": "The More Americans Know About AI, the Less They Like It: Gallup",
       "summary": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
@@ -476,17 +516,6 @@
       "category": "X热点",
       "slug": "20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to",
       "localUrl": "/news/20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I spoke with @jvisserlabs to break down the Leopold Aschenbrenner hedge fund unwind, the market crashes in South Korea and Japan, Kevin Warsh and the Fed's next move, and the case for compute scarcity as AI demand outpaces supply. We also discuss - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrUEZBVGpQTzY5b0NzRm05ZFJvYlRpQWxnSXVwcUxORUx3dW1xWUx6NEdvd3BLNS1xdUNwR2pwckFZMzBtenY0YmpNYTdmR2hwMnlGZ3gzRm9XQU1PU0JPWA?oc=5\" target=\"_blank\">I spoke with @jvisserlabs to break d…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrUEZBVGpQTzY5b0NzRm05ZFJvYlRpQWxnSXVwcUxORUx3dW1xWUx6NEdvd3BLNS1xdUNwR2pwckFZMzBtenY0YmpNYTdmR2hwMnlGZ3gzRm9XQU1PU0JPWA?oc=5",
-      "publishedAt": "2026-08-01T14:01:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-i-spoke-with-jvisserlabs-to-break-down-the-leopold-aschenbrenner-hedge-fund-unwi",
-      "localUrl": "/news/20260801-i-spoke-with-jvisserlabs-to-break-down-the-leopold-aschenbrenner-hedge-fund-unwi.html"
     },
     {
       "source": "CoinDesk",
@@ -843,21 +872,6 @@
       "localUrl": "/news/20260731-bitcoin-price-sinks-to-2-week-lows-as-us-stocks-fail-to-copy-asia-rebound.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-      "summary": "Arvind Krishna said quantum computing will begin generating meaningful revenue before the decade ends as investment in the sector accelerates, in an interview on CNBC.",
-      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "publishedAt": "2026-07-31T15:39:30.000Z",
-      "keywords": [
-        "Markets",
-        "quantum computing",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "localUrl": "/news/20260731-quantum-computing-nears-commercial-breakthrough-ibm-ceo-says.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
       "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
@@ -1038,19 +1052,6 @@
       "category": "综合",
       "slug": "20260730-researchers-tried-letting-ai-do-science-it-failed",
       "localUrl": "/news/20260730-researchers-tried-letting-ai-do-science-it-failed.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
-      "summary": "The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.",
-      "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
-      "publishedAt": "2026-07-30T17:36:03.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "市场",
-      "slug": "20260730-bitcoin-quantum-threat-inches-closer-as-ibm-claims-trusted-quantum-advantage",
-      "localUrl": "/news/20260730-bitcoin-quantum-threat-inches-closer-as-ibm-claims-trusted-quantum-advantage.html"
     },
     {
       "source": "Chainalysis Blog",
