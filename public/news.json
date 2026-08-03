@@ -1,7 +1,118 @@
 {
-  "updatedAt": "2026-08-03T04:43:23.222Z",
+  "updatedAt": "2026-08-03T08:39:59.082Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
+      "summary": "The crypto exchange stopped accepting new registrations from Japan residents and will begin progressively restricting existing accounts on Nov. 1.",
+      "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T08:21:23.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260803-bitget-to-exit-japan-close-remaining-positions-after-dec-31",
+      "localUrl": "/news/20260803-bitget-to-exit-japan-close-remaining-positions-after-dec-31.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Jobs, Circle, Galaxy, American Bitcoin earnings: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Aug. 3",
+      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+      "publishedAt": "2026-08-03T08:16:28.000Z",
+      "keywords": [
+        "Markets",
+        "week ahead",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260803-us-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+      "localUrl": "/news/20260803-us-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
+      "summary": "The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs.",
+      "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T07:15:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260803-crypto-treasury-firm-zerostack-warns-of-survival-risk-amid-825m-loss",
+      "localUrl": "/news/20260803-crypto-treasury-firm-zerostack-warns-of-survival-risk-amid-825m-loss.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T06:25:13.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260803-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260803-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips under $63,000 despite Iran deal hopes as Coldcard losses rattle market",
+      "summary": "Oil and Treasury yields fell after fresh U.S.-Iran talks eased inflation fears, but bitcoin and ether failed to catch a bid as fresh Coldcard-linked sweeps pushed observed losses to nearly $89 million.",
+      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+      "publishedAt": "2026-08-03T06:15:38.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260803-bitcoin-slips-under-63000-despite-iran-deal-hopes-as-coldcard-losses-rattle-mark",
+      "localUrl": "/news/20260803-bitcoin-slips-under-63000-despite-iran-deal-hopes-as-coldcard-losses-rattle-mark.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $62K while Coinbase premium hits 77-day negative streak",
+      "summary": "The persistent discount suggests US spot buyers have remained less aggressive than overseas traders even as US Bitcoin ETF inflows turned positive in July.",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T05:58:00.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260803-bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak",
+      "localUrl": "/news/20260803-bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
+      "summary": "Wallets tied to the Truth Social parent now hold about as much bitcoin as the company previously pledged as note collateral, making its next 10-Q the key test of whether recent Crypto.com transfers were custody moves or sales.",
+      "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
+      "publishedAt": "2026-08-03T05:52:29.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260803-trump-medias-bitcoin-stash-may-be-down-to-loan-collateral-after-165-million-btc-",
+      "localUrl": "/news/20260803-trump-medias-bitcoin-stash-may-be-down-to-loan-collateral-after-165-million-btc-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
+      "summary": "Michael Saylor’s company, Strategy, is now closely monitoring bitcoin’s 200-week moving average, a key long-term support level that the cryptocurrency has historically respected.",
+      "url": "https://www.coindesk.com/markets/2026/08/03/michael-saylor-s-strategy-is-now-tracking-bitcoin-s-200-week-moving-average",
+      "publishedAt": "2026-08-03T05:07:49.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Technical Analysis",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260803-michael-saylors-strategy-is-now-tracking-bitcoins-200-week-moving-average",
+      "localUrl": "/news/20260803-michael-saylors-strategy-is-now-tracking-bitcoins-200-week-moving-average.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
@@ -27,6 +138,17 @@
       "category": "监管",
       "slug": "20260803-south-korean-stablecoin-outflows-top-367m-in-june-report",
       "localUrl": "/news/20260803-south-korean-stablecoin-outflows-top-367m-in-june-report.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senate schedule for Monday does not include Crypto Clarity Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVzdUQldob05HM2htSnlHclcwdUZwZmdZY1owY3lyOW1EbU9lcTN1eE1OSDctX0pDa08tdXRCQjVMemtlSFZTMEo1REZxYm52QlYtS0FISHJIMFJCMU9BMXV3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate schedule for …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yVzdUQldob05HM2htSnlHclcwdUZwZmdZY1owY3lyOW1EbU9lcTN1eE1OSDctX0pDa08tdXRCQjVMemtlSFZTMEo1REZxYm52QlYtS0FISHJIMFJCMU9BMXV3?oc=5",
+      "publishedAt": "2026-08-03T02:06:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-just-in-senate-schedule-for-monday-does-not-include-crypto-clarity-act-xcom",
+      "localUrl": "/news/20260803-just-in-senate-schedule-for-monday-does-not-include-crypto-clarity-act-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -56,7 +178,7 @@
     },
     {
       "source": "X Wire",
-      "title": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on https://t.co/uGbtzwJ4Pu. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. - x.com",
+      "title": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on Strategy.com. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eWtzM1hyOEhwZWtzWkdHWklmR0dvcGgydkNvdmFvcEs2OFBBWHhJbnhLbzZ3SVp5UFNGWVJwYnYxbEVFMXRJN1ROMmNpX3BXckdmYkt2MXZYRTQ?oc=5\" target=\"_blank\">We’re now tracking Bitcoin’s 200-week movin…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eWtzM1hyOEhwZWtzWkdHWklmR0dvcGgydkNvdmFvcEs2OFBBWHhJbnhLbzZ3SVp5UFNGWVJwYnYxbEVFMXRJN1ROMmNpX3BXckdmYkt2MXZYRTQ?oc=5",
       "publishedAt": "2026-08-02T22:34:03.000Z",
@@ -64,19 +186,6 @@
       "category": "X热点",
       "slug": "20260802-were-now-tracking-bitcoins-200-week-moving-average-and-its-premium-to-that-level",
       "localUrl": "/news/20260802-were-now-tracking-bitcoins-200-week-moving-average-and-its-premium-to-that-level.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-02T20:00:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260802-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260802-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -93,6 +202,17 @@
       "category": "监管",
       "slug": "20260802-counting-down-the-days-state-of-crypto",
       "localUrl": "/news/20260802-counting-down-the-days-state-of-crypto.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Robinhood now makes more transaction revenue from prediction markets than from either stock or crypto trading... Prediction market take rates are massive, 170x higher than stocks per $1 traded For every $1,000 traded, Robinhood generates roughly: Stocks: - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlNEJhbnNNbHhjc2hNaENweEp6RTBUQ0RMWXRIbjZYZXJLNGpyRXBhZGlfM050Z0t0eERvQ2R5T2RqNTZ3eE03SkVtVHBEYzhIZ3h4Z1U4VGYzXzEw?oc=5\" target=\"_blank\">Robinhood now makes more transaction reven…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlNEJhbnNNbHhjc2hNaENweEp6RTBUQ0RMWXRIbjZYZXJLNGpyRXBhZGlfM050Z0t0eERvQ2R5T2RqNTZ3eE03SkVtVHBEYzhIZ3h4Z1U4VGYzXzEw?oc=5",
+      "publishedAt": "2026-08-02T17:48:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e",
+      "localUrl": "/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html"
     },
     {
       "source": "Decrypt",
@@ -190,6 +310,17 @@
     },
     {
       "source": "X Wire",
+      "title": "3 lessons from the Coldcard incident. First is about strategy for storing your Bitcoin. Second, about the upcoming quantum computing threat. Third, about enhancing BTC ecosystem for the future. Let’s dive into each. (1) How to store Bitcoin: The Coldcard incide - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZTktYXNnLTNvMjJVaXc5aE5IbTIzLWxBT0E4Q1JDLTM0LWJubXpNQmROWEFTVzRuV0tUeFRXOGpyQnRwTUUydm9oc1NUVWp4YUdTdEZSMVhwaEU?oc=5\" target=\"_blank\">3 lessons from the Coldcard incident. First…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZTktYXNnLTNvMjJVaXc5aE5IbTIzLWxBT0E4Q1JDLTM0LWJubXpNQmROWEFTVzRuV0tUeFRXOGpyQnRwTUUydm9oc1NUVWp4YUdTdEZSMVhwaEU?oc=5",
+      "publishedAt": "2026-08-02T14:52:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-3-lessons-from-the-coldcard-incident-first-is-about-strategy-for-storing-your-bi",
+      "localUrl": "/news/20260802-3-lessons-from-the-coldcard-incident-first-is-about-strategy-for-storing-your-bi.html"
+    },
+    {
+      "source": "X Wire",
       "title": "A few thoughts on the Coldcard security incident (in no particular order): 1. This is devastating for a lot of people. They lost their hard-earned economic value in a way most didn’t realize was possible. Not everyone is a technical genius, but almost all are merely - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SC16MlNLNWFaWnIyY1NrZm96UFkzNjVaSTFpN1V0Nl94VDdjQnBYT1JhRFd6MUl3LWpjYVhUQ0J3N0hQNkF6c0diNmp3MEhoclhEb0JLd0toQ1dpUmh2Qg?oc=5\" target=\"_blank\">A few thoughts on the Coldcard secur…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SC16MlNLNWFaWnIyY1NrZm96UFkzNjVaSTFpN1V0Nl94VDdjQnBYT1JhRFd6MUl3LWpjYVhUQ0J3N0hQNkF6c0diNmp3MEhoclhEb0JLd0toQ1dpUmh2Qg?oc=5",
@@ -198,17 +329,6 @@
       "category": "X热点",
       "slug": "20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i",
       "localUrl": "/news/20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚀 Crypto gaming's biggest winners today Biggest 24h P2E Score moves: @KittyKartRacing +800% @goga_app +800% @DarkMachineGame +800% @FooDriver_dApp +671.43% @ArcadiaGamesIO +575% @PROJECTXENO_JP +497.06% @delabsRRS + - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdlYwclRYS2s0OUxtei02M0tEb2dtQW5kZXMtU0tsaFhPVl9KSjh6WExmV2czblFmTVl2a1E5LUR3WmNmUF9QQTlzbkVmS1hRWThnYjZ5d0xlaXc1Y2tjSA?oc=5\" target=\"_blank\">🚀 Crypto gaming's biggest winners t…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdlYwclRYS2s0OUxtei02M0tEb2dtQW5kZXMtU0tsaFhPVl9KSjh6WExmV2czblFmTVl2a1E5LUR3WmNmUF9QQTlzbkVmS1hRWThnYjZ5d0xlaXc1Y2tjSA?oc=5",
-      "publishedAt": "2026-08-02T13:11:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing",
-      "localUrl": "/news/20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing.html"
     },
     {
       "source": "CoinDesk",
@@ -235,6 +355,17 @@
       "category": "X热点",
       "slug": "20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom",
       "localUrl": "/news/20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin Drive engaged. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5\" target=\"_blank\">Bitcoin Drive engaged.</a> <font color=\"#6f…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5",
+      "publishedAt": "2026-08-02T12:36:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-bitcoin-drive-engaged-xcom",
+      "localUrl": "/news/20260802-bitcoin-drive-engaged-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -303,36 +434,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Michael Saylor: Strategy Never Promised It Would Never Sell Bitcoin and Expects to Remain a Net Buyer Michael Saylor said Strategy has never committed to a “never sell” Bitcoin policy, and its BTC monetization program does not require the company to sell - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GOE9WTTJQcHRTSFNnMC1QMEpTVHhCakRoNTcxeHFISTkzRGMyYmdLWGVldzJoN1NsbkI3d3dZT2NxakVjOWkyVlFfRkI4NVhwcndkOW9JOGVEWHA1ZlpOODZ6dw?oc=5\" target=\"_blank\">Michael Saylor: Strategy Never P…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GOE9WTTJQcHRTSFNnMC1QMEpTVHhCakRoNTcxeHFISTkzRGMyYmdLWGVldzJoN1NsbkI3d3dZT2NxakVjOWkyVlFfRkI4NVhwcndkOW9JOGVEWHA1ZlpOODZ6dw?oc=5",
-      "publishedAt": "2026-08-02T05:00:57.000Z",
+      "title": "The Bitcoin plebs had not move this amount of BTC in a day since the FTX collapse. 39.6K BTC transferred on July 31st after the coldcard hack, 39.9K BTC transferred on November 16 2022, a few days after the FTX collapse. These are Bitcoin transfers - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWlNUdmlkZlowLU5kUXlTNGhZX3RaeW80MHRGWXhCU3VNZGFyd0NXY1JtR3R6QnJ0MzRFUXVnUEQyOTJjb2J1bnNtN2pTT0xTRWNEelptWlAxUWxabzJB?oc=5\" target=\"_blank\">The Bitcoin plebs had not move this am…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWlNUdmlkZlowLU5kUXlTNGhZX3RaeW80MHRGWXhCU3VNZGFyd0NXY1JtR3R6QnJ0MzRFUXVnUEQyOTJjb2J1bnNtN2pTT0xTRWNEelptWlAxUWxabzJB?oc=5",
+      "publishedAt": "2026-08-02T04:13:44.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260802-michael-saylor-strategy-never-promised-it-would-never-sell-bitcoin-and-expects-t",
-      "localUrl": "/news/20260802-michael-saylor-strategy-never-promised-it-would-never-sell-bitcoin-and-expects-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "South Korean Stablecoins Post 18 Straight Months of Net Outflows to Overseas Exchanges According to Yonhap News Agency, South Korea’s five major won-based crypto exchanges sent 2.7625 trillion won in stablecoins to overseas platforms in June 2026, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SUZCNmIzYmNFM1d3dFZ5b0o4eE9UZWZ6X2d6TXBkdnRSelpQTEZQdy1BemlCLTQ0V1hhMHRCSkJvMHdDNVNZVWE2ekdmMGlUYzZkQWcxSEdnbnRpdlAxeXFIdw?oc=5\" target=\"_blank\">South Korean Stablecoins Post 18…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SUZCNmIzYmNFM1d3dFZ5b0o4eE9UZWZ6X2d6TXBkdnRSelpQTEZQdy1BemlCLTQ0V1hhMHRCSkJvMHdDNVNZVWE2ekdmMGlUYzZkQWcxSEdnbnRpdlAxeXFIdw?oc=5",
-      "publishedAt": "2026-08-02T02:36:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc",
-      "localUrl": "/news/20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇷🇺 NEW: Russia banned crypto mining in Moscow until 2032, saying the power grid can't handle the demand. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NUstSXR6NmsySWRHdVpOd1AtaFplTnFOdnk0UnJLdXNYQ2FvdUJtQTk4a1kzM0ZCdE9YTXEzRUh1dXZId1FWNm1FR2VDZ09ZVmxWRm9VSXNPenVVTmlOa2lGMHI?oc=5\" target=\"_blank\">🇷🇺 NEW: Russia banned crypto …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NUstSXR6NmsySWRHdVpOd1AtaFplTnFOdnk0UnJLdXNYQ2FvdUJtQTk4a1kzM0ZCdE9YTXEzRUh1dXZId1FWNm1FR2VDZ09ZVmxWRm9VSXNPenVVTmlOa2lGMHI?oc=5",
-      "publishedAt": "2026-08-01T22:31:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-new-russia-banned-crypto-mining-in-moscow-until-2032-saying-the-power-grid-cant-",
-      "localUrl": "/news/20260801-new-russia-banned-crypto-mining-in-moscow-until-2032-saying-the-power-grid-cant-.html"
+      "slug": "20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps",
+      "localUrl": "/news/20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps.html"
     },
     {
       "source": "CoinDesk",
@@ -536,17 +645,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 SAYLOR: Just 2.54% of recent Bitcoin blocks signaled BIP-110. He says the required 55% threshold is mathematically unreachable. \"This is not miner consensus.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tV2dMWUhqVDdhaUFDZ0EyS0pEdklzZE90b0dlRDBKbWc4TTJyZHNrdlRLYzBJazRqaEZMalZvQzN3Y3k0dlItU2NmVlNRX3h3azc1RGtHcHhrMUpBb1lDbjFEQ1Y?oc=5\" target=\"_blank\">🚨 SAYLOR: Just 2.54% of recent…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tV2dMWUhqVDdhaUFDZ0EyS0pEdklzZE90b0dlRDBKbWc4TTJyZHNrdlRLYzBJazRqaEZMalZvQzN3Y3k0dlItU2NmVlNRX3h3azc1RGtHcHhrMUpBb1lDbjFEQ1Y?oc=5",
-      "publishedAt": "2026-08-01T15:30:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-saylor-just-254-of-recent-bitcoin-blocks-signaled-bip-110-he-says-the-required-5",
-      "localUrl": "/news/20260801-saylor-just-254-of-recent-bitcoin-blocks-signaled-bip-110-he-says-the-required-5.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Starting to see more anti-crypto ads. In Minnesota, Peggy Flanagan is running ads hitting Angie Craig for her crypto votes, saying she \"voted to let Trump make billions selling crypto coins.\" This second ad is running in DC on the Clarity Act. I've seen it run 4 tim - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VMF9VeE9yMFlITWd3VEVhaHpaTUJ5cXI5X3VFdG1TODBPMi1jRWNBZjlFanNDdk1PdExmcS0wNGRvSmVydVdVeS0xdGE2bkR1MDN4YTdzZ1pDVUtRU0VndmxHdC1zR2M?oc=5\" target=\"_blank\">Starting to see more anti-c…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VMF9VeE9yMFlITWd3VEVhaHpaTUJ5cXI5X3VFdG1TODBPMi1jRWNBZjlFanNDdk1PdExmcS0wNGRvSmVydVdVeS0xdGE2bkR1MDN4YTdzZ1pDVUtRU0VndmxHdC1zR2M?oc=5",
@@ -717,22 +815,6 @@
       "localUrl": "/news/20260731-as-the-largest-crypto-custodian-in-the-world-coinbase-is-here-to-help-there-is-a.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "summary": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "publishedAt": "2026-07-31T20:50:58.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Market Wrap",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy",
-      "localUrl": "/news/20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
       "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
@@ -798,38 +880,6 @@
       "localUrl": "/news/20260731-pumpfun-laid-off-workers-before-they-received-millions-in-pump-tokens-report.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "summary": "The world’s largest stablecoin issuer added 14 metric tons of gold and about 1,800 bitcoin to its reserves during the second quarter.",
-      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "publishedAt": "2026-07-31T18:24:55.000Z",
-      "keywords": [
-        "Finance",
-        "Tether",
-        "Stablecoins",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-tether-posts-15-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "localUrl": "/news/20260731-tether-posts-15-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The good and the bad of perps, according to crypto traders",
-      "summary": "Both retail and institutional traders worry about the funding rate.",
-      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "publishedAt": "2026-07-31T17:53:59.000Z",
-      "keywords": [
-        "Finance",
-        "Perps Week 2026",
-        "Feature"
-      ],
-      "category": "综合",
-      "slug": "20260731-the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "localUrl": "/news/20260731-the-good-and-the-bad-of-perps-according-to-crypto-traders.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
       "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
@@ -841,61 +891,6 @@
       "category": "市场",
       "slug": "20260731-tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise",
       "localUrl": "/news/20260731-tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-      "summary": "A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyda…",
-      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-      "publishedAt": "2026-07-31T17:07:30.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "Hack",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260731-coldcards-38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-invest",
-      "localUrl": "/news/20260731-coldcards-38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-invest.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ex-FTX users report funds being released in $900M distribution round",
-      "summary": "Several users of the long-defunct crypto exchange reported that distribution agents had begun releasing funds to reimburse creditors for some of their 2022 losses.",
-      "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T16:56:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260731-ex-ftx-users-report-funds-being-released-in-900m-distribution-round",
-      "localUrl": "/news/20260731-ex-ftx-users-report-funds-being-released-in-900m-distribution-round.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
-      "summary": "Tether’s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure across the crypto sector.",
-      "url": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T16:25:47.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260731-tether-earns-15b-in-q2-as-us-treasury-holdings-fuel-profits",
-      "localUrl": "/news/20260731-tether-earns-15b-in-q2-as-us-treasury-holdings-fuel-profits.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
-      "summary": "Eligible retail and institutional users can use tokenized shares of Nvidia, Apple, Tesla and three other US companies across Bybit’s trading and lending products.",
-      "url": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T16:23:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260731-bybit-adds-tokenized-nvidia-apple-tesla-stocks-as-loan-collateral",
-      "localUrl": "/news/20260731-bybit-adds-tokenized-nvidia-apple-tesla-stocks-as-loan-collateral.html"
     },
     {
       "source": "Decrypt",

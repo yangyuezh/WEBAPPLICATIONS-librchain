@@ -2,15 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-03T04:43:23.263Z</lastmod>
+    <lastmod>2026-08-03T08:39:59.122Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-03T04:43:23.263Z</lastmod>
+    <lastmod>2026-08-03T08:39:59.122Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-bitget-to-exit-japan-close-remaining-positions-after-dec-31.html</loc>
+    <lastmod>2026-08-03T08:21:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-us-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead.html</loc>
+    <lastmod>2026-08-03T08:16:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-crypto-treasury-firm-zerostack-warns-of-survival-risk-amid-825m-loss.html</loc>
+    <lastmod>2026-08-03T07:15:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-03T06:25:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-bitcoin-slips-under-63000-despite-iran-deal-hopes-as-coldcard-losses-rattle-mark.html</loc>
+    <lastmod>2026-08-03T06:15:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak.html</loc>
+    <lastmod>2026-08-03T05:58:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-trump-medias-bitcoin-stash-may-be-down-to-loan-collateral-after-165-million-btc-.html</loc>
+    <lastmod>2026-08-03T05:52:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-michael-saylors-strategy-is-now-tracking-bitcoins-200-week-moving-average.html</loc>
+    <lastmod>2026-08-03T05:07:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260803-coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief.html</loc>
@@ -21,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260803-south-korean-stablecoin-outflows-top-367m-in-june-report.html</loc>
     <lastmod>2026-08-03T04:05:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-just-in-senate-schedule-for-monday-does-not-include-crypto-clarity-act-xcom.html</loc>
+    <lastmod>2026-08-03T02:06:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -43,14 +97,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-02T20:00:35.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260802-counting-down-the-days-state-of-crypto.html</loc>
+    <lastmod>2026-08-02T18:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-counting-down-the-days-state-of-crypto.html</loc>
-    <lastmod>2026-08-02T18:30:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html</loc>
+    <lastmod>2026-08-02T17:48:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -97,14 +151,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i.html</loc>
-    <lastmod>2026-08-02T13:35:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260802-3-lessons-from-the-coldcard-incident-first-is-about-strategy-for-storing-your-bi.html</loc>
+    <lastmod>2026-08-02T14:52:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing.html</loc>
-    <lastmod>2026-08-02T13:11:02.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i.html</loc>
+    <lastmod>2026-08-02T13:35:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -117,6 +171,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom.html</loc>
     <lastmod>2026-08-02T12:37:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260802-bitcoin-drive-engaged-xcom.html</loc>
+    <lastmod>2026-08-02T12:36:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -151,20 +211,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-michael-saylor-strategy-never-promised-it-would-never-sell-bitcoin-and-expects-t.html</loc>
-    <lastmod>2026-08-02T05:00:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc.html</loc>
-    <lastmod>2026-08-02T02:36:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260801-new-russia-banned-crypto-mining-in-moscow-until-2032-saying-the-power-grid-cant-.html</loc>
-    <lastmod>2026-08-01T22:31:01.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps.html</loc>
+    <lastmod>2026-08-02T04:13:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260801-saylor-just-254-of-recent-bitcoin-blocks-signaled-bip-110-he-says-the-required-5.html</loc>
-    <lastmod>2026-08-01T15:30:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260801-starting-to-see-more-anti-crypto-ads-in-minnesota-peggy-flanagan-is-running-ads-.html</loc>
     <lastmod>2026-08-01T15:25:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -343,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-bitcoin-holds-monthly-gain-faces-choppy-august-as-forced-selling-exhausted-analy.html</loc>
-    <lastmod>2026-07-31T20:50:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears.html</loc>
     <lastmod>2026-07-31T20:32:50.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,44 +415,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260731-tether-posts-15-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half.html</loc>
-    <lastmod>2026-07-31T18:24:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-the-good-and-the-bad-of-perps-according-to-crypto-traders.html</loc>
-    <lastmod>2026-07-31T17:53:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260731-tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise.html</loc>
     <lastmod>2026-07-31T17:10:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-coldcards-38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-invest.html</loc>
-    <lastmod>2026-07-31T17:07:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-ex-ftx-users-report-funds-being-released-in-900m-distribution-round.html</loc>
-    <lastmod>2026-07-31T16:56:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-tether-earns-15b-in-q2-as-us-treasury-holdings-fuel-profits.html</loc>
-    <lastmod>2026-07-31T16:25:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-bybit-adds-tokenized-nvidia-apple-tesla-stocks-as-loan-collateral.html</loc>
-    <lastmod>2026-07-31T16:23:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
