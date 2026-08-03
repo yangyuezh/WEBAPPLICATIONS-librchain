@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-02T22:09:23.267Z</lastmod>
+    <lastmod>2026-08-03T00:08:36.138Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-02T22:09:23.267Z</lastmod>
+    <lastmod>2026-08-03T00:08:36.138Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260802-coldcard-exploit-sparks-bitcoin-flight-bullish-crypto-consolidation-hodlers-dige.html</loc>
+    <lastmod>2026-08-02T23:44:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260802-were-now-tracking-bitcoins-200-week-moving-average-and-its-premium-to-that-level.html</loc>
+    <lastmod>2026-08-02T22:34:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260802-heres-what-happened-in-crypto-today.html</loc>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-counting-down-the-days-state-of-crypto.html</loc>
     <lastmod>2026-08-02T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html</loc>
+    <lastmod>2026-08-02T17:48:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -57,12 +75,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-whats-the-deal-with-metas-pervert-glasses.html</loc>
     <lastmod>2026-08-02T15:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html</loc>
-    <lastmod>2026-08-02T14:59:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -123,12 +135,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc.html</loc>
     <lastmod>2026-08-02T02:36:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260801-bitcoin-sellers-as-soon-as-they-see-us-having-fun-on-chain-for-the-first-time-in.html</loc>
-    <lastmod>2026-08-01T23:17:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-ai-company-sues-town-for-trying-to-block-data-center-near-national-park.html</loc>
     <lastmod>2026-07-31T14:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-amlbot-launches-ai-tracer-for-self-service-blockchain-investigations.html</loc>
-    <lastmod>2026-07-31T13:59:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
