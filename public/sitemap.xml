@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-03T19:53:12.345Z</lastmod>
+    <lastmod>2026-08-03T21:17:53.440Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-03T19:53:12.345Z</lastmod>
+    <lastmod>2026-08-03T21:17:53.440Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html</loc>
+    <lastmod>2026-08-03T20:39:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-bessents-top-crypto-adviser-tyler-williams-exits-us-treasury-report.html</loc>
+    <lastmod>2026-08-03T20:29:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-03T19:52:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260803-falconx-cuts-10-of-workforce-amid-prolonged-crypto-market-slump-report.html</loc>
@@ -85,12 +103,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260803-just-in-eric-trumps-american-bitcoin-increases-their-bitcoin-holdings-by-300-btc.html</loc>
-    <lastmod>2026-08-03T14:54:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260803-us-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin.html</loc>
     <lastmod>2026-08-03T14:46:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -129,12 +141,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260803-how-fake-world-assets-and-onchain-gacha-became-cryptos-latest-craze.html</loc>
     <lastmod>2026-08-03T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260803-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-03T13:17:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,7 +253,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260803-live-updates-bitcoin-rises-above-63000-as-stocks-surge-to-start-august.html</loc>
+    <loc>https://www.librchain.com/news/20260803-live-updates-bitcoin-flirts-with-64000-as-stocks-start-strong-in-august.html</loc>
     <lastmod>2026-08-03T10:29:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -331,6 +337,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260803-sec-pauses-nasdaq-bitcoin-options-after-cme-challenge-the-sec-has-paused-nasdaqs.html</loc>
+    <lastmod>2026-08-03T05:42:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260803-michael-saylors-strategy-is-now-tracking-bitcoins-200-week-moving-average.html</loc>
     <lastmod>2026-08-03T05:07:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260803-latest-michael-saylor-says-bitcoin-has-traded-above-its-200-week-moving-average-.html</loc>
     <lastmod>2026-08-03T02:01:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn.html</loc>
-    <lastmod>2026-08-03T01:57:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-circle-lands-new-york-trust-charter-as-stablecoin-issuer-expands-regulatory-foot.html</loc>
     <lastmod>2026-07-31T15:32:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage.html</loc>
-    <lastmod>2026-07-31T15:05:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

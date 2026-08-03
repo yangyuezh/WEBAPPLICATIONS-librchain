@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-03T19:53:12.304Z",
+  "updatedAt": "2026-08-03T21:17:53.401Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
+      "summary": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they're not immune from threats.",
+      "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
+      "publishedAt": "2026-08-03T20:39:33.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver",
+      "localUrl": "/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
+      "summary": "A key architect of the Trump administration’s digital asset agenda is leaving the Treasury Department as Congress struggles to advance landmark crypto legislation.",
+      "url": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T20:29:47.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260803-bessents-top-crypto-adviser-tyler-williams-exits-us-treasury-report",
+      "localUrl": "/news/20260803-bessents-top-crypto-adviser-tyler-williams-exits-us-treasury-report.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T19:52:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260803-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260803-heres-what-happened-in-crypto-today.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
@@ -163,17 +202,6 @@
       "localUrl": "/news/20260803-hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Eric Trump’s ‘American Bitcoin’ increases their Bitcoin holdings by 300 BTC 👀 They now hold 8,300 bitcoin! 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNWRraV96RGNTYzhMMTlkbUtBdWpwVTBqb2liQTJZZ19JUTlFM092amtMZmRwU0Jmd3hjdlNGN1d5Mm5EYlB0M0Nod0dMNWlCb0lxeWpmYkQxbUlvSElZVTdlVUlEZFk?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Eric Trump’s …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNWRraV96RGNTYzhMMTlkbUtBdWpwVTBqb2liQTJZZ19JUTlFM092amtMZmRwU0Jmd3hjdlNGN1d5Mm5EYlB0M0Nod0dMNWlCb0lxeWpmYkQxbUlvSElZVTdlVUlEZFk?oc=5",
-      "publishedAt": "2026-08-03T14:54:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-just-in-eric-trumps-american-bitcoin-increases-their-bitcoin-holdings-by-300-btc",
-      "localUrl": "/news/20260803-just-in-eric-trumps-american-bitcoin-increases-their-bitcoin-holdings-by-300-btc.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
       "summary": "Coordinated action sent the yen sharply higher, but bitcoin’s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.",
@@ -268,19 +296,6 @@
       "category": "综合",
       "slug": "20260803-how-fake-world-assets-and-onchain-gacha-became-cryptos-latest-craze",
       "localUrl": "/news/20260803-how-fake-world-assets-and-onchain-gacha-became-cryptos-latest-craze.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T13:17:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260803-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260803-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -530,7 +545,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $63,000 as stocks surge to start August",
+      "title": "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August",
       "summary": "ARP Digital’s Yusuf Fakhro said bitcoin’s weakness reflects stalled participation more than forced selling, with ETF flows turning negative, CME open interest back at 2023 levels and Strategy idle for a fifth straight week.",
       "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
       "publishedAt": "2026-08-03T10:29:23.000Z",
@@ -540,8 +555,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260803-live-updates-bitcoin-rises-above-63000-as-stocks-surge-to-start-august",
-      "localUrl": "/news/20260803-live-updates-bitcoin-rises-above-63000-as-stocks-surge-to-start-august.html"
+      "slug": "20260803-live-updates-bitcoin-flirts-with-64000-as-stocks-start-strong-in-august",
+      "localUrl": "/news/20260803-live-updates-bitcoin-flirts-with-64000-as-stocks-start-strong-in-august.html"
     },
     {
       "source": "Cointelegraph",
@@ -724,6 +739,17 @@
       "localUrl": "/news/20260803-trump-medias-bitcoin-stash-may-be-down-to-loan-collateral-after-165-million-btc-.html"
     },
     {
+      "source": "X Wire",
+      "title": "SEC Pauses Nasdaq Bitcoin Options After CME Challenge The SEC has paused Nasdaq's proposed bitcoin index options after granting CME's petition for review. CME argues the contracts fall under the CFTC because Bitcoin is a commodity. The stay remain - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aek5oWjQ1YVhteUdGcktoTlp2SFBNZG80VmtIY3FLY2RmSkx2Q1VZZ1ZGOTVvaXhnUnEyV1drYVlWaHN6YklZM1BEOEhMbFRqd1kxdUdpSV9aUnhQ?oc=5\" target=\"_blank\">SEC Pauses Nasdaq Bitcoin Options After CM…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aek5oWjQ1YVhteUdGcktoTlp2SFBNZG80VmtIY3FLY2RmSkx2Q1VZZ1ZGOTVvaXhnUnEyV1drYVlWaHN6YklZM1BEOEhMbFRqd1kxdUdpSV9aUnhQ?oc=5",
+      "publishedAt": "2026-08-03T05:42:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-sec-pauses-nasdaq-bitcoin-options-after-cme-challenge-the-sec-has-paused-nasdaqs",
+      "localUrl": "/news/20260803-sec-pauses-nasdaq-bitcoin-options-after-cme-challenge-the-sec-has-paused-nasdaqs.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
       "summary": "Michael Saylor’s company, Strategy, is now closely monitoring bitcoin’s 200-week moving average, a key long-term support level that the cryptocurrency has historically respected.",
@@ -786,19 +812,6 @@
       "category": "X热点",
       "slug": "20260803-latest-michael-saylor-says-bitcoin-has-traded-above-its-200-week-moving-average-",
       "localUrl": "/news/20260803-latest-michael-saylor-says-bitcoin-has-traded-above-its-200-week-moving-average-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
-      "summary": "Galaxy research head Alex Thorn warned that unconfirmed transactions may give some Coldcard users a narrow opportunity to save their funds.",
-      "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T01:57:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn",
-      "localUrl": "/news/20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn.html"
     },
     {
       "source": "X Wire",
@@ -1042,19 +1055,6 @@
       "category": "监管",
       "slug": "20260731-circle-lands-new-york-trust-charter-as-stablecoin-issuer-expands-regulatory-foot",
       "localUrl": "/news/20260731-circle-lands-new-york-trust-charter-as-stablecoin-issuer-expands-regulatory-foot.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
-      "summary": "OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts payment in Bitcoin and other digital assets.”",
-      "url": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-      "publishedAt": "2026-07-31T15:05:43.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260731-us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
-      "localUrl": "/news/20260731-us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage.html"
     },
     {
       "source": "Solana Blog",
