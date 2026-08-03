@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-03T00:08:36.097Z",
+  "updatedAt": "2026-08-03T04:43:23.222Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+      "summary": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.",
+      "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T04:09:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260803-coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief",
+      "localUrl": "/news/20260803-coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korean stablecoin outflows top $367M in June: Report",
+      "summary": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.",
+      "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T04:05:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260803-south-korean-stablecoin-outflows-top-367m-in-june-report",
+      "localUrl": "/news/20260803-south-korean-stablecoin-outflows-top-367m-in-june-report.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
+      "summary": "Galaxy research head Alex Thorn warned that unconfirmed transactions may give some Coldcard users a narrow opportunity to save their funds.",
+      "url": "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T01:57:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn",
+      "localUrl": "/news/20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
@@ -54,17 +93,6 @@
       "category": "监管",
       "slug": "20260802-counting-down-the-days-state-of-crypto",
       "localUrl": "/news/20260802-counting-down-the-days-state-of-crypto.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Robinhood now makes more transaction revenue from prediction markets than from either stock or crypto trading... Prediction market take rates are massive, 170x higher than stocks per $1 traded For every $1,000 traded, Robinhood generates roughly: Stocks: - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlNEJhbnNNbHhjc2hNaENweEp6RTBUQ0RMWXRIbjZYZXJLNGpyRXBhZGlfM050Z0t0eERvQ2R5T2RqNTZ3eE03SkVtVHBEYzhIZ3h4Z1U4VGYzXzEw?oc=5\" target=\"_blank\">Robinhood now makes more transaction reven…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlNEJhbnNNbHhjc2hNaENweEp6RTBUQ0RMWXRIbjZYZXJLNGpyRXBhZGlfM050Z0t0eERvQ2R5T2RqNTZ3eE03SkVtVHBEYzhIZ3h4Z1U4VGYzXzEw?oc=5",
-      "publishedAt": "2026-08-02T17:48:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e",
-      "localUrl": "/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html"
     },
     {
       "source": "Decrypt",
@@ -148,6 +176,39 @@
       "category": "监管",
       "slug": "20260802-whats-the-deal-with-metas-pervert-glasses",
       "localUrl": "/news/20260802-whats-the-deal-with-metas-pervert-glasses.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I’ve had all my bitcoin stolen while away on holiday. It was on a Coldcard MK3. I was led to believe this was really secure. It was recommended by experts including @saifedean. I also had the seed on a metal plate, hidden away. When I got news of the hack o - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNXQ2ZjhKZzBtb1hUSXRqa0hHU0lXNVJvdlQtbXNpOFkzeUlpMGN3XzFONi1xX0lYOGtwZUJiT1ZLLUt1dU9zRzR6aVJfdTA3dDdjZFptWXo3WVRVdkVwSnRZZDk?oc=5\" target=\"_blank\">I’ve had all my bitcoin stolen …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNXQ2ZjhKZzBtb1hUSXRqa0hHU0lXNVJvdlQtbXNpOFkzeUlpMGN3XzFONi1xX0lYOGtwZUJiT1ZLLUt1dU9zRzR6aVJfdTA3dDdjZFptWXo3WVRVdkVwSnRZZDk?oc=5",
+      "publishedAt": "2026-08-02T14:59:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w",
+      "localUrl": "/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "A few thoughts on the Coldcard security incident (in no particular order): 1. This is devastating for a lot of people. They lost their hard-earned economic value in a way most didn’t realize was possible. Not everyone is a technical genius, but almost all are merely - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SC16MlNLNWFaWnIyY1NrZm96UFkzNjVaSTFpN1V0Nl94VDdjQnBYT1JhRFd6MUl3LWpjYVhUQ0J3N0hQNkF6c0diNmp3MEhoclhEb0JLd0toQ1dpUmh2Qg?oc=5\" target=\"_blank\">A few thoughts on the Coldcard secur…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SC16MlNLNWFaWnIyY1NrZm96UFkzNjVaSTFpN1V0Nl94VDdjQnBYT1JhRFd6MUl3LWpjYVhUQ0J3N0hQNkF6c0diNmp3MEhoclhEb0JLd0toQ1dpUmh2Qg?oc=5",
+      "publishedAt": "2026-08-02T13:35:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i",
+      "localUrl": "/news/20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚀 Crypto gaming's biggest winners today Biggest 24h P2E Score moves: @KittyKartRacing +800% @goga_app +800% @DarkMachineGame +800% @FooDriver_dApp +671.43% @ArcadiaGamesIO +575% @PROJECTXENO_JP +497.06% @delabsRRS + - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdlYwclRYS2s0OUxtei02M0tEb2dtQW5kZXMtU0tsaFhPVl9KSjh6WExmV2czblFmTVl2a1E5LUR3WmNmUF9QQTlzbkVmS1hRWThnYjZ5d0xlaXc1Y2tjSA?oc=5\" target=\"_blank\">🚀 Crypto gaming's biggest winners t…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdlYwclRYS2s0OUxtei02M0tEb2dtQW5kZXMtU0tsaFhPVl9KSjh6WExmV2czblFmTVl2a1E5LUR3WmNmUF9QQTlzbkVmS1hRWThnYjZ5d0xlaXc1Y2tjSA?oc=5",
+      "publishedAt": "2026-08-02T13:11:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing",
+      "localUrl": "/news/20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing.html"
     },
     {
       "source": "CoinDesk",
@@ -253,17 +314,6 @@
     },
     {
       "source": "X Wire",
-      "title": "The Bitcoin plebs had not move this amount of BTC in a day since the FTX collapse. 39.6K BTC transferred on July 31st after the coldcard hack, 39.9K BTC transferred on November 16 2022, a few days after the FTX collapse. These are Bitcoin transfers - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWlNUdmlkZlowLU5kUXlTNGhZX3RaeW80MHRGWXhCU3VNZGFyd0NXY1JtR3R6QnJ0MzRFUXVnUEQyOTJjb2J1bnNtN2pTT0xTRWNEelptWlAxUWxabzJB?oc=5\" target=\"_blank\">The Bitcoin plebs had not move this am…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWlNUdmlkZlowLU5kUXlTNGhZX3RaeW80MHRGWXhCU3VNZGFyd0NXY1JtR3R6QnJ0MzRFUXVnUEQyOTJjb2J1bnNtN2pTT0xTRWNEelptWlAxUWxabzJB?oc=5",
-      "publishedAt": "2026-08-02T04:13:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps",
-      "localUrl": "/news/20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps.html"
-    },
-    {
-      "source": "X Wire",
       "title": "South Korean Stablecoins Post 18 Straight Months of Net Outflows to Overseas Exchanges According to Yonhap News Agency, South Korea’s five major won-based crypto exchanges sent 2.7625 trillion won in stablecoins to overseas platforms in June 2026, - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SUZCNmIzYmNFM1d3dFZ5b0o4eE9UZWZ6X2d6TXBkdnRSelpQTEZQdy1BemlCLTQ0V1hhMHRCSkJvMHdDNVNZVWE2ekdmMGlUYzZkQWcxSEdnbnRpdlAxeXFIdw?oc=5\" target=\"_blank\">South Korean Stablecoins Post 18…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SUZCNmIzYmNFM1d3dFZ5b0o4eE9UZWZ6X2d6TXBkdnRSelpQTEZQdy1BemlCLTQ0V1hhMHRCSkJvMHdDNVNZVWE2ekdmMGlUYzZkQWcxSEdnbnRpdlAxeXFIdw?oc=5",
@@ -312,17 +362,6 @@
       "category": "RWA",
       "slug": "20260801-onchain-in-court-what-happened-in-crypto-legal-news-this-week",
       "localUrl": "/news/20260801-onchain-in-court-what-happened-in-crypto-legal-news-this-week.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin stolen from Coldcard hardware wallet hack now exceeds $88,000,000. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3WktabmppZ3FyWmtsV013ZW1VRkptYU5qYkRkUDZOZmR6NzdKamdaWnBlVzlLN0h1NjBDWS1jWE1xeTMtSmd3ZFFfb2lSLXdzb1pCVmpURmxYanA0bEZ4SExB?oc=5\" target=\"_blank\">JUST IN: Bitcoin stolen from Coldc…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3WktabmppZ3FyWmtsV013ZW1VRkptYU5qYkRkUDZOZmR6NzdKamdaWnBlVzlLN0h1NjBDWS1jWE1xeTMtSmd3ZFFfb2lSLXdzb1pCVmpURmxYanA0bEZ4SExB?oc=5",
-      "publishedAt": "2026-08-01T21:04:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-just-in-bitcoin-stolen-from-coldcard-hardware-wallet-hack-now-exceeds-88000000-x",
-      "localUrl": "/news/20260801-just-in-bitcoin-stolen-from-coldcard-hardware-wallet-hack-now-exceeds-88000000-x.html"
     },
     {
       "source": "CoinDesk",
@@ -475,6 +514,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the decisions that could shape where the next generation of financial infrastructure is built, and whether the United States re - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MFVRSXIxSGZrNVhMTFFfWXNKVWxac2FaY1BCRzRfY0FpV1djMVpTTGxYV1VlRUs4VndUYVZUXzZHcGlZdmJXejg2eDJDbTI0OENnWVpOankzNWJ4RGlQWA?oc=5\" target=\"_blank\">Crypto is at a pivotal moment. As Co…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MFVRSXIxSGZrNVhMTFFfWXNKVWxac2FaY1BCRzRfY0FpV1djMVpTTGxYV1VlRUs4VndUYVZUXzZHcGlZdmJXejg2eDJDbTI0OENnWVpOankzNWJ4RGlQWA?oc=5",
+      "publishedAt": "2026-08-01T15:42:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260801-crypto-is-at-a-pivotal-moment-as-congress-debates-landmark-market-structure-legi",
+      "localUrl": "/news/20260801-crypto-is-at-a-pivotal-moment-as-congress-debates-landmark-market-structure-legi.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Tom Lee: Crypto feels dead right now - that's exactly what a bottom looks like. \"Price drives sentiment.\" Since the end of June, Ethereum has outperformed memory stocks by 72 percentage points - people lost 40% in memory and made almost 30% in ETH. The - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WSjJsaTVfVHFacHZJeU02RUdjUjI0aVY1WkhBZlgtZjBCOU1QZzU2SFBQOEJuOHFjWXE0Zll1RlRwU3JEZ2hqa1piV3JKWDg1TW0tSGhwTzhTcG1kT05CVG1RcS0?oc=5\" target=\"_blank\">Tom Lee: Crypto feels dead righ…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WSjJsaTVfVHFacHZJeU02RUdjUjI0aVY1WkhBZlgtZjBCOU1QZzU2SFBQOEJuOHFjWXE0Zll1RlRwU3JEZ2hqa1piV3JKWDg1TW0tSGhwTzhTcG1kT05CVG1RcS0?oc=5",
@@ -518,17 +568,6 @@
       "category": "综合",
       "slug": "20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup",
       "localUrl": "/news/20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Global expansion: accelerating Attempt to kill crypto: exposed Sovereign wealth tokenizing on @Base: $600B worth Bitcoin’s quantum defense: assembling Emmy nomination: 1 Mini Cooper up for grabs: also 1 Here's everything that happened @Coinbase in - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkt5VmNPVEdXMkQyT2NLbVUwT2t6NUdRQVBmNFVKX2gwTGNBSkhoR09EWVI2aVl0OGUySVp6Xy1UaGIyZmVUeDlwQjg5dk1TN3pDbHhMMUVSdVVITFE?oc=5\" target=\"_blank\">Global expansion: accelerating Attempt …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkt5VmNPVEdXMkQyT2NLbVUwT2t6NUdRQVBmNFVKX2gwTGNBSkhoR09EWVI2aVl0OGUySVp6Xy1UaGIyZmVUeDlwQjg5dk1TN3pDbHhMMUVSdVVITFE?oc=5",
-      "publishedAt": "2026-08-01T14:33:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to",
-      "localUrl": "/news/20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to.html"
     },
     {
       "source": "CoinDesk",
@@ -859,32 +898,6 @@
       "localUrl": "/news/20260731-bybit-adds-tokenized-nvidia-apple-tesla-stocks-as-loan-collateral.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
-      "summary": "TIPS data points to rising real yields, not inflation, a dynamic that weighs on non-yielding assets like Bitcoin.",
-      "url": "https://cointelegraph.com/markets/us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T16:14:19.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative",
-      "localUrl": "/news/20260731-us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
-      "summary": "Bitcoin saw fresh downside pressure as US stocks tracked sideways into the end of the month, diverging from the relief bounce seen in Asia.",
-      "url": "https://cointelegraph.com/markets/bitcoin-two-week-lows-us-stocks-fail-copy-asia-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T15:57:03.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260731-bitcoin-price-sinks-to-2-week-lows-as-us-stocks-fail-to-copy-asia-rebound",
-      "localUrl": "/news/20260731-bitcoin-price-sinks-to-2-week-lows-as-us-stocks-fail-to-copy-asia-rebound.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
       "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
@@ -922,19 +935,6 @@
       "category": "综合",
       "slug": "20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
       "localUrl": "/news/20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ECB says digital euro app will exceed EU accessibility standards",
-      "summary": "The European Central Bank proposed accessibility standards for its planned digital euro app, saying it would be one of several ways users could access basic digital euro services.",
-      "url": "https://cointelegraph.com/news/ecb-digital-euros-accessibility-payment-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-07-31T14:05:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260731-ecb-says-digital-euro-app-will-exceed-eu-accessibility-standards",
-      "localUrl": "/news/20260731-ecb-says-digital-euro-app-will-exceed-eu-accessibility-standards.html"
     },
     {
       "source": "Decrypt",

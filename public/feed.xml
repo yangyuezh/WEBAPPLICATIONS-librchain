@@ -5,7 +5,31 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 04:43:23 GMT</lastBuildDate>
+    <item>
+      <title>Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief</title>
+      <link>https://www.librchain.com/news/20260803-coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260803-coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief.html</guid>
+      <description>The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.</description>
+      <pubDate>Mon, 03 Aug 2026 04:09:44 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>South Korean stablecoin outflows top $367M in June: Report</title>
+      <link>https://www.librchain.com/news/20260803-south-korean-stablecoin-outflows-top-367m-in-june-report.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260803-south-korean-stablecoin-outflows-top-367m-in-june-report.html</guid>
+      <description>Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.</description>
+      <pubDate>Mon, 03 Aug 2026 04:05:11 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn</title>
+      <link>https://www.librchain.com/news/20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn.html</guid>
+      <description>Galaxy research head Alex Thorn warned that unconfirmed transactions may give some Coldcard users a narrow opportunity to save their funds.</description>
+      <pubDate>Mon, 03 Aug 2026 01:57:40 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2</title>
       <link>https://www.librchain.com/news/20260802-coldcard-exploit-sparks-bitcoin-flight-bullish-crypto-consolidation-hodlers-dige.html</link>
@@ -37,14 +61,6 @@
       <description>The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.</description>
       <pubDate>Sun, 02 Aug 2026 18:30:00 GMT</pubDate>
       <source url="https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto">CoinDesk</source>
-    </item>
-    <item>
-      <title>Robinhood now makes more transaction revenue from prediction markets than from either stock or crypto trading... Prediction market take rates are massive, 170x higher than stocks per $1 traded For every $1,000 traded, Robinhood generates roughly: Stocks: - x.com</title>
-      <link>https://www.librchain.com/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260802-robinhood-now-makes-more-transaction-revenue-from-prediction-markets-than-from-e.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlNEJhbnNNbHhjc2hNaENweEp6RTBUQ0RMWXRIbjZYZXJLNGpyRXBhZGlfM050Z0t0eERvQ2R5T2RqNTZ3eE03SkVtVHBEYzhIZ3h4Z1U4VGYzXzEw?oc=5&quot; target=&quot;_blank&quot;&gt;Robinhood now makes more transaction reven…</description>
-      <pubDate>Sun, 02 Aug 2026 17:48:55 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlNEJhbnNNbHhjc2hNaENweEp6RTBUQ0RMWXRIbjZYZXJLNGpyRXBhZGlfM050Z0t0eERvQ2R5T2RqNTZ3eE03SkVtVHBEYzhIZ3h4Z1U4VGYzXzEw?oc=5">X Wire</source>
     </item>
     <item>
       <title>Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets</title>
@@ -93,6 +109,30 @@
       <description>Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.</description>
       <pubDate>Sun, 02 Aug 2026 15:01:03 GMT</pubDate>
       <source url="https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses">Decrypt</source>
+    </item>
+    <item>
+      <title>I’ve had all my bitcoin stolen while away on holiday. It was on a Coldcard MK3. I was led to believe this was really secure. It was recommended by experts including @saifedean. I also had the seed on a metal plate, hidden away. When I got news of the hack o - x.com</title>
+      <link>https://www.librchain.com/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNXQ2ZjhKZzBtb1hUSXRqa0hHU0lXNVJvdlQtbXNpOFkzeUlpMGN3XzFONi1xX0lYOGtwZUJiT1ZLLUt1dU9zRzR6aVJfdTA3dDdjZFptWXo3WVRVdkVwSnRZZDk?oc=5&quot; target=&quot;_blank&quot;&gt;I’ve had all my bitcoin stolen …</description>
+      <pubDate>Sun, 02 Aug 2026 14:59:49 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNXQ2ZjhKZzBtb1hUSXRqa0hHU0lXNVJvdlQtbXNpOFkzeUlpMGN3XzFONi1xX0lYOGtwZUJiT1ZLLUt1dU9zRzR6aVJfdTA3dDdjZFptWXo3WVRVdkVwSnRZZDk?oc=5">X Wire</source>
+    </item>
+    <item>
+      <title>A few thoughts on the Coldcard security incident (in no particular order): 1. This is devastating for a lot of people. They lost their hard-earned economic value in a way most didn’t realize was possible. Not everyone is a technical genius, but almost all are merely - x.com</title>
+      <link>https://www.librchain.com/news/20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260802-a-few-thoughts-on-the-coldcard-security-incident-in-no-particular-order-1-this-i.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SC16MlNLNWFaWnIyY1NrZm96UFkzNjVaSTFpN1V0Nl94VDdjQnBYT1JhRFd6MUl3LWpjYVhUQ0J3N0hQNkF6c0diNmp3MEhoclhEb0JLd0toQ1dpUmh2Qg?oc=5&quot; target=&quot;_blank&quot;&gt;A few thoughts on the Coldcard secur…</description>
+      <pubDate>Sun, 02 Aug 2026 13:35:17 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE56SC16MlNLNWFaWnIyY1NrZm96UFkzNjVaSTFpN1V0Nl94VDdjQnBYT1JhRFd6MUl3LWpjYVhUQ0J3N0hQNkF6c0diNmp3MEhoclhEb0JLd0toQ1dpUmh2Qg?oc=5">X Wire</source>
+    </item>
+    <item>
+      <title>🚀 Crypto gaming&apos;s biggest winners today Biggest 24h P2E Score moves: @KittyKartRacing +800% @goga_app +800% @DarkMachineGame +800% @FooDriver_dApp +671.43% @ArcadiaGamesIO +575% @PROJECTXENO_JP +497.06% @delabsRRS + - x.com</title>
+      <link>https://www.librchain.com/news/20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260802-crypto-gamings-biggest-winners-today-biggest-24h-p2e-score-moves-kittykartracing.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdlYwclRYS2s0OUxtei02M0tEb2dtQW5kZXMtU0tsaFhPVl9KSjh6WExmV2czblFmTVl2a1E5LUR3WmNmUF9QQTlzbkVmS1hRWThnYjZ5d0xlaXc1Y2tjSA?oc=5&quot; target=&quot;_blank&quot;&gt;🚀 Crypto gaming&apos;s biggest winners t…</description>
+      <pubDate>Sun, 02 Aug 2026 13:11:02 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zdlYwclRYS2s0OUxtei02M0tEb2dtQW5kZXMtU0tsaFhPVl9KSjh6WExmV2czblFmTVl2a1E5LUR3WmNmUF9QQTlzbkVmS1hRWThnYjZ5d0xlaXc1Y2tjSA?oc=5">X Wire</source>
     </item>
     <item>
       <title>The reverse bridge: Crypto meets Wall Street using perps</title>
@@ -159,14 +199,6 @@
       <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GOE9WTTJQcHRTSFNnMC1QMEpTVHhCakRoNTcxeHFISTkzRGMyYmdLWGVldzJoN1NsbkI3d3dZT2NxakVjOWkyVlFfRkI4NVhwcndkOW9JOGVEWHA1ZlpOODZ6dw?oc=5">X Wire</source>
     </item>
     <item>
-      <title>The Bitcoin plebs had not move this amount of BTC in a day since the FTX collapse. 39.6K BTC transferred on July 31st after the coldcard hack, 39.9K BTC transferred on November 16 2022, a few days after the FTX collapse. These are Bitcoin transfers - x.com</title>
-      <link>https://www.librchain.com/news/20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260802-the-bitcoin-plebs-had-not-move-this-amount-of-btc-in-a-day-since-the-ftx-collaps.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWlNUdmlkZlowLU5kUXlTNGhZX3RaeW80MHRGWXhCU3VNZGFyd0NXY1JtR3R6QnJ0MzRFUXVnUEQyOTJjb2J1bnNtN2pTT0xTRWNEelptWlAxUWxabzJB?oc=5&quot; target=&quot;_blank&quot;&gt;The Bitcoin plebs had not move this am…</description>
-      <pubDate>Sun, 02 Aug 2026 04:13:44 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTWlNUdmlkZlowLU5kUXlTNGhZX3RaeW80MHRGWXhCU3VNZGFyd0NXY1JtR3R6QnJ0MzRFUXVnUEQyOTJjb2J1bnNtN2pTT0xTRWNEelptWlAxUWxabzJB?oc=5">X Wire</source>
-    </item>
-    <item>
       <title>South Korean Stablecoins Post 18 Straight Months of Net Outflows to Overseas Exchanges According to Yonhap News Agency, South Korea’s five major won-based crypto exchanges sent 2.7625 trillion won in stablecoins to overseas platforms in June 2026, - x.com</title>
       <link>https://www.librchain.com/news/20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260802-south-korean-stablecoins-post-18-straight-months-of-net-outflows-to-overseas-exc.html</guid>
@@ -197,14 +229,6 @@
       <description>A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.</description>
       <pubDate>Sat, 01 Aug 2026 21:19:00 GMT</pubDate>
       <source url="https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>JUST IN: Bitcoin stolen from Coldcard hardware wallet hack now exceeds $88,000,000. - x.com</title>
-      <link>https://www.librchain.com/news/20260801-just-in-bitcoin-stolen-from-coldcard-hardware-wallet-hack-now-exceeds-88000000-x.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260801-just-in-bitcoin-stolen-from-coldcard-hardware-wallet-hack-now-exceeds-88000000-x.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3WktabmppZ3FyWmtsV013ZW1VRkptYU5qYkRkUDZOZmR6NzdKamdaWnBlVzlLN0h1NjBDWS1jWE1xeTMtSmd3ZFFfb2lSLXdzb1pCVmpURmxYanA0bEZ4SExB?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: Bitcoin stolen from Coldc…</description>
-      <pubDate>Sat, 01 Aug 2026 21:04:37 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3WktabmppZ3FyWmtsV013ZW1VRkptYU5qYkRkUDZOZmR6NzdKamdaWnBlVzlLN0h1NjBDWS1jWE1xeTMtSmd3ZFFfb2lSLXdzb1pCVmpURmxYanA0bEZ4SExB?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million</title>
@@ -295,6 +319,14 @@
       <source url="https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge">CoinDesk</source>
     </item>
     <item>
+      <title>Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the decisions that could shape where the next generation of financial infrastructure is built, and whether the United States re - x.com</title>
+      <link>https://www.librchain.com/news/20260801-crypto-is-at-a-pivotal-moment-as-congress-debates-landmark-market-structure-legi.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260801-crypto-is-at-a-pivotal-moment-as-congress-debates-landmark-market-structure-legi.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MFVRSXIxSGZrNVhMTFFfWXNKVWxac2FaY1BCRzRfY0FpV1djMVpTTGxYV1VlRUs4VndUYVZUXzZHcGlZdmJXejg2eDJDbTI0OENnWVpOankzNWJ4RGlQWA?oc=5&quot; target=&quot;_blank&quot;&gt;Crypto is at a pivotal moment. As Co…</description>
+      <pubDate>Sat, 01 Aug 2026 15:42:36 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MFVRSXIxSGZrNVhMTFFfWXNKVWxac2FaY1BCRzRfY0FpV1djMVpTTGxYV1VlRUs4VndUYVZUXzZHcGlZdmJXejg2eDJDbTI0OENnWVpOankzNWJ4RGlQWA?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Tom Lee: Crypto feels dead right now - that&apos;s exactly what a bottom looks like. &quot;Price drives sentiment.&quot; Since the end of June, Ethereum has outperformed memory stocks by 72 percentage points - people lost 40% in memory and made almost 30% in ETH. The - x.com</title>
       <link>https://www.librchain.com/news/20260801-tom-lee-crypto-feels-dead-right-now-thats-exactly-what-a-bottom-looks-like-price.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260801-tom-lee-crypto-feels-dead-right-now-thats-exactly-what-a-bottom-looks-like-price.html</guid>
@@ -325,14 +357,6 @@
       <description>Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses&apos; use of the technology, and the technology’s growing impact.</description>
       <pubDate>Sat, 01 Aug 2026 15:01:09 GMT</pubDate>
       <source url="https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup">Decrypt</source>
-    </item>
-    <item>
-      <title>Global expansion: accelerating Attempt to kill crypto: exposed Sovereign wealth tokenizing on @Base: $600B worth Bitcoin’s quantum defense: assembling Emmy nomination: 1 Mini Cooper up for grabs: also 1 Here&apos;s everything that happened @Coinbase in - x.com</title>
-      <link>https://www.librchain.com/news/20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260801-global-expansion-accelerating-attempt-to-kill-crypto-exposed-sovereign-wealth-to.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkt5VmNPVEdXMkQyT2NLbVUwT2t6NUdRQVBmNFVKX2gwTGNBSkhoR09EWVI2aVl0OGUySVp6Xy1UaGIyZmVUeDlwQjg5dk1TN3pDbHhMMUVSdVVITFE?oc=5&quot; target=&quot;_blank&quot;&gt;Global expansion: accelerating Attempt …</description>
-      <pubDate>Sat, 01 Aug 2026 14:33:27 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuUkt5VmNPVEdXMkQyT2NLbVUwT2t6NUdRQVBmNFVKX2gwTGNBSkhoR09EWVI2aVl0OGUySVp6Xy1UaGIyZmVUeDlwQjg5dk1TN3pDbHhMMUVSdVVITFE?oc=5">X Wire</source>
     </item>
     <item>
       <title>Solana Foundation&apos;s new CISO warns AI is making crypto scams more convincing</title>
@@ -461,30 +485,6 @@
       <description>New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.</description>
       <pubDate>Fri, 31 Jul 2026 19:43:24 GMT</pubDate>
       <source url="https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas">Decrypt</source>
-    </item>
-    <item>
-      <title>Pump.fun laid off workers before they received millions in PUMP tokens: Report</title>
-      <link>https://www.librchain.com/news/20260731-pumpfun-laid-off-workers-before-they-received-millions-in-pump-tokens-report.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-pumpfun-laid-off-workers-before-they-received-millions-in-pump-tokens-report.html</guid>
-      <description>Pump.fun co-founder Noah Tweedale reportedly attributed the layoffs to the company growing too quickly.</description>
-      <pubDate>Fri, 31 Jul 2026 19:16:19 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half</title>
-      <link>https://www.librchain.com/news/20260731-tether-posts-15-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-tether-posts-15-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half.html</guid>
-      <description>The world’s largest stablecoin issuer added 14 metric tons of gold and about 1,800 bitcoin to its reserves during the second quarter.</description>
-      <pubDate>Fri, 31 Jul 2026 18:24:55 GMT</pubDate>
-      <source url="https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half">CoinDesk</source>
-    </item>
-    <item>
-      <title>The good and the bad of perps, according to crypto traders</title>
-      <link>https://www.librchain.com/news/20260731-the-good-and-the-bad-of-perps-according-to-crypto-traders.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260731-the-good-and-the-bad-of-perps-according-to-crypto-traders.html</guid>
-      <description>Both retail and institutional traders worry about the funding rate.</description>
-      <pubDate>Fri, 31 Jul 2026 17:53:59 GMT</pubDate>
-      <source url="https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders">CoinDesk</source>
     </item>
   </channel>
 </rss>
