@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-03T18:01:57.537Z",
+  "updatedAt": "2026-08-03T19:53:12.304Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
+      "summary": "According to Bloomberg, the digital asset prime broker is refocusing its Singapore strategy and withdrawing its local license application as crypto companies continue to trim costs.",
+      "url": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-03T19:44:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260803-falconx-cuts-10-of-workforce-amid-prolonged-crypto-market-slump-report",
+      "localUrl": "/news/20260803-falconx-cuts-10-of-workforce-amid-prolonged-crypto-market-slump-report.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+      "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
+      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+      "publishedAt": "2026-08-03T19:17:37.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260803-blackrock-launches-tokenized-money-market-funds-on-solana-ethereum",
+      "localUrl": "/news/20260803-blackrock-launches-tokenized-money-market-funds-on-solana-ethereum.html"
+    },
     {
       "source": "Decrypt",
       "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
@@ -135,6 +161,17 @@
       "category": "监管",
       "slug": "20260803-hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years",
       "localUrl": "/news/20260803-hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Eric Trump’s ‘American Bitcoin’ increases their Bitcoin holdings by 300 BTC 👀 They now hold 8,300 bitcoin! 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNWRraV96RGNTYzhMMTlkbUtBdWpwVTBqb2liQTJZZ19JUTlFM092amtMZmRwU0Jmd3hjdlNGN1d5Mm5EYlB0M0Nod0dMNWlCb0lxeWpmYkQxbUlvSElZVTdlVUlEZFk?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Eric Trump’s …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNWRraV96RGNTYzhMMTlkbUtBdWpwVTBqb2liQTJZZ19JUTlFM092amtMZmRwU0Jmd3hjdlNGN1d5Mm5EYlB0M0Nod0dMNWlCb0lxeWpmYkQxbUlvSElZVTdlVUlEZFk?oc=5",
+      "publishedAt": "2026-08-03T14:54:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-just-in-eric-trumps-american-bitcoin-increases-their-bitcoin-holdings-by-300-btc",
+      "localUrl": "/news/20260803-just-in-eric-trumps-american-bitcoin-increases-their-bitcoin-holdings-by-300-btc.html"
     },
     {
       "source": "CoinDesk",
@@ -354,6 +391,17 @@
       "localUrl": "/news/20260803-strategy-sold-another-105-million-of-bitcoin-last-week-repurchased-812-million-o.html"
     },
     {
+      "source": "X Wire",
+      "title": "$MSTR - STRATEGY SELLS 1,638 BITCOIN, BOOSTS CASH RESERVE Strategy raised $290.6M by selling 3.01M shares through its ATM program. The company allocated $250M to its USD Reserve, $28.9M to STRC share repurchases and $11.7M to cash. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS 1,638 BITCOIN, B…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5",
+      "publishedAt": "2026-08-03T12:12:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se",
+      "localUrl": "/news/20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
       "summary": "Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger another leg down for crypto valuations and accelerate policy support from US regulators.",
@@ -383,6 +431,17 @@
       "category": "监管",
       "slug": "20260803-bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
       "localUrl": "/news/20260803-bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚡️ UPDATE: Eric Trump’s American Bitcoin mined a record 932 $BTC in Q2, lifting holdings to 8,002 $BTC despite a $57.2M net loss. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mcDcxclhzZnJYWVhUSFBYVjJHVERjX1VrNWZLT1lSVWFZX2lySk5NbS1CSWxRdGdNTmt1RXg1MHBXVXRuS1FJMWxYNHV0Rzkza1FON0U3dVNNV0dkYUZQUW9qNTk?oc=5\" target=\"_blank\">⚡️ UPDATE: Eric Trump’s America…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mcDcxclhzZnJYWVhUSFBYVjJHVERjX1VrNWZLT1lSVWFZX2lySk5NbS1CSWxRdGdNTmt1RXg1MHBXVXRuS1FJMWxYNHV0Rzkza1FON0U3dVNNV0dkYUZQUW9qNTk?oc=5",
+      "publishedAt": "2026-08-03T11:49:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-update-eric-trumps-american-bitcoin-mined-a-record-932-btc-in-q2-lifting-holding",
+      "localUrl": "/news/20260803-update-eric-trumps-american-bitcoin-mined-a-record-932-btc-in-q2-lifting-holding.html"
     },
     {
       "source": "Cointelegraph",
@@ -742,19 +801,6 @@
       "localUrl": "/news/20260803-suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
-      "summary": "The “sickening” loss of $90 million of Bitcoin from cold storage weighs heavily on sentiment, as the Clarity Act stalls with just five days left to hold a Senate vote.",
-      "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-02T23:44:04.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "安全",
-      "slug": "20260802-coldcard-exploit-sparks-bitcoin-flight-bullish-crypto-consolidation-hodlers-dige",
-      "localUrl": "/news/20260802-coldcard-exploit-sparks-bitcoin-flight-bullish-crypto-consolidation-hodlers-dige.html"
-    },
-    {
       "source": "X Wire",
       "title": "We’re now tracking Bitcoin’s 200-week moving average and its premium to that level on Strategy.com. Since the 200W MA became available, Bitcoin has traded above it 92% of the time. Today, it sits almost exactly on the line. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE54eWtzM1hyOEhwZWtzWkdHWklmR0dvcGgydkNvdmFvcEs2OFBBWHhJbnhLbzZ3SVp5UFNGWVJwYnYxbEVFMXRJN1ROMmNpX3BXckdmYkt2MXZYRTQ?oc=5\" target=\"_blank\">We’re now tracking Bitcoin’s 200-week movin…",
@@ -817,17 +863,6 @@
       "localUrl": "/news/20260802-coldcard-bitcoin-exploit-balloons-to-88-million-as-attackers-keep-draining-walle.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 SAYLOR: \"Bitcoin Drive engaged.\" What do you think they're going to do tomorrow? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mOEJ2Zmd2R19ZdVVRRmpGNDZOcTQzMF9LbGNueVZMTEtrakdEWHZPNEhaZmhhdWRnREdmYVlUQlJhOXJ2S1d4czJ3YTNPMWM2VUlYRTlzMjQ1S0FXLTc3dW9UbjE?oc=5\" target=\"_blank\">🚨 SAYLOR: \"Bitcoin Drive engag…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mOEJ2Zmd2R19ZdVVRRmpGNDZOcTQzMF9LbGNueVZMTEtrakdEWHZPNEhaZmhhdWRnREdmYVlUQlJhOXJ2S1d4czJ3YTNPMWM2VUlYRTlzMjQ1S0FXLTc3dW9UbjE?oc=5",
-      "publishedAt": "2026-08-02T15:31:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-saylor-bitcoin-drive-engaged-what-do-you-think-theyre-going-to-do-tomorrow-xcom",
-      "localUrl": "/news/20260802-saylor-bitcoin-drive-engaged-what-do-you-think-theyre-going-to-do-tomorrow-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
       "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
@@ -850,17 +885,6 @@
       "category": "X热点",
       "slug": "20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w",
       "localUrl": "/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "3 lessons from the Coldcard incident. First is about strategy for storing your Bitcoin. Second, about the upcoming quantum computing threat. Third, about enhancing BTC ecosystem for the future. Let’s dive into each. (1) How to store Bitcoin: The Coldcard incide - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZTktYXNnLTNvMjJVaXc5aE5IbTIzLWxBT0E4Q1JDLTM0LWJubXpNQmROWEFTVzRuV0tUeFRXOGpyQnRwTUUydm9oc1NUVWp4YUdTdEZSMVhwaEU?oc=5\" target=\"_blank\">3 lessons from the Coldcard incident. First…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZTktYXNnLTNvMjJVaXc5aE5IbTIzLWxBT0E4Q1JDLTM0LWJubXpNQmROWEFTVzRuV0tUeFRXOGpyQnRwTUUydm9oc1NUVWp4YUdTdEZSMVhwaEU?oc=5",
-      "publishedAt": "2026-08-02T14:52:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-3-lessons-from-the-coldcard-incident-first-is-about-strategy-for-storing-your-bi",
-      "localUrl": "/news/20260802-3-lessons-from-the-coldcard-incident-first-is-about-strategy-for-storing-your-bi.html"
     },
     {
       "source": "X Wire",
@@ -905,17 +929,6 @@
       "category": "X热点",
       "slug": "20260802-bitcoin-drive-engaged-xcom",
       "localUrl": "/news/20260802-bitcoin-drive-engaged-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "ALERT: 🇺🇸🇯🇵The US and Japan may be preparing a MAJOR shock for global markets. A \"joint operation\" to strengthen the yen expected to be announced tomorrow. If the US sells dollars to buy yen, the dollar weakens and USD/JPY falls. Normally, this supp - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNG1SZ18yWnBWajAtUkUtTjM0ZDBKcjRwdVRoZTVNelhFcXgwbG5RZ05RRF81U04xeEFMUXFyY3F2N2FHN1NNLU1Rc0tZcnkzdTgwdTRVNTBzbElhZGtibA?oc=5\" target=\"_blank\">ALERT: 🇺🇸🇯🇵The US and Japan may …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNG1SZ18yWnBWajAtUkUtTjM0ZDBKcjRwdVRoZTVNelhFcXgwbG5RZ05RRF81U04xeEFMUXFyY3F2N2FHN1NNLU1Rc0tZcnkzdTgwdTRVNTBzbElhZGtibA?oc=5",
-      "publishedAt": "2026-08-02T05:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-alert-the-us-and-japan-may-be-preparing-a-major-shock-for-global-markets-a-joint",
-      "localUrl": "/news/20260802-alert-the-us-and-japan-may-be-preparing-a-major-shock-for-global-markets-a-joint.html"
     },
     {
       "source": "Decrypt",
@@ -1042,19 +1055,6 @@
       "category": "监管",
       "slug": "20260731-us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
       "localUrl": "/news/20260731-us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
-      "summary": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
-      "url": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
-      "publishedAt": "2026-07-31T15:01:04.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
-      "localUrl": "/news/20260731-xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay.html"
     },
     {
       "source": "Solana Blog",
