@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-03T21:17:53.440Z</lastmod>
+    <lastmod>2026-08-03T23:16:44.569Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-03T21:17:53.440Z</lastmod>
+    <lastmod>2026-08-03T23:16:44.569Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too.html</loc>
+    <lastmod>2026-08-03T22:29:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-us-fbi-intelligence-agent-arrested-in-connection-with-theft-of-1-million-in-cryp.html</loc>
+    <lastmod>2026-08-03T22:17:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat.html</loc>
+    <lastmod>2026-08-03T21:17:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom.html</loc>
+    <lastmod>2026-08-03T20:39:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html</loc>
@@ -129,6 +153,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260803-circle-slides-after-morgan-stanley-downgrade-cut-in-price-target.html</loc>
     <lastmod>2026-08-03T13:59:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve.html</loc>
+    <lastmod>2026-08-03T13:51:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -337,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260803-sec-pauses-nasdaq-bitcoin-options-after-cme-challenge-the-sec-has-paused-nasdaqs.html</loc>
-    <lastmod>2026-08-03T05:42:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260803-michael-saylors-strategy-is-now-tracking-bitcoins-200-week-moving-average.html</loc>
     <lastmod>2026-08-03T05:07:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260802-counting-down-the-days-state-of-crypto.html</loc>
-    <lastmod>2026-08-02T18:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260802-coldcard-bitcoin-exploit-balloons-to-88-million-as-attackers-keep-draining-walle.html</loc>
     <lastmod>2026-08-02T17:18:51.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260802-just-in-senate-has-5-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ.html</loc>
     <lastmod>2026-08-02T13:24:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom.html</loc>
-    <lastmod>2026-08-02T12:37:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,18 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260731-us-is-banning-foreign-robotseven-roombas.html</loc>
     <lastmod>2026-07-31T19:43:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise.html</loc>
-    <lastmod>2026-07-31T17:10:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260731-circle-lands-new-york-trust-charter-as-stablecoin-issuer-expands-regulatory-foot.html</loc>
-    <lastmod>2026-07-31T15:32:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

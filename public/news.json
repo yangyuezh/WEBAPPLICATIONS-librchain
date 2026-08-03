@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-03T21:17:53.401Z",
+  "updatedAt": "2026-08-03T23:16:44.529Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
+      "summary": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
+      "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
+      "publishedAt": "2026-08-03T22:29:02.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too",
+      "localUrl": "/news/20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
+      "summary": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
+      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
+      "publishedAt": "2026-08-03T22:17:59.000Z",
+      "keywords": [
+        "Policy",
+        "Crime",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260803-us-fbi-intelligence-agent-arrested-in-connection-with-theft-of-1-million-in-cryp",
+      "localUrl": "/news/20260803-us-fbi-intelligence-agent-arrested-in-connection-with-theft-of-1-million-in-cryp.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
+      "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
+      "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
+      "publishedAt": "2026-08-03T21:17:06.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat",
+      "localUrl": "/news/20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Strategy is the JPMorgan of the crypto economy. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UGJHTUdPekNMR2lFWmJvckQxY2RQUFA1VzNYd19ZUVZGUnZXVzlKSXBGb2psZnpweDdKdGpTOEdQcHZvdlRqMktPcjVWMm1uSk1mcTl5TE51b2s?oc=5\" target=\"_blank\">Strategy is the JPMorgan of the crypto econ…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UGJHTUdPekNMR2lFWmJvckQxY2RQUFA1VzNYd19ZUVZGUnZXVzlKSXBGb2psZnpweDdKdGpTOEdQcHZvdlRqMktPcjVWMm1uSk1mcTl5TE51b2s?oc=5",
+      "publishedAt": "2026-08-03T20:39:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom",
+      "localUrl": "/news/20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom.html"
+    },
     {
       "source": "Decrypt",
       "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
@@ -266,6 +318,17 @@
       "category": "RWA",
       "slug": "20260803-circle-slides-after-morgan-stanley-downgrade-cut-in-price-target",
       "localUrl": "/news/20260803-circle-slides-after-morgan-stanley-downgrade-cut-in-price-target.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$MSTR is built to outperform Bitcoin over time. It has outperformed Bitcoin in every four-year holding period since we adopted Bitcoin on August 10, 2020. Outperformance comes from growing Bitcoin per share. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpV0NWRzJfVHMxaXZSNC14b3pNc2N4cEo2X3lab2hNNEQzZndmSHpybXdXLWpvUjNxdm9lRjhsTzB5NXBxMlZrVXZtNmVVNnFBQzJyVVIyUVFnVHJo?oc=5\" target=\"_blank\">$MSTR is built to outperform Bitcoin over …",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpV0NWRzJfVHMxaXZSNC14b3pNc2N4cEo2X3lab2hNNEQzZndmSHpybXdXLWpvUjNxdm9lRjhsTzB5NXBxMlZrVXZtNmVVNnFBQzJyVVIyUVFnVHJo?oc=5",
+      "publishedAt": "2026-08-03T13:51:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve",
+      "localUrl": "/news/20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve.html"
     },
     {
       "source": "CoinDesk",
@@ -739,17 +802,6 @@
       "localUrl": "/news/20260803-trump-medias-bitcoin-stash-may-be-down-to-loan-collateral-after-165-million-btc-.html"
     },
     {
-      "source": "X Wire",
-      "title": "SEC Pauses Nasdaq Bitcoin Options After CME Challenge The SEC has paused Nasdaq's proposed bitcoin index options after granting CME's petition for review. CME argues the contracts fall under the CFTC because Bitcoin is a commodity. The stay remain - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aek5oWjQ1YVhteUdGcktoTlp2SFBNZG80VmtIY3FLY2RmSkx2Q1VZZ1ZGOTVvaXhnUnEyV1drYVlWaHN6YklZM1BEOEhMbFRqd1kxdUdpSV9aUnhQ?oc=5\" target=\"_blank\">SEC Pauses Nasdaq Bitcoin Options After CM…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aek5oWjQ1YVhteUdGcktoTlp2SFBNZG80VmtIY3FLY2RmSkx2Q1VZZ1ZGOTVvaXhnUnEyV1drYVlWaHN6YklZM1BEOEhMbFRqd1kxdUdpSV9aUnhQ?oc=5",
-      "publishedAt": "2026-08-03T05:42:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-sec-pauses-nasdaq-bitcoin-options-after-cme-challenge-the-sec-has-paused-nasdaqs",
-      "localUrl": "/news/20260803-sec-pauses-nasdaq-bitcoin-options-after-cme-challenge-the-sec-has-paused-nasdaqs.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Michael Saylor’s Strategy is now tracking bitcoin’s 200-week moving average",
       "summary": "Michael Saylor’s company, Strategy, is now closely monitoring bitcoin’s 200-week moving average, a key long-term support level that the cryptocurrency has historically respected.",
@@ -847,22 +899,6 @@
       "localUrl": "/news/20260802-update-from-rbitcoin-claude-code-can-independently-find-the-same-wallet-vulnerab.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Counting down the days: State of Crypto",
-      "summary": "The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities.",
-      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
-      "publishedAt": "2026-08-02T18:30:00.000Z",
-      "keywords": [
-        "Policy",
-        "Newsletters",
-        "State of Crypto",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260802-counting-down-the-days-state-of-crypto",
-      "localUrl": "/news/20260802-counting-down-the-days-state-of-crypto.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
       "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
@@ -920,17 +956,6 @@
       "category": "X热点",
       "slug": "20260802-just-in-senate-has-5-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ",
       "localUrl": "/news/20260802-just-in-senate-has-5-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor hints at buying more Bitcoin 👀 “Bitcoin Drive engaged.” 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DLTJvMDllOFRHZFF1aVBTLTZEVDFOX2hONFhwWTlHQmFtUnNiVUU0WFhlZGNHcXlQS25OZEk3Q2dhTy1KVnZnMGZyUHR5Q2l4dmJ4WFo1Y0pfRFo5MGYwR1Fjel9WMTQ?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DLTJvMDllOFRHZFF1aVBTLTZEVDFOX2hONFhwWTlHQmFtUnNiVUU0WFhlZGNHcXlQS25OZEk3Q2dhTy1KVnZnMGZyUHR5Q2l4dmJ4WFo1Y0pfRFo5MGYwR1Fjel9WMTQ?oc=5",
-      "publishedAt": "2026-08-02T12:37:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom",
-      "localUrl": "/news/20260802-just-in-michael-saylor-hints-at-buying-more-bitcoin-bitcoin-drive-engaged-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1029,32 +1054,6 @@
       "category": "监管",
       "slug": "20260731-us-is-banning-foreign-robotseven-roombas",
       "localUrl": "/news/20260731-us-is-banning-foreign-robotseven-roombas.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
-      "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
-      "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-      "publishedAt": "2026-07-31T17:10:49.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260731-tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise",
-      "localUrl": "/news/20260731-tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-      "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
-      "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-      "publishedAt": "2026-07-31T15:32:02.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260731-circle-lands-new-york-trust-charter-as-stablecoin-issuer-expands-regulatory-foot",
-      "localUrl": "/news/20260731-circle-lands-new-york-trust-charter-as-stablecoin-issuer-expands-regulatory-foot.html"
     },
     {
       "source": "Solana Blog",
