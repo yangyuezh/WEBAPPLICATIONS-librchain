@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-04T21:32:31.438Z",
+  "updatedAt": "2026-08-04T23:15:55.896Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+      "summary": "Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.",
+      "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+      "publishedAt": "2026-08-04T22:46:03.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "DeFi",
+      "slug": "20260804-this-bitcoin-bridge-shut-itself-down-because-ai-was-finding-bugs-too-fast",
+      "localUrl": "/news/20260804-this-bitcoin-bridge-shut-itself-down-because-ai-was-finding-bugs-too-fast.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back",
+      "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+      "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+      "publishedAt": "2026-08-04T22:16:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260804-ai-enthusiast-bugs-his-toddlers-sleepover-and-feeds-it-to-claudethe-internet-bug",
+      "localUrl": "/news/20260804-ai-enthusiast-bugs-his-toddlers-sleepover-and-feeds-it-to-claudethe-internet-bug.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+      "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+      "publishedAt": "2026-08-04T21:46:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260804-openai-dumps-apple-employees-text-messages-to-fight-trade-secret-suit",
+      "localUrl": "/news/20260804-openai-dumps-apple-employees-text-messages-to-fight-trade-secret-suit.html"
+    },
     {
       "source": "Decrypt",
       "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
@@ -316,17 +355,6 @@
       "localUrl": "/news/20260804-kinda-crazy-so-many-people-are-just-unaware-that-ai-stocks-have-done-10-20-50x-i.html"
     },
     {
-      "source": "X Wire",
-      "title": "[ ZOOMER ] JUSTIN DRAKE AND OTHERS CREATE EIP-8361 TO REDUCE ETHEREUM INFLATION, WOULD REDUCE STAKING YIELD TO 0% ABOVE 50% OF ETHEREUM STAKED, AND HALF STAKING YIELD TO 1% AT CURRENT STAKED AMOUNTS - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DRnQ1S0pmTzIwdVpDVDd3X1FDU3NQeEkya3ZTNGJELTd1YnVkTWFpSWxtcUlxWmJtYnpnd3lwWXdzR2hGdWl1dnc3UnI0cGNsN1ZpSzliaTRqODVueGpYSg?oc=5\" target=\"_blank\">[ ZOOMER ] JUSTIN DRAKE AND OTHERS C…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DRnQ1S0pmTzIwdVpDVDd3X1FDU3NQeEkya3ZTNGJELTd1YnVkTWFpSWxtcUlxWmJtYnpnd3lwWXdzR2hGdWl1dnc3UnI0cGNsN1ZpSzliaTRqODVueGpYSg?oc=5",
-      "publishedAt": "2026-08-04T14:04:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-zoomer-justin-drake-and-others-create-eip-8361-to-reduce-ethereum-inflation-woul",
-      "localUrl": "/news/20260804-zoomer-justin-drake-and-others-create-eip-8361-to-reduce-ethereum-inflation-woul.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
       "summary": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
@@ -388,6 +416,17 @@
       "category": "市场",
       "slug": "20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin",
       "localUrl": "/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: @BitGo (NYSE: BTGO) migrates $7.7B+ Wrapped Bitcoin (WBTC) to Chainlink CCIP. After a rigorous review, BitGo deprecated its legacy bridging provider & chose CCIP as its exclusive cross-chain infra given it’s the only solution that meets institutional - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5\" target=\"_blank\">NEW: @BitGo (NYSE: BTGO) migrates $7.7…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5",
+      "publishedAt": "2026-08-04T13:19:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-new-bitgo-nyse-btgo-migrates-77b-wrapped-bitcoin-wbtc-to-chainlink-ccip-after-a-",
+      "localUrl": "/news/20260804-new-bitgo-nyse-btgo-migrates-77b-wrapped-bitcoin-wbtc-to-chainlink-ccip-after-a-.html"
     },
     {
       "source": "Solana Blog",
@@ -943,6 +982,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Jim Cramer has said he's reportedly selling all his Bitcoin, per CoinDesk - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xcXRnRnBaX2lhTjhKdUlIRGIxY1lvZVZaZnBUcU1zdVdmLVVPUjRsUTB5TTJCNjFUc0Q1S00tY2hYMWIwb2dGcFVaaHZzVWNDcGY3QzNXTS1sS0k0MkpkbVNuaEpCQQ?oc=5\" target=\"_blank\">JUST IN: Jim Cramer has said…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xcXRnRnBaX2lhTjhKdUlIRGIxY1lvZVZaZnBUcU1zdVdmLVVPUjRsUTB5TTJCNjFUc0Q1S00tY2hYMWIwb2dGcFVaaHZzVWNDcGY3QzNXTS1sS0k0MkpkbVNuaEpCQQ?oc=5",
+      "publishedAt": "2026-08-03T18:22:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-just-in-jim-cramer-has-said-hes-reportedly-selling-all-his-bitcoin-per-coindesk-",
+      "localUrl": "/news/20260803-just-in-jim-cramer-has-said-hes-reportedly-selling-all-his-bitcoin-per-coindesk-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Jim Cramer says, “I’m going to sell my bitcoin” 🤣 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRWxPRWxVSWxFbXJqYzhFRFNNTGU2WUV1TkRRS1NnRU05N3dhTjNjT0syRzR1ZDJVQmlQR3lfSC1kRm1QenZtRU1DbllsNkJFLTU0bFVicGNqQi1IcHpkTFVWVTRtdw?oc=5\" target=\"_blank\">Jim Cramer says, “I’m going …",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRWxPRWxVSWxFbXJqYzhFRFNNTGU2WUV1TkRRS1NnRU05N3dhTjNjT0syRzR1ZDJVQmlQR3lfSC1kRm1QenZtRU1DbllsNkJFLTU0bFVicGNqQi1IcHpkTFVWVTRtdw?oc=5",
@@ -966,45 +1016,15 @@
       "localUrl": "/news/20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
-      "summary": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
-      "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
-      "publishedAt": "2026-08-03T17:31:03.000Z",
-      "keywords": [
-        "monero",
-        "zcash",
-        "Coins"
-      ],
-      "category": "综合",
-      "slug": "20260803-crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-co",
-      "localUrl": "/news/20260803-crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-co.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
-      "summary": "CKPool's developer put the winner's hashrate at a “wildly variable” peak of 100 PH, noting that it was probably rented.",
-      "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
-      "publishedAt": "2026-08-03T17:12:08.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260803-solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
-      "localUrl": "/news/20260803-solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
-      "summary": "The Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter even as Bitcoin’s price fell.",
-      "url": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
-      "publishedAt": "2026-08-03T16:29:15.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260803-trump-familys-american-bitcoin-tops-8000-btc-after-record-mining-quarter",
-      "localUrl": "/news/20260803-trump-familys-american-bitcoin-tops-8000-btc-after-record-mining-quarter.html"
+      "source": "X Wire",
+      "title": "News w/ @LauraEWeiss16: Treasury Secretary Scott Bessent’s top crypto adviser departed the government on Friday. Tyler Williams is expected to return to the private sector. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5\" target=\"_blank\">News w/ @LauraEWeiss16: Tre…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5",
+      "publishedAt": "2026-08-03T17:45:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart",
+      "localUrl": "/news/20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart.html"
     },
     {
       "source": "X Wire",
@@ -1030,17 +1050,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Here's a great STRATEGY: - Sell Bitcoin (at the lows). - Use proceeds to buy STRC, try to get it to $100. - When STRC hits $100, try buy the same amount Bitcoin that you sold again. Either Saylor is trying to prove a point to a rating agency, that he will buy and s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5\" target=\"_blank\">Here's a great STRATEGY: - Sell …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5",
-      "publishedAt": "2026-08-03T13:17:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-",
-      "localUrl": "/news/20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: MicroStrategy, $MSTR, announces it has sold 1,638 Bitcoin at an average price of $63,957, raising $104.7 million. The stock is now down -41% this year and -83% from its all time high. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qTl94QWhFQTVvVks1N0dNUU9fb2ZCZEx5Zm5nZFRxSlpJY21pNjZCTEphU0NadlFGVHZjSHF4azJfLUNzOTl1MU9GTklCSEE0YThtVTJHV1EyQzdRYWFaOFhHZHJvdw?oc=5\" target=\"_blank\">BREAKING: MicroStrategy, $MS…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qTl94QWhFQTVvVks1N0dNUU9fb2ZCZEx5Zm5nZFRxSlpJY21pNjZCTEphU0NadlFGVHZjSHF4azJfLUNzOTl1MU9GTklCSEE0YThtVTJHV1EyQzdRYWFaOFhHZHJvdw?oc=5",
@@ -1049,17 +1058,6 @@
       "category": "X热点",
       "slug": "20260803-breaking-microstrategy-mstr-announces-it-has-sold-1638-bitcoin-at-an-average-pri",
       "localUrl": "/news/20260803-breaking-microstrategy-mstr-announces-it-has-sold-1638-bitcoin-at-an-average-pri.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$MSTR - STRATEGY SELLS 1,638 BITCOIN, BOOSTS CASH RESERVE Strategy raised $290.6M by selling 3.01M shares through its ATM program. The company allocated $250M to its USD Reserve, $28.9M to STRC share repurchases and $11.7M to cash. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS 1,638 BITCOIN, B…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5",
-      "publishedAt": "2026-08-03T12:12:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se",
-      "localUrl": "/news/20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se.html"
     },
     {
       "source": "X Wire",
