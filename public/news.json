@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-04T18:00:51.248Z",
-  "total": 80,
+  "updatedAt": "2026-08-04T19:52:33.885Z",
+  "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
+      "summary": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
+      "url": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
+      "publishedAt": "2026-08-04T19:11:36.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m",
+      "localUrl": "/news/20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+      "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
+      "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
+      "publishedAt": "2026-08-04T18:46:11.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold",
+      "localUrl": "/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
@@ -238,6 +264,17 @@
       "localUrl": "/news/20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: World's largest custodian bank, BNY Mellon, to launch crypto staking. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5\" target=\"_blank\">JUST IN: World's largest custodian…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5",
+      "publishedAt": "2026-08-04T13:35:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom",
+      "localUrl": "/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
       "summary": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
@@ -249,6 +286,17 @@
       "category": "市场",
       "slug": "20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin",
       "localUrl": "/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html"
+    },
+    {
+      "source": "Solana Blog",
+      "title": "Breakpoint 2026: The Token Supercycle",
+      "summary": "The last cycle was built on software and cheap money. This one is built from steel, silicon, and energy; and the tokens moving the capital behind it. Speaker applications are now live for Breakpoint 2026:",
+      "url": "https://solana.com/news/the-token-supercycle",
+      "publishedAt": "2026-08-04T13:05:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260804-breakpoint-2026-the-token-supercycle",
+      "localUrl": "/news/20260804-breakpoint-2026-the-token-supercycle.html"
     },
     {
       "source": "CoinDesk",
@@ -556,7 +604,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
+      "title": "Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes",
       "summary": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
       "url": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
       "publishedAt": "2026-08-04T08:41:00.000Z",
@@ -566,8 +614,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes",
-      "localUrl": "/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes.html"
+      "slug": "20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-soar-on-iran-deal-hopes",
+      "localUrl": "/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-soar-on-iran-deal-hopes.html"
     },
     {
       "source": "Cointelegraph",
@@ -1000,43 +1048,6 @@
       "category": "X热点",
       "slug": "20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se",
       "localUrl": "/news/20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "South Korean Exchange Bithumb Targets 2028 IPO",
-      "summary": "The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.",
-      "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
-      "publishedAt": "2026-08-03T11:07:59.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260803-south-korean-exchange-bithumb-targets-2028-ipo",
-      "localUrl": "/news/20260803-south-korean-exchange-bithumb-targets-2028-ipo.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
-      "summary": "Transfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.",
-      "url": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
-      "publishedAt": "2026-08-03T10:15:37.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260803-coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
-      "localUrl": "/news/20260803-coldcard-losses-near-114m-as-small-bitcoin-transfers-spike.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN SLIPS ON WALLET HACK FEARS Bitcoin dropped 1.3% to $62,591 amid concerns over a potential hack targeting Coldcard wallets. Coinkite urged users to move funds after researchers flagged a flaw that may have enabled attackers to steal roughly - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaXhRcXZNY0MxZjN5YTB0QnJSWnhoeWZrRHhjZ2VQV3hhNFFIeTBTNk9Gb2I1Qi1MTWZZVHVvY09OTXVuTjNiUEVRdTJpM3JGZzM1MEMzczJQaUl4R3c?oc=5\" target=\"_blank\">BITCOIN SLIPS ON WALLET HACK FEARS Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaXhRcXZNY0MxZjN5YTB0QnJSWnhoeWZrRHhjZ2VQV3hhNFFIeTBTNk9Gb2I1Qi1MTWZZVHVvY09OTXVuTjNiUEVRdTJpM3JGZzM1MEMzczJQaUl4R3c?oc=5",
-      "publishedAt": "2026-08-03T07:48:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove",
-      "localUrl": "/news/20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove.html"
     },
     {
       "source": "X Wire",

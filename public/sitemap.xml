@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-04T18:00:51.289Z</lastmod>
+    <lastmod>2026-08-04T19:52:33.926Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-04T18:00:51.289Z</lastmod>
+    <lastmod>2026-08-04T19:52:33.926Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m.html</loc>
+    <lastmod>2026-08-04T19:11:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html</loc>
+    <lastmod>2026-08-04T18:46:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260804-open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc.html</loc>
@@ -109,8 +121,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html</loc>
+    <lastmod>2026-08-04T13:35:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html</loc>
     <lastmod>2026-08-04T13:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260804-breakpoint-2026-the-token-supercycle.html</loc>
+    <lastmod>2026-08-04T13:05:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -247,7 +271,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes.html</loc>
+    <loc>https://www.librchain.com/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-soar-on-iran-deal-hopes.html</loc>
     <lastmod>2026-08-04T08:41:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -459,24 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se.html</loc>
     <lastmod>2026-08-03T12:12:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260803-south-korean-exchange-bithumb-targets-2028-ipo.html</loc>
-    <lastmod>2026-08-03T11:07:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260803-coldcard-losses-near-114m-as-small-bitcoin-transfers-spike.html</loc>
-    <lastmod>2026-08-03T10:15:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove.html</loc>
-    <lastmod>2026-08-03T07:48:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

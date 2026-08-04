@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 04 Aug 2026 18:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:52:33 GMT</lastBuildDate>
+    <item>
+      <title>Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter</title>
+      <link>https://www.librchain.com/news/20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m.html</guid>
+      <description>A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.</description>
+      <pubDate>Tue, 04 Aug 2026 19:11:36 GMT</pubDate>
+      <source url="https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits">Decrypt</source>
+    </item>
+    <item>
+      <title>Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold</title>
+      <link>https://www.librchain.com/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html</guid>
+      <description>Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.</description>
+      <pubDate>Tue, 04 Aug 2026 18:46:11 GMT</pubDate>
+      <source url="https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold">Decrypt</source>
+    </item>
     <item>
       <title>Open USD rattled Circle&apos;s stock, but its key backers still support USDC</title>
       <link>https://www.librchain.com/news/20260804-open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc.html</link>
@@ -135,12 +151,28 @@
       <source url="https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported">Decrypt</source>
     </item>
     <item>
+      <title>JUST IN: World&apos;s largest custodian bank, BNY Mellon, to launch crypto staking. - x.com</title>
+      <link>https://www.librchain.com/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: World&apos;s largest custodian…</description>
+      <pubDate>Tue, 04 Aug 2026 13:35:42 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin</title>
       <link>https://www.librchain.com/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html</guid>
       <description>Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.</description>
       <pubDate>Tue, 04 Aug 2026 13:30:00 GMT</pubDate>
       <source url="https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Breakpoint 2026: The Token Supercycle</title>
+      <link>https://www.librchain.com/news/20260804-breakpoint-2026-the-token-supercycle.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260804-breakpoint-2026-the-token-supercycle.html</guid>
+      <description>The last cycle was built on software and cheap money. This one is built from steel, silicon, and energy; and the tokens moving the capital behind it. Speaker applications are now live for Breakpoint 2026:</description>
+      <pubDate>Tue, 04 Aug 2026 13:05:00 GMT</pubDate>
+      <source url="https://solana.com/news/the-token-supercycle">Solana Blog</source>
     </item>
     <item>
       <title>As Clarity Act teeters, mystery group hammers away at crypto in Washington ads</title>
@@ -319,9 +351,9 @@
       <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbEFPZ3pvNjNFVm5KY3JEd19JU2xrX3ladlpxYmkxY1FwUVdhZ25IYXluZHAwdmh1dHZLNXVKTzY3VFFoVzBiWFZTOGZVS25NMjFaYTFOLWo5YWxmanV2TktrRQ?oc=5">X Wire</source>
     </item>
     <item>
-      <title>Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes</title>
-      <link>https://www.librchain.com/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes.html</guid>
+      <title>Live updates: Bitcoin stuck in tight range as risk assets soar on Iran deal hopes</title>
+      <link>https://www.librchain.com/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-soar-on-iran-deal-hopes.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-soar-on-iran-deal-hopes.html</guid>
       <description>Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.</description>
       <pubDate>Tue, 04 Aug 2026 08:41:00 GMT</pubDate>
       <source url="https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears">CoinDesk</source>
@@ -453,38 +485,6 @@
       <description>Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.</description>
       <pubDate>Mon, 03 Aug 2026 22:29:02 GMT</pubDate>
       <source url="https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms">Decrypt</source>
-    </item>
-    <item>
-      <title>Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice</title>
-      <link>https://www.librchain.com/news/20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat.html</guid>
-      <description>Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.</description>
-      <pubDate>Mon, 03 Aug 2026 21:17:06 GMT</pubDate>
-      <source url="https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice">Decrypt</source>
-    </item>
-    <item>
-      <title>Strategy is the JPMorgan of the crypto economy. - x.com</title>
-      <link>https://www.librchain.com/news/20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UGJHTUdPekNMR2lFWmJvckQxY2RQUFA1VzNYd19ZUVZGUnZXVzlKSXBGb2psZnpweDdKdGpTOEdQcHZvdlRqMktPcjVWMm1uSk1mcTl5TE51b2s?oc=5&quot; target=&quot;_blank&quot;&gt;Strategy is the JPMorgan of the crypto econ…</description>
-      <pubDate>Mon, 03 Aug 2026 20:39:51 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UGJHTUdPekNMR2lFWmJvckQxY2RQUFA1VzNYd19ZUVZGUnZXVzlKSXBGb2psZnpweDdKdGpTOEdQcHZvdlRqMktPcjVWMm1uSk1mcTl5TE51b2s?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security</title>
-      <link>https://www.librchain.com/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html</guid>
-      <description>Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they&apos;re not immune from threats.</description>
-      <pubDate>Mon, 03 Aug 2026 20:39:33 GMT</pubDate>
-      <source url="https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security">Decrypt</source>
-    </item>
-    <item>
-      <title>The CLARITY act represents a ton of bi-partisan work to finally establish clear rules for crypto in America, which 70% of Americans say we should already have. Whether people love crypto or hate it, there is broad consensus that we need clear rules to protect c - x.com</title>
-      <link>https://www.librchain.com/news/20260803-the-clarity-act-represents-a-ton-of-bi-partisan-work-to-finally-establish-clear-.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260803-the-clarity-act-represents-a-ton-of-bi-partisan-work-to-finally-establish-clear-.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZGEyb2U4NGZCZS1Xb0dDTTlIYU5jSUFacUYtUUI1Smo0cUhleFFwMmd5RDd0aHprUUVvMmdFV1A0SFprcU8tdlBMc1FJTnpNS0NveENUZmk5bXhTdWhHN3F4TXBkcWs?oc=5&quot; target=&quot;_blank&quot;&gt;The CLARITY act represents …</description>
-      <pubDate>Mon, 03 Aug 2026 19:46:32 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZGEyb2U4NGZCZS1Xb0dDTTlIYU5jSUFacUYtUUI1Smo0cUhleFFwMmd5RDd0aHprUUVvMmdFV1A0SFprcU8tdlBMc1FJTnpNS0NveENUZmk5bXhTdWhHN3F4TXBkcWs?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>
