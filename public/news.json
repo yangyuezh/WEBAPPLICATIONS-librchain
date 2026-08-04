@@ -1,7 +1,208 @@
 {
-  "updatedAt": "2026-08-04T12:15:44.682Z",
+  "updatedAt": "2026-08-04T15:32:52.417Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
+      "summary": "Retail investors and large whales are buying as bitcoin trades near its 200-week moving average.",
+      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+      "publishedAt": "2026-08-04T14:49:33.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260804-bitcoins-63000-zone-emerges-as-key-battleground-for-buyers-glassnode",
+      "localUrl": "/news/20260804-bitcoins-63000-zone-emerges-as-key-battleground-for-buyers-glassnode.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
+      "summary": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly’s managing partner.",
+      "url": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T14:38:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260804-at-least-15-attackers-exploited-coldcard-vulnerability-galaxy",
+      "localUrl": "/news/20260804-at-least-15-attackers-exploited-coldcard-vulnerability-galaxy.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+      "summary": "The blockchain-based prediction markets platform is reportedly returning to investors months after a $15 billion funding round.",
+      "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+      "publishedAt": "2026-08-04T14:38:23.000Z",
+      "keywords": [
+        "Markets",
+        "Polymarket",
+        "Prediction Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-polymarket-targets-20-billion-valuation-as-competition-heats-up-in-prediction-ma",
+      "localUrl": "/news/20260804-polymarket-targets-20-billion-valuation-as-competition-heats-up-in-prediction-ma.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+      "summary": "The Italian bank tripled its holding of iShares Staked Ethereum Trust ETF stake as total bitcoin ETF holdings fell 35% to $69.3 million.",
+      "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+      "publishedAt": "2026-08-04T14:25:50.000Z",
+      "keywords": [
+        "Finance",
+        "ETFs",
+        "Crypto News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-cryp",
+      "localUrl": "/news/20260804-intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-cryp.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
+      "summary": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
+      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+      "publishedAt": "2026-08-04T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up",
+      "localUrl": "/news/20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T13:45:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260804-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260804-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
+      "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
+      "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
+      "publishedAt": "2026-08-04T13:36:06.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
+      "localUrl": "/news/20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
+      "summary": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
+      "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "市场",
+      "slug": "20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin",
+      "localUrl": "/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+      "summary": "Crypto Watchdog has taken to warning people in DC about the hazards of digital assets, and its director won't say who is backing it.",
+      "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+      "localUrl": "/news/20260804-as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
+      "summary": "A migration wave followed a $292 million Kelp bridge exploit, with announced LayerZero-to-Chainlink moves now totaling $14.5 billion.",
+      "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "Exclusive",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260804-bitgos-wbtc-move-pushes-layerzero-to-chainlink-tally-near-15-billion",
+      "localUrl": "/news/20260804-bitgos-wbtc-move-pushes-layerzero-to-chainlink-tally-near-15-billion.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein",
+      "summary": "Monday’s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won’t impact miners’ approved electricity contracts.",
+      "url": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T12:37:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260804-texas-electric-grid-moratorium-wont-have-big-impact-on-btc-miners-bernstein",
+      "localUrl": "/news/20260804-texas-electric-grid-moratorium-wont-have-big-impact-on-btc-miners-bernstein.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Saylor Sells Bitcoin Again",
+      "summary": "Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to… help them buy more Bitcoin.",
+      "url": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
+      "publishedAt": "2026-08-04T12:33:21.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260804-morning-minute-saylor-sells-bitcoin-again",
+      "localUrl": "/news/20260804-morning-minute-saylor-sells-bitcoin-again.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
+      "summary": "XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to rise.",
+      "url": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T12:30:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260804-tether-gold-reserves-rise-95-as-gold-posts-worst-quarter-in-13-years",
+      "localUrl": "/news/20260804-tether-gold-reserves-rise-95-as-gold-posts-worst-quarter-in-13-years.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY to add crypto staking to digital asset custody platform",
+      "summary": "The custody bank has selected Galaxy to provide staking infrastructure as it broadens services for institutional crypto investors.",
+      "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
+      "publishedAt": "2026-08-04T12:30:00.000Z",
+      "keywords": [
+        "Finance",
+        "Staking",
+        "Galaxy Digital",
+        "Custody",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform",
+      "localUrl": "/news/20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
@@ -73,6 +274,19 @@
       "localUrl": "/news/20260804-south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+      "summary": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
+      "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T10:53:00.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16",
+      "localUrl": "/news/20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
       "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
@@ -99,19 +313,6 @@
       "category": "安全",
       "slug": "20260804-bitcoin-rises-toward-64000-as-coldcard-exploit-strategy-sales-recede-ada-advance",
       "localUrl": "/news/20260804-bitcoin-rises-toward-64000-as-coldcard-exploit-strategy-sales-recede-ada-advance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
-      "summary": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
-      "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T10:47:39.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16",
-      "localUrl": "/news/20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16.html"
     },
     {
       "source": "Cointelegraph",
@@ -226,6 +427,17 @@
       "localUrl": "/news/20260804-apple-briefly-removes-telegram-from-app-store-gram-rebounds.html"
     },
     {
+      "source": "X Wire",
+      "title": "Coinbase to Shift Institutional Clients to Deribit, World’s Largest Crypto Options Exchange Coinbase plans to migrate institutional clients’ International Exchange accounts, balances and positions to Deribit on September 9, with trading expected to pause for ab - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxdXQ5aVdlUkU1Y2VWd2N1bkM1eENsY09rSE5pSWRXRGFEZ1hoS0x0WmJSVUthUVUzY1YtbFRwNHRBdFlNdXBWc09pZHNkcXA1UUtMaHo0MnQxT000cHNidUJISQ?oc=5\" target=\"_blank\">Coinbase to Shift Institutional …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxdXQ5aVdlUkU1Y2VWd2N1bkM1eENsY09rSE5pSWRXRGFEZ1hoS0x0WmJSVUthUVUzY1YtbFRwNHRBdFlNdXBWc09pZHNkcXA1UUtMaHo0MnQxT000cHNidUJISQ?oc=5",
+      "publishedAt": "2026-08-04T07:57:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-coinbase-to-shift-institutional-clients-to-deribit-worlds-largest-crypto-options",
+      "localUrl": "/news/20260804-coinbase-to-shift-institutional-clients-to-deribit-worlds-largest-crypto-options.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
       "summary": "The planned Gelephu Mindfulness City says 3iQ will run part of its bitcoin treasury on a market-neutral basis, a shift from holding the coins as a long-term national asset.",
@@ -283,19 +495,6 @@
       "localUrl": "/news/20260804-nigeria-sets-crypto-tax-collection-rules-for-digital-asset-platforms.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T06:18:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260804-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260804-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
       "summary": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
@@ -308,6 +507,17 @@
       "category": "基础设施",
       "slug": "20260804-xrp-holders-can-now-borrow-rlusd-on-ethereum-through-280-million-lending-pool",
       "localUrl": "/news/20260804-xrp-holders-can-now-borrow-rlusd-on-ethereum-through-280-million-lending-pool.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇳🇬 JUST IN: Nigeria's tax authority issues new guidelines making crypto profits, staking rewards, and airdrops officially taxable under the country's tax laws. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5\" target=\"_blank\">🇳🇬 JUST IN: Nigeria's tax aut…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5",
+      "publishedAt": "2026-08-04T06:01:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-just-in-nigerias-tax-authority-issues-new-guidelines-making-crypto-profits-staki",
+      "localUrl": "/news/20260804-just-in-nigerias-tax-authority-issues-new-guidelines-making-crypto-profits-staki.html"
     },
     {
       "source": "Cointelegraph",
@@ -430,6 +640,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🇺🇸 LATEST: The Blockchain Association sends a letter to Senate leaders Thune and Schumer, pushing back point-by-point on the National Sheriffs' Association's claims about the Clarity Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5\" target=\"_blank\">🇺🇸 LATEST: The Blockchain Ass…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5",
+      "publishedAt": "2026-08-04T02:01:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch",
+      "localUrl": "/news/20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Crypto trading activity is declining: Daily trading volume across the 44 spot crypto exchanges tracked by Kaiko fell to ~$15 billion last week, the lowest level of the year. This marks a -70% decline from January peak levels. By comparison, in February, there wer - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVkZ2T19TRHZnSkp5X3BmcDhBYWJNR3RwWXpjeG9SbkxJeFpmLWs5SEU4NERseFlKM1FJNU5QTm1CekhUVThKVFpabUhMRE9FcWlEU003azBZSEY1N3lIZklob1oxUQ?oc=5\" target=\"_blank\">Crypto trading activity is d…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVkZ2T19TRHZnSkp5X3BmcDhBYWJNR3RwWXpjeG9SbkxJeFpmLWs5SEU4NERseFlKM1FJNU5QTm1CekhUVThKVFpabUhMRE9FcWlEU003azBZSEY1N3lIZklob1oxUQ?oc=5",
@@ -477,32 +698,6 @@
       "category": "基础设施",
       "slug": "20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too",
       "localUrl": "/news/20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-      "summary": "The agent, who had \"top secret\" clearance and worked in FBI headquarters, was accused of taking crypto from wallets the agency had investigated.",
-      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
-      "publishedAt": "2026-08-03T22:17:59.000Z",
-      "keywords": [
-        "Policy",
-        "Crime",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260803-us-fbi-intelligence-agent-arrested-in-connection-with-theft-of-1-million-in-cryp",
-      "localUrl": "/news/20260803-us-fbi-intelligence-agent-arrested-in-connection-with-theft-of-1-million-in-cryp.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 US SENATE LEADER JUST CONFIRMED CONGRESS WILL NOT LEAVE FOR AUGUST RECESS UNTIL CLARITY ACT VOTE IS HELD MAJORITY LEADER JOHN THUNE TELLS PUNCHBOWL: \"WE WILL STAY IN SESSION UNTIL WE FINI - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sQksyalB4T2lzR1VHRVpDOEJITS1XX09mZFlLS1JOa3BOUWsxUk9HNmczYVk4dk9TcDdYSEhVWHkyNXZBeFJZcUtoanlEc3dsNGcyOURkbWZuZ1hMeXg2Q1R3?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 US SENATE LEADER JU…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sQksyalB4T2lzR1VHRVpDOEJITS1XX09mZFlLS1JOa3BOUWsxUk9HNmczYVk4dk9TcDdYSEhVWHkyNXZBeFJZcUtoanlEc3dsNGcyOURkbWZuZ1hMeXg2Q1R3?oc=5",
-      "publishedAt": "2026-08-03T21:51:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-breaking-us-senate-leader-just-confirmed-congress-will-not-leave-for-august-rece",
-      "localUrl": "/news/20260803-breaking-us-senate-leader-just-confirmed-congress-will-not-leave-for-august-rece.html"
     },
     {
       "source": "X Wire",
@@ -553,19 +748,6 @@
       "localUrl": "/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
-      "summary": "A key architect of the Trump administration’s digital asset agenda is leaving the Treasury Department as Congress struggles to advance landmark crypto legislation.",
-      "url": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T20:29:47.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260803-bessents-top-crypto-adviser-tyler-williams-exits-us-treasury-report",
-      "localUrl": "/news/20260803-bessents-top-crypto-adviser-tyler-williams-exits-us-treasury-report.html"
-    },
-    {
       "source": "X Wire",
       "title": "The CLARITY act represents a ton of bi-partisan work to finally establish clear rules for crypto in America, which 70% of Americans say we should already have. Whether people love crypto or hate it, there is broad consensus that we need clear rules to protect c - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZGEyb2U4NGZCZS1Xb0dDTTlIYU5jSUFacUYtUUI1Smo0cUhleFFwMmd5RDd0aHprUUVvMmdFV1A0SFprcU8tdlBMc1FJTnpNS0NveENUZmk5bXhTdWhHN3F4TXBkcWs?oc=5\" target=\"_blank\">The CLARITY act represents …",
@@ -575,19 +757,6 @@
       "category": "X热点",
       "slug": "20260803-the-clarity-act-represents-a-ton-of-bi-partisan-work-to-finally-establish-clear-",
       "localUrl": "/news/20260803-the-clarity-act-represents-a-ton-of-bi-partisan-work-to-finally-establish-clear-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "FalconX cuts 10% of workforce amid prolonged crypto market slump: Report",
-      "summary": "According to Bloomberg, the digital asset prime broker is refocusing its Singapore strategy and withdrawing its local license application as crypto companies continue to trim costs.",
-      "url": "https://cointelegraph.com/news/falconx-workforce-reduction-amid-crypto-market-slump-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T19:44:48.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260803-falconx-cuts-10-of-workforce-amid-prolonged-crypto-market-slump-report",
-      "localUrl": "/news/20260803-falconx-cuts-10-of-workforce-amid-prolonged-crypto-market-slump-report.html"
     },
     {
       "source": "Decrypt",
@@ -638,6 +807,17 @@
       "localUrl": "/news/20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt.html"
     },
     {
+      "source": "X Wire",
+      "title": "News w/ @LauraEWeiss16: Treasury Secretary Scott Bessent’s top crypto adviser departed the government on Friday. Tyler Williams is expected to return to the private sector. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5\" target=\"_blank\">News w/ @LauraEWeiss16: Tre…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5",
+      "publishedAt": "2026-08-03T17:45:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart",
+      "localUrl": "/news/20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
       "summary": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
@@ -666,19 +846,6 @@
       "localUrl": "/news/20260803-solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
-      "summary": "A new digital verification platform aims to reduce forged certificates by allowing employers and universities to authenticate academic records onchain.",
-      "url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T16:46:22.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260803-kenya-moves-30-million-academic-credentials-onto-avalanche-blockchain",
-      "localUrl": "/news/20260803-kenya-moves-30-million-academic-credentials-onto-avalanche-blockchain.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
       "summary": "The Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter even as Bitcoin’s price fell.",
@@ -703,19 +870,6 @@
       "localUrl": "/news/20260803-when-i-say-never-sell-your-bitcoin-i-speak-as-one-saver-to-another-i-have-never-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
-      "summary": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.",
-      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T16:13:12.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260803-blackrock-launches-tokenized-money-market-funds-for-stablecoin-reserves",
-      "localUrl": "/news/20260803-blackrock-launches-tokenized-money-market-funds-for-stablecoin-reserves.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
       "summary": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
@@ -729,23 +883,6 @@
       "localUrl": "/news/20260803-tom-lees-bitmine-buys-more-ethereum-adds-to-stock-buyback.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump-linked American Bitcoin president Matt Prusak departs for Giga Energy",
-      "summary": "The executive is leaving the Eric Trump-backed miner to join an AI power infrastructure firm, highlighting the shift toward energy and data center buildout.",
-      "url": "https://www.coindesk.com/business/2026/08/03/trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-      "publishedAt": "2026-08-03T15:24:45.000Z",
-      "keywords": [
-        "Finance",
-        "American Bitcoin",
-        "Exclusive",
-        "Eric Trump",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260803-trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy",
-      "localUrl": "/news/20260803-trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy.html"
-    },
-    {
       "source": "X Wire",
       "title": "BlackRock has launched two tokenized money market funds. The $6.2 billion BlackRock Select Treasury Based Liquidity Fund (BSTBL) now has a tokenized share class issued on @ethereum, with BNY as transfer agent and tokenization provider. A second ve - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BNXNNc1ZNdnNYMUhmVERvYms2dTgxbWlKbldJMFVtQWR4eWFGTUNrOE9LN3JFYWlMUU1UQlBIRkROaVFZMFpOVTdzQ0VGX1dCeVBYakVfaUVSN1RzXzZKZVVDTno?oc=5\" target=\"_blank\">BlackRock has launched two toke…",
@@ -755,21 +892,6 @@
       "category": "X热点",
       "slug": "20260803-blackrock-has-launched-two-tokenized-money-market-funds-the-62-billion-blackrock",
       "localUrl": "/news/20260803-blackrock-has-launched-two-tokenized-money-market-funds-the-62-billion-blackrock.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S.-Japan intervention revives yen carry trade fears for bitcoin",
-      "summary": "Coordinated action sent the yen sharply higher, but bitcoin’s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk.",
-      "url": "https://www.coindesk.com/markets/2026/08/03/u-s-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-      "publishedAt": "2026-08-03T14:46:08.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260803-us-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
-      "localUrl": "/news/20260803-us-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin.html"
     },
     {
       "source": "X Wire",
@@ -783,22 +905,6 @@
       "localUrl": "/news/20260803-just-in-blackrock-launches-tokenized-money-market-fund-on-ethereum-xcom.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-      "summary": "The bank said tokenized money market funds, Open USD and slower USDC growth could weigh on the stablecoin issuer's earnings.",
-      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-      "publishedAt": "2026-08-03T13:59:50.000Z",
-      "keywords": [
-        "Markets",
-        "Circle",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260803-circle-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-      "localUrl": "/news/20260803-circle-slides-after-morgan-stanley-downgrade-cut-in-price-target.html"
-    },
-    {
       "source": "X Wire",
       "title": "$MSTR is built to outperform Bitcoin over time. It has outperformed Bitcoin in every four-year holding period since we adopted Bitcoin on August 10, 2020. Outperformance comes from growing Bitcoin per share. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpV0NWRzJfVHMxaXZSNC14b3pNc2N4cEo2X3lab2hNNEQzZndmSHpybXdXLWpvUjNxdm9lRjhsTzB5NXBxMlZrVXZtNmVVNnFBQzJyVVIyUVFnVHJo?oc=5\" target=\"_blank\">$MSTR is built to outperform Bitcoin over …",
@@ -808,48 +914,6 @@
       "category": "X热点",
       "slug": "20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve",
       "localUrl": "/news/20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
-      "summary": "The broker said failure to pass the Clarity Act this year would likely send crypto lower, but expects U.S. regulators to accelerate rulemaking.",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-      "publishedAt": "2026-08-03T13:49:40.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "Regulation",
-        "Bernstein",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260803-bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-      "localUrl": "/news/20260803-bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Here's a great STRATEGY: - Sell Bitcoin (at the lows). - Use proceeds to buy STRC, try to get it to $100. - When STRC hits $100, try buy the same amount Bitcoin that you sold again. Either Saylor is trying to prove a point to a rating agency, that he will buy and s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5\" target=\"_blank\">Here's a great STRATEGY: - Sell …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5",
-      "publishedAt": "2026-08-03T13:17:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-",
-      "localUrl": "/news/20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-      "summary": "Both funds intend to qualify as eligible reserve assets for permitted U.S. payment stablecoin issuers under the GENIUS Act.",
-      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-      "publishedAt": "2026-08-03T13:15:46.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260803-blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offering",
-      "localUrl": "/news/20260803-blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offering.html"
     },
     {
       "source": "Decrypt",
@@ -863,22 +927,6 @@
       "category": "安全",
       "slug": "20260803-morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
       "localUrl": "/news/20260803-morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
-      "summary": "Chairman Tom Lee said ether's outperformance versus the Nasdaq in July signals strengthening crypto fundamentals.",
-      "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-      "publishedAt": "2026-08-03T12:53:21.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260803-tom-lees-bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-      "localUrl": "/news/20260803-tom-lees-bitmine-bought-more-ether-added-to-stock-buyback-last-week.html"
     },
     {
       "source": "Decrypt",
@@ -943,17 +991,6 @@
     },
     {
       "source": "X Wire",
-      "title": "BITCOIN SLIPS ON WALLET HACK FEARS Bitcoin dropped 1.3% to $62,591 amid concerns over a potential hack targeting Coldcard wallets. Coinkite urged users to move funds after researchers flagged a flaw that may have enabled attackers to steal roughly - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaXhRcXZNY0MxZjN5YTB0QnJSWnhoeWZrRHhjZ2VQV3hhNFFIeTBTNk9Gb2I1Qi1MTWZZVHVvY09OTXVuTjNiUEVRdTJpM3JGZzM1MEMzczJQaUl4R3c?oc=5\" target=\"_blank\">BITCOIN SLIPS ON WALLET HACK FEARS Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaXhRcXZNY0MxZjN5YTB0QnJSWnhoeWZrRHhjZ2VQV3hhNFFIeTBTNk9Gb2I1Qi1MTWZZVHVvY09OTXVuTjNiUEVRdTJpM3JGZzM1MEMzczJQaUl4R3c?oc=5",
-      "publishedAt": "2026-08-03T07:48:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove",
-      "localUrl": "/news/20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove.html"
-    },
-    {
-      "source": "X Wire",
       "title": "career advice for people trying to break into crypto: - go to events, but skip the lines to talk to \"top\" folks. toly is a genuinely open and helpful dude, but he has 10,000 people in line to talk to him. instead find the \"head of ___\" person at the protocols you like. they - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUVdyN3RzaTVTdXA3VjNuRzJsazdMV0RST1V0bEUwWEh0eFBESm5zSWxqZjhqeVVUdk1TQXRmT2txWjFXY0pnblN5VjBhTE5RWE9GWnRMcndRSm1zaVNzbA?oc=5\" target=\"_blank\">career advice for people trying to b…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUVdyN3RzaTVTdXA3VjNuRzJsazdMV0RST1V0bEUwWEh0eFBESm5zSWxqZjhqeVVUdk1TQXRmT2txWjFXY0pnblN5VjBhTE5RWE9GWnRMcndRSm1zaVNzbA?oc=5",
@@ -962,17 +999,6 @@
       "category": "X热点",
       "slug": "20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l",
       "localUrl": "/news/20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Marc Andreessen: “We need a stable, permanent regulatory structure for crypto in the US.” “We need it so that it doesn’t result in more FTXs. And we need it so that people’s money doesn’t get stolen.” “We’re not looking for a free lunch. We’re not looking for sub - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qVnFmdEk1SVFQSmlpMDFZQ0doNXB5cWdwUTRhQlRWSkd0dm5aOHk0eHZHQlVTU0hLSXNYTlBBZXlrM3JBclRydU45T3VubzM4YzQ4UmwtQW00bGNuWTNuZw?oc=5\" target=\"_blank\">Marc Andreessen: “We need a stable, …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qVnFmdEk1SVFQSmlpMDFZQ0doNXB5cWdwUTRhQlRWSkd0dm5aOHk0eHZHQlVTU0hLSXNYTlBBZXlrM3JBclRydU45T3VubzM4YzQ4UmwtQW00bGNuWTNuZw?oc=5",
-      "publishedAt": "2026-08-02T20:31:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-marc-andreessen-we-need-a-stable-permanent-regulatory-structure-for-crypto-in-th",
-      "localUrl": "/news/20260802-marc-andreessen-we-need-a-stable-permanent-regulatory-structure-for-crypto-in-th.html"
     },
     {
       "source": "Decrypt",
@@ -1021,32 +1047,6 @@
       "category": "X热点",
       "slug": "20260802-bitcoin-drive-engaged-xcom",
       "localUrl": "/news/20260802-bitcoin-drive-engaged-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-      "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
-      "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-      "publishedAt": "2026-08-01T16:01:17.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "安全",
-      "slug": "20260801-cz-warns-bitcoin-holders-after-70-million-wallet-exploit-nothing-is-100",
-      "localUrl": "/news/20260801-cz-warns-bitcoin-holders-after-70-million-wallet-exploit-nothing-is-100.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
-      "summary": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
-      "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
-      "publishedAt": "2026-08-01T15:01:09.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup",
-      "localUrl": "/news/20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup.html"
     }
   ]
 }
