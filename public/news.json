@@ -1,7 +1,89 @@
 {
-  "updatedAt": "2026-08-04T19:52:33.885Z",
+  "updatedAt": "2026-08-04T21:32:31.438Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
+      "summary": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.",
+      "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
+      "publishedAt": "2026-08-04T21:16:03.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260804-ledger-says-coldcard-exploit-shows-bitcoin-wallet-security-must-adapt-to-ai",
+      "localUrl": "/news/20260804-ledger-says-coldcard-exploit-shows-bitcoin-wallet-security-must-adapt-to-ai.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
+      "summary": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
+      "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+      "publishedAt": "2026-08-04T20:45:18.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled",
+      "localUrl": "/news/20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+      "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+      "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+      "publishedAt": "2026-08-04T20:30:52.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year",
+      "localUrl": "/news/20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
+      "summary": "Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.",
+      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
+      "publishedAt": "2026-08-04T20:26:21.000Z",
+      "keywords": [
+        "Finance",
+        "SpaceX",
+        "Elon Musk",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260804-spacex-tops-wall-street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdi",
+      "localUrl": "/news/20260804-spacex-tops-wall-street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdi.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T19:59:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260804-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260804-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T19:58:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260804-us-uk-reaffirm-support-for-stablecoins-tokenization-in-joint-financial-regulatio",
+      "localUrl": "/news/20260804-us-uk-reaffirm-support-for-stablecoins-tokenization-in-joint-financial-regulatio.html"
+    },
     {
       "source": "Decrypt",
       "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
@@ -223,6 +305,28 @@
       "localUrl": "/news/20260804-intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-cryp.html"
     },
     {
+      "source": "X Wire",
+      "title": "Kinda crazy so many people are just unaware that AI stocks have done 10-20-50x in the past year, or since April in some cases and have just been in crypto oblivious to everything else. Although, I trade both. I just hadn't been much into crypto the past year but - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVQUdnbnNnRG1xeWMtNFVXVkt0eGZvaWFFQXJTMEI0SDZ2ZVVoQ0IweUduaUpidFNZd1JmTjZZYTJQQjEzUnBNNzFTN2RIOS1sOXQ0T2U2WGl3aE10dlE?oc=5\" target=\"_blank\">Kinda crazy so many people are just una…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVQUdnbnNnRG1xeWMtNFVXVkt0eGZvaWFFQXJTMEI0SDZ2ZVVoQ0IweUduaUpidFNZd1JmTjZZYTJQQjEzUnBNNzFTN2RIOS1sOXQ0T2U2WGl3aE10dlE?oc=5",
+      "publishedAt": "2026-08-04T14:12:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-kinda-crazy-so-many-people-are-just-unaware-that-ai-stocks-have-done-10-20-50x-i",
+      "localUrl": "/news/20260804-kinda-crazy-so-many-people-are-just-unaware-that-ai-stocks-have-done-10-20-50x-i.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "[ ZOOMER ] JUSTIN DRAKE AND OTHERS CREATE EIP-8361 TO REDUCE ETHEREUM INFLATION, WOULD REDUCE STAKING YIELD TO 0% ABOVE 50% OF ETHEREUM STAKED, AND HALF STAKING YIELD TO 1% AT CURRENT STAKED AMOUNTS - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DRnQ1S0pmTzIwdVpDVDd3X1FDU3NQeEkya3ZTNGJELTd1YnVkTWFpSWxtcUlxWmJtYnpnd3lwWXdzR2hGdWl1dnc3UnI0cGNsN1ZpSzliaTRqODVueGpYSg?oc=5\" target=\"_blank\">[ ZOOMER ] JUSTIN DRAKE AND OTHERS C…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DRnQ1S0pmTzIwdVpDVDd3X1FDU3NQeEkya3ZTNGJELTd1YnVkTWFpSWxtcUlxWmJtYnpnd3lwWXdzR2hGdWl1dnc3UnI0cGNsN1ZpSzliaTRqODVueGpYSg?oc=5",
+      "publishedAt": "2026-08-04T14:04:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-zoomer-justin-drake-and-others-create-eip-8361-to-reduce-ethereum-inflation-woul",
+      "localUrl": "/news/20260804-zoomer-justin-drake-and-others-create-eip-8361-to-reduce-ethereum-inflation-woul.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
       "summary": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
@@ -238,17 +342,15 @@
       "localUrl": "/news/20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T13:45:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260804-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260804-heres-what-happened-in-crypto-today.html"
+      "source": "X Wire",
+      "title": "🚨 New EIP: Tapered Issuance Burn We just submitted an EIP to ethereum/EIPs: a minimal, market-driven fix to Ethereum's issuance policy removing the incentive for stake growth beyond 50% of ETH supply. EIP-8361 by @pintail_xyz, @jdetychey, @dapplion, - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZmd5SkRtZVBIeHFhR1loWDRlaFhjbThTeWpzX1I4a1FvYy10Mzd0MXh2RzZtc211dDFsTGEwT2pmdG1CdlBXQjh5cGFPczBrTHc5b3FvRjZVbmhneHZn?oc=5\" target=\"_blank\">🚨 New EIP: Tapered Issuance Burn We j…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZmd5SkRtZVBIeHFhR1loWDRlaFhjbThTeWpzX1I4a1FvYy10Mzd0MXh2RzZtc211dDFsTGEwT2pmdG1CdlBXQjh5cGFPczBrTHc5b3FvRjZVbmhneHZn?oc=5",
+      "publishedAt": "2026-08-04T13:53:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-new-eip-tapered-issuance-burn-we-just-submitted-an-eip-to-ethereumeips-a-minimal",
+      "localUrl": "/news/20260804-new-eip-tapered-issuance-burn-we-just-submitted-an-eip-to-ethereumeips-a-minimal.html"
     },
     {
       "source": "Decrypt",
@@ -384,17 +486,6 @@
       "category": "DeFi",
       "slug": "20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform",
       "localUrl": "/news/20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "News: BlackRock brings its European money market funds onto Ethereum. BlackRock is tokenizing share classes of its European Institutional Cash Series money market funds, representing $311 billion in assets as of June 30. The onchain share classes are is - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5\" target=\"_blank\">News: BlackRock brings its Euro…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5",
-      "publishedAt": "2026-08-04T12:25:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is",
-      "localUrl": "/news/20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is.html"
     },
     {
       "source": "CoinDesk",
@@ -657,22 +748,6 @@
       "localUrl": "/news/20260804-bhutans-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10000-btc-pledge.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why Jim Cramer’s quantum panic isn’t rattling bitcoin as price holds steady around $64,000",
-      "summary": "Jim Cramer says he's dumping his bitcoin over quantum computing fears, but his track record of crypto and bank calls has buoyed the crypto community.",
-      "url": "https://www.coindesk.com/markets/2026/08/04/why-jim-cramer-s-quantum-panic-isn-t-rattling-bitcoin-as-price-holds-steady-around-usd64-000",
-      "publishedAt": "2026-08-04T07:53:18.000Z",
-      "keywords": [
-        "Markets",
-        "quantum computing",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260804-why-jim-cramers-quantum-panic-isnt-rattling-bitcoin-as-price-holds-steady-around",
-      "localUrl": "/news/20260804-why-jim-cramers-quantum-panic-isnt-rattling-bitcoin-as-price-holds-steady-around.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
       "summary": "The ruling leaves New York’s case against Kalshi in place while allowing the CFTC to renew its request before Judge Victor Marrero.",
@@ -723,17 +798,6 @@
       "localUrl": "/news/20260804-crypto-firms-still-seeking-frontier-ai-access-only-select-few-have-it.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨JUST IN: The Blockchain Association has sent a letter to Senate Majority Leader Thune rebutting each point of the National Sheriffs' Association's claims about the CLARITY Act. The group argues the NSA's July 31 letter mischaracterizes the bill's treatment of - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtY2NVR3c4RDBsYzdLYTJpYl81cWpqU1B2TnpqNzlpMmt6VUozYnlvNzB4cFRnbE4xZ0I5ZjZIeU1QaFBQcVJaLUo2RjZfanRRenFJemd1WkU3dDJDYVBOYg?oc=5\" target=\"_blank\">🚨JUST IN: The Blockchain Associatio…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtY2NVR3c4RDBsYzdLYTJpYl81cWpqU1B2TnpqNzlpMmt6VUozYnlvNzB4cFRnbE4xZ0I5ZjZIeU1QaFBQcVJaLUo2RjZfanRRenFJemd1WkU3dDJDYVBOYg?oc=5",
-      "publishedAt": "2026-08-04T05:13:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t",
-      "localUrl": "/news/20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Coldcard Bitcoin theft tops $100M across 3 confirmed attack waves: Galaxy",
       "summary": "Galaxy Research said 90% of the stolen Bitcoin remains unmoved as investigators examine a suspected fourth wave that could lift losses to $130 million.",
@@ -769,19 +833,6 @@
       "category": "市场",
       "slug": "20260804-bitmine-adds-196m-in-eth-repurchases-45m-shares",
       "localUrl": "/news/20260804-bitmine-adds-196m-in-eth-repurchases-45m-shares.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Mastercard completes $1.8B BVNK acquisition in stablecoin push",
-      "summary": "Mastercard said the tie-up would help banks, fintechs and enterprises expand stablecoin payments, payouts, settlement and treasury services.",
-      "url": "https://cointelegraph.com/news/mastercard-completes-bvnk-acquisition-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T02:58:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260804-mastercard-completes-18b-bvnk-acquisition-in-stablecoin-push",
-      "localUrl": "/news/20260804-mastercard-completes-18b-bvnk-acquisition-in-stablecoin-push.html"
     },
     {
       "source": "X Wire",
@@ -967,19 +1018,6 @@
       "localUrl": "/news/20260803-when-i-say-never-sell-your-bitcoin-i-speak-as-one-saver-to-another-i-have-never-.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
-      "summary": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
-      "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
-      "publishedAt": "2026-08-03T15:31:43.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260803-tom-lees-bitmine-buys-more-ethereum-adds-to-stock-buyback",
-      "localUrl": "/news/20260803-tom-lees-bitmine-buys-more-ethereum-adds-to-stock-buyback.html"
-    },
-    {
       "source": "X Wire",
       "title": "BlackRock has launched two tokenized money market funds. The $6.2 billion BlackRock Select Treasury Based Liquidity Fund (BSTBL) now has a tokenized share class issued on @ethereum, with BNY as transfer agent and tokenization provider. A second ve - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BNXNNc1ZNdnNYMUhmVERvYms2dTgxbWlKbldJMFVtQWR4eWFGTUNrOE9LN3JFYWlMUU1UQlBIRkROaVFZMFpOVTdzQ0VGX1dCeVBYakVfaUVSN1RzXzZKZVVDTno?oc=5\" target=\"_blank\">BlackRock has launched two toke…",
@@ -1000,32 +1038,6 @@
       "category": "X热点",
       "slug": "20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-",
       "localUrl": "/news/20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses",
-      "summary": "Self-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.",
-      "url": "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
-      "publishedAt": "2026-08-03T13:11:19.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "安全",
-      "slug": "20260803-morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
-      "localUrl": "/news/20260803-morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
-      "summary": "Half the proceeds funded preferred dividends and half went into an $81 million STRC buyback, its second in as many weeks.",
-      "url": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
-      "publishedAt": "2026-08-03T12:44:29.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260803-strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
-      "localUrl": "/news/20260803-strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b.html"
     },
     {
       "source": "X Wire",
@@ -1059,17 +1071,6 @@
       "category": "X热点",
       "slug": "20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l",
       "localUrl": "/news/20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I’ve had all my bitcoin stolen while away on holiday. It was on a Coldcard MK3. I was led to believe this was really secure. It was recommended by experts including @saifedean. I also had the seed on a metal plate, hidden away. When I got news of the hack o - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNXQ2ZjhKZzBtb1hUSXRqa0hHU0lXNVJvdlQtbXNpOFkzeUlpMGN3XzFONi1xX0lYOGtwZUJiT1ZLLUt1dU9zRzR6aVJfdTA3dDdjZFptWXo3WVRVdkVwSnRZZDk?oc=5\" target=\"_blank\">I’ve had all my bitcoin stolen …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oNXQ2ZjhKZzBtb1hUSXRqa0hHU0lXNVJvdlQtbXNpOFkzeUlpMGN3XzFONi1xX0lYOGtwZUJiT1ZLLUt1dU9zRzR6aVJfdTA3dDdjZFptWXo3WVRVdkVwSnRZZDk?oc=5",
-      "publishedAt": "2026-08-02T14:59:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w",
-      "localUrl": "/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html"
     }
   ]
 }
