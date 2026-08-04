@@ -1,13 +1,195 @@
 {
-  "updatedAt": "2026-08-04T09:47:21.964Z",
-  "total": 81,
+  "updatedAt": "2026-08-04T12:15:44.682Z",
+  "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
+      "summary": "The cold wallet maker said the flaw behind roughly $114 million in losses remains live, with specific models and firmware still exposed.",
+      "url": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
+      "publishedAt": "2026-08-04T12:00:25.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-coldcard-urges-users-to-move-bitcoin-as-exploit-is-still-in-progress",
+      "localUrl": "/news/20260804-coldcard-urges-users-to-move-bitcoin-as-exploit-is-still-in-progress.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
+      "summary": "Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot Bitcoin ETFs.",
+      "url": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T11:55:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260804-italys-biggest-bank-triples-staked-ether-etf-holdings-while-cutting-ibit-shares",
+      "localUrl": "/news/20260804-italys-biggest-bank-triples-staked-ether-etf-holdings-while-cutting-ibit-shares.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
+      "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
+      "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
+      "publishedAt": "2026-08-04T11:40:44.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
+      "localUrl": "/news/20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
+      "summary": "Your day-ahead look for Aug. 4, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
+      "publishedAt": "2026-08-04T11:23:33.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260804-the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
+      "localUrl": "/news/20260804-the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "summary": "A draft rulebook proposes that sending crypto offshore must be conducted through an authorized provider and be reported to the central bank’s FinSurv.",
+      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "publishedAt": "2026-08-04T10:59:41.000Z",
+      "keywords": [
+        "Policy",
+        "South Korea",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "localUrl": "/news/20260804-south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
+      "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
+      "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
+      "publishedAt": "2026-08-04T10:52:57.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
+      "localUrl": "/news/20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+      "summary": "Bitcoin advanced as the market settled down following the weekend’s hack of Coldcard wallets and sales by Strategy even as sentiment remained in “extreme fear.”",
+      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
+      "publishedAt": "2026-08-04T10:51:11.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260804-bitcoin-rises-toward-64000-as-coldcard-exploit-strategy-sales-recede-ada-advance",
+      "localUrl": "/news/20260804-bitcoin-rises-toward-64000-as-coldcard-exploit-strategy-sales-recede-ada-advance.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+      "summary": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
+      "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T10:47:39.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16",
+      "localUrl": "/news/20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Former FBI supervisor admits guilt in $1M crypto theft",
+      "summary": "A former FBI supervisory agent pleaded guilty to stealing about $1 million worth of digital assets from an adversarial country and forfeited about $925,000 in funds to government-controlled wallets.",
+      "url": "https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T10:30:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260804-former-fbi-supervisor-admits-guilt-in-1m-crypto-theft",
+      "localUrl": "/news/20260804-former-fbi-supervisor-admits-guilt-in-1m-crypto-theft.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+      "summary": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
+      "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+      "publishedAt": "2026-08-04T10:03:24.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "BlackRock",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260804-blackrock-debuts-tokenized-access-to-311-billion-of-money-market-funds-in-europe",
+      "localUrl": "/news/20260804-blackrock-debuts-tokenized-access-to-311-billion-of-money-market-funds-in-europe.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "First U.S. spot bitcoin ETF to close as inflows dwindle, investors chase AI returns",
+      "summary": "Hashdex's DEFI, the smallest of the funds, held $14.7 million under management, compared with $47.08 billion for BlackRock’s IBIT.",
+      "url": "https://www.coindesk.com/business/2026/08/04/first-u-s-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "publishedAt": "2026-08-04T09:54:02.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin News",
+        "ETFs",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-first-us-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns",
+      "localUrl": "/news/20260804-first-us-spot-bitcoin-etf-to-close-as-inflows-dwindle-investors-chase-ai-returns.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
+      "summary": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
+      "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
+      "publishedAt": "2026-08-04T09:46:24.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260804-five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
+      "localUrl": "/news/20260804-five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy’s STRC retakes $90 after 24% rebound from June closing low",
+      "summary": "The preferred shares have recovered nearly 24% from their June closing low as Strategy builds its cash reserve and repurchases STRC.",
+      "url": "https://cointelegraph.com/markets/strategy-strc-stock-above-90-june-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T09:42:36.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260804-strategys-strc-retakes-90-after-24-rebound-from-june-closing-low",
+      "localUrl": "/news/20260804-strategys-strc-retakes-90-after-24-rebound-from-june-closing-low.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
       "summary": "The first US-Japan joint yen intervention in 28 years came amid record bond yields and worries about the yen carry trade.",
       "url": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T09:20:17.000Z",
+      "publishedAt": "2026-08-04T09:22:00.000Z",
       "keywords": [
         "Markets"
       ],
@@ -17,7 +199,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin at $63,600 as rare US-Japan yen action tests carry-trade fears",
+      "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
       "summary": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
       "url": "https://www.coindesk.com/business/2026/08/04/live-updates-bitcoin-at-usd63-600-as-rare-us-japan-yen-action-tests-carry-trade-fears",
       "publishedAt": "2026-08-04T08:41:00.000Z",
@@ -27,8 +209,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260804-live-updates-bitcoin-at-63600-as-rare-us-japan-yen-action-tests-carry-trade-fear",
-      "localUrl": "/news/20260804-live-updates-bitcoin-at-63600-as-rare-us-japan-yen-action-tests-carry-trade-fear.html"
+      "slug": "20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes",
+      "localUrl": "/news/20260804-live-updates-bitcoin-stuck-in-tight-range-as-risk-assets-rise-on-iran-deal-hopes.html"
     },
     {
       "source": "Cointelegraph",
@@ -564,19 +746,6 @@
       "localUrl": "/news/20260803-trump-linked-american-bitcoin-president-matt-prusak-departs-for-giga-energy.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
-      "summary": "The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks.",
-      "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T15:24:43.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260803-hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years",
-      "localUrl": "/news/20260803-hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years.html"
-    },
-    {
       "source": "X Wire",
       "title": "BlackRock has launched two tokenized money market funds. The $6.2 billion BlackRock Select Treasury Based Liquidity Fund (BSTBL) now has a tokenized share class issued on @ethereum, with BNY as transfer agent and tokenization provider. A second ve - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BNXNNc1ZNdnNYMUhmVERvYms2dTgxbWlKbldJMFVtQWR4eWFGTUNrOE9LN3JFYWlMUU1UQlBIRkROaVFZMFpOVTdzQ0VGX1dCeVBYakVfaUVSN1RzXzZKZVVDTno?oc=5\" target=\"_blank\">BlackRock has launched two toke…",
@@ -601,19 +770,6 @@
       "category": "市场",
       "slug": "20260803-us-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin",
       "localUrl": "/news/20260803-us-japan-intervention-revives-yen-carry-trade-fears-for-bitcoin.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-      "summary": "The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin traders brace for a historically rough August.",
-      "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T14:11:26.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260803-us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week",
-      "localUrl": "/news/20260803-us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week.html"
     },
     {
       "source": "X Wire",
@@ -671,17 +827,15 @@
       "localUrl": "/news/20260803-bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
-      "summary": "Fake World Assets turns forgotten NFTs into an onchain lottery — but is crypto’s latest obsession built to last?",
-      "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "综合",
-      "slug": "20260803-how-fake-world-assets-and-onchain-gacha-became-cryptos-latest-craze",
-      "localUrl": "/news/20260803-how-fake-world-assets-and-onchain-gacha-became-cryptos-latest-craze.html"
+      "source": "X Wire",
+      "title": "Here's a great STRATEGY: - Sell Bitcoin (at the lows). - Use proceeds to buy STRC, try to get it to $100. - When STRC hits $100, try buy the same amount Bitcoin that you sold again. Either Saylor is trying to prove a point to a rating agency, that he will buy and s - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5\" target=\"_blank\">Here's a great STRATEGY: - Sell …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5",
+      "publishedAt": "2026-08-03T13:17:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-",
+      "localUrl": "/news/20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-.html"
     },
     {
       "source": "CoinDesk",
@@ -751,34 +905,6 @@
       "localUrl": "/news/20260803-breaking-microstrategy-mstr-announces-it-has-sold-1638-bitcoin-at-an-average-pri.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
-      "summary": "Michael Saylor’s Strategy sold 1,638 Bitcoin in its second-largest sale of the year to fund dividend payments and repurchase its preferred STRC stock.",
-      "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-03T12:27:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260803-strategy-sells-1638-bitcoin-to-fund-dividends-and-strc-repurchases",
-      "localUrl": "/news/20260803-strategy-sells-1638-bitcoin-to-fund-dividends-and-strc-repurchases.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy sold another $105 million of bitcoin last week, repurchased $81.2 million of STRC",
-      "summary": "The company trimmed bitcoin holdings by 1,638 coins, while raising $290.6 million with sales of common stock.",
-      "url": "https://www.coindesk.com/markets/2026/08/03/strategy-sold-another-usd105-million-of-bitcoin-last-week-repurchased-usd81-2-million-of-strc",
-      "publishedAt": "2026-08-03T12:17:10.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260803-strategy-sold-another-105-million-of-bitcoin-last-week-repurchased-812-million-o",
-      "localUrl": "/news/20260803-strategy-sold-another-105-million-of-bitcoin-last-week-repurchased-812-million-o.html"
-    },
-    {
       "source": "X Wire",
       "title": "$MSTR - STRATEGY SELLS 1,638 BITCOIN, BOOSTS CASH RESERVE Strategy raised $290.6M by selling 3.01M shares through its ATM program. The company allocated $250M to its USD Reserve, $28.9M to STRC share repurchases and $11.7M to cash. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS 1,638 BITCOIN, B…",
@@ -788,39 +914,6 @@
       "category": "X热点",
       "slug": "20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se",
       "localUrl": "/news/20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitget set to exit Japan, close all remaining positions by year-end",
-      "summary": "The crypto trading platform, ranked fifth on CoinGecko, stopped accepting new registrations on Sunday and plans to shut down all remaining positions by Dec. 31.",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-      "publishedAt": "2026-08-03T12:03:41.000Z",
-      "keywords": [
-        "Policy",
-        "Japan",
-        "Crypto Trading",
-        "Cryptocurrency",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260803-bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-      "localUrl": "/news/20260803-bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solo Bitcoin miner nets $200,000 as Coldcard hardware wallet drains rocks sentiment",
-      "summary": "Your day-ahead look for Aug. 3, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/03/solo-bitcoin-miner-nets-usd200-000-as-coldcard-hardware-wallet-drains-rocks-sentiment",
-      "publishedAt": "2026-08-03T11:18:31.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260803-solo-bitcoin-miner-nets-200000-as-coldcard-hardware-wallet-drains-rocks-sentimen",
-      "localUrl": "/news/20260803-solo-bitcoin-miner-nets-200000-as-coldcard-hardware-wallet-drains-rocks-sentimen.html"
     },
     {
       "source": "Decrypt",
@@ -834,52 +927,6 @@
       "category": "综合",
       "slug": "20260803-south-korean-exchange-bithumb-targets-2028-ipo",
       "localUrl": "/news/20260803-south-korean-exchange-bithumb-targets-2028-ipo.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-      "summary": "Nevertheless, the drop in crypto prices seems restrained given the magnitude of losses in the wallet hack and the erosion of confidence in cold storage.",
-      "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-      "publishedAt": "2026-08-03T10:51:37.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260803-bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-      "localUrl": "/news/20260803-bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bithumb now targets 2028 IPO after major internal restructuring",
-      "summary": "The South Korean crypto trading platform plans to see a preliminary listing review in 2027, but did not identify a proposed listing venue yet.",
-      "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-      "publishedAt": "2026-08-03T10:41:08.000Z",
-      "keywords": [
-        "Finance",
-        "South Korea",
-        "IPOs",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260803-bithumb-now-targets-2028-ipo-after-major-internal-restructuring",
-      "localUrl": "/news/20260803-bithumb-now-targets-2028-ipo-after-major-internal-restructuring.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flirts with $64,000 as stocks start strong in August",
-      "summary": "ARP Digital’s Yusuf Fakhro said bitcoin’s weakness reflects stalled participation more than forced selling, with ETF flows turning negative, CME open interest back at 2023 levels and Strategy idle for a fifth straight week.",
-      "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
-      "publishedAt": "2026-08-03T10:29:23.000Z",
-      "keywords": [
-        "Finance",
-        "Live News",
-        "live_news"
-      ],
-      "category": "监管",
-      "slug": "20260803-live-updates-bitcoin-flirts-with-64000-as-stocks-start-strong-in-august",
-      "localUrl": "/news/20260803-live-updates-bitcoin-flirts-with-64000-as-stocks-start-strong-in-august.html"
     },
     {
       "source": "Decrypt",
@@ -1000,67 +1047,6 @@
       "category": "综合",
       "slug": "20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup",
       "localUrl": "/news/20260801-the-more-americans-know-about-ai-the-less-they-like-it-gallup.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$1.6 million dollars in Bitcoin was drained from my account on July 29th in the Cold Card wallet hack. My Bitcoin was in cold storage. My keys were on a ColdCard device kept in a safety deposit box that had never been connected to the internet. This part's ner - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRFcyaHlVN1Z6Ml9UOXAyOGpQa3dUU2FqN0pISEQ0TkctNlh2REt3em5lLWdsZVlNN2NtMkJJN3ZVaUNWRjBwV0hNUmxIUDdlVkJnZ2hkRkViQ0ozSnI2UjJESkJnbWM?oc=5\" target=\"_blank\">$1.6 million dollars in Bit…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRFcyaHlVN1Z6Ml9UOXAyOGpQa3dUU2FqN0pISEQ0TkctNlh2REt3em5lLWdsZVlNN2NtMkJJN3ZVaUNWRjBwV0hNUmxIUDdlVkJnZ2hkRkViQ0ozSnI2UjJESkJnbWM?oc=5",
-      "publishedAt": "2026-08-01T12:15:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260801-16-million-dollars-in-bitcoin-was-drained-from-my-account-on-july-29th-in-the-co",
-      "localUrl": "/news/20260801-16-million-dollars-in-bitcoin-was-drained-from-my-account-on-july-29th-in-the-co.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
-      "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
-      "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-      "publishedAt": "2026-07-31T20:32:50.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260731-google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears",
-      "localUrl": "/news/20260731-google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI Music Company Suno Loses Copyright Case in Germany",
-      "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
-      "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-      "publishedAt": "2026-07-31T20:03:22.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260731-ai-music-company-suno-loses-copyright-case-in-germany",
-      "localUrl": "/news/20260731-ai-music-company-suno-loses-copyright-case-in-germany.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "US Is Banning Foreign Robots—Even Roombas",
-      "summary": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
-      "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-      "publishedAt": "2026-07-31T19:43:24.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260731-us-is-banning-foreign-robotseven-roombas",
-      "localUrl": "/news/20260731-us-is-banning-foreign-robotseven-roombas.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Inside Solana’s Growing Market for Tokenized Cards and Physical Collectibles",
-      "summary": "Collector Crypt has crossed $1.6B in volume as Solana apps bring vaulted cards, packs, buybacks, and physical redemption onchain.",
-      "url": "https://solana.com/news/tokenized-cards-and-physical-collectibles",
-      "publishedAt": "2026-07-31T10:00:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260731-inside-solanas-growing-market-for-tokenized-cards-and-physical-collectibles",
-      "localUrl": "/news/20260731-inside-solanas-growing-market-for-tokenized-cards-and-physical-collectibles.html"
     }
   ]
 }
