@@ -1,7 +1,141 @@
 {
-  "updatedAt": "2026-08-04T15:32:52.417Z",
+  "updatedAt": "2026-08-04T18:00:51.248Z",
   "total": 80,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "summary": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
+      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+      "publishedAt": "2026-08-04T17:55:23.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "Coinbase",
+        "Mastercard",
+        "Circle",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260804-open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc",
+      "localUrl": "/news/20260804-open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
+      "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
+      "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
+      "publishedAt": "2026-08-04T17:16:49.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260804-alibaba-just-gave-away-its-best-ai-model-for-free-almost-matching-claude-and-cha",
+      "localUrl": "/news/20260804-alibaba-just-gave-away-its-best-ai-model-for-free-almost-matching-claude-and-cha.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.",
+      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "publishedAt": "2026-08-04T17:14:13.000Z",
+      "keywords": [
+        "Finance",
+        "South Korea",
+        "Mobile Apps",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260804-samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "localUrl": "/news/20260804-samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BNY to offer institutional crypto staking through Galaxy partnership",
+      "summary": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
+      "url": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T17:10:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260804-bny-to-offer-institutional-crypto-staking-through-galaxy-partnership",
+      "localUrl": "/news/20260804-bny-to-offer-institutional-crypto-staking-through-galaxy-partnership.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
+      "summary": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
+      "url": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
+      "publishedAt": "2026-08-04T16:43:46.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260804-hashdex-to-shut-down-bitcoin-etf-after-struggling-to-gain-assets",
+      "localUrl": "/news/20260804-hashdex-to-shut-down-bitcoin-etf-after-struggling-to-gain-assets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
+      "summary": "Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&P 500 index to a record $70 trillion market cap.",
+      "url": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T16:38:54.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "DeFi",
+      "slug": "20260804-bitcoin-coils-at-64k-as-hormuz-reopening-timeline-sends-sp-500-to-70t-record",
+      "localUrl": "/news/20260804-bitcoin-coils-at-64k-as-hormuz-reopening-timeline-sends-sp-500-to-70t-record.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "summary": "Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.",
+      "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "publishedAt": "2026-08-04T16:21:59.000Z",
+      "keywords": [
+        "Policy",
+        "Donald Trump",
+        "Memecoin",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260804-clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investiga",
+      "localUrl": "/news/20260804-clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investiga.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
+      "summary": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
+      "url": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-04T15:50:20.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260804-bitdeer-expands-ai-infrastructure-with-long-term-47b-data-center-lease",
+      "localUrl": "/news/20260804-bitdeer-expands-ai-infrastructure-with-long-term-47b-data-center-lease.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
+      "summary": "Payments will run on the bank’s proprietary blockchain and be routed automatically through its existing client interface.",
+      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "publishedAt": "2026-08-04T15:47:05.000Z",
+      "keywords": [
+        "Finance",
+        "banks",
+        "Tokenization",
+        "tokenized deposits",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260804-wells-fargo-joins-jpmorgan-and-citi-in-the-race-to-tokenize-wall-streets-settlem",
+      "localUrl": "/news/20260804-wells-fargo-joins-jpmorgan-and-citi-in-the-race-to-tokenize-wall-streets-settlem.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
@@ -204,6 +338,17 @@
       "localUrl": "/news/20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform.html"
     },
     {
+      "source": "X Wire",
+      "title": "News: BlackRock brings its European money market funds onto Ethereum. BlackRock is tokenizing share classes of its European Institutional Cash Series money market funds, representing $311 billion in assets as of June 30. The onchain share classes are is - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5\" target=\"_blank\">News: BlackRock brings its Euro…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5",
+      "publishedAt": "2026-08-04T12:25:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is",
+      "localUrl": "/news/20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
       "summary": "The cold wallet maker said the flaw behind roughly $114 million in losses remains live, with specific models and firmware still exposed.",
@@ -399,6 +544,17 @@
       "localUrl": "/news/20260804-us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux.html"
     },
     {
+      "source": "X Wire",
+      "title": "Italy’s Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings Italy’s largest banking group, Intesa Sanpaolo, reported in its latest Form 13F that, as of June 30, its common-share position in BlackRock’s iShares Bitcoin Trust - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbEFPZ3pvNjNFVm5KY3JEd19JU2xrX3ladlpxYmkxY1FwUVdhZ25IYXluZHAwdmh1dHZLNXVKTzY3VFFoVzBiWFZTOGZVS25NMjFaYTFOLWo5YWxmanV2TktrRQ?oc=5\" target=\"_blank\">Italy’s Largest Bank Intesa Sanp…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbEFPZ3pvNjNFVm5KY3JEd19JU2xrX3ladlpxYmkxY1FwUVdhZ25IYXluZHAwdmh1dHZLNXVKTzY3VFFoVzBiWFZTOGZVS25NMjFaYTFOLWo5YWxmanV2TktrRQ?oc=5",
+      "publishedAt": "2026-08-04T08:51:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-italys-largest-bank-intesa-sanpaolo-cuts-ibit-stake-94-triples-staked-ethereum-e",
+      "localUrl": "/news/20260804-italys-largest-bank-intesa-sanpaolo-cuts-ibit-stake-94-triples-staked-ethereum-e.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin stuck in tight range as risk assets rise on Iran deal hopes",
       "summary": "Japan may have spent as much as $36.6 billion buying yen in the first joint US-Japan action to support the currency since 1998. Bitget Wallet’s Alvin Kan says it can slow a disorderly slide without reversing the broader trend.",
@@ -495,20 +651,6 @@
       "localUrl": "/news/20260804-nigeria-sets-crypto-tax-collection-rules-for-digital-asset-platforms.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-      "summary": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
-      "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-      "publishedAt": "2026-08-04T06:12:20.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-xrp-holders-can-now-borrow-rlusd-on-ethereum-through-280-million-lending-pool",
-      "localUrl": "/news/20260804-xrp-holders-can-now-borrow-rlusd-on-ethereum-through-280-million-lending-pool.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇳🇬 JUST IN: Nigeria's tax authority issues new guidelines making crypto profits, staking rewards, and airdrops officially taxable under the country's tax laws. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5\" target=\"_blank\">🇳🇬 JUST IN: Nigeria's tax aut…",
@@ -533,34 +675,6 @@
       "localUrl": "/news/20260804-crypto-firms-still-seeking-frontier-ai-access-only-select-few-have-it.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
-      "summary": "SGP-0003 bundles a fee overhaul with a doubling of the disinflation rate. It needs 40 million more SOL of validator support in two weeks to reach a vote.",
-      "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
-      "publishedAt": "2026-08-04T05:39:18.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-a-new-solana-proposal-aims-to-ramp-up-daily-sol-burns-from-47000-to-650000",
-      "localUrl": "/news/20260804-a-new-solana-proposal-aims-to-ramp-up-daily-sol-burns-from-47000-to-650000.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin nears $64,000 as traders look past Strategy's BTC sales and Coldcard sweeps",
-      "summary": "Every major token except ether is green on the week, with BTC up 1.9% over 24 hours and Asian equities selling off on AI-trade jitters.",
-      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-nears-usd64-000-as-traders-look-past-the-fourth-coldcard-sweep",
-      "publishedAt": "2026-08-04T05:21:13.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260804-bitcoin-nears-64000-as-traders-look-past-strategys-btc-sales-and-coldcard-sweeps",
-      "localUrl": "/news/20260804-bitcoin-nears-64000-as-traders-look-past-strategys-btc-sales-and-coldcard-sweeps.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨JUST IN: The Blockchain Association has sent a letter to Senate Majority Leader Thune rebutting each point of the National Sheriffs' Association's claims about the CLARITY Act. The group argues the NSA's July 31 letter mischaracterizes the bill's treatment of - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtY2NVR3c4RDBsYzdLYTJpYl81cWpqU1B2TnpqNzlpMmt6VUozYnlvNzB4cFRnbE4xZ0I5ZjZIeU1QaFBQcVJaLUo2RjZfanRRenFJemd1WkU3dDJDYVBOYg?oc=5\" target=\"_blank\">🚨JUST IN: The Blockchain Associatio…",
@@ -570,21 +684,6 @@
       "category": "X热点",
       "slug": "20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t",
       "localUrl": "/news/20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A bitcoin wallet dormant since 2013 moved $31 million, and it's not the only one",
-      "summary": "A 12-year-old bitcoin wallet moved $31 million on Monday, part of a broader wave of dormant coins shifting since the Coldcard hack.",
-      "url": "https://www.coindesk.com/markets/2026/08/04/a-bitcoin-wallet-dormant-since-2013-moved-usd31-million-and-it-s-not-the-only-one",
-      "publishedAt": "2026-08-04T04:48:40.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260804-a-bitcoin-wallet-dormant-since-2013-moved-31-million-and-its-not-the-only-one",
-      "localUrl": "/news/20260804-a-bitcoin-wallet-dormant-since-2013-moved-31-million-and-its-not-the-only-one.html"
     },
     {
       "source": "Cointelegraph",
@@ -598,6 +697,17 @@
       "category": "市场",
       "slug": "20260804-coldcard-bitcoin-theft-tops-100m-across-3-confirmed-attack-waves-galaxy",
       "localUrl": "/news/20260804-coldcard-bitcoin-theft-tops-100m-across-3-confirmed-attack-waves-galaxy.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Coldcard Flaw Cost AI Just $2 to Find, Dragonfly’s Qureshi Says Dragonfly Managing Partner Haseeb Qureshi said the Coldcard wallet incident shows AI is reshaping the economics of crypto security, with product safety increasingly determined by how much c - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2aGFVdnlkcTV1eW84eTN6ZDZfZ25oM2tRY0RSNjZjSjM5RXBMU2ZVSGtRaGtsTDRHTFIzWWJKa2hNa2VJS05zRGp3eHF4SlpSdlZEMGJKWUNrQktmVERzSU02cw?oc=5\" target=\"_blank\">Coldcard Flaw Cost AI Just $2 to…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2aGFVdnlkcTV1eW84eTN6ZDZfZ25oM2tRY0RSNjZjSjM5RXBMU2ZVSGtRaGtsTDRHTFIzWWJKa2hNa2VJS05zRGp3eHF4SlpSdlZEMGJKWUNrQktmVERzSU02cw?oc=5",
+      "publishedAt": "2026-08-04T04:29:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-coldcard-flaw-cost-ai-just-2-to-find-dragonflys-qureshi-says-dragonfly-managing-",
+      "localUrl": "/news/20260804-coldcard-flaw-cost-ai-just-2-to-find-dragonflys-qureshi-says-dragonfly-managing-.html"
     },
     {
       "source": "Cointelegraph",
@@ -626,19 +736,6 @@
       "localUrl": "/news/20260804-mastercard-completes-18b-bvnk-acquisition-in-stablecoin-push.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
-      "summary": "Fake romance crypto investment scams net $9 million in a single week in Hong Kong, as Malaysian authorities lose it over a crypto conference’s after-party.",
-      "url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T02:03:26.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "DeFi",
-      "slug": "20260804-malaysia-blockchain-weeks-onlyfans-scandal-lonely-heart-scammed-for-33m-asia-exp",
-      "localUrl": "/news/20260804-malaysia-blockchain-weeks-onlyfans-scandal-lonely-heart-scammed-for-33m-asia-exp.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 LATEST: The Blockchain Association sends a letter to Senate leaders Thune and Schumer, pushing back point-by-point on the National Sheriffs' Association's claims about the Clarity Act. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5\" target=\"_blank\">🇺🇸 LATEST: The Blockchain Ass…",
@@ -661,32 +758,6 @@
       "localUrl": "/news/20260804-crypto-trading-activity-is-declining-daily-trading-volume-across-the-44-spot-cry.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Caleb & Brown expands to UK, betting on untapped crypto demand",
-      "summary": "The boutique brokerage will focus on high-net-worth clients rather than competing with retail crypto exchanges.",
-      "url": "https://cointelegraph.com/news/caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T00:51:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand",
-      "localUrl": "/news/20260804-caleb-brown-expands-to-uk-betting-on-untapped-crypto-demand.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Boltz pauses service after wave of AI-assisted hacking attempts",
-      "summary": "The non-custodial protocol said attackers are discovering and adapting exploits faster than its small development team can identify and patch them.",
-      "url": "https://cointelegraph.com/news/boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T00:03:47.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260804-boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts",
-      "localUrl": "/news/20260804-boltz-pauses-service-after-wave-of-ai-assisted-hacking-attempts.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
       "summary": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
@@ -698,17 +769,6 @@
       "category": "基础设施",
       "slug": "20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too",
       "localUrl": "/news/20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 JUST IN: Bessent's top crypto adviser Tyler Williams has left the Treasury Department after 17 months, with no successor named. Williams was a key figure behind the CLARITY Act, stablecoin legislation and the federal Bitcoin reserve effort. His departure c - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VQ3hJVTBUWGRhY3k2TERabDN1aXk2VVJSeUZFVWxMa09rNTdGZGZJYW5WZElSQXozbDR0WXo2cWhxVnVrQk9FU050TTNJY1VkRlhYX0JSUjhtVlJmOGRmTQ?oc=5\" target=\"_blank\">🇺🇸 JUST IN: Bessent's top crypto a…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VQ3hJVTBUWGRhY3k2TERabDN1aXk2VVJSeUZFVWxMa09rNTdGZGZJYW5WZElSQXozbDR0WXo2cWhxVnVrQk9FU050TTNJY1VkRlhYX0JSUjhtVlJmOGRmTQ?oc=5",
-      "publishedAt": "2026-08-03T21:50:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-just-in-bessents-top-crypto-adviser-tyler-williams-has-left-the-treasury-departm",
-      "localUrl": "/news/20260803-just-in-bessents-top-crypto-adviser-tyler-williams-has-left-the-treasury-departm.html"
     },
     {
       "source": "Decrypt",
@@ -807,17 +867,6 @@
       "localUrl": "/news/20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt.html"
     },
     {
-      "source": "X Wire",
-      "title": "News w/ @LauraEWeiss16: Treasury Secretary Scott Bessent’s top crypto adviser departed the government on Friday. Tyler Williams is expected to return to the private sector. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5\" target=\"_blank\">News w/ @LauraEWeiss16: Tre…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5",
-      "publishedAt": "2026-08-03T17:45:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart",
-      "localUrl": "/news/20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
       "summary": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
@@ -895,25 +944,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: BlackRock launches tokenized money-market fund on Ethereum. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HNzIyWXNBS3ZTNXQwdEdPSWtsb21GOGtOR0tPazNJM2w5ckMySDlBMjhEcll0dl9xbG9oTy1peERSVFpRbFhfNE5FNFM2RzlKWk51QTR0ZEJOZTNoeXl5eFFn?oc=5\" target=\"_blank\">JUST IN: BlackRock launches tokeni…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HNzIyWXNBS3ZTNXQwdEdPSWtsb21GOGtOR0tPazNJM2w5ckMySDlBMjhEcll0dl9xbG9oTy1peERSVFpRbFhfNE5FNFM2RzlKWk51QTR0ZEJOZTNoeXl5eFFn?oc=5",
-      "publishedAt": "2026-08-03T14:00:07.000Z",
+      "title": "Here's a great STRATEGY: - Sell Bitcoin (at the lows). - Use proceeds to buy STRC, try to get it to $100. - When STRC hits $100, try buy the same amount Bitcoin that you sold again. Either Saylor is trying to prove a point to a rating agency, that he will buy and s - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5\" target=\"_blank\">Here's a great STRATEGY: - Sell …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWlMQUxRRTFVd1N1R2ZrRUk4UjhfTlZOczhES0ZKb1lnWXVOQ1lQMjdEWnB0M28weHpfaWRKSmZOUUVFclRYOVFJU1c3YjYwVGRHSWhQaU0yTEw0QWhHSHhmYw?oc=5",
+      "publishedAt": "2026-08-03T13:17:21.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260803-just-in-blackrock-launches-tokenized-money-market-fund-on-ethereum-xcom",
-      "localUrl": "/news/20260803-just-in-blackrock-launches-tokenized-money-market-fund-on-ethereum-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$MSTR is built to outperform Bitcoin over time. It has outperformed Bitcoin in every four-year holding period since we adopted Bitcoin on August 10, 2020. Outperformance comes from growing Bitcoin per share. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpV0NWRzJfVHMxaXZSNC14b3pNc2N4cEo2X3lab2hNNEQzZndmSHpybXdXLWpvUjNxdm9lRjhsTzB5NXBxMlZrVXZtNmVVNnFBQzJyVVIyUVFnVHJo?oc=5\" target=\"_blank\">$MSTR is built to outperform Bitcoin over …",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpV0NWRzJfVHMxaXZSNC14b3pNc2N4cEo2X3lab2hNNEQzZndmSHpybXdXLWpvUjNxdm9lRjhsTzB5NXBxMlZrVXZtNmVVNnFBQzJyVVIyUVFnVHJo?oc=5",
-      "publishedAt": "2026-08-03T13:51:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve",
-      "localUrl": "/news/20260803-mstr-is-built-to-outperform-bitcoin-over-time-it-has-outperformed-bitcoin-in-eve.html"
+      "slug": "20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-",
+      "localUrl": "/news/20260803-heres-a-great-strategy-sell-bitcoin-at-the-lows-use-proceeds-to-buy-strc-try-to-.html"
     },
     {
       "source": "Decrypt",
@@ -991,6 +1029,17 @@
     },
     {
       "source": "X Wire",
+      "title": "BITCOIN SLIPS ON WALLET HACK FEARS Bitcoin dropped 1.3% to $62,591 amid concerns over a potential hack targeting Coldcard wallets. Coinkite urged users to move funds after researchers flagged a flaw that may have enabled attackers to steal roughly - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaXhRcXZNY0MxZjN5YTB0QnJSWnhoeWZrRHhjZ2VQV3hhNFFIeTBTNk9Gb2I1Qi1MTWZZVHVvY09OTXVuTjNiUEVRdTJpM3JGZzM1MEMzczJQaUl4R3c?oc=5\" target=\"_blank\">BITCOIN SLIPS ON WALLET HACK FEARS Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaXhRcXZNY0MxZjN5YTB0QnJSWnhoeWZrRHhjZ2VQV3hhNFFIeTBTNk9Gb2I1Qi1MTWZZVHVvY09OTXVuTjNiUEVRdTJpM3JGZzM1MEMzczJQaUl4R3c?oc=5",
+      "publishedAt": "2026-08-03T07:48:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove",
+      "localUrl": "/news/20260803-bitcoin-slips-on-wallet-hack-fears-bitcoin-dropped-13-to-62591-amid-concerns-ove.html"
+    },
+    {
+      "source": "X Wire",
       "title": "career advice for people trying to break into crypto: - go to events, but skip the lines to talk to \"top\" folks. toly is a genuinely open and helpful dude, but he has 10,000 people in line to talk to him. instead find the \"head of ___\" person at the protocols you like. they - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUVdyN3RzaTVTdXA3VjNuRzJsazdMV0RST1V0bEUwWEh0eFBESm5zSWxqZjhqeVVUdk1TQXRmT2txWjFXY0pnblN5VjBhTE5RWE9GWnRMcndRSm1zaVNzbA?oc=5\" target=\"_blank\">career advice for people trying to b…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUVdyN3RzaTVTdXA3VjNuRzJsazdMV0RST1V0bEUwWEh0eFBESm5zSWxqZjhqeVVUdk1TQXRmT2txWjFXY0pnblN5VjBhTE5RWE9GWnRMcndRSm1zaVNzbA?oc=5",
@@ -999,32 +1048,6 @@
       "category": "X热点",
       "slug": "20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l",
       "localUrl": "/news/20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
-      "summary": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
-      "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
-      "publishedAt": "2026-08-02T17:18:51.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260802-coldcard-bitcoin-exploit-balloons-to-88-million-as-attackers-keep-draining-walle",
-      "localUrl": "/news/20260802-coldcard-bitcoin-exploit-balloons-to-88-million-as-attackers-keep-draining-walle.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
-      "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
-      "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
-      "publishedAt": "2026-08-02T15:01:03.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260802-whats-the-deal-with-metas-pervert-glasses",
-      "localUrl": "/news/20260802-whats-the-deal-with-metas-pervert-glasses.html"
     },
     {
       "source": "X Wire",
@@ -1036,17 +1059,6 @@
       "category": "X热点",
       "slug": "20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w",
       "localUrl": "/news/20260802-ive-had-all-my-bitcoin-stolen-while-away-on-holiday-it-was-on-a-coldcard-mk3-i-w.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin Drive engaged. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5\" target=\"_blank\">Bitcoin Drive engaged.</a> <font color=\"#6f…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00b2p2TE9NRW92dmpKamF0RVUtWEFuZzhsYjY1bWdQS1FoVjcyOWtWS3l2VVJuZTcyLTVCWmN6SUNqVTlYcVdPMTY2anJqSnQyQjdTUThmQUVoV1k?oc=5",
-      "publishedAt": "2026-08-02T12:36:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260802-bitcoin-drive-engaged-xcom",
-      "localUrl": "/news/20260802-bitcoin-drive-engaged-xcom.html"
     }
   ]
 }
