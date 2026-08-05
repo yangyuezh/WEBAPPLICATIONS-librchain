@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-08-05T15:24:05.488Z",
+  "updatedAt": "2026-08-05T17:51:47.970Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
+      "summary": "A Midwest Democratic primary that raised accusations of payback from the cryptocurrency industry ended with the unseating of two-term incumbent Shri Thanedar.",
+      "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T16:51:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-crypto-backed-michigan-house-incumbent-loses-primary-despite-2m-pac-support",
+      "localUrl": "/news/20260805-crypto-backed-michigan-house-incumbent-loses-primary-despite-2m-pac-support.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
+      "summary": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumers seeking US dollar-denominated savings in volatile economies.",
+      "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T16:30:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260805-western-union-brings-stablecoin-remittances-to-visa-network-with-stablecard",
+      "localUrl": "/news/20260805-western-union-brings-stablecoin-remittances-to-visa-network-with-stablecard.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard exploit could boost demand for regulated bitcoin exposure, analysts say",
+      "summary": "Cantor sees positive read-through for crypto custody providers, while FRNT says the breach could drive some investors toward bitcoin ETFs.",
+      "url": "https://www.coindesk.com/tech/2026/08/05/coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+      "publishedAt": "2026-08-05T15:44:08.000Z",
+      "keywords": [
+        "Tech",
+        "Hack",
+        "Cantor Fitzgerald",
+        "Coldcard",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say",
+      "localUrl": "/news/20260805-coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+      "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
+      "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+      "publishedAt": "2026-08-05T15:38:09.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260805-circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+      "localUrl": "/news/20260805-circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin Red Team update: we've grown to 16 globally distributed people working 24/7 We're running a large-scale ecosystem security audit across bitcoin code bases. 27.5 hours in, we've filed 4,962 findings across 390 projects. 85 critical and 635 high severit - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5\" target=\"_blank\">Bitcoin Red Team update: we've grown to…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5",
+      "publishedAt": "2026-08-05T15:25:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247",
+      "localUrl": "/news/20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
+      "summary": "Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
+      "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
+      "publishedAt": "2026-08-05T15:24:38.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260805-eliza-founder-declares-ai-token-dead-shuts-down-foundation-after-lawsuit-settlem",
+      "localUrl": "/news/20260805-eliza-founder-declares-ai-token-dead-shuts-down-foundation-after-lawsuit-settlem.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
@@ -20,7 +100,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+      "title": "Gold hits 6-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
       "summary": "Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain significantly beyond $64,000.",
       "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-05T15:02:16.000Z",
@@ -28,8 +108,8 @@
         "Markets"
       ],
       "category": "市场",
-      "slug": "20260805-gold-hits-six-week-highs-on-china-demand-as-bitcoin-ignores-fresh-sp-500-record",
-      "localUrl": "/news/20260805-gold-hits-six-week-highs-on-china-demand-as-bitcoin-ignores-fresh-sp-500-record.html"
+      "slug": "20260805-gold-hits-6-week-highs-on-china-demand-as-bitcoin-ignores-fresh-sp-500-record",
+      "localUrl": "/news/20260805-gold-hits-6-week-highs-on-china-demand-as-bitcoin-ignores-fresh-sp-500-record.html"
     },
     {
       "source": "CoinDesk",
@@ -78,6 +158,17 @@
       "category": "综合",
       "slug": "20260805-chainalysis-supports-cronos-with-automatic-token-support",
       "localUrl": "/news/20260805-chainalysis-supports-cronos-with-automatic-token-support.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Arc Mainnet launches September 16. Arc is an open blockchain network being built for the world’s financial markets, real-time money movement, and agentic economic activity. Arc’s founding validator cohort includes @BlackRock, @The_DTCC, @galaxyhq, - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lZzZ6TVZyaTV0WU5YZHU1azdPMHZaTEhzbmZOUVlPSWtaVkRHQUdlYVpDWU9PVXlQbGtuUVRHYW5acFI2Q0dCUDFnTWFuSEpuVzNweDhJQQ?oc=5\" target=\"_blank\">Arc Mainnet launches September 16. Arc is an ope…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lZzZ6TVZyaTV0WU5YZHU1azdPMHZaTEhzbmZOUVlPSWtaVkRHQUdlYVpDWU9PVXlQbGtuUVRHYW5acFI2Q0dCUDFnTWFuSEpuVzNweDhJQQ?oc=5",
+      "publishedAt": "2026-08-05T13:39:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-arc-mainnet-launches-september-16-arc-is-an-open-blockchain-network-being-built-",
+      "localUrl": "/news/20260805-arc-mainnet-launches-september-16-arc-is-an-open-blockchain-network-being-built-.html"
     },
     {
       "source": "Cointelegraph",
@@ -525,6 +616,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Ethereum researchers propose to CUT validator rewards to ZERO if half of all ETH becomes staked. The proposal EIP-8363 would gradually reduce newly created ETH rewards, reaching zero if staking rises from around 34% today to 50% of total sup - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yZHNidE9uc1BvVWNKbUlKdTAzbjJKRWVfOUM3dmlKOVdQdWtCWTQtVlJka0FCT2FtbkNfcG1MRVVtN0J5eUtxZnFJNXBPSVlLZmc4aW0zbkthUU5FVVpROQ?oc=5\" target=\"_blank\">JUST IN: Ethereum researchers propos…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yZHNidE9uc1BvVWNKbUlKdTAzbjJKRWVfOUM3dmlKOVdQdWtCWTQtVlJka0FCT2FtbkNfcG1MRVVtN0J5eUtxZnFJNXBPSVlLZmc4aW0zbkthUU5FVVpROQ?oc=5",
+      "publishedAt": "2026-08-05T08:10:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-just-in-ethereum-researchers-propose-to-cut-validator-rewards-to-zero-if-half-of",
+      "localUrl": "/news/20260805-just-in-ethereum-researchers-propose-to-cut-validator-rewards-to-zero-if-half-of.html"
+    },
+    {
+      "source": "X Wire",
       "title": "How much money do you need to go full-time in crypto? Different for everyone, of course, but what's your number? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5\" target=\"_blank\">How much money do you need to go full-t…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5",
@@ -562,32 +664,6 @@
       "category": "市场",
       "slug": "20260805-missouri-trio-charged-over-alleged-bitcoin-kidnapping-plot",
       "localUrl": "/news/20260805-missouri-trio-charged-over-alleged-bitcoin-kidnapping-plot.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
-      "summary": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will launch in a future update.",
-      "url": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T07:20:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260805-cloudflare-introduces-wallets-for-ai-agents-plans-stablecoin-payments",
-      "localUrl": "/news/20260805-cloudflare-introduces-wallets-for-ai-agents-plans-stablecoin-payments.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes",
-      "summary": "Hayes likened the debt-fueled AI infrastructure boom to the 2008 credit bubble, but evidence suggests financial strain is uneven across Big Tech.",
-      "url": "https://cointelegraph.com/markets/arthur-hayes-ai-credit-crisis-bitcoin-1-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T06:27:49.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260805-ai-credit-bubble-could-fuel-bitcoin-crack-up-boom-past-1m-hayes",
-      "localUrl": "/news/20260805-ai-credit-bubble-could-fuel-bitcoin-crack-up-boom-past-1m-hayes.html"
     },
     {
       "source": "X Wire",
@@ -665,6 +741,28 @@
       "category": "X热点",
       "slug": "20260805-today-bitwise-cio-matt-hougan-outlines-why-crypto-will-keep-advancing-even-if-th",
       "localUrl": "/news/20260805-today-bitwise-cio-matt-hougan-outlines-why-crypto-will-keep-advancing-even-if-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I've been in crypto for 8+ years. For the first time ever — substance has gotten ahead of price. It's happening. Crypto is going to update the system. Not done, but can't be stopped now. Bravo to the relentless teams in this space. Keep going. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Lc3ZmRVhSRGFqaWpVejEtMVBXSkhwVTJfUGtaUGJ5RjV4eUV5TlNxVnlyRUpULUZDT2pYOUpKcF8zcmhnVE1lczRXX0JiUFdrRndRb01LNENzSDhVM0E?oc=5\" target=\"_blank\">I've been in crypto for 8+ years. For t…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Lc3ZmRVhSRGFqaWpVejEtMVBXSkhwVTJfUGtaUGJ5RjV4eUV5TlNxVnlyRUpULUZDT2pYOUpKcF8zcmhnVE1lczRXX0JiUFdrRndRb01LNENzSDhVM0E?oc=5",
+      "publishedAt": "2026-08-05T03:03:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-ive-been-in-crypto-for-8-years-for-the-first-time-ever-substance-has-gotten-ahea",
+      "localUrl": "/news/20260805-ive-been-in-crypto-for-8-years-for-the-first-time-ever-substance-has-gotten-ahea.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "This is one of the more interesting reveals of the ColdCard saga. Pretty much every Bitcoin maximalist in Korea were not affected because they all used dice rolls. How can this be? The culture of the Korean Bitcoin community is very much about doing things th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMkRHQ2ZFdVl6aTJhZ3lPRTBWeFVyX2ZSMGFoQm56OUIyLUFlcGFwb2dKQlppYUVBWXExYXlpWUxyeGhuRm5xZU05bm0zN1NGcVQxX3JNLWdiTUVaQ0dF?oc=5\" target=\"_blank\">This is one of the more interesting re…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMkRHQ2ZFdVl6aTJhZ3lPRTBWeFVyX2ZSMGFoQm56OUIyLUFlcGFwb2dKQlppYUVBWXExYXlpWUxyeGhuRm5xZU05bm0zN1NGcVQxX3JNLWdiTUVaQ0dF?oc=5",
+      "publishedAt": "2026-08-05T00:28:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-this-is-one-of-the-more-interesting-reveals-of-the-coldcard-saga-pretty-much-eve",
+      "localUrl": "/news/20260805-this-is-one-of-the-more-interesting-reveals-of-the-coldcard-saga-pretty-much-eve.html"
     },
     {
       "source": "Ethereum Blog",
@@ -745,17 +843,6 @@
       "localUrl": "/news/20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled.html"
     },
     {
-      "source": "X Wire",
-      "title": "My thoughts on Ethereum staking yield axing ethereum-magicians.org/t/eip-xxxx-tap… tl;dr Save ETH staking. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE45X0RDaGdLNDBLV1VSSHlVVEs3QmUyd21hSUlCSWtPLXhTY2Y2YlctX01SNUd3ZkxOemhBR0MwWWotTG9RZmdRTjBmUXd1MGF6UjFQM0dqSEFLakxJVjlSZHVLTVE?oc=5\" target=\"_blank\">My thoughts on Ethereum staking…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45X0RDaGdLNDBLV1VSSHlVVEs3QmUyd21hSUlCSWtPLXhTY2Y2YlctX01SNUd3ZkxOemhBR0MwWWotTG9RZmdRTjBmUXd1MGF6UjFQM0dqSEFLakxJVjlSZHVLTVE?oc=5",
-      "publishedAt": "2026-08-04T20:36:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-my-thoughts-on-ethereum-staking-yield-axing-ethereum-magiciansorgteip-xxxx-tap-t",
-      "localUrl": "/news/20260804-my-thoughts-on-ethereum-staking-yield-axing-ethereum-magiciansorgteip-xxxx-tap-t.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
       "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
@@ -767,23 +854,6 @@
       "category": "综合",
       "slug": "20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year",
       "localUrl": "/news/20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
-      "summary": "Elon Musk's space company posted its first earnings as a public company ahead of a major insider share unlock.",
-      "url": "https://www.coindesk.com/business/2026/08/04/spacex-tops-wall-street-revenue-forecast-posts-usd540-million-decline-on-bitcoin-holding-value",
-      "publishedAt": "2026-08-04T20:26:21.000Z",
-      "keywords": [
-        "Finance",
-        "SpaceX",
-        "Elon Musk",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260804-spacex-tops-wall-street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdi",
-      "localUrl": "/news/20260804-spacex-tops-wall-street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdi.html"
     },
     {
       "source": "Decrypt",
@@ -919,17 +989,6 @@
       "localUrl": "/news/20260804-morning-minute-saylor-sells-bitcoin-again.html"
     },
     {
-      "source": "X Wire",
-      "title": "News: BlackRock brings its European money market funds onto Ethereum. BlackRock is tokenizing share classes of its European Institutional Cash Series money market funds, representing $311 billion in assets as of June 30. The onchain share classes are is - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5\" target=\"_blank\">News: BlackRock brings its Euro…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5",
-      "publishedAt": "2026-08-04T12:25:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is",
-      "localUrl": "/news/20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is.html"
-    },
-    {
       "source": "Decrypt",
       "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
       "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
@@ -943,6 +1002,17 @@
       "localUrl": "/news/20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys.html"
     },
     {
+      "source": "X Wire",
+      "title": "INSIGHT: @cz_binance argues it may be \"statistically safer\" to store crypto on exchanges than in self-custody, citing 1.57M $BTC lost to self-custody errors vs 1.51M lost to exchange hacks. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbGVrZVNCandFU25qZXh3QUowU2hMLWFja3J1N2tMRTJkR3VYbHpnQzliOXRvbS1VQW5rcnFzS002elV4Wm4yc2VpZkZZSWtUak8zOFpGWmtNNWlTdHc?oc=5\" target=\"_blank\">INSIGHT: @cz_binance argues it may be \"…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbGVrZVNCandFU25qZXh3QUowU2hMLWFja3J1N2tMRTJkR3VYbHpnQzliOXRvbS1VQW5rcnFzS002elV4Wm4yc2VpZkZZSWtUak8zOFpGWmtNNWlTdHc?oc=5",
+      "publishedAt": "2026-08-04T11:24:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha",
+      "localUrl": "/news/20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
       "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
@@ -954,30 +1024,6 @@
       "category": "安全",
       "slug": "20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
       "localUrl": "/news/20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
-      "summary": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
-      "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
-      "publishedAt": "2026-08-04T09:46:24.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260804-five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
-      "localUrl": "/news/20260804-five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Italy’s Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings Italy’s largest banking group, Intesa Sanpaolo, reported in its latest Form 13F that, as of June 30, its common-share position in BlackRock’s iShares Bitcoin Trust - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbEFPZ3pvNjNFVm5KY3JEd19JU2xrX3ladlpxYmkxY1FwUVdhZ25IYXluZHAwdmh1dHZLNXVKTzY3VFFoVzBiWFZTOGZVS25NMjFaYTFOLWo5YWxmanV2TktrRQ?oc=5\" target=\"_blank\">Italy’s Largest Bank Intesa Sanp…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbEFPZ3pvNjNFVm5KY3JEd19JU2xrX3ladlpxYmkxY1FwUVdhZ25IYXluZHAwdmh1dHZLNXVKTzY3VFFoVzBiWFZTOGZVS25NMjFaYTFOLWo5YWxmanV2TktrRQ?oc=5",
-      "publishedAt": "2026-08-04T08:51:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-italys-largest-bank-intesa-sanpaolo-cuts-ibit-stake-94-triples-staked-ethereum-e",
-      "localUrl": "/news/20260804-italys-largest-bank-intesa-sanpaolo-cuts-ibit-stake-94-triples-staked-ethereum-e.html"
     },
     {
       "source": "X Wire",
@@ -1014,17 +1060,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🇺🇸 LATEST: The Blockchain Association sends a letter to Senate leaders Thune and Schumer, pushing back point-by-point on the National Sheriffs' Association's claims about the Clarity Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5\" target=\"_blank\">🇺🇸 LATEST: The Blockchain Ass…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5",
-      "publishedAt": "2026-08-04T02:01:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch",
-      "localUrl": "/news/20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Crypto trading activity is declining: Daily trading volume across the 44 spot crypto exchanges tracked by Kaiko fell to ~$15 billion last week, the lowest level of the year. This marks a -70% decline from January peak levels. By comparison, in February, there wer - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVkZ2T19TRHZnSkp5X3BmcDhBYWJNR3RwWXpjeG9SbkxJeFpmLWs5SEU4NERseFlKM1FJNU5QTm1CekhUVThKVFpabUhMRE9FcWlEU003azBZSEY1N3lIZklob1oxUQ?oc=5\" target=\"_blank\">Crypto trading activity is d…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sVkZ2T19TRHZnSkp5X3BmcDhBYWJNR3RwWXpjeG9SbkxJeFpmLWs5SEU4NERseFlKM1FJNU5QTm1CekhUVThKVFpabUhMRE9FcWlEU003azBZSEY1N3lIZklob1oxUQ?oc=5",
@@ -1033,30 +1068,6 @@
       "category": "X热点",
       "slug": "20260804-crypto-trading-activity-is-declining-daily-trading-volume-across-the-44-spot-cry",
       "localUrl": "/news/20260804-crypto-trading-activity-is-declining-daily-trading-volume-across-the-44-spot-cry.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
-      "summary": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
-      "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
-      "publishedAt": "2026-08-03T22:29:02.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too",
-      "localUrl": "/news/20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Strategy is the JPMorgan of the crypto economy. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UGJHTUdPekNMR2lFWmJvckQxY2RQUFA1VzNYd19ZUVZGUnZXVzlKSXBGb2psZnpweDdKdGpTOEdQcHZvdlRqMktPcjVWMm1uSk1mcTl5TE51b2s?oc=5\" target=\"_blank\">Strategy is the JPMorgan of the crypto econ…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UGJHTUdPekNMR2lFWmJvckQxY2RQUFA1VzNYd19ZUVZGUnZXVzlKSXBGb2psZnpweDdKdGpTOEdQcHZvdlRqMktPcjVWMm1uSk1mcTl5TE51b2s?oc=5",
-      "publishedAt": "2026-08-03T20:39:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom",
-      "localUrl": "/news/20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1079,17 +1090,6 @@
       "category": "X热点",
       "slug": "20260803-when-i-say-never-sell-your-bitcoin-i-speak-as-one-saver-to-another-i-have-never-",
       "localUrl": "/news/20260803-when-i-say-never-sell-your-bitcoin-i-speak-as-one-saver-to-another-i-have-never-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: MicroStrategy, $MSTR, announces it has sold 1,638 Bitcoin at an average price of $63,957, raising $104.7 million. The stock is now down -41% this year and -83% from its all time high. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qTl94QWhFQTVvVks1N0dNUU9fb2ZCZEx5Zm5nZFRxSlpJY21pNjZCTEphU0NadlFGVHZjSHF4azJfLUNzOTl1MU9GTklCSEE0YThtVTJHV1EyQzdRYWFaOFhHZHJvdw?oc=5\" target=\"_blank\">BREAKING: MicroStrategy, $MS…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qTl94QWhFQTVvVks1N0dNUU9fb2ZCZEx5Zm5nZFRxSlpJY21pNjZCTEphU0NadlFGVHZjSHF4azJfLUNzOTl1MU9GTklCSEE0YThtVTJHV1EyQzdRYWFaOFhHZHJvdw?oc=5",
-      "publishedAt": "2026-08-03T12:27:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-breaking-microstrategy-mstr-announces-it-has-sold-1638-bitcoin-at-an-average-pri",
-      "localUrl": "/news/20260803-breaking-microstrategy-mstr-announces-it-has-sold-1638-bitcoin-at-an-average-pri.html"
     }
   ]
 }
