@@ -1,7 +1,188 @@
 {
-  "updatedAt": "2026-08-05T09:45:28.697Z",
+  "updatedAt": "2026-08-05T12:11:39.437Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears",
+      "summary": "The last time he sold was in December 2022 with Bitcoin at $16,800. Will Jim's sales mark the bottom again?",
+      "url": "https://decrypt.co/374947/morning-minute-jim-cramer-sells-his-bitcoin-over-quantum-fears",
+      "publishedAt": "2026-08-05T12:09:32.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260805-morning-minute-jim-cramer-sells-his-bitcoin-over-quantum-fears",
+      "localUrl": "/news/20260805-morning-minute-jim-cramer-sells-his-bitcoin-over-quantum-fears.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+      "summary": "The funds bring Yellow Card’s total financing to more than $120 million since being founded 10 years ago.",
+      "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
+      "publishedAt": "2026-08-05T12:09:05.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "banks",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260805-yellow-card-raises-40-million-to-link-banks-to-stablecoin-processing",
+      "localUrl": "/news/20260805-yellow-card-raises-40-million-to-link-banks-to-stablecoin-processing.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance sues RedotPay over alleged $473 million user losses: Report",
+      "summary": "Binance-linked companies sued RedotPay, accusing it of diverting more than 470,000 Binance Card users under a commercial deal and seeking nearly $473 million in damages.",
+      "url": "https://cointelegraph.com/news/binance-redotpay-lawsuit-alleged-473-million-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T12:01:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-binance-sues-redotpay-over-alleged-473-million-user-losses-report",
+      "localUrl": "/news/20260805-binance-sues-redotpay-over-alleged-473-million-user-losses-report.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle Q2 revenue falls short of Wall Street estimates",
+      "summary": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 million.",
+      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T11:48:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-circle-q2-revenue-falls-short-of-wall-street-estimates",
+      "localUrl": "/news/20260805-circle-q2-revenue-falls-short-of-wall-street-estimates.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
+      "summary": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
+      "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+      "publishedAt": "2026-08-05T11:29:23.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "基础设施",
+      "slug": "20260805-ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+      "localUrl": "/news/20260805-ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
+      "summary": "Your day-ahead look for Aug. 5, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
+      "publishedAt": "2026-08-05T11:20:58.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260805-the-120-million-coldcard-hack-lights-up-bitcoins-memory-pool",
+      "localUrl": "/news/20260805-the-120-million-coldcard-hack-lights-up-bitcoins-memory-pool.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
+      "summary": "Shares jumped 10% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "publishedAt": "2026-08-05T11:13:17.000Z",
+      "keywords": [
+        "Markets",
+        "Circle",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260805-circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wa",
+      "localUrl": "/news/20260805-circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wa.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
+      "summary": "Derivatives data show subdued activity in bitcoin and ether but aggressive positioning in select altcoins.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+      "publishedAt": "2026-08-05T11:01:15.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260805-bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
+      "localUrl": "/news/20260805-bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
+      "summary": "US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T10:43:05.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260805-bitcoin-etfs-log-inflows-as-cold-wallet-hack-reignites-custody-debate",
+      "localUrl": "/news/20260805-bitcoin-etfs-log-inflows-as-cold-wallet-hack-reignites-custody-debate.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
+      "summary": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
+      "url": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T10:40:43.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260805-sp-gives-blackrock-tokenized-reserve-fund-top-stability-rating",
+      "localUrl": "/news/20260805-sp-gives-blackrock-tokenized-reserve-fund-top-stability-rating.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+      "summary": "The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "publishedAt": "2026-08-05T09:55:32.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Custody",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "localUrl": "/news/20260805-coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
+      "summary": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
+      "url": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
+      "publishedAt": "2026-08-05T09:52:42.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260805-ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
+      "localUrl": "/news/20260805-ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
+      "summary": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T09:40:00.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260805-bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnod",
+      "localUrl": "/news/20260805-bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnod.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
@@ -112,6 +293,17 @@
       "localUrl": "/news/20260805-taiwan-plans-travel-rule-for-domestic-crypto-transfers-from-october.html"
     },
     {
+      "source": "X Wire",
+      "title": "How much money do you need to go full-time in crypto? Different for everyone, of course, but what's your number? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5\" target=\"_blank\">How much money do you need to go full-t…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5",
+      "publishedAt": "2026-08-05T08:08:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-how-much-money-do-you-need-to-go-full-time-in-crypto-different-for-everyone-of-c",
+      "localUrl": "/news/20260805-how-much-money-do-you-need-to-go-full-time-in-crypto-different-for-everyone-of-c.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "The worst chart for bitcoin bulls right now",
       "summary": "For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively turned the other way and bulls may not like what it means.",
@@ -165,6 +357,28 @@
       "category": "市场",
       "slug": "20260805-ai-credit-bubble-could-fuel-bitcoin-crack-up-boom-past-1m-hayes",
       "localUrl": "/news/20260805-ai-credit-bubble-could-fuel-bitcoin-crack-up-boom-past-1m-hayes.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 NEW: Ethereum researchers, including the Foundation's Justin Drake, have proposed EIP-8363 to cut validator rewards as ETH's staking ratio nears 50%. However, critics warn it could force out solo stakers and hurt DeFi yields. cointelegraph.com/news/ethe - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BLWpWRkZXOGJ5ZHo0c3p0MTRxdzdtSFZFSFBTeG1lNFYzR2V3TjQ3RGtrcFBjU0hnU3hFZzhDR2p0WFd0YlZyazNfZmFBNWVIQkxYNHZXY1hfMllYWTFkNTlZRDI?oc=5\" target=\"_blank\">🚨 NEW: Ethereum researchers, i…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BLWpWRkZXOGJ5ZHo0c3p0MTRxdzdtSFZFSFBTeG1lNFYzR2V3TjQ3RGtrcFBjU0hnU3hFZzhDR2p0WFd0YlZyazNfZmFBNWVIQkxYNHZXY1hfMllYWTFkNTlZRDI?oc=5",
+      "publishedAt": "2026-08-05T06:20:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-new-ethereum-researchers-including-the-foundations-justin-drake-have-proposed-ei",
+      "localUrl": "/news/20260805-new-ethereum-researchers-including-the-foundations-justin-drake-have-proposed-ei.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Your crypto assets 🤝 Your stock exposure bStocks live right in your blockchain wallet so you can manage your portfolio in one place. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbTFDN2xxR0FfMkxpMk04SDVOXzRFSi1OeVdnc2JBNEdWT2FOQVJhV0xWMGdpVVVtU3RtODdEMHVqeU9jNWZnc2hfbm01N2d5S2w4bGZ3TDZJZHk1?oc=5\" target=\"_blank\">Your crypto assets 🤝 Your stock exposure …",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbTFDN2xxR0FfMkxpMk04SDVOXzRFSi1OeVdnc2JBNEdWT2FOQVJhV0xWMGdpVVVtU3RtODdEMHVqeU9jNWZnc2hfbm01N2d5S2w4bGZ3TDZJZHk1?oc=5",
+      "publishedAt": "2026-08-05T06:01:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal",
+      "localUrl": "/news/20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal.html"
     },
     {
       "source": "Cointelegraph",
@@ -493,19 +707,6 @@
       "localUrl": "/news/20260804-hashdex-to-shut-down-bitcoin-etf-after-struggling-to-gain-assets.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin coils at $64K as Hormuz reopening timeline sends S&P 500 to $70T record",
-      "summary": "Bitcoin built on $64,000 as hopes of the Strait of Hormuz reopening to oil traffic sent the S&P 500 index to a record $70 trillion market cap.",
-      "url": "https://cointelegraph.com/markets/bitcoin-coils-as-hormuz-reopening-time-line-sends-sp-500-to-new-record-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T16:38:54.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260804-bitcoin-coils-at-64k-as-hormuz-reopening-timeline-sends-sp-500-to-70t-record",
-      "localUrl": "/news/20260804-bitcoin-coils-at-64k-as-hormuz-reopening-timeline-sends-sp-500-to-70t-record.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
       "summary": "Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.",
@@ -532,19 +733,6 @@
       "category": "X热点",
       "slug": "20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we",
       "localUrl": "/news/20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
-      "summary": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
-      "url": "https://cointelegraph.com/news/bitdeer-ai-data-center-lease-norway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T15:50:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260804-bitdeer-expands-ai-infrastructure-with-long-term-47b-data-center-lease",
-      "localUrl": "/news/20260804-bitdeer-expands-ai-infrastructure-with-long-term-47b-data-center-lease.html"
     },
     {
       "source": "CoinDesk",
@@ -588,19 +776,6 @@
       "category": "市场",
       "slug": "20260804-bitcoins-63000-zone-emerges-as-key-battleground-for-buyers-glassnode",
       "localUrl": "/news/20260804-bitcoins-63000-zone-emerges-as-key-battleground-for-buyers-glassnode.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "At least 15 attackers exploited Coldcard vulnerability: Galaxy",
-      "summary": "Galaxy said that at least 15 different attackers have exploited the Coldcard vulnerability, which may have been avoided with just $2 worth of AI hardening, according to Dragonfly’s managing partner.",
-      "url": "https://cointelegraph.com/news/15-attackers-exploited-coldcard-vulnerability-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T14:38:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260804-at-least-15-attackers-exploited-coldcard-vulnerability-galaxy",
-      "localUrl": "/news/20260804-at-least-15-attackers-exploited-coldcard-vulnerability-galaxy.html"
     },
     {
       "source": "CoinDesk",
@@ -674,19 +849,6 @@
       "localUrl": "/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
-      "summary": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
-      "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "市场",
-      "slug": "20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin",
-      "localUrl": "/news/20260804-sorry-everyone-bitcoin-is-headed-down-to-43500-michael-terpin.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW: @BitGo (NYSE: BTGO) migrates $7.7B+ Wrapped Bitcoin (WBTC) to Chainlink CCIP. After a rigorous review, BitGo deprecated its legacy bridging provider & chose CCIP as its exclusive cross-chain infra given it’s the only solution that meets institutional - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5\" target=\"_blank\">NEW: @BitGo (NYSE: BTGO) migrates $7.7…",
@@ -709,50 +871,6 @@
       "localUrl": "/news/20260804-breakpoint-2026-the-token-supercycle.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
-      "summary": "Crypto Watchdog has taken to warning people in DC about the hazards of digital assets, and its director won't say who is backing it.",
-      "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260804-as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-      "localUrl": "/news/20260804-as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitGo’s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
-      "summary": "A migration wave followed a $292 million Kelp bridge exploit, with announced LayerZero-to-Chainlink moves now totaling $14.5 billion.",
-      "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto News",
-        "Exclusive",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260804-bitgos-wbtc-move-pushes-layerzero-to-chainlink-tally-near-15-billion",
-      "localUrl": "/news/20260804-bitgos-wbtc-move-pushes-layerzero-to-chainlink-tally-near-15-billion.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein",
-      "summary": "Monday’s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won’t impact miners’ approved electricity contracts.",
-      "url": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T12:37:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260804-texas-electric-grid-moratorium-wont-have-big-impact-on-btc-miners-bernstein",
-      "localUrl": "/news/20260804-texas-electric-grid-moratorium-wont-have-big-impact-on-btc-miners-bernstein.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Saylor Sells Bitcoin Again",
       "summary": "Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to… help them buy more Bitcoin.",
@@ -766,37 +884,6 @@
       "localUrl": "/news/20260804-morning-minute-saylor-sells-bitcoin-again.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "BNY to add crypto staking to digital asset custody platform",
-      "summary": "The custody bank has selected Galaxy to provide staking infrastructure as it broadens services for institutional crypto investors.",
-      "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-      "publishedAt": "2026-08-04T12:30:00.000Z",
-      "keywords": [
-        "Finance",
-        "Staking",
-        "Galaxy Digital",
-        "Custody",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-      "localUrl": "/news/20260804-bny-to-add-crypto-staking-to-digital-asset-custody-platform.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coldcard urges users to move bitcoin as exploit is still in progress",
-      "summary": "The cold wallet maker said the flaw behind roughly $114 million in losses remains live, with specific models and firmware still exposed.",
-      "url": "https://www.coindesk.com/tech/2026/08/04/coldcard-urges-users-to-move-bitcoin-as-active-wallet-exploit-continues",
-      "publishedAt": "2026-08-04T12:00:25.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260804-coldcard-urges-users-to-move-bitcoin-as-exploit-is-still-in-progress",
-      "localUrl": "/news/20260804-coldcard-urges-users-to-move-bitcoin-as-exploit-is-still-in-progress.html"
-    },
-    {
       "source": "Decrypt",
       "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
       "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
@@ -808,21 +895,6 @@
       "category": "基础设施",
       "slug": "20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
       "localUrl": "/news/20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The bitcoin market has plenty of reasons to freak out, yet calm pervades",
-      "summary": "Your day-ahead look for Aug. 4, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/04/the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
-      "publishedAt": "2026-08-04T11:23:33.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260804-the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades",
-      "localUrl": "/news/20260804-the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades.html"
     },
     {
       "source": "Decrypt",
@@ -907,14 +979,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨JUST IN: The Blockchain Association has sent a letter to Senate Majority Leader Thune rebutting each point of the National Sheriffs' Association's claims about the CLARITY Act. The group argues the NSA's July 31 letter mischaracterizes the bill's treatment of - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtY2NVR3c4RDBsYzdLYTJpYl81cWpqU1B2TnpqNzlpMmt6VUozYnlvNzB4cFRnbE4xZ0I5ZjZIeU1QaFBQcVJaLUo2RjZfanRRenFJemd1WkU3dDJDYVBOYg?oc=5\" target=\"_blank\">🚨JUST IN: The Blockchain Associatio…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtY2NVR3c4RDBsYzdLYTJpYl81cWpqU1B2TnpqNzlpMmt6VUozYnlvNzB4cFRnbE4xZ0I5ZjZIeU1QaFBQcVJaLUo2RjZfanRRenFJemd1WkU3dDJDYVBOYg?oc=5",
-      "publishedAt": "2026-08-04T05:13:45.000Z",
+      "title": "🇺🇸 LATEST: The Blockchain Association sends a letter to Senate leaders Thune and Schumer, pushing back point-by-point on the National Sheriffs' Association's claims about the Clarity Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5\" target=\"_blank\">🇺🇸 LATEST: The Blockchain Ass…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5",
+      "publishedAt": "2026-08-04T02:01:02.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t",
-      "localUrl": "/news/20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t.html"
+      "slug": "20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch",
+      "localUrl": "/news/20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch.html"
     },
     {
       "source": "X Wire",
@@ -965,43 +1037,6 @@
       "localUrl": "/news/20260803-strategy-is-the-jpmorgan-of-the-crypto-economy-xcom.html"
     },
     {
-      "source": "Decrypt",
-      "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-      "summary": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they're not immune from threats.",
-      "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-      "publishedAt": "2026-08-03T20:39:33.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver",
-      "localUrl": "/news/20260803-what-is-an-air-gapped-bitcoin-wallet-why-the-coldcard-exploit-changes-the-conver.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The CLARITY act represents a ton of bi-partisan work to finally establish clear rules for crypto in America, which 70% of Americans say we should already have. Whether people love crypto or hate it, there is broad consensus that we need clear rules to protect c - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZGEyb2U4NGZCZS1Xb0dDTTlIYU5jSUFacUYtUUI1Smo0cUhleFFwMmd5RDd0aHprUUVvMmdFV1A0SFprcU8tdlBMc1FJTnpNS0NveENUZmk5bXhTdWhHN3F4TXBkcWs?oc=5\" target=\"_blank\">The CLARITY act represents …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42ZGEyb2U4NGZCZS1Xb0dDTTlIYU5jSUFacUYtUUI1Smo0cUhleFFwMmd5RDd0aHprUUVvMmdFV1A0SFprcU8tdlBMc1FJTnpNS0NveENUZmk5bXhTdWhHN3F4TXBkcWs?oc=5",
-      "publishedAt": "2026-08-03T19:46:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-the-clarity-act-represents-a-ton-of-bi-partisan-work-to-finally-establish-clear-",
-      "localUrl": "/news/20260803-the-clarity-act-represents-a-ton-of-bi-partisan-work-to-finally-establish-clear-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-      "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
-      "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-      "publishedAt": "2026-08-03T19:17:37.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260803-blackrock-launches-tokenized-money-market-funds-on-solana-ethereum",
-      "localUrl": "/news/20260803-blackrock-launches-tokenized-money-market-funds-on-solana-ethereum.html"
-    },
-    {
       "source": "X Wire",
       "title": "1 in 4 Americans hold crypto - and passing CLARITY is a priority for them. American voters are 2x more likely to support a candidate that backs CLARITY (vs those less likely), regardless of party preference. So the stakes are high for Senate leadership. CLARIT - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fd0hJSlJ6QWJOSjdGYlZyVzh3LXA4WE1CalQ0VnViUjFJOHpuZE1QYWtIaURmbEhNa1RnRmFhUWhIampoMjVqenl4RjhjdWxNLUxhbUtMNlpQRUFDclF2QkRpdkRWbUE?oc=5\" target=\"_blank\">1 in 4 Americans hold crypt…",
@@ -1014,30 +1049,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Jim Cramer says, “I’m going to sell my bitcoin” 🤣 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRWxPRWxVSWxFbXJqYzhFRFNNTGU2WUV1TkRRS1NnRU05N3dhTjNjT0syRzR1ZDJVQmlQR3lfSC1kRm1QenZtRU1DbllsNkJFLTU0bFVicGNqQi1IcHpkTFVWVTRtdw?oc=5\" target=\"_blank\">Jim Cramer says, “I’m going …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRWxPRWxVSWxFbXJqYzhFRFNNTGU2WUV1TkRRS1NnRU05N3dhTjNjT0syRzR1ZDJVQmlQR3lfSC1kRm1QenZtRU1DbllsNkJFLTU0bFVicGNqQi1IcHpkTFVWVTRtdw?oc=5",
-      "publishedAt": "2026-08-03T18:01:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-jim-cramer-says-im-going-to-sell-my-bitcoin-xcom",
-      "localUrl": "/news/20260803-jim-cramer-says-im-going-to-sell-my-bitcoin-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-      "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-      "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-      "publishedAt": "2026-08-03T17:51:03.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "基础设施",
-      "slug": "20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt",
-      "localUrl": "/news/20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt.html"
-    },
-    {
-      "source": "X Wire",
       "title": "When I say “Never Sell Your Bitcoin,” I speak as one saver to another. I have never sold mine. Not one satoshi. Strategy is a public company, not my wallet. Since 2020, it has disclosed it may buy or sell $BTC to manage capital. Our shared conviction in Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdHVqcE1lUmRzQ3R2UTdTMDlRTzZLd2JBTUJacHJkUnJ3akc5Z2FyS1diNF9hamVIS05YdnZLd04xZGFBTUp6dGJCLWJzQTFEY2ZCV2llTmE3blk?oc=5\" target=\"_blank\">When I say “Never Sell Your Bitcoin,” I spe…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdHVqcE1lUmRzQ3R2UTdTMDlRTzZLd2JBTUJacHJkUnJ3akc5Z2FyS1diNF9hamVIS05YdnZLd04xZGFBTUp6dGJCLWJzQTFEY2ZCV2llTmE3blk?oc=5",
@@ -1046,17 +1057,6 @@
       "category": "X热点",
       "slug": "20260803-when-i-say-never-sell-your-bitcoin-i-speak-as-one-saver-to-another-i-have-never-",
       "localUrl": "/news/20260803-when-i-say-never-sell-your-bitcoin-i-speak-as-one-saver-to-another-i-have-never-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BlackRock has launched two tokenized money market funds. The $6.2 billion BlackRock Select Treasury Based Liquidity Fund (BSTBL) now has a tokenized share class issued on @ethereum, with BNY as transfer agent and tokenization provider. A second ve - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BNXNNc1ZNdnNYMUhmVERvYms2dTgxbWlKbldJMFVtQWR4eWFGTUNrOE9LN3JFYWlMUU1UQlBIRkROaVFZMFpOVTdzQ0VGX1dCeVBYakVfaUVSN1RzXzZKZVVDTno?oc=5\" target=\"_blank\">BlackRock has launched two toke…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BNXNNc1ZNdnNYMUhmVERvYms2dTgxbWlKbldJMFVtQWR4eWFGTUNrOE9LN3JFYWlMUU1UQlBIRkROaVFZMFpOVTdzQ0VGX1dCeVBYakVfaUVSN1RzXzZKZVVDTno?oc=5",
-      "publishedAt": "2026-08-03T15:06:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-blackrock-has-launched-two-tokenized-money-market-funds-the-62-billion-blackrock",
-      "localUrl": "/news/20260803-blackrock-has-launched-two-tokenized-money-market-funds-the-62-billion-blackrock.html"
     },
     {
       "source": "X Wire",
