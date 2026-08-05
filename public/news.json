@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-08-05T17:51:47.970Z",
+  "updatedAt": "2026-08-05T19:50:39.053Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
+      "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
+      "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
+      "publishedAt": "2026-08-05T19:42:48.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260805-visa-widens-stablecoin-payouts-via-zerohash-rails",
+      "localUrl": "/news/20260805-visa-widens-stablecoin-payouts-via-zerohash-rails.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senator Lummis still pushing for CLARITY vote before August recess",
+      "summary": "US lawmakers have only a few days to hold a vote on a crypto market structure bill before a recess begins that could push consideration into the 2026 election season or beyond.",
+      "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T19:18:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260805-senator-lummis-still-pushing-for-clarity-vote-before-august-recess",
+      "localUrl": "/news/20260805-senator-lummis-still-pushing-for-clarity-vote-before-august-recess.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T19:11:41.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260805-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260805-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+      "summary": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
+      "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
+      "publishedAt": "2026-08-05T19:11:23.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260805-openai-and-anthropics-rogue-models-hacked-real-companies-the-law-has-no-answer",
+      "localUrl": "/news/20260805-openai-and-anthropics-rogue-models-hacked-real-companies-the-law-has-no-answer.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Marex invests in Digital Prime to expand institutional crypto lending",
+      "summary": "The undisclosed investment will support the development of Tokenet, a digital asset lending platform, as institutional demand for crypto infrastructure continues to grow.",
+      "url": "https://cointelegraph.com/news/marex-digital-prime-tokenet-institutional-crypto-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T18:53:47.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260805-marex-invests-in-digital-prime-to-expand-institutional-crypto-lending",
+      "localUrl": "/news/20260805-marex-invests-in-digital-prime-to-expand-institutional-crypto-lending.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
+      "summary": "Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
+      "url": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
+      "publishedAt": "2026-08-05T18:43:47.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260805-feds-say-an-nft-founder-raised-10-million-only-to-blow-it-all-on-gambling-tradin",
+      "localUrl": "/news/20260805-feds-say-an-nft-founder-raised-10-million-only-to-blow-it-all-on-gambling-tradin.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Tests Market’s Patience as Zcash Gives Holders Hope: Analysis",
+      "summary": "Will Bitcoin breakout of its death cross? Can Zcash continue to make holders forget about that mid-June crash? Here’s what the charts say.",
+      "url": "https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross",
+      "publishedAt": "2026-08-05T18:33:34.000Z",
+      "keywords": [
+        "zcash",
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260805-bitcoin-tests-markets-patience-as-zcash-gives-holders-hope-analysis",
+      "localUrl": "/news/20260805-bitcoin-tests-markets-patience-as-zcash-gives-holders-hope-analysis.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+      "summary": "The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic primary but came up short, even as several PAC-backed candidates won elsewhere.",
+      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
+      "publishedAt": "2026-08-05T18:15:21.000Z",
+      "keywords": [
+        "Policy",
+        "Election 2026",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-cryptos-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-g",
+      "localUrl": "/news/20260805-cryptos-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-g.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
@@ -57,17 +164,6 @@
       "category": "基础设施",
       "slug": "20260805-circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
       "localUrl": "/news/20260805-circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin Red Team update: we've grown to 16 globally distributed people working 24/7 We're running a large-scale ecosystem security audit across bitcoin code bases. 27.5 hours in, we've filed 4,962 findings across 390 projects. 85 critical and 635 high severit - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5\" target=\"_blank\">Bitcoin Red Team update: we've grown to…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5",
-      "publishedAt": "2026-08-05T15:25:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247",
-      "localUrl": "/news/20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247.html"
     },
     {
       "source": "Decrypt",
@@ -184,6 +280,17 @@
       "localUrl": "/news/20260805-do-the-coldcard-attacks-mean-all-hardware-wallets-are-now-insecure.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senate has 2 days to pass the Crypto Clarity Act before leaving for summer recess. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTG9udnFtNUtuLUxaSE1SR21ZVF96aTE4Vlg3cXJjSnpCQkMyRFRRYlF2ekpsUHJ0cjl2WjJWc19rb2MwZUUtdlZQckNxb1M0SEtLblp3aVBoWHVId2VNWGp3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate has 2 days to…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTG9udnFtNUtuLUxaSE1SR21ZVF96aTE4Vlg3cXJjSnpCQkMyRFRRYlF2ekpsUHJ0cjl2WjJWc19rb2MwZUUtdlZQckNxb1M0SEtLblp3aVBoWHVId2VNWGp3?oc=5",
+      "publishedAt": "2026-08-05T13:28:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-just-in-senate-has-2-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ",
+      "localUrl": "/news/20260805-just-in-senate-has-2-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
       "summary": "Laser’s investment in ZIGChain is understood to be in the single-digit millions.",
@@ -209,19 +316,6 @@
       "category": "市场",
       "slug": "20260805-galaxy-reports-85m-net-loss-amid-q2-crypto-market-slump",
       "localUrl": "/news/20260805-galaxy-reports-85m-net-loss-amid-q2-crypto-market-slump.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T13:20:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260805-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -589,6 +683,17 @@
       "localUrl": "/news/20260805-boerse-stuttgart-digital-tradias-close-european-crypto-merger.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: A new Ethereum proposal would gradually burn validator rewards as staking rises, reaching zero net $ETH issuance once 50% of supply is staked. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXV2d5QUxveUxOSEViWXB5MUhXaDhkMVpjYkRUNEU3el9qcDB6eW9tVlZxQjEtSmV1aVByVnB1SXdMemdyMXRTVW9OXzc3dGZQeURsRk9NWTVFdWhoOFE?oc=5\" target=\"_blank\">JUST IN: A new Ethereum proposal would …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXV2d5QUxveUxOSEViWXB5MUhXaDhkMVpjYkRUNEU3el9qcDB6eW9tVlZxQjEtSmV1aVByVnB1SXdMemdyMXRTVW9OXzc3dGZQeURsRk9NWTVFdWhoOFE?oc=5",
+      "publishedAt": "2026-08-05T08:29:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-just-in-a-new-ethereum-proposal-would-gradually-burn-validator-rewards-as-stakin",
+      "localUrl": "/news/20260805-just-in-a-new-ethereum-proposal-would-gradually-burn-validator-rewards-as-stakin.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "MiCA list expands with 12 companies in fourth post-deadline update",
       "summary": "ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.",
@@ -600,19 +705,6 @@
       "category": "综合",
       "slug": "20260805-mica-list-expands-with-12-companies-in-fourth-post-deadline-update",
       "localUrl": "/news/20260805-mica-list-expands-with-12-companies-in-fourth-post-deadline-update.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
-      "summary": "Taiwan’s regulator plans to apply the Travel Rule to domestic VASP transfers from October before extending it to overseas platforms by the end of 2027.",
-      "url": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T08:21:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-taiwan-plans-travel-rule-for-domestic-crypto-transfers-from-october",
-      "localUrl": "/news/20260805-taiwan-plans-travel-rule-for-domestic-crypto-transfers-from-october.html"
     },
     {
       "source": "X Wire",
@@ -651,19 +743,6 @@
       "category": "市场",
       "slug": "20260805-the-worst-chart-for-bitcoin-bulls-right-now",
       "localUrl": "/news/20260805-the-worst-chart-for-bitcoin-bulls-right-now.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
-      "summary": "The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitcoin holder and force him to transfer cryptocurrency before abandoning the plan.",
-      "url": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T07:34:12.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260805-missouri-trio-charged-over-alleged-bitcoin-kidnapping-plot",
-      "localUrl": "/news/20260805-missouri-trio-charged-over-alleged-bitcoin-kidnapping-plot.html"
     },
     {
       "source": "X Wire",
@@ -716,20 +795,6 @@
       "category": "安全",
       "slug": "20260805-you-stole-please-return-some-coldcard-hackers-wallet-becomes-a-graffiti-wall-of-",
       "localUrl": "/news/20260805-you-stole-please-return-some-coldcard-hackers-wallet-becomes-a-graffiti-wall-of-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
-      "summary": "BTC held near $64,000 as MSCI's world index set another peak and Brent fell toward a Hormuz deal. Ether is the only major down on the week.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
-      "publishedAt": "2026-08-05T04:32:16.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260805-bitcoin-flat-at-64000-as-stocks-print-records-and-hormuz-deal-nears",
-      "localUrl": "/news/20260805-bitcoin-flat-at-64000-as-stocks-print-records-and-hormuz-deal-nears.html"
     },
     {
       "source": "X Wire",
@@ -882,17 +947,6 @@
       "localUrl": "/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html"
     },
     {
-      "source": "X Wire",
-      "title": "This is so disappointing on every level. EIP released with 48 hours notice for comments. Realistically 4 months before it goes live. For a major network economics change with far reaching implications for all of DeFi. Every builder on Ethereum opposes this. Wh - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed0FscVBDTFRocjR1YW5RQ1RsaURlNnVNb1hXaDZtZ2p1ZGlGMVhEMDRnTWVOY1JMc2Iwam1JMHNpSy1xZzBQY0lzS0ZTeXBRVjZ0eXVtRmY4LU9vSDdsS0p1QXY?oc=5\" target=\"_blank\">This is so disappointing on eve…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed0FscVBDTFRocjR1YW5RQ1RsaURlNnVNb1hXaDZtZ2p1ZGlGMVhEMDRnTWVOY1JMc2Iwam1JMHNpSy1xZzBQY0lzS0ZTeXBRVjZ0eXVtRmY4LU9vSDdsS0p1QXY?oc=5",
-      "publishedAt": "2026-08-04T18:08:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-this-is-so-disappointing-on-every-level-eip-released-with-48-hours-notice-for-co",
-      "localUrl": "/news/20260804-this-is-so-disappointing-on-every-level-eip-released-with-48-hours-notice-for-co.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
       "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
@@ -941,19 +995,6 @@
       "localUrl": "/news/20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-      "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
-      "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-      "publishedAt": "2026-08-04T13:36:06.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-      "localUrl": "/news/20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW: @BitGo (NYSE: BTGO) migrates $7.7B+ Wrapped Bitcoin (WBTC) to Chainlink CCIP. After a rigorous review, BitGo deprecated its legacy bridging provider & chose CCIP as its exclusive cross-chain infra given it’s the only solution that meets institutional - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5\" target=\"_blank\">NEW: @BitGo (NYSE: BTGO) migrates $7.7…",
@@ -976,32 +1017,6 @@
       "localUrl": "/news/20260804-breakpoint-2026-the-token-supercycle.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Saylor Sells Bitcoin Again",
-      "summary": "Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to… help them buy more Bitcoin.",
-      "url": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
-      "publishedAt": "2026-08-04T12:33:21.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260804-morning-minute-saylor-sells-bitcoin-again",
-      "localUrl": "/news/20260804-morning-minute-saylor-sells-bitcoin-again.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
-      "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
-      "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-      "publishedAt": "2026-08-04T11:40:44.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-      "localUrl": "/news/20260804-blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys.html"
-    },
-    {
       "source": "X Wire",
       "title": "INSIGHT: @cz_binance argues it may be \"statistically safer\" to store crypto on exchanges than in self-custody, citing 1.57M $BTC lost to self-custody errors vs 1.51M lost to exchange hacks. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbGVrZVNCandFU25qZXh3QUowU2hMLWFja3J1N2tMRTJkR3VYbHpnQzliOXRvbS1VQW5rcnFzS002elV4Wm4yc2VpZkZZSWtUak8zOFpGWmtNNWlTdHc?oc=5\" target=\"_blank\">INSIGHT: @cz_binance argues it may be \"…",
@@ -1011,19 +1026,6 @@
       "category": "X热点",
       "slug": "20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha",
       "localUrl": "/news/20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
-      "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
-      "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
-      "publishedAt": "2026-08-04T10:52:57.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
-      "localUrl": "/news/20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m.html"
     },
     {
       "source": "X Wire",
