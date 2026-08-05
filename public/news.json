@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-05T21:22:28.152Z",
-  "total": 83,
+  "updatedAt": "2026-08-05T23:15:33.080Z",
+  "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
+      "summary": "Binance alleged RedotPay poached customers from the crypto exchange in a lawsuit filed in Hong Kong.",
+      "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+      "publishedAt": "2026-08-05T21:40:33.000Z",
+      "keywords": [
+        "Finance",
+        "Binance",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-crypto-firm-redotpay-says-it-will-defend-itself-vigorously-against-binance-lawsu",
+      "localUrl": "/news/20260805-crypto-firm-redotpay-says-it-will-defend-itself-vigorously-against-binance-lawsu.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
+      "summary": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.",
+      "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
+      "publishedAt": "2026-08-05T21:24:06.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "DeFi",
+      "slug": "20260805-meta-debuts-ai-coding-agent-muse-heres-how-it-compares-to-claude-code-and-codex",
+      "localUrl": "/news/20260805-meta-debuts-ai-coding-agent-muse-heres-how-it-compares-to-claude-code-and-codex.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
+      "summary": "The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.",
+      "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T21:15:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260805-senator-warren-questions-us-ai-chip-policy-after-trump-crypto-investment-report",
+      "localUrl": "/news/20260805-senator-warren-questions-us-ai-chip-policy-after-trump-crypto-investment-report.html"
+    },
     {
       "source": "Decrypt",
       "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
@@ -81,6 +123,17 @@
       "localUrl": "/news/20260805-openai-and-anthropics-rogue-models-hacked-real-companies-the-law-has-no-answer.html"
     },
     {
+      "source": "Solana Blog",
+      "title": "Webinar Recap: Giving AI agents a native way to pay with x402",
+      "summary": "X402 has processed roughly 200M transactions and $50B in volume, giving AI agents a stablecoin-native way to pay for web resources.",
+      "url": "https://solana.com/news/webinar-recap-agentic-payments",
+      "publishedAt": "2026-08-05T18:55:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
+      "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Marex invests in Digital Prime to expand institutional crypto lending",
       "summary": "The undisclosed investment will support the development of Tokenet, a digital asset lending platform, as institutional demand for crypto infrastructure continues to grow.",
@@ -134,6 +187,17 @@
       "category": "监管",
       "slug": "20260805-cryptos-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-g",
       "localUrl": "/news/20260805-cryptos-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-g.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Most people still think crypto is about tokens going up and down. It isn't. Or at least, that's the smallest part of what's happening. Money is about to start moving at silicon speed. Billions of agents transacting with each other, negotiating, settling and running full b - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkaWw5SEZHNTFkRE9acUx0UFRmNUtla09oY3ZsY2tNeDg1VE5XaVd1U005YnhwT3doVGFkMXpmMDA4eVhTTkVOR0RCSktoWUljNWo3dW5EUjJfblRXUWc?oc=5\" target=\"_blank\">Most people still think crypto is about…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkaWw5SEZHNTFkRE9acUx0UFRmNUtla09oY3ZsY2tNeDg1VE5XaVd1U005YnhwT3doVGFkMXpmMDA4eVhTTkVOR0RCSktoWUljNWo3dW5EUjJfblRXUWc?oc=5",
+      "publishedAt": "2026-08-05T17:25:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-most-people-still-think-crypto-is-about-tokens-going-up-and-down-it-isnt-or-at-l",
+      "localUrl": "/news/20260805-most-people-still-think-crypto-is-about-tokens-going-up-and-down-it-isnt-or-at-l.html"
     },
     {
       "source": "Cointelegraph",
@@ -441,6 +505,17 @@
       "localUrl": "/news/20260805-ai-agent-token-once-worth-24-billion-ends-with-founder-calling-it-dead.html"
     },
     {
+      "source": "X Wire",
+      "title": "Binance Sues Largest Crypto Card Company RedotPay, Alleges User Diversion and Seeks $472.8 Million According to Bloomberg, Binance-affiliated entities Nest Trading, DistributedTechnologies and Chaintecs Consulting Singapore filed a lawsuit in Hong - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OTGRYdkloSkhRVzhsY3pFakU3QjlvOEdDZXgzMXkxU1ZZcWxCeHoyQ3p6NDhZZTJLWGw3aUVHdXloSkdQZnFiekVMLVB4ZWhrcXdtQndlSU9rYVdQakk0cDJESQ?oc=5\" target=\"_blank\">Binance Sues Largest Crypto Card…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OTGRYdkloSkhRVzhsY3pFakU3QjlvOEdDZXgzMXkxU1ZZcWxCeHoyQ3p6NDhZZTJLWGw3aUVHdXloSkdQZnFiekVMLVB4ZWhrcXdtQndlSU9rYVdQakk0cDJESQ?oc=5",
+      "publishedAt": "2026-08-05T12:13:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-binance-sues-largest-crypto-card-company-redotpay-alleges-user-diversion-and-see",
+      "localUrl": "/news/20260805-binance-sues-largest-crypto-card-company-redotpay-alleges-user-diversion-and-see.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
       "summary": "The company reported no BTC sales in the second quarter, but shares fell before the open as investors focused on capital spending, free cash flow pressure and a looming insider lockup expiry.",
@@ -731,30 +806,6 @@
       "localUrl": "/news/20260805-just-in-a-new-ethereum-proposal-would-gradually-burn-validator-rewards-as-stakin.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "MiCA list expands with 12 companies in fourth post-deadline update",
-      "summary": "ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.",
-      "url": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T08:25:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260805-mica-list-expands-with-12-companies-in-fourth-post-deadline-update",
-      "localUrl": "/news/20260805-mica-list-expands-with-12-companies-in-fourth-post-deadline-update.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Ethereum researchers propose to CUT validator rewards to ZERO if half of all ETH becomes staked. The proposal EIP-8363 would gradually reduce newly created ETH rewards, reaching zero if staking rises from around 34% today to 50% of total sup - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yZHNidE9uc1BvVWNKbUlKdTAzbjJKRWVfOUM3dmlKOVdQdWtCWTQtVlJka0FCT2FtbkNfcG1MRVVtN0J5eUtxZnFJNXBPSVlLZmc4aW0zbkthUU5FVVpROQ?oc=5\" target=\"_blank\">JUST IN: Ethereum researchers propos…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yZHNidE9uc1BvVWNKbUlKdTAzbjJKRWVfOUM3dmlKOVdQdWtCWTQtVlJka0FCT2FtbkNfcG1MRVVtN0J5eUtxZnFJNXBPSVlLZmc4aW0zbkthUU5FVVpROQ?oc=5",
-      "publishedAt": "2026-08-05T08:10:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-just-in-ethereum-researchers-propose-to-cut-validator-rewards-to-zero-if-half-of",
-      "localUrl": "/news/20260805-just-in-ethereum-researchers-propose-to-cut-validator-rewards-to-zero-if-half-of.html"
-    },
-    {
       "source": "X Wire",
       "title": "How much money do you need to go full-time in crypto? Different for everyone, of course, but what's your number? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5\" target=\"_blank\">How much money do you need to go full-t…",
@@ -817,21 +868,6 @@
       "category": "基础设施",
       "slug": "20260805-new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi",
       "localUrl": "/news/20260805-new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
-      "summary": "A wallet holding $36 million in stolen bitcoin has become an unlikely public message board, as hack victims and opportunists pay to leave permanent notes for the thief.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
-      "publishedAt": "2026-08-05T05:12:46.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260805-you-stole-please-return-some-coldcard-hackers-wallet-becomes-a-graffiti-wall-of-",
-      "localUrl": "/news/20260805-you-stole-please-return-some-coldcard-hackers-wallet-becomes-a-graffiti-wall-of-.html"
     },
     {
       "source": "X Wire",
@@ -969,6 +1005,17 @@
       "localUrl": "/news/20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year.html"
     },
     {
+      "source": "X Wire",
+      "title": "Ethereum has serious issues we need to handle. Both as a protocol and an ecosystem for users and developers. Issuance aint it. Everybody has already given arguments why issuance does not need to be touched. Let's spend our energy where it matters plea - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NYmRaRFBsYm41eVluMEw0T3pUZXlFankzMkZjWV9aWHdfbkxrbjd4eWhGcHQyMlZDc3Q4VlZNbm5pN29CN0c0QmZVUGVNaWMwU3REMk1yVHIwYUZJV2RLZg?oc=5\" target=\"_blank\">Ethereum has serious issues we need …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NYmRaRFBsYm41eVluMEw0T3pUZXlFankzMkZjWV9aWHdfbkxrbjd4eWhGcHQyMlZDc3Q4VlZNbm5pN29CN0c0QmZVUGVNaWMwU3REMk1yVHIwYUZJV2RLZg?oc=5",
+      "publishedAt": "2026-08-04T19:45:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-ethereum-has-serious-issues-we-need-to-handle-both-as-a-protocol-and-an-ecosyste",
+      "localUrl": "/news/20260804-ethereum-has-serious-issues-we-need-to-handle-both-as-a-protocol-and-an-ecosyste.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
       "summary": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
@@ -980,19 +1027,6 @@
       "category": "监管",
       "slug": "20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m",
       "localUrl": "/news/20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
-      "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-      "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
-      "publishedAt": "2026-08-04T18:46:11.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold",
-      "localUrl": "/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html"
     },
     {
       "source": "X Wire",
@@ -1017,17 +1051,6 @@
       "localUrl": "/news/20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i.html"
     },
     {
-      "source": "X Wire",
-      "title": "NEW: @BitGo (NYSE: BTGO) migrates $7.7B+ Wrapped Bitcoin (WBTC) to Chainlink CCIP. After a rigorous review, BitGo deprecated its legacy bridging provider & chose CCIP as its exclusive cross-chain infra given it’s the only solution that meets institutional - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5\" target=\"_blank\">NEW: @BitGo (NYSE: BTGO) migrates $7.7…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5",
-      "publishedAt": "2026-08-04T13:19:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-new-bitgo-nyse-btgo-migrates-77b-wrapped-bitcoin-wbtc-to-chainlink-ccip-after-a-",
-      "localUrl": "/news/20260804-new-bitgo-nyse-btgo-migrates-77b-wrapped-bitcoin-wbtc-to-chainlink-ccip-after-a-.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Breakpoint 2026: The Token Supercycle",
       "summary": "The last cycle was built on software and cheap money. This one is built from steel, silicon, and energy; and the tokens moving the capital behind it. Speaker applications are now live for Breakpoint 2026:",
@@ -1048,17 +1071,6 @@
       "category": "X热点",
       "slug": "20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha",
       "localUrl": "/news/20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: $XRP holders can now borrow $RLUSD against their coins on Ethereum without selling, via @FlareNetworks's wrapped $FXRP accepted as collateral on Morpho Blue. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JMkRsaFlXaWFmR0F6VDdIRFBOTUVHTG0ybG9nWUdaY3dQN2J5ZWZ5Ul9GM2sxeFdnQ2JUMU9yd1VFbEg0SldzNTBkUW9IRGNvUXNpUEdOUVJHY0NQM3c?oc=5\" target=\"_blank\">NEW: $XRP holders can now borrow $RLUSD…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JMkRsaFlXaWFmR0F6VDdIRFBOTUVHTG0ybG9nWUdaY3dQN2J5ZWZ5Ul9GM2sxeFdnQ2JUMU9yd1VFbEg0SldzNTBkUW9IRGNvUXNpUEdOUVJHY0NQM3c?oc=5",
-      "publishedAt": "2026-08-04T08:22:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-new-xrp-holders-can-now-borrow-rlusd-against-their-coins-on-ethereum-without-sel",
-      "localUrl": "/news/20260804-new-xrp-holders-can-now-borrow-rlusd-against-their-coins-on-ethereum-without-sel.html"
     },
     {
       "source": "X Wire",
