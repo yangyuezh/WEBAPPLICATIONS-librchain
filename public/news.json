@@ -1,7 +1,158 @@
 {
-  "updatedAt": "2026-08-05T06:38:42.858Z",
+  "updatedAt": "2026-08-05T09:45:28.697Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
+      "summary": "JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
+      "url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T09:24:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260805-blackrock-brings-tokenized-money-market-funds-to-europe-via-jpmorgan",
+      "localUrl": "/news/20260805-blackrock-brings-tokenized-money-market-funds-to-europe-via-jpmorgan.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Proof of Play to shut down after blockchain gaming thesis falls short",
+      "summary": "The a16z-backed studio will open-source Pirate Nation assets, while an independent foundation continues supporting the PIRATE token.",
+      "url": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T09:10:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-proof-of-play-to-shut-down-after-blockchain-gaming-thesis-falls-short",
+      "localUrl": "/news/20260805-proof-of-play-to-shut-down-after-blockchain-gaming-thesis-falls-short.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why bitcoin’s ‘500-day rule’ faces its biggest test yet",
+      "summary": "The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitcoin halving and selling it about 500 days after would have produced profits in prior cycles.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet",
+      "publishedAt": "2026-08-05T09:06:15.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260805-why-bitcoins-500-day-rule-faces-its-biggest-test-yet",
+      "localUrl": "/news/20260805-why-bitcoins-500-day-rule-faces-its-biggest-test-yet.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: An AI credit bubble could set up bitcoin’s path to $1 million",
+      "summary": "Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending will eventually crack, forcing government bailouts and money printing that become the next major bitcoin catalyst.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/live-updates-an-ai-credit-bubble-could-set-up-bitcoin-s-path-to-usd1-million",
+      "publishedAt": "2026-08-05T09:00:20.000Z",
+      "keywords": [
+        "Markets",
+        "Live News",
+        "live_news"
+      ],
+      "category": "市场",
+      "slug": "20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million",
+      "localUrl": "/news/20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Forgd brings its crypto market-maker leaderboard to DefiLlama",
+      "summary": "Forgd’s ratings draw on data from more than 500 token projects and 35 market-making firms, but do not solely reflect trading performance.",
+      "url": "https://cointelegraph.com/news/forgd-market-maker-leaderboard-defillama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T09:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260805-forgd-brings-its-crypto-market-maker-leaderboard-to-defillama",
+      "localUrl": "/news/20260805-forgd-brings-its-crypto-market-maker-leaderboard-to-defillama.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Boerse Stuttgart Digital, Tradias close European crypto merger",
+      "summary": "The completed tie-up combines Boerse Stuttgart Digital’s custody business with Tradias’ trading operations under a joint management team.",
+      "url": "https://cointelegraph.com/news/boerse-stuttgart-digital-tradias-european-crypto-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T08:47:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-boerse-stuttgart-digital-tradias-close-european-crypto-merger",
+      "localUrl": "/news/20260805-boerse-stuttgart-digital-tradias-close-european-crypto-merger.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MiCA list expands with 12 companies in fourth post-deadline update",
+      "summary": "ESMA’s latest MiCA update brings the number of authorized CASPs to 321 and adds three entities to its non-compliant register.",
+      "url": "https://cointelegraph.com/news/mica-register-casps-fourth-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T08:25:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-mica-list-expands-with-12-companies-in-fourth-post-deadline-update",
+      "localUrl": "/news/20260805-mica-list-expands-with-12-companies-in-fourth-post-deadline-update.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
+      "summary": "Taiwan’s regulator plans to apply the Travel Rule to domestic VASP transfers from October before extending it to overseas platforms by the end of 2027.",
+      "url": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T08:21:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260805-taiwan-plans-travel-rule-for-domestic-crypto-transfers-from-october",
+      "localUrl": "/news/20260805-taiwan-plans-travel-rule-for-domestic-crypto-transfers-from-october.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The worst chart for bitcoin bulls right now",
+      "summary": "For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively turned the other way and bulls may not like what it means.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+      "publishedAt": "2026-08-05T07:54:22.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Technical Analysis",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260805-the-worst-chart-for-bitcoin-bulls-right-now",
+      "localUrl": "/news/20260805-the-worst-chart-for-bitcoin-bulls-right-now.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Missouri trio charged over alleged Bitcoin kidnapping plot",
+      "summary": "The defendants allegedly traveled from Missouri to Connecticut to kidnap a Bitcoin holder and force him to transfer cryptocurrency before abandoning the plan.",
+      "url": "https://cointelegraph.com/news/three-missouri-men-charged-bitcoin-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T07:34:12.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260805-missouri-trio-charged-over-alleged-bitcoin-kidnapping-plot",
+      "localUrl": "/news/20260805-missouri-trio-charged-over-alleged-bitcoin-kidnapping-plot.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cloudflare introduces wallets for AI agents, plans stablecoin payments",
+      "summary": "Cloudflare introduced programmable Wallets for AI agents and said payment features using stablecoins will launch in a future update.",
+      "url": "https://cointelegraph.com/news/cloudflare-wallets-ai-agents-stablecoin-payments-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T07:20:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260805-cloudflare-introduces-wallets-for-ai-agents-plans-stablecoin-payments",
+      "localUrl": "/news/20260805-cloudflare-introduces-wallets-for-ai-agents-plans-stablecoin-payments.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "AI credit bubble could fuel Bitcoin ‘crack-up boom’ past $1M: Hayes",
@@ -186,6 +337,17 @@
       "category": "市场",
       "slug": "20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled",
       "localUrl": "/news/20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "My thoughts on Ethereum staking yield axing ethereum-magicians.org/t/eip-xxxx-tap… tl;dr Save ETH staking. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE45X0RDaGdLNDBLV1VSSHlVVEs3QmUyd21hSUlCSWtPLXhTY2Y2YlctX01SNUd3ZkxOemhBR0MwWWotTG9RZmdRTjBmUXd1MGF6UjFQM0dqSEFLakxJVjlSZHVLTVE?oc=5\" target=\"_blank\">My thoughts on Ethereum staking…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45X0RDaGdLNDBLV1VSSHlVVEs3QmUyd21hSUlCSWtPLXhTY2Y2YlctX01SNUd3ZkxOemhBR0MwWWotTG9RZmdRTjBmUXd1MGF6UjFQM0dqSEFLakxJVjlSZHVLTVE?oc=5",
+      "publishedAt": "2026-08-04T20:36:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-my-thoughts-on-ethereum-staking-yield-axing-ethereum-magiciansorgteip-xxxx-tap-t",
+      "localUrl": "/news/20260804-my-thoughts-on-ethereum-staking-yield-axing-ethereum-magiciansorgteip-xxxx-tap-t.html"
     },
     {
       "source": "Decrypt",
@@ -488,17 +650,6 @@
       "localUrl": "/news/20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 New EIP: Tapered Issuance Burn We just submitted an EIP to ethereum/EIPs: a minimal, market-driven fix to Ethereum's issuance policy removing the incentive for stake growth beyond 50% of ETH supply. EIP-8361 by @pintail_xyz, @jdetychey, @dapplion, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZmd5SkRtZVBIeHFhR1loWDRlaFhjbThTeWpzX1I4a1FvYy10Mzd0MXh2RzZtc211dDFsTGEwT2pmdG1CdlBXQjh5cGFPczBrTHc5b3FvRjZVbmhneHZn?oc=5\" target=\"_blank\">🚨 New EIP: Tapered Issuance Burn We j…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZmd5SkRtZVBIeHFhR1loWDRlaFhjbThTeWpzX1I4a1FvYy10Mzd0MXh2RzZtc211dDFsTGEwT2pmdG1CdlBXQjh5cGFPczBrTHc5b3FvRjZVbmhneHZn?oc=5",
-      "publishedAt": "2026-08-04T13:53:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-new-eip-tapered-issuance-burn-we-just-submitted-an-eip-to-ethereumeips-a-minimal",
-      "localUrl": "/news/20260804-new-eip-tapered-issuance-burn-we-just-submitted-an-eip-to-ethereumeips-a-minimal.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
       "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
@@ -510,6 +661,17 @@
       "category": "监管",
       "slug": "20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
       "localUrl": "/news/20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: World's largest custodian bank, BNY Mellon, to launch crypto staking. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5\" target=\"_blank\">JUST IN: World's largest custodian…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5",
+      "publishedAt": "2026-08-04T13:35:42.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom",
+      "localUrl": "/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -604,19 +766,6 @@
       "localUrl": "/news/20260804-morning-minute-saylor-sells-bitcoin-again.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
-      "summary": "XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to rise.",
-      "url": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T12:30:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260804-tether-gold-reserves-rise-95-as-gold-posts-worst-quarter-in-13-years",
-      "localUrl": "/news/20260804-tether-gold-reserves-rise-95-as-gold-posts-worst-quarter-in-13-years.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "BNY to add crypto staking to digital asset custody platform",
       "summary": "The custody bank has selected Galaxy to provide staking infrastructure as it broadens services for institutional crypto investors.",
@@ -648,19 +797,6 @@
       "localUrl": "/news/20260804-coldcard-urges-users-to-move-bitcoin-as-exploit-is-still-in-progress.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
-      "summary": "Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot Bitcoin ETFs.",
-      "url": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T11:55:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260804-italys-biggest-bank-triples-staked-ether-etf-holdings-while-cutting-ibit-shares",
-      "localUrl": "/news/20260804-italys-biggest-bank-triples-staked-ether-etf-holdings-while-cutting-ibit-shares.html"
-    },
-    {
       "source": "Decrypt",
       "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
       "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
@@ -689,34 +825,6 @@
       "localUrl": "/news/20260804-the-bitcoin-market-has-plenty-of-reasons-to-freak-out-yet-calm-pervades.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
-      "summary": "A draft rulebook proposes that sending crypto offshore must be conducted through an authorized provider and be reported to the central bank’s FinSurv.",
-      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
-      "publishedAt": "2026-08-04T10:59:41.000Z",
-      "keywords": [
-        "Policy",
-        "South Korea",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260804-south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
-      "localUrl": "/news/20260804-south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
-      "summary": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
-      "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T10:53:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16",
-      "localUrl": "/news/20260804-jim-cramer-plans-to-sell-his-bitcoin-over-quantum-fears-as-btc-rises-16.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
       "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
@@ -728,50 +836,6 @@
       "category": "安全",
       "slug": "20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
       "localUrl": "/news/20260804-hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-      "summary": "Bitcoin advanced as the market settled down following the weekend’s hack of Coldcard wallets and sales by Strategy even as sentiment remained in “extreme fear.”",
-      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-      "publishedAt": "2026-08-04T10:51:11.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260804-bitcoin-rises-toward-64000-as-coldcard-exploit-strategy-sales-recede-ada-advance",
-      "localUrl": "/news/20260804-bitcoin-rises-toward-64000-as-coldcard-exploit-strategy-sales-recede-ada-advance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Former FBI supervisor admits guilt in $1M crypto theft",
-      "summary": "A former FBI supervisory agent pleaded guilty to stealing about $1 million worth of digital assets from an adversarial country and forfeited about $925,000 in funds to government-controlled wallets.",
-      "url": "https://cointelegraph.com/news/former-fbi-supervisor-charged-1m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T10:30:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260804-former-fbi-supervisor-admits-guilt-in-1m-crypto-theft",
-      "localUrl": "/news/20260804-former-fbi-supervisor-admits-guilt-in-1m-crypto-theft.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-      "summary": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
-      "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-      "publishedAt": "2026-08-04T10:03:24.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "BlackRock",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260804-blackrock-debuts-tokenized-access-to-311-billion-of-money-market-funds-in-europe",
-      "localUrl": "/news/20260804-blackrock-debuts-tokenized-access-to-311-billion-of-money-market-funds-in-europe.html"
     },
     {
       "source": "Decrypt",
@@ -787,32 +851,6 @@
       "localUrl": "/news/20260804-five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strategy’s STRC retakes $90 after 24% rebound from June closing low",
-      "summary": "The preferred shares have recovered nearly 24% from their June closing low as Strategy builds its cash reserve and repurchases STRC.",
-      "url": "https://cointelegraph.com/markets/strategy-strc-stock-above-90-june-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T09:42:36.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260804-strategys-strc-retakes-90-after-24-rebound-from-june-closing-low",
-      "localUrl": "/news/20260804-strategys-strc-retakes-90-after-24-rebound-from-june-closing-low.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US yen intervention puts Bitcoin, risk assets on notice for liquidity flux",
-      "summary": "The first US-Japan joint yen intervention in 28 years came amid record bond yields and worries about the yen carry trade.",
-      "url": "https://cointelegraph.com/markets/us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T09:22:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260804-us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux",
-      "localUrl": "/news/20260804-us-yen-intervention-puts-bitcoin-risk-assets-on-notice-for-liquidity-flux.html"
-    },
-    {
       "source": "X Wire",
       "title": "Italy’s Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings Italy’s largest banking group, Intesa Sanpaolo, reported in its latest Form 13F that, as of June 30, its common-share position in BlackRock’s iShares Bitcoin Trust - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QbEFPZ3pvNjNFVm5KY3JEd19JU2xrX3ladlpxYmkxY1FwUVdhZ25IYXluZHAwdmh1dHZLNXVKTzY3VFFoVzBiWFZTOGZVS25NMjFaYTFOLWo5YWxmanV2TktrRQ?oc=5\" target=\"_blank\">Italy’s Largest Bank Intesa Sanp…",
@@ -824,17 +862,15 @@
       "localUrl": "/news/20260804-italys-largest-bank-intesa-sanpaolo-cuts-ibit-stake-94-triples-staked-ethereum-e.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Apple briefly removes Telegram from App Store, Gram rebounds",
-      "summary": "Apple restored Telegram after the messaging platform removed content that violated its child safety policies and banned the user who posted it.",
-      "url": "https://cointelegraph.com/news/apple-telegram-app-store-gram-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T08:03:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260804-apple-briefly-removes-telegram-from-app-store-gram-rebounds",
-      "localUrl": "/news/20260804-apple-briefly-removes-telegram-from-app-store-gram-rebounds.html"
+      "source": "X Wire",
+      "title": "NEW: $XRP holders can now borrow $RLUSD against their coins on Ethereum without selling, via @FlareNetworks's wrapped $FXRP accepted as collateral on Morpho Blue. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JMkRsaFlXaWFmR0F6VDdIRFBOTUVHTG0ybG9nWUdaY3dQN2J5ZWZ5Ul9GM2sxeFdnQ2JUMU9yd1VFbEg0SldzNTBkUW9IRGNvUXNpUEdOUVJHY0NQM3c?oc=5\" target=\"_blank\">NEW: $XRP holders can now borrow $RLUSD…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JMkRsaFlXaWFmR0F6VDdIRFBOTUVHTG0ybG9nWUdaY3dQN2J5ZWZ5Ul9GM2sxeFdnQ2JUMU9yd1VFbEg0SldzNTBkUW9IRGNvUXNpUEdOUVJHY0NQM3c?oc=5",
+      "publishedAt": "2026-08-04T08:22:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-new-xrp-holders-can-now-borrow-rlusd-against-their-coins-on-ethereum-without-sel",
+      "localUrl": "/news/20260804-new-xrp-holders-can-now-borrow-rlusd-against-their-coins-on-ethereum-without-sel.html"
     },
     {
       "source": "X Wire",
@@ -846,19 +882,6 @@
       "category": "X热点",
       "slug": "20260804-coinbase-to-shift-institutional-clients-to-deribit-worlds-largest-crypto-options",
       "localUrl": "/news/20260804-coinbase-to-shift-institutional-clients-to-deribit-worlds-largest-crypto-options.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
-      "summary": "The ruling leaves New York’s case against Kalshi in place while allowing the CFTC to renew its request before Judge Victor Marrero.",
-      "url": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T07:49:22.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260804-ny-judge-denies-cftc-motion-to-halt-enforcement-action-against-kalshi",
-      "localUrl": "/news/20260804-ny-judge-denies-cftc-motion-to-halt-enforcement-action-against-kalshi.html"
     },
     {
       "source": "X Wire",
@@ -892,17 +915,6 @@
       "category": "X热点",
       "slug": "20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t",
       "localUrl": "/news/20260804-just-in-the-blockchain-association-has-sent-a-letter-to-senate-majority-leader-t.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 LATEST: The Blockchain Association sends a letter to Senate leaders Thune and Schumer, pushing back point-by-point on the National Sheriffs' Association's claims about the Clarity Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5\" target=\"_blank\">🇺🇸 LATEST: The Blockchain Ass…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xUWxtTHFTZUxvUmgyYXNhaXlsYWRZUFhnMHVTRFU5SGREd1VadVNtamo2YkJ5ekZaeUw0OHd2R3RiYS1QVDdYVkszZFlzbHptYkhsRW1oUmRDTFhuOThHb2xzY0Q?oc=5",
-      "publishedAt": "2026-08-04T02:01:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch",
-      "localUrl": "/news/20260804-latest-the-blockchain-association-sends-a-letter-to-senate-leaders-thune-and-sch.html"
     },
     {
       "source": "X Wire",
@@ -1023,17 +1035,6 @@
       "category": "基础设施",
       "slug": "20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt",
       "localUrl": "/news/20260803-xrp-holders-can-now-borrow-ripples-rlusd-on-ethereum-without-selling-their-crypt.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "News w/ @LauraEWeiss16: Treasury Secretary Scott Bessent’s top crypto adviser departed the government on Friday. Tyler Williams is expected to return to the private sector. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5\" target=\"_blank\">News w/ @LauraEWeiss16: Tre…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbXBIZ214cXpROTIySjh5dEtNQ1p6SzdOSzBhcE1yZlYzM2M0aGUyWldEN1ZVaEh1alg0aTY1OFh6dEZ6UkJqckd2Z0U4Y25sRjBmQmpJSTltLU1sRlJHdm1OQmhuMXM?oc=5",
-      "publishedAt": "2026-08-03T17:45:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart",
-      "localUrl": "/news/20260803-news-w-lauraeweiss16-treasury-secretary-scott-bessents-top-crypto-adviser-depart.html"
     },
     {
       "source": "X Wire",
