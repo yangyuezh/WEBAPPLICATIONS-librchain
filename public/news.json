@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-05T19:50:39.053Z",
+  "updatedAt": "2026-08-05T21:22:28.152Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
+      "summary": "The release targets developers building autonomous apps and workflows on Cloudflare's edge—a clear bet on agent infrastructure.",
+      "url": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
+      "publishedAt": "2026-08-05T20:46:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260805-cloudflare-os-heres-whats-inside-the-open-source-ai-agent-platform",
+      "localUrl": "/news/20260805-cloudflare-os-heres-whats-inside-the-open-source-ai-agent-platform.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
+      "summary": "A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.",
+      "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
+      "publishedAt": "2026-08-05T20:16:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit",
+      "localUrl": "/news/20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit.html"
+    },
     {
       "source": "Decrypt",
       "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
@@ -164,6 +190,17 @@
       "category": "基础设施",
       "slug": "20260805-circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
       "localUrl": "/news/20260805-circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin Red Team update: we've grown to 16 globally distributed people working 24/7 We're running a large-scale ecosystem security audit across bitcoin code bases. 27.5 hours in, we've filed 4,962 findings across 390 projects. 85 critical and 635 high severit - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5\" target=\"_blank\">Bitcoin Red Team update: we've grown to…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5",
+      "publishedAt": "2026-08-05T15:25:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247",
+      "localUrl": "/news/20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247.html"
     },
     {
       "source": "Decrypt",
@@ -809,6 +846,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Suspected Strategy-Linked Wallet Transfers Another 1,030 BTC Worth $66.14 Million According to Lookonchain, a wallet suspected to be associated with Michael Saylor’s Strategy transferred another 1,030 BTC worth approximately $66.14 million two hours a - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PTURRMzY3YmNZUGIwVVNEXzZORnRMdFF3OHVtanNsTFlxZDFDbi1HVW1TOUVmYlV3NzhRd2VNb2RSYzluRDBlNTY1Vk9XS2pmQjc2SXVzR243MVF3dzBWbHlNMA?oc=5\" target=\"_blank\">Suspected Strategy-Linked Wallet…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PTURRMzY3YmNZUGIwVVNEXzZORnRMdFF3OHVtanNsTFlxZDFDbi1HVW1TOUVmYlV3NzhRd2VNb2RSYzluRDBlNTY1Vk9XS2pmQjc2SXVzR243MVF3dzBWbHlNMA?oc=5",
+      "publishedAt": "2026-08-05T03:34:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-suspected-strategy-linked-wallet-transfers-another-1030-btc-worth-6614-million-a",
+      "localUrl": "/news/20260805-suspected-strategy-linked-wallet-transfers-another-1030-btc-worth-6614-million-a.html"
+    },
+    {
+      "source": "X Wire",
       "title": "I've been in crypto for 8+ years. For the first time ever — substance has gotten ahead of price. It's happening. Crypto is going to update the system. Not done, but can't be stopped now. Bravo to the relentless teams in this space. Keep going. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Lc3ZmRVhSRGFqaWpVejEtMVBXSkhwVTJfUGtaUGJ5RjV4eUV5TlNxVnlyRUpULUZDT2pYOUpKcF8zcmhnVE1lczRXX0JiUFdrRndRb01LNENzSDhVM0E?oc=5\" target=\"_blank\">I've been in crypto for 8+ years. For t…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Lc3ZmRVhSRGFqaWpVejEtMVBXSkhwVTJfUGtaUGJ5RjV4eUV5TlNxVnlyRUpULUZDT2pYOUpKcF8zcmhnVE1lczRXX0JiUFdrRndRb01LNENzSDhVM0E?oc=5",
@@ -947,32 +995,6 @@
       "localUrl": "/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-      "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
-      "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
-      "publishedAt": "2026-08-04T17:16:49.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260804-alibaba-just-gave-away-its-best-ai-model-for-free-almost-matching-claude-and-cha",
-      "localUrl": "/news/20260804-alibaba-just-gave-away-its-best-ai-model-for-free-almost-matching-claude-and-cha.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
-      "summary": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
-      "url": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
-      "publishedAt": "2026-08-04T16:43:46.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260804-hashdex-to-shut-down-bitcoin-etf-after-struggling-to-gain-assets",
-      "localUrl": "/news/20260804-hashdex-to-shut-down-bitcoin-etf-after-struggling-to-gain-assets.html"
-    },
-    {
       "source": "X Wire",
       "title": "The next leg upwards for #Bitcoin will be to the $85,000 area. That's where the 50-Week MA currently lies and that's what I'm expecting to see as the next hurdle to take. I don't think we'll dive deeper as much for #Bitcoin as of yet, as most of the pain (90-95%) of - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRWJzNUw3cXcxbHJ1Q0h1azVIVVpVUmhsU2h1MmhFbWdIRjNaV21fbjBZbERJaWpoYW5vaEVXeklVbFl2YnNEb0VhNUQ4bUJsRjVYTkM5X0ttSlY3Si1IbXcwZw?oc=5\" target=\"_blank\">The next leg upwards for #Bitcoi…",
@@ -1040,17 +1062,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin Red Team Update: We have been working around the clock, with ~$20,000 of spend up to this point across different services. Funding is secured, I appreciate all the gestures for donations but it is not necessary. The bill is taken care of. We have done o - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5\" target=\"_blank\">Bitcoin Red Team Update: We have been work…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5",
-      "publishedAt": "2026-08-04T06:14:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen",
-      "localUrl": "/news/20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🇳🇬 JUST IN: Nigeria's tax authority issues new guidelines making crypto profits, staking rewards, and airdrops officially taxable under the country's tax laws. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5\" target=\"_blank\">🇳🇬 JUST IN: Nigeria's tax aut…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5",
@@ -1070,17 +1081,6 @@
       "category": "X热点",
       "slug": "20260804-crypto-trading-activity-is-declining-daily-trading-volume-across-the-44-spot-cry",
       "localUrl": "/news/20260804-crypto-trading-activity-is-declining-daily-trading-volume-across-the-44-spot-cry.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "1 in 4 Americans hold crypto - and passing CLARITY is a priority for them. American voters are 2x more likely to support a candidate that backs CLARITY (vs those less likely), regardless of party preference. So the stakes are high for Senate leadership. CLARIT - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fd0hJSlJ6QWJOSjdGYlZyVzh3LXA4WE1CalQ0VnViUjFJOHpuZE1QYWtIaURmbEhNa1RnRmFhUWhIampoMjVqenl4RjhjdWxNLUxhbUtMNlpQRUFDclF2QkRpdkRWbUE?oc=5\" target=\"_blank\">1 in 4 Americans hold crypt…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fd0hJSlJ6QWJOSjdGYlZyVzh3LXA4WE1CalQ0VnViUjFJOHpuZE1QYWtIaURmbEhNa1RnRmFhUWhIampoMjVqenl4RjhjdWxNLUxhbUtMNlpQRUFDclF2QkRpdkRWbUE?oc=5",
-      "publishedAt": "2026-08-03T19:01:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-1-in-4-americans-hold-crypto-and-passing-clarity-is-a-priority-for-them-american",
-      "localUrl": "/news/20260803-1-in-4-americans-hold-crypto-and-passing-clarity-is-a-priority-for-them-american.html"
     },
     {
       "source": "X Wire",
