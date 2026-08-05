@@ -1,7 +1,237 @@
 {
-  "updatedAt": "2026-08-05T12:11:39.437Z",
-  "total": 81,
+  "updatedAt": "2026-08-05T15:24:05.488Z",
+  "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Putting the bitcoin sizing question to the test",
+      "summary": "In a follow-up to his essay on sizing crypto risk, Lionsoul Global's Gregory Mall backtests bitcoin in a 60/40 across bull, bear and sideways regimes, showing how a straight bitcoin position, a large-cap basket and a trend-managed sleeve p…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/05/crypto-long-and-short-putting-the-bitcoin-sizing-question-to-the-test",
+      "publishedAt": "2026-08-05T15:03:19.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "Crypto Long & Short",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260805-crypto-long-short-putting-the-bitcoin-sizing-question-to-the-test",
+      "localUrl": "/news/20260805-crypto-long-short-putting-the-bitcoin-sizing-question-to-the-test.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Gold hits six-week highs on China demand as Bitcoin ignores fresh S&P 500 record",
+      "summary": "Gold and US stocks stole the limelight on Wednesday as Bitcoin failed to gain significantly beyond $64,000.",
+      "url": "https://cointelegraph.com/markets/gold-hits-six-week-highs-on-china-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T15:02:16.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260805-gold-hits-six-week-highs-on-china-demand-as-bitcoin-ignores-fresh-sp-500-record",
+      "localUrl": "/news/20260805-gold-hits-six-week-highs-on-china-demand-as-bitcoin-ignores-fresh-sp-500-record.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy’s STRC rebounds 30% as company builds cash reserve, bitcoin price stabilizes",
+      "summary": "Bitcoin sales, what is now a $4 billion cash reserve, and a $975 million repurchase program, have supported STRC’s recovery.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/strategy-s-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabilizes",
+      "publishedAt": "2026-08-05T14:44:30.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260805-strategys-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabiliz",
+      "localUrl": "/news/20260805-strategys-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabiliz.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
+      "summary": "Bitcoin, Ethereum and XRP whales increased balances during market weakness, as CryptoQuant said large holders are absorbing supply ahead of a possible bottom.",
+      "url": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T14:08:27.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260805-crypto-whales-accumulate-as-bear-market-nears-late-stage-cryptoquant",
+      "localUrl": "/news/20260805-crypto-whales-accumulate-as-bear-market-nears-late-stage-cryptoquant.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Chainalysis Supports Cronos with Automatic Token Support",
+      "summary": "Chainalysis is excited to announce support for Cronos, an EVM-compatible Layer 1 blockchain. Cronos Network is a purpose-built settlement layer… The post Chainalysis Supports Cronos with Automatic Token Support appeared first on Chainalysi…",
+      "url": "https://www.chainalysis.com/blog/cronos-automatic-token-support/",
+      "publishedAt": "2026-08-05T14:00:27.000Z",
+      "keywords": [
+        "Company News",
+        "Automatic Token Support",
+        "Chainalysis KYT",
+        "Chainalysis Reactor",
+        "Cronos",
+        "Ecosystem",
+        "EVM",
+        "Layer 1"
+      ],
+      "category": "综合",
+      "slug": "20260805-chainalysis-supports-cronos-with-automatic-token-support",
+      "localUrl": "/news/20260805-chainalysis-supports-cronos-with-automatic-token-support.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
+      "summary": "The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Here’s the details you need to know before you entrust Ledger, Trezor or Foundation with your Bitcoin.",
+      "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "监管",
+      "slug": "20260805-do-the-coldcard-attacks-mean-all-hardware-wallets-are-now-insecure",
+      "localUrl": "/news/20260805-do-the-coldcard-attacks-mean-all-hardware-wallets-are-now-insecure.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
+      "summary": "Laser’s investment in ZIGChain is understood to be in the single-digit millions.",
+      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+      "publishedAt": "2026-08-05T13:25:04.000Z",
+      "keywords": [
+        "Finance",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260805-nomuras-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+      "localUrl": "/news/20260805-nomuras-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Galaxy reports $85M net loss amid Q2 crypto market slump",
+      "summary": "Galaxy Digital reported an $85 million net loss driven by falling digital asset prices and $8.7 billion in revenue that missed Wall Street estimates.",
+      "url": "https://cointelegraph.com/news/galaxy-85m-loss-q2-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T13:20:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260805-galaxy-reports-85m-net-loss-amid-q2-crypto-market-slump",
+      "localUrl": "/news/20260805-galaxy-reports-85m-net-loss-amid-q2-crypto-market-slump.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T13:20:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260805-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260805-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
+      "summary": "The more institutional crypto becomes, the more it prices on headlines. The edge now is reading the positioning data underneath, not reacting to the narrative on top.",
+      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260805-crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
+      "localUrl": "/news/20260805-crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
+      "summary": "The tokenized-assets firm appointed ex-Blockchain.com and Monashee executive as finance chief as it expands its onchain capital markets business.",
+      "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "ondo finance",
+        "Exclusive",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260805-ondo-finance-hires-former-blockchaincom-cfo-adam-schlisman",
+      "localUrl": "/news/20260805-ondo-finance-hires-former-blockchaincom-cfo-adam-schlisman.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
+      "summary": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers through the payment processing giant’s Crypto Credential framework.",
+      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260805-mastercard-borderless-test-shared-identity-checks-for-stablecoin-transfers",
+      "localUrl": "/news/20260805-mastercard-borderless-test-shared-identity-checks-for-stablecoin-transfers.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+      "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
+      "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+      "publishedAt": "2026-08-05T12:47:57.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260805-anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+      "localUrl": "/news/20260805-anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Galaxy Digital shares slip 5% after second-quarter results",
+      "summary": "Helios produced data-center revenue for the first time with Phase I expected to generate about $80 million quarterly from Q3.",
+      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
+      "publishedAt": "2026-08-05T12:42:19.000Z",
+      "keywords": [
+        "Finance",
+        "Galaxy Digital",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-galaxy-digital-shares-slip-5-after-second-quarter-results",
+      "localUrl": "/news/20260805-galaxy-digital-shares-slip-5-after-second-quarter-results.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
+      "summary": "Eliza Labs founder Shaw Walters said the ELIZAOS foundation is closing and that holders should sell, ending the token that replaced AI16Z after a lawsuit, a rebrand and a 97% crash.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
+      "publishedAt": "2026-08-05T12:28:39.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-ai-agent-token-once-worth-24-billion-ends-with-founder-calling-it-dead",
+      "localUrl": "/news/20260805-ai-agent-token-once-worth-24-billion-ends-with-founder-calling-it-dead.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
+      "summary": "The company reported no BTC sales in the second quarter, but shares fell before the open as investors focused on capital spending, free cash flow pressure and a looming insider lockup expiry.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
+      "publishedAt": "2026-08-05T12:12:08.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260805-spacex-extends-decline-to-11-on-lockup-expiration-and-capex-spending-fears",
+      "localUrl": "/news/20260805-spacex-extends-decline-to-11-on-lockup-expiration-and-capex-spending-fears.html"
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears",
@@ -87,8 +317,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Circle shares jump as earnings beat offsets revenue miss, Arc blockchain gains Wall Street backing",
-      "summary": "Shares jumped 10% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc.",
+      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+      "summary": "Shares initially jumped 10% but later fell 3% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc but missed on revenue.",
       "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
       "publishedAt": "2026-08-05T11:13:17.000Z",
       "keywords": [
@@ -97,8 +327,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260805-circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wa",
-      "localUrl": "/news/20260805-circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wa.html"
+      "slug": "20260805-circle-shares-fall-3-despite-earnings-beat-as-stablecoin-issuer-misses-on-revenu",
+      "localUrl": "/news/20260805-circle-shares-fall-3-despite-earnings-beat-as-stablecoin-issuer-misses-on-revenu.html"
     },
     {
       "source": "CoinDesk",
@@ -151,6 +381,7 @@
         "Markets",
         "Bitcoin News",
         "Custody",
+        "Coldcard",
         "News"
       ],
       "category": "监管",
@@ -227,7 +458,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: An AI credit bubble could set up bitcoin’s path to $1 million",
+      "title": "Live updates: An AI credit bubble could set up bitcoin’s path to $1 million, says Arthur Hayes",
       "summary": "Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending will eventually crack, forcing government bailouts and money printing that become the next major bitcoin catalyst.",
       "url": "https://www.coindesk.com/markets/2026/08/05/live-updates-an-ai-credit-bubble-could-set-up-bitcoin-s-path-to-usd1-million",
       "publishedAt": "2026-08-05T09:00:20.000Z",
@@ -237,8 +468,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million",
-      "localUrl": "/news/20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million.html"
+      "slug": "20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million-says-ar",
+      "localUrl": "/news/20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million-says-ar.html"
     },
     {
       "source": "Cointelegraph",
@@ -381,19 +612,6 @@
       "localUrl": "/news/20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T05:56:55.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260805-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
       "summary": "The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.",
@@ -407,19 +625,6 @@
       "category": "基础设施",
       "slug": "20260805-new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi",
       "localUrl": "/news/20260805-new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CLARITY or not, crypto isn’t going back in the bottle: Bitwise",
-      "summary": "Matt Hougan argues that regulatory guidance from the SEC and CFTC would keep the industry moving even if Congress fails to pass landmark market structure legislation this year.",
-      "url": "https://cointelegraph.com/news/clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T05:47:42.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise",
-      "localUrl": "/news/20260805-clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise.html"
     },
     {
       "source": "CoinDesk",
@@ -451,19 +656,6 @@
       "localUrl": "/news/20260805-bitcoin-flat-at-64000-as-stocks-print-records-and-hormuz-deal-nears.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bybit’s EU payments arm secures Austrian e-money license",
-      "summary": "Bybit’s Austrian payments subsidiary gained regulatory approval to develop card, merchant, open-banking and person-to-person payment services.",
-      "url": "https://cointelegraph.com/news/bybit-austria-electronic-money-license-europe-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T04:03:16.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-bybits-eu-payments-arm-secures-austrian-e-money-license",
-      "localUrl": "/news/20260805-bybits-eu-payments-arm-secures-austrian-e-money-license.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 TODAY: Bitwise CIO Matt Hougan outlines why crypto will keep advancing even if the Clarity Act fails to pass this week. He pointed to SEC Chair Atkins' readiness to act and the industry's growing momentum regardless of Congress. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rU25na3hYTGVwaWtUeVcwUV9fNmJwQ1VfOThmYU5SR0RHNl9tOWdDVWRFWWNoWF9WWDd0QjRxQ29Ub0NxQTNwR1ZPMFVFTGZVNElWZ0I5Unl2R25oSUs2eGtJQ1Y?oc=5\" target=\"_blank\">🇺🇸 TODAY: Bitwise CIO Matt Ho…",
@@ -475,17 +667,17 @@
       "localUrl": "/news/20260805-today-bitwise-cio-matt-hougan-outlines-why-crypto-will-keep-advancing-even-if-th.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum researchers want to rein in staking; critics say it could backfire",
-      "summary": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
-      "url": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T02:30:07.000Z",
+      "source": "Ethereum Blog",
+      "title": "Announcing a Trillion Dollar Security grant for WEBCAT",
+      "summary": "The Ethereum Foundation’s Trillion Dollar Security (1TS) initiative is proud to announce a grant allocation to Freedom of the Press Foundation (FPF) to support the continued development of WEBCAT. WEBCAT is an open source tool that lets br…",
+      "url": "https://blog.ethereum.org/en/2026/08/05/1ts-grant",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
       "keywords": [
-        "Latest News"
+        "Funding Coordination"
       ],
-      "category": "基础设施",
-      "slug": "20260805-ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire",
-      "localUrl": "/news/20260805-ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire.html"
+      "category": "监管",
+      "slug": "20260805-announcing-a-trillion-dollar-security-grant-for-webcat",
+      "localUrl": "/news/20260805-announcing-a-trillion-dollar-security-grant-for-webcat.html"
     },
     {
       "source": "Decrypt",
@@ -594,19 +786,6 @@
       "localUrl": "/news/20260804-spacex-tops-wall-street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdi.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T19:58:48.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260804-us-uk-reaffirm-support-for-stablecoins-tokenization-in-joint-financial-regulatio",
-      "localUrl": "/news/20260804-us-uk-reaffirm-support-for-stablecoins-tokenization-in-joint-financial-regulatio.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
       "summary": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
@@ -633,22 +812,15 @@
       "localUrl": "/news/20260804-solana-proposal-would-increase-daily-sol-burns-more-than-10-fold.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
-      "summary": "Executives at Coinbase, Visa and Mastercard said they plan to support multiple stablecoins, suggesting Open USD is another payments rail rather than a direct replacement for USDC.",
-      "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
-      "publishedAt": "2026-08-04T17:55:23.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Coinbase",
-        "Mastercard",
-        "Circle",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260804-open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc",
-      "localUrl": "/news/20260804-open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc.html"
+      "source": "X Wire",
+      "title": "This is so disappointing on every level. EIP released with 48 hours notice for comments. Realistically 4 months before it goes live. For a major network economics change with far reaching implications for all of DeFi. Every builder on Ethereum opposes this. Wh - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed0FscVBDTFRocjR1YW5RQ1RsaURlNnVNb1hXaDZtZ2p1ZGlGMVhEMDRnTWVOY1JMc2Iwam1JMHNpSy1xZzBQY0lzS0ZTeXBRVjZ0eXVtRmY4LU9vSDdsS0p1QXY?oc=5\" target=\"_blank\">This is so disappointing on eve…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ed0FscVBDTFRocjR1YW5RQ1RsaURlNnVNb1hXaDZtZ2p1ZGlGMVhEMDRnTWVOY1JMc2Iwam1JMHNpSy1xZzBQY0lzS0ZTeXBRVjZ0eXVtRmY4LU9vSDdsS0p1QXY?oc=5",
+      "publishedAt": "2026-08-04T18:08:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-this-is-so-disappointing-on-every-level-eip-released-with-48-hours-notice-for-co",
+      "localUrl": "/news/20260804-this-is-so-disappointing-on-every-level-eip-released-with-48-hours-notice-for-co.html"
     },
     {
       "source": "Decrypt",
@@ -664,36 +836,6 @@
       "localUrl": "/news/20260804-alibaba-just-gave-away-its-best-ai-model-for-free-almost-matching-claude-and-cha.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-      "summary": "Samsung seeks to turn 800 million Galaxy phones into wallets for digital assets and blockchain payments, backed by a deeper play in crypto infrastructure.",
-      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-      "publishedAt": "2026-08-04T17:14:13.000Z",
-      "keywords": [
-        "Finance",
-        "South Korea",
-        "Mobile Apps",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260804-samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-      "localUrl": "/news/20260804-samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BNY to offer institutional crypto staking through Galaxy partnership",
-      "summary": "The custody giant is expanding beyond safekeeping by adding staking services, allowing eligible institutional clients to earn yield on proof-of-stake assets.",
-      "url": "https://cointelegraph.com/news/bny-galaxy-institutional-crypto-staking-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T17:10:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-bny-to-offer-institutional-crypto-staking-through-galaxy-partnership",
-      "localUrl": "/news/20260804-bny-to-offer-institutional-crypto-staking-through-galaxy-partnership.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
       "summary": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
@@ -707,23 +849,6 @@
       "localUrl": "/news/20260804-hashdex-to-shut-down-bitcoin-etf-after-struggling-to-gain-assets.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-      "summary": "Senators Elizabeth Warren and Richard Blumenthal requested the U.S. Securities and Exchange Commission probe Trump's memecoin.",
-      "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
-      "publishedAt": "2026-08-04T16:21:59.000Z",
-      "keywords": [
-        "Policy",
-        "Donald Trump",
-        "Memecoin",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260804-clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investiga",
-      "localUrl": "/news/20260804-clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investiga.html"
-    },
-    {
       "source": "X Wire",
       "title": "The next leg upwards for #Bitcoin will be to the $85,000 area. That's where the 50-Week MA currently lies and that's what I'm expecting to see as the next hurdle to take. I don't think we'll dive deeper as much for #Bitcoin as of yet, as most of the pain (90-95%) of - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRWJzNUw3cXcxbHJ1Q0h1azVIVVpVUmhsU2h1MmhFbWdIRjNaV21fbjBZbERJaWpoYW5vaEVXeklVbFl2YnNEb0VhNUQ4bUJsRjVYTkM5X0ttSlY3Si1IbXcwZw?oc=5\" target=\"_blank\">The next leg upwards for #Bitcoi…",
@@ -733,23 +858,6 @@
       "category": "X热点",
       "slug": "20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we",
       "localUrl": "/news/20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street’s settlement rails",
-      "summary": "Payments will run on the bank’s proprietary blockchain and be routed automatically through its existing client interface.",
-      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
-      "publishedAt": "2026-08-04T15:47:05.000Z",
-      "keywords": [
-        "Finance",
-        "banks",
-        "Tokenization",
-        "tokenized deposits",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260804-wells-fargo-joins-jpmorgan-and-citi-in-the-race-to-tokenize-wall-streets-settlem",
-      "localUrl": "/news/20260804-wells-fargo-joins-jpmorgan-and-citi-in-the-race-to-tokenize-wall-streets-settlem.html"
     },
     {
       "source": "X Wire",
@@ -763,68 +871,6 @@
       "localUrl": "/news/20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s $63,000 zone emerges as key battleground for buyers: Glassnode",
-      "summary": "Retail investors and large whales are buying as bitcoin trades near its 200-week moving average.",
-      "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-s-usd63-000-zone-emerges-as-key-battleground-for-buyers-glassnode",
-      "publishedAt": "2026-08-04T14:49:33.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260804-bitcoins-63000-zone-emerges-as-key-battleground-for-buyers-glassnode",
-      "localUrl": "/news/20260804-bitcoins-63000-zone-emerges-as-key-battleground-for-buyers-glassnode.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-      "summary": "The blockchain-based prediction markets platform is reportedly returning to investors months after a $15 billion funding round.",
-      "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-      "publishedAt": "2026-08-04T14:38:23.000Z",
-      "keywords": [
-        "Markets",
-        "Polymarket",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260804-polymarket-targets-20-billion-valuation-as-competition-heats-up-in-prediction-ma",
-      "localUrl": "/news/20260804-polymarket-targets-20-billion-valuation-as-competition-heats-up-in-prediction-ma.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-      "summary": "The Italian bank tripled its holding of iShares Staked Ethereum Trust ETF stake as total bitcoin ETF holdings fell 35% to $69.3 million.",
-      "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-      "publishedAt": "2026-08-04T14:25:50.000Z",
-      "keywords": [
-        "Finance",
-        "ETFs",
-        "Crypto News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260804-intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-cryp",
-      "localUrl": "/news/20260804-intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-cryp.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "summary": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
-      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-      "publishedAt": "2026-08-04T14:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up",
-      "localUrl": "/news/20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
       "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
@@ -836,17 +882,6 @@
       "category": "监管",
       "slug": "20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
       "localUrl": "/news/20260804-apples-ai-slop-problem-left-a-200k-macos-exploit-unreported.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: World's largest custodian bank, BNY Mellon, to launch crypto staking. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5\" target=\"_blank\">JUST IN: World's largest custodian…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkeTljZXhCRDNvdXEwcmNINTR4ZHRSSlZWVDQtekpKZXhhdmtoLWNfcWZ0eTAwMlhqMVR2Sk9zVGZSM1FydWcwRnh3YUQ0T2hrekFSaE5qLU9ocmVuRi1SZWpR?oc=5",
-      "publishedAt": "2026-08-04T13:35:42.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom",
-      "localUrl": "/news/20260804-just-in-worlds-largest-custodian-bank-bny-mellon-to-launch-crypto-staking-xcom.html"
     },
     {
       "source": "X Wire",
@@ -882,6 +917,17 @@
       "category": "市场",
       "slug": "20260804-morning-minute-saylor-sells-bitcoin-again",
       "localUrl": "/news/20260804-morning-minute-saylor-sells-bitcoin-again.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "News: BlackRock brings its European money market funds onto Ethereum. BlackRock is tokenizing share classes of its European Institutional Cash Series money market funds, representing $311 billion in assets as of June 30. The onchain share classes are is - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5\" target=\"_blank\">News: BlackRock brings its Euro…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXeTZuc1ktc0xnWVo2U2FidkJOemNfXzhMMzl2NEhoRy1hdkpndVg2UnlEVC13RThwU2ZsVTRvc0ZSQ2Fkd3NsOTBQamJ3TXU3LVFqdFoxZENKS0hXX2MzUTVua0Y?oc=5",
+      "publishedAt": "2026-08-04T12:25:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is",
+      "localUrl": "/news/20260804-news-blackrock-brings-its-european-money-market-funds-onto-ethereum-blackrock-is.html"
     },
     {
       "source": "Decrypt",
@@ -946,17 +992,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Coinbase to Shift Institutional Clients to Deribit, World’s Largest Crypto Options Exchange Coinbase plans to migrate institutional clients’ International Exchange accounts, balances and positions to Deribit on September 9, with trading expected to pause for ab - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxdXQ5aVdlUkU1Y2VWd2N1bkM1eENsY09rSE5pSWRXRGFEZ1hoS0x0WmJSVUthUVUzY1YtbFRwNHRBdFlNdXBWc09pZHNkcXA1UUtMaHo0MnQxT000cHNidUJISQ?oc=5\" target=\"_blank\">Coinbase to Shift Institutional …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxdXQ5aVdlUkU1Y2VWd2N1bkM1eENsY09rSE5pSWRXRGFEZ1hoS0x0WmJSVUthUVUzY1YtbFRwNHRBdFlNdXBWc09pZHNkcXA1UUtMaHo0MnQxT000cHNidUJISQ?oc=5",
-      "publishedAt": "2026-08-04T07:57:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-coinbase-to-shift-institutional-clients-to-deribit-worlds-largest-crypto-options",
-      "localUrl": "/news/20260804-coinbase-to-shift-institutional-clients-to-deribit-worlds-largest-crypto-options.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin Red Team Update: We have been working around the clock, with ~$20,000 of spend up to this point across different services. Funding is secured, I appreciate all the gestures for donations but it is not necessary. The bill is taken care of. We have done o - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5\" target=\"_blank\">Bitcoin Red Team Update: We have been work…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5",
@@ -1011,19 +1046,6 @@
       "category": "基础设施",
       "slug": "20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too",
       "localUrl": "/news/20260803-marmot-researchers-turn-to-onlyfans-for-fundingand-there-are-meme-coins-too.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
-      "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
-      "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
-      "publishedAt": "2026-08-03T21:17:06.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat",
-      "localUrl": "/news/20260803-former-fbi-agent-charged-with-stealing-nearly-1-million-in-crypto-and-using-chat.html"
     },
     {
       "source": "X Wire",
