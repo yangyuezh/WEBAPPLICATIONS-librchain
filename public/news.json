@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-04T23:15:55.896Z",
+  "updatedAt": "2026-08-05T03:28:00.350Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
+      "summary": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
+      "url": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-05T02:30:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260805-ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire",
+      "localUrl": "/news/20260805-ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire.html"
+    },
     {
       "source": "Decrypt",
       "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
@@ -254,6 +267,17 @@
       "localUrl": "/news/20260804-clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investiga.html"
     },
     {
+      "source": "X Wire",
+      "title": "The next leg upwards for #Bitcoin will be to the $85,000 area. That's where the 50-Week MA currently lies and that's what I'm expecting to see as the next hurdle to take. I don't think we'll dive deeper as much for #Bitcoin as of yet, as most of the pain (90-95%) of - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRWJzNUw3cXcxbHJ1Q0h1azVIVVpVUmhsU2h1MmhFbWdIRjNaV21fbjBZbERJaWpoYW5vaEVXeklVbFl2YnNEb0VhNUQ4bUJsRjVYTkM5X0ttSlY3Si1IbXcwZw?oc=5\" target=\"_blank\">The next leg upwards for #Bitcoi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRWJzNUw3cXcxbHJ1Q0h1azVIVVpVUmhsU2h1MmhFbWdIRjNaV21fbjBZbERJaWpoYW5vaEVXeklVbFl2YnNEb0VhNUQ4bUJsRjVYTkM5X0ttSlY3Si1IbXcwZw?oc=5",
+      "publishedAt": "2026-08-04T16:02:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we",
+      "localUrl": "/news/20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitdeer expands AI infrastructure with long-term $4.7B data center lease",
       "summary": "A 16-year agreement secures 121 megawatts of AI computing capacity in Norway, highlighting how crypto mining companies continue to pursue new revenue streams beyond Bitcoin.",
@@ -282,6 +306,17 @@
       "category": "基础设施",
       "slug": "20260804-wells-fargo-joins-jpmorgan-and-citi-in-the-race-to-tokenize-wall-streets-settlem",
       "localUrl": "/news/20260804-wells-fargo-joins-jpmorgan-and-citi-in-the-race-to-tokenize-wall-streets-settlem.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Unfortunately this proposal doesn't achieve the outcome it tries to achieve and is actually hurtful for Ethereum. It caps Ethereum staking rewards to 0% when over 50% of supply staked. What this mean is that Ethereum staking yield becomes unpredictable and - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwanAxLTVUZmhHUEsxZUhZVVFwWXFiMnQ0Y0g2bllCYzRyVnFBeFp5RVhUQk8wV3JEVG1ZT0FrR3E1WEdFYWRPa0RoTWRTNzJtZC1sZENLTVBSUTRpZXo2N3lpLXI?oc=5\" target=\"_blank\">Unfortunately this proposal doe…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwanAxLTVUZmhHUEsxZUhZVVFwWXFiMnQ0Y0g2bllCYzRyVnFBeFp5RVhUQk8wV3JEVG1ZT0FrR3E1WEdFYWRPa0RoTWRTNzJtZC1sZENLTVBSUTRpZXo2N3lpLXI?oc=5",
+      "publishedAt": "2026-08-04T15:46:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i",
+      "localUrl": "/news/20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i.html"
     },
     {
       "source": "CoinDesk",
@@ -344,17 +379,6 @@
       "localUrl": "/news/20260804-intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-cryp.html"
     },
     {
-      "source": "X Wire",
-      "title": "Kinda crazy so many people are just unaware that AI stocks have done 10-20-50x in the past year, or since April in some cases and have just been in crypto oblivious to everything else. Although, I trade both. I just hadn't been much into crypto the past year but - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVQUdnbnNnRG1xeWMtNFVXVkt0eGZvaWFFQXJTMEI0SDZ2ZVVoQ0IweUduaUpidFNZd1JmTjZZYTJQQjEzUnBNNzFTN2RIOS1sOXQ0T2U2WGl3aE10dlE?oc=5\" target=\"_blank\">Kinda crazy so many people are just una…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVQUdnbnNnRG1xeWMtNFVXVkt0eGZvaWFFQXJTMEI0SDZ2ZVVoQ0IweUduaUpidFNZd1JmTjZZYTJQQjEzUnBNNzFTN2RIOS1sOXQ0T2U2WGl3aE10dlE?oc=5",
-      "publishedAt": "2026-08-04T14:12:42.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-kinda-crazy-so-many-people-are-just-unaware-that-ai-stocks-have-done-10-20-50x-i",
-      "localUrl": "/news/20260804-kinda-crazy-so-many-people-are-just-unaware-that-ai-stocks-have-done-10-20-50x-i.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
       "summary": "The move brings the custodial tokenization model to eligible U.S. investors as competition over blockchain-based equities intensifies.",
@@ -368,17 +392,6 @@
       "category": "RWA",
       "slug": "20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up",
       "localUrl": "/news/20260804-dinari-brings-tokenized-us-stocks-to-american-investors-as-equity-race-heats-up.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 New EIP: Tapered Issuance Burn We just submitted an EIP to ethereum/EIPs: a minimal, market-driven fix to Ethereum's issuance policy removing the incentive for stake growth beyond 50% of ETH supply. EIP-8361 by @pintail_xyz, @jdetychey, @dapplion, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZmd5SkRtZVBIeHFhR1loWDRlaFhjbThTeWpzX1I4a1FvYy10Mzd0MXh2RzZtc211dDFsTGEwT2pmdG1CdlBXQjh5cGFPczBrTHc5b3FvRjZVbmhneHZn?oc=5\" target=\"_blank\">🚨 New EIP: Tapered Issuance Burn We j…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yZmd5SkRtZVBIeHFhR1loWDRlaFhjbThTeWpzX1I4a1FvYy10Mzd0MXh2RzZtc211dDFsTGEwT2pmdG1CdlBXQjh5cGFPczBrTHc5b3FvRjZVbmhneHZn?oc=5",
-      "publishedAt": "2026-08-04T13:53:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-new-eip-tapered-issuance-burn-we-just-submitted-an-eip-to-ethereumeips-a-minimal",
-      "localUrl": "/news/20260804-new-eip-tapered-issuance-burn-we-just-submitted-an-eip-to-ethereumeips-a-minimal.html"
     },
     {
       "source": "Decrypt",
@@ -814,6 +827,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bitcoin Red Team Update: We have been working around the clock, with ~$20,000 of spend up to this point across different services. Funding is secured, I appreciate all the gestures for donations but it is not necessary. The bill is taken care of. We have done o - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5\" target=\"_blank\">Bitcoin Red Team Update: We have been work…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5",
+      "publishedAt": "2026-08-04T06:14:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen",
+      "localUrl": "/news/20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🇳🇬 JUST IN: Nigeria's tax authority issues new guidelines making crypto profits, staking rewards, and airdrops officially taxable under the country's tax laws. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5\" target=\"_blank\">🇳🇬 JUST IN: Nigeria's tax aut…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KdGxIX3E4NGIwY3JGNHVpanFsSU9KcWpvYVg5T0lRZTRDU1N1ZVJfU05oWVJoSGVwY3RYcVlrVjVGbHJZOUtUY2VYSG9mQmZoakZ5TmV6UXJKT0tmcnJRekFDUmQ?oc=5",
@@ -859,19 +883,6 @@
       "category": "X热点",
       "slug": "20260804-coldcard-flaw-cost-ai-just-2-to-find-dragonflys-qureshi-says-dragonfly-managing-",
       "localUrl": "/news/20260804-coldcard-flaw-cost-ai-just-2-to-find-dragonflys-qureshi-says-dragonfly-managing-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitmine adds $19.6M in ETH, repurchases 4.5M shares",
-      "summary": "Bitmine said it now holds about 4.8% of Ether’s circulating supply as it pursues its 5% acquisition target.",
-      "url": "https://cointelegraph.com/news/bitmine-buys-10399-eth-repurchases-4-5-million-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-04T03:52:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260804-bitmine-adds-196m-in-eth-repurchases-45m-shares",
-      "localUrl": "/news/20260804-bitmine-adds-196m-in-eth-repurchases-45m-shares.html"
     },
     {
       "source": "X Wire",
@@ -982,17 +993,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Jim Cramer has said he's reportedly selling all his Bitcoin, per CoinDesk - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xcXRnRnBaX2lhTjhKdUlIRGIxY1lvZVZaZnBUcU1zdVdmLVVPUjRsUTB5TTJCNjFUc0Q1S00tY2hYMWIwb2dGcFVaaHZzVWNDcGY3QzNXTS1sS0k0MkpkbVNuaEpCQQ?oc=5\" target=\"_blank\">JUST IN: Jim Cramer has said…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xcXRnRnBaX2lhTjhKdUlIRGIxY1lvZVZaZnBUcU1zdVdmLVVPUjRsUTB5TTJCNjFUc0Q1S00tY2hYMWIwb2dGcFVaaHZzVWNDcGY3QzNXTS1sS0k0MkpkbVNuaEpCQQ?oc=5",
-      "publishedAt": "2026-08-03T18:22:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260803-just-in-jim-cramer-has-said-hes-reportedly-selling-all-his-bitcoin-per-coindesk-",
-      "localUrl": "/news/20260803-just-in-jim-cramer-has-said-hes-reportedly-selling-all-his-bitcoin-per-coindesk-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Jim Cramer says, “I’m going to sell my bitcoin” 🤣 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRWxPRWxVSWxFbXJqYzhFRFNNTGU2WUV1TkRRS1NnRU05N3dhTjNjT0syRzR1ZDJVQmlQR3lfSC1kRm1QenZtRU1DbllsNkJFLTU0bFVicGNqQi1IcHpkTFVWVTRtdw?oc=5\" target=\"_blank\">Jim Cramer says, “I’m going …",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRWxPRWxVSWxFbXJqYzhFRFNNTGU2WUV1TkRRS1NnRU05N3dhTjNjT0syRzR1ZDJVQmlQR3lfSC1kRm1QenZtRU1DbllsNkJFLTU0bFVicGNqQi1IcHpkTFVWVTRtdw?oc=5",
@@ -1061,14 +1061,14 @@
     },
     {
       "source": "X Wire",
-      "title": "career advice for people trying to break into crypto: - go to events, but skip the lines to talk to \"top\" folks. toly is a genuinely open and helpful dude, but he has 10,000 people in line to talk to him. instead find the \"head of ___\" person at the protocols you like. they - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUVdyN3RzaTVTdXA3VjNuRzJsazdMV0RST1V0bEUwWEh0eFBESm5zSWxqZjhqeVVUdk1TQXRmT2txWjFXY0pnblN5VjBhTE5RWE9GWnRMcndRSm1zaVNzbA?oc=5\" target=\"_blank\">career advice for people trying to b…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uUVdyN3RzaTVTdXA3VjNuRzJsazdMV0RST1V0bEUwWEh0eFBESm5zSWxqZjhqeVVUdk1TQXRmT2txWjFXY0pnblN5VjBhTE5RWE9GWnRMcndRSm1zaVNzbA?oc=5",
-      "publishedAt": "2026-08-03T06:59:16.000Z",
+      "title": "$MSTR - STRATEGY SELLS 1,638 BITCOIN, BOOSTS CASH RESERVE Strategy raised $290.6M by selling 3.01M shares through its ATM program. The company allocated $250M to its USD Reserve, $28.9M to STRC share repurchases and $11.7M to cash. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS 1,638 BITCOIN, B…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfb0VGdTlCMG1BVHdQUkxlWHRIU3FwS1RoZnhMOHFUVDJLTm1TM195cElrLWRKQzdGSXJiZnJGTXBsU2Rham93VVRLZnNac1pEanMybGdYUFlFYWk4c2c?oc=5",
+      "publishedAt": "2026-08-03T12:12:55.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l",
-      "localUrl": "/news/20260803-career-advice-for-people-trying-to-break-into-crypto-go-to-events-but-skip-the-l.html"
+      "slug": "20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se",
+      "localUrl": "/news/20260803-mstr-strategy-sells-1638-bitcoin-boosts-cash-reserve-strategy-raised-2906m-by-se.html"
     }
   ]
 }
