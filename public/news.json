@@ -1,7 +1,174 @@
 {
-  "updatedAt": "2026-08-06T12:15:13.206Z",
-  "total": 85,
+  "updatedAt": "2026-08-06T15:24:45.620Z",
+  "total": 87,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
+      "summary": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
+      "publishedAt": "2026-08-06T15:07:00.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "Crypto for Advisors",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260806-crypto-for-advisors-europes-crypto-rules-us-preview",
+      "localUrl": "/news/20260806-crypto-for-advisors-europes-crypto-rules-us-preview.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Penlink Plugs Into Trusted Blockchain Data With Chainalysis",
+      "summary": "Penlink, a leader in AI-powered digital intelligence, and Chainalysis, the blockchain data platform, this week announced a strategic partnership and… The post Penlink Plugs Into Trusted Blockchain Data With Chainalysis appeared first on Ch…",
+      "url": "https://www.chainalysis.com/blog/penlink-integration-blockchain-intelligence-august-2026/",
+      "publishedAt": "2026-08-06T14:22:56.000Z",
+      "keywords": [
+        "Company News",
+        "blockchain intelligence",
+        "Company Announcement",
+        "Partnership",
+        "Penlink"
+      ],
+      "category": "综合",
+      "slug": "20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis",
+      "localUrl": "/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Step App winds down after four years as FITFI token sinks",
+      "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
+      "url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T13:52:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260806-step-app-winds-down-after-four-years-as-fitfi-token-sinks",
+      "localUrl": "/news/20260806-step-app-winds-down-after-four-years-as-fitfi-token-sinks.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+      "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+      "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "publishedAt": "2026-08-06T13:34:07.000Z",
+      "keywords": [
+        "Technology Guides"
+      ],
+      "category": "综合",
+      "slug": "20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+      "localUrl": "/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "10 weirdest things ever tokenized... including farts",
+      "summary": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
+      "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "RWA",
+      "slug": "20260806-10-weirdest-things-ever-tokenized-including-farts",
+      "localUrl": "/news/20260806-10-weirdest-things-ever-tokenized-including-farts.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T13:02:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260806-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260806-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+      "summary": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
+      "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals",
+      "localUrl": "/news/20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+      "summary": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
+      "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T12:55:44.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260806-hyperliquid-rwa-contracts-grow-to-32-of-trading-activity-in-q2",
+      "localUrl": "/news/20260806-hyperliquid-rwa-contracts-grow-to-32-of-trading-activity-in-q2.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
+      "summary": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
+      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "publishedAt": "2026-08-06T12:46:42.000Z",
+      "keywords": [
+        "Markets",
+        "Hyperliquid",
+        "ETFs",
+        "JPMorgan",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260806-jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "localUrl": "/news/20260806-jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+      "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
+      "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+      "publishedAt": "2026-08-06T12:46:19.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260806-scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+      "localUrl": "/news/20260806-scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+      "summary": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
+      "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+      "publishedAt": "2026-08-06T12:28:46.000Z",
+      "keywords": [
+        "uniswap",
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+      "localUrl": "/news/20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+      "summary": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
+      "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T12:11:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260806-zeus-wallet-taken-offline-after-cyberattack-says-no-customer-funds-at-risk",
+      "localUrl": "/news/20260806-zeus-wallet-taken-offline-after-cyberattack-says-no-customer-funds-at-risk.html"
+    },
     {
       "source": "Decrypt",
       "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
@@ -14,6 +181,25 @@
       "category": "综合",
       "slug": "20260806-crypto-wrench-attacks-on-pace-for-record-year-as-30m-stolen-in-2026-chainalysis",
       "localUrl": "/news/20260806-crypto-wrench-attacks-on-pace-for-record-year-as-30m-stolen-in-2026-chainalysis.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
+      "summary": "Summary Annual value stolen in violent attacks peaked at $58 million in 2025, the highest on record, with 2026 already… The post Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot appeared f…",
+      "url": "https://www.chainalysis.com/blog/violent-crypto-wrench-attacks-2026/",
+      "publishedAt": "2026-08-06T12:00:41.000Z",
+      "keywords": [
+        "Crime",
+        "Best Practices",
+        "Crypto crime",
+        "Home Invasions",
+        "Kidnappings",
+        "Stolen funds",
+        "Wrench Attacks"
+      ],
+      "category": "综合",
+      "slug": "20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-",
+      "localUrl": "/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html"
     },
     {
       "source": "Cointelegraph",
@@ -225,7 +411,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: BTC trades near $65,000; SpaceX rises ahead of $100 billion unlock",
+      "title": "Live updates: BTC holding just above $64,000 ahead of Friday's key jobs data",
       "summary": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
       "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
       "publishedAt": "2026-08-06T07:26:23.000Z",
@@ -235,8 +421,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260806-live-updates-btc-trades-near-65000-spacex-rises-ahead-of-100-billion-unlock",
-      "localUrl": "/news/20260806-live-updates-btc-trades-near-65000-spacex-rises-ahead-of-100-billion-unlock.html"
+      "slug": "20260806-live-updates-btc-holding-just-above-64000-ahead-of-fridays-key-jobs-data",
+      "localUrl": "/news/20260806-live-updates-btc-holding-just-above-64000-ahead-of-fridays-key-jobs-data.html"
     },
     {
       "source": "CoinDesk",
@@ -267,7 +453,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+      "title": "S&P 500 added all of crypto's $2 trillion market cap in a month while bitcoin barely moved. Here's why",
       "summary": "The S&P 500 just added roughly the entire crypto market's value this month. Bitcoin has barely moved, and the reasons go beyond the obvious.",
       "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
       "publishedAt": "2026-08-06T06:10:43.000Z",
@@ -277,8 +463,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260806-sp-500-has-added-cryptos-2-trillion-market-cap-this-month-bitcoin-is-not-impress",
-      "localUrl": "/news/20260806-sp-500-has-added-cryptos-2-trillion-market-cap-this-month-bitcoin-is-not-impress.html"
+      "slug": "20260806-sp-500-added-all-of-cryptos-2-trillion-market-cap-in-a-month-while-bitcoin-barel",
+      "localUrl": "/news/20260806-sp-500-added-all-of-cryptos-2-trillion-market-cap-in-a-month-while-bitcoin-barel.html"
     },
     {
       "source": "Cointelegraph",
@@ -294,17 +480,15 @@
       "localUrl": "/news/20260806-eu-watchdogs-warn-of-impersonation-scams-amid-mica-licensing-shakeout.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "X Wire",
+      "title": "🚨 NEW: The Ethereum Foundation's Trillion Dollar Security initiative granted funding to support continued development of WEBCAT. It aims to close a front-end security gap that puts Ethereum wallets and apps at risk. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE90YnduMldLQnhhb3hLWUI3Vk0xTnZWUjlaZ1pOS0c5cS1uVnFLd0o1QUx5VUdtLUc2SWhkRkEyZE1JSVJHVC1lNlgtZDB6MzVJS1M5bmpveHBYMDdfd0NqVnFzVVk?oc=5\" target=\"_blank\">🚨 NEW: The Ethereum Foundation…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90YnduMldLQnhhb3hLWUI3Vk0xTnZWUjlaZ1pOS0c5cS1uVnFLd0o1QUx5VUdtLUc2SWhkRkEyZE1JSVJHVC1lNlgtZDB6MzVJS1M5bmpveHBYMDdfd0NqVnFzVVk?oc=5",
       "publishedAt": "2026-08-06T06:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260806-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260806-heres-what-happened-in-crypto-today.html"
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-new-the-ethereum-foundations-trillion-dollar-security-initiative-granted-funding",
+      "localUrl": "/news/20260806-new-the-ethereum-foundations-trillion-dollar-security-initiative-granted-funding.html"
     },
     {
       "source": "Cointelegraph",
@@ -345,6 +529,17 @@
       "category": "市场",
       "slug": "20260806-bitcoin-steadies-above-64000-as-traders-watch-100-billion-spacex-unlock",
       "localUrl": "/news/20260806-bitcoin-steadies-above-64000-as-traders-watch-100-billion-spacex-unlock.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 CLARITY ACT PASSAGE JUST BECAME ALMOST IMPOSSIBLE. Wednesday's cloture filing did not include the CLARITY Act, meaning the standard Senate process no longer allows a Friday vote. The only remaining paths would be unanimous Senate cons - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE44dWEwLUtJUnVxajRTclY1WUNLbk5OUk11XzVMZHhqd1dzRUVCbUxPOXBoQjZPdDhKck02aGVfWWFmMERaNHYwRTNsU1pqamE5M1o4Vi1obVYxS00waUVpWGlB?oc=5\" target=\"_blank\">🚨 CLARITY ACT PASSAGE JUST BECAME…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44dWEwLUtJUnVxajRTclY1WUNLbk5OUk11XzVMZHhqd1dzRUVCbUxPOXBoQjZPdDhKck02aGVfWWFmMERaNHYwRTNsU1pqamE5M1o4Vi1obVYxS00waUVpWGlB?oc=5",
+      "publishedAt": "2026-08-06T04:49:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-clarity-act-passage-just-became-almost-impossible-wednesdays-cloture-filing-did-",
+      "localUrl": "/news/20260806-clarity-act-passage-just-became-almost-impossible-wednesdays-cloture-filing-did-.html"
     },
     {
       "source": "CoinDesk",
@@ -416,32 +611,6 @@
       "localUrl": "/news/20260806-block-raises-2026-outlook-on-strong-quarter-says-ai-touches-nearly-all-code.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Mysten Labs tech chief joins Anthropic to work on AI security",
-      "summary": "Mysten Labs’ co-founder Sam Blackshear said he is joining Anthropic as AI shifts the balance between attackers and defenders.",
-      "url": "https://cointelegraph.com/news/mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T01:31:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260806-mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security",
-      "localUrl": "/news/20260806-mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
-      "summary": "“There’s a lot of chaos right now in the ecosystem. We absolutely understand that many people are being bombarded with security issues right now,” said Bitcoin developer Calle.",
-      "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T01:09:06.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260806-bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit",
-      "localUrl": "/news/20260806-bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit.html"
-    },
-    {
       "source": "X Wire",
       "title": "$64,603.23 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE51SndGUTR0T0hFUjlRQ21NSzAxc2Ria1JGcWl5LUZaZzVLZlhfVDVpNlNoLUFtODJlWWx4SldQeldCdjliR05fV3JoR3dtN3dVRmVSaUlKWndYdFd4?oc=5\" target=\"_blank\">$64,603.23 #Bitcoin</a> <font color=\"#6f6f…",
@@ -493,19 +662,6 @@
       "localUrl": "/news/20260805-meta-debuts-ai-coding-agent-muse-heres-how-it-compares-to-claude-code-and-codex.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Senator Warren questions US AI chip policy after Trump crypto investment: Report",
-      "summary": "The lawmaker reportedly sent a letter to the Commerce Secretary demanding answers about the administration’s treatment of the UAE following investments in the Trump family’s crypto company.",
-      "url": "https://cointelegraph.com/news/senator-warren-us-policy-uae-ai-chips-trump-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T21:15:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-senator-warren-questions-us-ai-chip-policy-after-trump-crypto-investment-report",
-      "localUrl": "/news/20260805-senator-warren-questions-us-ai-chip-policy-after-trump-crypto-investment-report.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
       "summary": "The release targets developers building autonomous apps and workflows on Cloudflare's edge—a clear bet on agent infrastructure.",
@@ -532,6 +688,17 @@
       "localUrl": "/news/20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senator Tillis tells says the White House is now engaging on bipartisan Clarity Act ethics text, Punchbowl News reports. “We’ve got people working with the White House right now…they're going through some of the lines right now” 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MOGNZeGJvVmxHYTFCM21RMmNLTmFjMHhSQ0V3ZzU4TUxSR0tvRlcyQURXaFhBbks1ekt2NEI4WWlBR2JSb0YtOTZadThXLTJiQ3dQOW90NjZGc3h1elBINGlUSFc1bzA?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senator Tilli…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MOGNZeGJvVmxHYTFCM21RMmNLTmFjMHhSQ0V3ZzU4TUxSR0tvRlcyQURXaFhBbks1ekt2NEI4WWlBR2JSb0YtOTZadThXLTJiQ3dQOW90NjZGc3h1elBINGlUSFc1bzA?oc=5",
+      "publishedAt": "2026-08-05T20:10:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-just-in-senator-tillis-tells-says-the-white-house-is-now-engaging-on-bipartisan-",
+      "localUrl": "/news/20260805-just-in-senator-tillis-tells-says-the-white-house-is-now-engaging-on-bipartisan-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
       "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
@@ -543,19 +710,6 @@
       "category": "基础设施",
       "slug": "20260805-visa-widens-stablecoin-payouts-via-zerohash-rails",
       "localUrl": "/news/20260805-visa-widens-stablecoin-payouts-via-zerohash-rails.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Senator Lummis still pushing for CLARITY vote before August recess",
-      "summary": "US lawmakers have only a few days to hold a vote on a crypto market structure bill before a recess begins that could push consideration into the 2026 election season or beyond.",
-      "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T19:18:24.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-senator-lummis-still-pushing-for-clarity-vote-before-august-recess",
-      "localUrl": "/news/20260805-senator-lummis-still-pushing-for-clarity-vote-before-august-recess.html"
     },
     {
       "source": "Decrypt",
@@ -580,19 +734,6 @@
       "category": "基础设施",
       "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
       "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Marex invests in Digital Prime to expand institutional crypto lending",
-      "summary": "The undisclosed investment will support the development of Tokenet, a digital asset lending platform, as institutional demand for crypto infrastructure continues to grow.",
-      "url": "https://cointelegraph.com/news/marex-digital-prime-tokenet-institutional-crypto-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T18:53:47.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260805-marex-invests-in-digital-prime-to-expand-institutional-crypto-lending",
-      "localUrl": "/news/20260805-marex-invests-in-digital-prime-to-expand-institutional-crypto-lending.html"
     },
     {
       "source": "Decrypt",
@@ -786,45 +927,6 @@
       "localUrl": "/news/20260805-arc-mainnet-launches-september-16-arc-is-an-open-blockchain-network-being-built-.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Senate has 2 days to pass the Crypto Clarity Act before leaving for summer recess. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTG9udnFtNUtuLUxaSE1SR21ZVF96aTE4Vlg3cXJjSnpCQkMyRFRRYlF2ekpsUHJ0cjl2WjJWc19rb2MwZUUtdlZQckNxb1M0SEtLblp3aVBoWHVId2VNWGp3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate has 2 days to…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTG9udnFtNUtuLUxaSE1SR21ZVF96aTE4Vlg3cXJjSnpCQkMyRFRRYlF2ekpsUHJ0cjl2WjJWc19rb2MwZUUtdlZQckNxb1M0SEtLblp3aVBoWHVId2VNWGp3?oc=5",
-      "publishedAt": "2026-08-05T13:28:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-just-in-senate-has-2-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ",
-      "localUrl": "/news/20260805-just-in-senate-has-2-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-      "summary": "Laser’s investment in ZIGChain is understood to be in the single-digit millions.",
-      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-      "publishedAt": "2026-08-05T13:25:04.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260805-nomuras-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-      "localUrl": "/news/20260805-nomuras-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
-      "summary": "The more institutional crypto becomes, the more it prices on headlines. The edge now is reading the positioning data underneath, not reacting to the narrative on top.",
-      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260805-crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
-      "localUrl": "/news/20260805-crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
       "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
@@ -922,17 +1024,6 @@
     },
     {
       "source": "X Wire",
-      "title": "How much money do you need to go full-time in crypto? Different for everyone, of course, but what's your number? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5\" target=\"_blank\">How much money do you need to go full-t…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5",
-      "publishedAt": "2026-08-05T08:08:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-how-much-money-do-you-need-to-go-full-time-in-crypto-different-for-everyone-of-c",
-      "localUrl": "/news/20260805-how-much-money-do-you-need-to-go-full-time-in-crypto-different-for-everyone-of-c.html"
-    },
-    {
-      "source": "X Wire",
       "title": "NEW: Former LAPD officer Eric Halem was sentenced to life plus 15 years over $350K crypto home invasion robbery, the L.A. Times reports. Halem was convicted in March of kidnapping and robbing a teenager of a hard drive containing bitcoin during a fake p - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE01U1poV1hyNEtNVjdGY3pqeWlrY3NmSzU1T2kwYm9TRk94VURRRXh1aUxfejUyQk8tdjhjT05Ga1UwR0NqMEpQOUJUdkdzcDNKVzF5YmJ3S0RzQTlMWTBFSA?oc=5\" target=\"_blank\">NEW: Former LAPD officer Eric Halem …",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01U1poV1hyNEtNVjdGY3pqeWlrY3NmSzU1T2kwYm9TRk94VURRRXh1aUxfejUyQk8tdjhjT05Ga1UwR0NqMEpQOUJUdkdzcDNKVzF5YmJ3S0RzQTlMWTBFSA?oc=5",
@@ -941,6 +1032,17 @@
       "category": "X热点",
       "slug": "20260805-new-former-lapd-officer-eric-halem-was-sentenced-to-life-plus-15-years-over-350k",
       "localUrl": "/news/20260805-new-former-lapd-officer-eric-halem-was-sentenced-to-life-plus-15-years-over-350k.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 NEW: Ethereum researchers, including the Foundation's Justin Drake, have proposed EIP-8363 to cut validator rewards as ETH's staking ratio nears 50%. However, critics warn it could force out solo stakers and hurt DeFi yields. cointelegraph.com/news/ethe - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BLWpWRkZXOGJ5ZHo0c3p0MTRxdzdtSFZFSFBTeG1lNFYzR2V3TjQ3RGtrcFBjU0hnU3hFZzhDR2p0WFd0YlZyazNfZmFBNWVIQkxYNHZXY1hfMllYWTFkNTlZRDI?oc=5\" target=\"_blank\">🚨 NEW: Ethereum researchers, i…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BLWpWRkZXOGJ5ZHo0c3p0MTRxdzdtSFZFSFBTeG1lNFYzR2V3TjQ3RGtrcFBjU0hnU3hFZzhDR2p0WFd0YlZyazNfZmFBNWVIQkxYNHZXY1hfMllYWTFkNTlZRDI?oc=5",
+      "publishedAt": "2026-08-05T06:20:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-new-ethereum-researchers-including-the-foundations-justin-drake-have-proposed-ei",
+      "localUrl": "/news/20260805-new-ethereum-researchers-including-the-foundations-justin-drake-have-proposed-ei.html"
     },
     {
       "source": "X Wire",
@@ -1015,45 +1117,6 @@
       "localUrl": "/news/20260804-ai-enthusiast-bugs-his-toddlers-sleepover-and-feeds-it-to-claudethe-internet-bug.html"
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-      "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-      "publishedAt": "2026-08-04T21:46:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260804-openai-dumps-apple-employees-text-messages-to-fight-trade-secret-suit",
-      "localUrl": "/news/20260804-openai-dumps-apple-employees-text-messages-to-fight-trade-secret-suit.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-      "summary": "Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.",
-      "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
-      "publishedAt": "2026-08-04T21:16:03.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260804-ledger-says-coldcard-exploit-shows-bitcoin-wallet-security-must-adapt-to-ai",
-      "localUrl": "/news/20260804-ledger-says-coldcard-exploit-shows-bitcoin-wallet-security-must-adapt-to-ai.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
-      "summary": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
-      "url": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
-      "publishedAt": "2026-08-04T20:45:18.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled",
-      "localUrl": "/news/20260804-jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled.html"
-    },
-    {
       "source": "X Wire",
       "title": "Unfortunately this proposal doesn't achieve the outcome it tries to achieve and is actually hurtful for Ethereum. It caps Ethereum staking rewards to 0% when over 50% of supply staked. What this mean is that Ethereum staking yield becomes unpredictable and - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwanAxLTVUZmhHUEsxZUhZVVFwWXFiMnQ0Y0g2bllCYzRyVnFBeFp5RVhUQk8wV3JEVG1ZT0FrR3E1WEdFYWRPa0RoTWRTNzJtZC1sZENLTVBSUTRpZXo2N3lpLXI?oc=5\" target=\"_blank\">Unfortunately this proposal doe…",
@@ -1065,17 +1128,6 @@
       "localUrl": "/news/20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i.html"
     },
     {
-      "source": "X Wire",
-      "title": "NEW: @BitGo (NYSE: BTGO) migrates $7.7B+ Wrapped Bitcoin (WBTC) to Chainlink CCIP. After a rigorous review, BitGo deprecated its legacy bridging provider & chose CCIP as its exclusive cross-chain infra given it’s the only solution that meets institutional - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5\" target=\"_blank\">NEW: @BitGo (NYSE: BTGO) migrates $7.7…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xYWN0N2cxdjVZUXJaM012Zmd5ZllFMG8xelI0SktJRC1jcE5CdDBJeGc0eG1lYmFfcG12ZGhKbHp6eW9nUktwdFAzZnlPVWpkVmJCTENkelh0aFQwWlVr?oc=5",
-      "publishedAt": "2026-08-04T13:19:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-new-bitgo-nyse-btgo-migrates-77b-wrapped-bitcoin-wbtc-to-chainlink-ccip-after-a-",
-      "localUrl": "/news/20260804-new-bitgo-nyse-btgo-migrates-77b-wrapped-bitcoin-wbtc-to-chainlink-ccip-after-a-.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Breakpoint 2026: The Token Supercycle",
       "summary": "The last cycle was built on software and cheap money. This one is built from steel, silicon, and energy; and the tokens moving the capital behind it. Speaker applications are now live for Breakpoint 2026:",
@@ -1085,17 +1137,6 @@
       "category": "基础设施",
       "slug": "20260804-breakpoint-2026-the-token-supercycle",
       "localUrl": "/news/20260804-breakpoint-2026-the-token-supercycle.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin Red Team Update: We have been working around the clock, with ~$20,000 of spend up to this point across different services. Funding is secured, I appreciate all the gestures for donations but it is not necessary. The bill is taken care of. We have done o - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5\" target=\"_blank\">Bitcoin Red Team Update: We have been work…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96LXp6S1BHODRNdXc4aENXc1hHRWhmN0R0T3Nxd21FbzhqcmZSRUhtdlR1bWZKZEpzMU9tRnZUdDJPZW40eTBGelpFX1hueHNzbEQyeEJTY0ZTQXN3?oc=5",
-      "publishedAt": "2026-08-04T06:14:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen",
-      "localUrl": "/news/20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen.html"
     },
     {
       "source": "X Wire",
