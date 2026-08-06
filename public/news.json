@@ -1,7 +1,116 @@
 {
-  "updatedAt": "2026-08-06T06:42:15.081Z",
-  "total": 84,
+  "updatedAt": "2026-08-06T09:48:05.938Z",
+  "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
+      "summary": "A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
+      "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
+      "publishedAt": "2026-08-06T09:43:34.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260806-bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
+      "localUrl": "/news/20260806-bitcoin-ai-security-audit-files-4962-findings-across-390-projects.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
+      "summary": "Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.",
+      "url": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T09:28:20.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260806-rwas-buck-defi-slowdown-as-tokenized-assets-gain-traction-coinshares",
+      "localUrl": "/news/20260806-rwas-buck-defi-slowdown-as-tokenized-assets-gain-traction-coinshares.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
+      "summary": "Federal prosecutors say Taj Tarsha misled backers and used investor funds for personal expenses.",
+      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
+      "publishedAt": "2026-08-06T09:19:03.000Z",
+      "keywords": [
+        "Policy",
+        "Crypto News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260806-nft-startup-founder-charged-with-misusing-funds-from-10-million-fundraising",
+      "localUrl": "/news/20260806-nft-startup-founder-charged-with-misusing-funds-from-10-million-fundraising.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
+      "summary": "JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.",
+      "url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T08:44:43.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260806-yen-stablecoin-issuer-jpycs-series-b-reaches-38m",
+      "localUrl": "/news/20260806-yen-stablecoin-issuer-jpycs-series-b-reaches-38m.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin-backed loan refinances PowerCompute’s $18M debt at 2%",
+      "summary": "Nasdaq-listed PowerCompute refinanced $18 million of debt through a Bitcoin-backed facility carrying an initial interest rate of about 2%.",
+      "url": "https://cointelegraph.com/news/bitcoin-collateral-cuts-powercompute-debt-rate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T07:56:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260806-bitcoin-backed-loan-refinances-powercomputes-18m-debt-at-2",
+      "localUrl": "/news/20260806-bitcoin-backed-loan-refinances-powercomputes-18m-debt-at-2.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Coinbase lets UK users trade U.S. equities. BTC trades near $65,000",
+      "summary": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
+      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
+      "publishedAt": "2026-08-06T07:26:23.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "DeFi",
+      "slug": "20260806-live-updates-coinbase-lets-uk-users-trade-us-equities-btc-trades-near-65000",
+      "localUrl": "/news/20260806-live-updates-coinbase-lets-uk-users-trade-us-equities-btc-trades-near-65000.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
+      "summary": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
+      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+      "publishedAt": "2026-08-06T07:14:11.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260806-bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
+      "localUrl": "/news/20260806-bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
+      "summary": "US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T06:57:31.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260806-bitcoin-etfs-pull-in-244m-3-day-inflow-streak-tops-626m",
+      "localUrl": "/news/20260806-bitcoin-etfs-pull-in-244m-3-day-inflow-streak-tops-626m.html"
+    },
     {
       "source": "CoinDesk",
       "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
@@ -401,17 +510,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨CRASH: $650,000,000,000 wiped from US stocks in the last 2 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZXA0ci1KYnZDQjlvWmJlbnY3TWFQeERlbS01YnBDMUlTT1RCNW50V0djVmllTU5fellmWFYwajAzOG05Wi1uNzlMUjRqSUI3Um1EdmVqZk5pRHhpR2NjbWJ3?oc=5\" target=\"_blank\">🚨CRASH: $650,000,000,000 wiped fr…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZXA0ci1KYnZDQjlvWmJlbnY3TWFQeERlbS01YnBDMUlTT1RCNW50V0djVmllTU5fellmWFYwajAzOG05Wi1uNzlMUjRqSUI3Um1EdmVqZk5pRHhpR2NjbWJ3?oc=5",
-      "publishedAt": "2026-08-05T16:21:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-crash-650000000000-wiped-from-us-stocks-in-the-last-2-hours-xcom",
-      "localUrl": "/news/20260805-crash-650000000000-wiped-from-us-stocks-in-the-last-2-hours-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "0/ As AI systems become more powerful, formal verification – which is the discipline of using mathematics to prove computer programs correct – shows more and more promise. A guest thread by @big_tech_sux, lead developer of @vyperlang 🧵 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN0NDYzYzLWZJMUFZYmZxU2NqbUJ4QnRqSEM1bzhDaXFSNEZQY0FueE5PalVHV3paSnM1bXBId0ZLZUZENVpoRnRRNkdUdkt3Q2JrSWt0b3JpZmhlTUE?oc=5\" target=\"_blank\">0/ As AI systems become more powerful, …",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN0NDYzYzLWZJMUFZYmZxU2NqbUJ4QnRqSEM1bzhDaXFSNEZQY0FueE5PalVHV3paSnM1bXBId0ZLZUZENVpoRnRRNkdUdkt3Q2JrSWt0b3JpZmhlTUE?oc=5",
@@ -520,6 +618,17 @@
       "localUrl": "/news/20260805-strategys-strc-rebounds-30-as-company-builds-cash-reserve-bitcoin-price-stabiliz.html"
     },
     {
+      "source": "X Wire",
+      "title": "Global markets broke to records while Bitcoin stood still. This edition traces that stillness: a theft the market slept through, bottom signals arriving through boredom rather than capitulation, and an options market priced for nothing while sentiment reacts to everyt - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE85djdHQjdIalZiOVlJWUg2dzdNa0NUcXVlYnR6ejB1OXRnc09nRFBOOEVtX3N6d1MxSjEtMnVEQk43dnR3RE4wY0E1WmtHcUNCUExWMFhDQ2FmLWc2N0c0?oc=5\" target=\"_blank\">Global markets broke to records while …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85djdHQjdIalZiOVlJWUg2dzdNa0NUcXVlYnR6ejB1OXRnc09nRFBOOEVtX3N6d1MxSjEtMnVEQk43dnR3RE4wY0E1WmtHcUNCUExWMFhDQ2FmLWc2N0c0?oc=5",
+      "publishedAt": "2026-08-05T14:08:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-global-markets-broke-to-records-while-bitcoin-stood-still-this-edition-traces-th",
+      "localUrl": "/news/20260805-global-markets-broke-to-records-while-bitcoin-stood-still-this-edition-traces-th.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
       "summary": "Bitcoin, Ethereum and XRP whales increased balances during market weakness, as CryptoQuant said large holders are absorbing supply ahead of a possible bottom.",
@@ -577,17 +686,6 @@
       "localUrl": "/news/20260805-do-the-coldcard-attacks-mean-all-hardware-wallets-are-now-insecure.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Senate has 2 days to pass the Crypto Clarity Act before leaving for summer recess. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTG9udnFtNUtuLUxaSE1SR21ZVF96aTE4Vlg3cXJjSnpCQkMyRFRRYlF2ekpsUHJ0cjl2WjJWc19rb2MwZUUtdlZQckNxb1M0SEtLblp3aVBoWHVId2VNWGp3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate has 2 days to…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uTG9udnFtNUtuLUxaSE1SR21ZVF96aTE4Vlg3cXJjSnpCQkMyRFRRYlF2ekpsUHJ0cjl2WjJWc19rb2MwZUUtdlZQckNxb1M0SEtLblp3aVBoWHVId2VNWGp3?oc=5",
-      "publishedAt": "2026-08-05T13:28:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-just-in-senate-has-2-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ",
-      "localUrl": "/news/20260805-just-in-senate-has-2-days-to-pass-the-crypto-clarity-act-before-leaving-for-summ.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Nomura’s Laser Digital backs ZIGChain for onchain private credit push in UAE",
       "summary": "Laser’s investment in ZIGChain is understood to be in the single-digit millions.",
@@ -600,19 +698,6 @@
       "category": "综合",
       "slug": "20260805-nomuras-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
       "localUrl": "/news/20260805-nomuras-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Galaxy reports $85M net loss amid Q2 crypto market slump",
-      "summary": "Galaxy Digital reported an $85 million net loss driven by falling digital asset prices and $8.7 billion in revenue that missed Wall Street estimates.",
-      "url": "https://cointelegraph.com/news/galaxy-85m-loss-q2-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T13:20:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260805-galaxy-reports-85m-net-loss-amid-q2-crypto-market-slump",
-      "localUrl": "/news/20260805-galaxy-reports-85m-net-loss-amid-q2-crypto-market-slump.html"
     },
     {
       "source": "CoinDesk",
@@ -644,19 +729,6 @@
       "category": "RWA",
       "slug": "20260805-ondo-finance-hires-former-blockchaincom-cfo-adam-schlisman",
       "localUrl": "/news/20260805-ondo-finance-hires-former-blockchaincom-cfo-adam-schlisman.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
-      "summary": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers through the payment processing giant’s Crypto Credential framework.",
-      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260805-mastercard-borderless-test-shared-identity-checks-for-stablecoin-transfers",
-      "localUrl": "/news/20260805-mastercard-borderless-test-shared-identity-checks-for-stablecoin-transfers.html"
     },
     {
       "source": "Decrypt",
@@ -755,32 +827,6 @@
       "localUrl": "/news/20260805-yellow-card-raises-40-million-to-link-banks-to-stablecoin-processing.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance sues RedotPay over alleged $473 million user losses: Report",
-      "summary": "Binance-linked companies sued RedotPay, accusing it of diverting more than 470,000 Binance Card users under a commercial deal and seeking nearly $473 million in damages.",
-      "url": "https://cointelegraph.com/news/binance-redotpay-lawsuit-alleged-473-million-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T12:01:31.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260805-binance-sues-redotpay-over-alleged-473-million-user-losses-report",
-      "localUrl": "/news/20260805-binance-sues-redotpay-over-alleged-473-million-user-losses-report.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Circle Q2 revenue falls short of Wall Street estimates",
-      "summary": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 million.",
-      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T11:48:38.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260805-circle-q2-revenue-falls-short-of-wall-street-estimates",
-      "localUrl": "/news/20260805-circle-q2-revenue-falls-short-of-wall-street-estimates.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
       "summary": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
@@ -794,51 +840,6 @@
       "localUrl": "/news/20260805-ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The $120 million Coldcard hack lights up Bitcoin's memory pool",
-      "summary": "Your day-ahead look for Aug. 5, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/05/the-usd120-million-coldcard-hack-lights-up-bitcoin-s-memory-pool",
-      "publishedAt": "2026-08-05T11:20:58.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260805-the-120-million-coldcard-hack-lights-up-bitcoins-memory-pool",
-      "localUrl": "/news/20260805-the-120-million-coldcard-hack-lights-up-bitcoins-memory-pool.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "summary": "Shares initially jumped 10% but later fell 3% in pre-market trading as the stablecoin issuer revealed institutional adoption for its layer 1 blockchain Arc but missed on revenue.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
-      "publishedAt": "2026-08-05T11:13:17.000Z",
-      "keywords": [
-        "Markets",
-        "Circle",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260805-circle-shares-fall-3-despite-earnings-beat-as-stablecoin-issuer-misses-on-revenu",
-      "localUrl": "/news/20260805-circle-shares-fall-3-despite-earnings-beat-as-stablecoin-issuer-misses-on-revenu.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, broader market fail to keep pace as global equities hit record highs",
-      "summary": "Derivatives data show subdued activity in bitcoin and ether but aggressive positioning in select altcoins.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
-      "publishedAt": "2026-08-05T11:01:15.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260805-bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs",
-      "localUrl": "/news/20260805-bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
       "summary": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
@@ -850,6 +851,17 @@
       "category": "监管",
       "slug": "20260805-ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
       "localUrl": "/news/20260805-ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery.html"
+    },
+    {
+      "source": "Solana Blog",
+      "title": "Solana Ecosystem Roundup: July 2026",
+      "summary": "Tokenized equities expanded, real-world assets hit $3.73B, payments reached 330,000+ merchants, and block capacity increased 66% in a milestone month.",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-july-2026",
+      "publishedAt": "2026-08-05T09:33:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260805-solana-ecosystem-roundup-july-2026",
+      "localUrl": "/news/20260805-solana-ecosystem-roundup-july-2026.html"
     },
     {
       "source": "X Wire",
@@ -883,6 +895,17 @@
       "category": "X热点",
       "slug": "20260805-latest-sec-commissioner-hester-peirce-says-crypto-regulatory-reform-will-move-fo",
       "localUrl": "/news/20260805-latest-sec-commissioner-hester-peirce-says-crypto-regulatory-reform-will-move-fo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: Former LAPD officer Eric Halem was sentenced to life plus 15 years over $350K crypto home invasion robbery, the L.A. Times reports. Halem was convicted in March of kidnapping and robbing a teenager of a hard drive containing bitcoin during a fake p - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE01U1poV1hyNEtNVjdGY3pqeWlrY3NmSzU1T2kwYm9TRk94VURRRXh1aUxfejUyQk8tdjhjT05Ga1UwR0NqMEpQOUJUdkdzcDNKVzF5YmJ3S0RzQTlMWTBFSA?oc=5\" target=\"_blank\">NEW: Former LAPD officer Eric Halem …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01U1poV1hyNEtNVjdGY3pqeWlrY3NmSzU1T2kwYm9TRk94VURRRXh1aUxfejUyQk8tdjhjT05Ga1UwR0NqMEpQOUJUdkdzcDNKVzF5YmJ3S0RzQTlMWTBFSA?oc=5",
+      "publishedAt": "2026-08-05T06:51:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-new-former-lapd-officer-eric-halem-was-sentenced-to-life-plus-15-years-over-350k",
+      "localUrl": "/news/20260805-new-former-lapd-officer-eric-halem-was-sentenced-to-life-plus-15-years-over-350k.html"
     },
     {
       "source": "X Wire",
@@ -1029,19 +1052,6 @@
       "category": "综合",
       "slug": "20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year",
       "localUrl": "/news/20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
-      "summary": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
-      "url": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
-      "publishedAt": "2026-08-04T19:11:36.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m",
-      "localUrl": "/news/20260804-coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m.html"
     },
     {
       "source": "X Wire",
