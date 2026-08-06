@@ -1,7 +1,144 @@
 {
-  "updatedAt": "2026-08-06T03:31:35.202Z",
+  "updatedAt": "2026-08-06T06:42:15.081Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "S&P 500 has added crypto's $2 trillion market cap this month. Bitcoin is not impressed. Here's why",
+      "summary": "The S&P 500 just added roughly the entire crypto market's value this month. Bitcoin has barely moved, and the reasons go beyond the obvious.",
+      "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
+      "publishedAt": "2026-08-06T06:10:43.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260806-sp-500-has-added-cryptos-2-trillion-market-cap-this-month-bitcoin-is-not-impress",
+      "localUrl": "/news/20260806-sp-500-has-added-cryptos-2-trillion-market-cap-this-month-bitcoin-is-not-impress.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
+      "summary": "Criminals are reportedly using fake websites and falsified documents to target customers searching for licensed crypto providers.",
+      "url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T06:07:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260806-eu-watchdogs-warn-of-impersonation-scams-amid-mica-licensing-shakeout",
+      "localUrl": "/news/20260806-eu-watchdogs-warn-of-impersonation-scams-amid-mica-licensing-shakeout.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T06:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260806-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260806-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed’s Cook says she’d support rate hike if disinflation stalls",
+      "summary": "Federal Reserve Governor Lisa Cook said she is “prepared to act” if inflation remains too high above the Fed’s target rate.",
+      "url": "https://cointelegraph.com/markets/feds-cook-warns-persistent-inflation-could-prompt-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T05:44:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260806-feds-cook-says-shed-support-rate-hike-if-disinflation-stalls",
+      "localUrl": "/news/20260806-feds-cook-says-shed-support-rate-hike-if-disinflation-stalls.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ElizaOS token sinks 19% to record low after founder declares it ‘dead’",
+      "summary": "Eliza Labs founder Shaw Walters said the project transferred its remaining treasury to settle a tokenholder lawsuit and will continue building Eliza without an associated cryptocurrency.",
+      "url": "https://cointelegraph.com/markets/elizaos-token-record-low-founder-declares-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T05:08:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260806-elizaos-token-sinks-19-to-record-low-after-founder-declares-it-dead",
+      "localUrl": "/news/20260806-elizaos-token-sinks-19-to-record-low-after-founder-declares-it-dead.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
+      "summary": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
+      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
+      "publishedAt": "2026-08-06T04:59:11.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260806-bitcoin-steadies-above-64000-as-traders-watch-100-billion-spacex-unlock",
+      "localUrl": "/news/20260806-bitcoin-steadies-above-64000-as-traders-watch-100-billion-spacex-unlock.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+      "summary": "CryptoQuant said large XRP spot orders point to \"quiet accumulation\" rather than a breakout, while ether’s price below realized value leaves holders underwater and gives it the strongest valuation case among BTC, ETH and XRP.",
+      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+      "publishedAt": "2026-08-06T04:46:17.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260806-xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+      "localUrl": "/news/20260806-xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
+      "summary": "The memecoin that defined the chain's debut has recovered to an $86 million cap. Tokenized assets, the chain's stated purpose, sit at $27.6 million.",
+      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
+      "publishedAt": "2026-08-06T04:31:41.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260806-cashcat-jumps-120-in-a-week-as-robinhood-chain-hits-774-million-of-value-locked",
+      "localUrl": "/news/20260806-cashcat-jumps-120-in-a-week-as-robinhood-chain-hits-774-million-of-value-locked.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Meta latest AI firm to see model go rogue during testing",
+      "summary": "The incident reportedly stemmed from a misconfigured testing environment, adding Meta to a growing list of AI firms whose models have escaped evaluation sandboxes.",
+      "url": "https://cointelegraph.com/news/meta-latest-ai-firm-to-see-model-go-rogue-during-testing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-06T04:28:47.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260806-meta-latest-ai-firm-to-see-model-go-rogue-during-testing",
+      "localUrl": "/news/20260806-meta-latest-ai-firm-to-see-model-go-rogue-during-testing.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here are the possible outcomes for Clarity right now",
+      "summary": "The Senate has not yet indicated if it will advance the Digital Asset Market Clarity Act, and with its summer recess looming, here are the possible outcomes.",
+      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
+      "publishedAt": "2026-08-06T03:49:04.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260806-here-are-the-possible-outcomes-for-clarity-right-now",
+      "localUrl": "/news/20260806-here-are-the-possible-outcomes-for-clarity-right-now.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Block raises 2026 outlook on strong quarter, says AI touches nearly all code",
@@ -147,19 +284,6 @@
       "localUrl": "/news/20260805-senator-lummis-still-pushing-for-clarity-vote-before-august-recess.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T19:11:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260805-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260805-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
       "summary": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
@@ -274,6 +398,28 @@
       "category": "市场",
       "slug": "20260805-western-union-brings-stablecoin-remittances-to-visa-network-with-stablecard",
       "localUrl": "/news/20260805-western-union-brings-stablecoin-remittances-to-visa-network-with-stablecard.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨CRASH: $650,000,000,000 wiped from US stocks in the last 2 hours. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZXA0ci1KYnZDQjlvWmJlbnY3TWFQeERlbS01YnBDMUlTT1RCNW50V0djVmllTU5fellmWFYwajAzOG05Wi1uNzlMUjRqSUI3Um1EdmVqZk5pRHhpR2NjbWJ3?oc=5\" target=\"_blank\">🚨CRASH: $650,000,000,000 wiped fr…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZXA0ci1KYnZDQjlvWmJlbnY3TWFQeERlbS01YnBDMUlTT1RCNW50V0djVmllTU5fellmWFYwajAzOG05Wi1uNzlMUjRqSUI3Um1EdmVqZk5pRHhpR2NjbWJ3?oc=5",
+      "publishedAt": "2026-08-05T16:21:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-crash-650000000000-wiped-from-us-stocks-in-the-last-2-hours-xcom",
+      "localUrl": "/news/20260805-crash-650000000000-wiped-from-us-stocks-in-the-last-2-hours-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "0/ As AI systems become more powerful, formal verification – which is the discipline of using mathematics to prove computer programs correct – shows more and more promise. A guest thread by @big_tech_sux, lead developer of @vyperlang 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN0NDYzYzLWZJMUFZYmZxU2NqbUJ4QnRqSEM1bzhDaXFSNEZQY0FueE5PalVHV3paSnM1bXBId0ZLZUZENVpoRnRRNkdUdkt3Q2JrSWt0b3JpZmhlTUE?oc=5\" target=\"_blank\">0/ As AI systems become more powerful, …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN0NDYzYzLWZJMUFZYmZxU2NqbUJ4QnRqSEM1bzhDaXFSNEZQY0FueE5PalVHV3paSnM1bXBId0ZLZUZENVpoRnRRNkdUdkt3Q2JrSWt0b3JpZmhlTUE?oc=5",
+      "publishedAt": "2026-08-05T16:10:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-0-as-ai-systems-become-more-powerful-formal-verification-which-is-the-discipline",
+      "localUrl": "/news/20260805-0-as-ai-systems-become-more-powerful-formal-verification-which-is-the-discipline.html"
     },
     {
       "source": "CoinDesk",
@@ -693,49 +839,6 @@
       "localUrl": "/news/20260805-bitcoin-broader-market-fail-to-keep-pace-as-global-equities-hit-record-highs.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs log inflows as cold wallet hack reignites custody debate",
-      "summary": "US spot Bitcoin ETFs drew $382 million in two-day inflows, with Galaxy’s Bitcoin ETF returning to gains as the Coldcard incident renewed custody concerns.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-cold-wallet-hack-custody-debate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T10:43:05.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260805-bitcoin-etfs-log-inflows-as-cold-wallet-hack-reignites-custody-debate",
-      "localUrl": "/news/20260805-bitcoin-etfs-log-inflows-as-cold-wallet-hack-reignites-custody-debate.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "S&P gives BlackRock tokenized reserve fund top stability rating",
-      "summary": "The rating recognizes the fund’s ability to maintain a stable net asset value, while S&P separately reaffirmed USDT among the lowest-rated stablecoins under its existing assessment framework.",
-      "url": "https://cointelegraph.com/news/sp-blackrock-tokenized-reserve-fund-stability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T10:40:43.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260805-sp-gives-blackrock-tokenized-reserve-fund-top-stability-rating",
-      "localUrl": "/news/20260805-sp-gives-blackrock-tokenized-reserve-fund-top-stability-rating.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-      "summary": "The attack exposed a five-year-old firmware flaw. The industry’s rapid response is accelerating the adoption of collaborative multisig security.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-      "publishedAt": "2026-08-05T09:55:32.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Custody",
-        "Coldcard",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260805-coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-      "localUrl": "/news/20260805-coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
       "summary": "Eric Halem and his crew wore police vests to enter a Koreatown high-rise, then handcuffed a 17-year-old and took his hard drive.",
@@ -747,63 +850,6 @@
       "category": "监管",
       "slug": "20260805-ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
       "localUrl": "/news/20260805-ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price-metric basket sees longest capitulation since FTX blow-up: Glassnode",
-      "summary": "Glassnode confirmed that its aggregate BTC price cycle tool was in its coldest phase since the collapse of FTX in late 2022.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T09:40:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260805-bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnod",
-      "localUrl": "/news/20260805-bitcoin-price-metric-basket-sees-longest-capitulation-since-ftx-blow-up-glassnod.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BlackRock brings tokenized money market funds to Europe via JPMorgan",
-      "summary": "JPMorgan’s Kinexys platform will tokenize select BlackRock money market fund shares denominated in pounds, euros and US dollars.",
-      "url": "https://cointelegraph.com/news/blackrock-jpmorgan-tokenized-money-market-funds-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-05T09:24:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260805-blackrock-brings-tokenized-money-market-funds-to-europe-via-jpmorgan",
-      "localUrl": "/news/20260805-blackrock-brings-tokenized-money-market-funds-to-europe-via-jpmorgan.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why bitcoin’s ‘500-day rule’ faces its biggest test yet",
-      "summary": "The so-called ‘500-day rule’ says buying BTC roughly 500 days before a bitcoin halving and selling it about 500 days after would have produced profits in prior cycles.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/why-bitcoin-s-500-day-rule-faces-its-biggest-test-yet",
-      "publishedAt": "2026-08-05T09:06:15.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260805-why-bitcoins-500-day-rule-faces-its-biggest-test-yet",
-      "localUrl": "/news/20260805-why-bitcoins-500-day-rule-faces-its-biggest-test-yet.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: An AI credit bubble could set up bitcoin’s path to $1 million, says Arthur Hayes",
-      "summary": "Maelstrom co-founder Arthur Hayes says overleveraged AI data-center spending will eventually crack, forcing government bailouts and money printing that become the next major bitcoin catalyst.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/live-updates-an-ai-credit-bubble-could-set-up-bitcoin-s-path-to-usd1-million",
-      "publishedAt": "2026-08-05T09:00:20.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million-says-ar",
-      "localUrl": "/news/20260805-live-updates-an-ai-credit-bubble-could-set-up-bitcoins-path-to-1-million-says-ar.html"
     },
     {
       "source": "X Wire",
@@ -829,30 +875,14 @@
     },
     {
       "source": "X Wire",
-      "title": "How much money do you need to go full-time in crypto? Different for everyone, of course, but what's your number? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5\" target=\"_blank\">How much money do you need to go full-t…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xby1vWXhmWkN5cDJObkd1dGdqYUlRMTNVdmI2dzBxUHVQRUozcEtJRWctaUFpN2NRYU1ud0lpalRRT3B2c1lpLWxheFJJSE1VUGpJNnRFQUdGYi1oMmc?oc=5",
-      "publishedAt": "2026-08-05T08:08:09.000Z",
+      "title": "LATEST: 🇺🇸 SEC Commissioner Hester Peirce says crypto regulatory reform will move forward even if the CLARITY Act fails, with room under existing law to build a digital asset framework. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FbGZDdnFxRnpWNDY0QzdvZjhTbVh4WlRQejk0R3NxbjhNX1RNekdPUDN2QzNmUWNZazlseUFjYzlQX3JLbFQybnl2dlN6ZTV0Sy1NczVzQ0JMY2t4b0o2VFV3dEg?oc=5\" target=\"_blank\">LATEST: 🇺🇸 SEC Commissioner H…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FbGZDdnFxRnpWNDY0QzdvZjhTbVh4WlRQejk0R3NxbjhNX1RNekdPUDN2QzNmUWNZazlseUFjYzlQX3JLbFQybnl2dlN6ZTV0Sy1NczVzQ0JMY2t4b0o2VFV3dEg?oc=5",
+      "publishedAt": "2026-08-05T07:25:11.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260805-how-much-money-do-you-need-to-go-full-time-in-crypto-different-for-everyone-of-c",
-      "localUrl": "/news/20260805-how-much-money-do-you-need-to-go-full-time-in-crypto-different-for-everyone-of-c.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The worst chart for bitcoin bulls right now",
-      "summary": "For 14 years, one ratio moved only in bitcoin's favor. Now it has decisively turned the other way and bulls may not like what it means.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
-      "publishedAt": "2026-08-05T07:54:22.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Technical Analysis",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260805-the-worst-chart-for-bitcoin-bulls-right-now",
-      "localUrl": "/news/20260805-the-worst-chart-for-bitcoin-bulls-right-now.html"
+      "slug": "20260805-latest-sec-commissioner-hester-peirce-says-crypto-regulatory-reform-will-move-fo",
+      "localUrl": "/news/20260805-latest-sec-commissioner-hester-peirce-says-crypto-regulatory-reform-will-move-fo.html"
     },
     {
       "source": "X Wire",
@@ -864,21 +894,6 @@
       "category": "X热点",
       "slug": "20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal",
       "localUrl": "/news/20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-      "summary": "The EIP-8361 draft proposal calls for burning a rising share of validator rewards as the staking ratio climbs.",
-      "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-      "publishedAt": "2026-08-05T05:49:57.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260805-new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi",
-      "localUrl": "/news/20260805-new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi.html"
     },
     {
       "source": "X Wire",
@@ -1016,17 +1031,6 @@
       "localUrl": "/news/20260804-police-have-arrested-37-americans-over-ai-data-center-protests-this-year.html"
     },
     {
-      "source": "X Wire",
-      "title": "Ethereum has serious issues we need to handle. Both as a protocol and an ecosystem for users and developers. Issuance aint it. Everybody has already given arguments why issuance does not need to be touched. Let's spend our energy where it matters plea - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NYmRaRFBsYm41eVluMEw0T3pUZXlFankzMkZjWV9aWHdfbkxrbjd4eWhGcHQyMlZDc3Q4VlZNbm5pN29CN0c0QmZVUGVNaWMwU3REMk1yVHIwYUZJV2RLZg?oc=5\" target=\"_blank\">Ethereum has serious issues we need …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NYmRaRFBsYm41eVluMEw0T3pUZXlFankzMkZjWV9aWHdfbkxrbjd4eWhGcHQyMlZDc3Q4VlZNbm5pN29CN0c0QmZVUGVNaWMwU3REMk1yVHIwYUZJV2RLZg?oc=5",
-      "publishedAt": "2026-08-04T19:45:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-ethereum-has-serious-issues-we-need-to-handle-both-as-a-protocol-and-an-ecosyste",
-      "localUrl": "/news/20260804-ethereum-has-serious-issues-we-need-to-handle-both-as-a-protocol-and-an-ecosyste.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
       "summary": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
@@ -1060,17 +1064,6 @@
       "category": "基础设施",
       "slug": "20260804-breakpoint-2026-the-token-supercycle",
       "localUrl": "/news/20260804-breakpoint-2026-the-token-supercycle.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "INSIGHT: @cz_binance argues it may be \"statistically safer\" to store crypto on exchanges than in self-custody, citing 1.57M $BTC lost to self-custody errors vs 1.51M lost to exchange hacks. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbGVrZVNCandFU25qZXh3QUowU2hMLWFja3J1N2tMRTJkR3VYbHpnQzliOXRvbS1VQW5rcnFzS002elV4Wm4yc2VpZkZZSWtUak8zOFpGWmtNNWlTdHc?oc=5\" target=\"_blank\">INSIGHT: @cz_binance argues it may be \"…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xbGVrZVNCandFU25qZXh3QUowU2hMLWFja3J1N2tMRTJkR3VYbHpnQzliOXRvbS1VQW5rcnFzS002elV4Wm4yc2VpZkZZSWtUak8zOFpGWmtNNWlTdHc?oc=5",
-      "publishedAt": "2026-08-04T11:24:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha",
-      "localUrl": "/news/20260804-insight-cz_binance-argues-it-may-be-statistically-safer-to-store-crypto-on-excha.html"
     },
     {
       "source": "X Wire",
