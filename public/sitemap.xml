@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-05T23:15:33.112Z</lastmod>
+    <lastmod>2026-08-06T03:31:35.244Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-05T23:15:33.112Z</lastmod>
+    <lastmod>2026-08-06T03:31:35.244Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260806-block-raises-2026-outlook-on-strong-quarter-says-ai-touches-nearly-all-code.html</loc>
+    <lastmod>2026-08-06T01:33:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260806-mysten-labs-tech-chief-joins-anthropic-to-work-on-ai-security.html</loc>
+    <lastmod>2026-08-06T01:31:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260806-bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit.html</loc>
+    <lastmod>2026-08-06T01:09:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260806-6460323-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-06T00:43:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260805-crypto-firm-redotpay-says-it-will-defend-itself-vigorously-against-binance-lawsu.html</loc>
@@ -331,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260805-proof-of-play-to-shut-down-after-blockchain-gaming-thesis-falls-short.html</loc>
-    <lastmod>2026-08-05T09:10:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260805-why-bitcoins-500-day-rule-faces-its-biggest-test-yet.html</loc>
     <lastmod>2026-08-05T09:06:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -349,14 +367,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260805-forgd-brings-its-crypto-market-maker-leaderboard-to-defillama.html</loc>
-    <lastmod>2026-08-05T09:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-boerse-stuttgart-digital-tradias-close-european-crypto-merger.html</loc>
-    <lastmod>2026-08-05T08:47:24.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards.html</loc>
+    <lastmod>2026-08-05T08:53:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260805-the-worst-chart-for-bitcoin-bulls-right-now.html</loc>
     <lastmod>2026-08-05T07:54:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-new-ethereum-researchers-including-the-foundations-justin-drake-have-proposed-ei.html</loc>
-    <lastmod>2026-08-05T06:20:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +481,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260804-the-next-leg-upwards-for-bitcoin-will-be-to-the-85000-area-thats-where-the-50-we.html</loc>
-    <lastmod>2026-08-04T16:02:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260804-unfortunately-this-proposal-doesnt-achieve-the-outcome-it-tries-to-achieve-and-i.html</loc>
     <lastmod>2026-08-04T15:46:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -499,8 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260804-just-in-nigerias-tax-authority-issues-new-guidelines-making-crypto-profits-staki.html</loc>
-    <lastmod>2026-08-04T06:01:15.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260804-bitcoin-red-team-update-we-have-been-working-around-the-clock-with-20000-of-spen.html</loc>
+    <lastmod>2026-08-04T06:14:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
