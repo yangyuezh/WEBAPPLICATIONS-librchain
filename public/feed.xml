@@ -5,7 +5,7 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 07 Aug 2026 21:52:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:51:54 GMT</lastBuildDate>
     <item>
       <title>Donald Trump’s media company to terminate Crypto.com deal</title>
       <link>https://www.librchain.com/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html</link>
@@ -303,6 +303,14 @@
       <source url="https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning">CoinDesk</source>
     </item>
     <item>
+      <title>A proposal now before the Ethereum community would sharply reduce the reward for securing the network. Its odds for passing are long. Its implications are not. It would undermine DeFi, push capital off the chain, and cost ETH the yield productivity that differe - x.com</title>
+      <link>https://www.librchain.com/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5&quot; target=&quot;_blank&quot;&gt;A proposal now before the Ethereum com…</description>
+      <pubDate>Fri, 07 Aug 2026 11:54:25 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Why Bitcoin&apos;s BIP-110 refuses to die despite near-zero miner support</title>
       <link>https://www.librchain.com/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html</guid>
@@ -477,14 +485,6 @@
       <description>The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.</description>
       <pubDate>Fri, 07 Aug 2026 04:50:44 GMT</pubDate>
       <source url="https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address">CoinDesk</source>
-    </item>
-    <item>
-      <title>Bitget explores licensed crypto presence in Bhutan</title>
-      <link>https://www.librchain.com/news/20260807-bitget-explores-licensed-crypto-presence-in-bhutan.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260807-bitget-explores-licensed-crypto-presence-in-bhutan.html</guid>
-      <description>Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.</description>
-      <pubDate>Fri, 07 Aug 2026 03:22:26 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
   </channel>
 </rss>

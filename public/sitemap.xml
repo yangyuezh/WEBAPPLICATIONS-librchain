@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T21:52:05.594Z</lastmod>
+    <lastmod>2026-08-07T22:51:54.045Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T21:52:05.594Z</lastmod>
+    <lastmod>2026-08-07T22:51:54.045Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -235,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html</loc>
+    <lastmod>2026-08-07T11:54:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html</loc>
     <lastmod>2026-08-07T11:45:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-openai-reveals-how-ai-agents-secretly-coordinated-before-hugging-face-hack.html</loc>
     <lastmod>2026-08-06T18:26:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-scarce-assets-like-gold-and-bitcoin-are-crucial-in-a-global-landscape-that-is-ri.html</loc>
-    <lastmod>2026-08-06T17:58:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
