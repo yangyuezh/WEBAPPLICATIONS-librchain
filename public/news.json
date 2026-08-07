@@ -1,7 +1,131 @@
 {
-  "updatedAt": "2026-08-07T11:54:19.275Z",
+  "updatedAt": "2026-08-07T13:33:46.331Z",
   "total": 88,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+      "summary": "Gold, Treasuries and the S&P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
+      "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+      "publishedAt": "2026-08-07T13:26:19.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "DeFi",
+      "slug": "20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares",
+      "localUrl": "/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+      "summary": "Dice entropy may become the new gold standard after the Coldcard hack",
+      "url": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T13:00:01.000Z",
+      "keywords": [
+        "Analysis"
+      ],
+      "category": "安全",
+      "slug": "20260807-bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated",
+      "localUrl": "/news/20260807-bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+      "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
+      "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+      "publishedAt": "2026-08-07T12:37:14.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+      "localUrl": "/news/20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
+      "summary": "The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "publishedAt": "2026-08-07T12:31:51.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-us-unexpectedly-shed-23000-jobs-in-july-putting-fed-rate-hikes-in-question",
+      "localUrl": "/news/20260807-us-unexpectedly-shed-23000-jobs-in-july-putting-fed-rate-hikes-in-question.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+      "summary": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
+      "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T12:28:41.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260807-russia-cracks-down-on-9-crypto-exchanges-in-moscow-city",
+      "localUrl": "/news/20260807-russia-cracks-down-on-9-crypto-exchanges-in-moscow-city.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
+      "summary": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
+      "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T12:13:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260807-cex-perpetual-futures-volume-falls-to-4t-lowest-since-late-2023",
+      "localUrl": "/news/20260807-cex-perpetual-futures-volume-falls-to-4t-lowest-since-late-2023.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
+      "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
+      "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
+      "publishedAt": "2026-08-07T12:00:35.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260807-morning-minute-metamask-hands-ai-agents-a-wallet",
+      "localUrl": "/news/20260807-morning-minute-metamask-hands-ai-agents-a-wallet.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "After a Clarity Act funeral, the crypto world would keep turning",
+      "summary": "With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+      "publishedAt": "2026-08-07T12:00:00.000Z",
+      "keywords": [
+        "News Analysis",
+        "Clarity Act",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+      "localUrl": "/news/20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+      "summary": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
+      "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+      "publishedAt": "2026-08-07T11:45:49.000Z",
+      "keywords": [
+        "Tech",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support",
+      "localUrl": "/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
@@ -16,6 +140,17 @@
       "category": "市场",
       "slug": "20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt",
       "localUrl": "/news/20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 JUST IN: Trump says, \"Crypto is a big deal. People are paying with Bitcoin, that takes a lot of pressure off our dollar. It’s a good thing for our country.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZjVhRHBzcjdfRlYtNW43SUtueWxHMDJzTEtqMTBsSURraUdac0NEdDVKTmxCUzcyS1pTRHJRSF9lTTFfNXFBRG9pT0ZOSVNWVGdLRFNNTUM4aDFWZDY1Sl9vMGo?oc=5\" target=\"_blank\">🔥 JUST IN: Trump says, \"Crypto…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZjVhRHBzcjdfRlYtNW43SUtueWxHMDJzTEtqMTBsSURraUdac0NEdDVKTmxCUzcyS1pTRHJRSF9lTTFfNXFBRG9pT0ZOSVNWVGdLRFNNTUM4aDFWZDY1Sl9vMGo?oc=5",
+      "publishedAt": "2026-08-07T11:30:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take",
+      "localUrl": "/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html"
     },
     {
       "source": "Cointelegraph",
@@ -171,8 +306,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data",
-      "summary": "Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.",
+      "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
+      "summary": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
       "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
       "publishedAt": "2026-08-07T07:44:57.000Z",
       "keywords": [
@@ -181,8 +316,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260807-live-updates-bitcoin-edges-higher-to-65000-ahead-of-key-us-jobs-data",
-      "localUrl": "/news/20260807-live-updates-bitcoin-edges-higher-to-65000-ahead-of-key-us-jobs-data.html"
+      "slug": "20260807-live-updates-bitcoin-holding-near-65000-as-us-lost-jobs-last-month",
+      "localUrl": "/news/20260807-live-updates-bitcoin-holding-near-65000-as-us-lost-jobs-last-month.html"
     },
     {
       "source": "X Wire",
@@ -668,19 +803,6 @@
       "localUrl": "/news/20260806-metamask-launches-self-custodial-ai-wallet-for-autonomous-crypto-trading.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price coils under $65K as US PMI data brings new ‘stagflation’ warning",
-      "summary": "Bitcoin price action stayed compressed in an ongoing divergence from stocks and gold while US PMI data sparked fresh talk of “stagflation.”",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-compresses-as-us-pmi-data-brings-new-stagflation-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T16:24:18.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260806-bitcoin-price-coils-under-65k-as-us-pmi-data-brings-new-stagflation-warning",
-      "localUrl": "/news/20260806-bitcoin-price-coils-under-65k-as-us-pmi-data-brings-new-stagflation-warning.html"
-    },
-    {
       "source": "Decrypt",
       "title": "DuckDuckGo’s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
       "summary": "The $35 frames have polarized lenses, UV protection and no camera, microphone, battery or electronics of any kind.",
@@ -776,19 +898,6 @@
       "localUrl": "/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Step App winds down after four years as FITFI token sinks",
-      "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
-      "url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T13:52:36.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260806-step-app-winds-down-after-four-years-as-fitfi-token-sinks",
-      "localUrl": "/news/20260806-step-app-winds-down-after-four-years-as-fitfi-token-sinks.html"
-    },
-    {
       "source": "Decrypt",
       "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
       "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
@@ -800,19 +909,6 @@
       "category": "综合",
       "slug": "20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
       "localUrl": "/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "10 weirdest things ever tokenized... including farts",
-      "summary": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
-      "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "RWA",
-      "slug": "20260806-10-weirdest-things-ever-tokenized-including-farts",
-      "localUrl": "/news/20260806-10-weirdest-things-ever-tokenized-including-farts.html"
     },
     {
       "source": "CoinDesk",
@@ -931,53 +1027,6 @@
       "localUrl": "/news/20260806-free-markets-and-innovation-sort-of.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
-      "summary": "Strong earnings from SanDisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-      "publishedAt": "2026-08-06T11:14:47.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260806-why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin",
-      "localUrl": "/news/20260806-why-sandisk-and-western-digital-crashed-10-and-what-it-means-for-bitcoin.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-      "summary": "The investment brings the company’s total raised to $106 million across seven funding rounds since November 2021.",
-      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-      "publishedAt": "2026-08-06T10:53:09.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "Funding Rounds",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260806-jpyc-raises-38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maru",
-      "localUrl": "/news/20260806-jpyc-raises-38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maru.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-      "summary": "The two largest cryptocurrencies are the only CoinDesk 20 members in positive territory as altcoins fall out of favor.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-      "publishedAt": "2026-08-06T10:43:07.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260806-bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-      "localUrl": "/news/20260806-bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 JUST IN: Grayscale rebalanced its crypto funds for Q2 2026, adding BNB to its Smart Contract Fund while trimming UNI and NEAR across its DeFi and AI portfolios. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwTlotdjlFOUVjdTJGcE5ra3B1dWZDWTdUNkVaVmtmZHFRZ0tRSDVlWmp1OXhuN09JUUxOMFppRWN5QmhaSllvSk1qNmpWbk9jQjV4MFdINm5QS3NjY09RU01Od2Q?oc=5\" target=\"_blank\">🚨 JUST IN: Grayscale rebalance…",
@@ -1014,17 +1063,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 NEW: The Ethereum Foundation's Trillion Dollar Security initiative granted funding to support continued development of WEBCAT. It aims to close a front-end security gap that puts Ethereum wallets and apps at risk. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE90YnduMldLQnhhb3hLWUI3Vk0xTnZWUjlaZ1pOS0c5cS1uVnFLd0o1QUx5VUdtLUc2SWhkRkEyZE1JSVJHVC1lNlgtZDB6MzVJS1M5bmpveHBYMDdfd0NqVnFzVVk?oc=5\" target=\"_blank\">🚨 NEW: The Ethereum Foundation…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90YnduMldLQnhhb3hLWUI3Vk0xTnZWUjlaZ1pOS0c5cS1uVnFLd0o1QUx5VUdtLUc2SWhkRkEyZE1JSVJHVC1lNlgtZDB6MzVJS1M5bmpveHBYMDdfd0NqVnFzVVk?oc=5",
-      "publishedAt": "2026-08-06T06:00:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-new-the-ethereum-foundations-trillion-dollar-security-initiative-granted-funding",
-      "localUrl": "/news/20260806-new-the-ethereum-foundations-trillion-dollar-security-initiative-granted-funding.html"
-    },
-    {
-      "source": "X Wire",
       "title": "$64,603.23 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE51SndGUTR0T0hFUjlRQ21NSzAxc2Ria1JGcWl5LUZaZzVLZlhfVDVpNlNoLUFtODJlWWx4SldQeldCdjliR05fV3JoR3dtN3dVRmVSaUlKWndYdFd4?oc=5\" target=\"_blank\">$64,603.23 #Bitcoin</a> <font color=\"#6f6f…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51SndGUTR0T0hFUjlRQ21NSzAxc2Ria1JGcWl5LUZaZzVLZlhfVDVpNlNoLUFtODJlWWx4SldQeldCdjliR05fV3JoR3dtN3dVRmVSaUlKWndYdFd4?oc=5",
@@ -1033,45 +1071,6 @@
       "category": "X热点",
       "slug": "20260806-6460323-bitcoin-xcom",
       "localUrl": "/news/20260806-6460323-bitcoin-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
-      "summary": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.",
-      "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
-      "publishedAt": "2026-08-05T21:24:06.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "DeFi",
-      "slug": "20260805-meta-debuts-ai-coding-agent-muse-heres-how-it-compares-to-claude-code-and-codex",
-      "localUrl": "/news/20260805-meta-debuts-ai-coding-agent-muse-heres-how-it-compares-to-claude-code-and-codex.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
-      "summary": "The release targets developers building autonomous apps and workflows on Cloudflare's edge—a clear bet on agent infrastructure.",
-      "url": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
-      "publishedAt": "2026-08-05T20:46:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260805-cloudflare-os-heres-whats-inside-the-open-source-ai-agent-platform",
-      "localUrl": "/news/20260805-cloudflare-os-heres-whats-inside-the-open-source-ai-agent-platform.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
-      "summary": "A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.",
-      "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-      "publishedAt": "2026-08-05T20:16:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit",
-      "localUrl": "/news/20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit.html"
     },
     {
       "source": "Solana Blog",
