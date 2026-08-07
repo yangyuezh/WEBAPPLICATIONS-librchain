@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T19:11:16.080Z</lastmod>
+    <lastmod>2026-08-07T20:54:40.311Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T19:11:16.080Z</lastmod>
+    <lastmod>2026-08-07T20:54:40.311Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html</loc>
+    <lastmod>2026-08-07T20:28:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-us-treasurys-ofac-sanctions-2-iran-linked-crypto-exchanges.html</loc>
+    <lastmod>2026-08-07T20:02:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack.html</loc>
+    <lastmod>2026-08-07T20:00:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html</loc>
+    <lastmod>2026-08-07T19:18:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-new-leader-thunes-office-is-telling-crypto-industry-leaders-today-that-the-major.html</loc>
+    <lastmod>2026-08-07T19:09:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html</loc>
@@ -21,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-07T18:36:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-insight-senator-elizabeth-warren-says-the-us-needs-crypto-legislation-but-not-le.html</loc>
+    <lastmod>2026-08-07T18:20:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -103,6 +139,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc.html</loc>
+    <lastmod>2026-08-07T14:42:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act.html</loc>
     <lastmod>2026-08-07T14:30:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -111,12 +153,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html</loc>
     <lastmod>2026-08-07T14:04:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom.html</loc>
-    <lastmod>2026-08-07T13:33:15.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -195,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html</loc>
     <lastmod>2026-08-07T11:30:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-65000-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-07T11:26:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-crypto-market-maker-wintermute-launches-us-broker-dealer.html</loc>
-    <lastmod>2026-08-07T00:09:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html</loc>
     <lastmod>2026-08-06T22:06:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,38 +475,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-cathie-woods-ark-invest-makes-spacex-circle-top-holdings-after-latest-buying-spr.html</loc>
-    <lastmod>2026-08-06T17:20:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom.html</loc>
     <lastmod>2026-08-06T16:37:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-metamask-launches-self-custodial-ai-wallet-for-autonomous-crypto-trading.html</loc>
-    <lastmod>2026-08-06T16:26:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-duckduckgos-meta-trolling-normal-fing-sunglasses-sell-out-in-under-a-week.html</loc>
-    <lastmod>2026-08-06T16:19:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-new-crypto-policy-folks-remain-in-what-one-industry-source-described-to-me-as-a-.html</loc>
     <lastmod>2026-08-06T16:07:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-bullish-blackrock-recorded-bitcoin-inflows-every-day-this-week-reaching-4785m-xc.html</loc>
-    <lastmod>2026-08-06T15:01:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
