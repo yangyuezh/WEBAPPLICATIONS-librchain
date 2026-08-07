@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-08-07T15:06:15.076Z",
+  "updatedAt": "2026-08-07T16:07:31.781Z",
   "total": 88,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+      "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
+      "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+      "publishedAt": "2026-08-07T16:03:06.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260807-openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+      "localUrl": "/news/20260807-openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
+      "summary": "A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
+      "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
+      "publishedAt": "2026-08-07T15:27:35.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "市场",
+      "slug": "20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc",
+      "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
+      "summary": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T15:23:15.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260807-bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets",
+      "localUrl": "/news/20260807-bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX's Rafique doubts Clarity Act will pass, warns optimism is already priced into bitcoin",
+      "summary": "The OKX executive says Democrats have little incentive to hand Republicans a crypto victory before the midterms.",
+      "url": "https://www.coindesk.com/policy/2026/08/04/okx-s-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-bitcoin",
+      "publishedAt": "2026-08-07T15:22:44.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "Regulation",
+        "Exclusive",
+        "OKX",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-okxs-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-",
+      "localUrl": "/news/20260807-okxs-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a five-second trick let traders drain millions from Polymarket",
+      "summary": "After months of public warnings from onchain analysts, the prediction market is moving to time-weighted prices to make artificial price pushes too costly.",
+      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+      "publishedAt": "2026-08-07T15:09:07.000Z",
+      "keywords": [
+        "Finance",
+        "Polymarket",
+        "Prediction Markets",
+        "Kalshi",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+      "localUrl": "/news/20260807-how-a-five-second-trick-let-traders-drain-millions-from-polymarket.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
+      "summary": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
+      "url": "https://cointelegraph.com/news/crypto-biz-crypto-business-converges-traditional-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T15:07:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking",
+      "localUrl": "/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html"
+    },
     {
       "source": "CoinDesk",
       "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
@@ -208,6 +296,17 @@
       "localUrl": "/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: $65,000 Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zQWp4dE04WXNKNDR2TjVoTnA0cE1jZUZNMTFENWpfUjVXU0xtYzJBZllXS0hsN3FQenliS2FLR1ZuZWRDcVAyazVEbF9yOXRsa3N0R1NfUlNGQjI1QnRLNW93?oc=5\" target=\"_blank\">JUST IN: $65,000 Bitcoin</a> <font…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zQWp4dE04WXNKNDR2TjVoTnA0cE1jZUZNMTFENWpfUjVXU0xtYzJBZllXS0hsN3FQenliS2FLR1ZuZWRDcVAyazVEbF9yOXRsa3N0R1NfUlNGQjI1QnRLNW93?oc=5",
+      "publishedAt": "2026-08-07T11:26:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-65000-bitcoin-xcom",
+      "localUrl": "/news/20260807-just-in-65000-bitcoin-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
       "summary": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
@@ -372,7 +471,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month",
+      "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
       "summary": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
       "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
       "publishedAt": "2026-08-07T07:44:57.000Z",
@@ -382,8 +481,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260807-live-updates-bitcoin-holding-near-65000-as-us-lost-jobs-last-month",
-      "localUrl": "/news/20260807-live-updates-bitcoin-holding-near-65000-as-us-lost-jobs-last-month.html"
+      "slug": "20260807-live-updates-this-cant-last-forever-mulling-bitcoins-lame-price-action-as-risk-m",
+      "localUrl": "/news/20260807-live-updates-this-cant-last-forever-mulling-bitcoins-lame-price-action-as-risk-m.html"
     },
     {
       "source": "X Wire",
@@ -804,32 +903,6 @@
       "localUrl": "/news/20260806-cathie-woods-ark-invest-makes-spacex-circle-top-holdings-after-latest-buying-spr.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US appellate court mandate affirms Sam Bankman-Fried conviction",
-      "summary": "Three circuit judges disputed the former FTX CEO’s claims that the defunct crypto exchange’s investors could have been made whole and wouldn’t have experienced any losses.",
-      "url": "https://cointelegraph.com/news/us-appellate-court-mandate-sam-bankman-fried?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T17:17:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260806-us-appellate-court-mandate-affirms-sam-bankman-fried-conviction",
-      "localUrl": "/news/20260806-us-appellate-court-mandate-affirms-sam-bankman-fried-conviction.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US Senate will vote on CLARITY crypto bill ‘without any question’ this week: Tim Scott",
-      "summary": "The South Carolina lawmaker who heads the Senate Banking Committee said that the majority leader still had time to put the crypto bill on the agenda despite the narrow voting window.",
-      "url": "https://cointelegraph.com/news/us-senate-vote-clarity-act-tim-scott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T16:53:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260806-us-senate-will-vote-on-clarity-crypto-bill-without-any-question-this-week-tim-sc",
-      "localUrl": "/news/20260806-us-senate-will-vote-on-clarity-crypto-bill-without-any-question-this-week-tim-sc.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇹🇭 Thailand confirms 0% capital gains tax on Bitcoin & crypto. 👏 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LYzJZckwxc1hfMTQ2b0xxY1pfTlV6aVhuNXlUdVh1djA4akJQdzh6cDlCRzZjam5mSDJJNE12X0hhaDJGSFg0TzZ1bkZ6V3FtQm42bEpvZFRqOVF2RUc5Vw?oc=5\" target=\"_blank\">🇹🇭 Thailand confirms 0% capital ga…",
@@ -895,21 +968,6 @@
       "localUrl": "/news/20260806-new-crypto-policy-folks-remain-in-what-one-industry-source-described-to-me-as-a-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
-      "summary": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-      "publishedAt": "2026-08-06T15:07:00.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "Crypto for Advisors",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260806-crypto-for-advisors-europes-crypto-rules-us-preview",
-      "localUrl": "/news/20260806-crypto-for-advisors-europes-crypto-rules-us-preview.html"
-    },
-    {
       "source": "X Wire",
       "title": "🔥 BULLISH: BlackRock recorded Bitcoin inflows every day this week, reaching $478.5M. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2UkFoend4eTI1VXEzWG5kYVlSd21zaGxJd3IyTm91amEzV05ua0RJN2RMM2hvb3lLbGRTN2dlaDdpbjdqNG1QNDlZNjJfMjhIMVJZWXpibnB0bnpNM3dDZktFLWM?oc=5\" target=\"_blank\">🔥 BULLISH: BlackRock recorded …",
@@ -962,23 +1020,6 @@
       "localUrl": "/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "summary": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "publishedAt": "2026-08-06T12:46:42.000Z",
-      "keywords": [
-        "Markets",
-        "Hyperliquid",
-        "ETFs",
-        "JPMorgan",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260806-jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "localUrl": "/news/20260806-jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
       "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
@@ -1004,30 +1045,6 @@
       "category": "综合",
       "slug": "20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
       "localUrl": "/news/20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin's options skew looks bearish – but not because traders are aggressively paying for protection. While downside IV is cheap, the real extreme is upside IV: an all-time low of 23%. Nobody is paying for $BTC upside anymore. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzcTZIUzgzeE1xb2NKVXVDaDFiQ1Q3SE5QeVh5YWJCOFVUZWUwR0RxX09mQXRhYXJMNWIwNXFaT0p0Tzhzdm1KdGJmcVdWZU12RUFWd25fZGZTeHBpMnY0?oc=5\" target=\"_blank\">Bitcoin's options skew looks bearish –…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzcTZIUzgzeE1xb2NKVXVDaDFiQ1Q3SE5QeVh5YWJCOFVUZWUwR0RxX09mQXRhYXJMNWIwNXFaT0p0Tzhzdm1KdGJmcVdWZU12RUFWd25fZGZTeHBpMnY0?oc=5",
-      "publishedAt": "2026-08-06T12:02:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-bitcoins-options-skew-looks-bearish-but-not-because-traders-are-aggressively-pay",
-      "localUrl": "/news/20260806-bitcoins-options-skew-looks-bearish-but-not-because-traders-are-aggressively-pay.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
-      "summary": "The blockchain analytics firm says home invasions are becoming more common, France has emerged as the leading hotspot, and some attackers are using increasingly sophisticated laundering techniques.",
-      "url": "https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
-      "publishedAt": "2026-08-06T12:01:04.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "综合",
-      "slug": "20260806-crypto-wrench-attacks-on-pace-for-record-year-as-30m-stolen-in-2026-chainalysis",
-      "localUrl": "/news/20260806-crypto-wrench-attacks-on-pace-for-record-year-as-30m-stolen-in-2026-chainalysis.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1058,19 +1075,6 @@
       "category": "X热点",
       "slug": "20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading",
       "localUrl": "/news/20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
-      "summary": "A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
-      "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
-      "publishedAt": "2026-08-06T09:43:34.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260806-bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
-      "localUrl": "/news/20260806-bitcoin-ai-security-audit-files-4962-findings-across-390-projects.html"
     },
     {
       "source": "X Wire",
