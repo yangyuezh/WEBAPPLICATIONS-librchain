@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T20:54:40.311Z</lastmod>
+    <lastmod>2026-08-07T21:52:05.594Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T20:54:40.311Z</lastmod>
+    <lastmod>2026-08-07T21:52:05.594Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html</loc>
+    <lastmod>2026-08-07T21:39:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal.html</loc>
+    <lastmod>2026-08-07T21:13:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html</loc>
+    <lastmod>2026-08-07T21:05:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html</loc>
     <lastmod>2026-08-07T20:28:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-2-million-of-ab.html</loc>
+    <lastmod>2026-08-07T20:20:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -211,12 +235,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html</loc>
-    <lastmod>2026-08-07T11:54:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html</loc>
     <lastmod>2026-08-07T11:45:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -349,18 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-a-bitcoin-pattern-taking-shape-right-now-could-send-prices-soaring-to-76000.html</loc>
-    <lastmod>2026-08-07T04:28:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-xrp-leads-majors-losses-as-clarity-act-vote-slips-to-september.html</loc>
-    <lastmod>2026-08-07T04:17:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-bitget-explores-licensed-crypto-presence-in-bhutan.html</loc>
     <lastmod>2026-08-07T03:22:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to.html</loc>
     <lastmod>2026-08-07T02:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output.html</loc>
-    <lastmod>2026-08-07T02:17:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-xrp-bitcoin-whales-are-accumulatingis-the-bear-market-nearly-over.html</loc>
-    <lastmod>2026-08-06T18:13:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-scarce-assets-like-gold-and-bitcoin-are-crucial-in-a-global-landscape-that-is-ri.html</loc>
     <lastmod>2026-08-06T17:58:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html</loc>
     <lastmod>2026-08-06T14:22:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260806-bitcoin-is-digital-capital-ai-is-digital-intelligence-i-joined-stevenbartlett-to.html</loc>
+    <lastmod>2026-08-06T13:46:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

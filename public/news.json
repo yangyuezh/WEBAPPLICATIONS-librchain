@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-07T20:54:40.269Z",
+  "updatedAt": "2026-08-07T21:52:05.553Z",
   "total": 88,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Donald Trump’s media company to terminate Crypto.com deal",
+      "summary": "The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
+      "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T21:39:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260807-donald-trumps-media-company-to-terminate-cryptocom-deal",
+      "localUrl": "/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "summary": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+      "publishedAt": "2026-08-07T21:13:21.000Z",
+      "keywords": [
+        "Finance",
+        "Trump",
+        "Donald Trump",
+        "Digital Asset Treasury",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal",
+      "localUrl": "/news/20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+      "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+      "publishedAt": "2026-08-07T21:05:59.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "RWA",
+      "slug": "20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures",
+      "localUrl": "/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html"
+    },
     {
       "source": "Decrypt",
       "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
@@ -14,6 +57,23 @@
       "category": "监管",
       "slug": "20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran",
       "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+      "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+      "publishedAt": "2026-08-07T20:20:00.000Z",
+      "keywords": [
+        "Finance",
+        "American Bitcoin",
+        "Exclusive",
+        "Eric Trump",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-2-million-of-ab",
+      "localUrl": "/news/20260807-trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-2-million-of-ab.html"
     },
     {
       "source": "Cointelegraph",
@@ -452,17 +512,6 @@
       "localUrl": "/news/20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning.html"
     },
     {
-      "source": "X Wire",
-      "title": "A proposal now before the Ethereum community would sharply reduce the reward for securing the network. Its odds for passing are long. Its implications are not. It would undermine DeFi, push capital off the chain, and cost ETH the yield productivity that differe - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5\" target=\"_blank\">A proposal now before the Ethereum com…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5",
-      "publishedAt": "2026-08-07T11:54:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for",
-      "localUrl": "/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
       "summary": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
@@ -758,35 +807,6 @@
       "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-32-million-toward-falconx-linked-address.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
-      "summary": "Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-      "publishedAt": "2026-08-07T04:28:17.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-a-bitcoin-pattern-taking-shape-right-now-could-send-prices-soaring-to-76000",
-      "localUrl": "/news/20260807-a-bitcoin-pattern-taking-shape-right-now-could-send-prices-soaring-to-76000.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP leads majors losses as Clarity Act vote slips to September",
-      "summary": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-      "publishedAt": "2026-08-07T04:17:01.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-xrp-leads-majors-losses-as-clarity-act-vote-slips-to-september",
-      "localUrl": "/news/20260807-xrp-leads-majors-losses-as-clarity-act-vote-slips-to-september.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitget explores licensed crypto presence in Bhutan",
       "summary": "Crypto exchange Bitget has signed an agreement with Gelephu Mindfulness City Authority to pursue a regulated local presence.",
@@ -822,19 +842,6 @@
       "category": "X热点",
       "slug": "20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to",
       "localUrl": "/news/20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
-      "summary": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
-      "url": "https://cointelegraph.com/markets/mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T02:17:07.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260807-mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output",
-      "localUrl": "/news/20260807-mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output.html"
     },
     {
       "source": "X Wire",
@@ -970,19 +977,6 @@
       "localUrl": "/news/20260806-openai-reveals-how-ai-agents-secretly-coordinated-before-hugging-face-hack.html"
     },
     {
-      "source": "Decrypt",
-      "title": "XRP, Bitcoin Whales Are Accumulating—Is the Bear Market Nearly Over?",
-      "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
-      "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
-      "publishedAt": "2026-08-06T18:13:40.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260806-xrp-bitcoin-whales-are-accumulatingis-the-bear-market-nearly-over",
-      "localUrl": "/news/20260806-xrp-bitcoin-whales-are-accumulatingis-the-bear-market-nearly-over.html"
-    },
-    {
       "source": "X Wire",
       "title": "Scarce assets, like gold and bitcoin, are crucial in a global landscape that is riddled by uncertainty. At Tether we're building the Stable Company, capable of high resilience throughout decades and centuries. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RaGdTTlVmbUdULXFMU29CRDNrS2Z2Y0RvSWF3VVRIYXFPR2Z2bVpuU056LTJ1WXBrN1RFMU5HcndLVkxDLWpaUGVFR3pub3JRRk55eU5XMThwM05mdlFQaWVWcw?oc=5\" target=\"_blank\">Scarce assets, like gold and bit…",
@@ -1064,6 +1058,17 @@
       "category": "综合",
       "slug": "20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis",
       "localUrl": "/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMnZuWlRkZ1JCSk5WWUFiZ1BuZUgyRFQyRG0tU3dtbTBTYkpEY3V3NmtHSUs4eVJIdUxDSHFyaGQ1bk1WcEs4ZjZmZDFwVXp4OTEyWUd2S2RTaG8?oc=5\" target=\"_blank\">Bitcoin is digital capital. AI is digital i…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMnZuWlRkZ1JCSk5WWUFiZ1BuZUgyRFQyRG0tU3dtbTBTYkpEY3V3NmtHSUs4eVJIdUxDSHFyaGQ1bk1WcEs4ZjZmZDFwVXp4OTEyWUd2S2RTaG8?oc=5",
+      "publishedAt": "2026-08-06T13:46:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-bitcoin-is-digital-capital-ai-is-digital-intelligence-i-joined-stevenbartlett-to",
+      "localUrl": "/news/20260806-bitcoin-is-digital-capital-ai-is-digital-intelligence-i-joined-stevenbartlett-to.html"
     },
     {
       "source": "Chainalysis Blog",
