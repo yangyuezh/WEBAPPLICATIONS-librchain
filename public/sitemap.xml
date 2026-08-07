@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T17:06:27.187Z</lastmod>
+    <lastmod>2026-08-07T18:00:34.148Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T17:06:27.187Z</lastmod>
+    <lastmod>2026-08-07T18:00:34.148Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-circle-expands-usdc-to-okx-ecosystem-with-x-layer-launch.html</loc>
+    <lastmod>2026-08-07T17:36:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-xrp-at-a-crossroads-as-senate-punts-on-clarity-act.html</loc>
+    <lastmod>2026-08-07T17:36:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report.html</loc>
+    <lastmod>2026-08-07T17:03:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260807-bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine.html</loc>
@@ -103,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom.html</loc>
+    <lastmod>2026-08-07T13:33:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-fierce-backlash-to-ethereums-eip-8363-staking-proposal.html</loc>
     <lastmod>2026-08-07T13:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -171,12 +195,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html</loc>
     <lastmod>2026-08-07T11:30:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-65000-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-07T11:26:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,14 +379,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant.html</loc>
-    <lastmod>2026-08-06T21:36:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260806-strategy-is-leading-institutional-bitcoin-adoption-and-intends-to-remain-a-net-b.html</loc>
+    <lastmod>2026-08-06T21:50:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-following-primary-loss-crypto-pacs-invest-15m-in-3-us-state-races.html</loc>
-    <lastmod>2026-08-06T21:11:19.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant.html</loc>
+    <lastmod>2026-08-06T21:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-openai-reveals-how-ai-agents-secretly-coordinated-before-hugging-face-hack.html</loc>
     <lastmod>2026-08-06T18:26:29.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-bitcoin-etf-inflows-surge-after-coldcard-hack-but-link-is-unclear-bloomberg-anal.html</loc>
-    <lastmod>2026-08-06T18:17:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,20 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html</loc>
-    <lastmod>2026-08-06T13:34:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html</loc>
     <lastmod>2026-08-06T12:00:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading.html</loc>
-    <lastmod>2026-08-06T10:27:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
