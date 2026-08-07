@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T05:48:15.124Z</lastmod>
+    <lastmod>2026-08-07T07:38:08.101Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T05:48:15.124Z</lastmod>
+    <lastmod>2026-08-07T07:38:08.101Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -37,7 +37,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-a-case-for-a-bitcoin-surge-to-76000-may-be-building-beneath-the-boring-price-act.html</loc>
+    <loc>https://www.librchain.com/news/20260807-a-bitcoin-pattern-taking-shape-right-now-could-send-prices-soaring-to-76000.html</loc>
     <lastmod>2026-08-07T04:28:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -61,6 +61,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to.html</loc>
+    <lastmod>2026-08-07T02:45:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-breaking-us-senate-postpones-crypto-clarity-act-vote-to-september-for-when-they-.html</loc>
+    <lastmod>2026-08-07T02:17:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output.html</loc>
     <lastmod>2026-08-07T02:17:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -69,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break.html</loc>
     <lastmod>2026-08-07T02:14:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-just-in-senate-delays-crypto-clarity-act-vote-until-after-summer-recess-xcom.html</loc>
+    <lastmod>2026-08-07T01:51:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -265,12 +283,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-just-in-senate-has-1-day-to-pass-the-crypto-clarity-act-before-leaving-for-summe.html</loc>
-    <lastmod>2026-08-06T13:19:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals.html</loc>
     <lastmod>2026-08-06T13:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260805-latest-president-putin-signed-russias-first-comprehensive-crypto-law-setting-lic.html</loc>
-    <lastmod>2026-08-05T20:24:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit.html</loc>
     <lastmod>2026-08-05T20:16:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -513,12 +519,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards.html</loc>
     <lastmod>2026-08-05T08:53:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal.html</loc>
-    <lastmod>2026-08-05T06:01:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
