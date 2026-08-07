@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-07T13:33:46.331Z",
+  "updatedAt": "2026-08-07T15:06:15.076Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
+      "summary": "When FTX collapsed, the parts of it bound by law survived. Mainstream finance is now converging with digital assets, and the law built to protect it the same way is the one the Senate did not pass this week, argues Bullish's Randi Aberneth…",
+      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
+      "publishedAt": "2026-08-07T14:30:25.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act",
+      "localUrl": "/news/20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
+      "summary": "The FSB said at least 20 individuals were arrested in connection with a ring that scammed an undetermined number of Russian citizens.",
+      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
+      "publishedAt": "2026-08-07T14:04:47.000Z",
+      "keywords": [
+        "Policy",
+        "Crime",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain",
+      "localUrl": "/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T13:49:35.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260807-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260807-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
+      "summary": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
+      "url": "https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "基础设施",
+      "slug": "20260807-fierce-backlash-to-ethereums-eip-8363-staking-proposal",
+      "localUrl": "/news/20260807-fierce-backlash-to-ethereums-eip-8363-staking-proposal.html"
+    },
     {
       "source": "Decrypt",
       "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
@@ -22,7 +77,7 @@
       "url": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-07T13:00:01.000Z",
       "keywords": [
-        "Analysis"
+        "Features"
       ],
       "category": "安全",
       "slug": "20260807-bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated",
@@ -193,6 +248,17 @@
       "category": "市场",
       "slug": "20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further",
       "localUrl": "/news/20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Nearly 23% of Major Bitcoin Miners Are Now Operating at a Daily Loss According to WuBlockchain Data Center, about 22.7% of 22 mainstream Bitcoin mining machines tracked were generating negative daily net returns as of August 6. Under current electricity - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2QTVGazdLdVgwU1BtUUN5QkI4OUdZOXNsNTIxZ3k4Rmlnai1zZTBDa3A2eW1ZMF93UnJxN2NZeU53Rm9XbGpERjVJUmdRTmJXNnRMZlRXNFVmMkFoREVZNnAyWQ?oc=5\" target=\"_blank\">Nearly 23% of Major Bitcoin Mine…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2QTVGazdLdVgwU1BtUUN5QkI4OUdZOXNsNTIxZ3k4Rmlnai1zZTBDa3A2eW1ZMF93UnJxN2NZeU53Rm9XbGpERjVJUmdRTmJXNnRMZlRXNFVmMkFoREVZNnAyWQ?oc=5",
+      "publishedAt": "2026-08-07T10:02:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to",
+      "localUrl": "/news/20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to.html"
     },
     {
       "source": "Decrypt",
@@ -514,17 +580,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Senate delays Crypto Clarity Act vote until after summer recess. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE91cFVDbkgxRjVXR3N3MVlyN3JOM3FGdjNleE41UDdGLW92ZXdHRUFoUkEybEswTDc4TlRCS0lhbjNreG03VXBkMjhabTVBZGVyQjNMOWFpZERFNHJGbE5BYnlB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate delays Crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91cFVDbkgxRjVXR3N3MVlyN3JOM3FGdjNleE41UDdGLW92ZXdHRUFoUkEybEswTDc4TlRCS0lhbjNreG03VXBkMjhabTVBZGVyQjNMOWFpZERFNHJGbE5BYnlB?oc=5",
-      "publishedAt": "2026-08-07T01:51:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-just-in-senate-delays-crypto-clarity-act-vote-until-after-summer-recess-xcom",
-      "localUrl": "/news/20260807-just-in-senate-delays-crypto-clarity-act-vote-until-after-summer-recess-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Crypto latest: The Senate negotiations to get to August recess have snagged in part on the Clarity Act. Sources involved in the talks say Democratic leadership continues pushing to delay a procedural crypto vote. Schumer wants to give talks more time. GOP is - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5\" target=\"_blank\">Crypto latest: The Senate n…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5",
@@ -601,6 +656,17 @@
       "localUrl": "/news/20260806-following-primary-loss-crypto-pacs-invest-15m-in-3-us-state-races.html"
     },
     {
+      "source": "X Wire",
+      "title": "A @WSJopinion piece this week referred to supporters of crypto regulation as \"the crypto boys.\" But that's not who the crypto community is. There are 67 million Americans who own crypto today. One-third are women. More are over 55 than under 25 years old. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SeUcycmlzdUsxLWhMSmJyNTV5T0FlWnVoQzU2NlloOXJJeS0zVllkS2x1VGhDalByeTU2UXpoRnhUSWIyTmJKMGw3Qzl1X08xNGExU1hhMmJ1ZEN4OUFRQQ?oc=5\" target=\"_blank\">A @WSJopinion piece this week referr…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SeUcycmlzdUsxLWhMSmJyNTV5T0FlWnVoQzU2NlloOXJJeS0zVllkS2x1VGhDalByeTU2UXpoRnhUSWIyTmJKMGw3Qzl1X08xNGExU1hhMmJ1ZEN4OUFRQQ?oc=5",
+      "publishedAt": "2026-08-06T21:04:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-a-wsjopinion-piece-this-week-referred-to-supporters-of-crypto-regulation-as-the-",
+      "localUrl": "/news/20260806-a-wsjopinion-piece-this-week-referred-to-supporters-of-crypto-regulation-as-the-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
       "summary": "Tokyo has asked Washington to stop meme-posting Mario, Pokémon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
@@ -638,19 +704,6 @@
       "category": "监管",
       "slug": "20260806-senators-push-cftc-to-ban-wildfire-bets-on-prediction-markets",
       "localUrl": "/news/20260806-senators-push-cftc-to-ban-wildfire-bets-on-prediction-markets.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T19:31:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260806-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260806-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Decrypt",
@@ -703,6 +756,17 @@
       "category": "市场",
       "slug": "20260806-xrp-bitcoin-whales-are-accumulatingis-the-bear-market-nearly-over",
       "localUrl": "/news/20260806-xrp-bitcoin-whales-are-accumulatingis-the-bear-market-nearly-over.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Scarce assets, like gold and bitcoin, are crucial in a global landscape that is riddled by uncertainty. At Tether we're building the Stable Company, capable of high resilience throughout decades and centuries. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RaGdTTlVmbUdULXFMU29CRDNrS2Z2Y0RvSWF3VVRIYXFPR2Z2bVpuU056LTJ1WXBrN1RFMU5HcndLVkxDLWpaUGVFR3pub3JRRk55eU5XMThwM05mdlFQaWVWcw?oc=5\" target=\"_blank\">Scarce assets, like gold and bit…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RaGdTTlVmbUdULXFMU29CRDNrS2Z2Y0RvSWF3VVRIYXFPR2Z2bVpuU056LTJ1WXBrN1RFMU5HcndLVkxDLWpaUGVFR3pub3JRRk55eU5XMThwM05mdlFQaWVWcw?oc=5",
+      "publishedAt": "2026-08-06T17:58:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-scarce-assets-like-gold-and-bitcoin-are-crucial-in-a-global-landscape-that-is-ri",
+      "localUrl": "/news/20260806-scarce-assets-like-gold-and-bitcoin-are-crucial-in-a-global-landscape-that-is-ri.html"
     },
     {
       "source": "Solana Blog",
@@ -764,19 +828,6 @@
       "category": "监管",
       "slug": "20260806-us-senate-will-vote-on-clarity-crypto-bill-without-any-question-this-week-tim-sc",
       "localUrl": "/news/20260806-us-senate-will-vote-on-clarity-crypto-bill-without-any-question-this-week-tim-sc.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
-      "summary": "New analysis finds AI infrastructure contracts are becoming larger and more profitable, but investors now demand stronger execution before rewarding bitcoin mining stocks.",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-infrastructure-deals-wall-street-reaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T16:42:33.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260806-bitcoin-miners-ai-pivot-loses-wall-streets-wow-factor",
-      "localUrl": "/news/20260806-bitcoin-miners-ai-pivot-loses-wall-streets-wow-factor.html"
     },
     {
       "source": "X Wire",
@@ -998,46 +1049,6 @@
       "localUrl": "/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
-      "summary": "Your day-ahead look for Aug. 6, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/06/bitcoin-s-low-volatility-doesn-t-necessarily-mean-low-risk",
-      "publishedAt": "2026-08-06T11:37:03.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260806-bitcoins-low-volatility-doesnt-necessarily-mean-low-risk",
-      "localUrl": "/news/20260806-bitcoins-low-volatility-doesnt-necessarily-mean-low-risk.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Free Markets and Innovation, Sort Of",
-      "summary": "The Journal’s editorial board rejects crypto competition and instead misinterprets Clarity, a pro-innovation, pro-competition, and pro-consumer bill, argues the Blockchain Association's Summer Mersinger.",
-      "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
-      "publishedAt": "2026-08-06T11:30:00.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260806-free-markets-and-innovation-sort-of",
-      "localUrl": "/news/20260806-free-markets-and-innovation-sort-of.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 JUST IN: Grayscale rebalanced its crypto funds for Q2 2026, adding BNB to its Smart Contract Fund while trimming UNI and NEAR across its DeFi and AI portfolios. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwTlotdjlFOUVjdTJGcE5ra3B1dWZDWTdUNkVaVmtmZHFRZ0tRSDVlWmp1OXhuN09JUUxOMFppRWN5QmhaSllvSk1qNmpWbk9jQjV4MFdINm5QS3NjY09RU01Od2Q?oc=5\" target=\"_blank\">🚨 JUST IN: Grayscale rebalance…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwTlotdjlFOUVjdTJGcE5ra3B1dWZDWTdUNkVaVmtmZHFRZ0tRSDVlWmp1OXhuN09JUUxOMFppRWN5QmhaSllvSk1qNmpWbk9jQjV4MFdINm5QS3NjY09RU01Od2Q?oc=5",
-      "publishedAt": "2026-08-06T10:31:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-just-in-grayscale-rebalanced-its-crypto-funds-for-q2-2026-adding-bnb-to-its-smar",
-      "localUrl": "/news/20260806-just-in-grayscale-rebalanced-its-crypto-funds-for-q2-2026-adding-bnb-to-its-smar.html"
-    },
-    {
       "source": "X Wire",
       "title": "LATEST: Putin signs Russia's landmark crypto law allowing regulated retail trading capped at $3,700/year and cross-border settlements, while maintaining the domestic ban on crypto payments. Takes effect September 1. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTTR2d25CZU1XQ2hpUGp1N0JIM1pIS1dZWFdRaWZ6Xzhna2FqLWkxbjFyLXJxR1NXSnIxTTYxZVJKazBNcHpoZTNLNXFfR3lvX0Zxd3RZSUVIWUhqYWc?oc=5\" target=\"_blank\">LATEST: Putin signs Russia's landmark c…",
@@ -1093,17 +1104,6 @@
       "category": "X热点",
       "slug": "20260805-0-as-ai-systems-become-more-powerful-formal-verification-which-is-the-discipline",
       "localUrl": "/news/20260805-0-as-ai-systems-become-more-powerful-formal-verification-which-is-the-discipline.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin Red Team update: we've grown to 16 globally distributed people working 24/7 We're running a large-scale ecosystem security audit across bitcoin code bases. 27.5 hours in, we've filed 4,962 findings across 390 projects. 85 critical and 635 high severit - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5\" target=\"_blank\">Bitcoin Red Team update: we've grown to…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1menQydVNUdllJTU5CaWpqVC01cG4teERpTTFWMmcwUkhnelBMWXpndWswMUtwajQ5UWhGTnRvb1U3VU16WTRZQUtmSjBQR2ZRaVNMTmFFd3JtZVloVVE?oc=5",
-      "publishedAt": "2026-08-05T15:25:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247",
-      "localUrl": "/news/20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247.html"
     },
     {
       "source": "Chainalysis Blog",
