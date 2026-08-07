@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-07T11:04:26.051Z",
+  "updatedAt": "2026-08-07T11:54:19.275Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s volatility has nearly disappeared. The risk hasn’t.",
+      "summary": "Your day-ahead look for Aug. 7, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t",
+      "publishedAt": "2026-08-07T11:42:20.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt",
+      "localUrl": "/news/20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
+      "summary": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
+      "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T11:05:01.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov",
+      "localUrl": "/news/20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov.html"
+    },
     {
       "source": "Decrypt",
       "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
@@ -143,7 +171,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "title": "Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data",
       "summary": "Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.",
       "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
       "publishedAt": "2026-08-07T07:44:57.000Z",
@@ -153,8 +181,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head",
-      "localUrl": "/news/20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head.html"
+      "slug": "20260807-live-updates-bitcoin-edges-higher-to-65000-ahead-of-key-us-jobs-data",
+      "localUrl": "/news/20260807-live-updates-bitcoin-edges-higher-to-65000-ahead-of-key-us-jobs-data.html"
     },
     {
       "source": "X Wire",
@@ -787,19 +815,6 @@
       "localUrl": "/news/20260806-10-weirdest-things-ever-tokenized-including-farts.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
-      "summary": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
-      "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals",
-      "localUrl": "/news/20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
       "summary": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
@@ -996,21 +1011,6 @@
       "category": "监管",
       "slug": "20260806-bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
       "localUrl": "/news/20260806-bitcoin-ai-security-audit-files-4962-findings-across-390-projects.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
-      "summary": "Federal prosecutors say Taj Tarsha misled backers and used investor funds for personal expenses.",
-      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
-      "publishedAt": "2026-08-06T09:19:03.000Z",
-      "keywords": [
-        "Policy",
-        "Crypto News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260806-nft-startup-founder-charged-with-misusing-funds-from-10-million-fundraising",
-      "localUrl": "/news/20260806-nft-startup-founder-charged-with-misusing-funds-from-10-million-fundraising.html"
     },
     {
       "source": "X Wire",

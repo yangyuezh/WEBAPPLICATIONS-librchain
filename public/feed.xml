@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 07 Aug 2026 11:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:54:19 GMT</lastBuildDate>
+    <item>
+      <title>Bitcoin’s volatility has nearly disappeared. The risk hasn’t.</title>
+      <link>https://www.librchain.com/news/20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt.html</guid>
+      <description>Your day-ahead look for Aug. 7, 2026</description>
+      <pubDate>Fri, 07 Aug 2026 11:42:20 GMT</pubDate>
+      <source url="https://www.coindesk.com/daybook-us/2026/08/07/bitcoin-s-volatility-has-nearly-disappeared-the-risk-hasn-t">CoinDesk</source>
+    </item>
+    <item>
+      <title>Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over</title>
+      <link>https://www.librchain.com/news/20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov.html</guid>
+      <description>Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.</description>
+      <pubDate>Fri, 07 Aug 2026 11:05:01 GMT</pubDate>
+      <source url="https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies</title>
       <link>https://www.librchain.com/news/20260807-mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies.html</link>
@@ -87,9 +103,9 @@
       <source url="https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
-      <title>Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind</title>
-      <link>https://www.librchain.com/news/20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head.html</guid>
+      <title>Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data</title>
+      <link>https://www.librchain.com/news/20260807-live-updates-bitcoin-edges-higher-to-65000-ahead-of-key-us-jobs-data.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260807-live-updates-bitcoin-edges-higher-to-65000-ahead-of-key-us-jobs-data.html</guid>
       <description>Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today&apos;s US payrolls print is the next catalyst.</description>
       <pubDate>Fri, 07 Aug 2026 07:44:57 GMT</pubDate>
       <source url="https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind">CoinDesk</source>
@@ -469,22 +485,6 @@
       <description>Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.</description>
       <pubDate>Thu, 06 Aug 2026 13:52:36 GMT</pubDate>
       <source url="https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle</title>
-      <link>https://www.librchain.com/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html</guid>
-      <description>Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.</description>
-      <pubDate>Thu, 06 Aug 2026 13:34:07 GMT</pubDate>
-      <source url="https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle">Decrypt</source>
-    </item>
-    <item>
-      <title>10 weirdest things ever tokenized... including farts</title>
-      <link>https://www.librchain.com/news/20260806-10-weirdest-things-ever-tokenized-including-farts.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260806-10-weirdest-things-ever-tokenized-including-farts.html</guid>
-      <description>Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks</description>
-      <pubDate>Thu, 06 Aug 2026 13:30:00 GMT</pubDate>
-      <source url="https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
   </channel>
 </rss>
