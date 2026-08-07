@@ -1,7 +1,90 @@
 {
-  "updatedAt": "2026-08-07T09:13:10.288Z",
+  "updatedAt": "2026-08-07T11:04:26.051Z",
   "total": 88,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
+      "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
+      "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
+      "publishedAt": "2026-08-07T10:37:41.000Z",
+      "keywords": [
+        "uniswap",
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260807-mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
+      "localUrl": "/news/20260807-mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
+      "summary": "Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
+      "publishedAt": "2026-08-07T10:36:14.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further",
+      "localUrl": "/news/20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
+      "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
+      "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
+      "publishedAt": "2026-08-07T09:26:02.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
+      "localUrl": "/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
+      "summary": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate.",
+      "url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T09:25:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink",
+      "localUrl": "/news/20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
+      "summary": "Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling",
+      "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
+      "publishedAt": "2026-08-07T09:24:00.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-coldcard-fallout-shows-up-onchain-as-210000-bitcoin-leaves-old-wallets",
+      "localUrl": "/news/20260807-coldcard-fallout-shows-up-onchain-as-210000-bitcoin-leaves-old-wallets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+      "summary": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc’s crypto framework.",
+      "url": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T09:14:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260807-stripe-owned-bridge-joins-eu-mica-register-after-luxembourg-approval",
+      "localUrl": "/news/20260807-stripe-owned-bridge-joins-eu-mica-register-after-luxembourg-approval.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
@@ -72,6 +155,28 @@
       "category": "市场",
       "slug": "20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head",
       "localUrl": "/news/20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin doesn’t need CLARITY. America needs clarity. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5\" target=\"_blank\">Bitcoin doesn’t need CLARITY. America needs…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5",
+      "publishedAt": "2026-08-07T07:36:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
+      "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Upbit to Delist BONK on September 7 South Korea’s largest crypto exchange, Upbit, will delist Bonk (BONK) on September 7, affecting the BONK/KRW and BONK/USDT pairs. Upbit cited unresolved security incidents and insufficient disclosure of material infor - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdUx5VjlpRUlUX2JJRVFPNUN0SXYyNXh0SThvT05WRDh5RWtYdXNSVWVuZUxzMTZpYWJxUDhFeHU3MUphS0ZLMURxY1Jfb2MzVWYyTWg0VWQycVM3T0lDXzAybw?oc=5\" target=\"_blank\">Upbit to Delist BONK on Septembe…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdUx5VjlpRUlUX2JJRVFPNUN0SXYyNXh0SThvT05WRDh5RWtYdXNSVWVuZUxzMTZpYWJxUDhFeHU3MUphS0ZLMURxY1Jfb2MzVWYyTWg0VWQycVM3T0lDXzAybw?oc=5",
+      "publishedAt": "2026-08-07T07:20:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-upbit-to-delist-bonk-on-september-7-south-koreas-largest-crypto-exchange-upbit-w",
+      "localUrl": "/news/20260807-upbit-to-delist-bonk-on-september-7-south-koreas-largest-crypto-exchange-upbit-w.html"
     },
     {
       "source": "CoinDesk",
@@ -194,17 +299,6 @@
       "localUrl": "/news/20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 US Senate postpones crypto Clarity Act vote to September for when they return from August recess, per Politico. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0R2dKaVB1TmJLbG1mSE1DcWRDc0hPY0liZXlJQ0dhUGR1WWx0QTY2SmV1bWxHcE5RalB1UWVsZ09CeEV4T1VZX21hN1ZYOWFZV09LZjFCTnBGNEpISU9oX0piVQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 US Senate postpon…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0R2dKaVB1TmJLbG1mSE1DcWRDc0hPY0liZXlJQ0dhUGR1WWx0QTY2SmV1bWxHcE5RalB1UWVsZ09CeEV4T1VZX21hN1ZYOWFZV09LZjFCTnBGNEpISU9oX0piVQ?oc=5",
-      "publishedAt": "2026-08-07T02:17:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-breaking-us-senate-postpones-crypto-clarity-act-vote-to-september-for-when-they-",
-      "localUrl": "/news/20260807-breaking-us-senate-postpones-crypto-clarity-act-vote-to-september-for-when-they-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "MARA swings to Q2 loss as Bitcoin’s slump masks higher output",
       "summary": "Bitcoin miner MARA posted its highest quarterly Bitcoin production in over a year, but was overshadowed by a 28% decline in the average price of Bitcoin.",
@@ -232,6 +326,17 @@
       "category": "监管",
       "slug": "20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break",
       "localUrl": "/news/20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: 🇺🇸 Senate postpones the Crypto Clarity Act vote until after the summer recess. Senate Republicans are expected to leave Washington without taking up the crypto Clarity Act before the August recess, according to Politico. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VdTc0QldjUWFKVlhhbldvTW5VcnQ2RHJqSG91b3RDbXJpM1c2b04teW1TcEdRc2hEMjh3cXFlQkFJeTcwQ3liRHZDbDI0VmlMSlYxbDlMNzZTTVFBZ3J6R29CZw?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Senate postpones …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VdTc0QldjUWFKVlhhbldvTW5VcnQ2RHJqSG91b3RDbXJpM1c2b04teW1TcEdRc2hEMjh3cXFlQkFJeTcwQ3liRHZDbDI0VmlMSlYxbDlMNzZTTVFBZ3J6R29CZw?oc=5",
+      "publishedAt": "2026-08-07T02:14:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-breaking-senate-postpones-the-crypto-clarity-act-vote-until-after-the-summer-rec",
+      "localUrl": "/news/20260807-breaking-senate-postpones-the-crypto-clarity-act-vote-until-after-the-summer-rec.html"
     },
     {
       "source": "X Wire",
@@ -446,6 +551,17 @@
       "category": "基础设施",
       "slug": "20260806-solana-changelog-august-6-2026",
       "localUrl": "/news/20260806-solana-changelog-august-6-2026.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 CZ: Thailand confirms 0% capital gains tax on Bitcoin and crypto. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qb1JfMTRvUlczSTBwNTc3ZEhNbFl5ek1jck5JNHNuZllfUzRGbVVBcnhlZTI5TC1hTmlabTdUekpHSnhvVVU5MWRjbWthS192bnR4Rmw3V0NnY0JhSjNNVTJBMjA?oc=5\" target=\"_blank\">🔥 CZ: Thailand confirms 0% cap…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Qb1JfMTRvUlczSTBwNTc3ZEhNbFl5ek1jck5JNHNuZllfUzRGbVVBcnhlZTI5TC1hTmlabTdUekpHSnhvVVU5MWRjbWthS192bnR4Rmw3V0NnY0JhSjNNVTJBMjA?oc=5",
+      "publishedAt": "2026-08-06T17:20:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-cz-thailand-confirms-0-capital-gains-tax-on-bitcoin-and-crypto-xcom",
+      "localUrl": "/news/20260806-cz-thailand-confirms-0-capital-gains-tax-on-bitcoin-and-crypto-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -684,19 +800,6 @@
       "localUrl": "/news/20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-      "summary": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
-      "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T12:55:44.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260806-hyperliquid-rwa-contracts-grow-to-32-of-trading-activity-in-q2",
-      "localUrl": "/news/20260806-hyperliquid-rwa-contracts-grow-to-32-of-trading-activity-in-q2.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
       "summary": "After leading crypto ETF inflows in May and June, demand for Hyperliquid funds stalled in July and August as competition intensified, the bank said.",
@@ -741,17 +844,15 @@
       "localUrl": "/news/20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
-      "summary": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
-      "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T12:11:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260806-zeus-wallet-taken-offline-after-cyberattack-says-no-customer-funds-at-risk",
-      "localUrl": "/news/20260806-zeus-wallet-taken-offline-after-cyberattack-says-no-customer-funds-at-risk.html"
+      "source": "X Wire",
+      "title": "Bitcoin's options skew looks bearish – but not because traders are aggressively paying for protection. While downside IV is cheap, the real extreme is upside IV: an all-time low of 23%. Nobody is paying for $BTC upside anymore. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzcTZIUzgzeE1xb2NKVXVDaDFiQ1Q3SE5QeVh5YWJCOFVUZWUwR0RxX09mQXRhYXJMNWIwNXFaT0p0Tzhzdm1KdGJmcVdWZU12RUFWd25fZGZTeHBpMnY0?oc=5\" target=\"_blank\">Bitcoin's options skew looks bearish –…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzcTZIUzgzeE1xb2NKVXVDaDFiQ1Q3SE5QeVh5YWJCOFVUZWUwR0RxX09mQXRhYXJMNWIwNXFaT0p0Tzhzdm1KdGJmcVdWZU12RUFWd25fZGZTeHBpMnY0?oc=5",
+      "publishedAt": "2026-08-06T12:02:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-bitcoins-options-skew-looks-bearish-but-not-because-traders-are-aggressively-pay",
+      "localUrl": "/news/20260806-bitcoins-options-skew-looks-bearish-but-not-because-traders-are-aggressively-pay.html"
     },
     {
       "source": "Decrypt",
@@ -912,35 +1013,6 @@
       "localUrl": "/news/20260806-nft-startup-founder-charged-with-misusing-funds-from-10-million-fundraising.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flatlines near $64,000 ahead of Friday's jobs report",
-      "summary": "Trump’s comments on jobs, inflation and a possible Strait of Hormuz deal have helped risk sentiment, but bitcoin’s next move depends on whether lower oil actually pulls Treasury yields and the dollar down.",
-      "url": "https://www.coindesk.com/tech/2026/08/06/live-updates-bitcoin-nears-usd65-000-as-oil-inflation-hopes-keep-macro-bid-alive",
-      "publishedAt": "2026-08-06T07:26:23.000Z",
-      "keywords": [
-        "Tech",
-        "Live News",
-        "live_news"
-      ],
-      "category": "DeFi",
-      "slug": "20260806-live-updates-bitcoin-flatlines-near-64000-ahead-of-fridays-jobs-report",
-      "localUrl": "/news/20260806-live-updates-bitcoin-flatlines-near-64000-ahead-of-fridays-jobs-report.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin developers flag 85 critical bugs in an \"extremely bad\" situation",
-      "summary": "A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.",
-      "url": "https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
-      "publishedAt": "2026-08-06T07:14:11.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260806-bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation",
-      "localUrl": "/news/20260806-bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 NEW: The Ethereum Foundation's Trillion Dollar Security initiative granted funding to support continued development of WEBCAT. It aims to close a front-end security gap that puts Ethereum wallets and apps at risk. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE90YnduMldLQnhhb3hLWUI3Vk0xTnZWUjlaZ1pOS0c5cS1uVnFLd0o1QUx5VUdtLUc2SWhkRkEyZE1JSVJHVC1lNlgtZDB6MzVJS1M5bmpveHBYMDdfd0NqVnFzVVk?oc=5\" target=\"_blank\">🚨 NEW: The Ethereum Foundation…",
@@ -1002,32 +1074,6 @@
       "localUrl": "/news/20260805-perplexity-wins-appeal-against-amazon-in-ai-agent-shopping-lawsuit.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-      "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
-      "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
-      "publishedAt": "2026-08-05T19:42:48.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260805-visa-widens-stablecoin-payouts-via-zerohash-rails",
-      "localUrl": "/news/20260805-visa-widens-stablecoin-payouts-via-zerohash-rails.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-      "summary": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
-      "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
-      "publishedAt": "2026-08-05T19:11:23.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260805-openai-and-anthropics-rogue-models-hacked-real-companies-the-law-has-no-answer",
-      "localUrl": "/news/20260805-openai-and-anthropics-rogue-models-hacked-real-companies-the-law-has-no-answer.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Webinar Recap: Giving AI agents a native way to pay with x402",
       "summary": "X402 has processed roughly 200M transactions and $50B in volume, giving AI agents a stablecoin-native way to pay for web resources.",
@@ -1037,17 +1083,6 @@
       "category": "基础设施",
       "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
       "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Most people still think crypto is about tokens going up and down. It isn't. Or at least, that's the smallest part of what's happening. Money is about to start moving at silicon speed. Billions of agents transacting with each other, negotiating, settling and running full b - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkaWw5SEZHNTFkRE9acUx0UFRmNUtla09oY3ZsY2tNeDg1VE5XaVd1U005YnhwT3doVGFkMXpmMDA4eVhTTkVOR0RCSktoWUljNWo3dW5EUjJfblRXUWc?oc=5\" target=\"_blank\">Most people still think crypto is about…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkaWw5SEZHNTFkRE9acUx0UFRmNUtla09oY3ZsY2tNeDg1VE5XaVd1U005YnhwT3doVGFkMXpmMDA4eVhTTkVOR0RCSktoWUljNWo3dW5EUjJfblRXUWc?oc=5",
-      "publishedAt": "2026-08-05T17:25:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-most-people-still-think-crypto-is-about-tokens-going-up-and-down-it-isnt-or-at-l",
-      "localUrl": "/news/20260805-most-people-still-think-crypto-is-about-tokens-going-up-and-down-it-isnt-or-at-l.html"
     },
     {
       "source": "X Wire",
@@ -1101,39 +1136,6 @@
       "category": "基础设施",
       "slug": "20260805-solana-ecosystem-roundup-july-2026",
       "localUrl": "/news/20260805-solana-ecosystem-roundup-july-2026.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum should not focus on gaming staking issuance and cutting staking rewards. That is not the problem Ethereum needs to solve. Ethereum is still an unfinished product when it comes to serving the financial system. At the protocol level, the priorities are p - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hMTdPZmF2bDNlbndOZzF4SXBXdEVaQXpDOHNmaS1YNzMyU0txQ2F2azQtVDQ1OHVDQU5sNjNReXhuSF9IUWg5aTI5X29HRGFDMGctdWhtOExPc0RjU1ZwTVZ1ZTI?oc=5\" target=\"_blank\">Ethereum should not focus on ga…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hMTdPZmF2bDNlbndOZzF4SXBXdEVaQXpDOHNmaS1YNzMyU0txQ2F2azQtVDQ1OHVDQU5sNjNReXhuSF9IUWg5aTI5X29HRGFDMGctdWhtOExPc0RjU1ZwTVZ1ZTI?oc=5",
-      "publishedAt": "2026-08-05T08:53:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards",
-      "localUrl": "/news/20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Your crypto assets 🤝 Your stock exposure bStocks live right in your blockchain wallet so you can manage your portfolio in one place. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbTFDN2xxR0FfMkxpMk04SDVOXzRFSi1OeVdnc2JBNEdWT2FOQVJhV0xWMGdpVVVtU3RtODdEMHVqeU9jNWZnc2hfbm01N2d5S2w4bGZ3TDZJZHk1?oc=5\" target=\"_blank\">Your crypto assets 🤝 Your stock exposure …",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbTFDN2xxR0FfMkxpMk04SDVOXzRFSi1OeVdnc2JBNEdWT2FOQVJhV0xWMGdpVVVtU3RtODdEMHVqeU9jNWZnc2hfbm01N2d5S2w4bGZ3TDZJZHk1?oc=5",
-      "publishedAt": "2026-08-05T06:01:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal",
-      "localUrl": "/news/20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I've been in crypto for 8+ years. For the first time ever — substance has gotten ahead of price. It's happening. Crypto is going to update the system. Not done, but can't be stopped now. Bravo to the relentless teams in this space. Keep going. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Lc3ZmRVhSRGFqaWpVejEtMVBXSkhwVTJfUGtaUGJ5RjV4eUV5TlNxVnlyRUpULUZDT2pYOUpKcF8zcmhnVE1lczRXX0JiUFdrRndRb01LNENzSDhVM0E?oc=5\" target=\"_blank\">I've been in crypto for 8+ years. For t…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Lc3ZmRVhSRGFqaWpVejEtMVBXSkhwVTJfUGtaUGJ5RjV4eUV5TlNxVnlyRUpULUZDT2pYOUpKcF8zcmhnVE1lczRXX0JiUFdrRndRb01LNENzSDhVM0E?oc=5",
-      "publishedAt": "2026-08-05T03:03:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-ive-been-in-crypto-for-8-years-for-the-first-time-ever-substance-has-gotten-ahea",
-      "localUrl": "/news/20260805-ive-been-in-crypto-for-8-years-for-the-first-time-ever-substance-has-gotten-ahea.html"
     },
     {
       "source": "Ethereum Blog",
