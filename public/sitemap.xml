@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T18:00:34.148Z</lastmod>
+    <lastmod>2026-08-07T19:11:16.080Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T18:00:34.148Z</lastmod>
+    <lastmod>2026-08-07T19:11:16.080Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html</loc>
+    <lastmod>2026-08-07T18:42:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-07T18:36:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260807-circle-expands-usdc-to-okx-ecosystem-with-x-layer-launch.html</loc>
@@ -91,18 +103,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc.html</loc>
-    <lastmod>2026-08-07T14:42:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-president-trump-says-bitcoin-takes-a-lot-of-pressure-off-the-us-dollar-x.html</loc>
-    <lastmod>2026-08-07T14:38:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act.html</loc>
     <lastmod>2026-08-07T14:30:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -111,12 +111,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html</loc>
     <lastmod>2026-08-07T14:04:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-07T13:49:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -181,6 +175,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html</loc>
+    <lastmod>2026-08-07T11:54:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html</loc>
     <lastmod>2026-08-07T11:45:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -195,6 +195,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html</loc>
     <lastmod>2026-08-07T11:30:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-just-in-65000-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-07T11:26:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break.html</loc>
-    <lastmod>2026-08-07T02:14:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-breaking-senate-delays-crypto-clarity-act-vote-until-after-the-summer-recess-xco.html</loc>
     <lastmod>2026-08-07T02:00:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -505,8 +505,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-6460323-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-06T00:43:49.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading.html</loc>
+    <lastmod>2026-08-06T10:27:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

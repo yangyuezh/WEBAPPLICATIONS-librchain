@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-07T18:00:34.120Z",
+  "updatedAt": "2026-08-07T19:11:16.036Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+      "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
+      "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "publishedAt": "2026-08-07T18:42:44.000Z",
+      "keywords": [
+        "Policy",
+        "Iran",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "localUrl": "/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T18:36:10.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260807-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260807-heres-what-happened-in-crypto-today.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
@@ -188,28 +216,6 @@
       "localUrl": "/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 President Donald Trump says Bitcoin \"is a good thing for our country.\" Bitcoin \"takes a lot of pressure off our dollar.\" 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUV0EwTXpGZ3lLczBwMXVvLTdodFdlY1drNWVQMXRrQmoydG1qVXJvVXpJd3dGTVU2T3psTEVtRjRCenVPWlBhWU04eVJpWDBvRzBHU3JmZ3VxNDBQUTNIUEppT1hlc2M?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 President Don…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUV0EwTXpGZ3lLczBwMXVvLTdodFdlY1drNWVQMXRrQmoydG1qVXJvVXpJd3dGTVU2T3psTEVtRjRCenVPWlBhWU04eVJpWDBvRzBHU3JmZ3VxNDBQUTNIUEppT1hlc2M?oc=5",
-      "publishedAt": "2026-08-07T14:42:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc",
-      "localUrl": "/news/20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 President Trump says Bitcoin takes a lot of \"pressure\" off the US dollar. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWDRrRjVBV3Vhemt6N0MzOHpVRlFxc1Z0UHphSS1fSTJUajdlZXZuemhsbnVSbUhPdDc0QnJlakpQSFFxOXZ0Q2RnRHlsVjNjUHo0U2RSdXpBZGpCTlkzUVpB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 President Trump says…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWDRrRjVBV3Vhemt6N0MzOHpVRlFxc1Z0UHphSS1fSTJUajdlZXZuemhsbnVSbUhPdDc0QnJlakpQSFFxOXZ0Q2RnRHlsVjNjUHo0U2RSdXpBZGpCTlkzUVpB?oc=5",
-      "publishedAt": "2026-08-07T14:38:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-just-in-president-trump-says-bitcoin-takes-a-lot-of-pressure-off-the-us-dollar-x",
-      "localUrl": "/news/20260807-just-in-president-trump-says-bitcoin-takes-a-lot-of-pressure-off-the-us-dollar-x.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
       "summary": "When FTX collapsed, the parts of it bound by law survived. Mainstream finance is now converging with digital assets, and the law built to protect it the same way is the one the Senate did not pass this week, argues Bullish's Randi Aberneth…",
@@ -237,19 +243,6 @@
       "category": "监管",
       "slug": "20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain",
       "localUrl": "/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T13:49:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260807-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260807-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "X Wire",
@@ -385,6 +378,17 @@
       "localUrl": "/news/20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning.html"
     },
     {
+      "source": "X Wire",
+      "title": "A proposal now before the Ethereum community would sharply reduce the reward for securing the network. Its odds for passing are long. Its implications are not. It would undermine DeFi, push capital off the chain, and cost ETH the yield productivity that differe - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5\" target=\"_blank\">A proposal now before the Ethereum com…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5",
+      "publishedAt": "2026-08-07T11:54:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for",
+      "localUrl": "/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
       "summary": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
@@ -424,6 +428,17 @@
       "category": "X热点",
       "slug": "20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take",
       "localUrl": "/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $65,000 Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zQWp4dE04WXNKNDR2TjVoTnA0cE1jZUZNMTFENWpfUjVXU0xtYzJBZllXS0hsN3FQenliS2FLR1ZuZWRDcVAyazVEbF9yOXRsa3N0R1NfUlNGQjI1QnRLNW93?oc=5\" target=\"_blank\">JUST IN: $65,000 Bitcoin</a> <font…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zQWp4dE04WXNKNDR2TjVoTnA0cE1jZUZNMTFENWpfUjVXU0xtYzJBZllXS0hsN3FQenliS2FLR1ZuZWRDcVAyazVEbF9yOXRsa3N0R1NfUlNGQjI1QnRLNW93?oc=5",
+      "publishedAt": "2026-08-07T11:26:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-65000-bitcoin-xcom",
+      "localUrl": "/news/20260807-just-in-65000-bitcoin-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -759,22 +774,6 @@
       "localUrl": "/news/20260807-mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Senate won't vote on crypto Clarity Act before its summer break",
-      "summary": "The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year.",
-      "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-      "publishedAt": "2026-08-07T02:14:43.000Z",
-      "keywords": [
-        "Policy",
-        "Breaking News",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break",
-      "localUrl": "/news/20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 BREAKING: Senate delays Crypto CLARITY Act vote until after the summer recess. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUzZJcXQyRi1HOTJXWXNsMTU0NGpMaW5HTXZQVEc3amVGdzduUGNLdUVSM1U2ZWR3c3hZNzdmVTU2VmdEbHlLU3VwRV9CWnV4UktYZ0tVRG5VWU5HWEhKeA?oc=5\" target=\"_blank\">🇺🇸 BREAKING: Senate delays Crypto …",
@@ -1087,14 +1086,14 @@
     },
     {
       "source": "X Wire",
-      "title": "$64,603.23 #Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE51SndGUTR0T0hFUjlRQ21NSzAxc2Ria1JGcWl5LUZaZzVLZlhfVDVpNlNoLUFtODJlWWx4SldQeldCdjliR05fV3JoR3dtN3dVRmVSaUlKWndYdFd4?oc=5\" target=\"_blank\">$64,603.23 #Bitcoin</a> <font color=\"#6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51SndGUTR0T0hFUjlRQ21NSzAxc2Ria1JGcWl5LUZaZzVLZlhfVDVpNlNoLUFtODJlWWx4SldQeldCdjliR05fV3JoR3dtN3dVRmVSaUlKWndYdFd4?oc=5",
-      "publishedAt": "2026-08-06T00:43:49.000Z",
+      "title": "LATEST: Putin signs Russia's landmark crypto law allowing regulated retail trading capped at $3,700/year and cross-border settlements, while maintaining the domestic ban on crypto payments. Takes effect September 1. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTTR2d25CZU1XQ2hpUGp1N0JIM1pIS1dZWFdRaWZ6Xzhna2FqLWkxbjFyLXJxR1NXSnIxTTYxZVJKazBNcHpoZTNLNXFfR3lvX0Zxd3RZSUVIWUhqYWc?oc=5\" target=\"_blank\">LATEST: Putin signs Russia's landmark c…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTTR2d25CZU1XQ2hpUGp1N0JIM1pIS1dZWFdRaWZ6Xzhna2FqLWkxbjFyLXJxR1NXSnIxTTYxZVJKazBNcHpoZTNLNXFfR3lvX0Zxd3RZSUVIWUhqYWc?oc=5",
+      "publishedAt": "2026-08-06T10:27:47.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260806-6460323-bitcoin-xcom",
-      "localUrl": "/news/20260806-6460323-bitcoin-xcom.html"
+      "slug": "20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading",
+      "localUrl": "/news/20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading.html"
     },
     {
       "source": "Solana Blog",
