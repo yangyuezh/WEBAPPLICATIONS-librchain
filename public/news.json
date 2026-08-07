@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-07T07:38:08.060Z",
+  "updatedAt": "2026-08-07T09:13:10.288Z",
   "total": 88,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
+      "summary": "Industry figures warned that continued legislative limbo could slow institutional adoption, revive regulation by enforcement and push innovation offshore.",
+      "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T09:01:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260807-clarity-act-delay-gives-asian-financial-hubs-an-opening-first-digital-ceo",
+      "localUrl": "/news/20260807-clarity-act-delay-gives-asian-financial-hubs-an-opening-first-digital-ceo.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "summary": "The crypto market maker can now trade US stocks and options and support ETFs as crypto moves closer to traditional markets.",
+      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+      "publishedAt": "2026-08-07T08:46:17.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-crypto-market-maker-wintermute-lands-sec-approval-to-trade-equities-and-etf-bloc",
+      "localUrl": "/news/20260807-crypto-market-maker-wintermute-lands-sec-approval-to-trade-equities-and-etf-bloc.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
+      "summary": "The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.",
+      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "publishedAt": "2026-08-07T08:01:28.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+      "localUrl": "/news/20260807-ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
+      "summary": "The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026.",
+      "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T07:59:42.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260807-coldcard-exploit-pushes-july-losses-to-247m-as-second-worst-month-of-2026",
+      "localUrl": "/news/20260807-coldcard-exploit-pushes-july-losses-to-247m-as-second-worst-month-of-2026.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
+      "summary": "Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
+      "publishedAt": "2026-08-07T07:44:57.000Z",
+      "keywords": [
+        "Markets",
+        "Live News",
+        "live_news"
+      ],
+      "category": "市场",
+      "slug": "20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head",
+      "localUrl": "/news/20260807-live-updates-bitcoin-flat-at-64300-before-us-jobs-report-with-oil-back-as-a-head.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
@@ -161,6 +232,17 @@
       "category": "监管",
       "slug": "20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break",
       "localUrl": "/news/20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 BREAKING: Senate delays Crypto CLARITY Act vote until after the summer recess. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUzZJcXQyRi1HOTJXWXNsMTU0NGpMaW5HTXZQVEc3amVGdzduUGNLdUVSM1U2ZWR3c3hZNzdmVTU2VmdEbHlLU3VwRV9CWnV4UktYZ0tVRG5VWU5HWEhKeA?oc=5\" target=\"_blank\">🇺🇸 BREAKING: Senate delays Crypto …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUzZJcXQyRi1HOTJXWXNsMTU0NGpMaW5HTXZQVEc3amVGdzduUGNLdUVSM1U2ZWR3c3hZNzdmVTU2VmdEbHlLU3VwRV9CWnV4UktYZ0tVRG5VWU5HWEhKeA?oc=5",
+      "publishedAt": "2026-08-07T02:00:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-breaking-senate-delays-crypto-clarity-act-vote-until-after-the-summer-recess-xco",
+      "localUrl": "/news/20260807-breaking-senate-delays-crypto-clarity-act-vote-until-after-the-summer-recess-xco.html"
     },
     {
       "source": "X Wire",
@@ -704,32 +786,6 @@
       "localUrl": "/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
-      "summary": "While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are widening the physical risks facing crypto holders.",
-      "url": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T12:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260806-crypto-wrench-attacks-steal-more-than-30m-so-far-in-2026-chainalysis",
-      "localUrl": "/news/20260806-crypto-wrench-attacks-steal-more-than-30m-so-far-in-2026-chainalysis.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin treasury trade ‘breaking’ and fund holdings drop 10%: Analysis",
-      "summary": "Doubts emerge over the Bitcoin corporate treasury model as institutional BTC investment vehicles cut holdings.",
-      "url": "https://cointelegraph.com/markets/bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T11:48:37.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260806-bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis",
-      "localUrl": "/news/20260806-bitcoin-treasury-trade-breaking-and-fund-holdings-drop-10-analysis.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin’s low volatility doesn’t necessarily mean low risk",
       "summary": "Your day-ahead look for Aug. 6, 2026",
@@ -885,21 +941,6 @@
       "localUrl": "/news/20260806-bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "S&P 500 added all of crypto's $2 trillion market cap in a month while bitcoin barely moved. Here's why",
-      "summary": "The S&P 500 just added roughly the entire crypto market's value this month. Bitcoin has barely moved, and the reasons go beyond the obvious.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/s-and-p-500-has-added-crypto-s-usd2-trillion-market-cap-this-month-bitcoin-is-not-impressed-here-s-why",
-      "publishedAt": "2026-08-06T06:10:43.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260806-sp-500-added-all-of-cryptos-2-trillion-market-cap-in-a-month-while-bitcoin-barel",
-      "localUrl": "/news/20260806-sp-500-added-all-of-cryptos-2-trillion-market-cap-in-a-month-while-bitcoin-barel.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 NEW: The Ethereum Foundation's Trillion Dollar Security initiative granted funding to support continued development of WEBCAT. It aims to close a front-end security gap that puts Ethereum wallets and apps at risk. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE90YnduMldLQnhhb3hLWUI3Vk0xTnZWUjlaZ1pOS0c5cS1uVnFLd0o1QUx5VUdtLUc2SWhkRkEyZE1JSVJHVC1lNlgtZDB6MzVJS1M5bmpveHBYMDdfd0NqVnFzVVk?oc=5\" target=\"_blank\">🚨 NEW: The Ethereum Foundation…",
@@ -909,45 +950,6 @@
       "category": "X热点",
       "slug": "20260806-new-the-ethereum-foundations-trillion-dollar-security-initiative-granted-funding",
       "localUrl": "/news/20260806-new-the-ethereum-foundations-trillion-dollar-security-initiative-granted-funding.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock",
-      "summary": "Korea's Kospi fell 4.4% as the AI trade wobbled, and $101 billion of SpaceX stock becomes tradable Thursday.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-steadies-above-usd64-000-as-traders-watch-usd100-billion-spacex-unlock",
-      "publishedAt": "2026-08-06T04:59:11.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260806-bitcoin-steadies-above-64000-as-traders-watch-100-billion-spacex-unlock",
-      "localUrl": "/news/20260806-bitcoin-steadies-above-64000-as-traders-watch-100-billion-spacex-unlock.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-      "summary": "CryptoQuant said large XRP spot orders point to \"quiet accumulation\" rather than a breakout, while ether’s price below realized value leaves holders underwater and gives it the strongest valuation case among BTC, ETH and XRP.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "publishedAt": "2026-08-06T04:46:17.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260806-xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-      "localUrl": "/news/20260806-xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CLARITY Act Could Fall 10 Votes Short The Senate's landmark crypto bill is stuck in limbo with recess two days away. Majority Leader John Thune has not filed the procedural vote needed to move forward. Per reports, ethics concerns over Donald Trump's cry - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE13b2I0NHcxa0ZnQW8zTEZrMk56SkZZZGVZZDBCbjZCOUEtamRScnladWZDaklPT19PMkJqRFZCSHJaRUtBblV6YUxObnAtZXd0YWpNY0pIOThWbTFs?oc=5\" target=\"_blank\">CLARITY Act Could Fall 10 Votes Short The …",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13b2I0NHcxa0ZnQW8zTEZrMk56SkZZZGVZZDBCbjZCOUEtamRScnladWZDaklPT19PMkJqRFZCSHJaRUtBblV6YUxObnAtZXd0YWpNY0pIOThWbTFs?oc=5",
-      "publishedAt": "2026-08-06T03:56:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-clarity-act-could-fall-10-votes-short-the-senates-landmark-crypto-bill-is-stuck-",
-      "localUrl": "/news/20260806-clarity-act-could-fall-10-votes-short-the-senates-landmark-crypto-bill-is-stuck-.html"
     },
     {
       "source": "X Wire",
@@ -1090,17 +1092,6 @@
       "localUrl": "/news/20260805-chainalysis-supports-cronos-with-automatic-token-support.html"
     },
     {
-      "source": "X Wire",
-      "title": "Arc Mainnet launches September 16. Arc is an open blockchain network being built for the world’s financial markets, real-time money movement, and agentic economic activity. Arc’s founding validator cohort includes @BlackRock, @The_DTCC, @galaxyhq, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lZzZ6TVZyaTV0WU5YZHU1azdPMHZaTEhzbmZOUVlPSWtaVkRHQUdlYVpDWU9PVXlQbGtuUVRHYW5acFI2Q0dCUDFnTWFuSEpuVzNweDhJQQ?oc=5\" target=\"_blank\">Arc Mainnet launches September 16. Arc is an ope…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lZzZ6TVZyaTV0WU5YZHU1azdPMHZaTEhzbmZOUVlPSWtaVkRHQUdlYVpDWU9PVXlQbGtuUVRHYW5acFI2Q0dCUDFnTWFuSEpuVzNweDhJQQ?oc=5",
-      "publishedAt": "2026-08-05T13:39:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-arc-mainnet-launches-september-16-arc-is-an-open-blockchain-network-being-built-",
-      "localUrl": "/news/20260805-arc-mainnet-launches-september-16-arc-is-an-open-blockchain-network-being-built-.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Solana Ecosystem Roundup: July 2026",
       "summary": "Tokenized equities expanded, real-world assets hit $3.73B, payments reached 330,000+ merchants, and block capacity increased 66% in a milestone month.",
@@ -1121,6 +1112,17 @@
       "category": "X热点",
       "slug": "20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards",
       "localUrl": "/news/20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Your crypto assets 🤝 Your stock exposure bStocks live right in your blockchain wallet so you can manage your portfolio in one place. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbTFDN2xxR0FfMkxpMk04SDVOXzRFSi1OeVdnc2JBNEdWT2FOQVJhV0xWMGdpVVVtU3RtODdEMHVqeU9jNWZnc2hfbm01N2d5S2w4bGZ3TDZJZHk1?oc=5\" target=\"_blank\">Your crypto assets 🤝 Your stock exposure …",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rbTFDN2xxR0FfMkxpMk04SDVOXzRFSi1OeVdnc2JBNEdWT2FOQVJhV0xWMGdpVVVtU3RtODdEMHVqeU9jNWZnc2hfbm01N2d5S2w4bGZ3TDZJZHk1?oc=5",
+      "publishedAt": "2026-08-05T06:01:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal",
+      "localUrl": "/news/20260805-your-crypto-assets-your-stock-exposure-bstocks-live-right-in-your-blockchain-wal.html"
     },
     {
       "source": "X Wire",
