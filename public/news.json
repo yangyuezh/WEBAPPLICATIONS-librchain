@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-08-07T16:07:31.781Z",
+  "updatedAt": "2026-08-07T17:06:27.159Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "summary": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source familiar.",
+      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "publishedAt": "2026-08-07T16:53:56.000Z",
+      "keywords": [
+        "Finance",
+        "mergers and acquisitions",
+        "BitMEX",
+        "Exclusive",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260807-bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine",
+      "localUrl": "/news/20260807-bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+      "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
+      "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+      "publishedAt": "2026-08-07T16:36:59.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "安全",
+      "slug": "20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas",
+      "localUrl": "/news/20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "summary": "The exchange has secured a preliminary injunction freezing stolen assets.",
+      "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+      "publishedAt": "2026-08-07T16:32:41.000Z",
+      "keywords": [
+        "Policy",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-bybit-sues-north-korea-and-lazarus-group-over-15-billion-hack-secures-asset-free",
+      "localUrl": "/news/20260807-bybit-sues-north-korea-and-lazarus-group-over-15-billion-hack-secures-asset-free.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+      "summary": "A soft July payrolls print pulled September rate-hike odds down. It gives investors in risk assets hope, but Bitcoin remains in bear territory.",
+      "url": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
+      "publishedAt": "2026-08-07T16:07:12.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260807-bitcoin-still-in-death-cross-as-jobs-miss-cuts-rate-hike-odds",
+      "localUrl": "/news/20260807-bitcoin-still-in-death-cross-as-jobs-miss-cuts-rate-hike-odds.html"
+    },
     {
       "source": "Decrypt",
       "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
@@ -89,6 +147,28 @@
       "category": "RWA",
       "slug": "20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking",
       "localUrl": "/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 President Donald Trump says Bitcoin \"is a good thing for our country.\" Bitcoin \"takes a lot of pressure off our dollar.\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUV0EwTXpGZ3lLczBwMXVvLTdodFdlY1drNWVQMXRrQmoydG1qVXJvVXpJd3dGTVU2T3psTEVtRjRCenVPWlBhWU04eVJpWDBvRzBHU3JmZ3VxNDBQUTNIUEppT1hlc2M?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 President Don…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUV0EwTXpGZ3lLczBwMXVvLTdodFdlY1drNWVQMXRrQmoydG1qVXJvVXpJd3dGTVU2T3psTEVtRjRCenVPWlBhWU04eVJpWDBvRzBHU3JmZ3VxNDBQUTNIUEppT1hlc2M?oc=5",
+      "publishedAt": "2026-08-07T14:42:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc",
+      "localUrl": "/news/20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 President Trump says Bitcoin takes a lot of \"pressure\" off the US dollar. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWDRrRjVBV3Vhemt6N0MzOHpVRlFxc1Z0UHphSS1fSTJUajdlZXZuemhsbnVSbUhPdDc0QnJlakpQSFFxOXZ0Q2RnRHlsVjNjUHo0U2RSdXpBZGpCTlkzUVpB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 President Trump says…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vWDRrRjVBV3Vhemt6N0MzOHpVRlFxc1Z0UHphSS1fSTJUajdlZXZuemhsbnVSbUhPdDc0QnJlakpQSFFxOXZ0Q2RnRHlsVjNjUHo0U2RSdXpBZGpCTlkzUVpB?oc=5",
+      "publishedAt": "2026-08-07T14:38:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-president-trump-says-bitcoin-takes-a-lot-of-pressure-off-the-us-dollar-x",
+      "localUrl": "/news/20260807-just-in-president-trump-says-bitcoin-takes-a-lot-of-pressure-off-the-us-dollar-x.html"
     },
     {
       "source": "CoinDesk",
@@ -657,17 +737,6 @@
     },
     {
       "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 Senate postpones the Crypto Clarity Act vote until after the summer recess. Senate Republicans are expected to leave Washington without taking up the crypto Clarity Act before the August recess, according to Politico. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VdTc0QldjUWFKVlhhbldvTW5VcnQ2RHJqSG91b3RDbXJpM1c2b04teW1TcEdRc2hEMjh3cXFlQkFJeTcwQ3liRHZDbDI0VmlMSlYxbDlMNzZTTVFBZ3J6R29CZw?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Senate postpones …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VdTc0QldjUWFKVlhhbldvTW5VcnQ2RHJqSG91b3RDbXJpM1c2b04teW1TcEdRc2hEMjh3cXFlQkFJeTcwQ3liRHZDbDI0VmlMSlYxbDlMNzZTTVFBZ3J6R29CZw?oc=5",
-      "publishedAt": "2026-08-07T02:14:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-breaking-senate-postpones-the-crypto-clarity-act-vote-until-after-the-summer-rec",
-      "localUrl": "/news/20260807-breaking-senate-postpones-the-crypto-clarity-act-vote-until-after-the-summer-rec.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🇺🇸 BREAKING: Senate delays Crypto CLARITY Act vote until after the summer recess. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUzZJcXQyRi1HOTJXWXNsMTU0NGpMaW5HTXZQVEc3amVGdzduUGNLdUVSM1U2ZWR3c3hZNzdmVTU2VmdEbHlLU3VwRV9CWnV4UktYZ0tVRG5VWU5HWEhKeA?oc=5\" target=\"_blank\">🇺🇸 BREAKING: Senate delays Crypto …",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUzZJcXQyRi1HOTJXWXNsMTU0NGpMaW5HTXZQVEc3amVGdzduUGNLdUVSM1U2ZWR3c3hZNzdmVTU2VmdEbHlLU3VwRV9CWnV4UktYZ0tVRG5VWU5HWEhKeA?oc=5",
@@ -711,22 +780,6 @@
       "category": "X热点",
       "slug": "20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom",
       "localUrl": "/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Power struggle erupts at Ondo Finance after founder’s death",
-      "summary": "Three Delaware court filings reveal a battle for control of Ondo Finance after founder Nathan Allman's death.",
-      "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
-      "publishedAt": "2026-08-06T21:59:33.000Z",
-      "keywords": [
-        "Policy",
-        "ondo finance",
-        "litigation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260806-power-struggle-erupts-at-ondo-finance-after-founders-death",
-      "localUrl": "/news/20260806-power-struggle-erupts-at-ondo-finance-after-founders-death.html"
     },
     {
       "source": "Decrypt",
@@ -940,23 +993,6 @@
       "localUrl": "/news/20260806-duckduckgos-meta-trolling-normal-fing-sunglasses-sell-out-in-under-a-week.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-      "summary": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
-      "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-      "publishedAt": "2026-08-06T16:10:04.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "Real World Assets",
-        "Tether",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260806-tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-      "localUrl": "/news/20260806-tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨NEW: Crypto policy folks remain in what one industry source described to me as a “weird limbo,” even as the White House has now started engaging on the Tillis-Gallego bipartisan ethics counteroffer. Behind the scenes, I’m told there’s been an intense effort - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4TUhPaGhqX3Q0c0N0bGdpQlN0MElrUjdpNUtnNE1FcDUwM1huZnNITGczY3BhbGRXSjhsdWozSGl0bkZOc1dZU2g0QndCMDZoeG5JMHQ4OXVhUVh0MGlWWU1McG4xUQ?oc=5\" target=\"_blank\">🚨NEW: Crypto policy folks r…",
@@ -1020,33 +1056,6 @@
       "localUrl": "/news/20260806-what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
-      "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
-      "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
-      "publishedAt": "2026-08-06T12:46:19.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260806-scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
-      "localUrl": "/news/20260806-scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
-      "summary": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
-      "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
-      "publishedAt": "2026-08-06T12:28:46.000Z",
-      "keywords": [
-        "uniswap",
-        "Opinion"
-      ],
-      "category": "综合",
-      "slug": "20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
-      "localUrl": "/news/20260806-morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
       "summary": "Summary Annual value stolen in violent attacks peaked at $58 million in 2025, the highest on record, with 2026 already… The post Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot appeared f…",
@@ -1097,17 +1106,6 @@
       "category": "基础设施",
       "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
       "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "0/ As AI systems become more powerful, formal verification – which is the discipline of using mathematics to prove computer programs correct – shows more and more promise. A guest thread by @big_tech_sux, lead developer of @vyperlang 🧵 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN0NDYzYzLWZJMUFZYmZxU2NqbUJ4QnRqSEM1bzhDaXFSNEZQY0FueE5PalVHV3paSnM1bXBId0ZLZUZENVpoRnRRNkdUdkt3Q2JrSWt0b3JpZmhlTUE?oc=5\" target=\"_blank\">0/ As AI systems become more powerful, …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LN0NDYzYzLWZJMUFZYmZxU2NqbUJ4QnRqSEM1bzhDaXFSNEZQY0FueE5PalVHV3paSnM1bXBId0ZLZUZENVpoRnRRNkdUdkt3Q2JrSWt0b3JpZmhlTUE?oc=5",
-      "publishedAt": "2026-08-05T16:10:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260805-0-as-ai-systems-become-more-powerful-formal-verification-which-is-the-discipline",
-      "localUrl": "/news/20260805-0-as-ai-systems-become-more-powerful-formal-verification-which-is-the-discipline.html"
     },
     {
       "source": "Chainalysis Blog",
