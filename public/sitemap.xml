@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-07T00:12:00.300Z</lastmod>
+    <lastmod>2026-08-07T04:02:40.546Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-07T00:12:00.300Z</lastmod>
+    <lastmod>2026-08-07T04:02:40.546Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-bitget-explores-licensed-crypto-presence-in-bhutan.html</loc>
+    <lastmod>2026-08-07T03:22:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-us-senate-pushes-clarity-act-vote-to-september-report.html</loc>
+    <lastmod>2026-08-07T02:49:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-mara-swings-to-q2-loss-as-bitcoins-slump-masks-higher-output.html</loc>
+    <lastmod>2026-08-07T02:17:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-senate-wont-vote-on-crypto-clarity-act-before-its-summer-break.html</loc>
+    <lastmod>2026-08-07T02:14:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html</loc>
+    <lastmod>2026-08-07T00:49:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-crypto-market-maker-wintermute-launches-us-broker-dealer.html</loc>
+    <lastmod>2026-08-07T00:09:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html</loc>
+    <lastmod>2026-08-06T22:06:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260806-power-struggle-erupts-at-ondo-finance-after-founders-death.html</loc>
@@ -187,6 +229,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260806-just-in-senate-has-1-day-to-pass-the-crypto-clarity-act-before-leaving-for-summe.html</loc>
+    <lastmod>2026-08-06T13:19:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260806-blockchaincom-wins-cayman-custody-license-after-mica-and-fca-approvals.html</loc>
     <lastmod>2026-08-06T13:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -307,32 +355,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-russian-president-signs-crypto-law-core-rules-take-effect-in-2026.html</loc>
-    <lastmod>2026-08-06T09:38:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-rwas-buck-defi-slowdown-as-tokenized-assets-gain-traction-coinshares.html</loc>
-    <lastmod>2026-08-06T09:28:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-nft-startup-founder-charged-with-misusing-funds-from-10-million-fundraising.html</loc>
     <lastmod>2026-08-06T09:19:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-yen-stablecoin-issuer-jpycs-series-b-reaches-38m.html</loc>
-    <lastmod>2026-08-06T08:44:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-bitcoin-backed-loan-refinances-powercomputes-18m-debt-at-2.html</loc>
-    <lastmod>2026-08-06T07:56:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260805-coldcard-exploit-could-boost-demand-for-regulated-bitcoin-exposure-analysts-say.html</loc>
-    <lastmod>2026-08-05T15:44:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260805-bitcoin-red-team-update-weve-grown-to-16-globally-distributed-people-working-247.html</loc>
     <lastmod>2026-08-05T15:25:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-global-markets-broke-to-records-while-bitcoin-stood-still-this-edition-traces-th.html</loc>
-    <lastmod>2026-08-05T14:08:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,12 +505,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260805-binance-sues-largest-crypto-card-company-redotpay-alleges-user-diversion-and-see.html</loc>
-    <lastmod>2026-08-05T12:13:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260805-solana-ecosystem-roundup-july-2026.html</loc>
     <lastmod>2026-08-05T09:33:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260805-ethereum-should-not-focus-on-gaming-staking-issuance-and-cutting-staking-rewards.html</loc>
     <lastmod>2026-08-05T08:53:33.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-just-in-a-new-ethereum-proposal-would-gradually-burn-validator-rewards-as-stakin.html</loc>
-    <lastmod>2026-08-05T08:29:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
