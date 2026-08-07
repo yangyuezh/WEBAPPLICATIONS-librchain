@@ -1,7 +1,90 @@
 {
-  "updatedAt": "2026-08-07T04:02:40.504Z",
+  "updatedAt": "2026-08-07T05:48:15.084Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
+      "summary": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
+      "publishedAt": "2026-08-07T05:45:21.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260807-bitcoin-whales-load-up-on-12-billion-in-btc-as-etfs-attract-750-million",
+      "localUrl": "/news/20260807-bitcoin-whales-load-up-on-12-billion-in-btc-as-etfs-attract-750-million.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
+      "summary": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
+      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T05:24:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams",
+      "localUrl": "/news/20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
+      "summary": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
+      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-07T05:04:22.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg",
+      "localUrl": "/news/20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
+      "summary": "The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
+      "publishedAt": "2026-08-07T04:50:44.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-bitcoin-wallet-dormant-since-2011-moves-32-million-toward-falconx-linked-address",
+      "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-32-million-toward-falconx-linked-address.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A case for a bitcoin surge to $76,000 may be building beneath the boring price action, but there's a caveat",
+      "summary": "Bitcoin's chart is quietly tracing out a bullish setup technical analysts watch closely. But it isn't confirmed, and one key level will decide if it plays out.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
+      "publishedAt": "2026-08-07T04:28:17.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-a-case-for-a-bitcoin-surge-to-76000-may-be-building-beneath-the-boring-price-act",
+      "localUrl": "/news/20260807-a-case-for-a-bitcoin-surge-to-76000-may-be-building-beneath-the-boring-price-act.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP leads majors losses as Clarity Act vote slips to September",
+      "summary": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
+      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+      "publishedAt": "2026-08-07T04:17:01.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260807-xrp-leads-majors-losses-as-clarity-act-vote-slips-to-september",
+      "localUrl": "/news/20260807-xrp-leads-majors-losses-as-clarity-act-vote-slips-to-september.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitget explores licensed crypto presence in Bhutan",
@@ -17,16 +100,16 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "US Senate pushes CLARITY Act vote to September: Report",
-      "summary": "Senate Majority Leader John Thune reportedly confirmed that the chamber was “punting” the vote until September.",
+      "title": "US Senate pushes CLARITY Act vote to September",
+      "summary": "Senate Majority Leader John Thune confirmed that the chamber was “punting” the vote until September.",
       "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-07T02:49:53.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "综合",
-      "slug": "20260807-us-senate-pushes-clarity-act-vote-to-september-report",
-      "localUrl": "/news/20260807-us-senate-pushes-clarity-act-vote-to-september-report.html"
+      "slug": "20260807-us-senate-pushes-clarity-act-vote-to-september",
+      "localUrl": "/news/20260807-us-senate-pushes-clarity-act-vote-to-september.html"
     },
     {
       "source": "Cointelegraph",
@@ -654,19 +737,6 @@
       "localUrl": "/news/20260806-free-markets-and-innovation-sort-of.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Coldcard hackers transfer 64 BTC and 200 ETH to cryptocurrency mixers",
-      "summary": "Hackers behind the Coldcard exploit transferred millions in digital assets to cryptocurrency mixers, while most stolen funds remained traceable in attacker-controlled wallets.",
-      "url": "https://cointelegraph.com/news/coldcard-hackers-64-btc-200-eth-cryptocurrency-mixers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T11:26:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260806-coldcard-hackers-transfer-64-btc-and-200-eth-to-cryptocurrency-mixers",
-      "localUrl": "/news/20260806-coldcard-hackers-transfer-64-btc-and-200-eth-to-cryptocurrency-mixers.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Why Sandisk and Western Digital crashed 10% and what it means for bitcoin",
       "summary": "Strong earnings from SanDisk and Western Digital were not enough to satisfy investors, raising questions about whether capital is beginning to rotate from AI winners into crypto.",
@@ -712,19 +782,6 @@
       "category": "市场",
       "slug": "20260806-bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
       "localUrl": "/news/20260806-bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Situational Awareness returns with $400M investment after nearly collapsing: Report",
-      "summary": "Situational Awareness reportedly made a $400 million investment in an undisclosed company, days after the hedge fund nearly collapsed following July’s AI stock crash.",
-      "url": "https://cointelegraph.com/markets/situational-awareness-400m-investment-nearly-collapsing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-06T10:41:49.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260806-situational-awareness-returns-with-400m-investment-after-nearly-collapsing-repor",
-      "localUrl": "/news/20260806-situational-awareness-returns-with-400m-investment-after-nearly-collapsing-repor.html"
     },
     {
       "source": "X Wire",
@@ -860,20 +917,6 @@
       "localUrl": "/news/20260806-xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-      "summary": "The memecoin that defined the chain's debut has recovered to an $86 million cap. Tokenized assets, the chain's stated purpose, sit at $27.6 million.",
-      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-      "publishedAt": "2026-08-06T04:31:41.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260806-cashcat-jumps-120-in-a-week-as-robinhood-chain-hits-774-million-of-value-locked",
-      "localUrl": "/news/20260806-cashcat-jumps-120-in-a-week-as-robinhood-chain-hits-774-million-of-value-locked.html"
-    },
-    {
       "source": "X Wire",
       "title": "CLARITY Act Could Fall 10 Votes Short The Senate's landmark crypto bill is stuck in limbo with recess two days away. Majority Leader John Thune has not filed the procedural vote needed to move forward. Per reports, ethics concerns over Donald Trump's cry - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE13b2I0NHcxa0ZnQW8zTEZrMk56SkZZZGVZZDBCbjZCOUEtamRScnladWZDaklPT19PMkJqRFZCSHJaRUtBblV6YUxObnAtZXd0YWpNY0pIOThWbTFs?oc=5\" target=\"_blank\">CLARITY Act Could Fall 10 Votes Short The …",
@@ -885,21 +928,6 @@
       "localUrl": "/news/20260806-clarity-act-could-fall-10-votes-short-the-senates-landmark-crypto-bill-is-stuck-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Here are the possible outcomes for Clarity right now",
-      "summary": "The Senate has not yet indicated if it will advance the Digital Asset Market Clarity Act, and with its summer recess looming, here are the possible outcomes.",
-      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-      "publishedAt": "2026-08-06T03:49:04.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260806-here-are-the-possible-outcomes-for-clarity-right-now",
-      "localUrl": "/news/20260806-here-are-the-possible-outcomes-for-clarity-right-now.html"
-    },
-    {
       "source": "X Wire",
       "title": "$64,603.23 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE51SndGUTR0T0hFUjlRQ21NSzAxc2Ria1JGcWl5LUZaZzVLZlhfVDVpNlNoLUFtODJlWWx4SldQeldCdjliR05fV3JoR3dtN3dVRmVSaUlKWndYdFd4?oc=5\" target=\"_blank\">$64,603.23 #Bitcoin</a> <font color=\"#6f6f…",
@@ -909,22 +937,6 @@
       "category": "X热点",
       "slug": "20260806-6460323-bitcoin-xcom",
       "localUrl": "/news/20260806-6460323-bitcoin-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto firm RedotPay says it will defend itself ‘vigorously’ against Binance lawsuit",
-      "summary": "Binance alleged RedotPay poached customers from the crypto exchange in a lawsuit filed in Hong Kong.",
-      "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
-      "publishedAt": "2026-08-05T21:40:33.000Z",
-      "keywords": [
-        "Finance",
-        "Binance",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260805-crypto-firm-redotpay-says-it-will-defend-itself-vigorously-against-binance-lawsu",
-      "localUrl": "/news/20260805-crypto-firm-redotpay-says-it-will-defend-itself-vigorously-against-binance-lawsu.html"
     },
     {
       "source": "Decrypt",
@@ -1012,21 +1024,6 @@
       "category": "基础设施",
       "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
       "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
-      "summary": "The leading industry PAC, Fairshake, put $2 million into a Detroit Democratic primary but came up short, even as several PAC-backed candidates won elsewhere.",
-      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
-      "publishedAt": "2026-08-05T18:15:21.000Z",
-      "keywords": [
-        "Policy",
-        "Election 2026",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260805-cryptos-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-g",
-      "localUrl": "/news/20260805-cryptos-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-g.html"
     },
     {
       "source": "X Wire",
