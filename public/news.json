@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-08T16:49:09.647Z",
+  "updatedAt": "2026-08-08T17:43:06.156Z",
   "total": 87,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+      "summary": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
+      "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+      "publishedAt": "2026-08-08T17:31:03.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260808-bitcoin-red-team-says-ai-is-finding-critical-exploits-across-core-projects",
+      "localUrl": "/news/20260808-bitcoin-red-team-says-ai-is-finding-critical-exploits-across-core-projects.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-08T17:19:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260808-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260808-heres-what-happened-in-crypto-today.html"
+    },
     {
       "source": "Decrypt",
       "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
@@ -217,6 +243,17 @@
       "localUrl": "/news/20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇺🇸 TODAY: U.S. Treasury sanctioned two crypto exchanges accused of helping Iran’s IRGC launder billions and evade sanctions. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xTHdMYnFOS25rOUJDbUJEN3RIY3l5UFM4cjhrTEVZT1BGd1psdUkwclJRQk45WjdzeUkzVGRCekZfdzVyQng1cU5McnR0cTNuNTg2RnNvR1BGWWp2WW1LY3Z6Z1g?oc=5\" target=\"_blank\">🇺🇸 TODAY: U.S. Treasury sanct…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xTHdMYnFOS25rOUJDbUJEN3RIY3l5UFM4cjhrTEVZT1BGd1psdUkwclJRQk45WjdzeUkzVGRCekZfdzVyQng1cU5McnR0cTNuNTg2RnNvR1BGWWp2WW1LY3Z6Z1g?oc=5",
+      "publishedAt": "2026-08-08T02:31:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-today-us-treasury-sanctioned-two-crypto-exchanges-accused-of-helping-irans-irgc-",
+      "localUrl": "/news/20260808-today-us-treasury-sanctioned-two-crypto-exchanges-accused-of-helping-irans-irgc-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
       "summary": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
@@ -329,17 +366,6 @@
       "localUrl": "/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html"
     },
     {
-      "source": "X Wire",
-      "title": "⚡️ LATEST: SharpLink CEO Joseph Chalom has opposed Ethereum’s proposed EIP-8363, warning it could weaken DeFi and undermine ETH’s biggest advantage over Bitcoin. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RU3hQUTZGb0hWZEphSU1qUUZhLUpsT3hwTUV4Z212Q1h1U1kxYlBZazJGNWxoWUxQeFd0RG02MnBEUTNwbVlDOHVIWUV1azdNOUZlc3FIMGpGQ3ZPZGhpRXhZOUM?oc=5\" target=\"_blank\">⚡️ LATEST: SharpLink CEO Joseph…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RU3hQUTZGb0hWZEphSU1qUUZhLUpsT3hwTUV4Z212Q1h1U1kxYlBZazJGNWxoWUxQeFd0RG02MnBEUTNwbVlDOHVIWUV1azdNOUZlc3FIMGpGQ3ZPZGhpRXhZOUM?oc=5",
-      "publishedAt": "2026-08-07T21:01:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-latest-sharplink-ceo-joseph-chalom-has-opposed-ethereums-proposed-eip-8363-warni",
-      "localUrl": "/news/20260807-latest-sharplink-ceo-joseph-chalom-has-opposed-ethereums-proposed-eip-8363-warni.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
       "summary": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
@@ -444,19 +470,6 @@
       "category": "监管",
       "slug": "20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
       "localUrl": "/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T18:36:10.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260807-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260807-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "X Wire",
@@ -1031,19 +1044,6 @@
       "localUrl": "/news/20260806-meta-says-its-ai-model-escaped-and-hacked-a-third-party-company-too.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-      "summary": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
-      "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
-      "publishedAt": "2026-08-06T19:51:09.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260806-senators-push-cftc-to-ban-wildfire-bets-on-prediction-markets",
-      "localUrl": "/news/20260806-senators-push-cftc-to-ban-wildfire-bets-on-prediction-markets.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Solana Changelog: August 6, 2026",
       "summary": "Agave, Firedancer, Frankendancer, SDK, and testing-tool releases shipped as 350ms slot-time gates reached Devnet and Testnet.",
@@ -1056,14 +1056,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🇹🇭 Thailand confirms 0% capital gains tax on Bitcoin & crypto. 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LYzJZckwxc1hfMTQ2b0xxY1pfTlV6aVhuNXlUdVh1djA4akJQdzh6cDlCRzZjam5mSDJJNE12X0hhaDJGSFg0TzZ1bkZ6V3FtQm42bEpvZFRqOVF2RUc5Vw?oc=5\" target=\"_blank\">🇹🇭 Thailand confirms 0% capital ga…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LYzJZckwxc1hfMTQ2b0xxY1pfTlV6aVhuNXlUdVh1djA4akJQdzh6cDlCRzZjam5mSDJJNE12X0hhaDJGSFg0TzZ1bkZ6V3FtQm42bEpvZFRqOVF2RUc5Vw?oc=5",
-      "publishedAt": "2026-08-06T16:37:32.000Z",
+      "title": "Crypto is no longer a niche market. Stablecoins move trillions of dollars, and major banks and payment companies are building onchain, but the federal rules governing much of that activity remain incomplete.That is the problem the “CLARITY Act” (HR 3633) is - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbkw4ZkIyYkJEQTM1YlVFS2U5cFhyQUlpX1pxTXpQSUtIYlU5RDYtSHBON2pac2hMUXFwTTZUT3Q0WmNwWnZtOGV0SXRGMHBkVjg1a0xPRU80ajZnUVN5cQ?oc=5\" target=\"_blank\">Crypto is no longer a niche market. …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbkw4ZkIyYkJEQTM1YlVFS2U5cFhyQUlpX1pxTXpQSUtIYlU5RDYtSHBON2pac2hMUXFwTTZUT3Q0WmNwWnZtOGV0SXRGMHBkVjg1a0xPRU80ajZnUVN5cQ?oc=5",
+      "publishedAt": "2026-08-06T15:03:34.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom",
-      "localUrl": "/news/20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom.html"
+      "slug": "20260806-crypto-is-no-longer-a-niche-market-stablecoins-move-trillions-of-dollars-and-maj",
+      "localUrl": "/news/20260806-crypto-is-no-longer-a-niche-market-stablecoins-move-trillions-of-dollars-and-maj.html"
     },
     {
       "source": "Chainalysis Blog",
