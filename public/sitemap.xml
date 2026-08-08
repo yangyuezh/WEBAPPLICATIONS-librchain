@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T02:18:02.909Z</lastmod>
+    <lastmod>2026-08-08T04:18:20.157Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T02:18:02.909Z</lastmod>
+    <lastmod>2026-08-08T04:18:20.157Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets.html</loc>
+    <lastmod>2026-08-08T03:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html</loc>
+    <lastmod>2026-08-08T02:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-.html</loc>
+    <lastmod>2026-08-08T00:55:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html</loc>
@@ -181,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom.html</loc>
+    <lastmod>2026-08-07T13:33:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-fierce-backlash-to-ethereums-eip-8363-staking-proposal.html</loc>
     <lastmod>2026-08-07T13:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -235,12 +259,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html</loc>
-    <lastmod>2026-08-07T11:54:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html</loc>
     <lastmod>2026-08-07T11:45:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -285,6 +303,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to.html</loc>
     <lastmod>2026-08-07T10:02:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-.html</loc>
+    <lastmod>2026-08-07T09:30:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-bitcoin-whales-load-up-on-12-billion-in-btc-as-etfs-attract-750-million.html</loc>
-    <lastmod>2026-08-07T05:45:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams.html</loc>
     <lastmod>2026-08-07T05:24:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg.html</loc>
     <lastmod>2026-08-07T05:04:22.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-bitcoin-wallet-dormant-since-2011-moves-32-million-toward-falconx-linked-address.html</loc>
-    <lastmod>2026-08-07T04:50:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,20 +505,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-bitcoin-is-digital-capital-ai-is-digital-intelligence-i-joined-stevenbartlett-to.html</loc>
-    <lastmod>2026-08-06T13:46:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html</loc>
     <lastmod>2026-08-06T12:00:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading.html</loc>
-    <lastmod>2026-08-06T10:27:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

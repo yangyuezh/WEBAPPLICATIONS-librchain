@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-08T02:18:02.874Z",
+  "updatedAt": "2026-08-08T04:18:20.085Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "summary": "A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.",
+      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+      "publishedAt": "2026-08-08T03:30:00.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets",
+      "localUrl": "/news/20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "summary": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
+      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+      "publishedAt": "2026-08-08T02:30:00.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d",
+      "localUrl": "/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senate officially fails to pass Crypto Clarity Act before summer recess. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4WjllMDZiUlpDRC1UQVd4cXd5cVZqWGxvUUpUSVVZTUlKVWFqdnQwU29xbTJJWFB5WmxGdnFySmhSTFRxV1NUcDBTaHRheGxaNmEwTWlFa1FNTHdqSUhPd3RR?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate officially fa…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4WjllMDZiUlpDRC1UQVd4cXd5cVZqWGxvUUpUSVVZTUlKVWFqdnQwU29xbTJJWFB5WmxGdnFySmhSTFRxV1NUcDBTaHRheGxaNmEwTWlFa1FNTHdqSUhPd3RR?oc=5",
+      "publishedAt": "2026-08-08T00:55:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-",
+      "localUrl": "/news/20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Donald Trump’s media company to terminate Crypto.com deal",
@@ -390,6 +429,17 @@
       "localUrl": "/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html"
     },
     {
+      "source": "X Wire",
+      "title": "This is the most important chart in crypto right now - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMTlHalRPSl9nRGhJZWdKTGNSdGQxNlBwWm15ME85VFdWTGJuOHh1TlFrcWdmNE1nLWtkbUNrZ2M5cEwxOWx1NGRtU2l0dGFkQXM5OWFRMWxXdWUtb25qYWJyUUs?oc=5\" target=\"_blank\">This is the most important char…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMTlHalRPSl9nRGhJZWdKTGNSdGQxNlBwWm15ME85VFdWTGJuOHh1TlFrcWdmNE1nLWtkbUNrZ2M5cEwxOWx1NGRtU2l0dGFkQXM5OWFRMWxXdWUtb25qYWJyUUs?oc=5",
+      "publishedAt": "2026-08-07T13:33:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom",
+      "localUrl": "/news/20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
       "summary": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
@@ -512,17 +562,6 @@
       "localUrl": "/news/20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning.html"
     },
     {
-      "source": "X Wire",
-      "title": "A proposal now before the Ethereum community would sharply reduce the reward for securing the network. Its odds for passing are long. Its implications are not. It would undermine DeFi, push capital off the chain, and cost ETH the yield productivity that differe - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5\" target=\"_blank\">A proposal now before the Ethereum com…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUEg4TFFXekZlQUxOYlRjZ0ZSb2VCbVg2QmpNeTZRWEFIZENUV19WUWJMTFpMVHZJYkdHdXVhcWhLZC1tcjdxaUxLejVrTXN2MUd2aUdWczRhUkduU3ZV?oc=5",
-      "publishedAt": "2026-08-07T11:54:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for",
-      "localUrl": "/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
       "summary": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
@@ -626,6 +665,17 @@
       "category": "X热点",
       "slug": "20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to",
       "localUrl": "/news/20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "#Bitcoin is still stuck in the middle of this pack, and I think it's not many days before we're going to see a volatile breakout. I'd assume that we're going to see this happen and that it requires to break through the recent high in order to accelerate, which means: $ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUm1vQWNQei1ZWXpsUG9mcEVFbFRJb1lKU1ZESjRRb05iNHRWR1FSaV9FUUVLR0V4a3lzR09YUVdiUHU1bTZ3TEE3SzI2dXA0aHVhMURvYm4yQzFReHZlbGRtSQ?oc=5\" target=\"_blank\">#Bitcoin is still stuck in the m…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUm1vQWNQei1ZWXpsUG9mcEVFbFRJb1lKU1ZESjRRb05iNHRWR1FSaV9FUUVLR0V4a3lzR09YUVdiUHU1bTZ3TEE3SzI2dXA0aHVhMURvYm4yQzFReHZlbGRtSQ?oc=5",
+      "publishedAt": "2026-08-07T09:30:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-",
+      "localUrl": "/news/20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-.html"
     },
     {
       "source": "Decrypt",
@@ -775,20 +825,6 @@
       "localUrl": "/news/20260807-upbit-to-delist-bonk-on-september-7-south-koreas-largest-crypto-exchange-upbit-w.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "summary": "Bitcoin whales accumulate $1.2 billion in BTC while spot ETFs pull in $754 million this week.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-      "publishedAt": "2026-08-07T05:45:21.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-bitcoin-whales-load-up-on-12-billion-in-btc-as-etfs-attract-750-million",
-      "localUrl": "/news/20260807-bitcoin-whales-load-up-on-12-billion-in-btc-as-etfs-attract-750-million.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
       "summary": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
@@ -813,20 +849,6 @@
       "category": "市场",
       "slug": "20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg",
       "localUrl": "/news/20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
-      "summary": "The 50 BTC remained in the receiving address Friday, but that wallet has previously sent funds to FalconX-labeled deposits, leaving open whether the old stash is being reorganized or moved closer to a trading venue.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-      "publishedAt": "2026-08-07T04:50:44.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-bitcoin-wallet-dormant-since-2011-moves-32-million-toward-falconx-linked-address",
-      "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-32-million-toward-falconx-linked-address.html"
     },
     {
       "source": "Cointelegraph",
@@ -1060,17 +1082,6 @@
       "localUrl": "/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin is digital capital. AI is digital intelligence. I joined @StevenBartlett to discuss how they are reshaping money, business, markets, work, and the future. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMnZuWlRkZ1JCSk5WWUFiZ1BuZUgyRFQyRG0tU3dtbTBTYkpEY3V3NmtHSUs4eVJIdUxDSHFyaGQ1bk1WcEs4ZjZmZDFwVXp4OTEyWUd2S2RTaG8?oc=5\" target=\"_blank\">Bitcoin is digital capital. AI is digital i…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yMnZuWlRkZ1JCSk5WWUFiZ1BuZUgyRFQyRG0tU3dtbTBTYkpEY3V3NmtHSUs4eVJIdUxDSHFyaGQ1bk1WcEs4ZjZmZDFwVXp4OTEyWUd2S2RTaG8?oc=5",
-      "publishedAt": "2026-08-06T13:46:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-bitcoin-is-digital-capital-ai-is-digital-intelligence-i-joined-stevenbartlett-to",
-      "localUrl": "/news/20260806-bitcoin-is-digital-capital-ai-is-digital-intelligence-i-joined-stevenbartlett-to.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot",
       "summary": "Summary Annual value stolen in violent attacks peaked at $58 million in 2025, the highest on record, with 2026 already… The post Estimated $30 Million Stolen in Violent Crypto Attacks in 2026 as France Records Emerges as Hotspot appeared f…",
@@ -1088,17 +1099,6 @@
       "category": "综合",
       "slug": "20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-",
       "localUrl": "/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "LATEST: Putin signs Russia's landmark crypto law allowing regulated retail trading capped at $3,700/year and cross-border settlements, while maintaining the domestic ban on crypto payments. Takes effect September 1. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTTR2d25CZU1XQ2hpUGp1N0JIM1pIS1dZWFdRaWZ6Xzhna2FqLWkxbjFyLXJxR1NXSnIxTTYxZVJKazBNcHpoZTNLNXFfR3lvX0Zxd3RZSUVIWUhqYWc?oc=5\" target=\"_blank\">LATEST: Putin signs Russia's landmark c…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTTR2d25CZU1XQ2hpUGp1N0JIM1pIS1dZWFdRaWZ6Xzhna2FqLWkxbjFyLXJxR1NXSnIxTTYxZVJKazBNcHpoZTNLNXFfR3lvX0Zxd3RZSUVIWUhqYWc?oc=5",
-      "publishedAt": "2026-08-06T10:27:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading",
-      "localUrl": "/news/20260806-latest-putin-signs-russias-landmark-crypto-law-allowing-regulated-retail-trading.html"
     },
     {
       "source": "Solana Blog",
