@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T15:42:26.956Z</lastmod>
+    <lastmod>2026-08-08T16:49:09.688Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T15:42:26.956Z</lastmod>
+    <lastmod>2026-08-08T16:49:09.688Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september.html</loc>
+    <lastmod>2026-08-08T16:33:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html</loc>
+    <lastmod>2026-08-08T16:20:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad.html</loc>
@@ -49,6 +61,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260808-the-bitcoin-etfs-just-clocked-their-best-week-in-flows-about-1b-since-april-and-.html</loc>
+    <lastmod>2026-08-08T12:15:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260808-with-only-26-miner-signaling-bip-110-has-failed-to-earn-broad-miner-support-at-b.html</loc>
     <lastmod>2026-08-08T11:50:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -57,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html</loc>
     <lastmod>2026-08-08T09:07:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun.html</loc>
+    <lastmod>2026-08-08T08:10:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -139,6 +163,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-latest-sharplink-ceo-joseph-chalom-has-opposed-ethereums-proposed-eip-8363-warni.html</loc>
+    <lastmod>2026-08-07T21:01:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html</loc>
     <lastmod>2026-08-07T20:28:33.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -195,12 +225,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-insight-senator-elizabeth-warren-says-the-us-needs-crypto-legislation-but-not-le.html</loc>
     <lastmod>2026-08-07T18:20:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-senator-lummis-releases-statement-now-clarity-act-vote-is-delayed-there-.html</loc>
-    <lastmod>2026-08-07T17:37:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -291,12 +315,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html</loc>
     <lastmod>2026-08-07T15:07:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-president-donald-trump-says-bitcoin-is-a-good-thing-for-our-country-bitc.html</loc>
-    <lastmod>2026-08-07T14:42:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-coldcard-exploit-pushes-july-losses-to-247m-as-second-worst-month-of-2026.html</loc>
-    <lastmod>2026-08-07T07:59:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html</loc>
     <lastmod>2026-08-07T07:36:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -475,12 +487,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-putin-signs-russias-first-crypto-law-trading-is-legal-payments-stay-banned.html</loc>
-    <lastmod>2026-08-06T18:38:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-solana-changelog-august-6-2026.html</loc>
     <lastmod>2026-08-06T17:57:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom.html</loc>
     <lastmod>2026-08-06T16:37:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-crypto-is-no-longer-a-niche-market-stablecoins-move-trillions-of-dollars-and-maj.html</loc>
-    <lastmod>2026-08-06T15:03:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
