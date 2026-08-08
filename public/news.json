@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-08T19:41:18.053Z",
+  "updatedAt": "2026-08-08T20:45:11.877Z",
   "total": 87,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "summary": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
+      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "publishedAt": "2026-08-08T20:06:47.000Z",
+      "keywords": [
+        "Tech",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins",
+      "localUrl": "/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
@@ -568,17 +583,6 @@
       "localUrl": "/news/20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas.html"
     },
     {
-      "source": "X Wire",
-      "title": "CRYPTO more. Sen. Moran tells me he understands there is a deal to set a date certain for the Clarity Act to come to the Senate floor in Sept. - possibly Sept. 15. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dkh4SlBuVzkzX2J2NmFLeGJDOXRIUS12Z2c2TkNIcnQ5US1lOEdHWjdfeHd2ajBKaHZPMUFYRVlkTy1uOXRaemNBQzlEYnVrRk5mMk0wLWttcWRVMzFJ?oc=5\" target=\"_blank\">CRYPTO more. Sen. Moran tells me he un…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dkh4SlBuVzkzX2J2NmFLeGJDOXRIUS12Z2c2TkNIcnQ5US1lOEdHWjdfeHd2ajBKaHZPMUFYRVlkTy1uOXRaemNBQzlEYnVrRk5mMk0wLWttcWRVMzFJ?oc=5",
-      "publishedAt": "2026-08-07T16:36:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-crypto-more-sen-moran-tells-me-he-understands-there-is-a-deal-to-set-a-date-cert",
-      "localUrl": "/news/20260807-crypto-more-sen-moran-tells-me-he-understands-there-is-a-deal-to-set-a-date-cert.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
       "summary": "The exchange has secured a preliminary injunction freezing stolen assets.",
@@ -782,6 +786,17 @@
       "localUrl": "/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html"
     },
     {
+      "source": "X Wire",
+      "title": "1/ Privacy is often thought of as politically risky. In this guest thread by @valkenburgh, Executive Director of @coincenter, he makes the case, in his own words, that the reality is the opposite: Privacy is essential to Ethereum’s promise of financial freedom and n - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5\" target=\"_blank\">1/ Privacy is often thought of as polit…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5",
+      "publishedAt": "2026-08-07T13:10:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke",
+      "localUrl": "/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
       "summary": "Dice entropy may become the new gold standard after the Coldcard hack",
@@ -887,21 +902,6 @@
       "category": "X热点",
       "slug": "20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for",
       "localUrl": "/news/20260807-a-proposal-now-before-the-ethereum-community-would-sharply-reduce-the-reward-for.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-      "summary": "BIP-110 has attracted only a sliver of miner support, yet its user-activated design means the proposal continues toward its activation date and (most likely) beyond.",
-      "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
-      "publishedAt": "2026-08-07T11:45:49.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support",
-      "localUrl": "/news/20260807-why-bitcoins-bip-110-refuses-to-die-despite-near-zero-miner-support.html"
     },
     {
       "source": "Cointelegraph",
