@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T04:18:20.157Z</lastmod>
+    <lastmod>2026-08-08T05:53:12.149Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T04:18:20.157Z</lastmod>
+    <lastmod>2026-08-08T05:53:12.149Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-us-court-backs-bybits-bid-to-trace-funds-from-15b-north-korea-hack.html</loc>
+    <lastmod>2026-08-08T04:11:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets.html</loc>
@@ -27,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-.html</loc>
     <lastmod>2026-08-08T00:55:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html</loc>
+    <lastmod>2026-08-07T23:01:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,20 +409,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-us-senate-pushes-clarity-act-vote-to-september.html</loc>
-    <lastmod>2026-08-07T02:49:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to.html</loc>
     <lastmod>2026-08-07T02:45:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-breaking-senate-delays-crypto-clarity-act-vote-until-after-the-summer-recess-xco.html</loc>
-    <lastmod>2026-08-07T02:00:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
