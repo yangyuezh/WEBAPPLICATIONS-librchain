@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T20:45:11.920Z</lastmod>
+    <lastmod>2026-08-08T21:42:49.227Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T20:45:11.920Z</lastmod>
+    <lastmod>2026-08-08T21:42:49.227Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html</loc>
+    <lastmod>2026-08-08T21:17:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html</loc>
@@ -69,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan.html</loc>
     <lastmod>2026-08-08T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in.html</loc>
+    <lastmod>2026-08-08T13:31:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,20 +463,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-clarity-act-delay-gives-asian-financial-hubs-an-opening-first-digital-ceo.html</loc>
-    <lastmod>2026-08-07T09:01:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html</loc>
     <lastmod>2026-08-07T07:36:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html</loc>
-    <lastmod>2026-08-07T00:49:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

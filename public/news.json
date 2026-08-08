@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-08T20:45:11.877Z",
+  "updatedAt": "2026-08-08T21:42:49.185Z",
   "total": 87,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-08T21:17:08.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3",
+      "localUrl": "/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
@@ -139,6 +152,17 @@
       "category": "市场",
       "slug": "20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan",
       "localUrl": "/news/20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 HUGE: Crypto cards monthly spend just hit a new ATH of $759M. More than doubling in a year. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUXZMampGakh3ZzN3clkyaXc4VnFGOHZROHhXT2FzX1JPbVNpT0JxZmxSRHU0YWlQa29rVUtBYnJVQkdNblVzWkNzV0pCY01abHo4N2R2NmhoY3ltcWpFRkg5Ukw?oc=5\" target=\"_blank\">🔥 HUGE: Crypto cards monthly s…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUXZMampGakh3ZzN3clkyaXc4VnFGOHZROHhXT2FzX1JPbVNpT0JxZmxSRHU0YWlQa29rVUtBYnJVQkdNblVzWkNzV0pCY01abHo4N2R2NmhoY3ltcWpFRkg5Ukw?oc=5",
+      "publishedAt": "2026-08-08T13:31:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in",
+      "localUrl": "/news/20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in.html"
     },
     {
       "source": "Cointelegraph",
@@ -970,19 +994,6 @@
       "localUrl": "/news/20260807-stripe-owned-bridge-joins-eu-mica-register-after-luxembourg-approval.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CLARITY Act delay gives Asian financial hubs an opening: First Digital CEO",
-      "summary": "Industry figures warned that continued legislative limbo could slow institutional adoption, revive regulation by enforcement and push innovation offshore.",
-      "url": "https://cointelegraph.com/news/clarity-act-delay-asian-crypto-hubs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T09:01:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260807-clarity-act-delay-gives-asian-financial-hubs-an-opening-first-digital-ceo",
-      "localUrl": "/news/20260807-clarity-act-delay-gives-asian-financial-hubs-an-opening-first-digital-ceo.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin doesn’t need CLARITY. America needs clarity. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5\" target=\"_blank\">Bitcoin doesn’t need CLARITY. America needs…",
@@ -992,17 +1003,6 @@
       "category": "X热点",
       "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
       "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto latest: The Senate negotiations to get to August recess have snagged in part on the Clarity Act. Sources involved in the talks say Democratic leadership continues pushing to delay a procedural crypto vote. Schumer wants to give talks more time. GOP is - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5\" target=\"_blank\">Crypto latest: The Senate n…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5",
-      "publishedAt": "2026-08-07T00:49:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa",
-      "localUrl": "/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html"
     },
     {
       "source": "X Wire",
