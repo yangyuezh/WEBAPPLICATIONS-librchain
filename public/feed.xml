@@ -5,7 +5,7 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 08 Aug 2026 21:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:43:32 GMT</lastBuildDate>
     <item>
       <title>Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%</title>
       <link>https://www.librchain.com/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html</link>
@@ -263,6 +263,14 @@
       <source url="https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market">Decrypt</source>
     </item>
     <item>
+      <title>⚡️ LATEST: SharpLink CEO Joseph Chalom has opposed Ethereum’s proposed EIP-8363, warning it could weaken DeFi and undermine ETH’s biggest advantage over Bitcoin. - x.com</title>
+      <link>https://www.librchain.com/news/20260807-latest-sharplink-ceo-joseph-chalom-has-opposed-ethereums-proposed-eip-8363-warni.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260807-latest-sharplink-ceo-joseph-chalom-has-opposed-ethereums-proposed-eip-8363-warni.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RU3hQUTZGb0hWZEphSU1qUUZhLUpsT3hwTUV4Z212Q1h1U1kxYlBZazJGNWxoWUxQeFd0RG02MnBEUTNwbVlDOHVIWUV1azdNOUZlc3FIMGpGQ3ZPZGhpRXhZOUM?oc=5&quot; target=&quot;_blank&quot;&gt;⚡️ LATEST: SharpLink CEO Joseph…</description>
+      <pubDate>Fri, 07 Aug 2026 21:01:10 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RU3hQUTZGb0hWZEphSU1qUUZhLUpsT3hwTUV4Z212Q1h1U1kxYlBZazJGNWxoWUxQeFd0RG02MnBEUTNwbVlDOHVIWUV1azdNOUZlc3FIMGpGQ3ZPZGhpRXhZOUM?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran</title>
       <link>https://www.librchain.com/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html</guid>
@@ -477,14 +485,6 @@
       <description>Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.</description>
       <pubDate>Fri, 07 Aug 2026 13:30:00 GMT</pubDate>
       <source url="https://cointelegraph.com/magazine/fierce-backlash-to-ethereums-latest-staking-proposal-eip-8363?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Former Bitcoin Miner Firmus Raises $2 Billion as Nvidia Backs Its AI Infrastructure Pivot Reuters reported that Firmus, an AI infrastructure company that previously operated as a Bitcoin miner, has raised $2 billion in equity funding at a post-money valuation of - x.com</title>
-      <link>https://www.librchain.com/news/20260807-former-bitcoin-miner-firmus-raises-2-billion-as-nvidia-backs-its-ai-infrastructu.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260807-former-bitcoin-miner-firmus-raises-2-billion-as-nvidia-backs-its-ai-infrastructu.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YnBwVEJRb0RyNnNyQU5xNFRyODNsb2xCY2RyLU9tbVRpRzNFNEpSXzNSS1I3VDV0M3Bfb0lOdHFfaFJLVV9TOGxFSjdydDFkVUdfSGk1Vl9SSnFHRVRPdUM3cw?oc=5&quot; target=&quot;_blank&quot;&gt;Former Bitcoin Miner Firmus Rais…</description>
-      <pubDate>Fri, 07 Aug 2026 13:26:45 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YnBwVEJRb0RyNnNyQU5xNFRyODNsb2xCY2RyLU9tbVRpRzNFNEpSXzNSS1I3VDV0M3Bfb0lOdHFfaFJLVV9TOGxFSjdydDFkVUdfSGk1Vl9SSnFHRVRPdUM3cw?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>
