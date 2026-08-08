@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-08T13:09:13.860Z",
+  "updatedAt": "2026-08-08T14:46:03.734Z",
   "total": 87,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+      "summary": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
+      "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+      "publishedAt": "2026-08-08T14:01:05.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain",
+      "localUrl": "/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "summary": "The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.",
+      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "publishedAt": "2026-08-08T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan",
+      "localUrl": "/news/20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin will never fall below $60K again: Nansen founder",
+      "summary": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
+      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-08T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "RWA",
+      "slug": "20260808-bitcoin-will-never-fall-below-60k-again-nansen-founder",
+      "localUrl": "/news/20260808-bitcoin-will-never-fall-below-60k-again-nansen-founder.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
@@ -17,6 +58,17 @@
       "category": "监管",
       "slug": "20260808-why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
       "localUrl": "/news/20260808-why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYVlfMmpwWjhHUWpCdXlIUHRPTVd0cldRTHA2MjE0NjdmckRLdTQyTUlBWmpiRm1YeWNyaEh5S0dhSVdGM3V6VlI2TGtrYmhTTVVfUzMza2xwNlE?oc=5\" target=\"_blank\">With only 2.6% miner signaling, BIP-110 has…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYVlfMmpwWjhHUWpCdXlIUHRPTVd0cldRTHA2MjE0NjdmckRLdTQyTUlBWmpiRm1YeWNyaEh5S0dhSVdGM3V6VlI2TGtrYmhTTVVfUzMza2xwNlE?oc=5",
+      "publishedAt": "2026-08-08T11:50:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-with-only-26-miner-signaling-bip-110-has-failed-to-earn-broad-miner-support-at-b",
+      "localUrl": "/news/20260808-with-only-26-miner-signaling-bip-110-has-failed-to-earn-broad-miner-support-at-b.html"
     },
     {
       "source": "CoinDesk",
@@ -115,6 +167,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨JUST IN: Bitcoin Core developer Luke Dashjr says changing Bitcoin's proof-of-work is \"the only option\" if BIP 110 fails. Critics warn if six mining pools can block the proposal, Bitcoin's decentralization is \"effectively lost.\" Meanwhile, Bitcoin briefly topped $65,3 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRGRMZ1daYy1WT2pfbzRrd0w4NkZfX2pmNy1ST1lLV1pWUWRHcmtJT2hyamlhRThPdWwwM3MtRGRrSHdyMDhKSzR1Q3NVb0J5RGFZZE0wRnppYUtJUjNtag?oc=5\" target=\"_blank\">🚨JUST IN: Bitcoin Core developer Lu…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRGRMZ1daYy1WT2pfbzRrd0w4NkZfX2pmNy1ST1lLV1pWUWRHcmtJT2hyamlhRThPdWwwM3MtRGRrSHdyMDhKSzR1Q3NVb0J5RGFZZE0wRnppYUtJUjNtag?oc=5",
+      "publishedAt": "2026-08-07T23:38:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-",
+      "localUrl": "/news/20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🚨 UPDATE: Bitcoin just recorded 2.27M new wallets and 751K active wallets, marking its strongest on-chain activity in months. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRW9YMmVicmRIQjA3UDZ0UnE2OEtQajdEbXlxY2kyMXdmTDRDcEVFc3VWMi11OXBneDJpQ18wWWNlNDFiMldCUXdDUmZSWGs3TUcxNzZ0Rmt4TTgyREQwRVJtaHo?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin just recorde…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRW9YMmVicmRIQjA3UDZ0UnE2OEtQajdEbXlxY2kyMXdmTDRDcEVFc3VWMi11OXBneDJpQ18wWWNlNDFiMldCUXdDUmZSWGs3TUcxNzZ0Rmt4TTgyREQwRVJtaHo?oc=5",
@@ -201,17 +264,6 @@
       "category": "监管",
       "slug": "20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran",
       "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨JUST IN: Trump Media unwinds its CRO treasury deal with Crypto dot com. The venture was set to become the \"first and largest publicly traded CRO treasury company.\" Interim CEO Kevin McGurn says the decision was driven by market saturation, not regulat - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xWUphZGJPYmhCZ3VOODl2cmRBMmh0a0Z5WFVnNDFxNFN5S3prVmxLSV9MdGpZRTNiYW5yRnhRandxY0pBMDFjcXN1UnJTWHJ5QWlfd1RmRVluUGRDN0dPcQ?oc=5\" target=\"_blank\">🚨JUST IN: Trump Media unwinds its C…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xWUphZGJPYmhCZ3VOODl2cmRBMmh0a0Z5WFVnNDFxNFN5S3prVmxLSV9MdGpZRTNiYW5yRnhRandxY0pBMDFjcXN1UnJTWHJ5QWlfd1RmRVluUGRDN0dPcQ?oc=5",
-      "publishedAt": "2026-08-07T20:20:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-just-in-trump-media-unwinds-its-cro-treasury-deal-with-crypto-dot-com-the-ventur",
-      "localUrl": "/news/20260807-just-in-trump-media-unwinds-its-cro-treasury-deal-with-crypto-dot-com-the-ventur.html"
     },
     {
       "source": "CoinDesk",
@@ -752,17 +804,6 @@
       "localUrl": "/news/20260807-bitcoins-volatility-has-nearly-disappeared-the-risk-hasnt.html"
     },
     {
-      "source": "X Wire",
-      "title": "🔥 JUST IN: Trump says, \"Crypto is a big deal. People are paying with Bitcoin, that takes a lot of pressure off our dollar. It’s a good thing for our country.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZjVhRHBzcjdfRlYtNW43SUtueWxHMDJzTEtqMTBsSURraUdac0NEdDVKTmxCUzcyS1pTRHJRSF9lTTFfNXFBRG9pT0ZOSVNWVGdLRFNNTUM4aDFWZDY1Sl9vMGo?oc=5\" target=\"_blank\">🔥 JUST IN: Trump says, \"Crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UZjVhRHBzcjdfRlYtNW43SUtueWxHMDJzTEtqMTBsSURraUdac0NEdDVKTmxCUzcyS1pTRHJRSF9lTTFfNXFBRG9pT0ZOSVNWVGdLRFNNTUM4aDFWZDY1Sl9vMGo?oc=5",
-      "publishedAt": "2026-08-07T11:30:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take",
-      "localUrl": "/news/20260807-just-in-trump-says-crypto-is-a-big-deal-people-are-paying-with-bitcoin-that-take.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
       "summary": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
@@ -805,17 +846,6 @@
       "localUrl": "/news/20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further.html"
     },
     {
-      "source": "X Wire",
-      "title": "Nearly 23% of Major Bitcoin Miners Are Now Operating at a Daily Loss According to WuBlockchain Data Center, about 22.7% of 22 mainstream Bitcoin mining machines tracked were generating negative daily net returns as of August 6. Under current electricity - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2QTVGazdLdVgwU1BtUUN5QkI4OUdZOXNsNTIxZ3k4Rmlnai1zZTBDa3A2eW1ZMF93UnJxN2NZeU53Rm9XbGpERjVJUmdRTmJXNnRMZlRXNFVmMkFoREVZNnAyWQ?oc=5\" target=\"_blank\">Nearly 23% of Major Bitcoin Mine…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2QTVGazdLdVgwU1BtUUN5QkI4OUdZOXNsNTIxZ3k4Rmlnai1zZTBDa3A2eW1ZMF93UnJxN2NZeU53Rm9XbGpERjVJUmdRTmJXNnRMZlRXNFVmMkFoREVZNnAyWQ?oc=5",
-      "publishedAt": "2026-08-07T10:02:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to",
-      "localUrl": "/news/20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
       "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
@@ -840,21 +870,6 @@
       "category": "市场",
       "slug": "20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink",
       "localUrl": "/news/20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coldcard fallout shows up onchain as 210,000 bitcoin leaves old wallets",
-      "summary": "Roughly 200,000 bitcoin have moved from long-term holder wallets in the past week, suggesting a possible shift in custody rather than conventional selling",
-      "url": "https://www.coindesk.com/markets/2026/08/07/coldcard-fallout-shows-up-onchain-as-210-000-bitcoin-leaves-old-wallets",
-      "publishedAt": "2026-08-07T09:24:00.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-coldcard-fallout-shows-up-onchain-as-210000-bitcoin-leaves-old-wallets",
-      "localUrl": "/news/20260807-coldcard-fallout-shows-up-onchain-as-210000-bitcoin-leaves-old-wallets.html"
     },
     {
       "source": "Cointelegraph",
@@ -918,19 +933,6 @@
       "category": "综合",
       "slug": "20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams",
       "localUrl": "/news/20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-      "summary": "The latest bipartisan ethics proposal would reportedly require Trump to divest crypto businesses while allowing him to defer capital gains taxes on those sales.",
-      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T05:04:22.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg",
-      "localUrl": "/news/20260807-proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg.html"
     },
     {
       "source": "X Wire",
@@ -1031,19 +1033,6 @@
       "localUrl": "/news/20260806-putin-signs-russias-first-crypto-law-trading-is-legal-payments-stay-banned.html"
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
-      "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
-      "url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
-      "publishedAt": "2026-08-06T18:26:29.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260806-openai-reveals-how-ai-agents-secretly-coordinated-before-hugging-face-hack",
-      "localUrl": "/news/20260806-openai-reveals-how-ai-agents-secretly-coordinated-before-hugging-face-hack.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Solana Changelog: August 6, 2026",
       "summary": "Agave, Firedancer, Frankendancer, SDK, and testing-tool releases shipped as 350ms slot-time gates reached Devnet and Testnet.",
@@ -1064,6 +1053,17 @@
       "category": "X热点",
       "slug": "20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom",
       "localUrl": "/news/20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto is no longer a niche market. Stablecoins move trillions of dollars, and major banks and payment companies are building onchain, but the federal rules governing much of that activity remain incomplete.That is the problem the “CLARITY Act” (HR 3633) is - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbkw4ZkIyYkJEQTM1YlVFS2U5cFhyQUlpX1pxTXpQSUtIYlU5RDYtSHBON2pac2hMUXFwTTZUT3Q0WmNwWnZtOGV0SXRGMHBkVjg1a0xPRU80ajZnUVN5cQ?oc=5\" target=\"_blank\">Crypto is no longer a niche market. …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbkw4ZkIyYkJEQTM1YlVFS2U5cFhyQUlpX1pxTXpQSUtIYlU5RDYtSHBON2pac2hMUXFwTTZUT3Q0WmNwWnZtOGV0SXRGMHBkVjg1a0xPRU80ajZnUVN5cQ?oc=5",
+      "publishedAt": "2026-08-06T15:03:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260806-crypto-is-no-longer-a-niche-market-stablecoins-move-trillions-of-dollars-and-maj",
+      "localUrl": "/news/20260806-crypto-is-no-longer-a-niche-market-stablecoins-move-trillions-of-dollars-and-maj.html"
     },
     {
       "source": "Chainalysis Blog",
