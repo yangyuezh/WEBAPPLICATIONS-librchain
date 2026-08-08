@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T05:53:12.149Z</lastmod>
+    <lastmod>2026-08-08T07:11:02.138Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T05:53:12.149Z</lastmod>
+    <lastmod>2026-08-08T07:11:02.138Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-domestic-stablecoins-could-boost-demand-for-dollar-backed-tokens-imf.html</loc>
+    <lastmod>2026-08-08T06:21:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-us-court-backs-bybits-bid-to-trace-funds-from-15b-north-korea-hack.html</loc>
@@ -57,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html</loc>
     <lastmod>2026-08-07T21:05:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-trump-media-pulls-back-from-crypto-scraps-cro-treasury-venture-and-scales-down-p.html</loc>
+    <lastmod>2026-08-07T20:38:21.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,6 +171,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report.html</loc>
     <lastmod>2026-08-07T16:03:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-rate-cuts-fed-easing-fed-not-hawkish-good-for-crypto-eth-ethereum-is-the-future-.html</loc>
+    <lastmod>2026-08-07T15:31:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-just-in-65000-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-07T11:26:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov.html</loc>
     <lastmod>2026-08-07T11:05:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-bitget-explores-licensed-crypto-presence-in-bhutan.html</loc>
-    <lastmod>2026-08-07T03:22:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-vibes-in-crypto-are-mixed-at-this-hour-many-are-angry-while-others-are-trying-to.html</loc>
     <lastmod>2026-08-07T02:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html</loc>
     <lastmod>2026-08-06T22:06:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-strategy-is-leading-institutional-bitcoin-adoption-and-intends-to-remain-a-net-b.html</loc>
-    <lastmod>2026-08-06T21:50:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
