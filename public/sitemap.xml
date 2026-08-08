@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T14:46:03.775Z</lastmod>
+    <lastmod>2026-08-08T15:42:26.956Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T14:46:03.775Z</lastmod>
+    <lastmod>2026-08-08T15:42:26.956Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad.html</loc>
+    <lastmod>2026-08-08T15:25:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur.html</loc>
+    <lastmod>2026-08-08T15:08:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html</loc>
@@ -183,6 +195,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-insight-senator-elizabeth-warren-says-the-us-needs-crypto-legislation-but-not-le.html</loc>
     <lastmod>2026-08-07T18:20:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-just-in-senator-lummis-releases-statement-now-clarity-act-vote-is-delayed-there-.html</loc>
+    <lastmod>2026-08-07T17:37:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further.html</loc>
-    <lastmod>2026-08-07T10:36:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html</loc>
     <lastmod>2026-08-07T09:26:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,20 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams.html</loc>
-    <lastmod>2026-08-07T05:24:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html</loc>
     <lastmod>2026-08-07T00:49:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-updown-polymarkets-just-got-upgraded-trade-5m-15m-hourly-crypto-updowns-with-tim.html</loc>
-    <lastmod>2026-08-07T00:00:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

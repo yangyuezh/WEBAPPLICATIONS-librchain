@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-08T14:46:03.734Z",
+  "updatedAt": "2026-08-08T15:42:26.691Z",
   "total": 87,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "summary": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
+      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "publishedAt": "2026-08-08T15:25:38.000Z",
+      "keywords": [
+        "Finance",
+        "Brazil",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "localUrl": "/news/20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-08T15:08:06.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur",
+      "localUrl": "/news/20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur.html"
+    },
     {
       "source": "Decrypt",
       "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
@@ -381,6 +409,17 @@
       "category": "X热点",
       "slug": "20260807-insight-senator-elizabeth-warren-says-the-us-needs-crypto-legislation-but-not-le",
       "localUrl": "/news/20260807-insight-senator-elizabeth-warren-says-the-us-needs-crypto-legislation-but-not-le.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Senator Lummis releases statement now Clarity Act vote is delayed: \"There will be a time where I can say more, but for now, let me say this, we've come too far to quit\"👀 \"I will continue working with my colleagues to get this done — this fight is far fr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yZkVRSUxkRVdXdzllRnVRY0Z0RzRuem5odExEcWNLOHZWNDVhd0JBaE54S2tvWU9haDdyMFBydmNwUGhHNGRUUl9HZDEyZWxsUzZZejgyd2prRmlUZ05oSkVseDZmeW8?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senator Lummi…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yZkVRSUxkRVdXdzllRnVRY0Z0RzRuem5odExEcWNLOHZWNDVhd0JBaE54S2tvWU9haDdyMFBydmNwUGhHNGRUUl9HZDEyZWxsUzZZejgyd2prRmlUZ05oSkVseDZmeW8?oc=5",
+      "publishedAt": "2026-08-07T17:37:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-senator-lummis-releases-statement-now-clarity-act-vote-is-delayed-there-",
+      "localUrl": "/news/20260807-just-in-senator-lummis-releases-statement-now-clarity-act-vote-is-delayed-there-.html"
     },
     {
       "source": "Cointelegraph",
@@ -831,21 +870,6 @@
       "localUrl": "/news/20260807-mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin hovers below $65,000 as Middle East tensions escalate further",
-      "summary": "Brent crude has meanwhile moved to over $83 a barrel after Yemen’s Iran-linked Houthis attacked Saudi Arabia, further escalating tensions in the Middle East.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/cmt",
-      "publishedAt": "2026-08-07T10:36:14.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further",
-      "localUrl": "/news/20260807-bitcoin-hovers-below-65000-as-middle-east-tensions-escalate-further.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
       "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
@@ -922,19 +946,6 @@
       "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-      "summary": "Japanese authorities called for address registration, customer-specific limits and stronger authentication as part of a broader push to curb misuse of exchange accounts.",
-      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T05:24:38.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams",
-      "localUrl": "/news/20260807-japan-fsa-asks-crypto-exchanges-to-impose-withdrawal-delays-to-fight-scams.html"
-    },
-    {
       "source": "X Wire",
       "title": "Crypto latest: The Senate negotiations to get to August recess have snagged in part on the Clarity Act. Sources involved in the talks say Democratic leadership continues pushing to delay a procedural crypto vote. Schumer wants to give talks more time. GOP is - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5\" target=\"_blank\">Crypto latest: The Senate n…",
@@ -944,17 +955,6 @@
       "category": "X热点",
       "slug": "20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa",
       "localUrl": "/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Up/down polymarkets just got upgraded. Trade 5m, 15m, & hourly crypto up/downs with time-weighted average pricing (TWAP). To celebrate, we're giving away $1M in liquidity rewards across BTC, ETH, SOL, XRP, HYPE, BNB, & DOGE polymarkets. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpcVRXTjFzcElBN0R2VnBSVFJmWVV1TERhZUNqTXlvRkpnaUpDY3BYLTcya211RXgwb2VNT3FkdjRlVkxsaHhGMlFrRHpBNnRGMHJOQ25MZFN1cG9MakdWY04xcWpRTU0?oc=5\" target=\"_blank\">Up/down polymarkets just go…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpcVRXTjFzcElBN0R2VnBSVFJmWVV1TERhZUNqTXlvRkpnaUpDY3BYLTcya211RXgwb2VNT3FkdjRlVkxsaHhGMlFrRHpBNnRGMHJOQ25MZFN1cG9MakdWY04xcWpRTU0?oc=5",
-      "publishedAt": "2026-08-07T00:00:29.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-updown-polymarkets-just-got-upgraded-trade-5m-15m-hourly-crypto-updowns-with-tim",
-      "localUrl": "/news/20260807-updown-polymarkets-just-got-upgraded-trade-5m-15m-hourly-crypto-updowns-with-tim.html"
     },
     {
       "source": "X Wire",
