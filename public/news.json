@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-08-08T08:55:46.098Z",
+  "updatedAt": "2026-08-08T09:50:39.963Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "summary": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "publishedAt": "2026-08-08T09:07:24.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "Breaking News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n",
+      "localUrl": "/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
@@ -762,6 +778,17 @@
       "localUrl": "/news/20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to.html"
     },
     {
+      "source": "X Wire",
+      "title": "#Bitcoin is still stuck in the middle of this pack, and I think it's not many days before we're going to see a volatile breakout. I'd assume that we're going to see this happen and that it requires to break through the recent high in order to accelerate, which means: $ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUm1vQWNQei1ZWXpsUG9mcEVFbFRJb1lKU1ZESjRRb05iNHRWR1FSaV9FUUVLR0V4a3lzR09YUVdiUHU1bTZ3TEE3SzI2dXA0aHVhMURvYm4yQzFReHZlbGRtSQ?oc=5\" target=\"_blank\">#Bitcoin is still stuck in the m…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUm1vQWNQei1ZWXpsUG9mcEVFbFRJb1lKU1ZESjRRb05iNHRWR1FSaV9FUUVLR0V4a3lzR09YUVdiUHU1bTZ3TEE3SzI2dXA0aHVhMURvYm4yQzFReHZlbGRtSQ?oc=5",
+      "publishedAt": "2026-08-07T09:30:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-",
+      "localUrl": "/news/20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
       "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
@@ -844,21 +871,6 @@
       "localUrl": "/news/20260807-crypto-market-maker-wintermute-lands-sec-approval-to-trade-equities-and-etf-bloc.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-      "summary": "The move separates ordinary Ethereum staking from higher-risk restaking exposure as a new proposal to cap validator rewards divides the staking sector.",
-      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-      "publishedAt": "2026-08-07T08:01:28.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-      "localUrl": "/news/20260807-ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
       "summary": "The Coldcard exploit, which caused more than $100 million in losses, helped push July crypto thefts to $247 million, making it the second-worst month of 2026.",
@@ -881,17 +893,6 @@
       "category": "X热点",
       "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
       "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Upbit to Delist BONK on September 7 South Korea’s largest crypto exchange, Upbit, will delist Bonk (BONK) on September 7, affecting the BONK/KRW and BONK/USDT pairs. Upbit cited unresolved security incidents and insufficient disclosure of material infor - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdUx5VjlpRUlUX2JJRVFPNUN0SXYyNXh0SThvT05WRDh5RWtYdXNSVWVuZUxzMTZpYWJxUDhFeHU3MUphS0ZLMURxY1Jfb2MzVWYyTWg0VWQycVM3T0lDXzAybw?oc=5\" target=\"_blank\">Upbit to Delist BONK on Septembe…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZdUx5VjlpRUlUX2JJRVFPNUN0SXYyNXh0SThvT05WRDh5RWtYdXNSVWVuZUxzMTZpYWJxUDhFeHU3MUphS0ZLMURxY1Jfb2MzVWYyTWg0VWQycVM3T0lDXzAybw?oc=5",
-      "publishedAt": "2026-08-07T07:20:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-upbit-to-delist-bonk-on-september-7-south-koreas-largest-crypto-exchange-upbit-w",
-      "localUrl": "/news/20260807-upbit-to-delist-bonk-on-september-7-south-koreas-largest-crypto-exchange-upbit-w.html"
     },
     {
       "source": "Cointelegraph",
