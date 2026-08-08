@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-08T07:11:02.094Z",
+  "updatedAt": "2026-08-08T08:55:46.098Z",
   "total": 88,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "publishedAt": "2026-08-08T07:46:04.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260808-another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment",
+      "localUrl": "/news/20260808-another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
@@ -79,6 +93,17 @@
       "localUrl": "/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇧🇷 LATEST: Brazil will delay some crypto transfers over $10,000 to foreign firms or self-custody wallets by up to 24 hours under new anti-fraud rules taking effect next year. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BVlc0SWJSeGNFR0ZmeEd2SmN1YzJVcDVXWjFOVWpacGxNRUVDY2pHRUJTbXZ0TWpLSktKTFZpUXc1QkxsUE5fN2FmUEVaM3F3d1FTb0tWa0IzWnRmZ2NDbWVMSVU?oc=5\" target=\"_blank\">🇧🇷 LATEST: Brazil will delay …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BVlc0SWJSeGNFR0ZmeEd2SmN1YzJVcDVXWjFOVWpacGxNRUVDY2pHRUJTbXZ0TWpLSktKTFZpUXc1QkxsUE5fN2FmUEVaM3F3d1FTb0tWa0IzWnRmZ2NDbWVMSVU?oc=5",
+      "publishedAt": "2026-08-07T22:38:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se",
+      "localUrl": "/news/20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Donald Trump’s media company to terminate Crypto.com deal",
       "summary": "The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
@@ -109,6 +134,17 @@
       "localUrl": "/news/20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal.html"
     },
     {
+      "source": "X Wire",
+      "title": "NEW: 🇺🇸 Jack Dorsey's 'Block' added 234 Bitcoin worth $15.1 million 👀 Their treasury now totals 9,117 BTC 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bUlWNGM4bm9LQlVHVFdfX0FoY1FtR2N0RXlGcFBnS3ZUMzhNWGpYZmhPc3VOZkFSSnBpOGV4VGhDR3VtUkNPc1Boazd2eXJFX0lkSDloRTRwb3Rhc3I5RlFjbmJ0X00?oc=5\" target=\"_blank\">NEW: 🇺🇸 Jack Dorsey's 'Bl…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bUlWNGM4bm9LQlVHVFdfX0FoY1FtR2N0RXlGcFBnS3ZUMzhNWGpYZmhPc3VOZkFSSnBpOGV4VGhDR3VtUkNPc1Boazd2eXJFX0lkSDloRTRwb3Rhc3I5RlFjbmJ0X00?oc=5",
+      "publishedAt": "2026-08-07T21:09:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-new-jack-dorseys-block-added-234-bitcoin-worth-151-million-their-treasury-now-to",
+      "localUrl": "/news/20260807-new-jack-dorseys-block-added-234-bitcoin-worth-151-million-their-treasury-now-to.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
       "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
@@ -122,17 +158,6 @@
       "localUrl": "/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html"
     },
     {
-      "source": "X Wire",
-      "title": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans Axios reported that Trump Media and Technology Group is scaling back its crypto ambitions, terminating a planned CRO-focused digital asset trea - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tOEhhdFZRQ1NyeHRiNWNOODJXbnl1Nld0X2d5MmVDYm1JZ3N4bWZwU3ByczRLVnVRLVhabk1VSVhLTUJseDRESmZIenQxMnlxTVJOZE9fZVRVc3BnRGRMSVI5UQ?oc=5\" target=\"_blank\">Trump Media Pulls Back From Cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tOEhhdFZRQ1NyeHRiNWNOODJXbnl1Nld0X2d5MmVDYm1JZ3N4bWZwU3ByczRLVnVRLVhabk1VSVhLTUJseDRESmZIenQxMnlxTVJOZE9fZVRVc3BnRGRMSVI5UQ?oc=5",
-      "publishedAt": "2026-08-07T20:38:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-trump-media-pulls-back-from-crypto-scraps-cro-treasury-venture-and-scales-down-p",
-      "localUrl": "/news/20260807-trump-media-pulls-back-from-crypto-scraps-cro-treasury-venture-and-scales-down-p.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
       "summary": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
@@ -144,6 +169,17 @@
       "category": "监管",
       "slug": "20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran",
       "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨JUST IN: Trump Media unwinds its CRO treasury deal with Crypto dot com. The venture was set to become the \"first and largest publicly traded CRO treasury company.\" Interim CEO Kevin McGurn says the decision was driven by market saturation, not regulat - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xWUphZGJPYmhCZ3VOODl2cmRBMmh0a0Z5WFVnNDFxNFN5S3prVmxLSV9MdGpZRTNiYW5yRnhRandxY0pBMDFjcXN1UnJTWHJ5QWlfd1RmRVluUGRDN0dPcQ?oc=5\" target=\"_blank\">🚨JUST IN: Trump Media unwinds its C…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xWUphZGJPYmhCZ3VOODl2cmRBMmh0a0Z5WFVnNDFxNFN5S3prVmxLSV9MdGpZRTNiYW5yRnhRandxY0pBMDFjcXN1UnJTWHJ5QWlfd1RmRVluUGRDN0dPcQ?oc=5",
+      "publishedAt": "2026-08-07T20:20:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-just-in-trump-media-unwinds-its-cro-treasury-deal-with-crypto-dot-com-the-ventur",
+      "localUrl": "/news/20260807-just-in-trump-media-unwinds-its-cro-treasury-deal-with-crypto-dot-com-the-ventur.html"
     },
     {
       "source": "CoinDesk",
@@ -512,6 +548,17 @@
       "localUrl": "/news/20260807-fierce-backlash-to-ethereums-eip-8363-staking-proposal.html"
     },
     {
+      "source": "X Wire",
+      "title": "Former Bitcoin Miner Firmus Raises $2 Billion as Nvidia Backs Its AI Infrastructure Pivot Reuters reported that Firmus, an AI infrastructure company that previously operated as a Bitcoin miner, has raised $2 billion in equity funding at a post-money valuation of - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YnBwVEJRb0RyNnNyQU5xNFRyODNsb2xCY2RyLU9tbVRpRzNFNEpSXzNSS1I3VDV0M3Bfb0lOdHFfaFJLVV9TOGxFSjdydDFkVUdfSGk1Vl9SSnFHRVRPdUM3cw?oc=5\" target=\"_blank\">Former Bitcoin Miner Firmus Rais…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YnBwVEJRb0RyNnNyQU5xNFRyODNsb2xCY2RyLU9tbVRpRzNFNEpSXzNSS1I3VDV0M3Bfb0lOdHFfaFJLVV9TOGxFSjdydDFkVUdfSGk1Vl9SSnFHRVRPdUM3cw?oc=5",
+      "publishedAt": "2026-08-07T13:26:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-former-bitcoin-miner-firmus-raises-2-billion-as-nvidia-backs-its-ai-infrastructu",
+      "localUrl": "/news/20260807-former-bitcoin-miner-firmus-raises-2-billion-as-nvidia-backs-its-ai-infrastructu.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
       "summary": "Gold, Treasuries and the S&P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
@@ -715,17 +762,6 @@
       "localUrl": "/news/20260807-nearly-23-of-major-bitcoin-miners-are-now-operating-at-a-daily-loss-according-to.html"
     },
     {
-      "source": "X Wire",
-      "title": "#Bitcoin is still stuck in the middle of this pack, and I think it's not many days before we're going to see a volatile breakout. I'd assume that we're going to see this happen and that it requires to break through the recent high in order to accelerate, which means: $ - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUm1vQWNQei1ZWXpsUG9mcEVFbFRJb1lKU1ZESjRRb05iNHRWR1FSaV9FUUVLR0V4a3lzR09YUVdiUHU1bTZ3TEE3SzI2dXA0aHVhMURvYm4yQzFReHZlbGRtSQ?oc=5\" target=\"_blank\">#Bitcoin is still stuck in the m…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGUm1vQWNQei1ZWXpsUG9mcEVFbFRJb1lKU1ZESjRRb05iNHRWR1FSaV9FUUVLR0V4a3lzR09YUVdiUHU1bTZ3TEE3SzI2dXA0aHVhMURvYm4yQzFReHZlbGRtSQ?oc=5",
-      "publishedAt": "2026-08-07T09:30:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-",
-      "localUrl": "/news/20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
       "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
@@ -836,21 +872,6 @@
       "localUrl": "/news/20260807-coldcard-exploit-pushes-july-losses-to-247m-as-second-worst-month-of-2026.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally",
-      "summary": "The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "publishedAt": "2026-08-07T07:44:57.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260807-live-updates-this-cant-last-forever-mulling-bitcoins-lame-price-action-as-risk-m",
-      "localUrl": "/news/20260807-live-updates-this-cant-last-forever-mulling-bitcoins-lame-price-action-as-risk-m.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin doesn’t need CLARITY. America needs clarity. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5\" target=\"_blank\">Bitcoin doesn’t need CLARITY. America needs…",
@@ -943,17 +964,6 @@
       "category": "监管",
       "slug": "20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant",
       "localUrl": "/news/20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "A @WSJopinion piece this week referred to supporters of crypto regulation as \"the crypto boys.\" But that's not who the crypto community is. There are 67 million Americans who own crypto today. One-third are women. More are over 55 than under 25 years old. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SeUcycmlzdUsxLWhMSmJyNTV5T0FlWnVoQzU2NlloOXJJeS0zVllkS2x1VGhDalByeTU2UXpoRnhUSWIyTmJKMGw3Qzl1X08xNGExU1hhMmJ1ZEN4OUFRQQ?oc=5\" target=\"_blank\">A @WSJopinion piece this week referr…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SeUcycmlzdUsxLWhMSmJyNTV5T0FlWnVoQzU2NlloOXJJeS0zVllkS2x1VGhDalByeTU2UXpoRnhUSWIyTmJKMGw3Qzl1X08xNGExU1hhMmJ1ZEN4OUFRQQ?oc=5",
-      "publishedAt": "2026-08-06T21:04:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-a-wsjopinion-piece-this-week-referred-to-supporters-of-crypto-regulation-as-the-",
-      "localUrl": "/news/20260806-a-wsjopinion-piece-this-week-referred-to-supporters-of-crypto-regulation-as-the-.html"
     },
     {
       "source": "Decrypt",
@@ -1052,17 +1062,6 @@
       "category": "X热点",
       "slug": "20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom",
       "localUrl": "/news/20260806-thailand-confirms-0-capital-gains-tax-on-bitcoin-crypto-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: Sen. Elizabeth Warren says she supports crypto legislation, but not the CLARITY Act, arguing it fails to address corruption, consumer protection, national security and economic risks. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSd0FRRFFJbm05NDBPT1NsNVAtdm5icEZUNFZFMVZNbkRxamRYYkFUVWpiZ2FNZXd3S3FjUjBvT3k0cHpZLWx6NGRTRzZvMzRnRW5fOTBPMmdRVzNuM3c?oc=5\" target=\"_blank\">NEW: Sen. Elizabeth Warren says she sup…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSd0FRRFFJbm05NDBPT1NsNVAtdm5icEZUNFZFMVZNbkRxamRYYkFUVWpiZ2FNZXd3S3FjUjBvT3k0cHpZLWx6NGRTRzZvMzRnRW5fOTBPMmdRVzNuM3c?oc=5",
-      "publishedAt": "2026-08-06T14:56:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-new-sen-elizabeth-warren-says-she-supports-crypto-legislation-but-not-the-clarit",
-      "localUrl": "/news/20260806-new-sen-elizabeth-warren-says-she-supports-crypto-legislation-but-not-the-clarit.html"
     },
     {
       "source": "Chainalysis Blog",
