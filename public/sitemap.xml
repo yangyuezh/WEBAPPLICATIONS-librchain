@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T11:39:08.177Z</lastmod>
+    <lastmod>2026-08-08T13:09:13.901Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T11:39:08.177Z</lastmod>
+    <lastmod>2026-08-08T13:09:13.901Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf.html</loc>
+    <lastmod>2026-08-08T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html</loc>
@@ -109,6 +115,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-stablecoins-are-increasingly-being-spent-by-card-swipe-crypto-payment-cards-have.html</loc>
+    <lastmod>2026-08-07T20:15:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-us-treasurys-ofac-sanctions-2-iran-linked-crypto-exchanges.html</loc>
     <lastmod>2026-08-07T20:02:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -177,6 +189,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas.html</loc>
     <lastmod>2026-08-07T16:36:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-crypto-more-sen-moran-tells-me-he-understands-there-is-a-deal-to-set-a-date-cert.html</loc>
+    <lastmod>2026-08-07T16:36:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-bitcoin-is-still-stuck-in-the-middle-of-this-pack-and-i-think-its-not-many-days-.html</loc>
-    <lastmod>2026-08-07T09:30:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html</loc>
     <lastmod>2026-08-07T09:26:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-clarity-act-delay-gives-asian-financial-hubs-an-opening-first-digital-ceo.html</loc>
     <lastmod>2026-08-07T09:01:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-crypto-market-maker-wintermute-lands-sec-approval-to-trade-equities-and-etf-bloc.html</loc>
-    <lastmod>2026-08-07T08:46:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,12 +499,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260806-crypto-is-no-longer-a-niche-market-stablecoins-move-trillions-of-dollars-and-maj.html</loc>
-    <lastmod>2026-08-06T15:03:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html</loc>
     <lastmod>2026-08-06T14:22:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -531,12 +531,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260805-announcing-a-trillion-dollar-security-grant-for-webcat.html</loc>
     <lastmod>2026-08-05T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260804-breakpoint-2026-the-token-supercycle.html</loc>
-    <lastmod>2026-08-04T13:05:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
