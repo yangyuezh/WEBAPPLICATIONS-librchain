@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T11:40:32.606Z</lastmod>
+    <lastmod>2026-08-09T13:12:20.131Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T11:40:32.606Z</lastmod>
+    <lastmod>2026-08-09T13:12:20.131Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html</loc>
+    <lastmod>2026-08-09T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html</loc>
@@ -91,6 +97,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260808-senate-majority-leader-thune-files-cloture-on-clarity-act-setting-up-september-v.html</loc>
+    <lastmod>2026-08-08T18:06:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260808-hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near.html</loc>
     <lastmod>2026-08-08T17:48:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -135,6 +147,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi.html</loc>
     <lastmod>2026-08-08T14:31:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl.html</loc>
+    <lastmod>2026-08-08T14:01:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -225,12 +243,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html</loc>
     <lastmod>2026-08-08T02:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-.html</loc>
-    <lastmod>2026-08-08T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-us-unexpectedly-shed-23000-jobs-in-july-putting-fed-rate-hikes-in-question.html</loc>
-    <lastmod>2026-08-07T12:31:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-russia-cracks-down-on-9-crypto-exchanges-in-moscow-city.html</loc>
     <lastmod>2026-08-07T12:28:41.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html</loc>
     <lastmod>2026-08-07T07:36:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html</loc>
-    <lastmod>2026-08-06T22:06:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

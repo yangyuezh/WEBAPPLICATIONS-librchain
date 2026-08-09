@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-09T11:40:32.566Z",
+  "updatedAt": "2026-08-09T13:12:20.099Z",
   "total": 85,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "summary": "An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.",
+      "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "publishedAt": "2026-08-09T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Feature"
+      ],
+      "category": "基础设施",
+      "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo",
+      "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
@@ -161,6 +175,17 @@
       "localUrl": "/news/20260808-growth-in-the-number-of-purchases-made-with-crypto-payment-cards-is-trending-sim.html"
     },
     {
+      "source": "X Wire",
+      "title": "Senate Majority Leader Thune Files Cloture on Clarity Act, Setting Up September Vote Senate Majority Leader John Thune filed a cloture motion on the Clarity Act, setting up a procedural vote on Sept. 15 after lawmakers return from the August recess. The vot - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UmtEQlFNYmNvOEczNFI4dWdaLVdSbG41by1vbXRHMmpDaXJHODUzS2dvaVdYdnpWNnJXY3FMV3hON1NpeERMYnp5ak1oSkFqMWZ4VHpMQ0lHWGNiM0tCSm13QQ?oc=5\" target=\"_blank\">Senate Majority Leader Thune Fil…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UmtEQlFNYmNvOEczNFI4dWdaLVdSbG41by1vbXRHMmpDaXJHODUzS2dvaVdYdnpWNnJXY3FMV3hON1NpeERMYnp5ak1oSkFqMWZ4VHpMQ0lHWGNiM0tCSm13QQ?oc=5",
+      "publishedAt": "2026-08-08T18:06:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-senate-majority-leader-thune-files-cloture-on-clarity-act-setting-up-september-v",
+      "localUrl": "/news/20260808-senate-majority-leader-thune-files-cloture-on-clarity-act-setting-up-september-v.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
       "summary": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
@@ -265,6 +290,17 @@
       "category": "X热点",
       "slug": "20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi",
       "localUrl": "/news/20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin implied volatility hits YTD low US bond yields hit YTD high This can only end one way - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5\" target=\"_blank\">Bitcoin implied volatility hits YTD low…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5",
+      "publishedAt": "2026-08-08T14:01:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl",
+      "localUrl": "/news/20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl.html"
     },
     {
       "source": "Decrypt",
@@ -461,17 +497,6 @@
       "category": "市场",
       "slug": "20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d",
       "localUrl": "/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨JUST IN: SharpLink CEO Joseph Chalom publicly opposes Ethereum's EIP-8363, warning it could gut the $35 BILLION DeFi collateral market built on staking yield. The proposal would burn validator rewards down to zero once half of all ETH is staked, per C - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5\" target=\"_blank\">🚨JUST IN: SharpLink CEO Joseph Chal…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5",
-      "publishedAt": "2026-08-08T00:00:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-",
-      "localUrl": "/news/20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-.html"
     },
     {
       "source": "X Wire",
@@ -911,21 +936,6 @@
       "localUrl": "/news/20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "summary": "The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.",
-      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-      "publishedAt": "2026-08-07T12:31:51.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-us-unexpectedly-shed-23000-jobs-in-july-putting-fed-rate-hikes-in-question",
-      "localUrl": "/news/20260807-us-unexpectedly-shed-23000-jobs-in-july-putting-fed-rate-hikes-in-question.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
       "summary": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
@@ -1001,17 +1011,6 @@
       "category": "X热点",
       "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
       "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Normal people will soon use crypto/blockchain without even realizing it. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OTJMNlE4U0FPQ3lBeUdGLVFuOFRvS1Etbkdrc0d1WDRfMlM2cUdFa3RSdjFzTUpJSXlxcVozOGRUalBydTR3cVRuWjhidVRMcmMwQVNldG9iV3NqTGZUVA?oc=5\" target=\"_blank\">Normal people will soon use crypto/b…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85OTJMNlE4U0FPQ3lBeUdGLVFuOFRvS1Etbkdrc0d1WDRfMlM2cUdFa3RSdjFzTUpJSXlxcVozOGRUalBydTR3cVRuWjhidVRMcmMwQVNldG9iV3NqTGZUVA?oc=5",
-      "publishedAt": "2026-08-06T22:06:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom",
-      "localUrl": "/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html"
     },
     {
       "source": "Decrypt",
