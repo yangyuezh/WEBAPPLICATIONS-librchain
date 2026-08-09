@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-09T13:12:20.099Z",
-  "total": 85,
+  "updatedAt": "2026-08-09T14:48:58.916Z",
+  "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "summary": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
+      "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+      "publishedAt": "2026-08-09T14:19:35.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul",
+      "localUrl": "/news/20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
@@ -15,6 +30,17 @@
       "category": "基础设施",
       "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo",
       "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "You've probably seen the headlines about quantum computing and crypto. 📖 But what's actually true? We separated the biggest myths from reality – and explain what today's developments really mean for crypto users. Dive into the full article 👉 binance.com/en - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZGVFby14MFQ1dXBEblZvWTVRY3U3X0xaTHd3N3BWd0pwVzFvalNMVDhmajQ0dVdDQ3BKWXJrekJjTUgybW5LSXoyRkRrOXFjdU9rT0M1dno3Ymho?oc=5\" target=\"_blank\">You've probably seen the headlines about q…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZGVFby14MFQ1dXBEblZvWTVRY3U3X0xaTHd3N3BWd0pwVzFvalNMVDhmajQ0dVdDQ3BKWXJrekJjTUgybW5LSXoyRkRrOXFjdU9rT0M1dno3Ymho?oc=5",
+      "publishedAt": "2026-08-09T12:01:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a",
+      "localUrl": "/news/20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a.html"
     },
     {
       "source": "Cointelegraph",
@@ -149,6 +175,17 @@
       "localUrl": "/news/20260808-congress-has-been-working-on-crypto-market-structure-legislation-for-years-at-th.html"
     },
     {
+      "source": "X Wire",
+      "title": "In early 2024, crypto card spending was concentrated in a single chain: Gnosis, home of Gnosis Pay (the first Visa card connected directly to a self-custodial wallet). As new card programs have launched, the number of card settlement chains has expanded. As - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE15S1lfSVR2cDRmal84S0k5eDlZbEdFSFBHbTZsRDEyZGRSWGVvUGpiU3NzZmpzaUJFX3Z4TW95RXB3T05md01LZGxDUWVJeWRaWlJROGxYR2FlOEQ5WnQ0bg?oc=5\" target=\"_blank\">In early 2024, crypto card spending …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15S1lfSVR2cDRmal84S0k5eDlZbEdFSFBHbTZsRDEyZGRSWGVvUGpiU3NzZmpzaUJFX3Z4TW95RXB3T05md01LZGxDUWVJeWRaWlJROGxYR2FlOEQ5WnQ0bg?oc=5",
+      "publishedAt": "2026-08-08T20:37:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-in-early-2024-crypto-card-spending-was-concentrated-in-a-single-chain-gnosis-hom",
+      "localUrl": "/news/20260808-in-early-2024-crypto-card-spending-was-concentrated-in-a-single-chain-gnosis-hom.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
       "summary": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
@@ -165,14 +202,25 @@
     },
     {
       "source": "X Wire",
-      "title": "Growth in the number of purchases made with crypto payment cards is trending similarly to the growth in crypto card volume. Nearly 9 million purchases were made using crypto payment cards during July, up from about 5.2 million a year ago. That puts the ave - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb1FHQ0xGTTdpVWdDNnFLWU1vck9DeDg3UHNHVFdaMm4xN0tfMjVIZmgtU0pPX0JPNG5LTFVKaG5waFQ2VE9aR1NQSXpLUktaSVAzRFhnbC11a2FGR2FEdA?oc=5\" target=\"_blank\">Growth in the number of purchases ma…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb1FHQ0xGTTdpVWdDNnFLWU1vck9DeDg3UHNHVFdaMm4xN0tfMjVIZmgtU0pPX0JPNG5LTFVKaG5waFQ2VE9aR1NQSXpLUktaSVAzRFhnbC11a2FGR2FEdA?oc=5",
-      "publishedAt": "2026-08-08T18:24:38.000Z",
+      "title": "BREAKING: THE BIP 110 #BITCOIN SOFT FORK HAS OFFICIALLY FAILED IT HAS REJECTED BLOCK 961,632 SPLITTING OFF INTO ITS OWN INCOMPATIBLE BLOCKCHAIN - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5\" target=\"_blank\">BREAKING: THE BIP 110 #BITCOIN SOF…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5",
+      "publishedAt": "2026-08-08T19:42:41.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260808-growth-in-the-number-of-purchases-made-with-crypto-payment-cards-is-trending-sim",
-      "localUrl": "/news/20260808-growth-in-the-number-of-purchases-made-with-crypto-payment-cards-is-trending-sim.html"
+      "slug": "20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo",
+      "localUrl": "/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "With conversations in the Bitcoin community ongoing ahead of the BIP-110 fork, here is a reminder from @donjonledger on security best practices: BIP-110 is a soft fork without replay protection. Essentially, this means you could have a new chain with the sam - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsVjJXRWFfNTFueWtCLTJBZGVzU2l2YmxZYlU3QXNNazVzZTVybm12Rlo3cjRJNDZoM2daNVdxYVpMV0xmcEp6cUxlNDVzS1ZzM2E4NWNiX1EzXzQ?oc=5\" target=\"_blank\">With conversations in the Bitcoin community…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsVjJXRWFfNTFueWtCLTJBZGVzU2l2YmxZYlU3QXNNazVzZTVybm12Rlo3cjRJNDZoM2daNVdxYVpMV0xmcEp6cUxlNDVzS1ZzM2E4NWNiX1EzXzQ?oc=5",
+      "publishedAt": "2026-08-08T19:31:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-with-conversations-in-the-bitcoin-community-ongoing-ahead-of-the-bip-110-fork-he",
+      "localUrl": "/news/20260808-with-conversations-in-the-bitcoin-community-ongoing-ahead-of-the-bip-110-fork-he.html"
     },
     {
       "source": "X Wire",
@@ -372,17 +420,6 @@
     },
     {
       "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 Senate Majority Leader John Thune has filed for cloture on the CLARITY ACT 👀 The Senate is now set up for a floor vote once they return in September. 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yeEZaODlnVTVPcE9KYTRxeUEtZVI1aGlBR2ZMbVJRd1pSdlMtbGFFUzlaOWZGRkYxVVhqYy1jRXhrdVhCTTVCRnZEdHpWMjRHODFfTW1IekFvRkV4bHpoVEI1VUlQcGc?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Senate Major…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yeEZaODlnVTVPcE9KYTRxeUEtZVI1aGlBR2ZMbVJRd1pSdlMtbGFFUzlaOWZGRkYxVVhqYy1jRXhrdVhCTTVCRnZEdHpWMjRHODFfTW1IekFvRkV4bHpoVEI1VUlQcGc?oc=5",
-      "publishedAt": "2026-08-08T12:19:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-breaking-senate-majority-leader-john-thune-has-filed-for-cloture-on-the-clarity-",
-      "localUrl": "/news/20260808-breaking-senate-majority-leader-john-thune-has-filed-for-cloture-on-the-clarity-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "The bitcoin ETFs just clocked their best week in flows (about $1b) since April and the 3rd best week since the good ole days were ruined by the Silent IPO last Oct. IBIT, FBTC and few others saw inflows every single day since Coldcard hack, making it hard not t - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQXYwZmFMRHlTNEhGSkZJRmdEczVNNUNxYTU1LVZhbFJhbUFqTUItb093YWdObnFaOGZtaUVfRUh0Uks2WHl2NTRLWjNCTVpqTlFPaWN4ZGZRclJqX3pyeDFjLVg?oc=5\" target=\"_blank\">The bitcoin ETFs just clocked t…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQXYwZmFMRHlTNEhGSkZJRmdEczVNNUNxYTU1LVZhbFJhbUFqTUItb093YWdObnFaOGZtaUVfRUh0Uks2WHl2NTRLWjNCTVpqTlFPaWN4ZGZRclJqX3pyeDFjLVg?oc=5",
@@ -418,17 +455,6 @@
       "category": "监管",
       "slug": "20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n",
       "localUrl": "/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇷🇺LATEST: Russia's biggest exchanges prepare to launch crypto trading after the country passed a new pro-crypto law. Moscow Exchange (MOEX) and SPB Exchange are preparing to launch regulated crypto trading as the new framework takes effect on Sep - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZDJESUpFNEt1YkFWd09sd3pjdHpvTlZCYktLWm9CVndtaE5tUGtLVndGUEQyTVlOazRCTHg0VldXYktxWm85cHJRdmtDaFhpaVAtWmM0WWJOeXFkTzE1VA?oc=5\" target=\"_blank\">🇷🇺LATEST: Russia's biggest exchang…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZDJESUpFNEt1YkFWd09sd3pjdHpvTlZCYktLWm9CVndtaE5tUGtLVndGUEQyTVlOazRCTHg0VldXYktxWm85cHJRdmtDaFhpaVAtWmM0WWJOeXFkTzE1VA?oc=5",
-      "publishedAt": "2026-08-08T08:10:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun",
-      "localUrl": "/news/20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun.html"
     },
     {
       "source": "CoinDesk",
@@ -869,21 +895,6 @@
       "localUrl": "/news/20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-      "summary": "The FSB said at least 20 individuals were arrested in connection with a ring that scammed an undetermined number of Russian citizens.",
-      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
-      "publishedAt": "2026-08-07T14:04:47.000Z",
-      "keywords": [
-        "Policy",
-        "Crime",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain",
-      "localUrl": "/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
       "summary": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
@@ -1002,17 +1013,6 @@
       "localUrl": "/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin doesn’t need CLARITY. America needs clarity. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5\" target=\"_blank\">Bitcoin doesn’t need CLARITY. America needs…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5",
-      "publishedAt": "2026-08-07T07:36:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
-      "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
       "summary": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
@@ -1108,26 +1108,6 @@
       "category": "基础设施",
       "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
       "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Chainalysis Supports Cronos with Automatic Token Support",
-      "summary": "Chainalysis is excited to announce support for Cronos, an EVM-compatible Layer 1 blockchain. Cronos Network is a purpose-built settlement layer… The post Chainalysis Supports Cronos with Automatic Token Support appeared first on Chainalysi…",
-      "url": "https://www.chainalysis.com/blog/cronos-automatic-token-support/",
-      "publishedAt": "2026-08-05T14:00:27.000Z",
-      "keywords": [
-        "Company News",
-        "Automatic Token Support",
-        "Chainalysis KYT",
-        "Chainalysis Reactor",
-        "Cronos",
-        "Ecosystem",
-        "EVM",
-        "Layer 1"
-      ],
-      "category": "综合",
-      "slug": "20260805-chainalysis-supports-cronos-with-automatic-token-support",
-      "localUrl": "/news/20260805-chainalysis-supports-cronos-with-automatic-token-support.html"
     }
   ]
 }
