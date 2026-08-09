@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-08-09T17:44:27.365Z",
-  "total": 84,
+  "updatedAt": "2026-08-09T18:57:14.752Z",
+  "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+      "summary": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
+      "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+      "publishedAt": "2026-08-09T18:30:00.000Z",
+      "keywords": [
+        "Policy",
+        "Newsletters",
+        "State of Crypto",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto",
+      "localUrl": "/news/20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto.html"
+    },
     {
       "source": "X Wire",
       "title": "Crypto doesn't get enough credit for the financial access it's already unlocked for the world. - Stablecoins brought the dollar onchain. Anyone, anywhere can own a low inflation currency, and send it 24/7 for a fraction of a cent. - DeFi gives anyone access to cre - x.com",
@@ -326,6 +342,17 @@
       "localUrl": "/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html"
     },
     {
+      "source": "X Wire",
+      "title": "🎮 The top blockchains powering crypto games right now @0xPolygon 📈 +63.54% @binance 📈 +46.02% @ethereum 📈 +41.19% Find more: 👉 playtoearn.com/blockchaingame… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MklWMW5sRU1wV0tQaU5Cb0N2X0phYnZTcG5NM2V1ZHRjV25ZcmMzWnMwTk1xNndLSHRsMVN4b1RJeGgxcGxscWhReWp1Z1Qwc3hOcG9vZlMxMURtNVI3LQ?oc=5\" target=\"_blank\">🎮 The top blockchains powering cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MklWMW5sRU1wV0tQaU5Cb0N2X0phYnZTcG5NM2V1ZHRjV25ZcmMzWnMwTk1xNndLSHRsMVN4b1RJeGgxcGxscWhReWp1Z1Qwc3hOcG9vZlMxMURtNVI3LQ?oc=5",
+      "publishedAt": "2026-08-08T15:36:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-the-top-blockchains-powering-crypto-games-right-now-0xpolygon-6354-binance-4602-",
+      "localUrl": "/news/20260808-the-top-blockchains-powering-crypto-games-right-now-0xpolygon-6354-binance-4602-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
       "summary": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
@@ -548,17 +575,6 @@
       "category": "市场",
       "slug": "20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d",
       "localUrl": "/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨JUST IN: SharpLink CEO Joseph Chalom publicly opposes Ethereum's EIP-8363, warning it could gut the $35 BILLION DeFi collateral market built on staking yield. The proposal would burn validator rewards down to zero once half of all ETH is staked, per C - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5\" target=\"_blank\">🚨JUST IN: SharpLink CEO Joseph Chal…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5",
-      "publishedAt": "2026-08-08T00:00:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-",
-      "localUrl": "/news/20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-.html"
     },
     {
       "source": "X Wire",
@@ -864,24 +880,6 @@
       "localUrl": "/news/20260807-okxs-rafique-doubts-clarity-act-will-pass-warns-optimism-is-already-priced-into-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "How a five-second trick let traders drain millions from Polymarket",
-      "summary": "After months of public warnings from onchain analysts, the prediction market is moving to time-weighted prices to make artificial price pushes too costly.",
-      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
-      "publishedAt": "2026-08-07T15:09:07.000Z",
-      "keywords": [
-        "Finance",
-        "Polymarket",
-        "Prediction Markets",
-        "Kalshi",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
-      "localUrl": "/news/20260807-how-a-five-second-trick-let-traders-drain-millions-from-polymarket.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto Biz: Crypto’s biggest business is starting to look a lot like banking",
       "summary": "Crypto business is converging with banking as stablecoin reserves, tokenized funds, Treasury income and balance sheet management become key profit drivers.",
@@ -1097,17 +1095,6 @@
       "category": "综合",
       "slug": "20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-",
       "localUrl": "/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Webinar Recap: Giving AI agents a native way to pay with x402",
-      "summary": "X402 has processed roughly 200M transactions and $50B in volume, giving AI agents a stablecoin-native way to pay for web resources.",
-      "url": "https://solana.com/news/webinar-recap-agentic-payments",
-      "publishedAt": "2026-08-05T18:55:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402",
-      "localUrl": "/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html"
     }
   ]
 }

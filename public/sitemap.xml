@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T17:44:27.406Z</lastmod>
+    <lastmod>2026-08-09T18:57:14.793Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T17:44:27.406Z</lastmod>
+    <lastmod>2026-08-09T18:57:14.793Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto.html</loc>
+    <lastmod>2026-08-09T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260809-crypto-doesnt-get-enough-credit-for-the-financial-access-its-already-unlocked-fo.html</loc>
@@ -169,6 +175,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260808-the-top-blockchains-powering-crypto-games-right-now-0xpolygon-6354-binance-4602-.html</loc>
+    <lastmod>2026-08-08T15:36:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad.html</loc>
     <lastmod>2026-08-08T15:25:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -267,12 +279,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html</loc>
     <lastmod>2026-08-08T02:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-.html</loc>
-    <lastmod>2026-08-08T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-how-a-five-second-trick-let-traders-drain-millions-from-polymarket.html</loc>
-    <lastmod>2026-08-07T15:09:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html</loc>
     <lastmod>2026-08-07T15:07:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -507,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-estimated-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-records-.html</loc>
     <lastmod>2026-08-06T12:00:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-webinar-recap-giving-ai-agents-a-native-way-to-pay-with-x402.html</loc>
-    <lastmod>2026-08-05T18:55:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
