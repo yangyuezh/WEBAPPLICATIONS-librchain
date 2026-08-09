@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T09:52:50.213Z</lastmod>
+    <lastmod>2026-08-09T10:49:25.096Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T09:52:50.213Z</lastmod>
+    <lastmod>2026-08-09T10:49:25.096Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html</loc>
+    <lastmod>2026-08-09T09:45:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold.html</loc>
@@ -63,12 +69,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html</loc>
     <lastmod>2026-08-08T20:06:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html</loc>
-    <lastmod>2026-08-08T19:42:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

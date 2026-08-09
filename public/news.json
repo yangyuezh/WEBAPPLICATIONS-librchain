@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-09T09:52:50.171Z",
+  "updatedAt": "2026-08-09T10:49:25.056Z",
   "total": 85,
   "items": [
+    {
+      "source": "X Wire",
+      "title": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 bloc - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdUtiZmhSdW5oSjhGLWZaVHZyZFoyZnN6c2RpU2NjNVVGV3VOQVhzdERBekNZeVY5aTQ1VGgyS2NsVXFtVE11Ri04TlZ3b3ZoSUFQQ2ZqeWowWnM?oc=5\" target=\"_blank\">Bitcoin worked exactly as designed. BIP-110…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdUtiZmhSdW5oSjhGLWZaVHZyZFoyZnN6c2RpU2NjNVVGV3VOQVhzdERBekNZeVY5aTQ1VGgyS2NsVXFtVE11Ri04TlZ3b3ZoSUFQQ2ZqeWowWnM?oc=5",
+      "publishedAt": "2026-08-09T09:45:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-",
+      "localUrl": "/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
@@ -113,17 +124,6 @@
       "category": "市场",
       "slug": "20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins",
       "localUrl": "/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: THE BIP 110 #BITCOIN SOFT FORK HAS OFFICIALLY FAILED IT HAS REJECTED BLOCK 961,632 SPLITTING OFF INTO ITS OWN INCOMPATIBLE BLOCKCHAIN - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5\" target=\"_blank\">BREAKING: THE BIP 110 #BITCOIN SOF…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5",
-      "publishedAt": "2026-08-08T19:42:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo",
-      "localUrl": "/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html"
     },
     {
       "source": "X Wire",
