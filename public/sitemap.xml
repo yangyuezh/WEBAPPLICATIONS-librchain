@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T05:55:19.468Z</lastmod>
+    <lastmod>2026-08-09T07:12:12.022Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T05:55:19.468Z</lastmod>
+    <lastmod>2026-08-09T07:12:12.022Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -139,6 +139,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun.html</loc>
+    <lastmod>2026-08-08T08:10:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260808-another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment.html</loc>
     <lastmod>2026-08-08T07:46:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -193,6 +199,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html</loc>
+    <lastmod>2026-08-07T23:01:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se.html</loc>
     <lastmod>2026-08-07T22:38:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html</loc>
     <lastmod>2026-08-07T21:05:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-latest-sharplink-ceo-joseph-chalom-has-opposed-ethereums-proposed-eip-8363-warni.html</loc>
-    <lastmod>2026-08-07T21:01:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html</loc>
     <lastmod>2026-08-07T07:36:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html</loc>
-    <lastmod>2026-08-07T00:49:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
