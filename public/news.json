@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-08-09T04:33:25.076Z",
+  "updatedAt": "2026-08-09T05:55:19.430Z",
   "total": 86,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
+      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-09T05:46:07.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
+      "localUrl": "/news/20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "summary": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
+      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "publishedAt": "2026-08-09T05:08:20.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "localUrl": "/news/20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
@@ -40,6 +67,17 @@
       "category": "市场",
       "slug": "20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins",
       "localUrl": "/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: THE BIP 110 #BITCOIN SOFT FORK HAS OFFICIALLY FAILED IT HAS REJECTED BLOCK 961,632 SPLITTING OFF INTO ITS OWN INCOMPATIBLE BLOCKCHAIN - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5\" target=\"_blank\">BREAKING: THE BIP 110 #BITCOIN SOF…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5",
+      "publishedAt": "2026-08-08T19:42:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo",
+      "localUrl": "/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html"
     },
     {
       "source": "X Wire",
@@ -762,17 +800,6 @@
       "localUrl": "/news/20260807-russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukrain.html"
     },
     {
-      "source": "X Wire",
-      "title": "This is the most important chart in crypto right now - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMTlHalRPSl9nRGhJZWdKTGNSdGQxNlBwWm15ME85VFdWTGJuOHh1TlFrcWdmNE1nLWtkbUNrZ2M5cEwxOWx1NGRtU2l0dGFkQXM5OWFRMWxXdWUtb25qYWJyUUs?oc=5\" target=\"_blank\">This is the most important char…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMTlHalRPSl9nRGhJZWdKTGNSdGQxNlBwWm15ME85VFdWTGJuOHh1TlFrcWdmNE1nLWtkbUNrZ2M5cEwxOWx1NGRtU2l0dGFkQXM5OWFRMWxXdWUtb25qYWJyUUs?oc=5",
-      "publishedAt": "2026-08-07T13:33:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom",
-      "localUrl": "/news/20260807-this-is-the-most-important-chart-in-crypto-right-now-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
       "summary": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
@@ -901,22 +928,6 @@
       "localUrl": "/news/20260807-morning-minute-metamask-hands-ai-agents-a-wallet.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "After a Clarity Act funeral, the crypto world would keep turning",
-      "summary": "With the U.S. crypto bill missing a crucial window before the Senate hangs its closed-for-summer sign, the alternatives are getting more attention.",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-      "publishedAt": "2026-08-07T12:00:00.000Z",
-      "keywords": [
-        "News Analysis",
-        "Clarity Act",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
-      "localUrl": "/news/20260807-after-a-clarity-act-funeral-the-crypto-world-would-keep-turning.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
       "summary": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
@@ -968,19 +979,6 @@
       "category": "市场",
       "slug": "20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink",
       "localUrl": "/news/20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
-      "summary": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc’s crypto framework.",
-      "url": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T09:14:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260807-stripe-owned-bridge-joins-eu-mica-register-after-luxembourg-approval",
-      "localUrl": "/news/20260807-stripe-owned-bridge-joins-eu-mica-register-after-luxembourg-approval.html"
     },
     {
       "source": "X Wire",
