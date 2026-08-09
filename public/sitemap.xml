@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T15:43:16.551Z</lastmod>
+    <lastmod>2026-08-09T16:50:39.558Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T15:43:16.551Z</lastmod>
+    <lastmod>2026-08-09T16:50:39.558Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-crypto-doesnt-get-enough-credit-for-the-financial-access-its-already-unlocked-fo.html</loc>
+    <lastmod>2026-08-09T15:27:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260809-hyperliquids-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype.html</loc>
@@ -325,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-new-leader-thunes-office-is-telling-crypto-industry-leaders-today-that-the-major.html</loc>
-    <lastmod>2026-08-07T19:09:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html</loc>
     <lastmod>2026-08-07T18:42:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,6 +427,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html</loc>
+    <lastmod>2026-08-07T13:10:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated.html</loc>
     <lastmod>2026-08-07T13:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html</loc>
     <lastmod>2026-08-07T09:26:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html</loc>
-    <lastmod>2026-08-07T07:36:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
