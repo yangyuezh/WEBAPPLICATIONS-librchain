@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-08T23:41:04.132Z</lastmod>
+    <lastmod>2026-08-09T02:25:18.387Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-08T23:41:04.132Z</lastmod>
+    <lastmod>2026-08-09T02:25:18.387Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html</loc>
     <lastmod>2026-08-08T21:17:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-congress-has-been-working-on-crypto-market-structure-legislation-for-years-at-th.html</loc>
+    <lastmod>2026-08-08T20:41:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -75,12 +81,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan.html</loc>
     <lastmod>2026-08-08T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in.html</loc>
-    <lastmod>2026-08-08T13:31:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,6 +159,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-.html</loc>
     <lastmod>2026-08-08T00:55:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-.html</loc>
+    <lastmod>2026-08-08T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -255,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html</loc>
     <lastmod>2026-08-07T18:42:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-insight-senator-elizabeth-warren-says-the-us-needs-crypto-legislation-but-not-le.html</loc>
-    <lastmod>2026-08-07T18:20:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -525,12 +525,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260805-solana-ecosystem-roundup-july-2026.html</loc>
     <lastmod>2026-08-05T09:33:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260805-announcing-a-trillion-dollar-security-grant-for-webcat.html</loc>
-    <lastmod>2026-08-05T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
