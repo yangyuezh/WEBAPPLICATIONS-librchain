@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T22:46:02.015Z</lastmod>
+    <lastmod>2026-08-09T23:43:29.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T22:46:02.015Z</lastmod>
+    <lastmod>2026-08-09T23:43:29.169Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -25,12 +25,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-crypto-doesnt-get-enough-credit-for-the-financial-access-its-already-unlocked-fo.html</loc>
-    <lastmod>2026-08-09T15:27:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260809-hyperliquids-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype.html</loc>
     <lastmod>2026-08-09T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -39,12 +33,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html</loc>
     <lastmod>2026-08-09T14:47:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-bitcoin-once-again-proves-its-resilience-through-strategy-sales-security-threats.html</loc>
-    <lastmod>2026-08-09T14:43:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,6 +283,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se.html</loc>
+    <lastmod>2026-08-07T22:38:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html</loc>
     <lastmod>2026-08-07T21:39:36.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html</loc>
     <lastmod>2026-08-07T13:26:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html</loc>
+    <lastmod>2026-08-07T13:10:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
