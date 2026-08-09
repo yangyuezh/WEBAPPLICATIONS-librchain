@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T10:49:25.096Z</lastmod>
+    <lastmod>2026-08-09T11:40:32.606Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T10:49:25.096Z</lastmod>
+    <lastmod>2026-08-09T11:40:32.606Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html</loc>
+    <lastmod>2026-08-09T11:00:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-at-015-of-bitcoins-hashpower-bip-110-must-mine-2015-more-blocks-before-its-first.html</loc>
+    <lastmod>2026-08-09T09:45:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html</loc>
@@ -43,14 +55,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like.html</loc>
-    <lastmod>2026-08-09T01:30:59.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260809-grayscale-clarity-act-unlikely-to-pass-this-year-but-crypto-can-still-move-forwa.html</loc>
+    <lastmod>2026-08-09T03:49:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260808-just-in-team-formed-after-coldcards-130-million-exploit-finds-4962-flaws-across-.html</loc>
-    <lastmod>2026-08-08T21:30:00.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like.html</loc>
+    <lastmod>2026-08-09T01:30:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -157,6 +169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260808-breaking-senate-majority-leader-john-thune-has-filed-for-cloture-on-the-clarity-.html</loc>
+    <lastmod>2026-08-08T12:19:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260808-the-bitcoin-etfs-just-clocked-their-best-week-in-flows-about-1b-since-april-and-.html</loc>
     <lastmod>2026-08-08T12:15:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,12 +237,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-.html</loc>
     <lastmod>2026-08-07T23:38:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html</loc>
-    <lastmod>2026-08-07T23:01:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html</loc>
-    <lastmod>2026-08-07T13:10:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260807-bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated.html</loc>
     <lastmod>2026-08-07T13:00:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-morning-minute-metamask-hands-ai-agents-a-wallet.html</loc>
     <lastmod>2026-08-07T12:00:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov.html</loc>
-    <lastmod>2026-08-07T11:05:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

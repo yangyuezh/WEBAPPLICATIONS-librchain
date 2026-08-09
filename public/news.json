@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-09T10:49:25.056Z",
+  "updatedAt": "2026-08-09T11:40:32.566Z",
   "total": 85,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "summary": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-09T11:00:53.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens",
+      "localUrl": "/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not decla - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONnAzMXNnQTJ4S1ZyMUpQT3A3RFhlLS1taEs1NnM0SmIwWW45SjNpTFJJajRYNkU3Vks0anA4cHpyRWt4VDdWTU9LNUxVbXhMWlNIbjIwQl91WHM?oc=5\" target=\"_blank\">At ~0.15% of Bitcoin's hashpower, BIP-110 m…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONnAzMXNnQTJ4S1ZyMUpQT3A3RFhlLS1taEs1NnM0SmIwWW45SjNpTFJJajRYNkU3Vks0anA4cHpyRWt4VDdWTU9LNUxVbXhMWlNIbjIwQl91WHM?oc=5",
+      "publishedAt": "2026-08-09T09:45:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-at-015-of-bitcoins-hashpower-bip-110-must-mine-2015-more-blocks-before-its-first",
+      "localUrl": "/news/20260809-at-015-of-bitcoins-hashpower-bip-110-must-mine-2015-more-blocks-before-its-first.html"
+    },
     {
       "source": "X Wire",
       "title": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 bloc - x.com",
@@ -66,6 +90,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Grayscale: CLARITY Act Unlikely to Pass This Year, but Crypto Can Still Move Forward Grayscale Head of Research Zach Pandl said the chances of the CLARITY Act passing this year now appear low due to the Senate calendar and election-year politics. He - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdmVubXZSVEtReUgzVmVxQWtxbFlFVV9VSXJ6elR2X3BNZU5RTWRpa0xveHJhcEsyeFhfeUhDaWVtRGQ4Q0ItUjVDRjZCV1VzcWNkOEJoLVViZ2U4OHJJeTdvZw?oc=5\" target=\"_blank\">Grayscale: CLARITY Act Unlikely …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdmVubXZSVEtReUgzVmVxQWtxbFlFVV9VSXJ6elR2X3BNZU5RTWRpa0xveHJhcEsyeFhfeUhDaWVtRGQ4Q0ItUjVDRjZCV1VzcWNkOEJoLVViZ2U4OHJJeTdvZw?oc=5",
+      "publishedAt": "2026-08-09T03:49:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-grayscale-clarity-act-unlikely-to-pass-this-year-but-crypto-can-still-move-forwa",
+      "localUrl": "/news/20260809-grayscale-clarity-act-unlikely-to-pass-this-year-but-crypto-can-still-move-forwa.html"
+    },
+    {
+      "source": "X Wire",
       "title": "⚡ UPDATE: Crypto is the worst performing asset of 2026 when compared to assets like gold, silver, Nasdaq and the Russell 2000. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5\" target=\"_blank\">⚡ UPDATE: Crypto is the worst p…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5",
@@ -74,17 +109,6 @@
       "category": "X热点",
       "slug": "20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like",
       "localUrl": "/news/20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨JUST IN: Team formed after Coldcard's $130 MILLION exploit finds 4,962 flaws across 390 Bitcoin projects using AI. The Bitcoin Red Team used Kimi K3, GPT Sol, and Opus to scan wallets, libraries, and infrastructure in under 30 hours, averaging \"1 critical e - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYW45aUFmVlY2VWRlV0lFR0Fxb2ZNYWl4ZDNkOXl1NTIwUG9SYWh5MGRnX3RSWVFhYnhGNXRKLUFqQzNKNnBYN0huR0NNRWEzNGRlWGpRdnZ0UEJIQnNEcQ?oc=5\" target=\"_blank\">🚨JUST IN: Team formed after Coldcar…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYW45aUFmVlY2VWRlV0lFR0Fxb2ZNYWl4ZDNkOXl1NTIwUG9SYWh5MGRnX3RSWVFhYnhGNXRKLUFqQzNKNnBYN0huR0NNRWEzNGRlWGpRdnZ0UEJIQnNEcQ?oc=5",
-      "publishedAt": "2026-08-08T21:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-just-in-team-formed-after-coldcards-130-million-exploit-finds-4962-flaws-across-",
-      "localUrl": "/news/20260808-just-in-team-formed-after-coldcards-130-million-exploit-finds-4962-flaws-across-.html"
     },
     {
       "source": "Cointelegraph",
@@ -312,6 +336,17 @@
     },
     {
       "source": "X Wire",
+      "title": "BREAKING: 🇺🇸 Senate Majority Leader John Thune has filed for cloture on the CLARITY ACT 👀 The Senate is now set up for a floor vote once they return in September. 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yeEZaODlnVTVPcE9KYTRxeUEtZVI1aGlBR2ZMbVJRd1pSdlMtbGFFUzlaOWZGRkYxVVhqYy1jRXhrdVhCTTVCRnZEdHpWMjRHODFfTW1IekFvRkV4bHpoVEI1VUlQcGc?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 Senate Major…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yeEZaODlnVTVPcE9KYTRxeUEtZVI1aGlBR2ZMbVJRd1pSdlMtbGFFUzlaOWZGRkYxVVhqYy1jRXhrdVhCTTVCRnZEdHpWMjRHODFfTW1IekFvRkV4bHpoVEI1VUlQcGc?oc=5",
+      "publishedAt": "2026-08-08T12:19:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-breaking-senate-majority-leader-john-thune-has-filed-for-cloture-on-the-clarity-",
+      "localUrl": "/news/20260808-breaking-senate-majority-leader-john-thune-has-filed-for-cloture-on-the-clarity-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "The bitcoin ETFs just clocked their best week in flows (about $1b) since April and the 3rd best week since the good ole days were ruined by the Silent IPO last Oct. IBIT, FBTC and few others saw inflows every single day since Coldcard hack, making it hard not t - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQXYwZmFMRHlTNEhGSkZJRmdEczVNNUNxYTU1LVZhbFJhbUFqTUItb093YWdObnFaOGZtaUVfRUh0Uks2WHl2NTRLWjNCTVpqTlFPaWN4ZGZRclJqX3pyeDFjLVg?oc=5\" target=\"_blank\">The bitcoin ETFs just clocked t…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQXYwZmFMRHlTNEhGSkZJRmdEczVNNUNxYTU1LVZhbFJhbUFqTUItb093YWdObnFaOGZtaUVfRUh0Uks2WHl2NTRLWjNCTVpqTlFPaWN4ZGZRclJqX3pyeDFjLVg?oc=5",
@@ -448,17 +483,6 @@
       "category": "X热点",
       "slug": "20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-",
       "localUrl": "/news/20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Bitcoin just recorded 2.27M new wallets and 751K active wallets, marking its strongest on-chain activity in months. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRW9YMmVicmRIQjA3UDZ0UnE2OEtQajdEbXlxY2kyMXdmTDRDcEVFc3VWMi11OXBneDJpQ18wWWNlNDFiMldCUXdDUmZSWGs3TUcxNzZ0Rmt4TTgyREQwRVJtaHo?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin just recorde…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRW9YMmVicmRIQjA3UDZ0UnE2OEtQajdEbXlxY2kyMXdmTDRDcEVFc3VWMi11OXBneDJpQ18wWWNlNDFiMldCUXdDUmZSWGs3TUcxNzZ0Rmt4TTgyREQwRVJtaHo?oc=5",
-      "publishedAt": "2026-08-07T23:01:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it",
-      "localUrl": "/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html"
     },
     {
       "source": "X Wire",
@@ -861,17 +885,6 @@
       "localUrl": "/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html"
     },
     {
-      "source": "X Wire",
-      "title": "1/ Privacy is often thought of as politically risky. In this guest thread by @valkenburgh, Executive Director of @coincenter, he makes the case, in his own words, that the reality is the opposite: Privacy is essential to Ethereum’s promise of financial freedom and n - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5\" target=\"_blank\">1/ Privacy is often thought of as polit…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5",
-      "publishedAt": "2026-08-07T13:10:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke",
-      "localUrl": "/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
       "summary": "Dice entropy may become the new gold standard after the Coldcard hack",
@@ -950,19 +963,6 @@
       "category": "市场",
       "slug": "20260807-morning-minute-metamask-hands-ai-agents-a-wallet",
       "localUrl": "/news/20260807-morning-minute-metamask-hands-ai-agents-a-wallet.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
-      "summary": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
-      "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T11:05:01.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov",
-      "localUrl": "/news/20260807-binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-ov.html"
     },
     {
       "source": "Decrypt",
