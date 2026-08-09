@@ -5,7 +5,7 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:57:56 GMT</lastBuildDate>
     <item>
       <title>BTCPay restricts remote Lightning access after attackers steal funds</title>
       <link>https://www.librchain.com/news/20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds.html</link>
@@ -21,6 +21,14 @@
       <description>The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.</description>
       <pubDate>Sun, 09 Aug 2026 05:08:20 GMT</pubDate>
       <source url="https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops">CoinDesk</source>
+    </item>
+    <item>
+      <title>🚨JUST IN: Team formed after Coldcard&apos;s $130 MILLION exploit finds 4,962 flaws across 390 Bitcoin projects using AI. The Bitcoin Red Team used Kimi K3, GPT Sol, and Opus to scan wallets, libraries, and infrastructure in under 30 hours, averaging &quot;1 critical e - x.com</title>
+      <link>https://www.librchain.com/news/20260808-just-in-team-formed-after-coldcards-130-million-exploit-finds-4962-flaws-across-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260808-just-in-team-formed-after-coldcards-130-million-exploit-finds-4962-flaws-across-.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYW45aUFmVlY2VWRlV0lFR0Fxb2ZNYWl4ZDNkOXl1NTIwUG9SYWh5MGRnX3RSWVFhYnhGNXRKLUFqQzNKNnBYN0huR0NNRWEzNGRlWGpRdnZ0UEJIQnNEcQ?oc=5&quot; target=&quot;_blank&quot;&gt;🚨JUST IN: Team formed after Coldcar…</description>
+      <pubDate>Sat, 08 Aug 2026 21:30:00 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYW45aUFmVlY2VWRlV0lFR0Fxb2ZNYWl4ZDNkOXl1NTIwUG9SYWh5MGRnX3RSWVFhYnhGNXRKLUFqQzNKNnBYN0huR0NNRWEzNGRlWGpRdnZ0UEJIQnNEcQ?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%</title>
@@ -53,14 +61,6 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5&quot; target=&quot;_blank&quot;&gt;BREAKING: THE BIP 110 #BITCOIN SOF…</description>
       <pubDate>Sat, 08 Aug 2026 19:42:41 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>🇷🇺JUST IN: Hardware wallet sales double in Russia ahead of sweeping crypto regulations. Russia&apos;s new framework kicks in September 1, capping retail crypto purchases at 300,000 rubles (-$3,500) per year and banning domestic crypto payments. - x.com</title>
-      <link>https://www.librchain.com/news/20260808-just-in-hardware-wallet-sales-double-in-russia-ahead-of-sweeping-crypto-regulati.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260808-just-in-hardware-wallet-sales-double-in-russia-ahead-of-sweeping-crypto-regulati.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hRmFNMWM2bU9MZjJNa21oZUZ4dzFkdDdZd1M2X2x2YjhvZU9PUGJXemUzOGVYUzAwT0FKRTg4WUJ1TktGMnF3V0NVYXJxcWJlS2dHOWtLTFlSaTJKQjN5cg?oc=5&quot; target=&quot;_blank&quot;&gt;🇷🇺JUST IN: Hardware wallet sales d…</description>
-      <pubDate>Sat, 08 Aug 2026 19:30:00 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hRmFNMWM2bU9MZjJNa21oZUZ4dzFkdDdZd1M2X2x2YjhvZU9PUGJXemUzOGVYUzAwT0FKRTg4WUJ1TktGMnF3V0NVYXJxcWJlS2dHOWtLTFlSaTJKQjN5cg?oc=5">X Wire</source>
     </item>
     <item>
       <title>Hardware wallet sales in Russia more than double as new crypto rules near</title>
@@ -119,6 +119,14 @@
       <source url="https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
+      <title>🔥 INTERVIEW: Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik. Full story: cointelegraph.com/magazine/bitco… - x.com</title>
+      <link>https://www.librchain.com/news/20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Td0hqbVB6YzVVbEdrNWpCR3lKSlo1QmZnbWtINmhpS0tONUpRc3RiVF9JUWptOU5LcGp2XzJVaFg2a1I5RzZWTHJUTnF3cFFaZDZrYUszWEk0OWc0UjBDVFRpOUM?oc=5&quot; target=&quot;_blank&quot;&gt;🔥 INTERVIEW: Crypto is growing…</description>
+      <pubDate>Sat, 08 Aug 2026 14:31:02 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Td0hqbVB6YzVVbEdrNWpCR3lKSlo1QmZnbWtINmhpS0tONUpRc3RiVF9JUWptOU5LcGp2XzJVaFg2a1I5RzZWTHJUTnF3cFFaZDZrYUszWEk0OWc0UjBDVFRpOUM?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Robinhood Crypto Chief Explains Why There Are &apos;Two Wolves&apos; Inside Robinhood Chain</title>
       <link>https://www.librchain.com/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html</guid>
@@ -133,6 +141,14 @@
       <description>The digital asset manager&apos;s CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.</description>
       <pubDate>Sat, 08 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan">CoinDesk</source>
+    </item>
+    <item>
+      <title>🔥 HUGE: Crypto cards monthly spend just hit a new ATH of $759M. More than doubling in a year. - x.com</title>
+      <link>https://www.librchain.com/news/20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUXZMampGakh3ZzN3clkyaXc4VnFGOHZROHhXT2FzX1JPbVNpT0JxZmxSRHU0YWlQa29rVUtBYnJVQkdNblVzWkNzV0pCY01abHo4N2R2NmhoY3ltcWpFRkg5Ukw?oc=5&quot; target=&quot;_blank&quot;&gt;🔥 HUGE: Crypto cards monthly s…</description>
+      <pubDate>Sat, 08 Aug 2026 13:31:03 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUXZMampGakh3ZzN3clkyaXc4VnFGOHZROHhXT2FzX1JPbVNpT0JxZmxSRHU0YWlQa29rVUtBYnJVQkdNblVzWkNzV0pCY01abHo4N2R2NmhoY3ltcWpFRkg5Ukw?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin will never fall below $60K again: Nansen founder</title>
@@ -213,14 +229,6 @@
       <description>A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.</description>
       <pubDate>Sat, 08 Aug 2026 03:30:00 GMT</pubDate>
       <source url="https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets">CoinDesk</source>
-    </item>
-    <item>
-      <title>🇺🇸 TODAY: U.S. Treasury sanctioned two crypto exchanges accused of helping Iran’s IRGC launder billions and evade sanctions. - x.com</title>
-      <link>https://www.librchain.com/news/20260808-today-us-treasury-sanctioned-two-crypto-exchanges-accused-of-helping-irans-irgc-.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260808-today-us-treasury-sanctioned-two-crypto-exchanges-accused-of-helping-irans-irgc-.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xTHdMYnFOS25rOUJDbUJEN3RIY3l5UFM4cjhrTEVZT1BGd1psdUkwclJRQk45WjdzeUkzVGRCekZfdzVyQng1cU5McnR0cTNuNTg2RnNvR1BGWWp2WW1LY3Z6Z1g?oc=5&quot; target=&quot;_blank&quot;&gt;🇺🇸 TODAY: U.S. Treasury sanct…</description>
-      <pubDate>Sat, 08 Aug 2026 02:31:02 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xTHdMYnFOS25rOUJDbUJEN3RIY3l5UFM4cjhrTEVZT1BGd1psdUkwclJRQk45WjdzeUkzVGRCekZfdzVyQng1cU5McnR0cTNuNTg2RnNvR1BGWWp2WW1LY3Z6Z1g?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer</title>
@@ -429,14 +437,6 @@
       <description>Designed with Jony Ive&apos;s LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.</description>
       <pubDate>Fri, 07 Aug 2026 16:03:06 GMT</pubDate>
       <source url="https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report">Decrypt</source>
-    </item>
-    <item>
-      <title>Rate cuts = Fed easing Fed not “hawkish” = good for crypto $ETH Ethereum is the future settlement layer of finance - x.com</title>
-      <link>https://www.librchain.com/news/20260807-rate-cuts-fed-easing-fed-not-hawkish-good-for-crypto-eth-ethereum-is-the-future-.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260807-rate-cuts-fed-easing-fed-not-hawkish-good-for-crypto-eth-ethereum-is-the-future-.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwOEpiQUpRQUg0Mzg5Mjc5MEp5N096MzFhTWVkTGx1NkJOTTI3Z0JfRV9Wc3Y1Sm9iNG1tSmJldXZweFZ3UVl5SnJYeWVTMkp5TkNHLXFXcVV6RDNNT3hr?oc=5&quot; target=&quot;_blank&quot;&gt;Rate cuts = Fed easing Fed not “hawkis…</description>
-      <pubDate>Fri, 07 Aug 2026 15:31:52 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwOEpiQUpRQUg0Mzg5Mjc5MEp5N096MzFhTWVkTGx1NkJOTTI3Z0JfRV9Wc3Y1Sm9iNG1tSmJldXZweFZ3UVl5SnJYeWVTMkp5TkNHLXFXcVV6RDNNT3hr?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC</title>
