@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:25:18.346Z",
+  "updatedAt": "2026-08-09T04:33:25.076Z",
   "total": 86,
   "items": [
     {
@@ -40,6 +40,17 @@
       "category": "市场",
       "slug": "20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins",
       "localUrl": "/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇷🇺JUST IN: Hardware wallet sales double in Russia ahead of sweeping crypto regulations. Russia's new framework kicks in September 1, capping retail crypto purchases at 300,000 rubles (-$3,500) per year and banning domestic crypto payments. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hRmFNMWM2bU9MZjJNa21oZUZ4dzFkdDdZd1M2X2x2YjhvZU9PUGJXemUzOGVYUzAwT0FKRTg4WUJ1TktGMnF3V0NVYXJxcWJlS2dHOWtLTFlSaTJKQjN5cg?oc=5\" target=\"_blank\">🇷🇺JUST IN: Hardware wallet sales d…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hRmFNMWM2bU9MZjJNa21oZUZ4dzFkdDdZd1M2X2x2YjhvZU9PUGJXemUzOGVYUzAwT0FKRTg4WUJ1TktGMnF3V0NVYXJxcWJlS2dHOWtLTFlSaTJKQjN5cg?oc=5",
+      "publishedAt": "2026-08-08T19:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-just-in-hardware-wallet-sales-double-in-russia-ahead-of-sweeping-crypto-regulati",
+      "localUrl": "/news/20260808-just-in-hardware-wallet-sales-double-in-russia-ahead-of-sweeping-crypto-regulati.html"
     },
     {
       "source": "CoinDesk",
@@ -232,17 +243,6 @@
       "localUrl": "/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇷🇺LATEST: Russia's biggest exchanges prepare to launch crypto trading after the country passed a new pro-crypto law. Moscow Exchange (MOEX) and SPB Exchange are preparing to launch regulated crypto trading as the new framework takes effect on Sep - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZDJESUpFNEt1YkFWd09sd3pjdHpvTlZCYktLWm9CVndtaE5tUGtLVndGUEQyTVlOazRCTHg0VldXYktxWm85cHJRdmtDaFhpaVAtWmM0WWJOeXFkTzE1VA?oc=5\" target=\"_blank\">🇷🇺LATEST: Russia's biggest exchang…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rZDJESUpFNEt1YkFWd09sd3pjdHpvTlZCYktLWm9CVndtaE5tUGtLVndGUEQyTVlOazRCTHg0VldXYktxWm85cHJRdmtDaFhpaVAtWmM0WWJOeXFkTzE1VA?oc=5",
-      "publishedAt": "2026-08-08T08:10:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun",
-      "localUrl": "/news/20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
       "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
@@ -353,17 +353,6 @@
       "category": "X热点",
       "slug": "20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-",
       "localUrl": "/news/20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Bitcoin just recorded 2.27M new wallets and 751K active wallets, marking its strongest on-chain activity in months. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRW9YMmVicmRIQjA3UDZ0UnE2OEtQajdEbXlxY2kyMXdmTDRDcEVFc3VWMi11OXBneDJpQ18wWWNlNDFiMldCUXdDUmZSWGs3TUcxNzZ0Rmt4TTgyREQwRVJtaHo?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin just recorde…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGRW9YMmVicmRIQjA3UDZ0UnE2OEtQajdEbXlxY2kyMXdmTDRDcEVFc3VWMi11OXBneDJpQ18wWWNlNDFiMldCUXdDUmZSWGs3TUcxNzZ0Rmt4TTgyREQwRVJtaHo?oc=5",
-      "publishedAt": "2026-08-07T23:01:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it",
-      "localUrl": "/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html"
     },
     {
       "source": "X Wire",
@@ -1003,6 +992,17 @@
       "category": "X热点",
       "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
       "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto latest: The Senate negotiations to get to August recess have snagged in part on the Clarity Act. Sources involved in the talks say Democratic leadership continues pushing to delay a procedural crypto vote. Schumer wants to give talks more time. GOP is - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5\" target=\"_blank\">Crypto latest: The Senate n…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bHBDZXlKa2xESERxeV85ejVMZUdjekRCTEZTekFkR0VBaTFFRDQxY3BHLTdXRkZWbmVBSDR6QUlDblZTVnM4UVU0a1ZhOWoycW93NTVUQTNuVlYybnRUV0ZNcFpIMW8?oc=5",
+      "publishedAt": "2026-08-07T00:49:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa",
+      "localUrl": "/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html"
     },
     {
       "source": "X Wire",

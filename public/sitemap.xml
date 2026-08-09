@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T02:25:18.387Z</lastmod>
+    <lastmod>2026-08-09T04:33:25.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T02:25:18.387Z</lastmod>
+    <lastmod>2026-08-09T04:33:25.119Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins.html</loc>
     <lastmod>2026-08-08T20:06:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-just-in-hardware-wallet-sales-double-in-russia-ahead-of-sweeping-crypto-regulati.html</loc>
+    <lastmod>2026-08-08T19:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -115,12 +121,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260808-latest-russias-biggest-exchanges-prepare-to-launch-crypto-trading-after-the-coun.html</loc>
-    <lastmod>2026-08-08T08:10:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260808-another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment.html</loc>
     <lastmod>2026-08-08T07:46:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -171,12 +171,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-.html</loc>
     <lastmod>2026-08-07T23:38:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-update-bitcoin-just-recorded-227m-new-wallets-and-751k-active-wallets-marking-it.html</loc>
-    <lastmod>2026-08-07T23:01:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -465,6 +459,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html</loc>
     <lastmod>2026-08-07T07:36:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260807-crypto-latest-the-senate-negotiations-to-get-to-august-recess-have-snagged-in-pa.html</loc>
+    <lastmod>2026-08-07T00:49:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
