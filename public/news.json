@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-09T08:57:56.279Z",
-  "total": 86,
+  "updatedAt": "2026-08-09T09:52:50.171Z",
+  "total": 85,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
+      "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-09T09:10:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold",
+      "localUrl": "/news/20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "BTCPay restricts remote Lightning access after attackers steal funds",
@@ -16,6 +29,17 @@
       "localUrl": "/news/20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds.html"
     },
     {
+      "source": "X Wire",
+      "title": "BIP-110 Minority Fork Falls 18 Blocks Behind Bitcoin Main Chain A minority fork backed by BIP-110 supporters emerged after Bitcoin block height 961,632. The BIP-110-supporting pool Roughnecks had produced only blocks 961,632 and 961,633, while the Bi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NlFpak9hbHZaanVfNW5ET1Z2OTl4NGZfb0drQ0hNdnppc1h4THpyVTJucDhfZjc3dHVPeFcwWDBhYjloY2c1VFNMemQ0dVc3Y184RzdCTmViQ2tVVElYcUVJQQ?oc=5\" target=\"_blank\">BIP-110 Minority Fork Falls 18 B…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NlFpak9hbHZaanVfNW5ET1Z2OTl4NGZfb0drQ0hNdnppc1h4THpyVTJucDhfZjc3dHVPeFcwWDBhYjloY2c1VFNMemQ0dVc3Y184RzdCTmViQ2tVVElYcUVJQQ?oc=5",
+      "publishedAt": "2026-08-09T05:13:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-bip-110-minority-fork-falls-18-blocks-behind-bitcoin-main-chain-a-minority-fork-",
+      "localUrl": "/news/20260809-bip-110-minority-fork-falls-18-blocks-behind-bitcoin-main-chain-a-minority-fork-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
       "summary": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
@@ -28,6 +52,17 @@
       "category": "市场",
       "slug": "20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
       "localUrl": "/news/20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚡ UPDATE: Crypto is the worst performing asset of 2026 when compared to assets like gold, silver, Nasdaq and the Russell 2000. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5\" target=\"_blank\">⚡ UPDATE: Crypto is the worst p…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5",
+      "publishedAt": "2026-08-09T01:30:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like",
+      "localUrl": "/news/20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like.html"
     },
     {
       "source": "X Wire",
@@ -89,6 +124,17 @@
       "category": "X热点",
       "slug": "20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo",
       "localUrl": "/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Growth in the number of purchases made with crypto payment cards is trending similarly to the growth in crypto card volume. Nearly 9 million purchases were made using crypto payment cards during July, up from about 5.2 million a year ago. That puts the ave - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb1FHQ0xGTTdpVWdDNnFLWU1vck9DeDg3UHNHVFdaMm4xN0tfMjVIZmgtU0pPX0JPNG5LTFVKaG5waFQ2VE9aR1NQSXpLUktaSVAzRFhnbC11a2FGR2FEdA?oc=5\" target=\"_blank\">Growth in the number of purchases ma…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvb1FHQ0xGTTdpVWdDNnFLWU1vck9DeDg3UHNHVFdaMm4xN0tfMjVIZmgtU0pPX0JPNG5LTFVKaG5waFQ2VE9aR1NQSXpLUktaSVAzRFhnbC11a2FGR2FEdA?oc=5",
+      "publishedAt": "2026-08-08T18:24:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260808-growth-in-the-number-of-purchases-made-with-crypto-payment-cards-is-trending-sim",
+      "localUrl": "/news/20260808-growth-in-the-number-of-purchases-made-with-crypto-payment-cards-is-trending-sim.html"
     },
     {
       "source": "CoinDesk",
@@ -383,17 +429,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Senate officially fails to pass Crypto Clarity Act before summer recess. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4WjllMDZiUlpDRC1UQVd4cXd5cVZqWGxvUUpUSVVZTUlKVWFqdnQwU29xbTJJWFB5WmxGdnFySmhSTFRxV1NUcDBTaHRheGxaNmEwTWlFa1FNTHdqSUhPd3RR?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Senate officially fa…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4WjllMDZiUlpDRC1UQVd4cXd5cVZqWGxvUUpUSVVZTUlKVWFqdnQwU29xbTJJWFB5WmxGdnFySmhSTFRxV1NUcDBTaHRheGxaNmEwTWlFa1FNTHdqSUhPd3RR?oc=5",
-      "publishedAt": "2026-08-08T00:55:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-",
-      "localUrl": "/news/20260808-just-in-senate-officially-fails-to-pass-crypto-clarity-act-before-summer-recess-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨JUST IN: SharpLink CEO Joseph Chalom publicly opposes Ethereum's EIP-8363, warning it could gut the $35 BILLION DeFi collateral market built on staking yield. The proposal would burn validator rewards down to zero once half of all ETH is staked, per C - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5\" target=\"_blank\">🚨JUST IN: SharpLink CEO Joseph Chal…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5",
@@ -465,17 +500,6 @@
       "category": "RWA",
       "slug": "20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal",
       "localUrl": "/news/20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: 🇺🇸 Jack Dorsey's 'Block' added 234 Bitcoin worth $15.1 million 👀 Their treasury now totals 9,117 BTC 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bUlWNGM4bm9LQlVHVFdfX0FoY1FtR2N0RXlGcFBnS3ZUMzhNWGpYZmhPc3VOZkFSSnBpOGV4VGhDR3VtUkNPc1Boazd2eXJFX0lkSDloRTRwb3Rhc3I5RlFjbmJ0X00?oc=5\" target=\"_blank\">NEW: 🇺🇸 Jack Dorsey's 'Bl…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bUlWNGM4bm9LQlVHVFdfX0FoY1FtR2N0RXlGcFBnS3ZUMzhNWGpYZmhPc3VOZkFSSnBpOGV4VGhDR3VtUkNPc1Boazd2eXJFX0lkSDloRTRwb3Rhc3I5RlFjbmJ0X00?oc=5",
-      "publishedAt": "2026-08-07T21:09:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-new-jack-dorseys-block-added-234-bitcoin-worth-151-million-their-treasury-now-to",
-      "localUrl": "/news/20260807-new-jack-dorseys-block-added-234-bitcoin-worth-151-million-their-treasury-now-to.html"
     },
     {
       "source": "Decrypt",
@@ -824,17 +848,6 @@
       "localUrl": "/news/20260807-fierce-backlash-to-ethereums-eip-8363-staking-proposal.html"
     },
     {
-      "source": "X Wire",
-      "title": "Former Bitcoin Miner Firmus Raises $2 Billion as Nvidia Backs Its AI Infrastructure Pivot Reuters reported that Firmus, an AI infrastructure company that previously operated as a Bitcoin miner, has raised $2 billion in equity funding at a post-money valuation of - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YnBwVEJRb0RyNnNyQU5xNFRyODNsb2xCY2RyLU9tbVRpRzNFNEpSXzNSS1I3VDV0M3Bfb0lOdHFfaFJLVV9TOGxFSjdydDFkVUdfSGk1Vl9SSnFHRVRPdUM3cw?oc=5\" target=\"_blank\">Former Bitcoin Miner Firmus Rais…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5YnBwVEJRb0RyNnNyQU5xNFRyODNsb2xCY2RyLU9tbVRpRzNFNEpSXzNSS1I3VDV0M3Bfb0lOdHFfaFJLVV9TOGxFSjdydDFkVUdfSGk1Vl9SSnFHRVRPdUM3cw?oc=5",
-      "publishedAt": "2026-08-07T13:26:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-former-bitcoin-miner-firmus-raises-2-billion-as-nvidia-backs-its-ai-infrastructu",
-      "localUrl": "/news/20260807-former-bitcoin-miner-firmus-raises-2-billion-as-nvidia-backs-its-ai-infrastructu.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
       "summary": "Gold, Treasuries and the S&P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
@@ -979,19 +992,6 @@
       "localUrl": "/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
-      "summary": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate.",
-      "url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T09:25:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink",
-      "localUrl": "/news/20260807-cleanspark-misses-wall-street-revenue-estimates-as-shares-sink.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin doesn’t need CLARITY. America needs clarity. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5\" target=\"_blank\">Bitcoin doesn’t need CLARITY. America needs…",
@@ -1129,17 +1129,6 @@
       "category": "综合",
       "slug": "20260805-chainalysis-supports-cronos-with-automatic-token-support",
       "localUrl": "/news/20260805-chainalysis-supports-cronos-with-automatic-token-support.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Solana Ecosystem Roundup: July 2026",
-      "summary": "Tokenized equities expanded, real-world assets hit $3.73B, payments reached 330,000+ merchants, and block capacity increased 66% in a milestone month.",
-      "url": "https://solana.com/news/solana-ecosystem-roundup-july-2026",
-      "publishedAt": "2026-08-05T09:33:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260805-solana-ecosystem-roundup-july-2026",
-      "localUrl": "/news/20260805-solana-ecosystem-roundup-july-2026.html"
     }
   ]
 }
