@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-09T14:48:58.916Z",
+  "updatedAt": "2026-08-09T15:43:16.510Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+      "summary": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
+      "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+      "publishedAt": "2026-08-09T15:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Feature"
+      ],
+      "category": "RWA",
+      "slug": "20260809-hyperliquids-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+      "localUrl": "/news/20260809-hyperliquids-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
@@ -16,6 +30,17 @@
       "category": "监管",
       "slug": "20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul",
       "localUrl": "/news/20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \"Doing ₿usiness.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVHpPZ2RabzlsVVlpclZfRHRqaUdockFaSkhUcnJDN0YycEVDS2lLb2NNTjNoMldZcGVWdldoQWNLQVgta2pzSkRBLXRVSnhpTWg4ZjJjcTdRNFVXZk16bGJR?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hints at b…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVHpPZ2RabzlsVVlpclZfRHRqaUdockFaSkhUcnJDN0YycEVDS2lLb2NNTjNoMldZcGVWdldoQWNLQVgta2pzSkRBLXRVSnhpTWg4ZjJjcTdRNFVXZk16bGJR?oc=5",
+      "publishedAt": "2026-08-09T13:03:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom",
+      "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -210,28 +235,6 @@
       "category": "X热点",
       "slug": "20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo",
       "localUrl": "/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "With conversations in the Bitcoin community ongoing ahead of the BIP-110 fork, here is a reminder from @donjonledger on security best practices: BIP-110 is a soft fork without replay protection. Essentially, this means you could have a new chain with the sam - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsVjJXRWFfNTFueWtCLTJBZGVzU2l2YmxZYlU3QXNNazVzZTVybm12Rlo3cjRJNDZoM2daNVdxYVpMV0xmcEp6cUxlNDVzS1ZzM2E4NWNiX1EzXzQ?oc=5\" target=\"_blank\">With conversations in the Bitcoin community…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsVjJXRWFfNTFueWtCLTJBZGVzU2l2YmxZYlU3QXNNazVzZTVybm12Rlo3cjRJNDZoM2daNVdxYVpMV0xmcEp6cUxlNDVzS1ZzM2E4NWNiX1EzXzQ?oc=5",
-      "publishedAt": "2026-08-08T19:31:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-with-conversations-in-the-bitcoin-community-ongoing-ahead-of-the-bip-110-fork-he",
-      "localUrl": "/news/20260808-with-conversations-in-the-bitcoin-community-ongoing-ahead-of-the-bip-110-fork-he.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Senate Majority Leader Thune Files Cloture on Clarity Act, Setting Up September Vote Senate Majority Leader John Thune filed a cloture motion on the Clarity Act, setting up a procedural vote on Sept. 15 after lawmakers return from the August recess. The vot - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UmtEQlFNYmNvOEczNFI4dWdaLVdSbG41by1vbXRHMmpDaXJHODUzS2dvaVdYdnpWNnJXY3FMV3hON1NpeERMYnp5ak1oSkFqMWZ4VHpMQ0lHWGNiM0tCSm13QQ?oc=5\" target=\"_blank\">Senate Majority Leader Thune Fil…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00UmtEQlFNYmNvOEczNFI4dWdaLVdSbG41by1vbXRHMmpDaXJHODUzS2dvaVdYdnpWNnJXY3FMV3hON1NpeERMYnp5ak1oSkFqMWZ4VHpMQ0lHWGNiM0tCSm13QQ?oc=5",
-      "publishedAt": "2026-08-08T18:06:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-senate-majority-leader-thune-files-cloture-on-clarity-act-setting-up-september-v",
-      "localUrl": "/news/20260808-senate-majority-leader-thune-files-cloture-on-clarity-act-setting-up-september-v.html"
     },
     {
       "source": "CoinDesk",
@@ -526,14 +529,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨JUST IN: Bitcoin Core developer Luke Dashjr says changing Bitcoin's proof-of-work is \"the only option\" if BIP 110 fails. Critics warn if six mining pools can block the proposal, Bitcoin's decentralization is \"effectively lost.\" Meanwhile, Bitcoin briefly topped $65,3 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRGRMZ1daYy1WT2pfbzRrd0w4NkZfX2pmNy1ST1lLV1pWUWRHcmtJT2hyamlhRThPdWwwM3MtRGRrSHdyMDhKSzR1Q3NVb0J5RGFZZE0wRnppYUtJUjNtag?oc=5\" target=\"_blank\">🚨JUST IN: Bitcoin Core developer Lu…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JRGRMZ1daYy1WT2pfbzRrd0w4NkZfX2pmNy1ST1lLV1pWUWRHcmtJT2hyamlhRThPdWwwM3MtRGRrSHdyMDhKSzR1Q3NVb0J5RGFZZE0wRnppYUtJUjNtag?oc=5",
-      "publishedAt": "2026-08-07T23:38:03.000Z",
+      "title": "🚨JUST IN: SharpLink CEO Joseph Chalom publicly opposes Ethereum's EIP-8363, warning it could gut the $35 BILLION DeFi collateral market built on staking yield. The proposal would burn validator rewards down to zero once half of all ETH is staked, per C - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5\" target=\"_blank\">🚨JUST IN: SharpLink CEO Joseph Chal…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqMXRGVi1XU2pNTGVKR1E4cERWSHI3aE5JelpzbGNDUDZpeDBPQkpoS0w2eE5OTzd2VXhIZmxWVk5tTFZHNERBbmNrMzVZZENiQnZqNWlDZHh2d0ZUd3FHVg?oc=5",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-",
-      "localUrl": "/news/20260807-just-in-bitcoin-core-developer-luke-dashjr-says-changing-bitcoins-proof-of-work-.html"
+      "slug": "20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-",
+      "localUrl": "/news/20260808-just-in-sharplink-ceo-joseph-chalom-publicly-opposes-ethereums-eip-8363-warning-.html"
     },
     {
       "source": "X Wire",
@@ -881,20 +884,6 @@
       "localUrl": "/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "A part of FTX survived, and it’s the case for the CLARITY Act",
-      "summary": "When FTX collapsed, the parts of it bound by law survived. Mainstream finance is now converging with digital assets, and the law built to protect it the same way is the one the Senate did not pass this week, argues Bullish's Randi Aberneth…",
-      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-      "publishedAt": "2026-08-07T14:30:25.000Z",
-      "keywords": [
-        "Opinion",
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act",
-      "localUrl": "/news/20260807-a-part-of-ftx-survived-and-its-the-case-for-the-clarity-act.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Fierce backlash to Ethereum’s EIP-8363 staking proposal",
       "summary": "Ethereum’s proposed EIP-8363 staking overhaul aims to reduce issuance, but critics say it could hurt DeFi, decentralization and institutional adoption.",
@@ -1011,6 +1000,17 @@
       "category": "监管",
       "slug": "20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
       "localUrl": "/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin doesn’t need CLARITY. America needs clarity. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5\" target=\"_blank\">Bitcoin doesn’t need CLARITY. America needs…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYdHl4Mldma0UwX0RhNFhaWllQdWJtdjlFTkQ2QXdkaUZfc3YtMHlCU3JmS0lqbklmN2xfU1dKTUFNdENZSE0yMGp6MDM4SmFGcVNyRmhhN1kzZlE?oc=5",
+      "publishedAt": "2026-08-07T07:36:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom",
+      "localUrl": "/news/20260807-bitcoin-doesnt-need-clarity-america-needs-clarity-xcom.html"
     },
     {
       "source": "Decrypt",
