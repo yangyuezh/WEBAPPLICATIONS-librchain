@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T18:57:14.793Z</lastmod>
+    <lastmod>2026-08-09T19:45:19.199Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T18:57:14.793Z</lastmod>
+    <lastmod>2026-08-09T19:45:19.199Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks.html</loc>
+    <lastmod>2026-08-09T19:33:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto.html</loc>
@@ -115,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260808-the-distribution-of-all-21-million-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-08T23:45:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html</loc>
     <lastmod>2026-08-08T21:17:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -171,12 +183,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html</loc>
     <lastmod>2026-08-08T16:20:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260808-the-top-blockchains-powering-crypto-games-right-now-0xpolygon-6354-binance-4602-.html</loc>
-    <lastmod>2026-08-08T15:36:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -279,12 +285,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html</loc>
     <lastmod>2026-08-08T02:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se.html</loc>
-    <lastmod>2026-08-07T22:38:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,6 +475,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260806-normal-people-will-soon-use-cryptoblockchain-without-even-realizing-it-xcom.html</loc>
+    <lastmod>2026-08-06T22:06:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant.html</loc>
     <lastmod>2026-08-06T21:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260806-tokyo-tells-trump-to-stop-meme-ing-mario.html</loc>
     <lastmod>2026-08-06T21:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-meta-says-its-ai-model-escaped-and-hacked-a-third-party-company-too.html</loc>
-    <lastmod>2026-08-06T20:31:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
