@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T16:50:39.520Z",
+  "updatedAt": "2026-08-09T17:44:27.365Z",
   "total": 84,
   "items": [
     {
@@ -90,6 +90,17 @@
       "category": "市场",
       "slug": "20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens",
       "localUrl": "/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Saylor Says BIP-110 Fork Has Just 0.15% of Bitcoin Hashpower Michael Saylor said about 99.85% of Bitcoin’s hashpower remained on the main chain after the BIP-110 fork, while the minority branch mined only two blocks and fell more than 80 blocks behind. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5\" target=\"_blank\">Saylor Says BIP-110 Fork Has Jus…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5",
+      "publishedAt": "2026-08-09T10:15:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a",
+      "localUrl": "/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html"
     },
     {
       "source": "X Wire",
@@ -908,17 +919,6 @@
       "category": "DeFi",
       "slug": "20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares",
       "localUrl": "/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "1/ Privacy is often thought of as politically risky. In this guest thread by @valkenburgh, Executive Director of @coincenter, he makes the case, in his own words, that the reality is the opposite: Privacy is essential to Ethereum’s promise of financial freedom and n - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5\" target=\"_blank\">1/ Privacy is often thought of as polit…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5",
-      "publishedAt": "2026-08-07T13:10:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke",
-      "localUrl": "/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html"
     },
     {
       "source": "Cointelegraph",

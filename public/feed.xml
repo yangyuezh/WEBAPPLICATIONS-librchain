@@ -5,7 +5,7 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 09 Aug 2026 16:50:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 17:44:27 GMT</lastBuildDate>
     <item>
       <title>Crypto doesn&apos;t get enough credit for the financial access it&apos;s already unlocked for the world. - Stablecoins brought the dollar onchain. Anyone, anywhere can own a low inflation currency, and send it 24/7 for a fraction of a cent. - DeFi gives anyone access to cre - x.com</title>
       <link>https://www.librchain.com/news/20260809-crypto-doesnt-get-enough-credit-for-the-financial-access-its-already-unlocked-fo.html</link>
@@ -61,6 +61,14 @@
       <description>The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.</description>
       <pubDate>Sun, 09 Aug 2026 11:00:53 GMT</pubDate>
       <source url="https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Saylor Says BIP-110 Fork Has Just 0.15% of Bitcoin Hashpower Michael Saylor said about 99.85% of Bitcoin’s hashpower remained on the main chain after the BIP-110 fork, while the minority branch mined only two blocks and fell more than 80 blocks behind. - x.com</title>
+      <link>https://www.librchain.com/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5&quot; target=&quot;_blank&quot;&gt;Saylor Says BIP-110 Fork Has Jus…</description>
+      <pubDate>Sun, 09 Aug 2026 10:15:01 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5">X Wire</source>
     </item>
     <item>
       <title>At ~0.15% of Bitcoin&apos;s hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today&apos;s rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not decla - x.com</title>
@@ -477,14 +485,6 @@
       <description>Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.</description>
       <pubDate>Fri, 07 Aug 2026 16:36:59 GMT</pubDate>
       <source url="https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas">Decrypt</source>
-    </item>
-    <item>
-      <title>Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze</title>
-      <link>https://www.librchain.com/news/20260807-bybit-sues-north-korea-and-lazarus-group-over-15-billion-hack-secures-asset-free.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260807-bybit-sues-north-korea-and-lazarus-group-over-15-billion-hack-secures-asset-free.html</guid>
-      <description>The exchange has secured a preliminary injunction freezing stolen assets.</description>
-      <pubDate>Fri, 07 Aug 2026 16:32:41 GMT</pubDate>
-      <source url="https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze">CoinDesk</source>
     </item>
   </channel>
 </rss>

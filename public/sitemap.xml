@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-09T16:50:39.558Z</lastmod>
+    <lastmod>2026-08-09T17:44:27.406Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-09T16:50:39.558Z</lastmod>
+    <lastmod>2026-08-09T17:44:27.406Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html</loc>
     <lastmod>2026-08-09T11:00:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html</loc>
+    <lastmod>2026-08-09T10:15:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -423,12 +429,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html</loc>
     <lastmod>2026-08-07T13:26:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html</loc>
-    <lastmod>2026-08-07T13:10:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
