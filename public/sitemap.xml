@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-10T04:49:23.268Z</lastmod>
+    <lastmod>2026-08-10T06:19:59.041Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-10T04:49:23.268Z</lastmod>
+    <lastmod>2026-08-10T06:19:59.041Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-10T06:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html</loc>
+    <lastmod>2026-08-10T05:18:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260810-bitcoin-tops-65000-with-us-inflation-data-due-this-week.html</loc>
@@ -211,12 +223,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html</loc>
-    <lastmod>2026-08-08T19:42:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260808-hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near.html</loc>
     <lastmod>2026-08-08T17:48:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -225,12 +231,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-bitcoin-red-team-says-ai-is-finding-critical-exploits-across-core-projects.html</loc>
     <lastmod>2026-08-08T17:31:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260808-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-08T17:19:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -255,6 +255,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur.html</loc>
     <lastmod>2026-08-08T15:08:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl.html</loc>
+    <lastmod>2026-08-08T14:01:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets.html</loc>
     <lastmod>2026-08-07T15:23:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-crypto-biz-cryptos-biggest-business-is-starting-to-look-a-lot-like-banking.html</loc>
-    <lastmod>2026-08-07T15:07:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

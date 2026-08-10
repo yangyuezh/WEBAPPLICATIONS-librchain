@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 04:49:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:19:59 GMT</lastBuildDate>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://www.librchain.com/news/20260810-heres-what-happened-in-crypto-today.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-heres-what-happened-in-crypto-today.html</guid>
+      <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’</title>
+      <link>https://www.librchain.com/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html</guid>
+      <description>Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.</description>
+      <pubDate>Mon, 10 Aug 2026 05:18:27 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Bitcoin tops $65,000 with US inflation data due this week</title>
       <link>https://www.librchain.com/news/20260810-bitcoin-tops-65000-with-us-inflation-data-due-this-week.html</link>
@@ -271,14 +287,6 @@
       <source url="https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support">CoinDesk</source>
     </item>
     <item>
-      <title>BREAKING: THE BIP 110 #BITCOIN SOFT FORK HAS OFFICIALLY FAILED IT HAS REJECTED BLOCK 961,632 SPLITTING OFF INTO ITS OWN INCOMPATIBLE BLOCKCHAIN - x.com</title>
-      <link>https://www.librchain.com/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260808-breaking-the-bip-110-bitcoin-soft-fork-has-officially-failed-it-has-rejected-blo.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5&quot; target=&quot;_blank&quot;&gt;BREAKING: THE BIP 110 #BITCOIN SOF…</description>
-      <pubDate>Sat, 08 Aug 2026 19:42:41 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lV3Q0WlZyWXJPZExSeThtUGZUYkpKMnBPeXBVMDFjcHdiOEJXMWJHTmd5YWZpZlFsZDl2dnFIWUdBQ1NmeFhsdEQyR0MzdHlXNzBUY2pqRHRna25sR1B4VXdR?oc=5">X Wire</source>
-    </item>
-    <item>
       <title>Hardware wallet sales in Russia more than double as new crypto rules near</title>
       <link>https://www.librchain.com/news/20260808-hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260808-hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near.html</guid>
@@ -293,14 +301,6 @@
       <description>A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.</description>
       <pubDate>Sat, 08 Aug 2026 17:31:03 GMT</pubDate>
       <source url="https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities">Decrypt</source>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://www.librchain.com/news/20260808-heres-what-happened-in-crypto-today.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260808-heres-what-happened-in-crypto-today.html</guid>
-      <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-      <pubDate>Sat, 08 Aug 2026 17:19:56 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
       <title>Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September</title>
@@ -333,6 +333,14 @@
       <description>The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.</description>
       <pubDate>Sat, 08 Aug 2026 15:08:06 GMT</pubDate>
       <source url="https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Bitcoin implied volatility hits YTD low US bond yields hit YTD high This can only end one way - x.com</title>
+      <link>https://www.librchain.com/news/20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5&quot; target=&quot;_blank&quot;&gt;Bitcoin implied volatility hits YTD low…</description>
+      <pubDate>Sat, 08 Aug 2026 14:01:11 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5">X Wire</source>
     </item>
     <item>
       <title>Robinhood Crypto Chief Explains Why There Are &apos;Two Wolves&apos; Inside Robinhood Chain</title>
@@ -477,14 +485,6 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOYlJGc3UwRGJfY1ozdTFDakE2LXBhYUFJY3ZVeFVOWnZPMTRKZlB0Ri0wSUtWSlVtMk1ZVzR6M1g1YUxyTUJ0OUE5dXVFRlZkbXU1aTkxX2RWSHBHaGVmMQ?oc=5&quot; target=&quot;_blank&quot;&gt;Stablecoins are increasingly being s…</description>
       <pubDate>Fri, 07 Aug 2026 20:15:50 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOYlJGc3UwRGJfY1ozdTFDakE2LXBhYUFJY3ZVeFVOWnZPMTRKZlB0Ri0wSUtWSlVtMk1ZVzR6M1g1YUxyTUJ0OUE5dXVFRlZkbXU1aTkxX2RWSHBHaGVmMQ?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges</title>
-      <link>https://www.librchain.com/news/20260807-us-treasurys-ofac-sanctions-2-iran-linked-crypto-exchanges.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260807-us-treasurys-ofac-sanctions-2-iran-linked-crypto-exchanges.html</guid>
-      <description>The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.</description>
-      <pubDate>Fri, 07 Aug 2026 20:02:20 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
   </channel>
 </rss>
