@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-10T13:39:03.358Z</lastmod>
+    <lastmod>2026-08-10T15:13:02.315Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-10T13:39:03.358Z</lastmod>
+    <lastmod>2026-08-10T15:13:02.315Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development.html</loc>
+    <lastmod>2026-08-10T15:03:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html</loc>
+    <lastmod>2026-08-10T15:02:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html</loc>
+    <lastmod>2026-08-10T14:39:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice.html</loc>
+    <lastmod>2026-08-10T14:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m.html</loc>
+    <lastmod>2026-08-10T14:12:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks.html</loc>
+    <lastmod>2026-08-10T13:50:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html</loc>
+    <lastmod>2026-08-10T13:32:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260810-solana-gets-its-first-strategy-strc-product-through-solstice-finance.html</loc>
@@ -115,6 +157,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260810-the-block-standard-chartered-set-a-200-price-target-on-chainlinks-ethereum0x5149.html</loc>
+    <lastmod>2026-08-10T09:38:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom.html</loc>
     <lastmod>2026-08-10T09:20:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -169,7 +217,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-live-updates-bitcoin-steady-above-65100-as-strategy-reports-1690-btc-sale.html</loc>
+    <loc>https://www.librchain.com/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-65000.html</loc>
     <lastmod>2026-08-10T06:56:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -289,12 +337,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul.html</loc>
-    <lastmod>2026-08-09T14:19:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom.html</loc>
     <lastmod>2026-08-09T13:03:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -307,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo-2.html</loc>
-    <lastmod>2026-08-09T13:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a.html</loc>
     <lastmod>2026-08-09T12:01:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +357,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html</loc>
     <lastmod>2026-08-09T11:00:53.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html</loc>
-    <lastmod>2026-08-09T10:15:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -357,24 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds.html</loc>
     <lastmod>2026-08-09T05:46:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-bip-110-minority-fork-falls-18-blocks-behind-bitcoin-main-chain-a-minority-fork-.html</loc>
-    <lastmod>2026-08-09T05:13:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops.html</loc>
-    <lastmod>2026-08-09T05:08:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like.html</loc>
-    <lastmod>2026-08-09T01:30:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,26 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html</loc>
-    <lastmod>2026-08-07T13:26:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers.html</loc>
-    <lastmod>2026-08-07T12:37:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260806-solana-changelog-august-6-2026.html</loc>
     <lastmod>2026-08-06T17:57:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html</loc>
-    <lastmod>2026-08-06T14:22:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,7 +1,105 @@
 {
-  "updatedAt": "2026-08-10T13:39:03.318Z",
-  "total": 82,
+  "updatedAt": "2026-08-10T15:13:02.275Z",
+  "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+      "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
+      "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
+      "publishedAt": "2026-08-10T15:03:07.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development",
+      "localUrl": "/news/20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+      "summary": "The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.",
+      "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+      "publishedAt": "2026-08-10T15:02:14.000Z",
+      "keywords": [
+        "Finance",
+        "Grayscale",
+        "Cardano",
+        "Crypto News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+      "localUrl": "/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I updated my 2023 roadmap diagram to overlay where the items that were there sit in the current Strawmap ( strawmap.org ). In general, a lot of overlap, but: * Some things got reshuffled in order (eg. quantum safety up-prioritized) * Some things deprioritized (e - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5\" target=\"_blank\">I updated my 2023 roadmap di…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5",
+      "publishedAt": "2026-08-10T14:39:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit",
+      "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+      "summary": "The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.",
+      "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "keywords": [
+        "Markets",
+        "Solana News",
+        "Crypto Lending",
+        "DeFi",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260810-solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+      "localUrl": "/news/20260810-solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
+      "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
+      "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
+      "publishedAt": "2026-08-10T14:12:12.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
+      "localUrl": "/news/20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
+      "summary": "Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.",
+      "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
+      "publishedAt": "2026-08-10T13:50:51.000Z",
+      "keywords": [
+        "Finance",
+        "Ethereum News",
+        "Digital Asset Treasury",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks",
+      "localUrl": "/news/20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Last week, we completed a major engineering milestone. Crypto markets operate 24/7, making the maintenance and migration of core trading infrastructure exceptionally challenging. Despite this, our team successfully migrated our high-traffic core trading syst - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5\" target=\"_blank\">Last week, we completed a major enginee…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5",
+      "publishedAt": "2026-08-10T13:32:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-",
+      "localUrl": "/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Solana gets its first Strategy STRC product through Solstice Finance",
@@ -241,6 +339,17 @@
     },
     {
       "source": "X Wire",
+      "title": "THE BLOCK: Standard Chartered set a $200 price target on Chainlink's ethereum:0x514910771af9ca656af840dff83e8264ecf986ca for end-2030 in its first coverage of the token, a roughly 25x gain from about $8 today. The bank argues the tokenization boom - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMVp0X0NnMDMwT29xWWRTNkd2RHBycDNtbVpGcmlkckJsal9KTnZsaEVQVHY1cVpxOGxfdTNQS21Ua052aTMta2MyQ0xOZmtMRElVUTdsMGc3YVRoU2VfSg?oc=5\" target=\"_blank\">THE BLOCK: Standard Chartered set a …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMVp0X0NnMDMwT29xWWRTNkd2RHBycDNtbVpGcmlkckJsal9KTnZsaEVQVHY1cVpxOGxfdTNQS21Ua052aTMta2MyQ0xOZmtMRElVUTdsMGc3YVRoU2VfSg?oc=5",
+      "publishedAt": "2026-08-10T09:38:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-the-block-standard-chartered-set-a-200-price-target-on-chainlinks-ethereum0x5149",
+      "localUrl": "/news/20260810-the-block-standard-chartered-set-a-200-price-target-on-chainlinks-ethereum0x5149.html"
+    },
+    {
+      "source": "X Wire",
       "title": "The future of markets isn't TradFi or crypto. It's both. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5\" target=\"_blank\">The future of markets isn't TradFi…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5",
@@ -361,7 +470,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steady above $65,100 as Strategy reports 1,690 BTC sale",
+      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $65,000",
       "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
       "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
       "publishedAt": "2026-08-10T06:56:50.000Z",
@@ -371,8 +480,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260810-live-updates-bitcoin-steady-above-65100-as-strategy-reports-1690-btc-sale",
-      "localUrl": "/news/20260810-live-updates-bitcoin-steady-above-65100-as-strategy-reports-1690-btc-sale.html"
+      "slug": "20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-65000",
+      "localUrl": "/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-65000.html"
     },
     {
       "source": "X Wire",
@@ -616,21 +725,6 @@
       "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
-      "summary": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
-      "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
-      "publishedAt": "2026-08-09T14:19:35.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul",
-      "localUrl": "/news/20260809-bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \"Doing ₿usiness.\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVHpPZ2RabzlsVVlpclZfRHRqaUdockFaSkhUcnJDN0YycEVDS2lLb2NNTjNoMldZcGVWdldoQWNLQVgta2pzSkRBLXRVSnhpTWg4ZjJjcTdRNFVXZk16bGJR?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hints at b…",
@@ -651,20 +745,6 @@
       "category": "X热点",
       "slug": "20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
       "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
-      "summary": "An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.",
-      "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
-      "publishedAt": "2026-08-09T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Feature"
-      ],
-      "category": "基础设施",
-      "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo-2",
-      "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo-2.html"
     },
     {
       "source": "X Wire",
@@ -689,17 +769,6 @@
       "category": "市场",
       "slug": "20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens",
       "localUrl": "/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Saylor Says BIP-110 Fork Has Just 0.15% of Bitcoin Hashpower Michael Saylor said about 99.85% of Bitcoin’s hashpower remained on the main chain after the BIP-110 fork, while the minority branch mined only two blocks and fell more than 80 blocks behind. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5\" target=\"_blank\">Saylor Says BIP-110 Fork Has Jus…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5",
-      "publishedAt": "2026-08-09T10:15:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a",
-      "localUrl": "/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html"
     },
     {
       "source": "X Wire",
@@ -759,42 +828,6 @@
       "category": "市场",
       "slug": "20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
       "localUrl": "/news/20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BIP-110 Minority Fork Falls 18 Blocks Behind Bitcoin Main Chain A minority fork backed by BIP-110 supporters emerged after Bitcoin block height 961,632. The BIP-110-supporting pool Roughnecks had produced only blocks 961,632 and 961,633, while the Bi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NlFpak9hbHZaanVfNW5ET1Z2OTl4NGZfb0drQ0hNdnppc1h4THpyVTJucDhfZjc3dHVPeFcwWDBhYjloY2c1VFNMemQ0dVc3Y184RzdCTmViQ2tVVElYcUVJQQ?oc=5\" target=\"_blank\">BIP-110 Minority Fork Falls 18 B…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NlFpak9hbHZaanVfNW5ET1Z2OTl4NGZfb0drQ0hNdnppc1h4THpyVTJucDhfZjc3dHVPeFcwWDBhYjloY2c1VFNMemQ0dVc3Y184RzdCTmViQ2tVVElYcUVJQQ?oc=5",
-      "publishedAt": "2026-08-09T05:13:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-bip-110-minority-fork-falls-18-blocks-behind-bitcoin-main-chain-a-minority-fork-",
-      "localUrl": "/news/20260809-bip-110-minority-fork-falls-18-blocks-behind-bitcoin-main-chain-a-minority-fork-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
-      "summary": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
-      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-      "publishedAt": "2026-08-09T05:08:20.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
-      "localUrl": "/news/20260809-controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "⚡ UPDATE: Crypto is the worst performing asset of 2026 when compared to assets like gold, silver, Nasdaq and the Russell 2000. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5\" target=\"_blank\">⚡ UPDATE: Crypto is the worst p…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5",
-      "publishedAt": "2026-08-09T01:30:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like",
-      "localUrl": "/news/20260809-update-crypto-is-the-worst-performing-asset-of-2026-when-compared-to-assets-like.html"
     },
     {
       "source": "Cointelegraph",
@@ -1018,32 +1051,6 @@
       "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-      "summary": "Gold, Treasuries and the S&P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
-      "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
-      "publishedAt": "2026-08-07T13:26:19.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "DeFi",
-      "slug": "20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares",
-      "localUrl": "/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-      "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
-      "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
-      "publishedAt": "2026-08-07T12:37:14.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
-      "localUrl": "/news/20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Solana Changelog: August 6, 2026",
       "summary": "Agave, Firedancer, Frankendancer, SDK, and testing-tool releases shipped as 350ms slot-time gates reached Devnet and Testnet.",
@@ -1053,23 +1060,6 @@
       "category": "基础设施",
       "slug": "20260806-solana-changelog-august-6-2026",
       "localUrl": "/news/20260806-solana-changelog-august-6-2026.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Penlink Plugs Into Trusted Blockchain Data With Chainalysis",
-      "summary": "Penlink, a leader in AI-powered digital intelligence, and Chainalysis, the blockchain data platform, this week announced a strategic partnership and… The post Penlink Plugs Into Trusted Blockchain Data With Chainalysis appeared first on Ch…",
-      "url": "https://www.chainalysis.com/blog/penlink-integration-blockchain-intelligence-august-2026/",
-      "publishedAt": "2026-08-06T14:22:56.000Z",
-      "keywords": [
-        "Company News",
-        "blockchain intelligence",
-        "Company Announcement",
-        "Partnership",
-        "Penlink"
-      ],
-      "category": "综合",
-      "slug": "20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis",
-      "localUrl": "/news/20260806-penlink-plugs-into-trusted-blockchain-data-with-chainalysis.html"
     }
   ]
 }
