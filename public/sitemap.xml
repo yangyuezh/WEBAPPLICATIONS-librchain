@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-10T17:05:10.374Z</lastmod>
+    <lastmod>2026-08-10T18:01:02.598Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-10T17:05:10.374Z</lastmod>
+    <lastmod>2026-08-10T18:01:02.598Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik.html</loc>
+    <lastmod>2026-08-10T17:51:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-bitcoin-rally-fadeswhere-does-price-go-next.html</loc>
+    <lastmod>2026-08-10T17:18:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html</loc>
+    <lastmod>2026-08-10T17:09:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote.html</loc>
+    <lastmod>2026-08-10T17:08:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes.html</loc>
@@ -51,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html</loc>
     <lastmod>2026-08-10T15:02:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html</loc>
+    <lastmod>2026-08-10T14:55:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -139,7 +169,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold.html</loc>
+    <loc>https://www.librchain.com/news/20260810-uks-fca-to-regulate-tokenized-gold-to-preserve-londons-place-as-the-top-hub-for-.html</loc>
     <lastmod>2026-08-10T11:38:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -247,7 +277,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-65000.html</loc>
+    <loc>https://www.librchain.com/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000.html</loc>
     <lastmod>2026-08-10T06:56:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -321,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill.html</loc>
     <lastmod>2026-08-10T00:31:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-last-crypto-cycle-in-2023-at-the-beginning-the-first-major-onchain-innovation-wa.html</loc>
-    <lastmod>2026-08-09T22:46:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur.html</loc>
-    <lastmod>2026-08-08T15:08:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html</loc>
     <lastmod>2026-08-08T14:01:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,24 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html</loc>
     <lastmod>2026-08-07T19:18:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-xrp-at-a-crossroads-as-senate-punts-on-clarity-act.html</loc>
-    <lastmod>2026-08-07T17:36:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas.html</loc>
-    <lastmod>2026-08-07T16:36:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260806-solana-changelog-august-6-2026.html</loc>
-    <lastmod>2026-08-06T17:57:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

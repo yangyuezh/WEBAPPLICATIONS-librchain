@@ -1,7 +1,68 @@
 {
-  "updatedAt": "2026-08-10T17:05:10.339Z",
+  "updatedAt": "2026-08-10T18:01:02.566Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
+      "summary": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
+      "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
+      "publishedAt": "2026-08-10T17:51:04.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
+      "localUrl": "/news/20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
+      "summary": "The price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.",
+      "url": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
+      "publishedAt": "2026-08-10T17:18:49.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260810-bitcoin-rally-fadeswhere-does-price-go-next",
+      "localUrl": "/news/20260810-bitcoin-rally-fadeswhere-does-price-go-next.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Understanding the FATF’s DeFi Report: A Functional Approach to Decentralized Finance Regulation",
+      "summary": "Summary The FATF just released its first DeFi-specific report: Acknowledging DeFi’s operational benefits, the global AML/CFT standard-setter explains how jurisdictions,… The post Understanding the FATF’s DeFi Report: A Functional Approach …",
+      "url": "https://www.chainalysis.com/blog/understanding-fatf-defi-report-july-2026/",
+      "publishedAt": "2026-08-10T17:09:55.000Z",
+      "keywords": [
+        "Policy & Regulation",
+        "AML",
+        "blockchain intelligence",
+        "cft",
+        "Compliance",
+        "DeFi",
+        "FATF",
+        "governance",
+        "Markets",
+        "Regulation"
+      ],
+      "category": "监管",
+      "slug": "20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan",
+      "localUrl": "/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+      "summary": "Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.",
+      "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T17:08:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote",
+      "localUrl": "/news/20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote.html"
+    },
     {
       "source": "Decrypt",
       "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
@@ -96,6 +157,17 @@
       "category": "监管",
       "slug": "20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
       "localUrl": "/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "⚡️ JUST IN: Vitalik Buterin unveils Ethereum’s updated roadmap, prioritizing quantum safety, privacy, native rollups, scalability and a leaner protocol. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5\" target=\"_blank\">⚡️ JUST IN: Vitalik Buterin unv…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5",
+      "publishedAt": "2026-08-10T14:55:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s",
+      "localUrl": "/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html"
     },
     {
       "source": "X Wire",
@@ -292,8 +364,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
-      "summary": "The FCA is expected to announce progress on drafting new rules for tokenized digital assets within the next few months.",
+      "title": "UK’s FCA to regulate tokenized gold to preserve London’s place as the top hub for bullion",
+      "summary": "The FCA said it will 'have more to say on' their approach to tokenization, as it draws up rules to put assets on the blockchain.",
       "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
       "publishedAt": "2026-08-10T11:38:33.000Z",
       "keywords": [
@@ -304,8 +376,8 @@
         "News"
       ],
       "category": "监管",
-      "slug": "20260810-why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "localUrl": "/news/20260810-why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold.html"
+      "slug": "20260810-uks-fca-to-regulate-tokenized-gold-to-preserve-londons-place-as-the-top-hub-for-",
+      "localUrl": "/news/20260810-uks-fca-to-regulate-tokenized-gold-to-preserve-londons-place-as-the-top-hub-for-.html"
     },
     {
       "source": "CoinDesk",
@@ -535,7 +607,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $65,000",
+      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
       "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
       "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
       "publishedAt": "2026-08-10T06:56:50.000Z",
@@ -545,8 +617,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-65000",
-      "localUrl": "/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-65000.html"
+      "slug": "20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000",
+      "localUrl": "/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000.html"
     },
     {
       "source": "X Wire",
@@ -701,17 +773,6 @@
       "category": "监管",
       "slug": "20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill",
       "localUrl": "/news/20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "last crypto cycle in 2023 at the beginning the first major onchain innovation was unibot, it ran to 200M bc it was the first trading terminal with a token attached that made it easy for people to one-click buy long-tail crypto assets, this is now the standard with insta - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QWW5kWUdjQlNoaS1ZenFfNjRuQ2FCdzB5dE9SbHlyM0hvOUFRYkJyUkgtTXJYeDZ3Wl9fWHgzM0lyMWs5VU9HZUdHSVY0cXIxQlNBVG5scUpzSDNmSXJv?oc=5\" target=\"_blank\">last crypto cycle in 2023 at the begin…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QWW5kWUdjQlNoaS1ZenFfNjRuQ2FCdzB5dE9SbHlyM0hvOUFRYkJyUkgtTXJYeDZ3Wl9fWHgzM0lyMWs5VU9HZUdHSVY0cXIxQlNBVG5scUpzSDNmSXJv?oc=5",
-      "publishedAt": "2026-08-09T22:46:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-last-crypto-cycle-in-2023-at-the-beginning-the-first-major-onchain-innovation-wa",
-      "localUrl": "/news/20260809-last-crypto-cycle-in-2023-at-the-beginning-the-first-major-onchain-innovation-wa.html"
     },
     {
       "source": "X Wire",
@@ -947,19 +1008,6 @@
       "localUrl": "/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-      "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
-      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-08T15:08:06.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur",
-      "localUrl": "/news/20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
       "summary": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
@@ -1023,43 +1071,6 @@
       "category": "综合",
       "slug": "20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet",
       "localUrl": "/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-      "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-      "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-      "publishedAt": "2026-08-07T17:36:41.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260807-xrp-at-a-crossroads-as-senate-punts-on-clarity-act",
-      "localUrl": "/news/20260807-xrp-at-a-crossroads-as-senate-punts-on-clarity-act.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-      "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
-      "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
-      "publishedAt": "2026-08-07T16:36:59.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "安全",
-      "slug": "20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas",
-      "localUrl": "/news/20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Solana Changelog: August 6, 2026",
-      "summary": "Agave, Firedancer, Frankendancer, SDK, and testing-tool releases shipped as 350ms slot-time gates reached Devnet and Testnet.",
-      "url": "https://solana.com/news/solana-changelog-august-6-2026",
-      "publishedAt": "2026-08-06T17:57:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260806-solana-changelog-august-6-2026",
-      "localUrl": "/news/20260806-solana-changelog-august-6-2026.html"
     }
   ]
 }
