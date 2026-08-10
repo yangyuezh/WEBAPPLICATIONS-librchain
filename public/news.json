@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-08-10T10:34:05.240Z",
+  "updatedAt": "2026-08-10T11:56:11.799Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange Coinsbuy loses $8 million in coordinated two-blockchain attack",
+      "summary": "Onchain forensics tie a single actor to an $8 million coordinated drain across TRON and Ethereum, with most funds routed through FixedFloat and the attack vector still unknown.",
+      "url": "https://www.coindesk.com/business/2026/08/10/crypto-exchange-coinsbuy-loses-usd8-million-in-coordinated-two-blockchain-attack",
+      "publishedAt": "2026-08-10T11:39:44.000Z",
+      "keywords": [
+        "Finance",
+        "Hack",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260810-crypto-exchange-coinsbuy-loses-8-million-in-coordinated-two-blockchain-attack",
+      "localUrl": "/news/20260810-crypto-exchange-coinsbuy-loses-8-million-in-coordinated-two-blockchain-attack.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered",
+      "summary": "The LINK token may see a 25-fold increase to $200 by the end of 2030, as the growing real world asset market increases demand for the industry’s largest oracle services provider, according to Standard Chartered.",
+      "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T11:39:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260810-tokenized-rwa-surge-to-4t-may-push-link-to-200-by-end-2030-standard-chartered",
+      "localUrl": "/news/20260810-tokenized-rwa-surge-to-4t-may-push-link-to-200-by-end-2030-standard-chartered.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
+      "summary": "The FCA is expected to announce progress on drafting new rules for tokenized digital assets within the next few months.",
+      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
+      "publishedAt": "2026-08-10T11:38:33.000Z",
+      "keywords": [
+        "Finance",
+        "UK",
+        "Tokenization",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260810-why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
+      "localUrl": "/news/20260810-why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's BIP-110 episode is free-market capitalism in purest form",
+      "summary": "Your day-ahead look for Aug. 10, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/10/bitcoin-s-bip-110-episode-is-free-market-capitalism-in-purest-form",
+      "publishedAt": "2026-08-10T11:31:29.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260810-bitcoins-bip-110-episode-is-free-market-capitalism-in-purest-form",
+      "localUrl": "/news/20260810-bitcoins-bip-110-episode-is-free-market-capitalism-in-purest-form.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Markets flip for Fed rate-hike pause into CPI: Five things to know in Bitcoin this week",
+      "summary": "Bitcoin spiked to a new August high into Sunday’s weekly close as market participants turned their attention to the next US inflation reports.",
+      "url": "https://cointelegraph.com/markets/markets-drop-september-rate-hike-bet-into-cpi-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T11:13:40.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260810-markets-flip-for-fed-rate-hike-pause-into-cpi-five-things-to-know-in-bitcoin-thi",
+      "localUrl": "/news/20260810-markets-flip-for-fed-rate-hike-pause-into-cpi-five-things-to-know-in-bitcoin-thi.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies above $65,000 as Iran-Oman deal talk eases Hormuz concerns, lifts risk assets",
+      "summary": "BTC rose to $65,209 and Nasdaq 100 index futures gained 0.45% on reports that Iran may strike a deal with Oman to reopen the Strait of Hormuz.",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-steadies-above-usd65-000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-risk-assets",
+      "publishedAt": "2026-08-10T10:45:43.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260810-bitcoin-steadies-above-65000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-",
+      "localUrl": "/news/20260810-bitcoin-steadies-above-65000-as-iran-oman-deal-talk-eases-hormuz-concerns-lifts-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
@@ -683,21 +771,6 @@
       "localUrl": "/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-      "summary": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
-      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-      "publishedAt": "2026-08-08T15:25:38.000Z",
-      "keywords": [
-        "Finance",
-        "Brazil",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-      "localUrl": "/news/20260808-brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
       "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
@@ -724,21 +797,6 @@
       "localUrl": "/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
-      "summary": "The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.",
-      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
-      "publishedAt": "2026-08-08T14:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan",
-      "localUrl": "/news/20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin will never fall below $60K again: Nansen founder",
       "summary": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
@@ -752,22 +810,6 @@
       "localUrl": "/news/20260808-bitcoin-will-never-fall-below-60k-again-nansen-founder.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "summary": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-      "publishedAt": "2026-08-08T13:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "ETFs",
-        "Dogecoin",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260808-why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-      "localUrl": "/news/20260808-why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf.html"
-    },
-    {
       "source": "X Wire",
       "title": "With only 2.6% miner signaling, BIP-110 has failed to earn broad miner support. At block 961,632, its nodes will reject non-signaling blocks. BIP-110 will then stall or fork into irrelevance while Bitcoin continues normally. Bitcoin is working as designed. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYVlfMmpwWjhHUWpCdXlIUHRPTVd0cldRTHA2MjE0NjdmckRLdTQyTUlBWmpiRm1YeWNyaEh5S0dhSVdGM3V6VlI2TGtrYmhTTVVfUzMza2xwNlE?oc=5\" target=\"_blank\">With only 2.6% miner signaling, BIP-110 has…",
@@ -777,22 +819,6 @@
       "category": "X热点",
       "slug": "20260808-with-only-26-miner-signaling-bip-110-has-failed-to-earn-broad-miner-support-at-b",
       "localUrl": "/news/20260808-with-only-26-miner-signaling-bip-110-has-failed-to-earn-broad-miner-support-at-b.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-      "summary": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
-      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-      "publishedAt": "2026-08-08T09:07:24.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "Breaking News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n",
-      "localUrl": "/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html"
     },
     {
       "source": "Cointelegraph",
@@ -860,19 +886,6 @@
       "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
-      "summary": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
-      "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T20:02:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260807-us-treasurys-ofac-sanctions-2-iran-linked-crypto-exchanges",
-      "localUrl": "/news/20260807-us-treasurys-ofac-sanctions-2-iran-linked-crypto-exchanges.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
       "summary": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
@@ -897,19 +910,6 @@
       "category": "综合",
       "slug": "20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet",
       "localUrl": "/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
-      "summary": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems.",
-      "url": "https://cointelegraph.com/news/circle-native-usdc-okx-x-layer-cctp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T17:36:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260807-circle-expands-usdc-to-okx-ecosystem-with-x-layer-launch",
-      "localUrl": "/news/20260807-circle-expands-usdc-to-okx-ecosystem-with-x-layer-launch.html"
     },
     {
       "source": "Decrypt",
