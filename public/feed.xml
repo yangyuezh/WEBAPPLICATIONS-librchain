@@ -5,7 +5,55 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:57:46 GMT</lastBuildDate>
+    <item>
+      <title>Bitwise&apos;s Rasmussen: Circle is mispriced as stablecoins head toward trillions</title>
+      <link>https://www.librchain.com/news/20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions.html</guid>
+      <description>Bitwise&apos;s Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.</description>
+      <pubDate>Mon, 10 Aug 2026 20:20:06 GMT</pubDate>
+      <source url="https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions">CoinDesk</source>
+    </item>
+    <item>
+      <title>Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors</title>
+      <link>https://www.librchain.com/news/20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo.html</guid>
+      <description>Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.</description>
+      <pubDate>Mon, 10 Aug 2026 20:03:24 GMT</pubDate>
+      <source url="https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors">CoinDesk</source>
+    </item>
+    <item>
+      <title>Hidden Text in PDFs Is Hijacking This AI Assistant</title>
+      <link>https://www.librchain.com/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html</guid>
+      <description>A security firm says Atlassian&apos;s AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you&apos;d swear was empty.</description>
+      <pubDate>Mon, 10 Aug 2026 19:56:50 GMT</pubDate>
+      <source url="https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection">Decrypt</source>
+    </item>
+    <item>
+      <title>TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari</title>
+      <link>https://www.librchain.com/news/20260810-tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari.html</guid>
+      <description>Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.</description>
+      <pubDate>Mon, 10 Aug 2026 19:47:01 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>UK money laundering suspect bought $100M in Trump crypto business: NYT</title>
+      <link>https://www.librchain.com/news/20260810-uk-money-laundering-suspect-bought-100m-in-trump-crypto-business-nyt.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-uk-money-laundering-suspect-bought-100m-in-trump-crypto-business-nyt.html</guid>
+      <description>An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.</description>
+      <pubDate>Mon, 10 Aug 2026 19:35:19 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years</title>
+      <link>https://www.librchain.com/news/20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years.html</guid>
+      <description>A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.</description>
+      <pubDate>Mon, 10 Aug 2026 19:13:12 GMT</pubDate>
+      <source url="https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years">Decrypt</source>
+    </item>
     <item>
       <title>Coinsbuy offers $100K reward after Sunday security breach</title>
       <link>https://www.librchain.com/news/20260810-coinsbuy-offers-100k-reward-after-sunday-security-breach.html</link>
@@ -53,6 +101,14 @@
       <description>Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.</description>
       <pubDate>Mon, 10 Aug 2026 17:08:34 GMT</pubDate>
       <source url="https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>When gold initially broke out, Bitcoin broke down. When gold corrected, that&apos;s when Bitcoin bounced. Now that the gold correction is over, and gold is back in rally mode, Bitcoin has resumed its decline. Bitcoin is anti-gold. The more gold goes up, the more Bitc - x.com</title>
+      <link>https://www.librchain.com/news/20260810-when-gold-initially-broke-out-bitcoin-broke-down-when-gold-corrected-thats-when-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-when-gold-initially-broke-out-bitcoin-broke-down-when-gold-corrected-thats-when-.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVnR4NGdTcmRqYjMtYWNjbnNUSWk3OV9nU1Baempfa213MXJmalRFUExGQ0dCdVhPdUFLcVhZVmlWalFCb1doMU9zUXZ5VzRXQ1EzMkNZbDNEUEg2SXRjNDFB?oc=5&quot; target=&quot;_blank&quot;&gt;When gold initially broke out, Bit…</description>
+      <pubDate>Mon, 10 Aug 2026 16:27:15 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVnR4NGdTcmRqYjMtYWNjbnNUSWk3OV9nU1Baempfa213MXJmalRFUExGQ0dCdVhPdUFLcVhZVmlWalFCb1doMU9zUXZ5VzRXQ1EzMkNZbDNEUEg2SXRjNDFB?oc=5">X Wire</source>
     </item>
     <item>
       <title>Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes</title>
@@ -319,6 +375,14 @@
       <source url="https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally">CoinDesk</source>
     </item>
     <item>
+      <title>BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH U.S.-listed Bitcoin ETFs attracted more than $850 million last week, their strongest inflows since April, following a $130 million Coldcard wallet hack. The breach exposed vulnerabilities in hardware-based self- - x.com</title>
+      <link>https://www.librchain.com/news/20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5&quot; target=&quot;_blank&quot;&gt;BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH…</description>
+      <pubDate>Mon, 10 Aug 2026 09:07:58 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets</title>
       <link>https://www.librchain.com/news/20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets.html</guid>
@@ -421,70 +485,6 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5&quot; target=&quot;_blank&quot;&gt;H100 acquires 2,455.4 Bitcoin at appro…</description>
       <pubDate>Mon, 10 Aug 2026 06:45:14 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Here’s what happened in crypto today</title>
-      <link>https://www.librchain.com/news/20260810-heres-what-happened-in-crypto-today.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-heres-what-happened-in-crypto-today.html</guid>
-      <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
-      <pubDate>Mon, 10 Aug 2026 06:30:00 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>This bitcoin miner rejected BIP-110 despite mining through a pool that supported it</title>
-      <link>https://www.librchain.com/news/20260810-this-bitcoin-miner-rejected-bip-110-despite-mining-through-a-pool-that-supported.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-this-bitcoin-miner-rejected-bip-110-despite-mining-through-a-pool-that-supported.html</guid>
-      <description>Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for themselves and went the other way.</description>
-      <pubDate>Mon, 10 Aug 2026 06:25:17 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it">CoinDesk</source>
-    </item>
-    <item>
-      <title>Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’</title>
-      <link>https://www.librchain.com/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html</guid>
-      <description>Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.</description>
-      <pubDate>Mon, 10 Aug 2026 05:18:27 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Bitcoin tops $65,000 with U.S. inflation data due this week</title>
-      <link>https://www.librchain.com/news/20260810-bitcoin-tops-65000-with-us-inflation-data-due-this-week.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-bitcoin-tops-65000-with-us-inflation-data-due-this-week.html</guid>
-      <description>Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.</description>
-      <pubDate>Mon, 10 Aug 2026 04:39:37 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week">CoinDesk</source>
-    </item>
-    <item>
-      <title>Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures</title>
-      <link>https://www.librchain.com/news/20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures.html</guid>
-      <description>Australia’s financial watchdog has suspended Cryptolink’s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM operator fined $56,340.</description>
-      <pubDate>Mon, 10 Aug 2026 04:32:36 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money</title>
-      <link>https://www.librchain.com/news/20260810-xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-inv.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-inv.html</guid>
-      <description>The token fell 5% last week while BTC, ETH and SOL climbed.</description>
-      <pubDate>Mon, 10 Aug 2026 04:26:01 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money">CoinDesk</source>
-    </item>
-    <item>
-      <title>Crypto’s first quantum attack will look like unexplained breach: Quantus founder</title>
-      <link>https://www.librchain.com/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html</guid>
-      <description>Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.</description>
-      <pubDate>Mon, 10 Aug 2026 03:34:53 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Nobody is actually competing with Ethereum... @Ethereum&apos;s dominance on just about every onchain metric has been overshadowed by $ETH&apos;s poor price performance in 2026. But don&apos;t let this fool you. $ETH still holds more than 55% of the entire industry&apos;s T - x.com</title>
-      <link>https://www.librchain.com/news/20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWTd4VmV2eUtSQjVFOEhQS21FcE5wbVlUOWZPTndLUE1uQVBJMFdhV0NFTk4tNnFHVVBZaXh6X2VaT3pZcTRKSmFMTklGeGFyeTBLZXZCTkpXNUFx?oc=5&quot; target=&quot;_blank&quot;&gt;Nobody is actually competing with Ethereum…</description>
-      <pubDate>Mon, 10 Aug 2026 00:41:00 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWTd4VmV2eUtSQjVFOEhQS21FcE5wbVlUOWZPTndLUE1uQVBJMFdhV0NFTk4tNnFHVVBZaXh6X2VaT3pZcTRKSmFMTklGeGFyeTBLZXZCTkpXNUFx?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>

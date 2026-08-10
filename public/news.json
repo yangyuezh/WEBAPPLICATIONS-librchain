@@ -1,7 +1,94 @@
 {
-  "updatedAt": "2026-08-10T19:12:14.097Z",
+  "updatedAt": "2026-08-10T20:57:46.728Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
+      "summary": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.",
+      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+      "publishedAt": "2026-08-10T20:20:06.000Z",
+      "keywords": [
+        "CoinDesk News",
+        "Media Network Interview",
+        "Bitwise",
+        "Circle",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
+      "localUrl": "/news/20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
+      "summary": "Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.",
+      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
+      "publishedAt": "2026-08-10T20:03:24.000Z",
+      "keywords": [
+        "CoinDesk News",
+        "Media Network Interview",
+        "MicroStrategy",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo",
+      "localUrl": "/news/20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+      "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
+      "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+      "publishedAt": "2026-08-10T19:56:50.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant",
+      "localUrl": "/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+      "summary": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
+      "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T19:47:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari",
+      "localUrl": "/news/20260810-tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
+      "summary": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
+      "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T19:35:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260810-uk-money-laundering-suspect-bought-100m-in-trump-crypto-business-nyt",
+      "localUrl": "/news/20260810-uk-money-laundering-suspect-bought-100m-in-trump-crypto-business-nyt.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
+      "summary": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
+      "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
+      "publishedAt": "2026-08-10T19:13:12.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "市场",
+      "slug": "20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years",
+      "localUrl": "/news/20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Coinsbuy offers $100K reward after Sunday security breach",
@@ -88,6 +175,17 @@
       "category": "监管",
       "slug": "20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote",
       "localUrl": "/news/20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "When gold initially broke out, Bitcoin broke down. When gold corrected, that's when Bitcoin bounced. Now that the gold correction is over, and gold is back in rally mode, Bitcoin has resumed its decline. Bitcoin is anti-gold. The more gold goes up, the more Bitc - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVnR4NGdTcmRqYjMtYWNjbnNUSWk3OV9nU1Baempfa213MXJmalRFUExGQ0dCdVhPdUFLcVhZVmlWalFCb1doMU9zUXZ5VzRXQ1EzMkNZbDNEUEg2SXRjNDFB?oc=5\" target=\"_blank\">When gold initially broke out, Bit…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVnR4NGdTcmRqYjMtYWNjbnNUSWk3OV9nU1Baempfa213MXJmalRFUExGQ0dCdVhPdUFLcVhZVmlWalFCb1doMU9zUXZ5VzRXQ1EzMkNZbDNEUEg2SXRjNDFB?oc=5",
+      "publishedAt": "2026-08-10T16:27:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-when-gold-initially-broke-out-bitcoin-broke-down-when-gold-corrected-thats-when-",
+      "localUrl": "/news/20260810-when-gold-initially-broke-out-bitcoin-broke-down-when-gold-corrected-thats-when-.html"
     },
     {
       "source": "Decrypt",
@@ -538,6 +636,17 @@
       "localUrl": "/news/20260810-a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally.html"
     },
     {
+      "source": "X Wire",
+      "title": "BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH U.S.-listed Bitcoin ETFs attracted more than $850 million last week, their strongest inflows since April, following a $130 million Coldcard wallet hack. The breach exposed vulnerabilities in hardware-based self- - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5\" target=\"_blank\">BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5",
+      "publishedAt": "2026-08-10T09:07:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th",
+      "localUrl": "/news/20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
       "summary": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
@@ -797,17 +906,6 @@
       "localUrl": "/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html"
     },
     {
-      "source": "X Wire",
-      "title": "Nobody is actually competing with Ethereum... @Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026. But don't let this fool you. $ETH still holds more than 55% of the entire industry's T - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWTd4VmV2eUtSQjVFOEhQS21FcE5wbVlUOWZPTndLUE1uQVBJMFdhV0NFTk4tNnFHVVBZaXh6X2VaT3pZcTRKSmFMTklGeGFyeTBLZXZCTkpXNUFx?oc=5\" target=\"_blank\">Nobody is actually competing with Ethereum…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWTd4VmV2eUtSQjVFOEhQS21FcE5wbVlUOWZPTndLUE1uQVBJMFdhV0NFTk4tNnFHVVBZaXh6X2VaT3pZcTRKSmFMTklGeGFyeTBLZXZCTkpXNUFx?oc=5",
-      "publishedAt": "2026-08-10T00:41:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve",
-      "localUrl": "/news/20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
       "summary": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
@@ -869,36 +967,6 @@
       "localUrl": "/news/20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-      "summary": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
-      "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-      "publishedAt": "2026-08-09T18:30:00.000Z",
-      "keywords": [
-        "Policy",
-        "Newsletters",
-        "State of Crypto",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto",
-      "localUrl": "/news/20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
-      "summary": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
-      "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-      "publishedAt": "2026-08-09T15:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Feature"
-      ],
-      "category": "RWA",
-      "slug": "20260809-hyperliquids-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
-      "localUrl": "/news/20260809-hyperliquids-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype.html"
-    },
-    {
       "source": "X Wire",
       "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026. @OKnightCrypto reports. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVdTU4VUh4Y290Sll0R0ZFZ3ItUWRpNjMzSUhLRE1TLVZKaDVsRGl1V0ZsTXBiMW5aR2JFZDhxUVJZckZYWDFrNkxhVjlPd25jTGRZREdMLWUxUUo4alE?oc=5\" target=\"_blank\">Crypto is going through a massive dot-c…",
@@ -908,17 +976,6 @@
       "category": "X热点",
       "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo",
       "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5",
-      "publishedAt": "2026-08-09T13:02:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
-      "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
     },
     {
       "source": "X Wire",
@@ -967,32 +1024,6 @@
       "category": "综合",
       "slug": "20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold",
       "localUrl": "/news/20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
-      "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
-      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-09T05:46:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
-      "localUrl": "/news/20260809-btcpay-restricts-remote-lightning-access-after-attackers-steal-funds.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-      "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-08T21:17:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3",
-      "localUrl": "/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html"
     },
     {
       "source": "Decrypt",
@@ -1045,32 +1076,6 @@
       "category": "RWA",
       "slug": "20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures",
       "localUrl": "/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-      "summary": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
-      "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
-      "publishedAt": "2026-08-07T20:28:33.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran",
-      "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-      "summary": "Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.",
-      "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
-      "publishedAt": "2026-08-07T20:00:34.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260807-bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack",
-      "localUrl": "/news/20260807-bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack.html"
     }
   ]
 }
