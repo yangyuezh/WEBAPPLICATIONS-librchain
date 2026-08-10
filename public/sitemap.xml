@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-10T18:01:02.598Z</lastmod>
+    <lastmod>2026-08-10T19:12:14.141Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-10T18:01:02.598Z</lastmod>
+    <lastmod>2026-08-10T19:12:14.141Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-coinsbuy-offers-100k-reward-after-sunday-security-breach.html</loc>
+    <lastmod>2026-08-10T18:43:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-wall-street-is-starting-to-treat-data-center-backlash-as-a-credit-risk.html</loc>
+    <lastmod>2026-08-10T18:31:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik.html</loc>
@@ -247,6 +259,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom.html</loc>
+    <lastmod>2026-08-10T08:33:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-.html</loc>
     <lastmod>2026-08-10T08:05:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -255,6 +273,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard.html</loc>
     <lastmod>2026-08-10T07:52:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-just-in-robinhood-launches-crypto-trading-in-the-uk-xcom.html</loc>
+    <lastmod>2026-08-10T07:49:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,6 +367,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve.html</loc>
+    <lastmod>2026-08-10T00:41:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260810-bip-110-ends-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9.html</loc>
     <lastmod>2026-08-10T00:32:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom.html</loc>
-    <lastmod>2026-08-09T13:03:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html</loc>
     <lastmod>2026-08-09T13:02:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,20 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-at-015-of-bitcoins-hashpower-bip-110-must-mine-2015-more-blocks-before-its-first.html</loc>
-    <lastmod>2026-08-09T09:45:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html</loc>
     <lastmod>2026-08-09T09:45:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-breaking-bitcoins-bip-110-soft-fork-officially-fails-after-mining-just-two-block.html</loc>
-    <lastmod>2026-08-09T09:40:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html</loc>
-    <lastmod>2026-08-08T16:20:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html</loc>
     <lastmod>2026-08-08T14:01:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260807-bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack.html</loc>
     <lastmod>2026-08-07T20:00:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html</loc>
-    <lastmod>2026-08-07T19:18:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

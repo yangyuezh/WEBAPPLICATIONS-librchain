@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-10T18:01:02.566Z",
+  "updatedAt": "2026-08-10T19:12:14.097Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Coinsbuy offers $100K reward after Sunday security breach",
+      "summary": "Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.",
+      "url": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T18:43:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-coinsbuy-offers-100k-reward-after-sunday-security-breach",
+      "localUrl": "/news/20260810-coinsbuy-offers-100k-reward-after-sunday-security-breach.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
+      "summary": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
+      "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
+      "publishedAt": "2026-08-10T18:31:06.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260810-wall-street-is-starting-to-treat-data-center-backlash-as-a-credit-risk",
+      "localUrl": "/news/20260810-wall-street-is-starting-to-treat-data-center-backlash-as-a-credit-risk.html"
+    },
     {
       "source": "Decrypt",
       "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
@@ -541,6 +567,17 @@
     },
     {
       "source": "X Wire",
+      "title": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5\" target=\"_blank\">“Bitcoin is economic freedom for generation…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5",
+      "publishedAt": "2026-08-10T08:33:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom",
+      "localUrl": "/news/20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🔥 NEW: Hedge funds on CME have flipped net long Bitcoin futures, a rare shift after years of short positions, per CryptoQuant CEO. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q3dMbUhKWTgtZ3ZlcmdxX3JnYlo0U1VOd3plQjZhT1NQOHVzVnhReVFTY29ybkNCeTA1NkRZUjluX1hpaG5qY2FMMWlHbGVycEk3YWZfdkJuOFRMbmxvb1F1blk?oc=5\" target=\"_blank\">🔥 NEW: Hedge funds on CME have…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q3dMbUhKWTgtZ3ZlcmdxX3JnYlo0U1VOd3plQjZhT1NQOHVzVnhReVFTY29ybkNCeTA1NkRZUjluX1hpaG5qY2FMMWlHbGVycEk3YWZfdkJuOFRMbmxvb1F1blk?oc=5",
@@ -563,6 +600,17 @@
       "category": "综合",
       "slug": "20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard",
       "localUrl": "/news/20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇬🇧 JUST IN: Robinhood launches crypto trading in the UK. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWGpZYjNNaXBXOURSRjlRUUE4aGlsT3E3TWx6cjlCbDJQQ2p1UzQwNktfYkh5MzZoZGVuaUI5RmZxZ0tCeHlrY1VSaDVmeW1fbFpRMzVLOE5JcHJQYWVic05iQXM?oc=5\" target=\"_blank\">🇬🇧 JUST IN: Robinhood launche…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWGpZYjNNaXBXOURSRjlRUUE4aGlsT3E3TWx6cjlCbDJQQ2p1UzQwNktfYkh5MzZoZGVuaUI5RmZxZ0tCeHlrY1VSaDVmeW1fbFpRMzVLOE5JcHJQYWVic05iQXM?oc=5",
+      "publishedAt": "2026-08-10T07:49:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-just-in-robinhood-launches-crypto-trading-in-the-uk-xcom",
+      "localUrl": "/news/20260810-just-in-robinhood-launches-crypto-trading-in-the-uk-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -749,6 +797,17 @@
       "localUrl": "/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html"
     },
     {
+      "source": "X Wire",
+      "title": "Nobody is actually competing with Ethereum... @Ethereum's dominance on just about every onchain metric has been overshadowed by $ETH's poor price performance in 2026. But don't let this fool you. $ETH still holds more than 55% of the entire industry's T - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWTd4VmV2eUtSQjVFOEhQS21FcE5wbVlUOWZPTndLUE1uQVBJMFdhV0NFTk4tNnFHVVBZaXh6X2VaT3pZcTRKSmFMTklGeGFyeTBLZXZCTkpXNUFx?oc=5\" target=\"_blank\">Nobody is actually competing with Ethereum…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWTd4VmV2eUtSQjVFOEhQS21FcE5wbVlUOWZPTndLUE1uQVBJMFdhV0NFTk4tNnFHVVBZaXh6X2VaT3pZcTRKSmFMTklGeGFyeTBLZXZCTkpXNUFx?oc=5",
+      "publishedAt": "2026-08-10T00:41:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve",
+      "localUrl": "/news/20260810-nobody-is-actually-competing-with-ethereum-ethereums-dominance-on-just-about-eve.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
       "summary": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
@@ -852,17 +911,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Michael Saylor hints at buying more Bitcoin. \"Doing ₿usiness.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVHpPZ2RabzlsVVlpclZfRHRqaUdockFaSkhUcnJDN0YycEVDS2lLb2NNTjNoMldZcGVWdldoQWNLQVgta2pzSkRBLXRVSnhpTWg4ZjJjcTdRNFVXZk16bGJR?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hints at b…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZVHpPZ2RabzlsVVlpclZfRHRqaUdockFaSkhUcnJDN0YycEVDS2lLb2NNTjNoMldZcGVWdldoQWNLQVgta2pzSkRBLXRVSnhpTWg4ZjJjcTdRNFVXZk16bGJR?oc=5",
-      "publishedAt": "2026-08-09T13:03:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom",
-      "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5",
@@ -898,17 +946,6 @@
     },
     {
       "source": "X Wire",
-      "title": "At ~0.15% of Bitcoin's hashpower, BIP-110 must mine 2,015 more blocks before its first difficulty adjustment. At today's rate, that is ~25 years. Anyone can fork Bitcoin. Without security, utility, capital, and users, a fork is irrelevant. Consensus is earned, not decla - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONnAzMXNnQTJ4S1ZyMUpQT3A3RFhlLS1taEs1NnM0SmIwWW45SjNpTFJJajRYNkU3Vks0anA4cHpyRWt4VDdWTU9LNUxVbXhMWlNIbjIwQl91WHM?oc=5\" target=\"_blank\">At ~0.15% of Bitcoin's hashpower, BIP-110 m…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONnAzMXNnQTJ4S1ZyMUpQT3A3RFhlLS1taEs1NnM0SmIwWW45SjNpTFJJajRYNkU3Vks0anA4cHpyRWt4VDdWTU9LNUxVbXhMWlNIbjIwQl91WHM?oc=5",
-      "publishedAt": "2026-08-09T09:45:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-at-015-of-bitcoins-hashpower-bip-110-must-mine-2015-more-blocks-before-its-first",
-      "localUrl": "/news/20260809-at-015-of-bitcoins-hashpower-bip-110-must-mine-2015-more-blocks-before-its-first.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 bloc - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdUtiZmhSdW5oSjhGLWZaVHZyZFoyZnN6c2RpU2NjNVVGV3VOQVhzdERBekNZeVY5aTQ1VGgyS2NsVXFtVE11Ri04TlZ3b3ZoSUFQQ2ZqeWowWnM?oc=5\" target=\"_blank\">Bitcoin worked exactly as designed. BIP-110…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdUtiZmhSdW5oSjhGLWZaVHZyZFoyZnN6c2RpU2NjNVVGV3VOQVhzdERBekNZeVY5aTQ1VGgyS2NsVXFtVE11Ri04TlZ3b3ZoSUFQQ2ZqeWowWnM?oc=5",
@@ -917,17 +954,6 @@
       "category": "X热点",
       "slug": "20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-",
       "localUrl": "/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨BREAKING: Bitcoin's BIP-110 soft fork OFFICIALLY FAILS after mining just two blocks. The minority chain split off at block 961,632 with just 2.53% miner support. It stalled behind the main chain almost immediately. The fork inherited Bitcoin's full 127.48 TRIL - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWUhMV0NMblpKbE91SW9UZkJvU1V0WTZaV1VkdUJUMThTZW5oVFU3X1I2U0hvek14Yk9NSEJvTW5scmkwbDdfbThqdkM0WWtlVThKTHRKaHNZY2ZDaE5IYw?oc=5\" target=\"_blank\">🚨BREAKING: Bitcoin's BIP-110 soft f…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWUhMV0NMblpKbE91SW9UZkJvU1V0WTZaV1VkdUJUMThTZW5oVFU3X1I2U0hvek14Yk9NSEJvTW5scmkwbDdfbThqdkM0WWtlVThKTHRKaHNZY2ZDaE5IYw?oc=5",
-      "publishedAt": "2026-08-09T09:40:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-breaking-bitcoins-bip-110-soft-fork-officially-fails-after-mining-just-two-block",
-      "localUrl": "/news/20260809-breaking-bitcoins-bip-110-soft-fork-officially-fails-after-mining-just-two-block.html"
     },
     {
       "source": "Cointelegraph",
@@ -995,19 +1021,6 @@
       "localUrl": "/news/20260808-senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-      "summary": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
-      "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-08T16:20:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows",
-      "localUrl": "/news/20260808-us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
       "summary": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
@@ -1058,19 +1071,6 @@
       "category": "监管",
       "slug": "20260807-bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack",
       "localUrl": "/news/20260807-bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
-      "summary": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-      "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
-      "publishedAt": "2026-08-07T19:18:41.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet",
-      "localUrl": "/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html"
     }
   ]
 }
