@@ -1,7 +1,102 @@
 {
-  "updatedAt": "2026-08-10T06:19:58.999Z",
+  "updatedAt": "2026-08-10T08:48:37.365Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
+      "summary": "Early BVNK investor Concentric shares a fascinating inside view on the stablecoin startup’s journey and the eventual Mastercard deal.",
+      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+      "publishedAt": "2026-08-10T07:52:00.000Z",
+      "keywords": [
+        "Finance",
+        "Feature"
+      ],
+      "category": "综合",
+      "slug": "20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard",
+      "localUrl": "/news/20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK regulators to prepare tokenized gold framework: Report",
+      "summary": "The UK’s FCA is reportedly preparing a regulatory framework for tokenized gold and how these products may be used as collateral assets in wholesale markets.",
+      "url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T07:25:45.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-uk-regulators-to-prepare-tokenized-gold-framework-report",
+      "localUrl": "/news/20260810-uk-regulators-to-prepare-tokenized-gold-framework-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "summary": "The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” a generative AI-powered widget that analyses breaking news and other data.",
+      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Robinhood",
+        "UK",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app",
+      "localUrl": "/news/20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
+      "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
+      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
+      "publishedAt": "2026-08-10T06:56:50.000Z",
+      "keywords": [
+        "Markets",
+        "Live News",
+        "live_news"
+      ],
+      "category": "监管",
+      "slug": "20260810-live-updates-btc-above-65000-even-as-the-senate-punts-the-clarity-act-to-the-fal",
+      "localUrl": "/news/20260810-live-updates-btc-above-65000-even-as-the-senate-punts-the-clarity-act-to-the-fal.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Fantom Backer and Quantum Fintech Founder Harry Yeh Dies After Naked Fall from Paraguay Tower, Claimed to Manage Over $2B Fantom ecosystem figure and Quantum Fintech Group founder Harry Yeh died after falling from the 30th floor of a luxury apart - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMmw3ZmVqc1pyNVFIUmhhNmZaUTlGZXlFeWp3VTVFWVNneHEyNjljYjNrQTlhaDZPMjU2Tl9wNmRLdk9vSm0xc3FfVnlxR3BFeDJGd2doOHpCQTNnM0pTczczMA?oc=5\" target=\"_blank\">Fantom Backer and Quantum Fintec…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMmw3ZmVqc1pyNVFIUmhhNmZaUTlGZXlFeWp3VTVFWVNneHEyNjljYjNrQTlhaDZPMjU2Tl9wNmRLdk9vSm0xc3FfVnlxR3BFeDJGd2doOHpCQTNnM0pTczczMA?oc=5",
+      "publishedAt": "2026-08-10T06:46:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-fantom-backer-and-quantum-fintech-founder-harry-yeh-dies-after-naked-fall-from-p",
+      "localUrl": "/news/20260810-fantom-backer-and-quantum-fintech-founder-harry-yeh-dies-after-naked-fall-from-p.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "H100 acquires 2,455.4 Bitcoin at approx. USD 62,900 per Bitcoin, increasing total holdings to 3,506 BTC. The transaction, announced in April, has now been completed: - Largest M&A transaction in the European Public Bitcoin Equity sector - World's first Bitcoi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5\" target=\"_blank\">H100 acquires 2,455.4 Bitcoin at appro…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5",
+      "publishedAt": "2026-08-10T06:45:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol",
+      "localUrl": "/news/20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
+      "summary": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for themselves and went the other way.",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
+      "publishedAt": "2026-08-10T06:25:17.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260810-this-bitcoin-miner-rejected-bip-110-despite-mining-through-a-pool-that-supported",
+      "localUrl": "/news/20260810-this-bitcoin-miner-rejected-bip-110-despite-mining-through-a-pool-that-supported.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -30,7 +125,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin tops $65,000 with US inflation data due this week",
+      "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
       "summary": "Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.",
       "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
       "publishedAt": "2026-08-10T04:39:37.000Z",
@@ -69,6 +164,17 @@
       "category": "监管",
       "slug": "20260810-xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-inv",
       "localUrl": "/news/20260810-xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-inv.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Grayscale Withdraws Registration Applications for ADA, HBAR and DOT ETFs According to SEC filings, Grayscale filed three Form RW submissions on August 7, withdrawing the S-1 registration statements for the Grayscale Cardano Trust ETF, Grayscale Hed - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4WVRvM244dXJvZnZJNUhjLWFjSVljYUNaZFZQNGJJcFBTbEhsR1pMZlR0UC1yMnp3MjN5ejEyYTNtem5zdUlXRzhYUUtaazViV1VKb3NJVjhOYnJlLVBVMXVaUQ?oc=5\" target=\"_blank\">Grayscale Withdraws Registration…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4WVRvM244dXJvZnZJNUhjLWFjSVljYUNaZFZQNGJJcFBTbEhsR1pMZlR0UC1yMnp3MjN5ejEyYTNtem5zdUlXRzhYUUtaazViV1VKb3NJVjhOYnJlLVBVMXVaUQ?oc=5",
+      "publishedAt": "2026-08-10T03:38:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-grayscale-withdraws-registration-applications-for-ada-hbar-and-dot-etfs-accordin",
+      "localUrl": "/news/20260810-grayscale-withdraws-registration-applications-for-ada-hbar-and-dot-etfs-accordin.html"
     },
     {
       "source": "Cointelegraph",
@@ -162,14 +268,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥LATEST: Grayscale Research Head Zach Pandl says crypto can keep advancing even if the CLARITY Act fails in 2026, with SEC rulemaking, institutional custody, banking access and staking policies filling regulatory gaps. “Crypto will move forward without - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE12U0k5SDcza2dlS2VreXZNODVkUE9sUkNjdURKSTJqa09OMzR0MWRJWG9nekNsYTljNDBjbUN0ZlpoYnN0NENKVUEySGhLVnIzaG8wcFNqd0RLdDB0cHFHSg?oc=5\" target=\"_blank\">🔥LATEST: Grayscale Research Head Za…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12U0k5SDcza2dlS2VreXZNODVkUE9sUkNjdURKSTJqa09OMzR0MWRJWG9nekNsYTljNDBjbUN0ZlpoYnN0NENKVUEySGhLVnIzaG8wcFNqd0RLdDB0cHFHSg?oc=5",
-      "publishedAt": "2026-08-09T18:00:00.000Z",
+      "title": "#BTC As the Weekly Close approaches, Bitcoin is trying to press even more against the Lower High resistance (black) Generally, Bitcoin would need to Weekly Close above the blue level and successfully retest it as support to rally higher from here Because s - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EWmFLVUFVd1BlMXQ0Qnk3eVQyQUdaNXp0bmRHU293UlNWMDlydDhFcTN0M0tRX2t4ZG9Fa21COFFqMnZZMVNGUHUwaXlpR3BkVW9GcG5vRDJhdGRsMzFMaXdB?oc=5\" target=\"_blank\">#BTC As the Weekly Close approache…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EWmFLVUFVd1BlMXQ0Qnk3eVQyQUdaNXp0bmRHU293UlNWMDlydDhFcTN0M0tRX2t4ZG9Fa21COFFqMnZZMVNGUHUwaXlpR3BkVW9GcG5vRDJhdGRsMzFMaXdB?oc=5",
+      "publishedAt": "2026-08-09T17:21:14.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260809-latest-grayscale-research-head-zach-pandl-says-crypto-can-keep-advancing-even-if",
-      "localUrl": "/news/20260809-latest-grayscale-research-head-zach-pandl-says-crypto-can-keep-advancing-even-if.html"
+      "slug": "20260809-btc-as-the-weekly-close-approaches-bitcoin-is-trying-to-press-even-more-against-",
+      "localUrl": "/news/20260809-btc-as-the-weekly-close-approaches-bitcoin-is-trying-to-press-even-more-against-.html"
     },
     {
       "source": "X Wire",
@@ -257,17 +363,6 @@
       "category": "X热点",
       "slug": "20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a",
       "localUrl": "/news/20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#BTC Bitcoin is forming Lower Highs here relative to the July upside wick In 2022, August actually developed a Higher High relative to the preceding July No matter the structure however, 4 years ago Bitcoin positioned itself for a bearish retest of the 50 Month - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OZTQ1Umt0U3pOMnFEWDF6dDVvSUJmbUJfRWFhX19CSGpnTnZzOG9jWDFyQXpQVzg3STRwNUh1dTZmeENHdE5hSWRJdFFDWjM0eUhVZmlQVEtGUUsyMjRIdHNR?oc=5\" target=\"_blank\">#BTC Bitcoin is forming Lower High…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OZTQ1Umt0U3pOMnFEWDF6dDVvSUJmbUJfRWFhX19CSGpnTnZzOG9jWDFyQXpQVzg3STRwNUh1dTZmeENHdE5hSWRJdFFDWjM0eUhVZmlQVEtGUUsyMjRIdHNR?oc=5",
-      "publishedAt": "2026-08-09T11:35:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-btc-bitcoin-is-forming-lower-highs-here-relative-to-the-july-upside-wick-in-2022",
-      "localUrl": "/news/20260809-btc-bitcoin-is-forming-lower-highs-here-relative-to-the-july-upside-wick-in-2022.html"
     },
     {
       "source": "Cointelegraph",
@@ -521,17 +616,6 @@
       "localUrl": "/news/20260808-us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin implied volatility hits YTD low US bond yields hit YTD high This can only end one way - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5\" target=\"_blank\">Bitcoin implied volatility hits YTD low…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5",
-      "publishedAt": "2026-08-08T14:01:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl",
-      "localUrl": "/news/20260808-bitcoin-implied-volatility-hits-ytd-low-us-bond-yields-hit-ytd-high-this-can-onl.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
       "summary": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
@@ -558,17 +642,6 @@
       "category": "市场",
       "slug": "20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan",
       "localUrl": "/news/20260808-trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwises-matt-hougan.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 HUGE: Crypto cards monthly spend just hit a new ATH of $759M. More than doubling in a year. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUXZMampGakh3ZzN3clkyaXc4VnFGOHZROHhXT2FzX1JPbVNpT0JxZmxSRHU0YWlQa29rVUtBYnJVQkdNblVzWkNzV0pCY01abHo4N2R2NmhoY3ltcWpFRkg5Ukw?oc=5\" target=\"_blank\">🔥 HUGE: Crypto cards monthly s…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUXZMampGakh3ZzN3clkyaXc4VnFGOHZROHhXT2FzX1JPbVNpT0JxZmxSRHU0YWlQa29rVUtBYnJVQkdNblVzWkNzV0pCY01abHo4N2R2NmhoY3ltcWpFRkg5Ukw?oc=5",
-      "publishedAt": "2026-08-08T13:31:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in",
-      "localUrl": "/news/20260808-huge-crypto-cards-monthly-spend-just-hit-a-new-ath-of-759m-more-than-doubling-in.html"
     },
     {
       "source": "Cointelegraph",
@@ -643,7 +716,7 @@
     {
       "source": "Cointelegraph",
       "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-      "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
+      "summary": "IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
       "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-08T06:21:08.000Z",
       "keywords": [
@@ -708,23 +781,6 @@
       "localUrl": "/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "summary": "The Truth Social parent company is refocusing on media and its pending merger with a fusion energy firm, as the digital asset treasury boom has lost its steam.",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-      "publishedAt": "2026-08-07T21:13:21.000Z",
-      "keywords": [
-        "Finance",
-        "Trump",
-        "Donald Trump",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal",
-      "localUrl": "/news/20260807-trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
       "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
@@ -749,23 +805,6 @@
       "category": "监管",
       "slug": "20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran",
       "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "summary": "Mateen purchased more than 306,000 shares across two days following the company's quarterly earnings, lifting his stake to more than 492,000 shares.",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-      "publishedAt": "2026-08-07T20:20:00.000Z",
-      "keywords": [
-        "Finance",
-        "American Bitcoin",
-        "Exclusive",
-        "Eric Trump",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260807-trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-2-million-of-ab",
-      "localUrl": "/news/20260807-trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-2-million-of-ab.html"
     },
     {
       "source": "X Wire",
@@ -818,21 +857,6 @@
       "localUrl": "/news/20260807-flock-wanted-to-turn-350000-uber-drivers-into-a-nationwide-plate-scanning-fleet.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
-      "summary": "The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.",
-      "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
-      "publishedAt": "2026-08-07T18:42:44.000Z",
-      "keywords": [
-        "Policy",
-        "Iran",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
-      "localUrl": "/news/20260807-us-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
       "summary": "The rollout gives X Layer users access to Circle-issued USDC and crosschain transfers as the stablecoin expands across major blockchain ecosystems.",
@@ -870,24 +894,6 @@
       "category": "综合",
       "slug": "20260807-reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report",
       "localUrl": "/news/20260807-reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-      "summary": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source familiar.",
-      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
-      "publishedAt": "2026-08-07T16:53:56.000Z",
-      "keywords": [
-        "Finance",
-        "mergers and acquisitions",
-        "BitMEX",
-        "Exclusive",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260807-bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine",
-      "localUrl": "/news/20260807-bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine.html"
     },
     {
       "source": "Decrypt",
@@ -940,19 +946,6 @@
       "category": "市场",
       "slug": "20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc",
       "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price tags $65.3K August high as low US jobs numbers cool Fed rate bets",
-      "summary": "Bitcoin hit month-to-date highs above $65,000 as risk-assets gained on low US nonfarm payrolls data.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T15:23:15.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260807-bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets",
-      "localUrl": "/news/20260807-bitcoin-price-tags-653k-august-high-as-low-us-jobs-numbers-cool-fed-rate-bets.html"
     },
     {
       "source": "Decrypt",
