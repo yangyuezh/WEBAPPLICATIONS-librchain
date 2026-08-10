@@ -1,7 +1,44 @@
 {
-  "updatedAt": "2026-08-09T23:43:29.128Z",
+  "updatedAt": "2026-08-10T02:30:13.623Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
+      "summary": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
+      "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T00:32:21.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "综合",
+      "slug": "20260810-bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9",
+      "localUrl": "/news/20260810-bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
+      "summary": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
+      "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T00:31:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill",
+      "localUrl": "/news/20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "last crypto cycle in 2023 at the beginning the first major onchain innovation was unibot, it ran to 200M bc it was the first trading terminal with a token attached that made it easy for people to one-click buy long-tail crypto assets, this is now the standard with insta - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QWW5kWUdjQlNoaS1ZenFfNjRuQ2FCdzB5dE9SbHlyM0hvOUFRYkJyUkgtTXJYeDZ3Wl9fWHgzM0lyMWs5VU9HZUdHSVY0cXIxQlNBVG5scUpzSDNmSXJv?oc=5\" target=\"_blank\">last crypto cycle in 2023 at the begin…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QWW5kWUdjQlNoaS1ZenFfNjRuQ2FCdzB5dE9SbHlyM0hvOUFRYkJyUkgtTXJYeDZ3Wl9fWHgzM0lyMWs5VU9HZUdHSVY0cXIxQlNBVG5scUpzSDNmSXJv?oc=5",
+      "publishedAt": "2026-08-09T22:46:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-last-crypto-cycle-in-2023-at-the-beginning-the-first-major-onchain-innovation-wa",
+      "localUrl": "/news/20260809-last-crypto-cycle-in-2023-at-the-beginning-the-first-major-onchain-innovation-wa.html"
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
@@ -14,6 +51,17 @@
       "category": "市场",
       "slug": "20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks",
       "localUrl": "/news/20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "LUKE DASHJR SUGGESTS SEPT. 1 FOR BIP-110 PROOF-OF-WORK CHANGE BTC HARD FORK Bitcoin developer Luke Dashjr suggested Sept. 1 as a potential target date for a BIP-110 proof-of-work change, saying it should occur when BIP-110 “would ha - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cnpzY0pzdmFKUXg2RWxLcmhlb19pWjlmZi1YV0poS0Y5S3NSM0lNOHFmbTh2a1B3ZXVoTmJ6d1JDRDJ2YUZlaEwzYmduQ3F1N0hYVENKajZib3FGd0c1MG5yZUIxQQ?oc=5\" target=\"_blank\">LUKE DASHJR SUGGESTS SEPT. 1…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44cnpzY0pzdmFKUXg2RWxLcmhlb19pWjlmZi1YV0poS0Y5S3NSM0lNOHFmbTh2a1B3ZXVoTmJ6d1JDRDJ2YUZlaEwzYmduQ3F1N0hYVENKajZib3FGd0c1MG5yZUIxQQ?oc=5",
+      "publishedAt": "2026-08-09T19:15:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-luke-dashjr-suggests-sept-1-for-bip-110-proof-of-work-change-btc-hard-fork-bitco",
+      "localUrl": "/news/20260809-luke-dashjr-suggests-sept-1-for-bip-110-proof-of-work-change-btc-hard-fork-bitco.html"
     },
     {
       "source": "CoinDesk",
@@ -152,6 +200,17 @@
       "category": "X热点",
       "slug": "20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-",
       "localUrl": "/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨BREAKING: Bitcoin's BIP-110 soft fork OFFICIALLY FAILS after mining just two blocks. The minority chain split off at block 961,632 with just 2.53% miner support. It stalled behind the main chain almost immediately. The fork inherited Bitcoin's full 127.48 TRIL - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWUhMV0NMblpKbE91SW9UZkJvU1V0WTZaV1VkdUJUMThTZW5oVFU3X1I2U0hvek14Yk9NSEJvTW5scmkwbDdfbThqdkM0WWtlVThKTHRKaHNZY2ZDaE5IYw?oc=5\" target=\"_blank\">🚨BREAKING: Bitcoin's BIP-110 soft f…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWUhMV0NMblpKbE91SW9UZkJvU1V0WTZaV1VkdUJUMThTZW5oVFU3X1I2U0hvek14Yk9NSEJvTW5scmkwbDdfbThqdkM0WWtlVThKTHRKaHNZY2ZDaE5IYw?oc=5",
+      "publishedAt": "2026-08-09T09:40:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-breaking-bitcoins-bip-110-soft-fork-officially-fails-after-mining-just-two-block",
+      "localUrl": "/news/20260809-breaking-bitcoins-bip-110-soft-fork-officially-fails-after-mining-just-two-block.html"
     },
     {
       "source": "Cointelegraph",
@@ -395,17 +454,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 INTERVIEW: Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik. Full story: cointelegraph.com/magazine/bitco… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Td0hqbVB6YzVVbEdrNWpCR3lKSlo1QmZnbWtINmhpS0tONUpRc3RiVF9JUWptOU5LcGp2XzJVaFg2a1I5RzZWTHJUTnF3cFFaZDZrYUszWEk0OWc0UjBDVFRpOUM?oc=5\" target=\"_blank\">🔥 INTERVIEW: Crypto is growing…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Td0hqbVB6YzVVbEdrNWpCR3lKSlo1QmZnbWtINmhpS0tONUpRc3RiVF9JUWptOU5LcGp2XzJVaFg2a1I5RzZWTHJUTnF3cFFaZDZrYUszWEk0OWc0UjBDVFRpOUM?oc=5",
-      "publishedAt": "2026-08-08T14:31:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi",
-      "localUrl": "/news/20260808-interview-crypto-is-growing-up-thanks-to-trading-in-real-world-assets-and-bitcoi.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin implied volatility hits YTD low US bond yields hit YTD high This can only end one way - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5\" target=\"_blank\">Bitcoin implied volatility hits YTD low…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IZnFDNFVMWGdnR0t4SFlibG1mSGVRMnV0TExsSmhFOEN0aW1ZWE5rOTlrZ2FiN2JTREN0cXNwc0RsZXgtMTZZZFdsLU53QUVVQThMV3NXZVhkZjI1bmc?oc=5",
@@ -577,17 +625,6 @@
       "category": "市场",
       "slug": "20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d",
       "localUrl": "/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇧🇷 LATEST: Brazil will delay some crypto transfers over $10,000 to foreign firms or self-custody wallets by up to 24 hours under new anti-fraud rules taking effect next year. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BVlc0SWJSeGNFR0ZmeEd2SmN1YzJVcDVXWjFOVWpacGxNRUVDY2pHRUJTbXZ0TWpLSktKTFZpUXc1QkxsUE5fN2FmUEVaM3F3d1FTb0tWa0IzWnRmZ2NDbWVMSVU?oc=5\" target=\"_blank\">🇧🇷 LATEST: Brazil will delay …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BVlc0SWJSeGNFR0ZmeEd2SmN1YzJVcDVXWjFOVWpacGxNRUVDY2pHRUJTbXZ0TWpLSktKTFZpUXc1QkxsUE5fN2FmUEVaM3F3d1FTb0tWa0IzWnRmZ2NDbWVMSVU?oc=5",
-      "publishedAt": "2026-08-07T22:38:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se",
-      "localUrl": "/news/20260807-latest-brazil-will-delay-some-crypto-transfers-over-10000-to-foreign-firms-or-se.html"
     },
     {
       "source": "Cointelegraph",
@@ -921,17 +958,6 @@
       "localUrl": "/news/20260807-tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares.html"
     },
     {
-      "source": "X Wire",
-      "title": "1/ Privacy is often thought of as politically risky. In this guest thread by @valkenburgh, Executive Director of @coincenter, he makes the case, in his own words, that the reality is the opposite: Privacy is essential to Ethereum’s promise of financial freedom and n - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5\" target=\"_blank\">1/ Privacy is often thought of as polit…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kbjlOZkhfZUVLbzIyTzlQLXhrQUNrYzBZTUpLanBzVmNUMnp1MFk0WHZpNkU4NlJwWVNhcWRuOVBsSHRlOER6Rno2NEloSk52S3VCeGhtekpzN2ljR3c?oc=5",
-      "publishedAt": "2026-08-07T13:10:23.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke",
-      "localUrl": "/news/20260807-1-privacy-is-often-thought-of-as-politically-risky-in-this-guest-thread-by-valke.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
       "summary": "Dice entropy may become the new gold standard after the Coldcard hack",
@@ -956,32 +982,6 @@
       "category": "综合",
       "slug": "20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
       "localUrl": "/news/20260807-chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
-      "summary": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
-      "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T12:28:41.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260807-russia-cracks-down-on-9-crypto-exchanges-in-moscow-city",
-      "localUrl": "/news/20260807-russia-cracks-down-on-9-crypto-exchanges-in-moscow-city.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-      "summary": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
-      "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T12:13:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260807-cex-perpetual-futures-volume-falls-to-4t-lowest-since-late-2023",
-      "localUrl": "/news/20260807-cex-perpetual-futures-volume-falls-to-4t-lowest-since-late-2023.html"
     },
     {
       "source": "Decrypt",
