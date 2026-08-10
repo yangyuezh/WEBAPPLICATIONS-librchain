@@ -1,7 +1,113 @@
 {
-  "updatedAt": "2026-08-10T08:48:37.365Z",
+  "updatedAt": "2026-08-10T10:34:05.240Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030",
+      "summary": "The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.",
+      "url": "https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
+      "publishedAt": "2026-08-10T10:19:06.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "DeFi",
+      "slug": "20260810-standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030",
+      "localUrl": "/news/20260810-standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal",
+      "summary": "Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after completing an acquisition involving 2,455 BTC.",
+      "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T10:14:30.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260810-h100-becomes-europes-no-2-bitcoin-treasury-after-2455-btc-deal",
+      "localUrl": "/news/20260810-h100-becomes-europes-no-2-bitcoin-treasury-after-2455-btc-deal.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin volatility is in meltdown, but downside protection still commands a premium",
+      "summary": "Bitcoin’s BVIV volatility index hit the lowest level since 2025 as option demand collapsed. Still, overwriting surged and downside protection stayed pricey.",
+      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium",
+      "publishedAt": "2026-08-10T10:13:58.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260810-bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premi",
+      "localUrl": "/news/20260810-bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premi.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The future of markets isn't TradFi or crypto. It's both. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5\" target=\"_blank\">The future of markets isn't TradFi…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5",
+      "publishedAt": "2026-08-10T09:20:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom",
+      "localUrl": "/news/20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
+      "summary": "CME leveraged funds turn net long as weak futures yields undermine the once-popular basis trade.",
+      "url": "https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+      "publishedAt": "2026-08-10T09:09:32.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260810-a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
+      "localUrl": "/news/20260810-a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
+      "summary": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
+      "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
+      "publishedAt": "2026-08-10T09:04:00.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets",
+      "localUrl": "/news/20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
+      "summary": "Your look at what's coming in the week starting Aug. 10",
+      "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
+      "publishedAt": "2026-08-10T08:57:04.000Z",
+      "keywords": [
+        "Markets",
+        "week ahead",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260810-us-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
+      "localUrl": "/news/20260810-us-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 NEW: Hedge funds on CME have flipped net long Bitcoin futures, a rare shift after years of short positions, per CryptoQuant CEO. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q3dMbUhKWTgtZ3ZlcmdxX3JnYlo0U1VOd3plQjZhT1NQOHVzVnhReVFTY29ybkNCeTA1NkRZUjluX1hpaG5qY2FMMWlHbGVycEk3YWZfdkJuOFRMbmxvb1F1blk?oc=5\" target=\"_blank\">🔥 NEW: Hedge funds on CME have…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q3dMbUhKWTgtZ3ZlcmdxX3JnYlo0U1VOd3plQjZhT1NQOHVzVnhReVFTY29ybkNCeTA1NkRZUjluX1hpaG5qY2FMMWlHbGVycEk3YWZfdkJuOFRMbmxvb1F1blk?oc=5",
+      "publishedAt": "2026-08-10T08:05:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-",
+      "localUrl": "/news/20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
@@ -47,6 +153,17 @@
       "localUrl": "/news/20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app.html"
     },
     {
+      "source": "X Wire",
+      "title": "Bitcoin–gold correlation is back to digital-gold-era levels. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOXNXdDZYZkxVX21rYmx2TXFNX3duamI4UFg5eWJySGxUYmVJSWEzSEZxaThxMllIaUxJU2tYVXhodE1udVc0alVQX3VCdEVJajYxRUVyWjNlMC0yVmx2SHh3?oc=5\" target=\"_blank\">Bitcoin–gold correlation is back t…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOXNXdDZYZkxVX21rYmx2TXFNX3duamI4UFg5eWJySGxUYmVJSWEzSEZxaThxMllIaUxJU2tYVXhodE1udVc0alVQX3VCdEVJajYxRUVyWjNlMC0yVmx2SHh3?oc=5",
+      "publishedAt": "2026-08-10T06:57:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom",
+      "localUrl": "/news/20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
       "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
@@ -60,6 +177,17 @@
       "category": "监管",
       "slug": "20260810-live-updates-btc-above-65000-even-as-the-senate-punts-the-clarity-act-to-the-fal",
       "localUrl": "/news/20260810-live-updates-btc-above-65000-even-as-the-senate-punts-the-clarity-act-to-the-fal.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Just In: UMX (The Unified Market Exchange), incubated by Li Lin's Avenir Group, has launched its invitation-only public beta today. UMX positions itself as a “crypto-friendly securities platform,” planning to offer both crypto asset trading and real US stocks onto - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IWUFNZ0Y1QUZ5dFRmZkFNaXpXVWhTdUxTVUV4elAyWDBaNHFzTklYbTQ1UlNKS0cwODl0SmtNZnpaQ0dPSEVodFVTLWJ5LUdDVHVWczFobmRCa3NELXV1dUJsbw?oc=5\" target=\"_blank\">Just In: UMX (The Unified Market…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IWUFNZ0Y1QUZ5dFRmZkFNaXpXVWhTdUxTVUV4elAyWDBaNHFzTklYbTQ1UlNKS0cwODl0SmtNZnpaQ0dPSEVodFVTLWJ5LUdDVHVWczFobmRCa3NELXV1dUJsbw?oc=5",
+      "publishedAt": "2026-08-10T06:53:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-just-in-umx-the-unified-market-exchange-incubated-by-li-lins-avenir-group-has-la",
+      "localUrl": "/news/20260810-just-in-umx-the-unified-market-exchange-incubated-by-li-lins-avenir-group-has-la.html"
     },
     {
       "source": "X Wire",
@@ -228,14 +356,25 @@
     },
     {
       "source": "X Wire",
-      "title": "The future of markets isn't TradFi or crypto. It's both. With ~60% of TradFi perpetuals volume trading on Binance, users are increasingly choosing crypto rails to access traditional financial markets. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTRllvclB3c0JrNl8zMXg4T0huWmRRNjcweS0zRnV5NkQwaHliOFpsZjN5RkRLbWdiUXkxV0gtVVNVc1pKcHRqYXlkNF8yWWtsME5MRUZNQ0t0RWY1?oc=5\" target=\"_blank\">The future of markets isn't TradFi or cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTRllvclB3c0JrNl8zMXg4T0huWmRRNjcweS0zRnV5NkQwaHliOFpsZjN5RkRLbWdiUXkxV0gtVVNVc1pKcHRqYXlkNF8yWWtsME5MRUZNQ0t0RWY1?oc=5",
-      "publishedAt": "2026-08-09T21:00:33.000Z",
+      "title": "🚨 QUESTION: This is Bitcoin's best Q3 since 2021. Will it hold? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eWxNOFNrUkhzWHUxUmxNdVhBSFlETEtXV2xlYjRfd3I4QmtWR01nbkdWcC1pVlh0aDdDQWdwVGZSQWlpb1pobk43UHdjb1V6eEF6OEhqelY3X3Q2a2lEWG8wQkc?oc=5\" target=\"_blank\">🚨 QUESTION: This is Bitcoin's …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eWxNOFNrUkhzWHUxUmxNdVhBSFlETEtXV2xlYjRfd3I4QmtWR01nbkdWcC1pVlh0aDdDQWdwVGZSQWlpb1pobk43UHdjb1V6eEF6OEhqelY3X3Q2a2lEWG8wQkc?oc=5",
+      "publishedAt": "2026-08-09T22:31:00.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260809-the-future-of-markets-isnt-tradfi-or-crypto-its-both-with-60-of-tradfi-perpetual",
-      "localUrl": "/news/20260809-the-future-of-markets-isnt-tradfi-or-crypto-its-both-with-60-of-tradfi-perpetual.html"
+      "slug": "20260809-question-this-is-bitcoins-best-q3-since-2021-will-it-hold-xcom",
+      "localUrl": "/news/20260809-question-this-is-bitcoins-best-q3-since-2021-will-it-hold-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto payment cards remain a small market next to traditional card networks, which process trillions of dollars per month. But the trend is growing as stablecoins make greater inroads into the global financial system, including by piggybacking on existing majo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zU1BaX09pV2J2QUZZVzlEdjh6bmpiZEhlUVdYeHBSVjN1aVN6Q1FjMUp0cllqYmNrRVNaWDM5RzVMTFBCNEtxNncxNmpKcy1QN01ZaFJZSWN4dWlsNUNiMQ?oc=5\" target=\"_blank\">Crypto payment cards remain a small …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zU1BaX09pV2J2QUZZVzlEdjh6bmpiZEhlUVdYeHBSVjN1aVN6Q1FjMUp0cllqYmNrRVNaWDM5RzVMTFBCNEtxNncxNmpKcy1QN01ZaFJZSWN4dWlsNUNiMQ?oc=5",
+      "publishedAt": "2026-08-09T20:07:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-crypto-payment-cards-remain-a-small-market-next-to-traditional-card-networks-whi",
+      "localUrl": "/news/20260809-crypto-payment-cards-remain-a-small-market-next-to-traditional-card-networks-whi.html"
     },
     {
       "source": "Decrypt",
@@ -265,28 +404,6 @@
       "category": "监管",
       "slug": "20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto",
       "localUrl": "/news/20260809-is-claritys-delay-a-blessing-in-disguise-state-of-crypto.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#BTC As the Weekly Close approaches, Bitcoin is trying to press even more against the Lower High resistance (black) Generally, Bitcoin would need to Weekly Close above the blue level and successfully retest it as support to rally higher from here Because s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EWmFLVUFVd1BlMXQ0Qnk3eVQyQUdaNXp0bmRHU293UlNWMDlydDhFcTN0M0tRX2t4ZG9Fa21COFFqMnZZMVNGUHUwaXlpR3BkVW9GcG5vRDJhdGRsMzFMaXdB?oc=5\" target=\"_blank\">#BTC As the Weekly Close approache…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EWmFLVUFVd1BlMXQ0Qnk3eVQyQUdaNXp0bmRHU293UlNWMDlydDhFcTN0M0tRX2t4ZG9Fa21COFFqMnZZMVNGUHUwaXlpR3BkVW9GcG5vRDJhdGRsMzFMaXdB?oc=5",
-      "publishedAt": "2026-08-09T17:21:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-btc-as-the-weekly-close-approaches-bitcoin-is-trying-to-press-even-more-against-",
-      "localUrl": "/news/20260809-btc-as-the-weekly-close-approaches-bitcoin-is-trying-to-press-even-more-against-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto doesn't get enough credit for the financial access it's already unlocked for the world. - Stablecoins brought the dollar onchain. Anyone, anywhere can own a low inflation currency, and send it 24/7 for a fraction of a cent. - DeFi gives anyone access to cre - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56czR0cFd1cHZYX3pMVkJyTXNJT3llcXdXWUlRejdkbXJ0ZWliUlhTWUl5R2FBOGdfanFxQ29TOXljYzBpZXNRN1lQbzBGMmV0cU4zR0p6OFdLVEo0YU9VYlh2QnZuTWM?oc=5\" target=\"_blank\">Crypto doesn't get enough c…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56czR0cFd1cHZYX3pMVkJyTXNJT3llcXdXWUlRejdkbXJ0ZWliUlhTWUl5R2FBOGdfanFxQ29TOXljYzBpZXNRN1lQbzBGMmV0cU4zR0p6OFdLVEo0YU9VYlh2QnZuTWM?oc=5",
-      "publishedAt": "2026-08-09T15:27:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-crypto-doesnt-get-enough-credit-for-the-financial-access-its-already-unlocked-fo",
-      "localUrl": "/news/20260809-crypto-doesnt-get-enough-credit-for-the-financial-access-its-already-unlocked-fo.html"
     },
     {
       "source": "CoinDesk",
@@ -340,6 +457,17 @@
       "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-buying-more-bitcoin-doing-usiness-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5",
+      "publishedAt": "2026-08-09T13:02:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
+      "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
       "summary": "An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.",
@@ -376,17 +504,6 @@
       "category": "市场",
       "slug": "20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens",
       "localUrl": "/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Saylor Says BIP-110 Fork Has Just 0.15% of Bitcoin Hashpower Michael Saylor said about 99.85% of Bitcoin’s hashpower remained on the main chain after the BIP-110 fork, while the minority branch mined only two blocks and fell more than 80 blocks behind. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5\" target=\"_blank\">Saylor Says BIP-110 Fork Has Jus…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YekRkQUI4T3pmUk90Yk9RNFZMZHFEVGpRVy1HSjk3a3VxSWlwb1V2a0tjTlp3T3U3UTNtX1JDRzlVaHNFcm9YaUpzVVFzaEZOWmtGTDNYbmNJZnFyV3dLSzJSUQ?oc=5",
-      "publishedAt": "2026-08-09T10:15:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a",
-      "localUrl": "/news/20260809-saylor-says-bip-110-fork-has-just-015-of-bitcoin-hashpower-michael-saylor-said-a.html"
     },
     {
       "source": "X Wire",
@@ -474,17 +591,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Grayscale: CLARITY Act Unlikely to Pass This Year, but Crypto Can Still Move Forward Grayscale Head of Research Zach Pandl said the chances of the CLARITY Act passing this year now appear low due to the Senate calendar and election-year politics. He - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdmVubXZSVEtReUgzVmVxQWtxbFlFVV9VSXJ6elR2X3BNZU5RTWRpa0xveHJhcEsyeFhfeUhDaWVtRGQ4Q0ItUjVDRjZCV1VzcWNkOEJoLVViZ2U4OHJJeTdvZw?oc=5\" target=\"_blank\">Grayscale: CLARITY Act Unlikely …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzdmVubXZSVEtReUgzVmVxQWtxbFlFVV9VSXJ6elR2X3BNZU5RTWRpa0xveHJhcEsyeFhfeUhDaWVtRGQ4Q0ItUjVDRjZCV1VzcWNkOEJoLVViZ2U4OHJJeTdvZw?oc=5",
-      "publishedAt": "2026-08-09T03:49:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-grayscale-clarity-act-unlikely-to-pass-this-year-but-crypto-can-still-move-forwa",
-      "localUrl": "/news/20260809-grayscale-clarity-act-unlikely-to-pass-this-year-but-crypto-can-still-move-forwa.html"
-    },
-    {
-      "source": "X Wire",
       "title": "⚡ UPDATE: Crypto is the worst performing asset of 2026 when compared to assets like gold, silver, Nasdaq and the Russell 2000. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5\" target=\"_blank\">⚡ UPDATE: Crypto is the worst p…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSEhwSkFudWZtMVFTcVpUdlVFOFBobS12M2RSYlAxTld5MXpLNERYdEo2NDBJa3NsOEMtMTNJR25XSG9JdUhmV19NZVdYYlZUQzdBcll3T2pMQmM0SEhVVzBYUFk?oc=5",
@@ -506,17 +612,6 @@
       "category": "市场",
       "slug": "20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3",
       "localUrl": "/news/20260808-bitcoins-bip-110-enters-mandatory-signaling-with-miner-support-below-3.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "In early 2024, crypto card spending was concentrated in a single chain: Gnosis, home of Gnosis Pay (the first Visa card connected directly to a self-custodial wallet). As new card programs have launched, the number of card settlement chains has expanded. As - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE15S1lfSVR2cDRmal84S0k5eDlZbEdFSFBHbTZsRDEyZGRSWGVvUGpiU3NzZmpzaUJFX3Z4TW95RXB3T05md01LZGxDUWVJeWRaWlJROGxYR2FlOEQ5WnQ0bg?oc=5\" target=\"_blank\">In early 2024, crypto card spending …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15S1lfSVR2cDRmal84S0k5eDlZbEdFSFBHbTZsRDEyZGRSWGVvUGpiU3NzZmpzaUJFX3Z4TW95RXB3T05md01LZGxDUWVJeWRaWlJROGxYR2FlOEQ5WnQ0bg?oc=5",
-      "publishedAt": "2026-08-08T20:37:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260808-in-early-2024-crypto-card-spending-was-concentrated-in-a-single-chain-gnosis-hom",
-      "localUrl": "/news/20260808-in-early-2024-crypto-card-spending-was-concentrated-in-a-single-chain-gnosis-hom.html"
     },
     {
       "source": "CoinDesk",
@@ -700,20 +795,6 @@
       "localUrl": "/news/20260808-us-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-n.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-      "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
-      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-      "publishedAt": "2026-08-08T07:46:04.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260808-another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment",
-      "localUrl": "/news/20260808-another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
       "summary": "IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
@@ -740,45 +821,17 @@
       "localUrl": "/news/20260808-us-court-backs-bybits-bid-to-trace-funds-from-15b-north-korea-hack.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
-      "summary": "A new XRPL amendment proposal would let institutions encrypt token balances and transfer amounts while still giving issuers, auditors and regulators selective access.",
-      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-      "publishedAt": "2026-08-08T03:30:00.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets",
-      "localUrl": "/news/20260808-new-xrp-ledger-amendments-target-530-million-in-tokenized-wall-street-assets.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "summary": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
-      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-      "publishedAt": "2026-08-08T02:30:00.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d",
-      "localUrl": "/news/20260808-bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d.html"
-    },
-    {
       "source": "Cointelegraph",
-      "title": "Donald Trump’s media company to terminate Crypto.com deal",
-      "summary": "The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
+      "title": "President Trump’s media company to terminate Crypto.com deal",
+      "summary": "The company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
       "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-07T21:39:36.000Z",
       "keywords": [
         "Latest News"
       ],
       "category": "RWA",
-      "slug": "20260807-donald-trumps-media-company-to-terminate-cryptocom-deal",
-      "localUrl": "/news/20260807-donald-trumps-media-company-to-terminate-cryptocom-deal.html"
+      "slug": "20260807-president-trumps-media-company-to-terminate-cryptocom-deal",
+      "localUrl": "/news/20260807-president-trumps-media-company-to-terminate-cryptocom-deal.html"
     },
     {
       "source": "Decrypt",
@@ -805,17 +858,6 @@
       "category": "监管",
       "slug": "20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran",
       "localUrl": "/news/20260807-treasury-sanctions-crypto-exchanges-it-says-laundered-millions-for-iran.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOYlJGc3UwRGJfY1ozdTFDakE2LXBhYUFJY3ZVeFVOWnZPMTRKZlB0Ri0wSUtWSlVtMk1ZVzR6M1g1YUxyTUJ0OUE5dXVFRlZkbXU1aTkxX2RWSHBHaGVmMQ?oc=5\" target=\"_blank\">Stablecoins are increasingly being s…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOYlJGc3UwRGJfY1ozdTFDakE2LXBhYUFJY3ZVeFVOWnZPMTRKZlB0Ri0wSUtWSlVtMk1ZVzR6M1g1YUxyTUJ0OUE5dXVFRlZkbXU1aTkxX2RWSHBHaGVmMQ?oc=5",
-      "publishedAt": "2026-08-07T20:15:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260807-stablecoins-are-increasingly-being-spent-by-card-swipe-crypto-payment-cards-have",
-      "localUrl": "/news/20260807-stablecoins-are-increasingly-being-spent-by-card-swipe-crypto-payment-cards-have.html"
     },
     {
       "source": "Cointelegraph",
@@ -881,19 +923,6 @@
       "category": "市场",
       "slug": "20260807-xrp-at-a-crossroads-as-senate-punts-on-clarity-act",
       "localUrl": "/news/20260807-xrp-at-a-crossroads-as-senate-punts-on-clarity-act.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
-      "summary": "As the chairman of the Reform UK calls for an investigation into a FTX-linked political donation, the party’s leader prepares to face voters amid his own crypto-related scandal.",
-      "url": "https://cointelegraph.com/news/reform-uk-probe-ftx-sam-bankman-fried-donation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-07T17:03:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260807-reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report",
-      "localUrl": "/news/20260807-reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report.html"
     },
     {
       "source": "Decrypt",
@@ -1012,32 +1041,6 @@
       "category": "监管",
       "slug": "20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
       "localUrl": "/news/20260807-senate-punts-clarity-act-vote-to-september-as-democrats-hold-out.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
-      "summary": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
-      "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
-      "publishedAt": "2026-08-06T21:36:03.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant",
-      "localUrl": "/news/20260806-sec-bought-a-billion-airline-records-to-track-travelerslikely-without-a-warrant.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
-      "summary": "Tokyo has asked Washington to stop meme-posting Mario, Pokémon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-      "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
-      "publishedAt": "2026-08-06T21:01:03.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260806-tokyo-tells-trump-to-stop-meme-ing-mario",
-      "localUrl": "/news/20260806-tokyo-tells-trump-to-stop-meme-ing-mario.html"
     },
     {
       "source": "Solana Blog",
