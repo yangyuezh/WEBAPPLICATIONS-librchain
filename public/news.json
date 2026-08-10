@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-10T20:57:46.728Z",
-  "total": 81,
+  "updatedAt": "2026-08-10T21:54:56.381Z",
+  "total": 61,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+      "summary": "Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
+      "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+      "publishedAt": "2026-08-10T21:48:22.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai",
+      "localUrl": "/news/20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media’s bitcoin holdings shrink as crypto losses hit $361 million",
+      "summary": "The Truth Social parent held 9,477 BTC worth $557 million at the end of June, while its Cronos position also suffered a steep drop in value.",
+      "url": "https://www.coindesk.com/business/2026/08/10/trump-media-s-bitcoin-holdings-shrink-as-crypto-losses-hit-usd361-million",
+      "publishedAt": "2026-08-10T21:12:07.000Z",
+      "keywords": [
+        "Finance",
+        "Trump",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260810-trump-medias-bitcoin-holdings-shrink-as-crypto-losses-hit-361-million",
+      "localUrl": "/news/20260810-trump-medias-bitcoin-holdings-shrink-as-crypto-losses-hit-361-million.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+      "summary": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
+      "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+      "publishedAt": "2026-08-10T21:02:43.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown",
+      "localUrl": "/news/20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
+      "summary": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
+      "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T20:50:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-judge-stays-cftcs-case-against-us-soldier-over-prediction-market-bets",
+      "localUrl": "/news/20260810-judge-stays-cftcs-case-against-us-soldier-over-prediction-market-bets.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
@@ -177,17 +232,6 @@
       "localUrl": "/news/20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote.html"
     },
     {
-      "source": "X Wire",
-      "title": "When gold initially broke out, Bitcoin broke down. When gold corrected, that's when Bitcoin bounced. Now that the gold correction is over, and gold is back in rally mode, Bitcoin has resumed its decline. Bitcoin is anti-gold. The more gold goes up, the more Bitc - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVnR4NGdTcmRqYjMtYWNjbnNUSWk3OV9nU1Baempfa213MXJmalRFUExGQ0dCdVhPdUFLcVhZVmlWalFCb1doMU9zUXZ5VzRXQ1EzMkNZbDNEUEg2SXRjNDFB?oc=5\" target=\"_blank\">When gold initially broke out, Bit…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVnR4NGdTcmRqYjMtYWNjbnNUSWk3OV9nU1Baempfa213MXJmalRFUExGQ0dCdVhPdUFLcVhZVmlWalFCb1doMU9zUXZ5VzRXQ1EzMkNZbDNEUEg2SXRjNDFB?oc=5",
-      "publishedAt": "2026-08-10T16:27:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-when-gold-initially-broke-out-bitcoin-broke-down-when-gold-corrected-thats-when-",
-      "localUrl": "/news/20260810-when-gold-initially-broke-out-bitcoin-broke-down-when-gold-corrected-thats-when-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
       "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
@@ -283,28 +327,6 @@
       "localUrl": "/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html"
     },
     {
-      "source": "X Wire",
-      "title": "⚡️ JUST IN: Vitalik Buterin unveils Ethereum’s updated roadmap, prioritizing quantum safety, privacy, native rollups, scalability and a leaner protocol. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5\" target=\"_blank\">⚡️ JUST IN: Vitalik Buterin unv…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5",
-      "publishedAt": "2026-08-10T14:55:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s",
-      "localUrl": "/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I updated my 2023 roadmap diagram to overlay where the items that were there sit in the current Strawmap ( strawmap.org ). In general, a lot of overlap, but: * Some things got reshuffled in order (eg. quantum safety up-prioritized) * Some things deprioritized (e - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5\" target=\"_blank\">I updated my 2023 roadmap di…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5",
-      "publishedAt": "2026-08-10T14:39:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit",
-      "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
       "summary": "The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.",
@@ -349,17 +371,6 @@
       "category": "基础设施",
       "slug": "20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks",
       "localUrl": "/news/20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Last week, we completed a major engineering milestone. Crypto markets operate 24/7, making the maintenance and migration of core trading infrastructure exceptionally challenging. Despite this, our team successfully migrated our high-traffic core trading syst - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5\" target=\"_blank\">Last week, we completed a major enginee…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5",
-      "publishedAt": "2026-08-10T13:32:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-",
-      "localUrl": "/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html"
     },
     {
       "source": "CoinDesk",
@@ -588,39 +599,6 @@
       "localUrl": "/news/20260810-bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premi.html"
     },
     {
-      "source": "X Wire",
-      "title": "🔥 LATEST: Bitcoin miner MARA sold 23,093 $BTC for $1.6B in the first half of 2026. The company still holds 35,577 BTC worth roughly $2.3B. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MdGxpV3FCVWh3R3RRX1BieXNyLWtTVDhnZDhaVkt2TUZKcENJaW5XLXM5MUtPQ21WSFdrZlFBbHR5R3BnUEFpVkQxSy1TZjhkWG9tX2cyNzJIR1puMXRTSW85b2E?oc=5\" target=\"_blank\">🔥 LATEST: Bitcoin miner MARA s…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MdGxpV3FCVWh3R3RRX1BieXNyLWtTVDhnZDhaVkt2TUZKcENJaW5XLXM5MUtPQ21WSFdrZlFBbHR5R3BnUEFpVkQxSy1TZjhkWG9tX2cyNzJIR1puMXRTSW85b2E?oc=5",
-      "publishedAt": "2026-08-10T09:40:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-latest-bitcoin-miner-mara-sold-23093-btc-for-16b-in-the-first-half-of-2026-the-c",
-      "localUrl": "/news/20260810-latest-bitcoin-miner-mara-sold-23093-btc-for-16b-in-the-first-half-of-2026-the-c.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "THE BLOCK: Standard Chartered set a $200 price target on Chainlink's ethereum:0x514910771af9ca656af840dff83e8264ecf986ca for end-2030 in its first coverage of the token, a roughly 25x gain from about $8 today. The bank argues the tokenization boom - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMVp0X0NnMDMwT29xWWRTNkd2RHBycDNtbVpGcmlkckJsal9KTnZsaEVQVHY1cVpxOGxfdTNQS21Ua052aTMta2MyQ0xOZmtMRElVUTdsMGc3YVRoU2VfSg?oc=5\" target=\"_blank\">THE BLOCK: Standard Chartered set a …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMVp0X0NnMDMwT29xWWRTNkd2RHBycDNtbVpGcmlkckJsal9KTnZsaEVQVHY1cVpxOGxfdTNQS21Ua052aTMta2MyQ0xOZmtMRElVUTdsMGc3YVRoU2VfSg?oc=5",
-      "publishedAt": "2026-08-10T09:38:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-the-block-standard-chartered-set-a-200-price-target-on-chainlinks-ethereum0x5149",
-      "localUrl": "/news/20260810-the-block-standard-chartered-set-a-200-price-target-on-chainlinks-ethereum0x5149.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The future of markets isn't TradFi or crypto. It's both. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5\" target=\"_blank\">The future of markets isn't TradFi…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5",
-      "publishedAt": "2026-08-10T09:20:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom",
-      "localUrl": "/news/20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally",
       "summary": "CME leveraged funds turn net long as weak futures yields undermine the once-popular basis trade.",
@@ -634,17 +612,6 @@
       "category": "DeFi",
       "slug": "20260810-a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally",
       "localUrl": "/news/20260810-a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH U.S.-listed Bitcoin ETFs attracted more than $850 million last week, their strongest inflows since April, following a $130 million Coldcard wallet hack. The breach exposed vulnerabilities in hardware-based self- - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5\" target=\"_blank\">BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5",
-      "publishedAt": "2026-08-10T09:07:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th",
-      "localUrl": "/news/20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th.html"
     },
     {
       "source": "Decrypt",
@@ -675,28 +642,6 @@
       "localUrl": "/news/20260810-us-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead.html"
     },
     {
-      "source": "X Wire",
-      "title": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5\" target=\"_blank\">“Bitcoin is economic freedom for generation…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5",
-      "publishedAt": "2026-08-10T08:33:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom",
-      "localUrl": "/news/20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 NEW: Hedge funds on CME have flipped net long Bitcoin futures, a rare shift after years of short positions, per CryptoQuant CEO. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q3dMbUhKWTgtZ3ZlcmdxX3JnYlo0U1VOd3plQjZhT1NQOHVzVnhReVFTY29ybkNCeTA1NkRZUjluX1hpaG5qY2FMMWlHbGVycEk3YWZfdkJuOFRMbmxvb1F1blk?oc=5\" target=\"_blank\">🔥 NEW: Hedge funds on CME have…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Q3dMbUhKWTgtZ3ZlcmdxX3JnYlo0U1VOd3plQjZhT1NQOHVzVnhReVFTY29ybkNCeTA1NkRZUjluX1hpaG5qY2FMMWlHbGVycEk3YWZfdkJuOFRMbmxvb1F1blk?oc=5",
-      "publishedAt": "2026-08-10T08:05:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-",
-      "localUrl": "/news/20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
       "summary": "Early BVNK investor Concentric shares a fascinating inside view on the stablecoin startup’s journey and the eventual Mastercard deal.",
@@ -709,17 +654,6 @@
       "category": "综合",
       "slug": "20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard",
       "localUrl": "/news/20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇬🇧 JUST IN: Robinhood launches crypto trading in the UK. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWGpZYjNNaXBXOURSRjlRUUE4aGlsT3E3TWx6cjlCbDJQQ2p1UzQwNktfYkh5MzZoZGVuaUI5RmZxZ0tCeHlrY1VSaDVmeW1fbFpRMzVLOE5JcHJQYWVic05iQXM?oc=5\" target=\"_blank\">🇬🇧 JUST IN: Robinhood launche…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWGpZYjNNaXBXOURSRjlRUUE4aGlsT3E3TWx6cjlCbDJQQ2p1UzQwNktfYkh5MzZoZGVuaUI5RmZxZ0tCeHlrY1VSaDVmeW1fbFpRMzVLOE5JcHJQYWVic05iQXM?oc=5",
-      "publishedAt": "2026-08-10T07:49:55.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-just-in-robinhood-launches-crypto-trading-in-the-uk-xcom",
-      "localUrl": "/news/20260810-just-in-robinhood-launches-crypto-trading-in-the-uk-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -752,17 +686,6 @@
       "localUrl": "/news/20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin–gold correlation is back to digital-gold-era levels. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOXNXdDZYZkxVX21rYmx2TXFNX3duamI4UFg5eWJySGxUYmVJSWEzSEZxaThxMllIaUxJU2tYVXhodE1udVc0alVQX3VCdEVJajYxRUVyWjNlMC0yVmx2SHh3?oc=5\" target=\"_blank\">Bitcoin–gold correlation is back t…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOXNXdDZYZkxVX21rYmx2TXFNX3duamI4UFg5eWJySGxUYmVJSWEzSEZxaThxMllIaUxJU2tYVXhodE1udVc0alVQX3VCdEVJajYxRUVyWjNlMC0yVmx2SHh3?oc=5",
-      "publishedAt": "2026-08-10T06:57:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom",
-      "localUrl": "/news/20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
       "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
@@ -776,39 +699,6 @@
       "category": "监管",
       "slug": "20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000",
       "localUrl": "/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Just In: UMX (The Unified Market Exchange), incubated by Li Lin's Avenir Group, has launched its invitation-only public beta today. UMX positions itself as a “crypto-friendly securities platform,” planning to offer both crypto asset trading and real US stocks onto - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IWUFNZ0Y1QUZ5dFRmZkFNaXpXVWhTdUxTVUV4elAyWDBaNHFzTklYbTQ1UlNKS0cwODl0SmtNZnpaQ0dPSEVodFVTLWJ5LUdDVHVWczFobmRCa3NELXV1dUJsbw?oc=5\" target=\"_blank\">Just In: UMX (The Unified Market…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IWUFNZ0Y1QUZ5dFRmZkFNaXpXVWhTdUxTVUV4elAyWDBaNHFzTklYbTQ1UlNKS0cwODl0SmtNZnpaQ0dPSEVodFVTLWJ5LUdDVHVWczFobmRCa3NELXV1dUJsbw?oc=5",
-      "publishedAt": "2026-08-10T06:53:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-just-in-umx-the-unified-market-exchange-incubated-by-li-lins-avenir-group-has-la",
-      "localUrl": "/news/20260810-just-in-umx-the-unified-market-exchange-incubated-by-li-lins-avenir-group-has-la.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Fantom Backer and Quantum Fintech Founder Harry Yeh Dies After Naked Fall from Paraguay Tower, Claimed to Manage Over $2B Fantom ecosystem figure and Quantum Fintech Group founder Harry Yeh died after falling from the 30th floor of a luxury apart - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMmw3ZmVqc1pyNVFIUmhhNmZaUTlGZXlFeWp3VTVFWVNneHEyNjljYjNrQTlhaDZPMjU2Tl9wNmRLdk9vSm0xc3FfVnlxR3BFeDJGd2doOHpCQTNnM0pTczczMA?oc=5\" target=\"_blank\">Fantom Backer and Quantum Fintec…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMmw3ZmVqc1pyNVFIUmhhNmZaUTlGZXlFeWp3VTVFWVNneHEyNjljYjNrQTlhaDZPMjU2Tl9wNmRLdk9vSm0xc3FfVnlxR3BFeDJGd2doOHpCQTNnM0pTczczMA?oc=5",
-      "publishedAt": "2026-08-10T06:46:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-fantom-backer-and-quantum-fintech-founder-harry-yeh-dies-after-naked-fall-from-p",
-      "localUrl": "/news/20260810-fantom-backer-and-quantum-fintech-founder-harry-yeh-dies-after-naked-fall-from-p.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "H100 acquires 2,455.4 Bitcoin at approx. USD 62,900 per Bitcoin, increasing total holdings to 3,506 BTC. The transaction, announced in April, has now been completed: - Largest M&A transaction in the European Public Bitcoin Equity sector - World's first Bitcoi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5\" target=\"_blank\">H100 acquires 2,455.4 Bitcoin at appro…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5",
-      "publishedAt": "2026-08-10T06:45:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol",
-      "localUrl": "/news/20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol.html"
     },
     {
       "source": "Cointelegraph",
@@ -878,21 +768,6 @@
       "localUrl": "/news/20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-      "summary": "The token fell 5% last week while BTC, ETH and SOL climbed.",
-      "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-      "publishedAt": "2026-08-10T04:26:01.000Z",
-      "keywords": [
-        "Markets",
-        "XRP News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260810-xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-inv",
-      "localUrl": "/news/20260810-xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-inv.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
       "summary": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
@@ -932,28 +807,6 @@
       "localUrl": "/news/20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 QUESTION: This is Bitcoin's best Q3 since 2021. Will it hold? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eWxNOFNrUkhzWHUxUmxNdVhBSFlETEtXV2xlYjRfd3I4QmtWR01nbkdWcC1pVlh0aDdDQWdwVGZSQWlpb1pobk43UHdjb1V6eEF6OEhqelY3X3Q2a2lEWG8wQkc?oc=5\" target=\"_blank\">🚨 QUESTION: This is Bitcoin's …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eWxNOFNrUkhzWHUxUmxNdVhBSFlETEtXV2xlYjRfd3I4QmtWR01nbkdWcC1pVlh0aDdDQWdwVGZSQWlpb1pobk43UHdjb1V6eEF6OEhqelY3X3Q2a2lEWG8wQkc?oc=5",
-      "publishedAt": "2026-08-09T22:31:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-question-this-is-bitcoins-best-q3-since-2021-will-it-hold-xcom",
-      "localUrl": "/news/20260809-question-this-is-bitcoins-best-q3-since-2021-will-it-hold-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto payment cards remain a small market next to traditional card networks, which process trillions of dollars per month. But the trend is growing as stablecoins make greater inroads into the global financial system, including by piggybacking on existing majo - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zU1BaX09pV2J2QUZZVzlEdjh6bmpiZEhlUVdYeHBSVjN1aVN6Q1FjMUp0cllqYmNrRVNaWDM5RzVMTFBCNEtxNncxNmpKcy1QN01ZaFJZSWN4dWlsNUNiMQ?oc=5\" target=\"_blank\">Crypto payment cards remain a small …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zU1BaX09pV2J2QUZZVzlEdjh6bmpiZEhlUVdYeHBSVjN1aVN6Q1FjMUp0cllqYmNrRVNaWDM5RzVMTFBCNEtxNncxNmpKcy1QN01ZaFJZSWN4dWlsNUNiMQ?oc=5",
-      "publishedAt": "2026-08-09T20:07:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-crypto-payment-cards-remain-a-small-market-next-to-traditional-card-networks-whi",
-      "localUrl": "/news/20260809-crypto-payment-cards-remain-a-small-market-next-to-traditional-card-networks-whi.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
       "summary": "The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.",
@@ -967,28 +820,6 @@
       "localUrl": "/news/20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026. @OKnightCrypto reports. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVdTU4VUh4Y290Sll0R0ZFZ3ItUWRpNjMzSUhLRE1TLVZKaDVsRGl1V0ZsTXBiMW5aR2JFZDhxUVJZckZYWDFrNkxhVjlPd25jTGRZREdMLWUxUUo4alE?oc=5\" target=\"_blank\">Crypto is going through a massive dot-c…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVdTU4VUh4Y290Sll0R0ZFZ3ItUWRpNjMzSUhLRE1TLVZKaDVsRGl1V0ZsTXBiMW5aR2JFZDhxUVJZckZYWDFrNkxhVjlPd25jTGRZREdMLWUxUUo4alE?oc=5",
-      "publishedAt": "2026-08-09T14:47:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo",
-      "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "You've probably seen the headlines about quantum computing and crypto. 📖 But what's actually true? We separated the biggest myths from reality – and explain what today's developments really mean for crypto users. Dive into the full article 👉 binance.com/en - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZGVFby14MFQ1dXBEblZvWTVRY3U3X0xaTHd3N3BWd0pwVzFvalNMVDhmajQ0dVdDQ3BKWXJrekJjTUgybW5LSXoyRkRrOXFjdU9rT0M1dno3Ymho?oc=5\" target=\"_blank\">You've probably seen the headlines about q…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZGVFby14MFQ1dXBEblZvWTVRY3U3X0xaTHd3N3BWd0pwVzFvalNMVDhmajQ0dVdDQ3BKWXJrekJjTUgybW5LSXoyRkRrOXFjdU9rT0M1dno3Ymho?oc=5",
-      "publishedAt": "2026-08-09T12:01:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a",
-      "localUrl": "/news/20260809-youve-probably-seen-the-headlines-about-quantum-computing-and-crypto-but-whats-a.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
       "summary": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
@@ -1000,30 +831,6 @@
       "category": "市场",
       "slug": "20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens",
       "localUrl": "/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin worked exactly as designed. BIP-110 was free to fork, and the network was free not to follow. The result was decisive: about 99.85% of Bitcoin's hashpower stayed with Bitcoin. The BIP-110 branch mined only two blocks and is already more than 80 bloc - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdUtiZmhSdW5oSjhGLWZaVHZyZFoyZnN6c2RpU2NjNVVGV3VOQVhzdERBekNZeVY5aTQ1VGgyS2NsVXFtVE11Ri04TlZ3b3ZoSUFQQ2ZqeWowWnM?oc=5\" target=\"_blank\">Bitcoin worked exactly as designed. BIP-110…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DdUtiZmhSdW5oSjhGLWZaVHZyZFoyZnN6c2RpU2NjNVVGV3VOQVhzdERBekNZeVY5aTQ1VGgyS2NsVXFtVE11Ri04TlZ3b3ZoSUFQQ2ZqeWowWnM?oc=5",
-      "publishedAt": "2026-08-09T09:45:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-",
-      "localUrl": "/news/20260809-bitcoin-worked-exactly-as-designed-bip-110-was-free-to-fork-and-the-network-was-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
-      "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
-      "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-09T09:10:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold",
-      "localUrl": "/news/20260809-brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold.html"
     },
     {
       "source": "Decrypt",
@@ -1050,32 +857,6 @@
       "category": "监管",
       "slug": "20260808-senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
       "localUrl": "/news/20260808-senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-      "summary": "“We want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-      "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
-      "publishedAt": "2026-08-08T14:01:05.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain",
-      "localUrl": "/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-      "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
-      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-      "publishedAt": "2026-08-07T21:05:59.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "RWA",
-      "slug": "20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures",
-      "localUrl": "/news/20260807-trump-media-abandons-crypto-treasury-prediction-market-ventures.html"
     }
   ]
 }
