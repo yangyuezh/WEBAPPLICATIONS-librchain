@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-08-10T15:13:02.275Z",
+  "updatedAt": "2026-08-10T17:05:10.339Z",
   "total": 81,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
+      "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
+      "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
+      "publishedAt": "2026-08-10T16:25:28.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "基础设施",
+      "slug": "20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
+      "localUrl": "/news/20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
+      "summary": "Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis praised “exceptionally strong” institutional BTC inflows.",
+      "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T16:14:58.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260810-bitcoin-price-slip-wipes-weekend-gains-as-oil-surge-hits-5-on-hormuz-disappointm",
+      "localUrl": "/news/20260810-bitcoin-price-slip-wipes-weekend-gains-as-oil-surge-hits-5-on-hormuz-disappointm.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
+      "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
+      "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
+      "publishedAt": "2026-08-10T16:11:20.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260810-xrp-price-weakens-as-crypto-market-awaits-clarity",
+      "localUrl": "/news/20260810-xrp-price-weakens-as-crypto-market-awaits-clarity.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
+      "summary": "BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin allocation through the firm’s Canadian iShares Bitcoin ETF.",
+      "url": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-10T15:59:06.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260810-blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin",
+      "localUrl": "/news/20260810-blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
+      "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
+      "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
+      "publishedAt": "2026-08-10T15:56:30.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains",
+      "localUrl": "/news/20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains.html"
+    },
     {
       "source": "Decrypt",
       "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
@@ -908,32 +973,6 @@
       "localUrl": "/news/20260808-robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin will never fall below $60K again: Nansen founder",
-      "summary": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
-      "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-08T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "RWA",
-      "slug": "20260808-bitcoin-will-never-fall-below-60k-again-nansen-founder",
-      "localUrl": "/news/20260808-bitcoin-will-never-fall-below-60k-again-nansen-founder.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-      "summary": "IMF First Deputy Managing Director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
-      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-08T06:21:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260808-domestic-stablecoins-could-boost-demand-for-dollar-backed-tokens-imf",
-      "localUrl": "/news/20260808-domestic-stablecoins-could-boost-demand-for-dollar-backed-tokens-imf.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
       "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
@@ -1010,45 +1049,6 @@
       "category": "安全",
       "slug": "20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas",
       "localUrl": "/news/20260807-hackers-use-bnb-chain-to-spread-malware-through-fake-captchas.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
-      "summary": "A soft July payrolls print pulled September rate-hike odds down. It gives investors in risk assets hope, but Bitcoin remains in bear territory.",
-      "url": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
-      "publishedAt": "2026-08-07T16:07:12.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260807-bitcoin-still-in-death-cross-as-jobs-miss-cuts-rate-hike-odds",
-      "localUrl": "/news/20260807-bitcoin-still-in-death-cross-as-jobs-miss-cuts-rate-hike-odds.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-      "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
-      "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
-      "publishedAt": "2026-08-07T16:03:06.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260807-openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
-      "localUrl": "/news/20260807-openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
-      "summary": "A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.",
-      "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
-      "publishedAt": "2026-08-07T15:27:35.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc",
-      "localUrl": "/news/20260807-bitcoin-wallet-dormant-since-2011-moves-millions-in-btc.html"
     },
     {
       "source": "Solana Blog",
