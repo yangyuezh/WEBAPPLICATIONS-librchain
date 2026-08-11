@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-11T06:01:21.041Z",
+  "updatedAt": "2026-08-11T07:32:15.247Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A $2 trillion asset class is getting a new blockchain rail",
+      "summary": "ADI Chain and Shipfinex are partnering to tokenize commercial ships, aiming to open the $680B ship-finance market to wider capital pool.",
+      "url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+      "publishedAt": "2026-08-11T07:19:09.000Z",
+      "keywords": [
+        "Markets",
+        "Tokenization",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260811-a-2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+      "localUrl": "/news/20260811-a-2-trillion-asset-class-is-getting-a-new-blockchain-rail.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea drops Travel Rule threshold for crypto transfers",
+      "summary": "South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto service providers.",
+      "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T06:28:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers",
+      "localUrl": "/news/20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
+      "summary": "The project said it will pay 10% of recovered funds, up to 3 BTC, after attackers stole LND credentials and drained merchant Lightning wallets last week.",
+      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "publishedAt": "2026-08-11T06:19:07.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260811-btcpay-offers-190000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "localUrl": "/news/20260811-btcpay-offers-190000-bounty-after-bitcoin-payment-servers-drained-in-exploit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+      "summary": "Decta will use USDC through OpenPayd’s infrastructure for international treasury settlement, seeking faster transfers and more efficient liquidity management.",
+      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T06:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260811-payments-platform-decta-explores-stablecoin-enabled-treasury-settlement",
+      "localUrl": "/news/20260811-payments-platform-decta-explores-stablecoin-enabled-treasury-settlement.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -274,8 +329,8 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-      "summary": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
+      "title": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
+      "summary": "Messari reported that Tron recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
       "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-10T19:47:01.000Z",
       "keywords": [
@@ -503,6 +558,17 @@
       "category": "X热点",
       "slug": "20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s",
       "localUrl": "/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Arbitrum One is the first blockchain to reach 3,000+ RWA Count Every asset of value will be tokenized - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE93TEVHakdhRzJCNGd5QTh6NXZzaGd4SS0wNjd0VDR6ekxPYXVQSUN6SkQ3ZC15enlkVnR5VzBoeXRhZ0ZHWkJ6Z0hkRW4tdUVVQzducFUyTHVqbVRGYnc?oc=5\" target=\"_blank\">Arbitrum One is the first blockchain to…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93TEVHakdhRzJCNGd5QTh6NXZzaGd4SS0wNjd0VDR6ekxPYXVQSUN6SkQ3ZC15enlkVnR5VzBoeXRhZ0ZHWkJ6Z0hkRW4tdUVVQzducFUyTHVqbVRGYnc?oc=5",
+      "publishedAt": "2026-08-10T14:39:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-arbitrum-one-is-the-first-blockchain-to-reach-3000-rwa-count-every-asset-of-valu",
+      "localUrl": "/news/20260810-arbitrum-one-is-the-first-blockchain-to-reach-3000-rwa-count-every-asset-of-valu.html"
     },
     {
       "source": "X Wire",
@@ -860,21 +926,6 @@
       "localUrl": "/news/20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Aug. 10",
-      "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-      "publishedAt": "2026-08-10T08:57:04.000Z",
-      "keywords": [
-        "Markets",
-        "week ahead",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260810-us-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-      "localUrl": "/news/20260810-us-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead.html"
-    },
-    {
       "source": "X Wire",
       "title": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5\" target=\"_blank\">“Bitcoin is economic freedom for generation…",
@@ -895,20 +946,6 @@
       "category": "X热点",
       "slug": "20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-",
       "localUrl": "/news/20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
-      "summary": "Early BVNK investor Concentric shares a fascinating inside view on the stablecoin startup’s journey and the eventual Mastercard deal.",
-      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
-      "publishedAt": "2026-08-10T07:52:00.000Z",
-      "keywords": [
-        "Finance",
-        "Feature"
-      ],
-      "category": "综合",
-      "slug": "20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard",
-      "localUrl": "/news/20260810-inside-stablecoin-firm-bvnks-journey-to-a-18b-acquisition-by-mastercard.html"
     },
     {
       "source": "X Wire",
@@ -968,32 +1005,6 @@
       "localUrl": "/news/20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
-      "summary": "Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.",
-      "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T05:18:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me",
-      "localUrl": "/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
-      "summary": "Australia’s financial watchdog has suspended Cryptolink’s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM operator fined $56,340.",
-      "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T04:32:36.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures",
-      "localUrl": "/news/20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 QUESTION: This is Bitcoin's best Q3 since 2021. Will it hold? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0eWxNOFNrUkhzWHUxUmxNdVhBSFlETEtXV2xlYjRfd3I4QmtWR01nbkdWcC1pVlh0aDdDQWdwVGZSQWlpb1pobk43UHdjb1V6eEF6OEhqelY3X3Q2a2lEWG8wQkc?oc=5\" target=\"_blank\">🚨 QUESTION: This is Bitcoin's …",
@@ -1027,17 +1038,6 @@
       "category": "市场",
       "slug": "20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks",
       "localUrl": "/news/20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026. @OKnightCrypto reports. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVdTU4VUh4Y290Sll0R0ZFZ3ItUWRpNjMzSUhLRE1TLVZKaDVsRGl1V0ZsTXBiMW5aR2JFZDhxUVJZckZYWDFrNkxhVjlPd25jTGRZREdMLWUxUUo4alE?oc=5\" target=\"_blank\">Crypto is going through a massive dot-c…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVdTU4VUh4Y290Sll0R0ZFZ3ItUWRpNjMzSUhLRE1TLVZKaDVsRGl1V0ZsTXBiMW5aR2JFZDhxUVJZckZYWDFrNkxhVjlPd25jTGRZREdMLWUxUUo4alE?oc=5",
-      "publishedAt": "2026-08-09T14:47:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo",
-      "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
     },
     {
       "source": "X Wire",
