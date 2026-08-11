@@ -1,7 +1,85 @@
 {
-  "updatedAt": "2026-08-11T15:13:52.985Z",
+  "updatedAt": "2026-08-11T17:09:29.430Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+      "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block—here's what a forced rollback would undo.",
+      "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
+      "publishedAt": "2026-08-11T17:02:36.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network",
+      "localUrl": "/news/20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FlightAware sues Kalshi over flight cancellation data",
+      "summary": "The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state authorities comparing the company’s contracts to gambling.",
+      "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T16:55:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260811-flightaware-sues-kalshi-over-flight-cancellation-data",
+      "localUrl": "/news/20260811-flightaware-sues-kalshi-over-flight-cancellation-data.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+      "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
+      "url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
+      "publishedAt": "2026-08-11T16:45:30.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260811-etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10",
+      "localUrl": "/news/20260811-etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+      "summary": "Flowdesk’s VARA approval follows its MiCA authorization in France as crypto firms build regulated operations across major global markets.",
+      "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T16:39:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260811-coinbase-backed-flowdesk-secures-full-broker-dealer-license-in-dubai",
+      "localUrl": "/news/20260811-coinbase-backed-flowdesk-secures-full-broker-dealer-license-in-dubai.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
+      "summary": "Nasdaq’s acquisition of the third-largest US alternative trading system comes as the exchange operator expands into tokenized securities and longer trading hours.",
+      "url": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T16:34:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260811-nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets",
+      "localUrl": "/news/20260811-nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
+      "summary": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks.",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T16:24:48.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260811-bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june",
+      "localUrl": "/news/20260811-bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june.html"
+    },
     {
       "source": "Decrypt",
       "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
@@ -14,6 +92,17 @@
       "category": "市场",
       "slug": "20260811-openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
       "localUrl": "/news/20260811-openais-only-dedicated-ethicist-has-left-with-no-replacement-ft.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: 🇺🇸 SEC to consider new rules for certain \"crypto asset\" investment contracts on Friday 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5\" target=\"_blank\">NEW: 🇺🇸 SEC to consider n…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5",
+      "publishedAt": "2026-08-11T14:55:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f",
+      "localUrl": "/news/20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f.html"
     },
     {
       "source": "Decrypt",
@@ -289,7 +378,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls below $64,000; Anthropic to watermark Claude's AI content after EU regulations",
+      "title": "Live updates: Bitcoin falls to $63,500; Anthropic to watermark Claude's AI content after EU regulations",
       "summary": "FxPro’s Alex Kuptsikevich said companies that helped give bitcoin institutional cover are now chasing AI data centers, putting BTC’s flat 50-day moving average in focus.",
       "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
       "publishedAt": "2026-08-11T10:34:52.000Z",
@@ -299,8 +388,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260811-live-updates-bitcoin-falls-below-64000-anthropic-to-watermark-claudes-ai-content",
-      "localUrl": "/news/20260811-live-updates-bitcoin-falls-below-64000-anthropic-to-watermark-claudes-ai-content.html"
+      "slug": "20260811-live-updates-bitcoin-falls-to-63500-anthropic-to-watermark-claudes-ai-content-af",
+      "localUrl": "/news/20260811-live-updates-bitcoin-falls-to-63500-anthropic-to-watermark-claudes-ai-content-af.html"
     },
     {
       "source": "CoinDesk",
@@ -597,17 +686,6 @@
       "localUrl": "/news/20260811-bitcoins-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself.html"
     },
     {
-      "source": "X Wire",
-      "title": "Anthropic Strikes $9.1 Billion Compute Deal With Bitcoin Miner Riot Anthropic has struck a 20-year, $9.1 billion data-center deal with Riot Platforms to secure 191 MW of computing capacity at Riot’s Rockdale campus in Texas, as the Claude maker races to loc - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FUUFQUmh5VVNKeHBmMzI4Sm94UHYtTTZyOXlwdE9GVC1xV29tMUQ3amZ4M21ySGFEZmlMTnY1MzJmTFU1WklocEdkZnctcHRFTl80Zmk3MnhJd2hmeVY2TUJUSQ?oc=5\" target=\"_blank\">Anthropic Strikes $9.1 Billion C…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FUUFQUmh5VVNKeHBmMzI4Sm94UHYtTTZyOXlwdE9GVC1xV29tMUQ3amZ4M21ySGFEZmlMTnY1MzJmTFU1WklocEdkZnctcHRFTl80Zmk3MnhJd2hmeVY2TUJUSQ?oc=5",
-      "publishedAt": "2026-08-11T05:09:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-",
-      "localUrl": "/news/20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
       "summary": "Luke Dashjr lost his BIP editor privileges after developers raised concerns over his role in BIP 110 and its stalled minority fork.",
@@ -632,17 +710,6 @@
       "category": "综合",
       "slug": "20260811-white-house-vows-to-get-clarity-across-finish-line-in-september",
       "localUrl": "/news/20260811-white-house-vows-to-get-clarity-across-finish-line-in-september.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "U.S. Bitcoin $BTC ETFs saw an inflow of more than $850 million last week, the largest weekly inflow since April - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE91UEhKS2t2cjBWMmFhQ3hnT2pCTnh0Uk5LSXVIZC1OZ3laYXlSQzUxMEZVdVR0bUxCa1h2a2szOVRPc2hiallQZHAxZEVUb0xVdUpWcHByc3RXTUl0QVE?oc=5\" target=\"_blank\">U.S. Bitcoin $BTC ETFs saw an inflow of…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91UEhKS2t2cjBWMmFhQ3hnT2pCTnh0Uk5LSXVIZC1OZ3laYXlSQzUxMEZVdVR0bUxCa1h2a2szOVRPc2hiallQZHAxZEVUb0xVdUpWcHByc3RXTUl0QVE?oc=5",
-      "publishedAt": "2026-08-11T03:52:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-us-bitcoin-btc-etfs-saw-an-inflow-of-more-than-850-million-last-week-the-largest",
-      "localUrl": "/news/20260811-us-bitcoin-btc-etfs-saw-an-inflow-of-more-than-850-million-last-week-the-largest.html"
     },
     {
       "source": "Cointelegraph",
@@ -767,32 +834,6 @@
       "localUrl": "/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tron USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-      "summary": "Messari reported that Tron recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
-      "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T19:47:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260810-tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari",
-      "localUrl": "/news/20260810-tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK money laundering suspect bought $100M in Trump crypto business: NYT",
-      "summary": "An individual behind the Aqua 1 entity that purchased $100 million worth of World Liberty Financial tokens in 2025 is reportedly a businessman with ties to the UK and UAE.",
-      "url": "https://cointelegraph.com/news/world-liberty-financial-uk-money-laundering-donald-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T19:35:19.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260810-uk-money-laundering-suspect-bought-100m-in-trump-crypto-business-nyt",
-      "localUrl": "/news/20260810-uk-money-laundering-suspect-bought-100m-in-trump-crypto-business-nyt.html"
-    },
-    {
       "source": "X Wire",
       "title": "One unified experience for fully onchain trading, where equity, commodity, and crypto perps collide. Aptos Foundation's @ASHAWONN joins @useTria and @DecibelTrade to unpack what that shift means for traders, why it matters that every trade is settled onc - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ELTRzUk40WlRnRVZZTlB3dW1iYUJ1ZGpTbkZkaGFReWtLb2lQblY5SUlHdWdtbU1GRnQwOUc3VnVDcndvM1RUbjB0VlloYi1QUjk2cnJRa2drUQ?oc=5\" target=\"_blank\">One unified experience for fully onchain tra…",
@@ -802,6 +843,17 @@
       "category": "X热点",
       "slug": "20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp",
       "localUrl": "/news/20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Best report I've read on Robinhood Chain: > Q2 crypto revenue fell 38% YoY to $100m accounting for 8% of revenue > Retail crypto volume declined 36% YoY > Crypto’s share of total AUC fell to all-time low of 7% > Robinhood Chain had one of the strongest - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xOFdQN3ZLZ19SRzVlazBUMFZ6SXVSZXVuODR6dGU0ajk5UDZtYkhUM3ByeFV2VERiUFdoTUtiSTB0YTl0NDZtMDVrMjRmS3h2UXFDUGlYXzBUSGJuZGJEOEFLYlA?oc=5\" target=\"_blank\">Best report I've read on Robinh…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xOFdQN3ZLZ19SRzVlazBUMFZ6SXVSZXVuODR6dGU0ajk5UDZtYkhUM3ByeFV2VERiUFdoTUtiSTB0YTl0NDZtMDVrMjRmS3h2UXFDUGlYXzBUSGJuZGJEOEFLYlA?oc=5",
+      "publishedAt": "2026-08-10T19:14:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-best-report-ive-read-on-robinhood-chain-q2-crypto-revenue-fell-38-yoy-to-100m-ac",
+      "localUrl": "/news/20260810-best-report-ive-read-on-robinhood-chain-q2-crypto-revenue-fell-38-yoy-to-100m-ac.html"
     },
     {
       "source": "Decrypt",
@@ -817,17 +869,15 @@
       "localUrl": "/news/20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Coinsbuy offers $100K reward after Sunday security breach",
-      "summary": "Coinsbuy said it covered all affected client funds after unauthorized withdrawals, while an onchain investigator estimated more than $7.9 million was stolen.",
-      "url": "https://cointelegraph.com/news/coinsbuy-confirms-security-breach-after-wallets-reportedly-drained-of-79m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T18:43:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260810-coinsbuy-offers-100k-reward-after-sunday-security-breach",
-      "localUrl": "/news/20260810-coinsbuy-offers-100k-reward-after-sunday-security-breach.html"
+      "source": "X Wire",
+      "title": "Morgan Stanley just published an @ethereum primer. Not an ETH price target or a trading thesis. A primer on Ethereum as infrastructure for stablecoins, tokenized assets, payments, settlement, lending, and financial applications. Assets converge where the liq - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMjRDSDFrWjlqemR1ODR3amdQR0pHZzlNZmE5LXRfRmZnY3FVd0FmdEt5dmlaUjFaWmhLLUdVbDFLNDlzZEVhSDk3Ri03MHcxUlVCUjJINm8xSXJCRndwb1ZQQ3Jhdw?oc=5\" target=\"_blank\">Morgan Stanley just publishe…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMjRDSDFrWjlqemR1ODR3amdQR0pHZzlNZmE5LXRfRmZnY3FVd0FmdEt5dmlaUjFaWmhLLUdVbDFLNDlzZEVhSDk3Ri03MHcxUlVCUjJINm8xSXJCRndwb1ZQQ3Jhdw?oc=5",
+      "publishedAt": "2026-08-10T18:48:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr",
+      "localUrl": "/news/20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr.html"
     },
     {
       "source": "Decrypt",
@@ -900,19 +950,6 @@
       "category": "监管",
       "slug": "20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan",
       "localUrl": "/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "‘Disappointing’: Crypto advocates react to delay in CLARITY vote",
-      "summary": "Following a procedural delay in the US Senate, lawmakers are expected to address a major crypto market structure bill after they return from a month-long recess, which met with industry criticism.",
-      "url": "https://cointelegraph.com/news/clarity-act-vote-disappointing-crypto-advocates-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T17:08:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote",
-      "localUrl": "/news/20260810-disappointing-crypto-advocates-react-to-delay-in-clarity-vote.html"
     },
     {
       "source": "Decrypt",
@@ -1000,19 +1037,6 @@
       "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
-      "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
-      "url": "https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-      "publishedAt": "2026-08-10T14:12:12.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
-      "localUrl": "/news/20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m.html"
-    },
-    {
       "source": "X Wire",
       "title": "Last week, we completed a major engineering milestone. Crypto markets operate 24/7, making the maintenance and migration of core trading infrastructure exceptionally challenging. Despite this, our team successfully migrated our high-traffic core trading syst - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5\" target=\"_blank\">Last week, we completed a major enginee…",
@@ -1022,19 +1046,6 @@
       "category": "X热点",
       "slug": "20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-",
       "localUrl": "/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
-      "summary": "And the ETH inflows were even bigger, when factoring in market cap.",
-      "url": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-      "publishedAt": "2026-08-10T12:32:19.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260810-morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-      "localUrl": "/news/20260810-morning-minute-bitcoin-etfs-see-biggest-inflows-since-may.html"
     },
     {
       "source": "X Wire",
@@ -1068,17 +1079,6 @@
       "category": "X热点",
       "slug": "20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol",
       "localUrl": "/news/20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The future of markets isn't TradFi or crypto. It's both. With ~60% of TradFi perpetuals volume trading on Binance, users are increasingly choosing crypto rails to access traditional financial markets. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTRllvclB3c0JrNl8zMXg4T0huWmRRNjcweS0zRnV5NkQwaHliOFpsZjN5RkRLbWdiUXkxV0gtVVNVc1pKcHRqYXlkNF8yWWtsME5MRUZNQ0t0RWY1?oc=5\" target=\"_blank\">The future of markets isn't TradFi or cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTRllvclB3c0JrNl8zMXg4T0huWmRRNjcweS0zRnV5NkQwaHliOFpsZjN5RkRLbWdiUXkxV0gtVVNVc1pKcHRqYXlkNF8yWWtsME5MRUZNQ0t0RWY1?oc=5",
-      "publishedAt": "2026-08-09T21:00:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-the-future-of-markets-isnt-tradfi-or-crypto-its-both-with-60-of-tradfi-perpetual",
-      "localUrl": "/news/20260809-the-future-of-markets-isnt-tradfi-or-crypto-its-both-with-60-of-tradfi-perpetual.html"
     }
   ]
 }
