@@ -1,13 +1,89 @@
 {
-  "updatedAt": "2026-08-11T11:02:08.371Z",
+  "updatedAt": "2026-08-11T11:53:30.456Z",
   "total": 81,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "summary": "The regulator cited missing transaction reports and the company’s failure to respond to an information request.",
+      "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+      "publishedAt": "2026-08-11T11:45:47.000Z",
+      "keywords": [
+        "Policy",
+        "Bitcoin News",
+        "Australia",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260811-australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
+      "localUrl": "/news/20260811-australian-watchdog-suspends-cryptolink-forcing-96-atms-offline.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ravencoin could roll back four days of transactions after critical block flaw",
+      "summary": "Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at risk of reversal.",
+      "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+      "publishedAt": "2026-08-11T11:24:56.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260811-ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
+      "localUrl": "/news/20260811-ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
+      "summary": "The crypto exchange said it secured regulatory approval to offer tokenized securities from Abu Dhabi as the emirate deepens its push into onchain finance.",
+      "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+      "publishedAt": "2026-08-11T11:23:25.000Z",
+      "keywords": [
+        "Finance",
+        "Coinbase",
+        "Tokenization",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260811-coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
+      "localUrl": "/news/20260811-coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
+      "summary": "Your day-ahead look for Aug. 11 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks",
+      "publishedAt": "2026-08-11T11:13:55.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260811-when-safe-assets-compete-with-risk-lessons-from-the-1960s90s-for-bitcoin-and-sto",
+      "localUrl": "/news/20260811-when-safe-assets-compete-with-risk-lessons-from-the-1960s90s-for-bitcoin-and-sto.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin-backed lending is entering its institutional era: Two Prime",
+      "summary": "Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+      "publishedAt": "2026-08-11T11:04:28.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260811-bitcoin-backed-lending-is-entering-its-institutional-era-two-prime",
+      "localUrl": "/news/20260811-bitcoin-backed-lending-is-entering-its-institutional-era-two-prime.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant",
       "summary": "Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.",
       "url": "https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T10:54:19.000Z",
+      "publishedAt": "2026-08-11T10:55:00.000Z",
       "keywords": [
         "Markets"
       ],
@@ -94,7 +170,7 @@
     {
       "source": "Cointelegraph",
       "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-      "summary": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.",
+      "summary": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.",
       "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-11T10:14:39.000Z",
       "keywords": [
@@ -448,6 +524,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🔥 JUST IN: Anthropic struck a $9.1 billion cloud deal with Bitcoin miner Riot Platforms, per Bloomberg. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMHR0ckF1SENxU2JmaUVmaVNPeTJoRDhhUmJneTV1M3ZOdHBybUJ3V2xGTGR3c21OZWRXNERUZmtzejVKZmNma05kTEc1TDdmOVZCZURGWFZxdTV3RmNNVDZQT1g?oc=5\" target=\"_blank\">🔥 JUST IN: Anthropic struck a …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMHR0ckF1SENxU2JmaUVmaVNPeTJoRDhhUmJneTV1M3ZOdHBybUJ3V2xGTGR3c21OZWRXNERUZmtzejVKZmNma05kTEc1TDdmOVZCZURGWFZxdTV3RmNNVDZQT1g?oc=5",
+      "publishedAt": "2026-08-11T01:20:55.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-anthropic-struck-a-91-billion-cloud-deal-with-bitcoin-miner-riot-platfor",
+      "localUrl": "/news/20260811-just-in-anthropic-struck-a-91-billion-cloud-deal-with-bitcoin-miner-riot-platfor.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5\" target=\"_blank\">JUST IN: Anthropic signs a $9.1 bill…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5",
@@ -511,41 +598,6 @@
       "category": "监管",
       "slug": "20260810-judge-stays-cftcs-case-against-us-soldier-over-prediction-market-bets",
       "localUrl": "/news/20260810-judge-stays-cftcs-case-against-us-soldier-over-prediction-market-bets.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
-      "summary": "Bitwise's Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.",
-      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-      "publishedAt": "2026-08-10T20:20:06.000Z",
-      "keywords": [
-        "CoinDesk News",
-        "Media Network Interview",
-        "Bitwise",
-        "Circle",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
-      "localUrl": "/news/20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors",
-      "summary": "Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.",
-      "url": "https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors",
-      "publishedAt": "2026-08-10T20:03:24.000Z",
-      "keywords": [
-        "CoinDesk News",
-        "Media Network Interview",
-        "MicroStrategy",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo",
-      "localUrl": "/news/20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo.html"
     },
     {
       "source": "Decrypt",
@@ -787,23 +839,6 @@
       "localUrl": "/news/20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
-      "summary": "The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.",
-      "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-      "publishedAt": "2026-08-10T15:02:14.000Z",
-      "keywords": [
-        "Finance",
-        "Grayscale",
-        "Cardano",
-        "Crypto News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
-      "localUrl": "/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html"
-    },
-    {
       "source": "X Wire",
       "title": "⚡️ JUST IN: Vitalik Buterin unveils Ethereum’s updated roadmap, prioritizing quantum safety, privacy, native rollups, scalability and a leaner protocol. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5\" target=\"_blank\">⚡️ JUST IN: Vitalik Buterin unv…",
@@ -813,17 +848,6 @@
       "category": "X热点",
       "slug": "20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s",
       "localUrl": "/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Vitalik Updates Ethereum Roadmap, Prioritizing Quantum Safety, Privacy and Native Rollups @VitalikButerin said Ethereum’s updated roadmap has significantly shifted since 2023, with quantum safety and privacy moving up in priority while some earlier idea - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdUpYVUJvcEFsODBXSlEzeEo4RWxKUkJuM2s0b29UQUdHM0cyb3o0WGgweFVVaVVKN292S3hjS29Oc1hjQzBsNWNNYUNENU5UVHpmV0VYZmd3UnpyMEdFQjdfbw?oc=5\" target=\"_blank\">Vitalik Updates Ethereum Roadmap…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdUpYVUJvcEFsODBXSlEzeEo4RWxKUkJuM2s0b29UQUdHM0cyb3o0WGgweFVVaVVKN292S3hjS29Oc1hjQzBsNWNNYUNENU5UVHpmV0VYZmd3UnpyMEdFQjdfbw?oc=5",
-      "publishedAt": "2026-08-10T14:47:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-vitalik-updates-ethereum-roadmap-prioritizing-quantum-safety-privacy-and-native-",
-      "localUrl": "/news/20260810-vitalik-updates-ethereum-roadmap-prioritizing-quantum-safety-privacy-and-native-.html"
     },
     {
       "source": "X Wire",
@@ -837,23 +861,6 @@
       "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
-      "summary": "The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.",
-      "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-      "publishedAt": "2026-08-10T14:30:00.000Z",
-      "keywords": [
-        "Markets",
-        "Solana News",
-        "Crypto Lending",
-        "DeFi",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260810-solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
-      "localUrl": "/news/20260810-solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M",
       "summary": "Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.",
@@ -865,22 +872,6 @@
       "category": "基础设施",
       "slug": "20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m",
       "localUrl": "/news/20260810-tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitmine’s ETH buying slows as Tom Lee's firm shifts capital to share buybacks",
-      "summary": "Chairman Tom Lee said easing financial conditions could support crypto, even as the CLARITY Act failed to reach a Senate vote before the August recess.",
-      "url": "https://www.coindesk.com/business/2026/08/10/bitmine-s-eth-buying-slows-as-tom-lee-s-firm-shifts-capital-to-share-buybacks",
-      "publishedAt": "2026-08-10T13:50:51.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "Digital Asset Treasury",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks",
-      "localUrl": "/news/20260810-bitmines-eth-buying-slows-as-tom-lees-firm-shifts-capital-to-share-buybacks.html"
     },
     {
       "source": "X Wire",
@@ -984,17 +975,6 @@
     },
     {
       "source": "X Wire",
-      "title": "The future of markets isn't TradFi or crypto. It's both. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5\" target=\"_blank\">The future of markets isn't TradFi…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfZElHMEhzaDhWZXdXWnY1WkIwTXdJSDduSFpKR2xWTHp6akRUaTBWUWlfRXJUWlVuVHhia3JnaWV4SmFwNV90OXlXa2pFYTVsNmx1d2F6c2pkU00wY3J4YmxR?oc=5",
-      "publishedAt": "2026-08-10T09:20:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom",
-      "localUrl": "/news/20260810-the-future-of-markets-isnt-tradfi-or-crypto-its-both-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH U.S.-listed Bitcoin ETFs attracted more than $850 million last week, their strongest inflows since April, following a $130 million Coldcard wallet hack. The breach exposed vulnerabilities in hardware-based self- - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5\" target=\"_blank\">BITCOIN ETF INFLOWS HIT FOUR-MONTH HIGH…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoam5sREI2OElNNExGQ3gxSFZIcDV4V3pQMEZWeVFPUFpQa1oydWZSR1pPWVktazB4R0FLRm5KaDJPU0FWTklpc1pmLXY2S0dqUUlzUlJ6d0lZakJITHc?oc=5",
@@ -1016,6 +996,17 @@
       "category": "监管",
       "slug": "20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets",
       "localUrl": "/news/20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "“Bitcoin is economic freedom for generations to come.” — Sir David Khalili - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5\" target=\"_blank\">“Bitcoin is economic freedom for generation…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NNTlMYjFBdURCWU5XcXh3Xzh2elJNN3dqQ3pXVGUwbkhpdVpyXzRyb0QzZmpUMGx4UW5BNGM0TlQwbHNuQk5NSTZ0U3hkRlNKcFB1NGJXTzFQeTg?oc=5",
+      "publishedAt": "2026-08-10T08:33:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom",
+      "localUrl": "/news/20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom.html"
     },
     {
       "source": "X Wire",

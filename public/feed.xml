@@ -5,13 +5,53 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:53:30 GMT</lastBuildDate>
+    <item>
+      <title>Australian watchdog suspends Cryptolink, forcing 96 ATMs offline</title>
+      <link>https://www.librchain.com/news/20260811-australian-watchdog-suspends-cryptolink-forcing-96-atms-offline.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-australian-watchdog-suspends-cryptolink-forcing-96-atms-offline.html</guid>
+      <description>The regulator cited missing transaction reports and the company’s failure to respond to an information request.</description>
+      <pubDate>Tue, 11 Aug 2026 11:45:47 GMT</pubDate>
+      <source url="https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline">CoinDesk</source>
+    </item>
+    <item>
+      <title>Ravencoin could roll back four days of transactions after critical block flaw</title>
+      <link>https://www.librchain.com/news/20260811-ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw.html</guid>
+      <description>Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at risk of reversal.</description>
+      <pubDate>Tue, 11 Aug 2026 11:24:56 GMT</pubDate>
+      <source url="https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw">CoinDesk</source>
+    </item>
+    <item>
+      <title>Coinbase picks Abu Dhabi for its global tokenized asset push</title>
+      <link>https://www.librchain.com/news/20260811-coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push.html</guid>
+      <description>The crypto exchange said it secured regulatory approval to offer tokenized securities from Abu Dhabi as the emirate deepens its push into onchain finance.</description>
+      <pubDate>Tue, 11 Aug 2026 11:23:25 GMT</pubDate>
+      <source url="https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push">CoinDesk</source>
+    </item>
+    <item>
+      <title>When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.</title>
+      <link>https://www.librchain.com/news/20260811-when-safe-assets-compete-with-risk-lessons-from-the-1960s90s-for-bitcoin-and-sto.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-when-safe-assets-compete-with-risk-lessons-from-the-1960s90s-for-bitcoin-and-sto.html</guid>
+      <description>Your day-ahead look for Aug. 11 2026</description>
+      <pubDate>Tue, 11 Aug 2026 11:13:55 GMT</pubDate>
+      <source url="https://www.coindesk.com/daybook-us/2026/08/11/when-safe-assets-compete-with-risk-lessons-from-the-1960s-90s-for-bitcoin-and-stocks">CoinDesk</source>
+    </item>
+    <item>
+      <title>Bitcoin-backed lending is entering its institutional era: Two Prime</title>
+      <link>https://www.librchain.com/news/20260811-bitcoin-backed-lending-is-entering-its-institutional-era-two-prime.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-bitcoin-backed-lending-is-entering-its-institutional-era-two-prime.html</guid>
+      <description>Public companies are increasingly borrowing against their bitcoin holdings to fund acquisitions and capital spending without selling the asset.</description>
+      <pubDate>Tue, 11 Aug 2026 11:04:28 GMT</pubDate>
+      <source url="https://www.coindesk.com/markets/2026/08/11/bitcoin-backed-lending-is-entering-its-institutional-era-two-prime">CoinDesk</source>
+    </item>
     <item>
       <title>Bitcoin sell pressure ‘closer to exhaustion’ after $4B USDT market-cap drop: CryptoQuant</title>
       <link>https://www.librchain.com/news/20260811-bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoq.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260811-bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoq.html</guid>
       <description>Bitcoin analysis suggested that sell pressure would not increase given the historically large contraction in USDT market cap over a 60-day period.</description>
-      <pubDate>Tue, 11 Aug 2026 10:54:19 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 10:55:00 GMT</pubDate>
       <source url="https://cointelegraph.com/markets/bitcoin-sell-pressure-closer-to-exhaustion-after-4b-usdt-market-cap-drop-cryptoquant?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
@@ -58,7 +98,7 @@
       <title>Coldcard hack losses: How investigators trace stolen Bitcoin</title>
       <link>https://www.librchain.com/news/20260811-coldcard-hack-losses-how-investigators-trace-stolen-bitcoin.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260811-coldcard-hack-losses-how-investigators-trace-stolen-bitcoin.html</guid>
-      <description>The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and on-chain analysis that produce varying estimates.</description>
+      <description>The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.</description>
       <pubDate>Tue, 11 Aug 2026 10:14:39 GMT</pubDate>
       <source url="https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
@@ -271,6 +311,14 @@
       <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDcmQyN01nazhXWkE5b3NoSGh3SWxRdTQ4ZUhBNDZQM3FuU29CSUExV1JNdTVJYU14bWVCZGQyTS1NZzVzZUM2ajBUSTBPNWljRXpZemhLR0VnNTdfMFVlQTdn?oc=5">X Wire</source>
     </item>
     <item>
+      <title>🔥 JUST IN: Anthropic struck a $9.1 billion cloud deal with Bitcoin miner Riot Platforms, per Bloomberg. - x.com</title>
+      <link>https://www.librchain.com/news/20260811-just-in-anthropic-struck-a-91-billion-cloud-deal-with-bitcoin-miner-riot-platfor.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-just-in-anthropic-struck-a-91-billion-cloud-deal-with-bitcoin-miner-riot-platfor.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMHR0ckF1SENxU2JmaUVmaVNPeTJoRDhhUmJneTV1M3ZOdHBybUJ3V2xGTGR3c21OZWRXNERUZmtzejVKZmNma05kTEc1TDdmOVZCZURGWFZxdTV3RmNNVDZQT1g?oc=5&quot; target=&quot;_blank&quot;&gt;🔥 JUST IN: Anthropic struck a …</description>
+      <pubDate>Tue, 11 Aug 2026 01:20:55 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZMHR0ckF1SENxU2JmaUVmaVNPeTJoRDhhUmJneTV1M3ZOdHBybUJ3V2xGTGR3c21OZWRXNERUZmtzejVKZmNma05kTEc1TDdmOVZCZURGWFZxdTV3RmNNVDZQT1g?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com</title>
       <link>https://www.librchain.com/news/20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo.html</guid>
@@ -309,22 +357,6 @@
       <description>A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.</description>
       <pubDate>Mon, 10 Aug 2026 20:50:59 GMT</pubDate>
       <source url="https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Bitwise&apos;s Rasmussen: Circle is mispriced as stablecoins head toward trillions</title>
-      <link>https://www.librchain.com/news/20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-bitwises-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions.html</guid>
-      <description>Bitwise&apos;s Ryan Rasmussen says investors are underestimating Circle as stablecoins expand and the company builds out its payments infrastructure.</description>
-      <pubDate>Mon, 10 Aug 2026 20:20:06 GMT</pubDate>
-      <source url="https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions">CoinDesk</source>
-    </item>
-    <item>
-      <title>Strategy builds $4.75 billion cash cushion as only bitcoin isn’t enough for investors</title>
-      <link>https://www.librchain.com/news/20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-strategy-builds-475-billion-cash-cushion-as-only-bitcoin-isnt-enough-for-investo.html</guid>
-      <description>Strategy is holding billions in cash after learning that traditional investors don’t necessarily view its massive bitcoin reserves as a substitute for dollars.</description>
-      <pubDate>Mon, 10 Aug 2026 20:03:24 GMT</pubDate>
-      <source url="https://www.coindesk.com/coindesk-news/2026/08/10/strategy-builds-usd4-75-billion-cash-cushion-as-only-bitcoin-isn-t-enough-for-investors">CoinDesk</source>
     </item>
     <item>
       <title>Hidden Text in PDFs Is Hijacking This AI Assistant</title>
@@ -453,38 +485,6 @@
       <description>BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin allocation through the firm’s Canadian iShares Bitcoin ETF.</description>
       <pubDate>Mon, 10 Aug 2026 15:59:06 GMT</pubDate>
       <source url="https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains</title>
-      <link>https://www.librchain.com/news/20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains.html</guid>
-      <description>The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.</description>
-      <pubDate>Mon, 10 Aug 2026 15:56:30 GMT</pubDate>
-      <source url="https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy">Decrypt</source>
-    </item>
-    <item>
-      <title>OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development</title>
-      <link>https://www.librchain.com/news/20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development.html</guid>
-      <description>OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it&apos;s pulling back until the safeguards catch up.</description>
-      <pubDate>Mon, 10 Aug 2026 15:03:07 GMT</pubDate>
-      <source url="https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities">Decrypt</source>
-    </item>
-    <item>
-      <title>Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans</title>
-      <link>https://www.librchain.com/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans.html</guid>
-      <description>The asset manager said it no longer intends to proceed with the offerings. None became effective, and no securities were issued or sold.</description>
-      <pubDate>Mon, 10 Aug 2026 15:02:14 GMT</pubDate>
-      <source url="https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans">CoinDesk</source>
-    </item>
-    <item>
-      <title>⚡️ JUST IN: Vitalik Buterin unveils Ethereum’s updated roadmap, prioritizing quantum safety, privacy, native rollups, scalability and a leaner protocol. - x.com</title>
-      <link>https://www.librchain.com/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260810-just-in-vitalik-buterin-unveils-ethereums-updated-roadmap-prioritizing-quantum-s.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5&quot; target=&quot;_blank&quot;&gt;⚡️ JUST IN: Vitalik Buterin unv…</description>
-      <pubDate>Mon, 10 Aug 2026 14:55:28 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>
