@@ -1,7 +1,103 @@
 {
-  "updatedAt": "2026-08-11T17:09:29.430Z",
+  "updatedAt": "2026-08-11T19:16:24.698Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
+      "summary": "Itaú Unibanco said it teamed up with tokenization specialist OpenAssets to test tokenized bonds and funds in a pilot run by Brazil's financial watchdog ANBIMA.",
+      "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
+      "publishedAt": "2026-08-11T19:06:23.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "Brazil",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260811-brazils-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
+      "localUrl": "/news/20260811-brazils-largest-lender-itau-is-stepping-deeper-into-the-tokenization.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
+      "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
+      "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
+      "publishedAt": "2026-08-11T18:56:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260811-ai-agent-hacks-a-gymand-the-tech-world-wonders-whats-next",
+      "localUrl": "/news/20260811-ai-agent-hacks-a-gymand-the-tech-world-wonders-whats-next.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
+      "summary": "Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
+      "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
+      "publishedAt": "2026-08-11T18:25:14.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "综合",
+      "slug": "20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss",
+      "localUrl": "/news/20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
+      "summary": "The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.",
+      "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T18:03:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260811-strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year",
+      "localUrl": "/news/20260811-strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ARP Digital secures Dubai VARA broker-dealer license",
+      "summary": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.",
+      "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T17:53:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260811-arp-digital-secures-dubai-vara-broker-dealer-license",
+      "localUrl": "/news/20260811-arp-digital-secures-dubai-vara-broker-dealer-license.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+      "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.",
+      "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+      "publishedAt": "2026-08-11T17:26:54.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp",
+      "localUrl": "/news/20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "summary": "The trading platform’s gross crypto revenue fell to $1.35 billion in the second quarter. It also agreed to buy U.S. brokerage TradeZero for up to $231 million.",
+      "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+      "publishedAt": "2026-08-11T17:12:11.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260811-etoro-reports-second-quarter-crypto-loss-even-as-total-profit-beats-estimates",
+      "localUrl": "/news/20260811-etoro-reports-second-quarter-crypto-loss-even-as-total-profit-beats-estimates.html"
+    },
     {
       "source": "Decrypt",
       "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
@@ -161,6 +257,17 @@
       "category": "综合",
       "slug": "20260811-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline",
       "localUrl": "/news/20260811-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin. Ethereum. Chainlink. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5\" target=\"_blank\">Bitcoin. Ethereum. Chainlink.</a> <fon…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5",
+      "publishedAt": "2026-08-11T13:49:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-bitcoin-ethereum-chainlink-xcom",
+      "localUrl": "/news/20260811-bitcoin-ethereum-chainlink-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -516,6 +623,17 @@
       "localUrl": "/news/20260811-just-in-white-house-vows-to-pass-the-crypto-clarity-act-in-september-patrick-wit.html"
     },
     {
+      "source": "X Wire",
+      "title": "🔥 HISTORY: 6 years ago today, Strategy adopted Bitcoin as its primary treasury reserve asset. It started with 21,454 $BTC for $250M at ~$11,653 per Bitcoin. Today, Strategy holds 840,447 BTC, nearly 39x its initial stack. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5\" target=\"_blank\">🔥 HISTORY: 6 years ago today, …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5",
+      "publishedAt": "2026-08-11T09:41:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser",
+      "localUrl": "/news/20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
       "summary": "The bitcoin miner’s 20-year agreement highlights an industry-wide shift toward AI infrastructure revenue.",
@@ -530,6 +648,17 @@
       "category": "市场",
       "slug": "20260811-riot-platforms-surges-20-in-pre-market-trading-on-91-billion-anthropic-deal",
       "localUrl": "/news/20260811-riot-platforms-surges-20-in-pre-market-trading-on-91-billion-anthropic-deal.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto According to CryptoQuant data, USDT’s 60-day rolling supply change has declined by about $4 billion, including an $870 million drop over the past 11 days alone. Analyst Stacy M - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3lRUXBXdFBHaFlVeHVvY0dRb1JoVHVweHZ5b2JKNi03ME1yZU9xcFZMZENmbEllSG1GSWMzZzJ5ekc5U3VUV29VMTZ0bS1PUTJFRThZbUh4azczeUFfNnJpRQ?oc=5\" target=\"_blank\">USDT Supply Shrinks by $4B Over …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3lRUXBXdFBHaFlVeHVvY0dRb1JoVHVweHZ5b2JKNi03ME1yZU9xcFZMZENmbEllSG1GSWMzZzJ5ekc5U3VUV29VMTZ0bS1PUTJFRThZbUh4azczeUFfNnJpRQ?oc=5",
+      "publishedAt": "2026-08-11T09:37:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord",
+      "localUrl": "/news/20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord.html"
     },
     {
       "source": "Cointelegraph",
@@ -634,20 +763,6 @@
       "localUrl": "/news/20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-      "summary": "The project said it will pay 10% of recovered funds, up to 3 BTC, after attackers stole LND credentials and drained merchant Lightning wallets last week.",
-      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-      "publishedAt": "2026-08-11T06:19:07.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260811-btcpay-offers-190000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-      "localUrl": "/news/20260811-btcpay-offers-190000-bounty-after-bitcoin-payment-servers-drained-in-exploit.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: 🇺🇸 SEC is set to begin its first major crypto rulemaking process this week as the Senate has failed to pass the Clarity Act before the August recess. The SEC will meet on August 14 to propose “Regulation Crypto.” The proposal could create a legal - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 SEC is set to beg…",
@@ -670,20 +785,6 @@
       "category": "DeFi",
       "slug": "20260811-payments-platform-decta-explores-stablecoin-enabled-treasury-settlement",
       "localUrl": "/news/20260811-payments-platform-decta-explores-stablecoin-enabled-treasury-settlement.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
-      "summary": "The breakaway chain has produced two blocks since splitting off on Saturday. Bitcoin has produced more than 300 in the same stretch.",
-      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-      "publishedAt": "2026-08-11T05:26:37.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260811-bitcoins-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-      "localUrl": "/news/20260811-bitcoins-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself.html"
     },
     {
       "source": "Cointelegraph",
@@ -748,30 +849,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🇺🇸BREAKING: SEC set to consider new crypto offering framework this Friday. The SEC has scheduled an open meeting Friday, August 14 at 10 AM ET to consider proposing a regulated framework for investment contracts involving crypto assets. The proposal - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CdEhwa3hsVUN0ekhPc2ZNVXRObEpJNDk4dnM3ZkhnXzFDRk9ZbFZSME9acDlJaXpBeHJmLTREc1BIS3ctZEVYakZzYWVleFY1MkNTOWx4d2NVVlFUQXZ6dA?oc=5\" target=\"_blank\">🇺🇸BREAKING: SEC set to consider ne…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CdEhwa3hsVUN0ekhPc2ZNVXRObEpJNDk4dnM3ZkhnXzFDRk9ZbFZSME9acDlJaXpBeHJmLTREc1BIS3ctZEVYakZzYWVleFY1MkNTOWx4d2NVVlFUQXZ6dA?oc=5",
-      "publishedAt": "2026-08-11T02:31:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-breaking-sec-set-to-consider-new-crypto-offering-framework-this-friday-the-sec-h",
-      "localUrl": "/news/20260811-breaking-sec-set-to-consider-new-crypto-offering-framework-this-friday-the-sec-h.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-      "summary": "The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricted access. Thailand sets crypto tax to 0% in bid to become crypto hub.",
-      "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T02:08:36.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "市场",
-      "slug": "20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express",
-      "localUrl": "/news/20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5\" target=\"_blank\">JUST IN: Anthropic signs a $9.1 bill…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5",
@@ -806,19 +883,6 @@
       "category": "监管",
       "slug": "20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown",
       "localUrl": "/news/20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Judge stays CFTC’s case against US soldier over prediction market bets",
-      "summary": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC’s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
-      "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T20:50:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260810-judge-stays-cftcs-case-against-us-soldier-over-prediction-market-bets",
-      "localUrl": "/news/20260810-judge-stays-cftcs-case-against-us-soldier-over-prediction-market-bets.html"
     },
     {
       "source": "Decrypt",
@@ -965,45 +1029,6 @@
       "localUrl": "/news/20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes.html"
     },
     {
-      "source": "Decrypt",
-      "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
-      "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-      "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
-      "publishedAt": "2026-08-10T16:11:20.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260810-xrp-price-weakens-as-crypto-market-awaits-clarity",
-      "localUrl": "/news/20260810-xrp-price-weakens-as-crypto-market-awaits-clarity.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-      "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-      "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-      "publishedAt": "2026-08-10T15:56:30.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains",
-      "localUrl": "/news/20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-      "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
-      "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
-      "publishedAt": "2026-08-10T15:03:07.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development",
-      "localUrl": "/news/20260810-openai-says-its-next-ai-model-astra-may-be-too-dangerous-pauses-development.html"
-    },
-    {
       "source": "X Wire",
       "title": "⚡️ JUST IN: Vitalik Buterin unveils Ethereum’s updated roadmap, prioritizing quantum safety, privacy, native rollups, scalability and a leaner protocol. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hUTJyTE1vRDFYOW5nbDFxdWZUMTY1N0EzOVc1X1lpRjU3ZERVcnRKNEtwQlZXRGJqaGJGTXNLUXFNbDk1a2RkbnliWjVmMTZUT0szazN6OGw5MHR4VnRrbEhhem8?oc=5\" target=\"_blank\">⚡️ JUST IN: Vitalik Buterin unv…",
@@ -1049,17 +1074,6 @@
     },
     {
       "source": "X Wire",
-      "title": "3/ In June 2026, a victim lost $1.2M in Bitcoin and Ethereum. Tiffany and her group drained the victim's Trezor wallet after a spoofed BitcoinIRA email sent under the alias 'Patricia Massie.' Theft addresses: bc1ql2t0mwtf6unkr8vnlg9hy7njuv7vcvn9nxvlzy 0x491 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdGQ0Mm5UX1JUOVJoX29yTURsNjllb0EtSEp0V21RSWtqX2x3UEh1S1dsUWFJTHBGM3dJdmJNbG02Zl8zZHJZYllOd3QxU0M4N3VuOFp2cDZodXZI?oc=5\" target=\"_blank\">3/ In June 2026, a victim lost $1.2M in Bi…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdGQ0Mm5UX1JUOVJoX29yTURsNjllb0EtSEp0V21RSWtqX2x3UEh1S1dsUWFJTHBGM3dJdmJNbG02Zl8zZHJZYllOd3QxU0M4N3VuOFp2cDZodXZI?oc=5",
-      "publishedAt": "2026-08-10T12:03:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-3-in-june-2026-a-victim-lost-12m-in-bitcoin-and-ethereum-tiffany-and-her-group-d",
-      "localUrl": "/news/20260810-3-in-june-2026-a-victim-lost-12m-in-bitcoin-and-ethereum-tiffany-and-her-group-d.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Fantom Backer and Quantum Fintech Founder Harry Yeh Dies After Naked Fall from Paraguay Tower, Claimed to Manage Over $2B Fantom ecosystem figure and Quantum Fintech Group founder Harry Yeh died after falling from the 30th floor of a luxury apart - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMmw3ZmVqc1pyNVFIUmhhNmZaUTlGZXlFeWp3VTVFWVNneHEyNjljYjNrQTlhaDZPMjU2Tl9wNmRLdk9vSm0xc3FfVnlxR3BFeDJGd2doOHpCQTNnM0pTczczMA?oc=5\" target=\"_blank\">Fantom Backer and Quantum Fintec…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEMmw3ZmVqc1pyNVFIUmhhNmZaUTlGZXlFeWp3VTVFWVNneHEyNjljYjNrQTlhaDZPMjU2Tl9wNmRLdk9vSm0xc3FfVnlxR3BFeDJGd2doOHpCQTNnM0pTczczMA?oc=5",
@@ -1068,17 +1082,6 @@
       "category": "X热点",
       "slug": "20260810-fantom-backer-and-quantum-fintech-founder-harry-yeh-dies-after-naked-fall-from-p",
       "localUrl": "/news/20260810-fantom-backer-and-quantum-fintech-founder-harry-yeh-dies-after-naked-fall-from-p.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "H100 acquires 2,455.4 Bitcoin at approx. USD 62,900 per Bitcoin, increasing total holdings to 3,506 BTC. The transaction, announced in April, has now been completed: - Largest M&A transaction in the European Public Bitcoin Equity sector - World's first Bitcoi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5\" target=\"_blank\">H100 acquires 2,455.4 Bitcoin at appro…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTF9mcnNqVUNFNVdoR3k4ZC0yRmJib1dNbEtPZUNwUVdQa2JHN3pXMzZ2ekY4RWtWS1hGZTBWZHF6clBtYjktaWJHQWdyd3ZnMWJaWmZCWTdMZUU1SFo4?oc=5",
-      "publishedAt": "2026-08-10T06:45:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol",
-      "localUrl": "/news/20260810-h100-acquires-24554-bitcoin-at-approx-usd-62900-per-bitcoin-increasing-total-hol.html"
     }
   ]
 }
