@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-08-11T19:16:24.698Z",
+  "updatedAt": "2026-08-11T21:00:15.378Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "The Bull and Bear Case for Solana’s Next Price Move",
+      "summary": "Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.",
+      "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
+      "publishedAt": "2026-08-11T20:46:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "基础设施",
+      "slug": "20260811-the-bull-and-bear-case-for-solanas-next-price-move",
+      "localUrl": "/news/20260811-the-bull-and-bear-case-for-solanas-next-price-move.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+      "summary": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
+      "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+      "publishedAt": "2026-08-11T20:10:00.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects",
+      "localUrl": "/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoneyGram expands crypto cash ramps to Solana",
+      "summary": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
+      "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T19:53:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260811-moneygram-expands-crypto-cash-ramps-to-solana",
+      "localUrl": "/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 SEC to unveil major crypto plans, Bloomberg reports. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVWlCb1NDcl9KbVpfN1k4SEtUSW91cTUxbk5QYXItMTVXcHVWQk5lajhaUHAxWXR2WGxqdlhtanVMUnhmV1QxYjVUcnBONG9SQ3YyTnF5TVRremFBaHlWSkdR?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC to unveil major …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVWlCb1NDcl9KbVpfN1k4SEtUSW91cTUxbk5QYXItMTVXcHVWQk5lajhaUHAxWXR2WGxqdlhtanVMUnhmV1QxYjVUcnBONG9SQ3YyTnF5TVRremFBaHlWSkdR?oc=5",
+      "publishedAt": "2026-08-11T19:48:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-sec-to-unveil-major-crypto-plans-bloomberg-reports-xcom",
+      "localUrl": "/news/20260811-just-in-sec-to-unveil-major-crypto-plans-bloomberg-reports-xcom.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Following Senate delay, crypto bill has a narrow window to become law",
+      "summary": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
+      "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T19:42:08.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260811-following-senate-delay-crypto-bill-has-a-narrow-window-to-become-law",
+      "localUrl": "/news/20260811-following-senate-delay-crypto-bill-has-a-narrow-window-to-become-law.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
@@ -800,32 +863,6 @@
       "localUrl": "/news/20260811-luke-dashjr-removed-as-bitcoin-improvement-proposal-editor.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "White House vows to get CLARITY across ‘finish line’ in September",
-      "summary": "Patrick Witt says the Trump administration will keep negotiating with Democrats as the Senate prepares for a September CLARITY vote.",
-      "url": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T04:12:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260811-white-house-vows-to-get-clarity-across-finish-line-in-september",
-      "localUrl": "/news/20260811-white-house-vows-to-get-clarity-across-finish-line-in-september.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
-      "summary": "Trump Media says it will take a more disciplined approach to its crypto treasury while directing more resources toward its core media business.",
-      "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T03:21:27.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260811-trump-media-to-revamp-crypto-treasury-strategy-after-238m-q2-loss",
-      "localUrl": "/news/20260811-trump-media-to-revamp-crypto-treasury-strategy-after-238m-q2-loss.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 NOW: White House crypto advisor Patrick Witt says, “The administration remains fully committed to getting the Clarity Act across the finish line in September.” - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMdXNQTF9ZTzM0V0xTdjJoMVY2RHFBT2lxeUhYY3B3Wnk2dHBlVk9FeUQ2WTBVLWNkdUV1TWE2VXlTNWl3SjA1TXdYRHNJcWNqWl9XNWxXcXlfa0VXNWZob096N3E?oc=5\" target=\"_blank\">🇺🇸 NOW: White House crypto ad…",
@@ -981,19 +1018,6 @@
       "localUrl": "/news/20260810-today-bitcoin-policy-institute-and-a-broad-coalition-from-across-the-digital-ass.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
-      "summary": "The price of Bitcoin is up on the seven-day chart, today bouncing to a high of $65,000. But bearish market pressure persists.",
-      "url": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
-      "publishedAt": "2026-08-10T17:18:49.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260810-bitcoin-rally-fadeswhere-does-price-go-next",
-      "localUrl": "/news/20260810-bitcoin-rally-fadeswhere-does-price-go-next.html"
-    },
-    {
       "source": "Chainalysis Blog",
       "title": "Understanding the FATF’s DeFi Report: A Functional Approach to Decentralized Finance Regulation",
       "summary": "Summary The FATF just released its first DeFi-specific report: Acknowledging DeFi’s operational benefits, the global AML/CFT standard-setter explains how jurisdictions,… The post Understanding the FATF’s DeFi Report: A Functional Approach …",
@@ -1014,19 +1038,6 @@
       "category": "监管",
       "slug": "20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan",
       "localUrl": "/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
-      "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
-      "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
-      "publishedAt": "2026-08-10T16:25:28.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "基础设施",
-      "slug": "20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
-      "localUrl": "/news/20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes.html"
     },
     {
       "source": "X Wire",
@@ -1060,17 +1071,6 @@
       "category": "X热点",
       "slug": "20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit",
       "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Last week, we completed a major engineering milestone. Crypto markets operate 24/7, making the maintenance and migration of core trading infrastructure exceptionally challenging. Despite this, our team successfully migrated our high-traffic core trading syst - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5\" target=\"_blank\">Last week, we completed a major enginee…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JTi01NG5HaTlZbUMxYldnc0wxY2dNcURtS0oxcGVqekpuTjc2bEtTUzNtUkEwVDJNemtpcUZhVUlGLUNtZWVFZlVFSFZyOE5lblg5c2g3Sm8tZ1JOSFE?oc=5",
-      "publishedAt": "2026-08-10T13:32:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-",
-      "localUrl": "/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html"
     },
     {
       "source": "X Wire",

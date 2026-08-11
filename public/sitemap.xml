@@ -2,15 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-11T19:16:24.772Z</lastmod>
+    <lastmod>2026-08-11T21:00:15.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-11T19:16:24.772Z</lastmod>
+    <lastmod>2026-08-11T21:00:15.418Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-the-bull-and-bear-case-for-solanas-next-price-move.html</loc>
+    <lastmod>2026-08-11T20:46:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html</loc>
+    <lastmod>2026-08-11T20:10:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html</loc>
+    <lastmod>2026-08-11T19:53:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-just-in-sec-to-unveil-major-crypto-plans-bloomberg-reports-xcom.html</loc>
+    <lastmod>2026-08-11T19:48:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-following-senate-delay-crypto-bill-has-a-narrow-window-to-become-law.html</loc>
+    <lastmod>2026-08-11T19:42:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260811-brazils-largest-lender-itau-is-stepping-deeper-into-the-tokenization.html</loc>
@@ -367,18 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260811-white-house-vows-to-get-clarity-across-finish-line-in-september.html</loc>
-    <lastmod>2026-08-11T04:12:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260811-trump-media-to-revamp-crypto-treasury-strategy-after-238m-q2-loss.html</loc>
-    <lastmod>2026-08-11T03:21:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260811-now-white-house-crypto-advisor-patrick-witt-says-the-administration-remains-full.html</loc>
     <lastmod>2026-08-11T03:00:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -457,20 +475,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-bitcoin-rally-fadeswhere-does-price-go-next.html</loc>
-    <lastmod>2026-08-10T17:18:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html</loc>
     <lastmod>2026-08-10T17:09:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes.html</loc>
-    <lastmod>2026-08-10T16:25:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html</loc>
     <lastmod>2026-08-10T14:39:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html</loc>
-    <lastmod>2026-08-10T13:32:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
