@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-10T23:47:32.305Z</lastmod>
+    <lastmod>2026-08-11T02:23:35.913Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-10T23:47:32.305Z</lastmod>
+    <lastmod>2026-08-11T02:23:35.913Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express.html</loc>
+    <lastmod>2026-08-11T02:08:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai.html</loc>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown.html</loc>
     <lastmod>2026-08-10T21:02:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260810-i-am-taking-a-sabbatical-from-ocean-as-chairman-and-cto-and-will-turn-my-immedia.html</loc>
+    <lastmod>2026-08-10T20:54:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -93,12 +105,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik.html</loc>
     <lastmod>2026-08-10T17:51:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-today-bitcoin-policy-institute-and-a-broad-coalition-from-across-the-digital-ass.html</loc>
-    <lastmod>2026-08-10T17:48:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html</loc>
     <lastmod>2026-08-09T13:02:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html</loc>
-    <lastmod>2026-08-09T11:00:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

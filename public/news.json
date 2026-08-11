@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-10T23:47:32.262Z",
+  "updatedAt": "2026-08-11T02:23:35.884Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
+      "summary": "The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricts access. Thailand sets crypto tax to 0% in bid to become crypto hub.",
+      "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T02:08:36.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "市场",
+      "slug": "20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express",
+      "localUrl": "/news/20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express.html"
+    },
     {
       "source": "Decrypt",
       "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
@@ -54,6 +67,17 @@
       "category": "监管",
       "slug": "20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown",
       "localUrl": "/news/20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I am taking a sabbatical from OCEAN as Chairman and CTO and will turn my immediate focus to working on Bitcoin and open-source projects to support Bitcoin. I believe this is the best use of my time and is in the best interests of Bitcoin and Bitcoin’s long-term - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nX3hZRUVELU4xcnhHR05LZUJ0Sm1PS0xDYnpic0IwR1ZTeTd0Z0F3UnhPeVFjM3JVY1VjeGtRWkNGdVJUaWdZbG5fNlh0V2VYRHNZc3JNcXZEZlBGV2ZuTA?oc=5\" target=\"_blank\">I am taking a sabbatical from OCEAN …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nX3hZRUVELU4xcnhHR05LZUJ0Sm1PS0xDYnpic0IwR1ZTeTd0Z0F3UnhPeVFjM3JVY1VjeGtRWkNGdVJUaWdZbG5fNlh0V2VYRHNZc3JNcXZEZlBGV2ZuTA?oc=5",
+      "publishedAt": "2026-08-10T20:54:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-i-am-taking-a-sabbatical-from-ocean-as-chairman-and-cto-and-will-turn-my-immedia",
+      "localUrl": "/news/20260810-i-am-taking-a-sabbatical-from-ocean-as-chairman-and-cto-and-will-turn-my-immedia.html"
     },
     {
       "source": "Cointelegraph",
@@ -193,17 +217,6 @@
       "category": "市场",
       "slug": "20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
       "localUrl": "/news/20260810-brazils-319b-crypto-market-faces-october-licensing-deadline-certik.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Today, Bitcoin Policy Institute and a broad coalition from across the digital-asset ecosystem are publishing an open letter calling on the world’s leading AI labs to provide qualified open-source defenders with trusted access to frontier AI models. The past severa - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNnVRdmFfN09La1RFbndleE1Rb2xHRkl6VDBabDVmZ0lPUWR4d1c3RVlYU0V2NTh3akZSekxjYnBoaUxoNko0eW9YOVF3cTlZUk1mRlRiVmhTblA0NmNxdnlpRzA?oc=5\" target=\"_blank\">Today, Bitcoin Policy Institute…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNnVRdmFfN09La1RFbndleE1Rb2xHRkl6VDBabDVmZ0lPUWR4d1c3RVlYU0V2NTh3akZSekxjYnBoaUxoNko0eW9YOVF3cTlZUk1mRlRiVmhTblA0NmNxdnlpRzA?oc=5",
-      "publishedAt": "2026-08-10T17:48:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-today-bitcoin-policy-institute-and-a-broad-coalition-from-across-the-digital-ass",
-      "localUrl": "/news/20260810-today-bitcoin-policy-institute-and-a-broad-coalition-from-across-the-digital-ass.html"
     },
     {
       "source": "Decrypt",
@@ -1027,19 +1040,6 @@
       "category": "X热点",
       "slug": "20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
       "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-      "summary": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-09T11:00:53.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens",
-      "localUrl": "/news/20260809-bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens.html"
     },
     {
       "source": "X Wire",
