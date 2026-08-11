@@ -1,11 +1,78 @@
 {
-  "updatedAt": "2026-08-11T02:23:35.884Z",
+  "updatedAt": "2026-08-11T04:36:34.026Z",
   "total": 81,
   "items": [
     {
       "source": "Cointelegraph",
+      "title": "White House vows to get CLARITY across ‘finish line’ in September",
+      "summary": "Patrick Witt says the Trump administration will keep negotiating with Democrats as the Senate prepares for a September CLARITY vote.",
+      "url": "https://cointelegraph.com/news/white-house-clarity-across-finish-line-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T04:12:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260811-white-house-vows-to-get-clarity-across-finish-line-in-september",
+      "localUrl": "/news/20260811-white-house-vows-to-get-clarity-across-finish-line-in-september.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "summary": "The Securities and Exchange Commission will vote this week to start its first major crypto rulemaking process.",
+      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+      "publishedAt": "2026-08-11T04:07:48.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260811-us-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offe",
+      "localUrl": "/news/20260811-us-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offe.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's 'strongest hands' are back, on-chain data show",
+      "summary": "Elite wallets holding over 10,000 BTC has hit a six-month high of 90, building on earlier accumulation by mid-sized whales amid Coldcard fallout and Clarity Act delays.",
+      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-s-strongest-hands-are-back-on-chain-data-show",
+      "publishedAt": "2026-08-11T03:48:40.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260811-bitcoins-strongest-hands-are-back-on-chain-data-show",
+      "localUrl": "/news/20260811-bitcoins-strongest-hands-are-back-on-chain-data-show.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump Media to revamp crypto treasury strategy after $238M Q2 loss",
+      "summary": "Trump Media says it will take a more disciplined approach to its crypto treasury while directing more resources toward its core media business.",
+      "url": "https://cointelegraph.com/news/trump-media-crypto-treasury-strategy-after-238m-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T03:21:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260811-trump-media-to-revamp-crypto-treasury-strategy-after-238m-q2-loss",
+      "localUrl": "/news/20260811-trump-media-to-revamp-crypto-treasury-strategy-after-238m-q2-loss.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸BREAKING: SEC set to consider new crypto offering framework this Friday. The SEC has scheduled an open meeting Friday, August 14 at 10 AM ET to consider proposing a regulated framework for investment contracts involving crypto assets. The proposal - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CdEhwa3hsVUN0ekhPc2ZNVXRObEpJNDk4dnM3ZkhnXzFDRk9ZbFZSME9acDlJaXpBeHJmLTREc1BIS3ctZEVYakZzYWVleFY1MkNTOWx4d2NVVlFUQXZ6dA?oc=5\" target=\"_blank\">🇺🇸BREAKING: SEC set to consider ne…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CdEhwa3hsVUN0ekhPc2ZNVXRObEpJNDk4dnM3ZkhnXzFDRk9ZbFZSME9acDlJaXpBeHJmLTREc1BIS3ctZEVYakZzYWVleFY1MkNTOWx4d2NVVlFUQXZ6dA?oc=5",
+      "publishedAt": "2026-08-11T02:31:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-breaking-sec-set-to-consider-new-crypto-offering-framework-this-friday-the-sec-h",
+      "localUrl": "/news/20260811-breaking-sec-set-to-consider-new-crypto-offering-framework-this-friday-the-sec-h.html"
+    },
+    {
+      "source": "Cointelegraph",
       "title": "Thailand’s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
-      "summary": "The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricts access. Thailand sets crypto tax to 0% in bid to become crypto hub.",
+      "summary": "The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricted access. Thailand sets crypto tax to 0% in bid to become crypto hub.",
       "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-11T02:08:36.000Z",
       "keywords": [
@@ -14,6 +81,17 @@
       "category": "市场",
       "slug": "20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express",
       "localUrl": "/news/20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5\" target=\"_blank\">JUST IN: Anthropic signs a $9.1 bill…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5",
+      "publishedAt": "2026-08-11T00:27:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo",
+      "localUrl": "/news/20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo.html"
     },
     {
       "source": "Decrypt",
@@ -27,17 +105,6 @@
       "category": "监管",
       "slug": "20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai",
       "localUrl": "/news/20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Trump Media discloses holding 14,139 Bitcoin worth $905,000,000 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83ODFZWk14Y0dtdXd3TlRRcGh5c0VrYjlTUjVDWnpSQkJwQlBSNWxwUVZjR2lKaUd6YzBySUVHU2VvMEFYSmlKeUkzZlNHWDhvelNuOFZaMDNjWHJxUlZvaEp3?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Trump Media disclose…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83ODFZWk14Y0dtdXd3TlRRcGh5c0VrYjlTUjVDWnpSQkJwQlBSNWxwUVZjR2lKaUd6YzBySUVHU2VvMEFYSmlKeUkzZlNHWDhvelNuOFZaMDNjWHJxUlZvaEp3?oc=5",
-      "publishedAt": "2026-08-10T21:47:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-just-in-trump-media-discloses-holding-14139-bitcoin-worth-905000000-xcom",
-      "localUrl": "/news/20260810-just-in-trump-media-discloses-holding-14139-bitcoin-worth-905000000-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -374,17 +441,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Vitalik Updates Ethereum Roadmap, Prioritizing Quantum Safety, Privacy and Native Rollups @VitalikButerin said Ethereum’s updated roadmap has significantly shifted since 2023, with quantum safety and privacy moving up in priority while some earlier idea - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdUpYVUJvcEFsODBXSlEzeEo4RWxKUkJuM2s0b29UQUdHM0cyb3o0WGgweFVVaVVKN292S3hjS29Oc1hjQzBsNWNNYUNENU5UVHpmV0VYZmd3UnpyMEdFQjdfbw?oc=5\" target=\"_blank\">Vitalik Updates Ethereum Roadmap…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMdUpYVUJvcEFsODBXSlEzeEo4RWxKUkJuM2s0b29UQUdHM0cyb3o0WGgweFVVaVVKN292S3hjS29Oc1hjQzBsNWNNYUNENU5UVHpmV0VYZmd3UnpyMEdFQjdfbw?oc=5",
-      "publishedAt": "2026-08-10T14:47:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-vitalik-updates-ethereum-roadmap-prioritizing-quantum-safety-privacy-and-native-",
-      "localUrl": "/news/20260810-vitalik-updates-ethereum-roadmap-prioritizing-quantum-safety-privacy-and-native-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "I updated my 2023 roadmap diagram to overlay where the items that were there sit in the current Strawmap ( strawmap.org ). In general, a lot of overlap, but: * Some things got reshuffled in order (eg. quantum safety up-prioritized) * Some things deprioritized (e - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5\" target=\"_blank\">I updated my 2023 roadmap di…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5",
@@ -547,6 +603,17 @@
       "category": "市场",
       "slug": "20260810-strategy-sells-1690-bitcoin-raises-653-million-from-mstr-shares",
       "localUrl": "/news/20260810-strategy-sells-1690-bitcoin-raises-653-million-from-mstr-shares.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "3/ In June 2026, a victim lost $1.2M in Bitcoin and Ethereum. Tiffany and her group drained the victim's Trezor wallet after a spoofed BitcoinIRA email sent under the alias 'Patricia Massie.' Theft addresses: bc1ql2t0mwtf6unkr8vnlg9hy7njuv7vcvn9nxvlzy 0x491 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdGQ0Mm5UX1JUOVJoX29yTURsNjllb0EtSEp0V21RSWtqX2x3UEh1S1dsUWFJTHBGM3dJdmJNbG02Zl8zZHJZYllOd3QxU0M4N3VuOFp2cDZodXZI?oc=5\" target=\"_blank\">3/ In June 2026, a victim lost $1.2M in Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdGQ0Mm5UX1JUOVJoX29yTURsNjllb0EtSEp0V21RSWtqX2x3UEh1S1dsUWFJTHBGM3dJdmJNbG02Zl8zZHJZYllOd3QxU0M4N3VuOFp2cDZodXZI?oc=5",
+      "publishedAt": "2026-08-10T12:03:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-3-in-june-2026-a-victim-lost-12m-in-bitcoin-and-ethereum-tiffany-and-her-group-d",
+      "localUrl": "/news/20260810-3-in-june-2026-a-victim-lost-12m-in-bitcoin-and-ethereum-tiffany-and-her-group-d.html"
     },
     {
       "source": "CoinDesk",
@@ -892,20 +959,6 @@
       "localUrl": "/news/20260810-heres-what-happened-in-crypto-today.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-      "summary": "Ocean, a bitcoin mining pool, had been backing BIP-110 by default. Simple Mining, a company that runs mining machines through Ocean, used software from the pool that lets individual miners choose for themselves and went the other way.",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-      "publishedAt": "2026-08-10T06:25:17.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260810-this-bitcoin-miner-rejected-bip-110-despite-mining-through-a-pool-that-supported",
-      "localUrl": "/news/20260810-this-bitcoin-miner-rejected-bip-110-despite-mining-through-a-pool-that-supported.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
       "summary": "Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.",
@@ -917,20 +970,6 @@
       "category": "市场",
       "slug": "20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me",
       "localUrl": "/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-      "summary": "Every major except XRP is green on the week, with BTC, ether and BNB each up nearly 3% as global stocks trade near a record.",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-      "publishedAt": "2026-08-10T04:39:37.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260810-bitcoin-tops-65000-with-us-inflation-data-due-this-week",
-      "localUrl": "/news/20260810-bitcoin-tops-65000-with-us-inflation-data-due-this-week.html"
     },
     {
       "source": "Cointelegraph",
@@ -957,32 +996,6 @@
       "category": "安全",
       "slug": "20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder",
       "localUrl": "/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BIP-110 ends with a whimper, CLARITY vote punted: Hodler’s Digest, Aug. 9",
-      "summary": "BIP-110 forks itself into oblivion with a “2-block chain” and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
-      "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T00:32:21.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "综合",
-      "slug": "20260810-bip-110-ends-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9",
-      "localUrl": "/news/20260810-bip-110-ends-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ex-US defense secretary calls CLARITY Act a ‘national security bill’",
-      "summary": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one.",
-      "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T00:31:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill",
-      "localUrl": "/news/20260810-ex-us-defense-secretary-calls-clarity-act-a-national-security-bill.html"
     },
     {
       "source": "X Wire",
@@ -1029,17 +1042,6 @@
       "category": "X热点",
       "slug": "20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo",
       "localUrl": "/news/20260809-crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Michael Saylor hints at another Bitcoin announcement tomorrow 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5\" target=\"_blank\">JUST IN: Michael Saylor hin…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sU0hJbHY5akJzZUJvY29vZHVqVjJYeVJaWXdGRGxScFZaeHNONXprd1Y2QXNBWUJvLWhFZEg1VDRzOWxfYzJmdjJQcHBaM3dKOFg0dldRMHg1YVRUaG5XWV9FWERtTG8?oc=5",
-      "publishedAt": "2026-08-09T13:02:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom",
-      "localUrl": "/news/20260809-just-in-michael-saylor-hints-at-another-bitcoin-announcement-tomorrow-xcom.html"
     },
     {
       "source": "X Wire",
