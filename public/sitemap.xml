@@ -2,15 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-11T11:53:30.496Z</lastmod>
+    <lastmod>2026-08-11T13:36:59.471Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-11T11:53:30.496Z</lastmod>
+    <lastmod>2026-08-11T13:36:59.471Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls.html</loc>
+    <lastmod>2026-08-11T13:27:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-sharplink-reports-394m-in-q2-net-loss-fueled-by-eth-decline.html</loc>
+    <lastmod>2026-08-11T13:13:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-th.html</loc>
+    <lastmod>2026-08-11T13:06:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-etoro-to-buy-tradezero-as-q2-crypto-revenue-falls-30.html</loc>
+    <lastmod>2026-08-11T12:25:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row.html</loc>
+    <lastmod>2026-08-11T12:22:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-russia-proposes-exchange-trading-of-bitcoin-ether-and-tethers-usdt.html</loc>
+    <lastmod>2026-08-11T12:09:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi.html</loc>
+    <lastmod>2026-08-11T12:02:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-moneygram-expands-on-solana-with-global-crypto-to-cash-service.html</loc>
+    <lastmod>2026-08-11T12:02:22.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260811-australian-watchdog-suspends-cryptolink-forcing-96-atms-offline.html</loc>
@@ -55,7 +103,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260811-live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai.html</loc>
+    <loc>https://www.librchain.com/news/20260811-live-updates-bitcoin-holds-64200-anthropic-to-watermark-claudes-ai-content-after.html</loc>
     <lastmod>2026-08-11T10:34:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -139,6 +187,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260811-opengradient-co-founder-alleges-bitmart-insolvency-as-funds-remain-frozen-opengr.html</loc>
+    <lastmod>2026-08-11T06:45:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers.html</loc>
     <lastmod>2026-08-11T06:28:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -175,6 +229,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-.html</loc>
+    <lastmod>2026-08-11T05:09:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260811-luke-dashjr-removed-as-bitcoin-improvement-proposal-editor.html</loc>
     <lastmod>2026-08-11T04:54:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -195,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260811-us-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offe.html</loc>
     <lastmod>2026-08-11T04:07:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260811-bitcoins-strongest-hands-are-back-on-chain-data-show.html</loc>
-    <lastmod>2026-08-11T03:48:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -235,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260811-blackrock-head-of-digital-assets-robert-mitchnick-says-bitcoin-sentiment-is-turn.html</loc>
-    <lastmod>2026-08-11T01:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260811-just-in-anthropic-struck-a-91-billion-cloud-deal-with-bitcoin-miner-riot-platfor.html</loc>
     <lastmod>2026-08-11T01:20:55.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -259,12 +307,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-trump-medias-bitcoin-holdings-shrink-as-crypto-losses-hit-361-million.html</loc>
-    <lastmod>2026-08-10T21:12:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown.html</loc>
     <lastmod>2026-08-10T21:02:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -279,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html</loc>
     <lastmod>2026-08-10T19:56:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-bitcoins-elite-wallet-count-has-bounced-back-to-a-6-month-high-with-90-wallets-n.html</loc>
-    <lastmod>2026-08-10T19:53:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +403,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-blackrock-launches-2-canada-etfs-with-one-allocating-3-to-bitcoin.html</loc>
-    <lastmod>2026-08-10T15:59:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260810-hackers-drain-8-million-from-crypto-exchange-across-two-blockchains.html</loc>
     <lastmod>2026-08-10T15:56:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -391,6 +421,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260810-vitalik-updates-ethereum-roadmap-prioritizing-quantum-safety-privacy-and-native-.html</loc>
+    <lastmod>2026-08-10T14:47:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html</loc>
     <lastmod>2026-08-10T14:39:08.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,18 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html</loc>
     <lastmod>2026-08-10T13:32:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-bitdeer-increased-bitcoin-mining-output-by-nearly-fivefold-in-q2.html</loc>
-    <lastmod>2026-08-10T13:07:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-strategy-turns-1690-btc-into-1086m-strc-buyback.html</loc>
-    <lastmod>2026-08-10T12:36:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,32 +469,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030.html</loc>
-    <lastmod>2026-08-10T10:19:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260810-bitcoin-etf-inflows-hit-four-month-high-us-listed-bitcoin-etfs-attracted-more-th.html</loc>
     <lastmod>2026-08-10T09:07:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-bybit-sues-north-korea-over-15b-hack-wins-order-freezing-assets.html</loc>
-    <lastmod>2026-08-10T09:04:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-bitcoin-is-economic-freedom-for-generations-to-come-sir-david-khalili-xcom.html</loc>
-    <lastmod>2026-08-10T08:33:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-new-hedge-funds-on-cme-have-flipped-net-long-bitcoin-futures-a-rare-shift-after-.html</loc>
-    <lastmod>2026-08-10T08:05:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260809-bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks.html</loc>
-    <lastmod>2026-08-09T19:33:09.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260809-the-future-of-markets-isnt-tradfi-or-crypto-its-both-with-60-of-tradfi-perpetual.html</loc>
+    <lastmod>2026-08-09T21:00:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
