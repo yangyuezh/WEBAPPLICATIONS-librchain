@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-11T04:36:34.058Z</lastmod>
+    <lastmod>2026-08-11T06:01:21.081Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-11T04:36:34.058Z</lastmod>
+    <lastmod>2026-08-11T06:01:21.081Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-11T05:39:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-bitcoins-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself.html</loc>
+    <lastmod>2026-08-11T05:26:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-luke-dashjr-removed-as-bitcoin-improvement-proposal-editor.html</loc>
+    <lastmod>2026-08-11T04:54:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-xrp-ether-lead-crypto-losses-as-traders-eye-70000-bitcoin-next.html</loc>
+    <lastmod>2026-08-11T04:50:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260811-white-house-vows-to-get-clarity-across-finish-line-in-september.html</loc>
@@ -45,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express.html</loc>
     <lastmod>2026-08-11T02:08:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260811-blackrock-head-of-digital-assets-robert-mitchnick-says-bitcoin-sentiment-is-turn.html</loc>
+    <lastmod>2026-08-11T01:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -175,7 +205,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin.html</loc>
+    <loc>https://www.librchain.com/news/20260810-blackrock-launches-2-canada-etfs-with-one-allocating-3-to-bitcoin.html</loc>
     <lastmod>2026-08-10T15:59:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -397,24 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app.html</loc>
-    <lastmod>2026-08-10T07:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom.html</loc>
-    <lastmod>2026-08-10T06:57:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000.html</loc>
-    <lastmod>2026-08-10T06:56:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260810-just-in-umx-the-unified-market-exchange-incubated-by-li-lins-avenir-group-has-la.html</loc>
     <lastmod>2026-08-10T06:53:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -433,12 +445,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260810-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-10T06:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260810-bitcoin-red-team-founder-turns-to-chinese-ai-it-absolutely-guts-me.html</loc>
     <lastmod>2026-08-10T05:18:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures.html</loc>
     <lastmod>2026-08-10T04:32:36.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html</loc>
-    <lastmod>2026-08-10T03:34:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-08-11T04:36:34.026Z",
+  "updatedAt": "2026-08-11T06:01:21.041Z",
   "total": 81,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T05:39:31.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260811-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260811-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+      "summary": "The breakaway chain has produced two blocks since splitting off on Saturday. Bitcoin has produced more than 300 in the same stretch.",
+      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+      "publishedAt": "2026-08-11T05:26:37.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260811-bitcoins-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+      "localUrl": "/news/20260811-bitcoins-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
+      "summary": "Luke Dashjr lost his BIP editor privileges after developers raised concerns over his role in BIP 110 and its stalled minority fork.",
+      "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-11T04:54:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260811-luke-dashjr-removed-as-bitcoin-improvement-proposal-editor",
+      "localUrl": "/news/20260811-luke-dashjr-removed-as-bitcoin-improvement-proposal-editor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+      "summary": "Bitcoin failed to hold $65,000 for a fourth day as an oil rally revived inflation worries before Wednesday's U.S. price data.",
+      "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+      "publishedAt": "2026-08-11T04:50:23.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260811-xrp-ether-lead-crypto-losses-as-traders-eye-70000-bitcoin-next",
+      "localUrl": "/news/20260811-xrp-ether-lead-crypto-losses-as-traders-eye-70000-bitcoin-next.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "White House vows to get CLARITY across ‘finish line’ in September",
@@ -81,6 +135,17 @@
       "category": "市场",
       "slug": "20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express",
       "localUrl": "/news/20260811-thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BLACKROCK HEAD OF DIGITAL ASSETS ROBERT MITCHNICK SAYS BITCOIN SENTIMENT IS TURNING AS $BTC DECOUPLES FROM STOCKS - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDcmQyN01nazhXWkE5b3NoSGh3SWxRdTQ4ZUhBNDZQM3FuU29CSUExV1JNdTVJYU14bWVCZGQyTS1NZzVzZUM2ajBUSTBPNWljRXpZemhLR0VnNTdfMFVlQTdn?oc=5\" target=\"_blank\">BLACKROCK HEAD OF DIGITAL ASSETS R…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDcmQyN01nazhXWkE5b3NoSGh3SWxRdTQ4ZUhBNDZQM3FuU29CSUExV1JNdTVJYU14bWVCZGQyTS1NZzVzZUM2ajBUSTBPNWljRXpZemhLR0VnNTdfMFVlQTdn?oc=5",
+      "publishedAt": "2026-08-11T01:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-blackrock-head-of-digital-assets-robert-mitchnick-says-bitcoin-sentiment-is-turn",
+      "localUrl": "/news/20260811-blackrock-head-of-digital-assets-robert-mitchnick-says-bitcoin-sentiment-is-turn.html"
     },
     {
       "source": "X Wire",
@@ -374,7 +439,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "BlackRock launches two Canada ETFs, with one allocating 3% to Bitcoin",
+      "title": "BlackRock launches 2 Canada ETFs, with one allocating 3% to Bitcoin",
       "summary": "BlackRock Canada’s new IBQT fund combines global equity exposure with a 3% Bitcoin allocation through the firm’s Canadian iShares Bitcoin ETF.",
       "url": "https://cointelegraph.com/news/blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-10T15:59:06.000Z",
@@ -382,8 +447,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260810-blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin",
-      "localUrl": "/news/20260810-blackrock-launches-two-canada-etfs-with-one-allocating-3-to-bitcoin.html"
+      "slug": "20260810-blackrock-launches-2-canada-etfs-with-one-allocating-3-to-bitcoin",
+      "localUrl": "/news/20260810-blackrock-launches-2-canada-etfs-with-one-allocating-3-to-bitcoin.html"
     },
     {
       "source": "Decrypt",
@@ -870,49 +935,6 @@
       "localUrl": "/news/20260810-uk-regulators-to-prepare-tokenized-gold-framework-report.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-      "summary": "The trading firm is also introducing “Robinhood Cortex Digests for Crypto,” a generative AI-powered widget that analyses breaking news and other data.",
-      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Robinhood",
-        "UK",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app",
-      "localUrl": "/news/20260810-robinhood-brings-crypto-trading-to-uk-in-ai-powered-all-in-one-app.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin–gold correlation is back to digital-gold-era levels. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOXNXdDZYZkxVX21rYmx2TXFNX3duamI4UFg5eWJySGxUYmVJSWEzSEZxaThxMllIaUxJU2tYVXhodE1udVc0alVQX3VCdEVJajYxRUVyWjNlMC0yVmx2SHh3?oc=5\" target=\"_blank\">Bitcoin–gold correlation is back t…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOXNXdDZYZkxVX21rYmx2TXFNX3duamI4UFg5eWJySGxUYmVJSWEzSEZxaThxMllIaUxJU2tYVXhodE1udVc0alVQX3VCdEVJajYxRUVyWjNlMC0yVmx2SHh3?oc=5",
-      "publishedAt": "2026-08-10T06:57:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom",
-      "localUrl": "/news/20260810-bitcoingold-correlation-is-back-to-digital-gold-era-levels-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: WTI crude oil up 5% and back to $80, as bitcoin drops below $64,000",
-      "summary": "The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.",
-      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-      "publishedAt": "2026-08-10T06:56:50.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "监管",
-      "slug": "20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000",
-      "localUrl": "/news/20260810-live-updates-wti-crude-oil-up-5-and-back-to-80-as-bitcoin-drops-below-64000.html"
-    },
-    {
       "source": "X Wire",
       "title": "Just In: UMX (The Unified Market Exchange), incubated by Li Lin's Avenir Group, has launched its invitation-only public beta today. UMX positions itself as a “crypto-friendly securities platform,” planning to offer both crypto asset trading and real US stocks onto - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IWUFNZ0Y1QUZ5dFRmZkFNaXpXVWhTdUxTVUV4elAyWDBaNHFzTklYbTQ1UlNKS0cwODl0SmtNZnpaQ0dPSEVodFVTLWJ5LUdDVHVWczFobmRCa3NELXV1dUJsbw?oc=5\" target=\"_blank\">Just In: UMX (The Unified Market…",
@@ -947,19 +969,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T06:30:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260810-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260810-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
       "summary": "Bitcoin Red Team has now found 1,288 critical and high-level vulnerabilities in the Bitcoin ecosystem as of Saturday.",
       "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -983,19 +992,6 @@
       "category": "市场",
       "slug": "20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures",
       "localUrl": "/news/20260810-australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
-      "summary": "Bad actors with access to a cryptography-breaking quantum computer probably won’t try to announce it to the world by hacking Satoshi Nakamoto’s high-profile Bitcoin wallets, crypto executives say.",
-      "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-10T03:34:53.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder",
-      "localUrl": "/news/20260810-cryptos-first-quantum-attack-will-look-like-unexplained-breach-quantus-founder.html"
     },
     {
       "source": "X Wire",
