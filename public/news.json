@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-11T22:00:02.730Z",
+  "updatedAt": "2026-08-11T22:58:21.252Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+      "summary": "The former operating chief is starting a new venture following several departures across the ChatGPT developer’s leadership and safety teams.",
+      "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
+      "publishedAt": "2026-08-11T22:04:06.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260811-another-openai-exec-quits-in-leadership-shake-up-as-ai-giant-eyes-ipo",
+      "localUrl": "/news/20260811-another-openai-exec-quits-in-leadership-shake-up-as-ai-giant-eyes-ipo.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
@@ -111,17 +124,6 @@
       "localUrl": "/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 SEC to unveil major crypto plans, Bloomberg reports. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVWlCb1NDcl9KbVpfN1k4SEtUSW91cTUxbk5QYXItMTVXcHVWQk5lajhaUHAxWXR2WGxqdlhtanVMUnhmV1QxYjVUcnBONG9SQ3YyTnF5TVRremFBaHlWSkdR?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC to unveil major …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qVWlCb1NDcl9KbVpfN1k4SEtUSW91cTUxbk5QYXItMTVXcHVWQk5lajhaUHAxWXR2WGxqdlhtanVMUnhmV1QxYjVUcnBONG9SQ3YyTnF5TVRremFBaHlWSkdR?oc=5",
-      "publishedAt": "2026-08-11T19:48:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-just-in-sec-to-unveil-major-crypto-plans-bloomberg-reports-xcom",
-      "localUrl": "/news/20260811-just-in-sec-to-unveil-major-crypto-plans-bloomberg-reports-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Following Senate delay, crypto bill has a narrow window to become law",
       "summary": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
@@ -201,17 +203,6 @@
       "category": "监管",
       "slug": "20260811-arp-digital-secures-dubai-vara-broker-dealer-license",
       "localUrl": "/news/20260811-arp-digital-secures-dubai-vara-broker-dealer-license.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 CFTC says it is prepared to advance crypto regulations even if Congress fails to pass the crypto Clarity Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 CFTC says it is prep…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5",
-      "publishedAt": "2026-08-11T17:39:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-",
-      "localUrl": "/news/20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-.html"
     },
     {
       "source": "Decrypt",
@@ -778,6 +769,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: White House vows to PASS the crypto CLARITY Act in September. Patrick Witt says the Trump administration remains “fully committed” to passing the crypto bill, adding, the US \"can’t afford to wait forever.” The bill now faces a 60-vote test on Septemb - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JMExvSmd6d19rTUM4dHVqR2ZNb2cwTTNxZmVIMHl1Z0RFMHJiLTlOSGZYS0dCZXdTQ0M1bXNCaVRWbURsSjhQTTUyMkY1RmhObXNUcjNseDI2bFVKSGx6cg?oc=5\" target=\"_blank\">JUST IN: White House vows to PASS th…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JMExvSmd6d19rTUM4dHVqR2ZNb2cwTTNxZmVIMHl1Z0RFMHJiLTlOSGZYS0dCZXdTQ0M1bXNCaVRWbURsSjhQTTUyMkY1RmhObXNUcjNseDI2bFVKSGx6cg?oc=5",
+      "publishedAt": "2026-08-11T09:55:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-white-house-vows-to-pass-the-crypto-clarity-act-in-september-patrick-wit",
+      "localUrl": "/news/20260811-just-in-white-house-vows-to-pass-the-crypto-clarity-act-in-september-patrick-wit.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🔥 HISTORY: 6 years ago today, Strategy adopted Bitcoin as its primary treasury reserve asset. It started with 21,454 $BTC for $250M at ~$11,653 per Bitcoin. Today, Strategy holds 840,447 BTC, nearly 39x its initial stack. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5\" target=\"_blank\">🔥 HISTORY: 6 years ago today, …",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5",
@@ -919,6 +921,17 @@
       "localUrl": "/news/20260811-arthur-hayes-fed-backed-yen-rescue-could-fuel-bitcoin-gold-and-ether-bitmex-co-f.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5\" target=\"_blank\">JUST IN: Anthropic signs a $9.1 bill…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5",
+      "publishedAt": "2026-08-11T00:27:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo",
+      "localUrl": "/news/20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
       "summary": "Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
@@ -969,17 +982,6 @@
       "localUrl": "/news/20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp.html"
     },
     {
-      "source": "X Wire",
-      "title": "Best report I've read on Robinhood Chain: > Q2 crypto revenue fell 38% YoY to $100m accounting for 8% of revenue > Retail crypto volume declined 36% YoY > Crypto’s share of total AUC fell to all-time low of 7% > Robinhood Chain had one of the strongest - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xOFdQN3ZLZ19SRzVlazBUMFZ6SXVSZXVuODR6dGU0ajk5UDZtYkhUM3ByeFV2VERiUFdoTUtiSTB0YTl0NDZtMDVrMjRmS3h2UXFDUGlYXzBUSGJuZGJEOEFLYlA?oc=5\" target=\"_blank\">Best report I've read on Robinh…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xOFdQN3ZLZ19SRzVlazBUMFZ6SXVSZXVuODR6dGU0ajk5UDZtYkhUM3ByeFV2VERiUFdoTUtiSTB0YTl0NDZtMDVrMjRmS3h2UXFDUGlYXzBUSGJuZGJEOEFLYlA?oc=5",
-      "publishedAt": "2026-08-10T19:14:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-best-report-ive-read-on-robinhood-chain-q2-crypto-revenue-fell-38-yoy-to-100m-ac",
-      "localUrl": "/news/20260810-best-report-ive-read-on-robinhood-chain-q2-crypto-revenue-fell-38-yoy-to-100m-ac.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
       "summary": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
@@ -1002,19 +1004,6 @@
       "category": "X热点",
       "slug": "20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr",
       "localUrl": "/news/20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-      "summary": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
-      "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
-      "publishedAt": "2026-08-10T18:31:06.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260810-wall-street-is-starting-to-treat-data-center-backlash-as-a-credit-risk",
-      "localUrl": "/news/20260810-wall-street-is-starting-to-treat-data-center-backlash-as-a-credit-risk.html"
     },
     {
       "source": "X Wire",
@@ -1081,6 +1070,17 @@
       "category": "X热点",
       "slug": "20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-",
       "localUrl": "/news/20260810-last-week-we-completed-a-major-engineering-milestone-crypto-markets-operate-247-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "3/ In June 2026, a victim lost $1.2M in Bitcoin and Ethereum. Tiffany and her group drained the victim's Trezor wallet after a spoofed BitcoinIRA email sent under the alias 'Patricia Massie.' Theft addresses: bc1ql2t0mwtf6unkr8vnlg9hy7njuv7vcvn9nxvlzy 0x491 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdGQ0Mm5UX1JUOVJoX29yTURsNjllb0EtSEp0V21RSWtqX2x3UEh1S1dsUWFJTHBGM3dJdmJNbG02Zl8zZHJZYllOd3QxU0M4N3VuOFp2cDZodXZI?oc=5\" target=\"_blank\">3/ In June 2026, a victim lost $1.2M in Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WdGQ0Mm5UX1JUOVJoX29yTURsNjllb0EtSEp0V21RSWtqX2x3UEh1S1dsUWFJTHBGM3dJdmJNbG02Zl8zZHJZYllOd3QxU0M4N3VuOFp2cDZodXZI?oc=5",
+      "publishedAt": "2026-08-10T12:03:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-3-in-june-2026-a-victim-lost-12m-in-bitcoin-and-ethereum-tiffany-and-her-group-d",
+      "localUrl": "/news/20260810-3-in-june-2026-a-victim-lost-12m-in-bitcoin-and-ethereum-tiffany-and-her-group-d.html"
     }
   ]
 }
