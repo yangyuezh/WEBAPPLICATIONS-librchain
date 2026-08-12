@@ -1,7 +1,147 @@
 {
-  "updatedAt": "2026-08-12T11:55:50.611Z",
+  "updatedAt": "2026-08-12T13:40:33.098Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+      "publishedAt": "2026-08-12T13:39:31.000Z",
+      "keywords": [
+        "Tech",
+        "Solana News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260812-smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+      "localUrl": "/news/20260812-smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+      "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T13:31:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260812-slovenia-joins-eus-mica-stablecoin-register-with-first-issuer",
+      "localUrl": "/news/20260812-slovenia-joins-eus-mica-stablecoin-register-with-first-issuer.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "El Salvador’s Bitcoin experiment turns 5: ‘It was for us, not them’",
+      "summary": "Five years after El Salvador made Bitcoin legal tender, the experiment has fallen short of its original promises for locals, but it’s been great for Bitcoin’s global profile.",
+      "url": "https://cointelegraph.com/magazine/el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-and-not-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "市场",
+      "slug": "20260812-el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-not-them",
+      "localUrl": "/news/20260812-el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-not-them.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
+      "summary": "Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance.",
+      "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T13:23:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260812-wintermute-to-pour-1b-into-ai-high-frequency-trading-amid-tradfi-expansion-repor",
+      "localUrl": "/news/20260812-wintermute-to-pour-1b-into-ai-high-frequency-trading-amid-tradfi-expansion-repor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+      "summary": "HashKey Exchange and OSL Group are now authorized distributors, enabling institutional and professional investors to mint and redeem HKDAP tokens.",
+      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+      "publishedAt": "2026-08-12T13:13:49.000Z",
+      "keywords": [
+        "Finance",
+        "Hong Kong",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+      "localUrl": "/news/20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "America doesn’t need a second-class payments system",
+      "summary": "If an institution qualifies to participate in America’s banking system, it should have a clear path to America’s payment system, argues Anchorage Digital's Rachel Anderika.",
+      "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+      "publishedAt": "2026-08-12T13:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260812-america-doesnt-need-a-second-class-payments-system",
+      "localUrl": "/news/20260812-america-doesnt-need-a-second-class-payments-system.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
+      "summary": "Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.",
+      "url": "https://www.coindesk.com/markets/2026/08/12/u-s-cpi-inflation-edges-lower-to-3-4-as-expected",
+      "publishedAt": "2026-08-12T12:44:39.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Federal Reserve",
+        "Inflation",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260812-us-cpi-inflation-slows-to-34-as-expected-bitcoin-holds-near-64000",
+      "localUrl": "/news/20260812-us-cpi-inflation-slows-to-34-as-expected-bitcoin-holds-near-64000.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
+      "summary": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
+      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T12:42:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260812-fidelity-files-with-sec-to-add-staking-to-ethereum-etf",
+      "localUrl": "/news/20260812-fidelity-files-with-sec-to-add-staking-to-ethereum-etf.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+      "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
+      "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
+      "publishedAt": "2026-08-12T12:12:40.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260812-morning-minute-the-cftc-bails-out-kalshi-in-ny",
+      "localUrl": "/news/20260812-morning-minute-the-cftc-bails-out-kalshi-in-ny.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
+      "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
+      "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
+      "publishedAt": "2026-08-12T12:06:36.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
+      "localUrl": "/news/20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers.html"
+    },
     {
       "source": "CoinDesk",
       "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
@@ -208,7 +348,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "title": "Live updates: Bitcoin holds $64,000 as July inflation meets forecasts",
       "summary": "Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.",
       "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
       "publishedAt": "2026-08-12T07:04:53.000Z",
@@ -218,8 +358,8 @@
         "live_news"
       ],
       "category": "RWA",
-      "slug": "20260812-live-updates-bitcoin-at-63600-as-japans-metaplanet-moves-3881-btc-between-wallet",
-      "localUrl": "/news/20260812-live-updates-bitcoin-at-63600-as-japans-metaplanet-moves-3881-btc-between-wallet.html"
+      "slug": "20260812-live-updates-bitcoin-holds-64000-as-july-inflation-meets-forecasts",
+      "localUrl": "/news/20260812-live-updates-bitcoin-holds-64000-as-july-inflation-meets-forecasts.html"
     },
     {
       "source": "Cointelegraph",
@@ -342,6 +482,17 @@
       "category": "X热点",
       "slug": "20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord",
       "localUrl": "/news/20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 TODAY: An Ethereum ICO participant moved 2,680 $ETH worth $5.04M after over 11 years of dormancy, turning an $831 investment into a 6,068x return. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5\" target=\"_blank\">🔥 TODAY: An Ethereum ICO parti…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5",
+      "publishedAt": "2026-08-12T02:00:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-",
+      "localUrl": "/news/20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-.html"
     },
     {
       "source": "X Wire",
@@ -548,22 +699,6 @@
       "localUrl": "/news/20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Brazil's largest lender Itaú is stepping deeper into the tokenization",
-      "summary": "Itaú Unibanco said it teamed up with tokenization specialist OpenAssets to test tokenized bonds and funds in a pilot run by Brazil's financial watchdog ANBIMA.",
-      "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-      "publishedAt": "2026-08-11T19:06:23.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "Brazil",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260811-brazils-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-      "localUrl": "/news/20260811-brazils-largest-lender-itau-is-stepping-deeper-into-the-tokenization.html"
-    },
-    {
       "source": "X Wire",
       "title": "After selling Bitcoin to build $4.75 billion in cash reserves, @Strategy CEO @phongle says the company learned a key lesson: institutional and short-term investors value cash more than Bitcoin liquidity. “And that was a lesson learned,” Le said, adding Strateg - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5\" target=\"_blank\">After selling Bitcoin to build $4.75 bi…",
@@ -662,21 +797,6 @@
       "localUrl": "/news/20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
-      "summary": "The trading platform’s gross crypto revenue fell to $1.35 billion in the second quarter. It also agreed to buy U.S. brokerage TradeZero for up to $231 million.",
-      "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-      "publishedAt": "2026-08-11T17:12:11.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260811-etoro-reports-second-quarter-crypto-loss-even-as-total-profit-beats-estimates",
-      "localUrl": "/news/20260811-etoro-reports-second-quarter-crypto-loss-even-as-total-profit-beats-estimates.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
       "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block—here's what a forced rollback would undo.",
@@ -729,32 +849,6 @@
       "localUrl": "/news/20260811-coinbase-backed-flowdesk-secures-full-broker-dealer-license-in-dubai.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
-      "summary": "Nasdaq’s acquisition of the third-largest US alternative trading system comes as the exchange operator expands into tokenized securities and longer trading hours.",
-      "url": "https://cointelegraph.com/news/nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T16:34:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets",
-      "localUrl": "/news/20260811-nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-      "summary": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks.",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T16:24:48.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260811-bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june",
-      "localUrl": "/news/20260811-bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june.html"
-    },
-    {
       "source": "X Wire",
       "title": "First they’ll say, “We accept Bitcoin.” Then they’ll say, “We only accept Bitcoin.” Then there will be a run on the banks. Then the world as we know it will fundamentally change forever as Bitcoin goes infinite against the US dollar. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNkNIQnpiQUZvNVI5dDlfRkMxMlZyalo3U2Z3MjVQLTVIT1V0ZjRITWdZVFl1emVwTl9Bb2MyVFN6QmNBbWVMNXNrZ2Z3Zkk4NnZYSTUxaFVuR3JkVU4w?oc=5\" target=\"_blank\">First they’ll say, “We accept Bitcoin.…",
@@ -801,51 +895,6 @@
       "category": "市场",
       "slug": "20260811-why-strategy-is-selling-bitcoin-and-how-much-it-has-sold-so-far",
       "localUrl": "/news/20260811-why-strategy-is-selling-bitcoin-and-how-much-it-has-sold-so-far.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
-      "summary": "The Democrats who may get a bigger say in future crypto legislative efforts are familiar figures, and they generally look at digital assets with distrust.",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-      "publishedAt": "2026-08-11T14:40:15.000Z",
-      "keywords": [
-        "News Analysis",
-        "Clarity Act",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260811-if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-lar",
-      "localUrl": "/news/20260811-if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-lar.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "summary": "Total deposits grew from $1.1 billion in March to $4.6 billion by July, driven by clients in crypto, AI and defense.",
-      "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-      "publishedAt": "2026-08-11T14:39:12.000Z",
-      "keywords": [
-        "Finance",
-        "Fundraising",
-        "banks",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260811-crypto-friendly-bank-erebor-in-talks-to-raise-15-billion-at-95-billion-valuation",
-      "localUrl": "/news/20260811-crypto-friendly-bank-erebor-in-talks-to-raise-15-billion-at-95-billion-valuation.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ADI Chain, Shipfinex partner to tokenize $500M vessel pipeline",
-      "summary": "Shipfinex plans to bring 35 vessels onchain through ADI Chain as tokenization expands into the multitrillion-dollar maritime industry.",
-      "url": "https://cointelegraph.com/news/adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T13:59:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260811-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline",
-      "localUrl": "/news/20260811-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline.html"
     },
     {
       "source": "X Wire",
@@ -903,19 +952,6 @@
       "category": "X热点",
       "slug": "20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o",
       "localUrl": "/news/20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SharpLink reports $394M in Q2 net loss fueled by ETH decline",
-      "summary": "SharpLink reported a net loss of $394 million in the second quarter of 2026, largely driven by Ether’s 23% decline during the quarter.",
-      "url": "https://cointelegraph.com/markets/sharplink-reports-394m-q2-net-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T13:17:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260811-sharplink-reports-394m-in-q2-net-loss-fueled-by-eth-decline",
-      "localUrl": "/news/20260811-sharplink-reports-394m-in-q2-net-loss-fueled-by-eth-decline.html"
     },
     {
       "source": "Decrypt",
@@ -979,17 +1015,6 @@
       "localUrl": "/news/20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser.html"
     },
     {
-      "source": "X Wire",
-      "title": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto According to CryptoQuant data, USDT’s 60-day rolling supply change has declined by about $4 billion, including an $870 million drop over the past 11 days alone. Analyst Stacy M - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3lRUXBXdFBHaFlVeHVvY0dRb1JoVHVweHZ5b2JKNi03ME1yZU9xcFZMZENmbEllSG1GSWMzZzJ5ekc5U3VUV29VMTZ0bS1PUTJFRThZbUh4azczeUFfNnJpRQ?oc=5\" target=\"_blank\">USDT Supply Shrinks by $4B Over …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3lRUXBXdFBHaFlVeHVvY0dRb1JoVHVweHZ5b2JKNi03ME1yZU9xcFZMZENmbEllSG1GSWMzZzJ5ekc5U3VUV29VMTZ0bS1PUTJFRThZbUh4azczeUFfNnJpRQ?oc=5",
-      "publishedAt": "2026-08-11T09:37:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord",
-      "localUrl": "/news/20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord.html"
-    },
-    {
       "source": "Decrypt",
       "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
       "summary": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
@@ -1004,14 +1029,14 @@
     },
     {
       "source": "X Wire",
-      "title": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5\" target=\"_blank\">$STRC is the bridge between Bitcoin, the wo…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5",
-      "publishedAt": "2026-08-11T07:44:25.000Z",
+      "title": "BREAKING: 🇺🇸 SEC is set to begin its first major crypto rulemaking process this week as the Senate has failed to pass the Clarity Act before the August recess. The SEC will meet on August 14 to propose “Regulation Crypto.” The proposal could create a legal - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 SEC is set to beg…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5",
+      "publishedAt": "2026-08-11T06:04:15.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
-      "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
+      "slug": "20260811-breaking-sec-is-set-to-begin-its-first-major-crypto-rulemaking-process-this-week",
+      "localUrl": "/news/20260811-breaking-sec-is-set-to-begin-its-first-major-crypto-rulemaking-process-this-week.html"
     },
     {
       "source": "X Wire",
@@ -1023,32 +1048,6 @@
       "category": "X热点",
       "slug": "20260811-crypto-veterans-defend-early-trading-days-against-plumbe-xcom",
       "localUrl": "/news/20260811-crypto-veterans-defend-early-trading-days-against-plumbe-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-      "summary": "Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
-      "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-      "publishedAt": "2026-08-10T21:48:22.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai",
-      "localUrl": "/news/20260810-vitalik-buterin-says-ethereum-is-betting-its-future-on-quantum-security-and-ai.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-      "summary": "AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.",
-      "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
-      "publishedAt": "2026-08-10T21:02:43.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown",
-      "localUrl": "/news/20260810-bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown.html"
     },
     {
       "source": "Chainalysis Blog",
