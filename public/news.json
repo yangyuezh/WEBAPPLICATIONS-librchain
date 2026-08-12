@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-11T23:55:16.858Z",
+  "updatedAt": "2026-08-12T02:40:19.004Z",
   "total": 62,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
+      "summary": "Mining pools controlling most of Ravencoin’s hash rate are building a competing chain that could trigger a three-day reorganization.",
+      "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T01:11:51.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "安全",
+      "slug": "20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk",
+      "localUrl": "/news/20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
+      "summary": "Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder’s luxury spending.",
+      "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T00:07:41.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme",
+      "localUrl": "/news/20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme.html"
+    },
     {
       "source": "Decrypt",
       "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
@@ -761,32 +787,6 @@
       "category": "市场",
       "slug": "20260811-anthropic-strikes-9b-compute-deal-with-bitcoin-miner-riot-report",
       "localUrl": "/news/20260811-anthropic-strikes-9b-compute-deal-with-bitcoin-miner-riot-report.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T06:39:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260811-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea drops Travel Rule threshold for crypto transfers",
-      "summary": "South Korea will remove its 1 million won Travel Rule threshold and apply information-sharing requirements to all transfers between registered crypto service providers.",
-      "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T06:28:16.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers",
-      "localUrl": "/news/20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers.html"
     },
     {
       "source": "Decrypt",

@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-11T23:55:16.889Z</lastmod>
+    <lastmod>2026-08-12T02:40:19.042Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-11T23:55:16.889Z</lastmod>
+    <lastmod>2026-08-12T02:40:19.042Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk.html</loc>
+    <lastmod>2026-08-12T01:11:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme.html</loc>
+    <lastmod>2026-08-12T00:07:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260811-another-openai-exec-quits-in-leadership-shake-up-as-ai-giant-eyes-ipo.html</loc>
@@ -339,18 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260811-anthropic-strikes-9b-compute-deal-with-bitcoin-miner-riot-report.html</loc>
     <lastmod>2026-08-11T08:00:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260811-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-11T06:39:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260811-south-korea-drops-travel-rule-threshold-for-crypto-transfers.html</loc>
-    <lastmod>2026-08-11T06:28:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
