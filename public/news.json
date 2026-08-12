@@ -1,7 +1,72 @@
 {
-  "updatedAt": "2026-08-12T19:16:09.742Z",
+  "updatedAt": "2026-08-12T20:59:03.877Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+      "summary": "The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.",
+      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T20:37:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal",
+      "localUrl": "/news/20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+      "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
+      "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+      "publishedAt": "2026-08-12T20:31:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260812-inner-thoughts-of-every-major-ai-model-exposed-in-massive-exploit",
+      "localUrl": "/news/20260812-inner-thoughts-of-every-major-ai-model-exposed-in-massive-exploit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "summary": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
+      "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T20:22:46.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260812-nyc-council-announces-probe-into-predatory-marketing-practices-on-prediction-mar",
+      "localUrl": "/news/20260812-nyc-council-announces-probe-into-predatory-marketing-practices-on-prediction-mar.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
+      "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+      "publishedAt": "2026-08-12T20:01:05.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "基础设施",
+      "slug": "20260812-chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price",
+      "localUrl": "/news/20260812-chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
+      "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
+      "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+      "publishedAt": "2026-08-12T19:31:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260812-spacexai-wants-grok-bot-to-do-your-jobbut-it-needs-access-to-your-accounts",
+      "localUrl": "/news/20260812-spacexai-wants-grok-bot-to-do-your-jobbut-it-needs-access-to-your-accounts.html"
+    },
     {
       "source": "Decrypt",
       "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
@@ -745,17 +810,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 NEW: Bitwise cuts 14% of its workforce amid the crypto price slump, trimming staff to about 155 from 180. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5\" target=\"_blank\">🚨 NEW: Bitwise cuts 14% of its…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5",
-      "publishedAt": "2026-08-12T04:00:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-",
-      "localUrl": "/news/20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Strategy CEO Phong Le: Company to Resume Bitcoin Purchases Later This Year According to FOX Business, Strategy CEO Phong Le stated that the company plans to resume accumulating Bitcoin later this year, despite recent sales of portions of its holdings t - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5\" target=\"_blank\">Strategy CEO Phong Le: Company t…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5",
@@ -799,19 +853,6 @@
       "category": "安全",
       "slug": "20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk",
       "localUrl": "/news/20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-      "summary": "Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder’s luxury spending.",
-      "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T00:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme",
-      "localUrl": "/news/20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme.html"
     },
     {
       "source": "X Wire",
@@ -862,19 +903,6 @@
       "localUrl": "/news/20260811-btcpay-backers-offer-bitcoin-bounty-after-wallet-exploit.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "SEC to address crypto regulations in absence of CLARITY passage",
-      "summary": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
-      "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T20:59:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-sec-to-address-crypto-regulations-in-absence-of-clarity-passage",
-      "localUrl": "/news/20260811-sec-to-address-crypto-regulations-in-absence-of-clarity-passage.html"
-    },
-    {
       "source": "X Wire",
       "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday The SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering re - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5\" target=\"_blank\">SEC Could Unveil Tokenized Stock…",
@@ -913,6 +941,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Who is actually accruing the value created in crypto? This started as a conversation on the @Blockworks TG group with @santiagoroel and a few others. Venture in crypto has shrunk a lot! and imo the main reason is that on-chain revenue pools have been far - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5\" target=\"_blank\">Who is actually accruing the value c…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5",
+      "publishedAt": "2026-08-11T20:07:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat",
+      "localUrl": "/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 SEC to unveil 'major crypto plans' as Clarity Act stalls — Bloomberg 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC to unveil…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5",
@@ -945,32 +984,6 @@
       "localUrl": "/news/20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle.html"
     },
     {
-      "source": "Decrypt",
-      "title": "AI Agent Hacks a Gym—And the Tech World Wonders What's Next",
-      "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
-      "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
-      "publishedAt": "2026-08-11T18:56:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260811-ai-agent-hacks-a-gymand-the-tech-world-wonders-whats-next",
-      "localUrl": "/news/20260811-ai-agent-hacks-a-gymand-the-tech-world-wonders-whats-next.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
-      "summary": "Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
-      "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
-      "publishedAt": "2026-08-11T18:25:14.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "综合",
-      "slug": "20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss",
-      "localUrl": "/news/20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 CFTC says it is prepared to advance crypto regulations even if Congress fails to pass the crypto Clarity Act. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 CFTC says it is prep…",
@@ -991,19 +1004,6 @@
       "category": "X热点",
       "slug": "20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea",
       "localUrl": "/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-      "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.",
-      "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
-      "publishedAt": "2026-08-11T17:26:54.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp",
-      "localUrl": "/news/20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp.html"
     },
     {
       "source": "X Wire",
@@ -1062,14 +1062,14 @@
     },
     {
       "source": "X Wire",
-      "title": "$PLUMBER Meme Coin Sparks Debate on Past vs Present Crypt... - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">$PLUMBER Meme Coin Sparks Debate on Past vs Pres…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
-      "publishedAt": "2026-08-11T05:17:47.000Z",
+      "title": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5\" target=\"_blank\">$STRC is the bridge between Bitcoin, the wo…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5",
+      "publishedAt": "2026-08-11T07:44:25.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-plumber-meme-coin-sparks-debate-on-past-vs-present-crypt-xcom",
-      "localUrl": "/news/20260811-plumber-meme-coin-sparks-debate-on-past-vs-present-crypt-xcom.html"
+      "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
+      "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
     },
     {
       "source": "Chainalysis Blog",
