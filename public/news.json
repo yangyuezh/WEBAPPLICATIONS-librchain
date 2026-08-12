@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-08-12T17:08:39.564Z",
+  "updatedAt": "2026-08-12T19:16:09.742Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+      "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
+      "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+      "publishedAt": "2026-08-12T18:58:26.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260812-goldman-sachs-225b-neos-deal-hands-it-ready-made-bitcoin-income-etf-business",
+      "localUrl": "/news/20260812-goldman-sachs-225b-neos-deal-hands-it-ready-made-bitcoin-income-etf-business.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+      "summary": "Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.",
+      "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T18:55:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260812-kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow",
+      "localUrl": "/news/20260812-kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
+      "summary": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.",
+      "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
+      "publishedAt": "2026-08-12T18:16:04.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety",
+      "localUrl": "/news/20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise cuts 14% of staff while still expecting growth",
+      "summary": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
+      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T18:01:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260812-bitwise-cuts-14-of-staff-while-still-expecting-growth",
+      "localUrl": "/news/20260812-bitwise-cuts-14-of-staff-while-still-expecting-growth.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
+      "summary": "The flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.",
+      "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
+      "publishedAt": "2026-08-12T17:46:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day",
+      "localUrl": "/news/20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+      "summary": "The $2.25 billion deal expands Goldman’s derivative platform to $130 billion in total ETF assets, taking direct aim at BlackRock's rival BITA fund, according to an analyst.",
+      "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+      "publishedAt": "2026-08-12T17:21:03.000Z",
+      "keywords": [
+        "Finance",
+        "ETFs",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260812-goldman-sachs-leaps-into-bitcoin-income-etfs-with-225-billion-neos-buyout",
+      "localUrl": "/news/20260812-goldman-sachs-leaps-into-bitcoin-income-etfs-with-225-billion-neos-buyout.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+      "summary": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
+      "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
+      "publishedAt": "2026-08-12T17:13:43.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260812-fidelity-files-to-let-its-ethereum-etf-stake-and-pay-investors",
+      "localUrl": "/news/20260812-fidelity-files-to-let-its-ethereum-etf-stake-and-pay-investors.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FlightAware drops Kalshi lawsuit one day after filing",
+      "summary": "Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as the entity behind verifying flight cancellation data.",
+      "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T16:58:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260812-flightaware-drops-kalshi-lawsuit-one-day-after-filing",
+      "localUrl": "/news/20260812-flightaware-drops-kalshi-lawsuit-one-day-after-filing.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
@@ -32,8 +139,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
-      "summary": "Solana-based DoubleZero looks to meet institutional demands by adding prediction market Kalshi’s order book to its low-latency market data feed.",
+      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
+      "summary": "Kalshi is looking to meet institutional demands by adding DoubleZero data to its order book.",
       "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
       "publishedAt": "2026-08-12T16:14:49.000Z",
       "keywords": [
@@ -45,8 +152,8 @@
         "News"
       ],
       "category": "基础设施",
-      "slug": "20260812-solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-d",
-      "localUrl": "/news/20260812-solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-d.html"
+      "slug": "20260812-kalshi-taps-doublezero-for-wall-street-style-high-speed-data-feed",
+      "localUrl": "/news/20260812-kalshi-taps-doublezero-for-wall-street-style-high-speed-data-feed.html"
     },
     {
       "source": "Cointelegraph",
@@ -132,7 +239,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto Long & Short:",
+      "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
       "summary": "In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while risk reprices by the minute. She makes t…",
       "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
       "publishedAt": "2026-08-12T14:51:12.000Z",
@@ -144,8 +251,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260812-crypto-long-short",
-      "localUrl": "/news/20260812-crypto-long-short.html"
+      "slug": "20260812-crypto-long-short-when-capital-cant-move-fast-enough-markets-pay-the-price",
+      "localUrl": "/news/20260812-crypto-long-short-when-capital-cant-move-fast-enough-markets-pay-the-price.html"
     },
     {
       "source": "Decrypt",
@@ -255,6 +362,17 @@
       "category": "综合",
       "slug": "20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
       "localUrl": "/news/20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "CRYPTO CLIMBS AFTER CPI Cryptocurrencies moved higher after July CPI matched expectations, easing inflation concerns. Bitcoin rose 0.6% to $64,051, Ethereum gained 1.5% to $1,909, Solana added 0.8%, and XRP rose 0.2%. While CPI provided suppo - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNDVwcVhTblJXdXZkY1dPVkJ1bXowM2dLZWJ5OVlDakhmeHJFaHdvbWpkQXNGWjdRTjc3Rl83V2R2anZBZ3hWZy10aWZNM0N3ZDlBQ05NaTZ2eTNuOGc?oc=5\" target=\"_blank\">CRYPTO CLIMBS AFTER CPI Cryptocurrencie…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNDVwcVhTblJXdXZkY1dPVkJ1bXowM2dLZWJ5OVlDakhmeHJFaHdvbWpkQXNGWjdRTjc3Rl83V2R2anZBZ3hWZy10aWZNM0N3ZDlBQ05NaTZ2eTNuOGc?oc=5",
+      "publishedAt": "2026-08-12T13:07:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-crypto-climbs-after-cpi-cryptocurrencies-moved-higher-after-july-cpi-matched-exp",
+      "localUrl": "/news/20260812-crypto-climbs-after-cpi-cryptocurrencies-moved-higher-after-july-cpi-matched-exp.html"
     },
     {
       "source": "CoinDesk",
@@ -602,20 +720,6 @@
       "localUrl": "/news/20260812-heres-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-us-cpi-print.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
-      "summary": "Harmony said in Asian morning hours it is working with exchanges to freeze funds and preparing a software fix.",
-      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-      "publishedAt": "2026-08-12T05:18:40.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260812-harmonys-one-dives-40-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of",
-      "localUrl": "/news/20260812-harmonys-one-dives-40-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
       "summary": "The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.",
@@ -682,17 +786,6 @@
       "category": "X热点",
       "slug": "20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-",
       "localUrl": "/news/20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 TODAY: Bitwise CIO Matt Hougan says Bitcoin has likely bottomed out, pointing to its resilience against recent bad news like the Coldcard hack and Clarity Act setback. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVnhodHY5eXVfNDZnNHVOSXp0M3ZfLUtPQTNPc1NUcEJNUm13OG93enV3Z2xFZVo3S0UtdmtnU25XTFBXSUlrdC1MMkhCY1Q3M0FjZk1ESHdhSTVzLTNTNjFkMnU?oc=5\" target=\"_blank\">🚨 TODAY: Bitwise CIO Matt Houg…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVnhodHY5eXVfNDZnNHVOSXp0M3ZfLUtPQTNPc1NUcEJNUm13OG93enV3Z2xFZVo3S0UtdmtnU25XTFBXSUlrdC1MMkhCY1Q3M0FjZk1ESHdhSTVzLTNTNjFkMnU?oc=5",
-      "publishedAt": "2026-08-12T01:40:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-today-bitwise-cio-matt-hougan-says-bitcoin-has-likely-bottomed-out-pointing-to-i",
-      "localUrl": "/news/20260812-today-bitwise-cio-matt-hougan-says-bitcoin-has-likely-bottomed-out-pointing-to-i.html"
     },
     {
       "source": "Cointelegraph",
@@ -782,19 +875,6 @@
       "localUrl": "/news/20260811-sec-to-address-crypto-regulations-in-absence-of-clarity-passage.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-      "summary": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
-      "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T20:55:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-itau-joins-brazil-tokenization-pilot-with-openassets",
-      "localUrl": "/news/20260811-itau-joins-brazil-tokenization-pilot-with-openassets.html"
-    },
-    {
       "source": "X Wire",
       "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday The SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering re - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5\" target=\"_blank\">SEC Could Unveil Tokenized Stock…",
@@ -832,19 +912,6 @@
       "localUrl": "/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "MoneyGram expands crypto cash ramps to Solana",
-      "summary": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
-      "url": "https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T19:53:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260811-moneygram-expands-crypto-cash-ramps-to-solana",
-      "localUrl": "/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 SEC to unveil 'major crypto plans' as Clarity Act stalls — Bloomberg 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC to unveil…",
@@ -854,19 +921,6 @@
       "category": "X热点",
       "slug": "20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom",
       "localUrl": "/news/20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Following Senate delay, crypto bill has narrow window to become law",
-      "summary": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
-      "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T19:42:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law",
-      "localUrl": "/news/20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law.html"
     },
     {
       "source": "X Wire",
@@ -952,45 +1006,6 @@
       "localUrl": "/news/20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
-      "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block—here's what a forced rollback would undo.",
-      "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
-      "publishedAt": "2026-08-11T17:02:36.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network",
-      "localUrl": "/news/20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-      "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
-      "url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
-      "publishedAt": "2026-08-11T16:45:30.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260811-etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10",
-      "localUrl": "/news/20260811-etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
-      "summary": "Chloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
-      "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
-      "publishedAt": "2026-08-11T15:05:35.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260811-openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
-      "localUrl": "/news/20260811-openais-only-dedicated-ethicist-has-left-with-no-replacement-ft.html"
-    },
-    {
       "source": "X Wire",
       "title": "NEW: 🇺🇸 SEC to consider new rules for certain \"crypto asset\" investment contracts on Friday 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5\" target=\"_blank\">NEW: 🇺🇸 SEC to consider n…",
@@ -1000,19 +1015,6 @@
       "category": "X热点",
       "slug": "20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f",
       "localUrl": "/news/20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Why Strategy Is Selling Bitcoin and How Much It Has Sold So Far",
-      "summary": "The world's largest corporate Bitcoin holder has sold hundreds of millions of dollars in BTC since June as it changes how it funds dividends and manages its cash.",
-      "url": "https://decrypt.co/375312/why-strategy-selling-bitcoin-how-much",
-      "publishedAt": "2026-08-11T14:46:11.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260811-why-strategy-is-selling-bitcoin-and-how-much-it-has-sold-so-far",
-      "localUrl": "/news/20260811-why-strategy-is-selling-bitcoin-and-how-much-it-has-sold-so-far.html"
     },
     {
       "source": "X Wire",
@@ -1060,14 +1062,14 @@
     },
     {
       "source": "X Wire",
-      "title": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5\" target=\"_blank\">$STRC is the bridge between Bitcoin, the wo…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5",
-      "publishedAt": "2026-08-11T07:44:25.000Z",
+      "title": "$PLUMBER Meme Coin Sparks Debate on Past vs Present Crypt... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">$PLUMBER Meme Coin Sparks Debate on Past vs Pres…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
+      "publishedAt": "2026-08-11T05:17:47.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
-      "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
+      "slug": "20260811-plumber-meme-coin-sparks-debate-on-past-vs-present-crypt-xcom",
+      "localUrl": "/news/20260811-plumber-meme-coin-sparks-debate-on-past-vs-present-crypt-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
