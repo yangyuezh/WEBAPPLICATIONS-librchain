@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-12T02:40:19.004Z",
-  "total": 62,
+  "updatedAt": "2026-08-12T04:57:02.817Z",
+  "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+      "summary": "DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.",
+      "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+      "publishedAt": "2026-08-12T04:53:46.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260812-dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-63700",
+      "localUrl": "/news/20260812-dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-63700.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+      "summary": "The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T04:53:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight",
+      "localUrl": "/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+      "summary": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
+      "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+      "publishedAt": "2026-08-12T04:33:25.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones",
+      "localUrl": "/news/20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is futures-driven right now. Open interest is rising, while on-chain spot demand remains net negative. A sustainable rally needs both spot and futures demand. As April showed, futures-led rallies tend to fade without spot support. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kd3pHOGVhaVQzVWtPRU5ITTY2T18tNTNJOFhLcHVFcG9DNk50aWZjU3duYy1RVU9WbDJOTGY1Z2o0R3lRLUV6MFJKaHFTMlJCNmlScnhDWHRjOGJYbEVLYlpB?oc=5\" target=\"_blank\">Bitcoin is futures-driven right no…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kd3pHOGVhaVQzVWtPRU5ITTY2T18tNTNJOFhLcHVFcG9DNk50aWZjU3duYy1RVU9WbDJOTGY1Z2o0R3lRLUV6MFJKaHFTMlJCNmlScnhDWHRjOGJYbEVLYlpB?oc=5",
+      "publishedAt": "2026-08-12T01:47:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-",
+      "localUrl": "/news/20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Ravencoin hits record low as network exploit puts transactions at risk",
@@ -109,6 +161,17 @@
       "category": "监管",
       "slug": "20260811-itau-joins-brazil-tokenization-pilot-with-openassets",
       "localUrl": "/news/20260811-itau-joins-brazil-tokenization-pilot-with-openassets.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday The SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering re - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5\" target=\"_blank\">SEC Could Unveil Tokenized Stock…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5",
+      "publishedAt": "2026-08-11T20:52:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla",
+      "localUrl": "/news/20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla.html"
     },
     {
       "source": "Decrypt",
@@ -337,6 +400,17 @@
       "localUrl": "/news/20260811-bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june.html"
     },
     {
+      "source": "X Wire",
+      "title": "First they’ll say, “We accept Bitcoin.” Then they’ll say, “We only accept Bitcoin.” Then there will be a run on the banks. Then the world as we know it will fundamentally change forever as Bitcoin goes infinite against the US dollar. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNkNIQnpiQUZvNVI5dDlfRkMxMlZyalo3U2Z3MjVQLTVIT1V0ZjRITWdZVFl1emVwTl9Bb2MyVFN6QmNBbWVMNXNrZ2Z3Zkk4NnZYSTUxaFVuR3JkVU4w?oc=5\" target=\"_blank\">First they’ll say, “We accept Bitcoin.…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNkNIQnpiQUZvNVI5dDlfRkMxMlZyalo3U2Z3MjVQLTVIT1V0ZjRITWdZVFl1emVwTl9Bb2MyVFN6QmNBbWVMNXNrZ2Z3Zkk4NnZYSTUxaFVuR3JkVU4w?oc=5",
+      "publishedAt": "2026-08-11T16:00:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-first-theyll-say-we-accept-bitcoin-then-theyll-say-we-only-accept-bitcoin-then-t",
+      "localUrl": "/news/20260811-first-theyll-say-we-accept-bitcoin-then-theyll-say-we-only-accept-bitcoin-then-t.html"
+    },
+    {
       "source": "Decrypt",
       "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
       "summary": "Chloé Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
@@ -348,6 +422,17 @@
       "category": "市场",
       "slug": "20260811-openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
       "localUrl": "/news/20260811-openais-only-dedicated-ethicist-has-left-with-no-replacement-ft.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "NEW: 🇺🇸 SEC to consider new rules for certain \"crypto asset\" investment contracts on Friday 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5\" target=\"_blank\">NEW: 🇺🇸 SEC to consider n…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5",
+      "publishedAt": "2026-08-11T14:55:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f",
+      "localUrl": "/news/20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f.html"
     },
     {
       "source": "Decrypt",
@@ -408,6 +493,39 @@
       "localUrl": "/news/20260811-adi-chain-shipfinex-partner-to-tokenize-500m-vessel-pipeline.html"
     },
     {
+      "source": "X Wire",
+      "title": "Good extra info on the \"in-kind conversions\" of bitcoin for ETF shares. Yes, you don't realize gains but you do carry your basis, so it's merely deferral, not dodge. And yes, it works the other way: ETF for btc. And yes, it is something that works w Grantor Trust, not - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laVpYaUhvUlZSRzdNX0ZXQTNob1YyeFczcVdmeDhEd0dMU0FPQkdjUzAxX3JXOUZqT0ljV3h4bzEyMGlPMjJnWHRNUE1VMUFPMW0wTkpxVXNYR3hLczRhdzdReUg?oc=5\" target=\"_blank\">Good extra info on the \"in-kind…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laVpYaUhvUlZSRzdNX0ZXQTNob1YyeFczcVdmeDhEd0dMU0FPQkdjUzAxX3JXOUZqT0ljV3h4bzEyMGlPMjJnWHRNUE1VMUFPMW0wTkpxVXNYR3hLczRhdzdReUg?oc=5",
+      "publishedAt": "2026-08-11T13:57:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-good-extra-info-on-the-in-kind-conversions-of-bitcoin-for-etf-shares-yes-you-don",
+      "localUrl": "/news/20260811-good-extra-info-on-the-in-kind-conversions-of-bitcoin-for-etf-shares-yes-you-don.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin. Ethereum. Chainlink. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5\" target=\"_blank\">Bitcoin. Ethereum. Chainlink.</a> <fon…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5",
+      "publishedAt": "2026-08-11T13:49:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-bitcoin-ethereum-chainlink-xcom",
+      "localUrl": "/news/20260811-bitcoin-ethereum-chainlink-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇷🇺 Russia approves Bitcoin, Ethereum and USDT for public trading on exchanges. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1felRvMHlDSF9yZDhXdGREYkhGSGFJcnFjdVEzdEVvSi1tb0R5M25NOVZMelViaTE0cm5HbjhTVXh0bTFKZnZZUzBaTC1vUDhWcUtmQjZ3RmtPdElpY3pQZjlB?oc=5\" target=\"_blank\">JUST IN: 🇷🇺 Russia approves Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1felRvMHlDSF9yZDhXdGREYkhGSGFJcnFjdVEzdEVvSi1tb0R5M25NOVZMelViaTE0cm5HbjhTVXh0bTFKZnZZUzBaTC1vUDhWcUtmQjZ3RmtPdElpY3pQZjlB?oc=5",
+      "publishedAt": "2026-08-11T13:31:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-russia-approves-bitcoin-ethereum-and-usdt-for-public-trading-on-exchange",
+      "localUrl": "/news/20260811-just-in-russia-approves-bitcoin-ethereum-and-usdt-for-public-trading-on-exchange.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
       "summary": "Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.",
@@ -419,6 +537,17 @@
       "category": "市场",
       "slug": "20260811-luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls",
       "localUrl": "/news/20260811-luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: 🇷🇺 Russia's central bank announces it approved Bitcoin for public trading on domestic exchanges, TASS reports. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5\" target=\"_blank\">BREAKING: 🇷🇺 Russia's cen…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5",
+      "publishedAt": "2026-08-11T13:18:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o",
+      "localUrl": "/news/20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o.html"
     },
     {
       "source": "Cointelegraph",
@@ -696,36 +825,6 @@
       "localUrl": "/news/20260811-coldcard-hack-losses-how-investigators-trace-stolen-bitcoin.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Nvidia’s $500 billion AI infrastructure push leaves crypto compute further behind",
-      "summary": "Nvidia has signed memorandums of understanding with six major Wall Street firms to establish \"AI compute\" as a bankable infrastructure asset.",
-      "url": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
-      "publishedAt": "2026-08-11T10:10:36.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260811-nvidias-500-billion-ai-infrastructure-push-leaves-crypto-compute-further-behind",
-      "localUrl": "/news/20260811-nvidias-500-billion-ai-infrastructure-push-leaves-crypto-compute-further-behind.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK lawmakers question lenders over lack of banking for the country’s crypto firms",
-      "summary": "The U.K.’s Crypto and Digital Assets All-Party Parliamentary Group asked banks to explain their approach to providing banking services to crypto and digital asset businesses.",
-      "url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
-      "publishedAt": "2026-08-11T10:06:39.000Z",
-      "keywords": [
-        "Policy",
-        "UK",
-        "banks",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260811-uk-lawmakers-question-lenders-over-lack-of-banking-for-the-countrys-crypto-firms",
-      "localUrl": "/news/20260811-uk-lawmakers-question-lenders-over-lack-of-banking-for-the-countrys-crypto-firms.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "MoneyGram Ramps launches on Solana",
       "summary": "MoneyGram Ramps gives Solana builders one API for cash deposits in 25+ countries and withdrawals in 170+ countries and territories.",
@@ -748,6 +847,28 @@
       "category": "基础设施",
       "slug": "20260811-coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
       "localUrl": "/news/20260811-coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 HISTORY: 6 years ago today, Strategy adopted Bitcoin as its primary treasury reserve asset. It started with 21,454 $BTC for $250M at ~$11,653 per Bitcoin. Today, Strategy holds 840,447 BTC, nearly 39x its initial stack. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5\" target=\"_blank\">🔥 HISTORY: 6 years ago today, …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5",
+      "publishedAt": "2026-08-11T09:41:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser",
+      "localUrl": "/news/20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto According to CryptoQuant data, USDT’s 60-day rolling supply change has declined by about $4 billion, including an $870 million drop over the past 11 days alone. Analyst Stacy M - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3lRUXBXdFBHaFlVeHVvY0dRb1JoVHVweHZ5b2JKNi03ME1yZU9xcFZMZENmbEllSG1GSWMzZzJ5ekc5U3VUV29VMTZ0bS1PUTJFRThZbUh4azczeUFfNnJpRQ?oc=5\" target=\"_blank\">USDT Supply Shrinks by $4B Over …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kU3lRUXBXdFBHaFlVeHVvY0dRb1JoVHVweHZ5b2JKNi03ME1yZU9xcFZMZENmbEllSG1GSWMzZzJ5ekc5U3VUV29VMTZ0bS1PUTJFRThZbUh4azczeUFfNnJpRQ?oc=5",
+      "publishedAt": "2026-08-11T09:37:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord",
+      "localUrl": "/news/20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord.html"
     },
     {
       "source": "Cointelegraph",
@@ -776,17 +897,70 @@
       "localUrl": "/news/20260811-uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-      "summary": "Anthropic reportedly struck a $9 billion deal with Riot for 191 megawatts of capacity from the Bitcoin miner’s Rockdale campus in Texas.",
-      "url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T08:00:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260811-anthropic-strikes-9b-compute-deal-with-bitcoin-miner-riot-report",
-      "localUrl": "/news/20260811-anthropic-strikes-9b-compute-deal-with-bitcoin-miner-riot-report.html"
+      "source": "X Wire",
+      "title": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5\" target=\"_blank\">$STRC is the bridge between Bitcoin, the wo…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5",
+      "publishedAt": "2026-08-11T07:44:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
+      "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: 🇺🇸 SEC is set to begin its first major crypto rulemaking process this week as the Senate has failed to pass the Clarity Act before the August recess. The SEC will meet on August 14 to propose “Regulation Crypto.” The proposal could create a legal - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 SEC is set to beg…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5",
+      "publishedAt": "2026-08-11T06:04:15.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-breaking-sec-is-set-to-begin-its-first-major-crypto-rulemaking-process-this-week",
+      "localUrl": "/news/20260811-breaking-sec-is-set-to-begin-its-first-major-crypto-rulemaking-process-this-week.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto Veterans Clash Over Trading Difficulty Past vs Pre... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Crypto Veterans Clash Over Trading Difficulty Pa…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
+      "publishedAt": "2026-08-11T05:17:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-crypto-veterans-clash-over-trading-difficulty-past-vs-pre-xcom",
+      "localUrl": "/news/20260811-crypto-veterans-clash-over-trading-difficulty-past-vs-pre-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Anthropic Strikes $9.1 Billion Compute Deal With Bitcoin Miner Riot Anthropic has struck a 20-year, $9.1 billion data-center deal with Riot Platforms to secure 191 MW of computing capacity at Riot’s Rockdale campus in Texas, as the Claude maker races to loc - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FUUFQUmh5VVNKeHBmMzI4Sm94UHYtTTZyOXlwdE9GVC1xV29tMUQ3amZ4M21ySGFEZmlMTnY1MzJmTFU1WklocEdkZnctcHRFTl80Zmk3MnhJd2hmeVY2TUJUSQ?oc=5\" target=\"_blank\">Anthropic Strikes $9.1 Billion C…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FUUFQUmh5VVNKeHBmMzI4Sm94UHYtTTZyOXlwdE9GVC1xV29tMUQ3amZ4M21ySGFEZmlMTnY1MzJmTFU1WklocEdkZnctcHRFTl80Zmk3MnhJd2hmeVY2TUJUSQ?oc=5",
+      "publishedAt": "2026-08-11T05:09:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-",
+      "localUrl": "/news/20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 NOW: White House crypto advisor Patrick Witt says, “The administration remains fully committed to getting the Clarity Act across the finish line in September.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMdXNQTF9ZTzM0V0xTdjJoMVY2RHFBT2lxeUhYY3B3Wnk2dHBlVk9FeUQ2WTBVLWNkdUV1TWE2VXlTNWl3SjA1TXdYRHNJcWNqWl9XNWxXcXlfa0VXNWZob096N3E?oc=5\" target=\"_blank\">🇺🇸 NOW: White House crypto ad…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMdXNQTF9ZTzM0V0xTdjJoMVY2RHFBT2lxeUhYY3B3Wnk2dHBlVk9FeUQ2WTBVLWNkdUV1TWE2VXlTNWl3SjA1TXdYRHNJcWNqWl9XNWxXcXlfa0VXNWZob096N3E?oc=5",
+      "publishedAt": "2026-08-11T03:00:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-now-white-house-crypto-advisor-patrick-witt-says-the-administration-remains-full",
+      "localUrl": "/news/20260811-now-white-house-crypto-advisor-patrick-witt-says-the-administration-remains-full.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Arthur Hayes: Fed-Backed Yen Rescue Could Fuel Bitcoin, Gold and Ether BitMEX co-founder Arthur Hayes said the most likely path to a stronger yen is not aggressive Bank of Japan rate hikes or large-scale Treasury sales, but Japan using the Federal Reser - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Dam1taGRmSzc5THFETzhUbEIzUnRPaHBDNndhZXZmODZZUkd4a3lzTEVXbVB3SkNQRDVtbVhOY1duRUJRN2hKZ1BBTFdjS29oeGUwNWpLenozSjBlOUZERUdSVQ?oc=5\" target=\"_blank\">Arthur Hayes: Fed-Backed Yen Res…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Dam1taGRmSzc5THFETzhUbEIzUnRPaHBDNndhZXZmODZZUkd4a3lzTEVXbVB3SkNQRDVtbVhOY1duRUJRN2hKZ1BBTFdjS29oeGUwNWpLenozSjBlOUZERUdSVQ?oc=5",
+      "publishedAt": "2026-08-11T02:40:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-arthur-hayes-fed-backed-yen-rescue-could-fuel-bitcoin-gold-and-ether-bitmex-co-f",
+      "localUrl": "/news/20260811-arthur-hayes-fed-backed-yen-rescue-could-fuel-bitcoin-gold-and-ether-bitmex-co-f.html"
     },
     {
       "source": "Decrypt",
@@ -828,6 +1002,17 @@
       "localUrl": "/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html"
     },
     {
+      "source": "X Wire",
+      "title": "One unified experience for fully onchain trading, where equity, commodity, and crypto perps collide. Aptos Foundation's @ASHAWONN joins @useTria and @DecibelTrade to unpack what that shift means for traders, why it matters that every trade is settled onc - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ELTRzUk40WlRnRVZZTlB3dW1iYUJ1ZGpTbkZkaGFReWtLb2lQblY5SUlHdWdtbU1GRnQwOUc3VnVDcndvM1RUbjB0VlloYi1QUjk2cnJRa2drUQ?oc=5\" target=\"_blank\">One unified experience for fully onchain tra…",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ELTRzUk40WlRnRVZZTlB3dW1iYUJ1ZGpTbkZkaGFReWtLb2lQblY5SUlHdWdtbU1GRnQwOUc3VnVDcndvM1RUbjB0VlloYi1QUjk2cnJRa2drUQ?oc=5",
+      "publishedAt": "2026-08-10T19:33:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp",
+      "localUrl": "/news/20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
       "summary": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
@@ -839,6 +1024,28 @@
       "category": "市场",
       "slug": "20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years",
       "localUrl": "/news/20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Morgan Stanley just published an @ethereum primer. Not an ETH price target or a trading thesis. A primer on Ethereum as infrastructure for stablecoins, tokenized assets, payments, settlement, lending, and financial applications. Assets converge where the liq - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMjRDSDFrWjlqemR1ODR3amdQR0pHZzlNZmE5LXRfRmZnY3FVd0FmdEt5dmlaUjFaWmhLLUdVbDFLNDlzZEVhSDk3Ri03MHcxUlVCUjJINm8xSXJCRndwb1ZQQ3Jhdw?oc=5\" target=\"_blank\">Morgan Stanley just publishe…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMjRDSDFrWjlqemR1ODR3amdQR0pHZzlNZmE5LXRfRmZnY3FVd0FmdEt5dmlaUjFaWmhLLUdVbDFLNDlzZEVhSDk3Ri03MHcxUlVCUjJINm8xSXJCRndwb1ZQQ3Jhdw?oc=5",
+      "publishedAt": "2026-08-10T18:48:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr",
+      "localUrl": "/news/20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Today, Bitcoin Policy Institute and a broad coalition from across the digital-asset ecosystem are publishing an open letter calling on the world’s leading AI labs to provide qualified open-source defenders with trusted access to frontier AI models. The past severa - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNnVRdmFfN09La1RFbndleE1Rb2xHRkl6VDBabDVmZ0lPUWR4d1c3RVlYU0V2NTh3akZSekxjYnBoaUxoNko0eW9YOVF3cTlZUk1mRlRiVmhTblA0NmNxdnlpRzA?oc=5\" target=\"_blank\">Today, Bitcoin Policy Institute…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBNnVRdmFfN09La1RFbndleE1Rb2xHRkl6VDBabDVmZ0lPUWR4d1c3RVlYU0V2NTh3akZSekxjYnBoaUxoNko0eW9YOVF3cTlZUk1mRlRiVmhTblA0NmNxdnlpRzA?oc=5",
+      "publishedAt": "2026-08-10T17:48:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-today-bitcoin-policy-institute-and-a-broad-coalition-from-across-the-digital-ass",
+      "localUrl": "/news/20260810-today-bitcoin-policy-institute-and-a-broad-coalition-from-across-the-digital-ass.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -861,6 +1068,17 @@
       "category": "监管",
       "slug": "20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan",
       "localUrl": "/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I updated my 2023 roadmap diagram to overlay where the items that were there sit in the current Strawmap ( strawmap.org ). In general, a lot of overlap, but: * Some things got reshuffled in order (eg. quantum safety up-prioritized) * Some things deprioritized (e - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5\" target=\"_blank\">I updated my 2023 roadmap di…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5",
+      "publishedAt": "2026-08-10T14:39:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit",
+      "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
     }
   ]
 }
