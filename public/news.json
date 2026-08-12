@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-12T20:59:03.877Z",
+  "updatedAt": "2026-08-12T21:58:41.080Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
+      "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
+      "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
+      "publishedAt": "2026-08-12T21:31:15.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock",
+      "localUrl": "/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
+      "summary": "Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.",
+      "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T21:21:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260812-hawaii-crypto-atm-ban-to-take-effect-on-oct-1",
+      "localUrl": "/news/20260812-hawaii-crypto-atm-ban-to-take-effect-on-oct-1.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
@@ -173,6 +199,17 @@
       "category": "监管",
       "slug": "20260812-flightaware-drops-kalshi-lawsuit-one-day-after-filing",
       "localUrl": "/news/20260812-flightaware-drops-kalshi-lawsuit-one-day-after-filing.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin is now trading in its \"Cost of Production\" zone, typically the sign of a bear market bottom. 👀 HODL 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5\" target=\"_blank\">JUST IN: Bitcoin is now tra…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5",
+      "publishedAt": "2026-08-12T16:55:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
+      "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
     },
     {
       "source": "Cointelegraph",
@@ -842,19 +879,6 @@
       "localUrl": "/news/20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-      "summary": "Mining pools controlling most of Ravencoin’s hash rate are building a competing chain that could trigger a three-day reorganization.",
-      "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T01:11:51.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "安全",
-      "slug": "20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk",
-      "localUrl": "/news/20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 ALERT: Bitcoin sellers are showing signs of exhaustion, but a historical market bottom has not yet been confirmed, according to Glassnode. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin sellers are s…",
@@ -927,30 +951,6 @@
       "localUrl": "/news/20260811-the-bull-and-bear-case-for-solanas-next-price-move.html"
     },
     {
-      "source": "Decrypt",
-      "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
-      "summary": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
-      "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
-      "publishedAt": "2026-08-11T20:10:00.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects",
-      "localUrl": "/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Who is actually accruing the value created in crypto? This started as a conversation on the @Blockworks TG group with @santiagoroel and a few others. Venture in crypto has shrunk a lot! and imo the main reason is that on-chain revenue pools have been far - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5\" target=\"_blank\">Who is actually accruing the value c…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5",
-      "publishedAt": "2026-08-11T20:07:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat",
-      "localUrl": "/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 SEC to unveil 'major crypto plans' as Clarity Act stalls — Bloomberg 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC to unveil…",
@@ -960,17 +960,6 @@
       "category": "X热点",
       "slug": "20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom",
       "localUrl": "/news/20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "*SEC POISED TO UNVEIL MAJOR CRYPTO PLANS AS CLARITY ACT STALLS - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5\" target=\"_blank\">*SEC POISED TO UNVEIL MAJOR CRYPTO PLAN…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5",
-      "publishedAt": "2026-08-11T19:40:24.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom",
-      "localUrl": "/news/20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom.html"
     },
     {
       "source": "X Wire",
@@ -1070,6 +1059,17 @@
       "category": "X热点",
       "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
       "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto Veterans Debate If Early Trading Beat Today's 'Plu... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Crypto Veterans Debate If Early Trading Beat Tod…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
+      "publishedAt": "2026-08-11T05:17:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-crypto-veterans-debate-if-early-trading-beat-todays-plu-xcom",
+      "localUrl": "/news/20260811-crypto-veterans-debate-if-early-trading-beat-todays-plu-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
