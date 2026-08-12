@@ -1,7 +1,66 @@
 {
-  "updatedAt": "2026-08-12T04:57:02.817Z",
+  "updatedAt": "2026-08-12T06:39:11.097Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+      "summary": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
+      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T06:02:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply",
+      "localUrl": "/news/20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "summary": "The exchange is joining a tokenized stock market that has grown 600% in a year, though its products offer price exposure rather than share ownership.",
+      "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+      "publishedAt": "2026-08-12T06:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260812-cryptocom-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-eq",
+      "localUrl": "/news/20260812-cryptocom-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-eq.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+      "summary": "Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savvy traders are positioning for the pivotal release.",
+      "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+      "publishedAt": "2026-08-12T05:26:55.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin News",
+        "Ethereum News",
+        "Markets",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260812-heres-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-us-cpi-print",
+      "localUrl": "/news/20260812-heres-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-us-cpi-print.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+      "summary": "Harmony said in Asian morning hours it is working with exchanges to freeze funds and preparing a software fix.",
+      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+      "publishedAt": "2026-08-12T05:18:40.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260812-harmonys-one-dives-26-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of",
+      "localUrl": "/news/20260812-harmonys-one-dives-26-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
@@ -214,7 +273,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Following Senate delay, crypto bill has a narrow window to become law",
+      "title": "Following Senate delay, crypto bill has narrow window to become law",
       "summary": "After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.",
       "url": "https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-11T19:42:08.000Z",
@@ -222,8 +281,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260811-following-senate-delay-crypto-bill-has-a-narrow-window-to-become-law",
-      "localUrl": "/news/20260811-following-senate-delay-crypto-bill-has-a-narrow-window-to-become-law.html"
+      "slug": "20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law",
+      "localUrl": "/news/20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law.html"
     },
     {
       "source": "CoinDesk",
@@ -292,6 +351,17 @@
       "category": "监管",
       "slug": "20260811-arp-digital-secures-dubai-vara-broker-dealer-license",
       "localUrl": "/news/20260811-arp-digital-secures-dubai-vara-broker-dealer-license.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 CFTC says it is prepared to advance crypto regulations even if Congress fails to pass the crypto Clarity Act. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 CFTC says it is prep…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5",
+      "publishedAt": "2026-08-11T17:39:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-",
+      "localUrl": "/news/20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-.html"
     },
     {
       "source": "Decrypt",
@@ -766,52 +836,6 @@
       "localUrl": "/news/20260811-live-updates-bitcoin-falls-to-63500-coreweave-jumps-9-as-ai-demand-pushes-backlo.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "FlightAware sues Kalshi over bets on flight cancellations",
-      "summary": "The flight-tracking company alleges Kalshi used its data and trademark without permission to settle contracts on canceled flights.",
-      "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
-      "publishedAt": "2026-08-11T10:34:17.000Z",
-      "keywords": [
-        "Policy",
-        "Kalshi",
-        "Prediction Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260811-flightaware-sues-kalshi-over-bets-on-flight-cancellations",
-      "localUrl": "/news/20260811-flightaware-sues-kalshi-over-bets-on-flight-cancellations.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Software stocks break away from bitcoin: What the rare divergence means for crypto",
-      "summary": "IGV’s rebound is reshaping a relationship it held with bitcoin for years, but history suggests bitcoin could still catch up.",
-      "url": "https://www.coindesk.com/markets/2026/08/11/software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypto",
-      "publishedAt": "2026-08-11T10:31:26.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260811-software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypt",
-      "localUrl": "/news/20260811-software-stocks-break-away-from-bitcoin-what-the-rare-divergence-means-for-crypt.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Luke Dashjr removed as Bitcoin BIP editor after controversial BIP-110 fork stalls",
-      "summary": "Dashjr said he is taking a sabbatical from his role as chair and chief technology officer of mining pool Ocean.",
-      "url": "https://www.coindesk.com/tech/2026/08/11/luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stalls",
-      "publishedAt": "2026-08-11T10:28:19.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260811-luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stall",
-      "localUrl": "/news/20260811-luke-dashjr-removed-as-bitcoin-bip-editor-after-controversial-bip-110-fork-stall.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
       "summary": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.",
@@ -869,19 +893,6 @@
       "category": "X热点",
       "slug": "20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord",
       "localUrl": "/news/20260811-usdt-supply-shrinks-by-4b-over-60-days-as-investors-may-be-exiting-crypto-accord.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Keel shuts US Bitcoin mining operations as Q2 revenue falls 50%",
-      "summary": "Keel completed the shutdown of its US Bitcoin mining operations as it pivots toward AI and high-performance computing infrastructure",
-      "url": "https://cointelegraph.com/markets/keel-shuts-bitcoin-mining-ai-pivot-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T09:26:00.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260811-keel-shuts-us-bitcoin-mining-operations-as-q2-revenue-falls-50",
-      "localUrl": "/news/20260811-keel-shuts-us-bitcoin-mining-operations-as-q2-revenue-falls-50.html"
     },
     {
       "source": "Decrypt",
@@ -963,6 +974,17 @@
       "localUrl": "/news/20260811-arthur-hayes-fed-backed-yen-rescue-could-fuel-bitcoin-gold-and-ether-bitmex-co-f.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5\" target=\"_blank\">JUST IN: Anthropic signs a $9.1 bill…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5",
+      "publishedAt": "2026-08-11T00:27:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo",
+      "localUrl": "/news/20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
       "summary": "Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.",
@@ -1002,17 +1024,6 @@
       "localUrl": "/news/20260810-hidden-text-in-pdfs-is-hijacking-this-ai-assistant.html"
     },
     {
-      "source": "X Wire",
-      "title": "One unified experience for fully onchain trading, where equity, commodity, and crypto perps collide. Aptos Foundation's @ASHAWONN joins @useTria and @DecibelTrade to unpack what that shift means for traders, why it matters that every trade is settled onc - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ELTRzUk40WlRnRVZZTlB3dW1iYUJ1ZGpTbkZkaGFReWtLb2lQblY5SUlHdWdtbU1GRnQwOUc3VnVDcndvM1RUbjB0VlloYi1QUjk2cnJRa2drUQ?oc=5\" target=\"_blank\">One unified experience for fully onchain tra…",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ELTRzUk40WlRnRVZZTlB3dW1iYUJ1ZGpTbkZkaGFReWtLb2lQblY5SUlHdWdtbU1GRnQwOUc3VnVDcndvM1RUbjB0VlloYi1QUjk2cnJRa2drUQ?oc=5",
-      "publishedAt": "2026-08-10T19:33:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp",
-      "localUrl": "/news/20260810-one-unified-experience-for-fully-onchain-trading-where-equity-commodity-and-cryp.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
       "summary": "A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.",
@@ -1024,17 +1035,6 @@
       "category": "市场",
       "slug": "20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years",
       "localUrl": "/news/20260810-another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Morgan Stanley just published an @ethereum primer. Not an ETH price target or a trading thesis. A primer on Ethereum as infrastructure for stablecoins, tokenized assets, payments, settlement, lending, and financial applications. Assets converge where the liq - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMjRDSDFrWjlqemR1ODR3amdQR0pHZzlNZmE5LXRfRmZnY3FVd0FmdEt5dmlaUjFaWmhLLUdVbDFLNDlzZEVhSDk3Ri03MHcxUlVCUjJINm8xSXJCRndwb1ZQQ3Jhdw?oc=5\" target=\"_blank\">Morgan Stanley just publishe…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NMjRDSDFrWjlqemR1ODR3amdQR0pHZzlNZmE5LXRfRmZnY3FVd0FmdEt5dmlaUjFaWmhLLUdVbDFLNDlzZEVhSDk3Ri03MHcxUlVCUjJINm8xSXJCRndwb1ZQQ3Jhdw?oc=5",
-      "publishedAt": "2026-08-10T18:48:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr",
-      "localUrl": "/news/20260810-morgan-stanley-just-published-an-ethereum-primer-not-an-eth-price-target-or-a-tr.html"
     },
     {
       "source": "X Wire",
