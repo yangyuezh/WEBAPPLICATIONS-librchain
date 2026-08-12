@@ -5,7 +5,63 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 13:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:11:01 GMT</lastBuildDate>
+    <item>
+      <title>Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%</title>
+      <link>https://www.librchain.com/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html</guid>
+      <description>The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here&apos;s why.</description>
+      <pubDate>Wed, 12 Aug 2026 15:07:56 GMT</pubDate>
+      <source url="https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools">Decrypt</source>
+    </item>
+    <item>
+      <title>Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%</title>
+      <link>https://www.librchain.com/news/20260812-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60.html</guid>
+      <description>Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.</description>
+      <pubDate>Wed, 12 Aug 2026 15:00:10 GMT</pubDate>
+      <source url="https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Miden bets on privacy stablecoins with introduction of USDCx</title>
+      <link>https://www.librchain.com/news/20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx.html</guid>
+      <description>USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.</description>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx">CoinDesk</source>
+    </item>
+    <item>
+      <title>Crypto Long &amp; Short:</title>
+      <link>https://www.librchain.com/news/20260812-crypto-long-short.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-crypto-long-short.html</guid>
+      <description>In this week&apos;s Crypto Long &amp; Short, LMAX Group&apos;s Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while risk reprices by the minute. She makes t…</description>
+      <pubDate>Wed, 12 Aug 2026 14:51:12 GMT</pubDate>
+      <source url="https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short">CoinDesk</source>
+    </item>
+    <item>
+      <title>A Routing Bug Took Solana 86% of the Way to Losing Finality</title>
+      <link>https://www.librchain.com/news/20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality.html</guid>
+      <description>A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.</description>
+      <pubDate>Wed, 12 Aug 2026 14:13:07 GMT</pubDate>
+      <source url="https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality">Decrypt</source>
+    </item>
+    <item>
+      <title>Kalshi Adds Real-Time Market Data Feed Through DoubleZero</title>
+      <link>https://www.librchain.com/news/20260812-kalshi-adds-real-time-market-data-feed-through-doublezero.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-kalshi-adds-real-time-market-data-feed-through-doublezero.html</guid>
+      <description>The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.</description>
+      <pubDate>Wed, 12 Aug 2026 14:00:04 GMT</pubDate>
+      <source url="https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero">Decrypt</source>
+    </item>
+    <item>
+      <title>Kalshi launches sports and crypto perps data feed on DoubleZero</title>
+      <link>https://www.librchain.com/news/20260812-kalshi-launches-sports-and-crypto-perps-data-feed-on-doublezero.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-kalshi-launches-sports-and-crypto-perps-data-feed-on-doublezero.html</guid>
+      <description>Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.</description>
+      <pubDate>Wed, 12 Aug 2026 13:58:41 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says</title>
       <link>https://www.librchain.com/news/20260812-smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says.html</link>
@@ -71,6 +127,14 @@
       <source url="https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
+      <title>JUST IN: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks. &quot;America and the OCC are once again open for business.&quot; - x.com</title>
+      <link>https://www.librchain.com/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQnRqRlhfRm1jRnJURFNaZ3d1WmRNc0N6N0liRTg1di1TZXZWbVFBSGhoR240NDYxR1lXV0c0TkQ0dWNpUnpvalFDR1NsZHB3UGJyemtVWXFiRzJMdGZFYlhnTFgzYmM?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: 🇺🇸 US regulator …</description>
+      <pubDate>Wed, 12 Aug 2026 12:12:59 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQnRqRlhfRm1jRnJURFNaZ3d1WmRNc0N6N0liRTg1di1TZXZWbVFBSGhoR240NDYxR1lXV0c0TkQ0dWNpUnpvalFDR1NsZHB3UGJyemtVWXFiRzJMdGZFYlhnTFgzYmM?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Morning Minute: The CFTC Bails Out Kalshi in NY</title>
       <link>https://www.librchain.com/news/20260812-morning-minute-the-cftc-bails-out-kalshi-in-ny.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260812-morning-minute-the-cftc-bails-out-kalshi-in-ny.html</guid>
@@ -131,7 +195,7 @@
       <link>https://www.librchain.com/news/20260812-binance-redotpay-clash-over-fate-of-singapore-lawsuit.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260812-binance-redotpay-clash-over-fate-of-singapore-lawsuit.html</guid>
       <description>Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.</description>
-      <pubDate>Wed, 12 Aug 2026 10:18:18 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 10:21:00 GMT</pubDate>
       <source url="https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
@@ -199,9 +263,9 @@
       <source url="https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
-      <title>Live updates: Bitcoin holds $64,000 as July inflation meets forecasts</title>
-      <link>https://www.librchain.com/news/20260812-live-updates-bitcoin-holds-64000-as-july-inflation-meets-forecasts.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-live-updates-bitcoin-holds-64000-as-july-inflation-meets-forecasts.html</guid>
+      <title>Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates</title>
+      <link>https://www.librchain.com/news/20260812-live-updates-ai-stocks-surge-on-q2-beats-bitcoin-falls-below-64000-as-inflation-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-live-updates-ai-stocks-surge-on-q2-beats-bitcoin-falls-below-64000-as-inflation-.html</guid>
       <description>Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn&apos;t a sale despite its $1.4 billion paper loss.</description>
       <pubDate>Wed, 12 Aug 2026 07:04:53 GMT</pubDate>
       <source url="https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets">CoinDesk</source>
@@ -307,7 +371,7 @@
       <link>https://www.librchain.com/news/20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260812-sec-cftc-sue-goliath-ventures-over-400m-crypto-ponzi-scheme.html</guid>
       <description>Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder’s luxury spending.</description>
-      <pubDate>Wed, 12 Aug 2026 00:07:41 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
@@ -325,22 +389,6 @@
       <description>The former operating chief is starting a new venture following several departures across the ChatGPT developer’s leadership and safety teams.</description>
       <pubDate>Tue, 11 Aug 2026 22:04:06 GMT</pubDate>
       <source url="https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo">Decrypt</source>
-    </item>
-    <item>
-      <title>Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move</title>
-      <link>https://www.librchain.com/news/20260811-bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-mov.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-mov.html</guid>
-      <description>Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.</description>
-      <pubDate>Tue, 11 Aug 2026 21:38:13 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move">CoinDesk</source>
-    </item>
-    <item>
-      <title>CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit</title>
-      <link>https://www.librchain.com/news/20260811-cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-sta.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-sta.html</guid>
-      <description>New York sued Kalshi last month in a bid to block it from operating sports-related prediction markets.</description>
-      <pubDate>Tue, 11 Aug 2026 21:28:59 GMT</pubDate>
-      <source url="https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit">CoinDesk</source>
     </item>
     <item>
       <title>BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit</title>
@@ -391,6 +439,14 @@
       <source url="https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects">Decrypt</source>
     </item>
     <item>
+      <title>Who is actually accruing the value created in crypto? This started as a conversation on the @Blockworks TG group with @santiagoroel and a few others. Venture in crypto has shrunk a lot! and imo the main reason is that on-chain revenue pools have been far - x.com</title>
+      <link>https://www.librchain.com/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5&quot; target=&quot;_blank&quot;&gt;Who is actually accruing the value c…</description>
+      <pubDate>Tue, 11 Aug 2026 20:07:54 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>MoneyGram expands crypto cash ramps to Solana</title>
       <link>https://www.librchain.com/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html</guid>
@@ -415,76 +471,20 @@
       <source url="https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
     <item>
+      <title>*SEC POISED TO UNVEIL MAJOR CRYPTO PLANS AS CLARITY ACT STALLS - x.com</title>
+      <link>https://www.librchain.com/news/20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5&quot; target=&quot;_blank&quot;&gt;*SEC POISED TO UNVEIL MAJOR CRYPTO PLAN…</description>
+      <pubDate>Tue, 11 Aug 2026 19:40:24 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>After selling Bitcoin to build $4.75 billion in cash reserves, @Strategy CEO @phongle says the company learned a key lesson: institutional and short-term investors value cash more than Bitcoin liquidity. “And that was a lesson learned,” Le said, adding Strateg - x.com</title>
       <link>https://www.librchain.com/news/20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle.html</guid>
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5&quot; target=&quot;_blank&quot;&gt;After selling Bitcoin to build $4.75 bi…</description>
       <pubDate>Tue, 11 Aug 2026 18:58:29 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>AI Agent Hacks a Gym—And the Tech World Wonders What&apos;s Next</title>
-      <link>https://www.librchain.com/news/20260811-ai-agent-hacks-a-gymand-the-tech-world-wonders-whats-next.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-ai-agent-hacks-a-gymand-the-tech-world-wonders-whats-next.html</guid>
-      <description>The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.</description>
-      <pubDate>Tue, 11 Aug 2026 18:56:03 GMT</pubDate>
-      <source url="https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts">Decrypt</source>
-    </item>
-    <item>
-      <title>Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss</title>
-      <link>https://www.librchain.com/news/20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss.html</guid>
-      <description>Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.</description>
-      <pubDate>Tue, 11 Aug 2026 18:25:14 GMT</pubDate>
-      <source url="https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss">Decrypt</source>
-    </item>
-    <item>
-      <title>Strategy CEO says company will resume Bitcoin accumulation this year</title>
-      <link>https://www.librchain.com/news/20260811-strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year.html</guid>
-      <description>The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.</description>
-      <pubDate>Tue, 11 Aug 2026 18:03:49 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>ARP Digital secures Dubai VARA broker-dealer license</title>
-      <link>https://www.librchain.com/news/20260811-arp-digital-secures-dubai-vara-broker-dealer-license.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-arp-digital-secures-dubai-vara-broker-dealer-license.html</guid>
-      <description>The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.</description>
-      <pubDate>Tue, 11 Aug 2026 17:53:51 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>JUST IN: 🇺🇸 CFTC says it is prepared to advance crypto regulations even if Congress fails to pass the crypto Clarity Act. - x.com</title>
-      <link>https://www.librchain.com/news/20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: 🇺🇸 CFTC says it is prep…</description>
-      <pubDate>Tue, 11 Aug 2026 17:39:04 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sop - x.com</title>
-      <link>https://www.librchain.com/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5&quot; target=&quot;_blank&quot;&gt;ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI…</description>
-      <pubDate>Tue, 11 Aug 2026 17:29:30 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP</title>
-      <link>https://www.librchain.com/news/20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp.html</guid>
-      <description>Bitcoin, Ethereum and Tether clear the central bank&apos;s liquidity bar—everything else, including XRP, stays off-limits for retail.</description>
-      <pubDate>Tue, 11 Aug 2026 17:26:54 GMT</pubDate>
-      <source url="https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp">Decrypt</source>
-    </item>
-    <item>
-      <title>Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network</title>
-      <link>https://www.librchain.com/news/20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network.html</guid>
-      <description>Two mining pools controlling most of Ravencoin&apos;s hash power are already rebuilding the chain from before Friday&apos;s first bad block—here&apos;s what a forced rollback would undo.</description>
-      <pubDate>Tue, 11 Aug 2026 17:02:36 GMT</pubDate>
-      <source url="https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback">Decrypt</source>
     </item>
   </channel>
 </rss>

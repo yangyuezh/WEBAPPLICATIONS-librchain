@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-08-12T13:40:33.098Z",
+  "updatedAt": "2026-08-12T15:11:01.902Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
+      "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
+      "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+      "publishedAt": "2026-08-12T15:07:56.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34",
+      "localUrl": "/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+      "summary": "Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.",
+      "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T15:00:10.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260812-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60",
+      "localUrl": "/news/20260812-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+      "summary": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
+      "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+      "publishedAt": "2026-08-12T15:00:00.000Z",
+      "keywords": [
+        "Tech",
+        "Stablecoins",
+        "Privacy",
+        "Exclusive",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+      "localUrl": "/news/20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short:",
+      "summary": "In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while risk reprices by the minute. She makes t…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+      "publishedAt": "2026-08-12T14:51:12.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "CoinDesk Indices",
+        "Newsletters",
+        "Crypto Long & Short",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260812-crypto-long-short",
+      "localUrl": "/news/20260812-crypto-long-short.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+      "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
+      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+      "publishedAt": "2026-08-12T14:13:07.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+      "localUrl": "/news/20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
+      "summary": "The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
+      "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
+      "publishedAt": "2026-08-12T14:00:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260812-kalshi-adds-real-time-market-data-feed-through-doublezero",
+      "localUrl": "/news/20260812-kalshi-adds-real-time-market-data-feed-through-doublezero.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
+      "summary": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero’s dedicated fiber network to bolster institutional data access.",
+      "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T13:58:41.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260812-kalshi-launches-sports-and-crypto-perps-data-feed-on-doublezero",
+      "localUrl": "/news/20260812-kalshi-launches-sports-and-crypto-perps-data-feed-on-doublezero.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
@@ -117,6 +216,17 @@
       "localUrl": "/news/20260812-fidelity-files-with-sec-to-add-staking-to-ethereum-etf.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks. \"America and the OCC are once again open for business.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQnRqRlhfRm1jRnJURFNaZ3d1WmRNc0N6N0liRTg1di1TZXZWbVFBSGhoR240NDYxR1lXV0c0TkQ0dWNpUnpvalFDR1NsZHB3UGJyemtVWXFiRzJMdGZFYlhnTFgzYmM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 US regulator …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQnRqRlhfRm1jRnJURFNaZ3d1WmRNc0N6N0liRTg1di1TZXZWbVFBSGhoR240NDYxR1lXV0c0TkQ0dWNpUnpvalFDR1NsZHB3UGJyemtVWXFiRzJMdGZFYlhnTFgzYmM?oc=5",
+      "publishedAt": "2026-08-12T12:12:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba",
+      "localUrl": "/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
       "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
@@ -223,7 +333,7 @@
       "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
       "summary": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
       "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T10:18:18.000Z",
+      "publishedAt": "2026-08-12T10:21:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -348,7 +458,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds $64,000 as July inflation meets forecasts",
+      "title": "Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates",
       "summary": "Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.",
       "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
       "publishedAt": "2026-08-12T07:04:53.000Z",
@@ -358,8 +468,8 @@
         "live_news"
       ],
       "category": "RWA",
-      "slug": "20260812-live-updates-bitcoin-holds-64000-as-july-inflation-meets-forecasts",
-      "localUrl": "/news/20260812-live-updates-bitcoin-holds-64000-as-july-inflation-meets-forecasts.html"
+      "slug": "20260812-live-updates-ai-stocks-surge-on-q2-beats-bitcoin-falls-below-64000-as-inflation-",
+      "localUrl": "/news/20260812-live-updates-ai-stocks-surge-on-q2-beats-bitcoin-falls-below-64000-as-inflation-.html"
     },
     {
       "source": "Cointelegraph",
@@ -523,7 +633,7 @@
       "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
       "summary": "Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder’s luxury spending.",
       "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T00:07:41.000Z",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -554,36 +664,6 @@
       "category": "综合",
       "slug": "20260811-another-openai-exec-quits-in-leadership-shake-up-as-ai-giant-eyes-ipo",
       "localUrl": "/news/20260811-another-openai-exec-quits-in-leadership-shake-up-as-ai-giant-eyes-ipo.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin stuck as ETF inflows offset selling, but inflation data could spark a move",
-      "summary": "Weeks of sideways trading have crushed volatility, leaving Wednesday’s inflation report as the next potential catalyst, analysts said.",
-      "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-move",
-      "publishedAt": "2026-08-11T21:38:13.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260811-bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-mov",
-      "localUrl": "/news/20260811-bitcoin-stuck-as-etf-inflows-offset-selling-but-inflation-data-could-spark-a-mov.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-      "summary": "New York sued Kalshi last month in a bid to block it from operating sports-related prediction markets.",
-      "url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-      "publishedAt": "2026-08-11T21:28:59.000Z",
-      "keywords": [
-        "Policy",
-        "CFTC",
-        "Kalshi",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260811-cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-sta",
-      "localUrl": "/news/20260811-cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-sta.html"
     },
     {
       "source": "Decrypt",
@@ -662,6 +742,17 @@
       "localUrl": "/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html"
     },
     {
+      "source": "X Wire",
+      "title": "Who is actually accruing the value created in crypto? This started as a conversation on the @Blockworks TG group with @santiagoroel and a few others. Venture in crypto has shrunk a lot! and imo the main reason is that on-chain revenue pools have been far - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5\" target=\"_blank\">Who is actually accruing the value c…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5",
+      "publishedAt": "2026-08-11T20:07:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat",
+      "localUrl": "/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "MoneyGram expands crypto cash ramps to Solana",
       "summary": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
@@ -697,6 +788,17 @@
       "category": "监管",
       "slug": "20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law",
       "localUrl": "/news/20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "*SEC POISED TO UNVEIL MAJOR CRYPTO PLANS AS CLARITY ACT STALLS - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5\" target=\"_blank\">*SEC POISED TO UNVEIL MAJOR CRYPTO PLAN…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5",
+      "publishedAt": "2026-08-11T19:40:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom",
+      "localUrl": "/news/20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom.html"
     },
     {
       "source": "X Wire",
@@ -810,19 +912,6 @@
       "localUrl": "/news/20260811-ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "FlightAware sues Kalshi over flight cancellation data",
-      "summary": "The legal action against Kalshi focused on trademark infringement and injury to its reputation in addition to citing state authorities comparing the company’s contracts to gambling.",
-      "url": "https://cointelegraph.com/news/flightaware-lawsuit-kalshi-flight-cancellations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T16:55:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260811-flightaware-sues-kalshi-over-flight-cancellation-data",
-      "localUrl": "/news/20260811-flightaware-sues-kalshi-over-flight-cancellation-data.html"
-    },
-    {
       "source": "Decrypt",
       "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
       "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
@@ -834,30 +923,6 @@
       "category": "监管",
       "slug": "20260811-etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10",
       "localUrl": "/news/20260811-etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
-      "summary": "Flowdesk’s VARA approval follows its MiCA authorization in France as crypto firms build regulated operations across major global markets.",
-      "url": "https://cointelegraph.com/news/flowdesk-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T16:39:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-coinbase-backed-flowdesk-secures-full-broker-dealer-license-in-dubai",
-      "localUrl": "/news/20260811-coinbase-backed-flowdesk-secures-full-broker-dealer-license-in-dubai.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "First they’ll say, “We accept Bitcoin.” Then they’ll say, “We only accept Bitcoin.” Then there will be a run on the banks. Then the world as we know it will fundamentally change forever as Bitcoin goes infinite against the US dollar. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNkNIQnpiQUZvNVI5dDlfRkMxMlZyalo3U2Z3MjVQLTVIT1V0ZjRITWdZVFl1emVwTl9Bb2MyVFN6QmNBbWVMNXNrZ2Z3Zkk4NnZYSTUxaFVuR3JkVU4w?oc=5\" target=\"_blank\">First they’ll say, “We accept Bitcoin.…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNkNIQnpiQUZvNVI5dDlfRkMxMlZyalo3U2Z3MjVQLTVIT1V0ZjRITWdZVFl1emVwTl9Bb2MyVFN6QmNBbWVMNXNrZ2Z3Zkk4NnZYSTUxaFVuR3JkVU4w?oc=5",
-      "publishedAt": "2026-08-11T16:00:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-first-theyll-say-we-accept-bitcoin-then-theyll-say-we-only-accept-bitcoin-then-t",
-      "localUrl": "/news/20260811-first-theyll-say-we-accept-bitcoin-then-theyll-say-we-only-accept-bitcoin-then-t.html"
     },
     {
       "source": "Decrypt",
@@ -967,19 +1032,6 @@
       "localUrl": "/news/20260811-morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row.html"
     },
     {
-      "source": "Decrypt",
-      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
-      "summary": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
-      "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
-      "publishedAt": "2026-08-11T12:02:42.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260811-north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
-      "localUrl": "/news/20260811-north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "MoneyGram Ramps launches on Solana",
       "summary": "MoneyGram Ramps gives Solana builders one API for cash deposits in 25+ countries and withdrawals in 170+ countries and territories.",
@@ -989,54 +1041,6 @@
       "category": "基础设施",
       "slug": "20260811-moneygram-ramps-launches-on-solana",
       "localUrl": "/news/20260811-moneygram-ramps-launches-on-solana.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
-      "summary": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
-      "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-      "publishedAt": "2026-08-11T09:58:44.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260811-coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-      "localUrl": "/news/20260811-coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 HISTORY: 6 years ago today, Strategy adopted Bitcoin as its primary treasury reserve asset. It started with 21,454 $BTC for $250M at ~$11,653 per Bitcoin. Today, Strategy holds 840,447 BTC, nearly 39x its initial stack. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5\" target=\"_blank\">🔥 HISTORY: 6 years ago today, …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NZnJwUnd1b083YTRDd1JxQlFBUVBzeHdxYmlFTjRoNGVyUExEejAyUG90N0NRYmUxMW1zX0tXbmQwS3psWkRQYW40V2dmdUdIMzJ6em5sZHpIUUVrLUFHSXk1NUY?oc=5",
-      "publishedAt": "2026-08-11T09:41:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser",
-      "localUrl": "/news/20260811-history-6-years-ago-today-strategy-adopted-bitcoin-as-its-primary-treasury-reser.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
-      "summary": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
-      "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
-      "publishedAt": "2026-08-11T08:41:17.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260811-uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
-      "localUrl": "/news/20260811-uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 SEC is set to begin its first major crypto rulemaking process this week as the Senate has failed to pass the Clarity Act before the August recess. The SEC will meet on August 14 to propose “Regulation Crypto.” The proposal could create a legal - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 SEC is set to beg…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXS1BrVEd6NXZpb2VQNkRlcWdWQ2hIU3ppQzB6WVNsdjlyY013a1RyRWszLTNVTU56Z1BTZUd4Z2VUTXQ1aUlnaHhkYU5fUUhTR0ZCeG1mZDRVaGtRUEluUllxSQ?oc=5",
-      "publishedAt": "2026-08-11T06:04:15.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-breaking-sec-is-set-to-begin-its-first-major-crypto-rulemaking-process-this-week",
-      "localUrl": "/news/20260811-breaking-sec-is-set-to-begin-its-first-major-crypto-rulemaking-process-this-week.html"
     },
     {
       "source": "X Wire",
