@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-12T06:39:11.097Z",
+  "updatedAt": "2026-08-12T08:37:01.405Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+      "summary": "Suspected North Koreans IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
+      "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T07:34:58.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "综合",
+      "slug": "20260812-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers",
+      "localUrl": "/news/20260812-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "summary": "Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.",
+      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+      "publishedAt": "2026-08-12T07:04:53.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "RWA",
+      "slug": "20260812-live-updates-bitcoin-at-63600-as-japans-metaplanet-moves-3881-btc-between-wallet",
+      "localUrl": "/news/20260812-live-updates-bitcoin-at-63600-as-japans-metaplanet-moves-3881-btc-between-wallet.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
@@ -49,7 +77,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Harmony’s ONE dives 26% after an attack appears to mint tokens equal to quarter of supply",
+      "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
       "summary": "Harmony said in Asian morning hours it is working with exchanges to freeze funds and preparing a software fix.",
       "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
       "publishedAt": "2026-08-12T05:18:40.000Z",
@@ -58,8 +86,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260812-harmonys-one-dives-26-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of",
-      "localUrl": "/news/20260812-harmonys-one-dives-26-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of.html"
+      "slug": "20260812-harmonys-one-dives-40-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of",
+      "localUrl": "/news/20260812-harmonys-one-dives-40-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of.html"
     },
     {
       "source": "CoinDesk",
@@ -89,6 +117,17 @@
       "localUrl": "/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Harmony Exploited in Unauthorized Mint of 4 Billion ONE Harmony, a Layer 1 blockchain launched in 2019, said it is working with exchanges to stop and freeze funds following a suspected exploit, while developing a patch and evaluating rollback opt - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5\" target=\"_blank\">JUST IN: Harmony Exploited in Un…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5",
+      "publishedAt": "2026-08-12T04:52:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-",
+      "localUrl": "/news/20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
       "summary": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
@@ -101,6 +140,17 @@
       "category": "综合",
       "slug": "20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones",
       "localUrl": "/news/20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Strategy CEO Phong Le: Company to Resume Bitcoin Purchases Later This Year According to FOX Business, Strategy CEO Phong Le stated that the company plans to resume accumulating Bitcoin later this year, despite recent sales of portions of its holdings t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5\" target=\"_blank\">Strategy CEO Phong Le: Company t…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5",
+      "publishedAt": "2026-08-12T02:52:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord",
+      "localUrl": "/news/20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord.html"
     },
     {
       "source": "X Wire",
@@ -362,6 +412,17 @@
       "category": "X热点",
       "slug": "20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-",
       "localUrl": "/news/20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sop - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5\" target=\"_blank\">ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5",
+      "publishedAt": "2026-08-11T17:29:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea",
+      "localUrl": "/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html"
     },
     {
       "source": "Decrypt",
@@ -821,34 +882,6 @@
       "localUrl": "/news/20260811-bitcoin-stuck-below-65000-as-hormuz-hopes-evaporate-xrp-close-to-dropping-below-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin falls to $63,500; CoreWeave jumps 9% as AI demand pushes backlog over $100 billion",
-      "summary": "STS Digital's Jeff Anderson said Wednesday's U.S. inflation report could spark bitcoin volatility from tight trading range.",
-      "url": "https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai",
-      "publishedAt": "2026-08-11T10:34:52.000Z",
-      "keywords": [
-        "Tech",
-        "Live News",
-        "live_news"
-      ],
-      "category": "市场",
-      "slug": "20260811-live-updates-bitcoin-falls-to-63500-coreweave-jumps-9-as-ai-demand-pushes-backlo",
-      "localUrl": "/news/20260811-live-updates-bitcoin-falls-to-63500-coreweave-jumps-9-as-ai-demand-pushes-backlo.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coldcard hack losses: How investigators trace stolen Bitcoin",
-      "summary": "The Coldcard hack has no definitive loss figure yet as investigators rely on victim reports and onchain analysis that produce varying estimates.",
-      "url": "https://cointelegraph.com/news/coldcard-losses-how-investigators-trace-stolen-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T10:14:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260811-coldcard-hack-losses-how-investigators-trace-stolen-bitcoin",
-      "localUrl": "/news/20260811-coldcard-hack-losses-how-investigators-trace-stolen-bitcoin.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "MoneyGram Ramps launches on Solana",
       "summary": "MoneyGram Ramps gives Solana builders one API for cash deposits in 25+ countries and withdrawals in 170+ countries and territories.",
@@ -931,25 +964,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Crypto Veterans Clash Over Trading Difficulty Past vs Pre... - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Crypto Veterans Clash Over Trading Difficulty Pa…",
+      "title": "Trader's 'Plumbers' Quip Sparks Debate on Early Crypto Tr... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Trader's 'Plumbers' Quip Sparks Debate on Early …",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
       "publishedAt": "2026-08-11T05:17:47.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-crypto-veterans-clash-over-trading-difficulty-past-vs-pre-xcom",
-      "localUrl": "/news/20260811-crypto-veterans-clash-over-trading-difficulty-past-vs-pre-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Anthropic Strikes $9.1 Billion Compute Deal With Bitcoin Miner Riot Anthropic has struck a 20-year, $9.1 billion data-center deal with Riot Platforms to secure 191 MW of computing capacity at Riot’s Rockdale campus in Texas, as the Claude maker races to loc - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FUUFQUmh5VVNKeHBmMzI4Sm94UHYtTTZyOXlwdE9GVC1xV29tMUQ3amZ4M21ySGFEZmlMTnY1MzJmTFU1WklocEdkZnctcHRFTl80Zmk3MnhJd2hmeVY2TUJUSQ?oc=5\" target=\"_blank\">Anthropic Strikes $9.1 Billion C…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FUUFQUmh5VVNKeHBmMzI4Sm94UHYtTTZyOXlwdE9GVC1xV29tMUQ3amZ4M21ySGFEZmlMTnY1MzJmTFU1WklocEdkZnctcHRFTl80Zmk3MnhJd2hmeVY2TUJUSQ?oc=5",
-      "publishedAt": "2026-08-11T05:09:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-",
-      "localUrl": "/news/20260811-anthropic-strikes-91-billion-compute-deal-with-bitcoin-miner-riot-anthropic-has-.html"
+      "slug": "20260811-traders-plumbers-quip-sparks-debate-on-early-crypto-tr-xcom",
+      "localUrl": "/news/20260811-traders-plumbers-quip-sparks-debate-on-early-crypto-tr-xcom.html"
     },
     {
       "source": "X Wire",
@@ -961,28 +983,6 @@
       "category": "X热点",
       "slug": "20260811-now-white-house-crypto-advisor-patrick-witt-says-the-administration-remains-full",
       "localUrl": "/news/20260811-now-white-house-crypto-advisor-patrick-witt-says-the-administration-remains-full.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Arthur Hayes: Fed-Backed Yen Rescue Could Fuel Bitcoin, Gold and Ether BitMEX co-founder Arthur Hayes said the most likely path to a stronger yen is not aggressive Bank of Japan rate hikes or large-scale Treasury sales, but Japan using the Federal Reser - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Dam1taGRmSzc5THFETzhUbEIzUnRPaHBDNndhZXZmODZZUkd4a3lzTEVXbVB3SkNQRDVtbVhOY1duRUJRN2hKZ1BBTFdjS29oeGUwNWpLenozSjBlOUZERUdSVQ?oc=5\" target=\"_blank\">Arthur Hayes: Fed-Backed Yen Res…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Dam1taGRmSzc5THFETzhUbEIzUnRPaHBDNndhZXZmODZZUkd4a3lzTEVXbVB3SkNQRDVtbVhOY1duRUJRN2hKZ1BBTFdjS29oeGUwNWpLenozSjBlOUZERUdSVQ?oc=5",
-      "publishedAt": "2026-08-11T02:40:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-arthur-hayes-fed-backed-yen-rescue-could-fuel-bitcoin-gold-and-ether-bitmex-co-f",
-      "localUrl": "/news/20260811-arthur-hayes-fed-backed-yen-rescue-could-fuel-bitcoin-gold-and-ether-bitmex-co-f.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Anthropic signs a $9.1 billion, 20-year deal with Bitcoin miner Riot Platforms to secure AI compute capacity. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5\" target=\"_blank\">JUST IN: Anthropic signs a $9.1 bill…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRHdaa21OenZ2NkZqdGN0U0hYd3VKZWpCelFRU2pvNGNsM3E0MmlzYUJSQ2lkdkEtT1NoRnMtVktwamxmcm9iVUQtMXJhbU5GWUZiWUU4a3c3dGQ2VjFLcQ?oc=5",
-      "publishedAt": "2026-08-11T00:27:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo",
-      "localUrl": "/news/20260811-just-in-anthropic-signs-a-91-billion-20-year-deal-with-bitcoin-miner-riot-platfo.html"
     },
     {
       "source": "Decrypt",
