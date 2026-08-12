@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-12T21:58:41.080Z",
+  "updatedAt": "2026-08-12T22:57:23.185Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+      "summary": "Tokenized assets hit a record and trading activity jumped, but revenue slipped in the firm’s first earnings report since going public.",
+      "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+      "publishedAt": "2026-08-12T22:26:24.000Z",
+      "keywords": [
+        "Markets",
+        "Tokenization",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260812-securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+      "localUrl": "/news/20260812-securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+      "summary": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
+      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "publishedAt": "2026-08-12T22:11:09.000Z",
+      "keywords": [
+        "Policy",
+        "Zerohash",
+        "Morgan Stanley",
+        "banks",
+        "Exclusive",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260812-morgan-stanleys-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-us-trust",
+      "localUrl": "/news/20260812-morgan-stanleys-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-us-trust.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court, urging it to review whether regional Federal Reserve Banks have the discretion to deny eligible state-chartered banks access t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ld2R6VGVGclFDWm5VVlhPNjY3MnZVVTVCR3NyS1RJdUVjeVl3TnVycGppeE5ZVWxJVGI0VVpHTVpWOGN5UzVRRTFtN1FWakRWNDdiQl8tSDFEUkluLW5weG1GS0d6QQ?oc=5\" target=\"_blank\">🚨NEW: Crypto trade group @B…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ld2R6VGVGclFDWm5VVlhPNjY3MnZVVTVCR3NyS1RJdUVjeVl3TnVycGppeE5ZVWxJVGI0VVpHTVpWOGN5UzVRRTFtN1FWakRWNDdiQl8tSDFEUkluLW5weG1GS0d6QQ?oc=5",
+      "publishedAt": "2026-08-12T21:47:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu",
+      "localUrl": "/news/20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu.html"
+    },
     {
       "source": "Decrypt",
       "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
@@ -118,6 +162,17 @@
       "category": "综合",
       "slug": "20260812-kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow",
       "localUrl": "/news/20260812-kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 HUGE: A Bitcoin user paid a 1.6 $BTC fee, worth roughly $103,000, for a single transaction. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51WHpxQzY4ZFVxa3FrSzJPdGF6M2NSdlNnQ1RqUXBjamdSMm9ucjk2QjlHZFJ1Ykd0N3FiQzhZVzJGcEg0cWFib0g1NE9Vc2xUbHloaXBKNjhvVklub1hsdjczMi0?oc=5\" target=\"_blank\">🚨 HUGE: A Bitcoin user paid a …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51WHpxQzY4ZFVxa3FrSzJPdGF6M2NSdlNnQ1RqUXBjamdSMm9ucjk2QjlHZFJ1Ykd0N3FiQzhZVzJGcEg0cWFib0g1NE9Vc2xUbHloaXBKNjhvVklub1hsdjczMi0?oc=5",
+      "publishedAt": "2026-08-12T18:45:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-huge-a-bitcoin-user-paid-a-16-btc-fee-worth-roughly-103000-for-a-single-transact",
+      "localUrl": "/news/20260812-huge-a-bitcoin-user-paid-a-16-btc-fee-worth-roughly-103000-for-a-single-transact.html"
     },
     {
       "source": "Decrypt",
@@ -256,6 +311,17 @@
       "category": "基础设施",
       "slug": "20260812-kalshi-taps-doublezero-for-wall-street-style-high-speed-data-feed",
       "localUrl": "/news/20260812-kalshi-taps-doublezero-for-wall-street-style-high-speed-data-feed.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: GOLDMAN ACQUIRES $1 BILLION BITCOIN ETF IN TAKEOVER DEAL 👀 • Buys ETF provider Neos for $2.3B • Fund pays 27% yield, but limits BTC upside - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSEwwN3o1MC1qNEdOaG5JRmRpSXlDZVd0azVSaFQ3WHlnUkpvWW1SUnVjMFFTaDFXYzYtN05OUlV1THViWk05OFI0aTVaM2tMdU40VFB5UEVPQ2RkMWEtb0h2LVlMZw?oc=5\" target=\"_blank\">BREAKING: GOLDMAN ACQUIRES $…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSEwwN3o1MC1qNEdOaG5JRmRpSXlDZVd0azVSaFQ3WHlnUkpvWW1SUnVjMFFTaDFXYzYtN05OUlV1THViWk05OFI0aTVaM2tMdU40VFB5UEVPQ2RkMWEtb0h2LVlMZw?oc=5",
+      "publishedAt": "2026-08-12T16:10:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid",
+      "localUrl": "/news/20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid.html"
     },
     {
       "source": "Cointelegraph",
@@ -749,6 +815,17 @@
       "localUrl": "/news/20260812-one-overlooked-group-has-added-178-billion-of-selling-pressure-to-bitcoin-market.html"
     },
     {
+      "source": "X Wire",
+      "title": "🔥 BULLISH: Bitcoin has triggered a second early bull signal, suggesting a potential bottoming phase, per CryptoQuant. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin has trigger…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5",
+      "publishedAt": "2026-08-12T08:05:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-",
+      "localUrl": "/news/20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Inside the fake crypto startup that fooled North Korean IT workers",
       "summary": "Suspected North Korean IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
@@ -788,38 +865,6 @@
       "category": "安全",
       "slug": "20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply",
       "localUrl": "/news/20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-      "summary": "The exchange is joining a tokenized stock market that has grown 600% in a year, though its products offer price exposure rather than share ownership.",
-      "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-      "publishedAt": "2026-08-12T06:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260812-cryptocom-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-eq",
-      "localUrl": "/news/20260812-cryptocom-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-eq.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-      "summary": "Bitcoin and ether are stuck in a tight range ahead of the CPI. Here’s how savvy traders are positioning for the pivotal release.",
-      "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-      "publishedAt": "2026-08-12T05:26:55.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "Ethereum News",
-        "Markets",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260812-heres-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-us-cpi-print",
-      "localUrl": "/news/20260812-heres-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-us-cpi-print.html"
     },
     {
       "source": "Cointelegraph",
@@ -888,17 +933,6 @@
       "category": "X热点",
       "slug": "20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo",
       "localUrl": "/news/20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The BIP 110 fork is not Bitcoin any more than RVN is Bitcoin. A fork is not Bitcoin. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMVV4UElSNVp6R3oxNkdlZTlWWDMwMllTTVM4aWRTcFZqMktpT0l3R0ppZzY2VjNCOG1FSVNFSDc3SnE1NHI1MjFJSzdRYndmSFZIaDVrNmVWUl9pNWw4?oc=5\" target=\"_blank\">The BIP 110 fork is not Bitcoin any mo…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMVV4UElSNVp6R3oxNkdlZTlWWDMwMllTTVM4aWRTcFZqMktpT0l3R0ppZzY2VjNCOG1FSVNFSDc3SnE1NHI1MjFJSzdRYndmSFZIaDVrNmVWUl9pNWw4?oc=5",
-      "publishedAt": "2026-08-11T22:08:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-the-bip-110-fork-is-not-bitcoin-any-more-than-rvn-is-bitcoin-a-fork-is-not-bitco",
-      "localUrl": "/news/20260811-the-bip-110-fork-is-not-bitcoin-any-more-than-rvn-is-bitcoin-a-fork-is-not-bitco.html"
     },
     {
       "source": "Decrypt",
@@ -974,17 +1008,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 CFTC says it is prepared to advance crypto regulations even if Congress fails to pass the crypto Clarity Act. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 CFTC says it is prep…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EZHV1a0t4VmdiRi14dHRvRTJMN1dHclVVYy1GTmphVWRTaFRJTlRZd3pQbWtxSjdBbzV6ZnRObnpwWmdZSlRGT1ZoZkFYRzQ0YUJBRmFmQVFNeXJNQ0U0bGln?oc=5",
-      "publishedAt": "2026-08-11T17:39:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-",
-      "localUrl": "/news/20260811-just-in-cftc-says-it-is-prepared-to-advance-crypto-regulations-even-if-congress-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sop - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5\" target=\"_blank\">ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5",
@@ -993,17 +1016,6 @@
       "category": "X热点",
       "slug": "20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea",
       "localUrl": "/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: 🇺🇸 SEC to consider new rules for certain \"crypto asset\" investment contracts on Friday 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5\" target=\"_blank\">NEW: 🇺🇸 SEC to consider n…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5",
-      "publishedAt": "2026-08-11T14:55:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f",
-      "localUrl": "/news/20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f.html"
     },
     {
       "source": "X Wire",
@@ -1048,17 +1060,6 @@
       "category": "基础设施",
       "slug": "20260811-moneygram-ramps-launches-on-solana",
       "localUrl": "/news/20260811-moneygram-ramps-launches-on-solana.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5\" target=\"_blank\">$STRC is the bridge between Bitcoin, the wo…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5",
-      "publishedAt": "2026-08-11T07:44:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
-      "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
     },
     {
       "source": "X Wire",
