@@ -5,7 +5,55 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:08:39 GMT</lastBuildDate>
+    <item>
+      <title>Bank of England tests stablecoin, digital pound interoperability in cross-border payments</title>
+      <link>https://www.librchain.com/news/20260812-bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-.html</guid>
+      <description>The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.</description>
+      <pubDate>Wed, 12 Aug 2026 16:50:25 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Wintermute plans $1 billion AI push beyond crypto: Bloomberg</title>
+      <link>https://www.librchain.com/news/20260812-wintermute-plans-1-billion-ai-push-beyond-crypto-bloomberg.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-wintermute-plans-1-billion-ai-push-beyond-crypto-bloomberg.html</guid>
+      <description>The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.</description>
+      <pubDate>Wed, 12 Aug 2026 16:34:24 GMT</pubDate>
+      <source url="https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg">CoinDesk</source>
+    </item>
+    <item>
+      <title>Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed</title>
+      <link>https://www.librchain.com/news/20260812-solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-d.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-d.html</guid>
+      <description>Solana-based DoubleZero looks to meet institutional demands by adding prediction market Kalshi’s order book to its low-latency market data feed.</description>
+      <pubDate>Wed, 12 Aug 2026 16:14:49 GMT</pubDate>
+      <source url="https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed">CoinDesk</source>
+    </item>
+    <item>
+      <title>HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin</title>
+      <link>https://www.librchain.com/news/20260812-hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin.html</guid>
+      <description>HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.</description>
+      <pubDate>Wed, 12 Aug 2026 16:07:59 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>XRP Bridge Drained After Software Treats Fake Deposits as Real</title>
+      <link>https://www.librchain.com/news/20260812-xrp-bridge-drained-after-software-treats-fake-deposits-as-real.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-xrp-bridge-drained-after-software-treats-fake-deposits-as-real.html</guid>
+      <description>A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.</description>
+      <pubDate>Wed, 12 Aug 2026 16:00:52 GMT</pubDate>
+      <source url="https://decrypt.co/375441/xrp-drained-tx-bridge">Decrypt</source>
+    </item>
+    <item>
+      <title>Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin</title>
+      <link>https://www.librchain.com/news/20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin.html</guid>
+      <description>A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here&apos;s how they work.</description>
+      <pubDate>Wed, 12 Aug 2026 15:54:16 GMT</pubDate>
+      <source url="https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin">Decrypt</source>
+    </item>
     <item>
       <title>Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%</title>
       <link>https://www.librchain.com/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html</link>
@@ -303,14 +351,6 @@
       <source url="https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens">CoinDesk</source>
     </item>
     <item>
-      <title>Dogecoin and BNB lead majors higher as bitcoin slips near $63,700</title>
-      <link>https://www.librchain.com/news/20260812-dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-63700.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-63700.html</guid>
-      <description>DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.</description>
-      <pubDate>Wed, 12 Aug 2026 04:53:46 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700">CoinDesk</source>
-    </item>
-    <item>
       <title>CFTC invokes emergency powers to keep Kalshi operating in New York fight</title>
       <link>https://www.librchain.com/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight.html</guid>
@@ -327,12 +367,12 @@
       <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5">X Wire</source>
     </item>
     <item>
-      <title>XRP bridge drained for $200,000 after software mistook fake deposits for real ones</title>
-      <link>https://www.librchain.com/news/20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones.html</guid>
-      <description>An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.</description>
-      <pubDate>Wed, 12 Aug 2026 04:33:25 GMT</pubDate>
-      <source url="https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones">CoinDesk</source>
+      <title>🚨 NEW: Bitwise cuts 14% of its workforce amid the crypto price slump, trimming staff to about 155 from 180. - x.com</title>
+      <link>https://www.librchain.com/news/20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5&quot; target=&quot;_blank&quot;&gt;🚨 NEW: Bitwise cuts 14% of its…</description>
+      <pubDate>Wed, 12 Aug 2026 04:00:50 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5">X Wire</source>
     </item>
     <item>
       <title>Strategy CEO Phong Le: Company to Resume Bitcoin Purchases Later This Year According to FOX Business, Strategy CEO Phong Le stated that the company plans to resume accumulating Bitcoin later this year, despite recent sales of portions of its holdings t - x.com</title>
@@ -359,6 +399,14 @@
       <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kd3pHOGVhaVQzVWtPRU5ITTY2T18tNTNJOFhLcHVFcG9DNk50aWZjU3duYy1RVU9WbDJOTGY1Z2o0R3lRLUV6MFJKaHFTMlJCNmlScnhDWHRjOGJYbEVLYlpB?oc=5">X Wire</source>
     </item>
     <item>
+      <title>🚨 TODAY: Bitwise CIO Matt Hougan says Bitcoin has likely bottomed out, pointing to its resilience against recent bad news like the Coldcard hack and Clarity Act setback. - x.com</title>
+      <link>https://www.librchain.com/news/20260812-today-bitwise-cio-matt-hougan-says-bitcoin-has-likely-bottomed-out-pointing-to-i.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-today-bitwise-cio-matt-hougan-says-bitcoin-has-likely-bottomed-out-pointing-to-i.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVnhodHY5eXVfNDZnNHVOSXp0M3ZfLUtPQTNPc1NUcEJNUm13OG93enV3Z2xFZVo3S0UtdmtnU25XTFBXSUlrdC1MMkhCY1Q3M0FjZk1ESHdhSTVzLTNTNjFkMnU?oc=5&quot; target=&quot;_blank&quot;&gt;🚨 TODAY: Bitwise CIO Matt Houg…</description>
+      <pubDate>Wed, 12 Aug 2026 01:40:47 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVnhodHY5eXVfNDZnNHVOSXp0M3ZfLUtPQTNPc1NUcEJNUm13OG93enV3Z2xFZVo3S0UtdmtnU25XTFBXSUlrdC1MMkhCY1Q3M0FjZk1ESHdhSTVzLTNTNjFkMnU?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>Ravencoin hits record low as network exploit puts transactions at risk</title>
       <link>https://www.librchain.com/news/20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260812-ravencoin-hits-record-low-as-network-exploit-puts-transactions-at-risk.html</guid>
@@ -381,6 +429,14 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5&quot; target=&quot;_blank&quot;&gt;🚨 ALERT: Bitcoin sellers are s…</description>
       <pubDate>Tue, 11 Aug 2026 23:00:52 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5">X Wire</source>
+    </item>
+    <item>
+      <title>The BIP 110 fork is not Bitcoin any more than RVN is Bitcoin. A fork is not Bitcoin. - x.com</title>
+      <link>https://www.librchain.com/news/20260811-the-bip-110-fork-is-not-bitcoin-any-more-than-rvn-is-bitcoin-a-fork-is-not-bitco.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260811-the-bip-110-fork-is-not-bitcoin-any-more-than-rvn-is-bitcoin-a-fork-is-not-bitco.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMVV4UElSNVp6R3oxNkdlZTlWWDMwMllTTVM4aWRTcFZqMktpT0l3R0ppZzY2VjNCOG1FSVNFSDc3SnE1NHI1MjFJSzdRYndmSFZIaDVrNmVWUl9pNWw4?oc=5&quot; target=&quot;_blank&quot;&gt;The BIP 110 fork is not Bitcoin any mo…</description>
+      <pubDate>Tue, 11 Aug 2026 22:08:16 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMVV4UElSNVp6R3oxNkdlZTlWWDMwMllTTVM4aWRTcFZqMktpT0l3R0ppZzY2VjNCOG1FSVNFSDc3SnE1NHI1MjFJSzdRYndmSFZIaDVrNmVWUl9pNWw4?oc=5">X Wire</source>
     </item>
     <item>
       <title>Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO</title>
@@ -429,62 +485,6 @@
       <description>Solana is holding its 50-day average after a pullback from August&apos;s $90 spike, but the death cross above it keeps pressure pointed down.</description>
       <pubDate>Tue, 11 Aug 2026 20:46:04 GMT</pubDate>
       <source url="https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move">Decrypt</source>
-    </item>
-    <item>
-      <title>SEC Prepares Escape Hatch From Securities Registration for Crypto Projects</title>
-      <link>https://www.librchain.com/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html</guid>
-      <description>The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.</description>
-      <pubDate>Tue, 11 Aug 2026 20:10:00 GMT</pubDate>
-      <source url="https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects">Decrypt</source>
-    </item>
-    <item>
-      <title>Who is actually accruing the value created in crypto? This started as a conversation on the @Blockworks TG group with @santiagoroel and a few others. Venture in crypto has shrunk a lot! and imo the main reason is that on-chain revenue pools have been far - x.com</title>
-      <link>https://www.librchain.com/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5&quot; target=&quot;_blank&quot;&gt;Who is actually accruing the value c…</description>
-      <pubDate>Tue, 11 Aug 2026 20:07:54 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>MoneyGram expands crypto cash ramps to Solana</title>
-      <link>https://www.librchain.com/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-moneygram-expands-crypto-cash-ramps-to-solana.html</guid>
-      <description>MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.</description>
-      <pubDate>Tue, 11 Aug 2026 19:53:02 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/moneygram-expands-crypto-cash-ramps-to-solana?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>JUST IN: 🇺🇸 SEC to unveil &apos;major crypto plans&apos; as Clarity Act stalls — Bloomberg 👀 - x.com</title>
-      <link>https://www.librchain.com/news/20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: 🇺🇸 SEC to unveil…</description>
-      <pubDate>Tue, 11 Aug 2026 19:51:28 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>Following Senate delay, crypto bill has narrow window to become law</title>
-      <link>https://www.librchain.com/news/20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-following-senate-delay-crypto-bill-has-narrow-window-to-become-law.html</guid>
-      <description>After an August recess, lawmakers in the Senate will have just 36 days in session before the end of the year to pass the CLARITY Act.</description>
-      <pubDate>Tue, 11 Aug 2026 19:42:08 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/clarity-act-senate-delay-window-become-law-midterm-elections?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>*SEC POISED TO UNVEIL MAJOR CRYPTO PLANS AS CLARITY ACT STALLS - x.com</title>
-      <link>https://www.librchain.com/news/20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-sec-poised-to-unveil-major-crypto-plans-as-clarity-act-stalls-xcom.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5&quot; target=&quot;_blank&quot;&gt;*SEC POISED TO UNVEIL MAJOR CRYPTO PLAN…</description>
-      <pubDate>Tue, 11 Aug 2026 19:40:24 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE16NklWTFQ3WUw2b2hoM1JQMlJmM0lXZUsySUJjODF6Vm5FVV96bjV0SVp2SlNGTXpVTE1OR3RUajdhVkJoYkFTSzVhWUNnbW9XTU93a2tzbWJJYzRreHc?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>After selling Bitcoin to build $4.75 billion in cash reserves, @Strategy CEO @phongle says the company learned a key lesson: institutional and short-term investors value cash more than Bitcoin liquidity. “And that was a lesson learned,” Le said, adding Strateg - x.com</title>
-      <link>https://www.librchain.com/news/20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5&quot; target=&quot;_blank&quot;&gt;After selling Bitcoin to build $4.75 bi…</description>
-      <pubDate>Tue, 11 Aug 2026 18:58:29 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>

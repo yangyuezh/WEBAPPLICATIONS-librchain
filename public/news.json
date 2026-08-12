@@ -1,7 +1,92 @@
 {
-  "updatedAt": "2026-08-12T15:11:01.902Z",
+  "updatedAt": "2026-08-12T17:08:39.564Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+      "summary": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
+      "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T16:50:25.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260812-bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-",
+      "localUrl": "/news/20260812-bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "summary": "The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.",
+      "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+      "publishedAt": "2026-08-12T16:34:24.000Z",
+      "keywords": [
+        "Finance",
+        "Wintermute",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260812-wintermute-plans-1-billion-ai-push-beyond-crypto-bloomberg",
+      "localUrl": "/news/20260812-wintermute-plans-1-billion-ai-push-beyond-crypto-bloomberg.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed",
+      "summary": "Solana-based DoubleZero looks to meet institutional demands by adding prediction market Kalshi’s order book to its low-latency market data feed.",
+      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+      "publishedAt": "2026-08-12T16:14:49.000Z",
+      "keywords": [
+        "Finance",
+        "Kalshi",
+        "Solana News",
+        "Prediction Markets",
+        "Institutional Investors",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260812-solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-d",
+      "localUrl": "/news/20260812-solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-d.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+      "summary": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
+      "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T16:07:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260812-hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin",
+      "localUrl": "/news/20260812-hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+      "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.",
+      "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
+      "publishedAt": "2026-08-12T16:00:52.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260812-xrp-bridge-drained-after-software-treats-fake-deposits-as-real",
+      "localUrl": "/news/20260812-xrp-bridge-drained-after-software-treats-fake-deposits-as-real.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+      "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
+      "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+      "publishedAt": "2026-08-12T15:54:16.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+      "localUrl": "/news/20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin.html"
+    },
     {
       "source": "Decrypt",
       "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
@@ -531,20 +616,6 @@
       "localUrl": "/news/20260812-harmonys-one-dives-40-after-an-attack-appears-to-mint-tokens-equal-to-quarter-of.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-      "summary": "DOGE gained almost 3% to 7 cents and BNB 2% to $614, while bitcoin was the only major in the red on both the day and the week.",
-      "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-      "publishedAt": "2026-08-12T04:53:46.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260812-dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-63700",
-      "localUrl": "/news/20260812-dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-63700.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
       "summary": "The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.",
@@ -569,18 +640,15 @@
       "localUrl": "/news/20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-      "summary": "An attacker created unbacked XRP on another blockchain, then exchanged it for real XRP held in reserve. The bridge has been halted and its operator has filed a complaint with the FBI.",
-      "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-      "publishedAt": "2026-08-12T04:33:25.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones",
-      "localUrl": "/news/20260812-xrp-bridge-drained-for-200000-after-software-mistook-fake-deposits-for-real-ones.html"
+      "source": "X Wire",
+      "title": "🚨 NEW: Bitwise cuts 14% of its workforce amid the crypto price slump, trimming staff to about 155 from 180. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5\" target=\"_blank\">🚨 NEW: Bitwise cuts 14% of its…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5",
+      "publishedAt": "2026-08-12T04:00:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-",
+      "localUrl": "/news/20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-.html"
     },
     {
       "source": "X Wire",
@@ -614,6 +682,17 @@
       "category": "X热点",
       "slug": "20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-",
       "localUrl": "/news/20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 TODAY: Bitwise CIO Matt Hougan says Bitcoin has likely bottomed out, pointing to its resilience against recent bad news like the Coldcard hack and Clarity Act setback. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVnhodHY5eXVfNDZnNHVOSXp0M3ZfLUtPQTNPc1NUcEJNUm13OG93enV3Z2xFZVo3S0UtdmtnU25XTFBXSUlrdC1MMkhCY1Q3M0FjZk1ESHdhSTVzLTNTNjFkMnU?oc=5\" target=\"_blank\">🚨 TODAY: Bitwise CIO Matt Houg…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RVnhodHY5eXVfNDZnNHVOSXp0M3ZfLUtPQTNPc1NUcEJNUm13OG93enV3Z2xFZVo3S0UtdmtnU25XTFBXSUlrdC1MMkhCY1Q3M0FjZk1ESHdhSTVzLTNTNjFkMnU?oc=5",
+      "publishedAt": "2026-08-12T01:40:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-today-bitwise-cio-matt-hougan-says-bitcoin-has-likely-bottomed-out-pointing-to-i",
+      "localUrl": "/news/20260812-today-bitwise-cio-matt-hougan-says-bitcoin-has-likely-bottomed-out-pointing-to-i.html"
     },
     {
       "source": "Cointelegraph",
@@ -651,6 +730,17 @@
       "category": "X热点",
       "slug": "20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo",
       "localUrl": "/news/20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The BIP 110 fork is not Bitcoin any more than RVN is Bitcoin. A fork is not Bitcoin. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMVV4UElSNVp6R3oxNkdlZTlWWDMwMllTTVM4aWRTcFZqMktpT0l3R0ppZzY2VjNCOG1FSVNFSDc3SnE1NHI1MjFJSzdRYndmSFZIaDVrNmVWUl9pNWw4?oc=5\" target=\"_blank\">The BIP 110 fork is not Bitcoin any mo…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hMVV4UElSNVp6R3oxNkdlZTlWWDMwMllTTVM4aWRTcFZqMktpT0l3R0ppZzY2VjNCOG1FSVNFSDc3SnE1NHI1MjFJSzdRYndmSFZIaDVrNmVWUl9pNWw4?oc=5",
+      "publishedAt": "2026-08-11T22:08:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-the-bip-110-fork-is-not-bitcoin-any-more-than-rvn-is-bitcoin-a-fork-is-not-bitco",
+      "localUrl": "/news/20260811-the-bip-110-fork-is-not-bitcoin-any-more-than-rvn-is-bitcoin-a-fork-is-not-bitco.html"
     },
     {
       "source": "Decrypt",
@@ -742,17 +832,6 @@
       "localUrl": "/news/20260811-sec-prepares-escape-hatch-from-securities-registration-for-crypto-projects.html"
     },
     {
-      "source": "X Wire",
-      "title": "Who is actually accruing the value created in crypto? This started as a conversation on the @Blockworks TG group with @santiagoroel and a few others. Venture in crypto has shrunk a lot! and imo the main reason is that on-chain revenue pools have been far - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5\" target=\"_blank\">Who is actually accruing the value c…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uLWl5UW5OdVkzZW1zb1NqZTlxYWpfRVdVVDQ2QWpucWM1X1RnMXNTODZ3a0QwZ09XenE2UXN6VTNULUhFUlB2V0IzbTF4Uzg0dklaQ1ZRM25MYklXQ0FkSA?oc=5",
-      "publishedAt": "2026-08-11T20:07:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat",
-      "localUrl": "/news/20260811-who-is-actually-accruing-the-value-created-in-crypto-this-started-as-a-conversat.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "MoneyGram expands crypto cash ramps to Solana",
       "summary": "MoneyGram’s Ramps service now connects Solana wallets and applications to its global cash network, with Rift becoming the first wallet to integrate the service.",
@@ -836,32 +915,6 @@
       "category": "综合",
       "slug": "20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss",
       "localUrl": "/news/20260811-trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
-      "summary": "The company has bought roughly 25 times more BTC than it has sold this year, despite recent sales that challenged its long-standing accumulation strategy.",
-      "url": "https://cointelegraph.com/news/strategy-ceo-resume-bitcoin-accumulation-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T18:03:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260811-strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year",
-      "localUrl": "/news/20260811-strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ARP Digital secures Dubai VARA broker-dealer license",
-      "summary": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.",
-      "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-11T17:53:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260811-arp-digital-secures-dubai-vara-broker-dealer-license",
-      "localUrl": "/news/20260811-arp-digital-secures-dubai-vara-broker-dealer-license.html"
     },
     {
       "source": "X Wire",
@@ -985,30 +1038,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇷🇺 Russia approves Bitcoin, Ethereum and USDT for public trading on exchanges. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1felRvMHlDSF9yZDhXdGREYkhGSGFJcnFjdVEzdEVvSi1tb0R5M25NOVZMelViaTE0cm5HbjhTVXh0bTFKZnZZUzBaTC1vUDhWcUtmQjZ3RmtPdElpY3pQZjlB?oc=5\" target=\"_blank\">JUST IN: 🇷🇺 Russia approves Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1felRvMHlDSF9yZDhXdGREYkhGSGFJcnFjdVEzdEVvSi1tb0R5M25NOVZMelViaTE0cm5HbjhTVXh0bTFKZnZZUzBaTC1vUDhWcUtmQjZ3RmtPdElpY3pQZjlB?oc=5",
-      "publishedAt": "2026-08-11T13:31:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-just-in-russia-approves-bitcoin-ethereum-and-usdt-for-public-trading-on-exchange",
-      "localUrl": "/news/20260811-just-in-russia-approves-bitcoin-ethereum-and-usdt-for-public-trading-on-exchange.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Luke Dashjr Removed as BIP Editor After BIP-110 Bitcoin Fork Stalls",
-      "summary": "Supporters of the soft fork he championed split onto their own chain on Saturday, where it mined two blocks in eight hours and stopped.",
-      "url": "https://decrypt.co/375310/luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls",
-      "publishedAt": "2026-08-11T13:27:58.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260811-luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls",
-      "localUrl": "/news/20260811-luke-dashjr-removed-as-bip-editor-after-bip-110-bitcoin-fork-stalls.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: 🇷🇺 Russia's central bank announces it approved Bitcoin for public trading on domestic exchanges, TASS reports. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5\" target=\"_blank\">BREAKING: 🇷🇺 Russia's cen…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5",
@@ -1017,19 +1046,6 @@
       "category": "X热点",
       "slug": "20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o",
       "localUrl": "/news/20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Saylor's Strategy Sells Bitcoin for Second Week in a Row",
-      "summary": "Strategy dumped $108M in BTC at a loss and a whopping $650M of MSTR stock, and yet MSTR stock barely flinched. What gives?",
-      "url": "https://decrypt.co/375304/morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
-      "publishedAt": "2026-08-11T12:22:13.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260811-morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row",
-      "localUrl": "/news/20260811-morning-minute-saylors-strategy-sells-bitcoin-for-second-week-in-a-row.html"
     },
     {
       "source": "Solana Blog",
@@ -1044,14 +1060,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Crypto Veterans Defend Early Trading Days Against 'Plumbe... - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Crypto Veterans Defend Early Trading Days Agains…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
-      "publishedAt": "2026-08-11T05:17:47.000Z",
+      "title": "$STRC is the bridge between Bitcoin, the world’s Digital Capital, and stablecoins, the world’s Digital Currency. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5\" target=\"_blank\">$STRC is the bridge between Bitcoin, the wo…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJal9MNTZwT3BkbmJQdk1mR2VtRHY5angzVFR5T0FmNUZxZGYtOElzZ1dXZ1hwS2E5SWk2T0NmOHhjWWZiUVpFS20xbV9ScENNc3FXei1nOVZNZjA?oc=5",
+      "publishedAt": "2026-08-11T07:44:25.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-crypto-veterans-defend-early-trading-days-against-plumbe-xcom",
-      "localUrl": "/news/20260811-crypto-veterans-defend-early-trading-days-against-plumbe-xcom.html"
+      "slug": "20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th",
+      "localUrl": "/news/20260811-strc-is-the-bridge-between-bitcoin-the-worlds-digital-capital-and-stablecoins-th.html"
     },
     {
       "source": "Chainalysis Blog",
@@ -1074,17 +1090,6 @@
       "category": "监管",
       "slug": "20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan",
       "localUrl": "/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I updated my 2023 roadmap diagram to overlay where the items that were there sit in the current Strawmap ( strawmap.org ). In general, a lot of overlap, but: * Some things got reshuffled in order (eg. quantum safety up-prioritized) * Some things deprioritized (e - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5\" target=\"_blank\">I updated my 2023 roadmap di…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iMWd3dmFOdlVPTFluSWprc2FtQXRRVy15bVJYX3lzT0swdzVRODhUT2cyNk15V25uSlBWRl9TUDcwZjAwNDZDTWNtdnh0Q2ljRVRCQW5ES0dMRWw4UXhqNG1Wa2JUUQ?oc=5",
-      "publishedAt": "2026-08-10T14:39:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit",
-      "localUrl": "/news/20260810-i-updated-my-2023-roadmap-diagram-to-overlay-where-the-items-that-were-there-sit.html"
     }
   ]
 }
