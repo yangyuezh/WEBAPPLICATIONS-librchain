@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-08-12T22:57:23.185Z",
+  "updatedAt": "2026-08-12T23:54:34.941Z",
   "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
+      "summary": "Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.",
+      "url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-12T23:42:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260812-arizona-crypto-atm-law-helps-35-scam-victims-recover-171k",
+      "localUrl": "/news/20260812-arizona-crypto-atm-law-helps-35-scam-victims-recover-171k.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "summary": "The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.",
+      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "publishedAt": "2026-08-12T23:16:53.000Z",
+      "keywords": [
+        "Policy",
+        "Kalshi",
+        "Polymarket",
+        "Prediction Markets",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260812-prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-tradi",
+      "localUrl": "/news/20260812-prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-tradi.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
@@ -173,6 +204,17 @@
       "category": "X热点",
       "slug": "20260812-huge-a-bitcoin-user-paid-a-16-btc-fee-worth-roughly-103000-for-a-single-transact",
       "localUrl": "/news/20260812-huge-a-bitcoin-user-paid-a-16-btc-fee-worth-roughly-103000-for-a-single-transact.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🪶🕯️tomorrow. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbmFiZUtjZHJoUGdPZW9yUmwzc3l5YzUxQ05xMlVtSzdrbDc3dVo1XzRxVnlVR2EzX1VxXzBOLTF2ZXZhMjBHVEF4cjNPR3ItTlNJcHREUFpDWFAxRDg2YXBnVUhHRkE?oc=5\" target=\"_blank\">🪶🕯️tomorrow.</a> <font co…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbmFiZUtjZHJoUGdPZW9yUmwzc3l5YzUxQ05xMlVtSzdrbDc3dVo1XzRxVnlVR2EzX1VxXzBOLTF2ZXZhMjBHVEF4cjNPR3ItTlNJcHREUFpDWFAxRDg2YXBnVUhHRkE?oc=5",
+      "publishedAt": "2026-08-12T18:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-tomorrow-xcom",
+      "localUrl": "/news/20260812-tomorrow-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -839,21 +881,6 @@
       "localUrl": "/news/20260812-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates",
-      "summary": "Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.",
-      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-      "publishedAt": "2026-08-12T07:04:53.000Z",
-      "keywords": [
-        "Tech",
-        "Live News",
-        "live_news"
-      ],
-      "category": "RWA",
-      "slug": "20260812-live-updates-ai-stocks-surge-on-q2-beats-bitcoin-falls-below-64000-as-inflation-",
-      "localUrl": "/news/20260812-live-updates-ai-stocks-surge-on-q2-beats-bitcoin-falls-below-64000-as-inflation-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
       "summary": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
@@ -867,19 +894,6 @@
       "localUrl": "/news/20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-      "summary": "The order escalates a jurisdictional fight over whether states may treat federally regulated event contracts as illegal gambling.",
-      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T04:53:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight",
-      "localUrl": "/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-operating-in-new-york-fight.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Harmony Exploited in Unauthorized Mint of 4 Billion ONE Harmony, a Layer 1 blockchain launched in 2019, said it is working with exchanges to stop and freeze funds following a suspected exploit, while developing a patch and evaluating rollback opt - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5\" target=\"_blank\">JUST IN: Harmony Exploited in Un…",
@@ -889,6 +903,17 @@
       "category": "X热点",
       "slug": "20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-",
       "localUrl": "/news/20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is getting ready for an explosive move 🚨 Bollinger Band width is at its narrowest level since October 2023 ✅ $BTC went on to soar more than 330% from Oct 2023 - Oct 2025 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE91OFB0a3FDZ0pYTmlwNVluZUx1TGhHQ0puX0UzNDZyaURVRXlLWWIyREJKZnV1WmFzZ3pBaGpZUnR4d1hOYnlaWldXZkxvNHYxZExvV2cxZXdDdXlveWc?oc=5\" target=\"_blank\">Bitcoin is getting ready for an explosi…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91OFB0a3FDZ0pYTmlwNVluZUx1TGhHQ0puX0UzNDZyaURVRXlLWWIyREJKZnV1WmFzZ3pBaGpZUnR4d1hOYnlaWldXZkxvNHYxZExvV2cxZXdDdXlveWc?oc=5",
+      "publishedAt": "2026-08-12T03:06:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-bitcoin-is-getting-ready-for-an-explosive-move-bollinger-band-width-is-at-its-na",
+      "localUrl": "/news/20260812-bitcoin-is-getting-ready-for-an-explosive-move-bollinger-band-width-is-at-its-na.html"
     },
     {
       "source": "X Wire",
@@ -1019,17 +1044,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Good extra info on the \"in-kind conversions\" of bitcoin for ETF shares. Yes, you don't realize gains but you do carry your basis, so it's merely deferral, not dodge. And yes, it works the other way: ETF for btc. And yes, it is something that works w Grantor Trust, not - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laVpYaUhvUlZSRzdNX0ZXQTNob1YyeFczcVdmeDhEd0dMU0FPQkdjUzAxX3JXOUZqT0ljV3h4bzEyMGlPMjJnWHRNUE1VMUFPMW0wTkpxVXNYR3hLczRhdzdReUg?oc=5\" target=\"_blank\">Good extra info on the \"in-kind…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laVpYaUhvUlZSRzdNX0ZXQTNob1YyeFczcVdmeDhEd0dMU0FPQkdjUzAxX3JXOUZqT0ljV3h4bzEyMGlPMjJnWHRNUE1VMUFPMW0wTkpxVXNYR3hLczRhdzdReUg?oc=5",
-      "publishedAt": "2026-08-11T13:57:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-good-extra-info-on-the-in-kind-conversions-of-bitcoin-for-etf-shares-yes-you-don",
-      "localUrl": "/news/20260811-good-extra-info-on-the-in-kind-conversions-of-bitcoin-for-etf-shares-yes-you-don.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin. Ethereum. Chainlink. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5\" target=\"_blank\">Bitcoin. Ethereum. Chainlink.</a> <fon…",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5",
@@ -1038,17 +1052,6 @@
       "category": "X热点",
       "slug": "20260811-bitcoin-ethereum-chainlink-xcom",
       "localUrl": "/news/20260811-bitcoin-ethereum-chainlink-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇷🇺 Russia's central bank announces it approved Bitcoin for public trading on domestic exchanges, TASS reports. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5\" target=\"_blank\">BREAKING: 🇷🇺 Russia's cen…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5",
-      "publishedAt": "2026-08-11T13:18:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o",
-      "localUrl": "/news/20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o.html"
     },
     {
       "source": "Solana Blog",
