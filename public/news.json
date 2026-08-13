@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-13T06:41:09.651Z",
+  "updatedAt": "2026-08-13T08:41:03.269Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Securitize falls 16% after earnings miss, tokenization revenue drops",
+      "summary": "Securitize shares fell 16% from Wednesday’s close after the tokenization platform’s $14.4 million second-quarter revenue missed Wall Street estimates.",
+      "url": "https://cointelegraph.com/news/securitize-falls-earnings-miss-tokenization-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T08:29:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-securitize-falls-16-after-earnings-miss-tokenization-revenue-drops",
+      "localUrl": "/news/20260813-securitize-falls-16-after-earnings-miss-tokenization-revenue-drops.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+      "summary": "An $18.8 million unrealized digital asset loss and weaker trading margins pushed BitGo into the red in the second quarter.",
+      "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T07:42:59.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-bitgo-posts-19m-q2-loss-despite-80-revenue-surge-to-43b",
+      "localUrl": "/news/20260813-bitgo-posts-19m-q2-loss-despite-80-revenue-surge-to-43b.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "summary": "Copper Markets US will offer qualified custody, staking, financing and OTC services after securing its regulated US presence.",
+      "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T07:14:19.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-copper-us-arm-becomes-finra-member-sec-registered-broker-dealer",
+      "localUrl": "/news/20260813-copper-us-arm-becomes-finra-member-sec-registered-broker-dealer.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -47,7 +86,7 @@
     {
       "source": "Cointelegraph",
       "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-      "summary": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
+      "summary": "Bitwise’s Matt Hougan said he expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
       "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-13T05:01:42.000Z",
       "keywords": [
@@ -97,6 +136,17 @@
       "category": "市场",
       "slug": "20260813-bitcoin-slips-near-63500-as-traders-look-past-cpi-to-feds-next-tests",
       "localUrl": "/news/20260813-bitcoin-slips-near-63500-as-traders-look-past-cpi-to-feds-next-tests.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 LATEST: Bitwise CIO Matt Hougan says crypto is entering a revenue-driven era, with protocols like Hyperliquid, Uniswap, and Aave funneling revenue into buybacks and burns. He argues token prices haven't caught up to that shift yet. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FM2dBOFhpU2d1SFJhVVFRclFFVno3VWNjUDBuWWppYmxrSlBycjgyWEMzMEhwTVpLTnlIVk04ZnVzOGdhcFlTSUswSzJpOEN3d2VyZHNhajVkTlRSNmh1OUxQa3c?oc=5\" target=\"_blank\">🔥 LATEST: Bitwise CIO Matt Hou…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FM2dBOFhpU2d1SFJhVVFRclFFVno3VWNjUDBuWWppYmxrSlBycjgyWEMzMEhwTVpLTnlIVk04ZnVzOGdhcFlTSUswSzJpOEN3d2VyZHNhajVkTlRSNmh1OUxQa3c?oc=5",
+      "publishedAt": "2026-08-13T02:40:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with",
+      "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
     },
     {
       "source": "Cointelegraph",
@@ -187,17 +237,6 @@
       "localUrl": "/news/20260812-morgan-stanleys-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-us-trust.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court, urging it to review whether regional Federal Reserve Banks have the discretion to deny eligible state-chartered banks access t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ld2R6VGVGclFDWm5VVlhPNjY3MnZVVTVCR3NyS1RJdUVjeVl3TnVycGppeE5ZVWxJVGI0VVpHTVpWOGN5UzVRRTFtN1FWakRWNDdiQl8tSDFEUkluLW5weG1GS0d6QQ?oc=5\" target=\"_blank\">🚨NEW: Crypto trade group @B…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ld2R6VGVGclFDWm5VVlhPNjY3MnZVVTVCR3NyS1RJdUVjeVl3TnVycGppeE5ZVWxJVGI0VVpHTVpWOGN5UzVRRTFtN1FWakRWNDdiQl8tSDFEUkluLW5weG1GS0d6QQ?oc=5",
-      "publishedAt": "2026-08-12T21:47:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu",
-      "localUrl": "/news/20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu.html"
-    },
-    {
       "source": "Decrypt",
       "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
       "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
@@ -235,6 +274,17 @@
       "category": "监管",
       "slug": "20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal",
       "localUrl": "/news/20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: The number of Bitcoin holders continue to rise, according to Grayscale 🚀 \"We believe that adoption will be driven by more demand for scarce assets, greater adoption of blockchain technology, and generational change in portfolio construction.\" 👏 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZ3NRQ2RsaklaYVprWDFLMVRUUTcxX2llZk5oVmFYckliWUtyNkZrZUZnMzUzeW5oSmxnV096bXdlVUsyNHJtZUltS0NZLXhpV1hMOHZXN2lYV2lzRWJMLURjUkRraFE?oc=5\" target=\"_blank\">JUST IN: The number of Bitc…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZ3NRQ2RsaklaYVprWDFLMVRUUTcxX2llZk5oVmFYckliWUtyNkZrZUZnMzUzeW5oSmxnV096bXdlVUsyNHJtZUltS0NZLXhpV1hMOHZXN2lYV2lzRWJMLURjUkRraFE?oc=5",
+      "publishedAt": "2026-08-12T20:35:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-the-number-of-bitcoin-holders-continue-to-rise-according-to-grayscale-we",
+      "localUrl": "/news/20260812-just-in-the-number-of-bitcoin-holders-continue-to-rise-according-to-grayscale-we.html"
     },
     {
       "source": "Decrypt",
@@ -597,6 +647,17 @@
     },
     {
       "source": "X Wire",
+      "title": "It's very simple. If #Bitcoin can't hold this level here, and doesn't want to test the resistance zones, we're looking to be getting a break downwards to $60,000. The final level of support is that area, if that doesn't happen, we're very likely to be sweeping the lows a - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IQ3l1em5xX2ROZWpya25zaThCeTVzb0JTWHVSdmVtLThUdFlNQl9mNEpPRnJlc2M2eG1ZNWRZVVd0VXlMcm5iWXVsMFVFekc0UDIzNTN0T3JTOEY4ZFlHLTVZdw?oc=5\" target=\"_blank\">It's very simple. If #Bitcoin ca…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IQ3l1em5xX2ROZWpya25zaThCeTVzb0JTWHVSdmVtLThUdFlNQl9mNEpPRnJlc2M2eG1ZNWRZVVd0VXlMcm5iWXVsMFVFekc0UDIzNTN0T3JTOEY4ZFlHLTVZdw?oc=5",
+      "publishedAt": "2026-08-12T14:37:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-its-very-simple-if-bitcoin-cant-hold-this-level-here-and-doesnt-want-to-test-the",
+      "localUrl": "/news/20260812-its-very-simple-if-bitcoin-cant-hold-this-level-here-and-doesnt-want-to-test-the.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🇸🇻 INSIGHT: Five years on and El Salvador's Bitcoin experiment is in retreat. Some now argue it was really aimed at the Bitcoin community and had few lasting benefits for locals. cointelegraph.com/magazine/el-sa… - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5\" target=\"_blank\">🇸🇻 INSIGHT: Five years on and…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5",
@@ -687,19 +748,6 @@
       "localUrl": "/news/20260812-el-salvadors-bitcoin-experiment-turns-5-it-was-for-us-not-them.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Wintermute to pour $1B into AI, high-frequency trading amid TradFi expansion: Report",
-      "summary": "Wintermute will reportedly invest $1 billion in AI infrastructure and high-frequency trading as part of its expansion into traditional finance.",
-      "url": "https://cointelegraph.com/news/wintermute-pour-1b-ai-tradfi-expansion-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T13:23:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260812-wintermute-to-pour-1b-into-ai-high-frequency-trading-amid-tradfi-expansion-repor",
-      "localUrl": "/news/20260812-wintermute-to-pour-1b-into-ai-high-frequency-trading-amid-tradfi-expansion-repor.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
       "summary": "HashKey Exchange and OSL Group are now authorized distributors, enabling institutional and professional investors to mint and redeem HKDAP tokens.",
@@ -767,19 +815,6 @@
       "category": "DeFi",
       "slug": "20260812-us-cpi-inflation-slows-to-34-as-expected-bitcoin-holds-near-64000",
       "localUrl": "/news/20260812-us-cpi-inflation-slows-to-34-as-expected-bitcoin-holds-near-64000.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-      "summary": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
-      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T12:42:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-fidelity-files-with-sec-to-add-staking-to-ethereum-etf",
-      "localUrl": "/news/20260812-fidelity-files-with-sec-to-add-staking-to-ethereum-etf.html"
     },
     {
       "source": "X Wire",
@@ -906,19 +941,6 @@
       "localUrl": "/news/20260812-bitcoin-holds-near-64000-as-us-inflation-data-looms-harmony-exploit-rattles-altc.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
-      "summary": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
-      "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T10:21:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-binance-redotpay-clash-over-fate-of-singapore-lawsuit",
-      "localUrl": "/news/20260812-binance-redotpay-clash-over-fate-of-singapore-lawsuit.html"
-    },
-    {
       "source": "Decrypt",
       "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
       "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
@@ -974,17 +996,6 @@
       "category": "X热点",
       "slug": "20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord",
       "localUrl": "/news/20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 TODAY: An Ethereum ICO participant moved 2,680 $ETH worth $5.04M after over 11 years of dormancy, turning an $831 investment into a 6,068x return. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5\" target=\"_blank\">🔥 TODAY: An Ethereum ICO parti…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5",
-      "publishedAt": "2026-08-12T02:00:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-",
-      "localUrl": "/news/20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-.html"
     },
     {
       "source": "X Wire",
@@ -1046,17 +1057,6 @@
       "category": "基础设施",
       "slug": "20260811-the-bull-and-bear-case-for-solanas-next-price-move",
       "localUrl": "/news/20260811-the-bull-and-bear-case-for-solanas-next-price-move.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sop - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5\" target=\"_blank\">ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VUE5tNXpmQmFweXJzejVhLS1XQWctSEhZdjhNYksyOVNHYktwZEU3Q2ZXd3FsakpBWkZraWVieEZWNlU0UjNOQ1U3aFc5VGx3MTRCLUZ1MWZzTHZyNVE?oc=5",
-      "publishedAt": "2026-08-11T17:29:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea",
-      "localUrl": "/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html"
     },
     {
       "source": "Solana Blog",

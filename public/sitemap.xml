@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-13T06:41:09.691Z</lastmod>
+    <lastmod>2026-08-13T08:41:03.311Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-13T06:41:09.691Z</lastmod>
+    <lastmod>2026-08-13T08:41:03.311Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-securitize-falls-16-after-earnings-miss-tokenization-revenue-drops.html</loc>
+    <lastmod>2026-08-13T08:29:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-bitgo-posts-19m-q2-loss-despite-80-revenue-surge-to-43b.html</loc>
+    <lastmod>2026-08-13T07:42:59.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-copper-us-arm-becomes-finra-member-sec-registered-broker-dealer.html</loc>
+    <lastmod>2026-08-13T07:14:19.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260813-heres-what-happened-in-crypto-today.html</loc>
@@ -55,6 +73,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html</loc>
+    <lastmod>2026-08-13T02:40:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project.html</loc>
     <lastmod>2026-08-13T01:00:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -91,12 +115,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu.html</loc>
-    <lastmod>2026-08-12T21:47:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html</loc>
     <lastmod>2026-08-12T21:31:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -111,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal.html</loc>
     <lastmod>2026-08-12T20:37:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260812-just-in-the-number-of-bitcoin-holders-continue-to-rise-according-to-grayscale-we.html</loc>
+    <lastmod>2026-08-12T20:35:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -277,6 +301,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260812-its-very-simple-if-bitcoin-cant-hold-this-level-here-and-doesnt-want-to-test-the.html</loc>
+    <lastmod>2026-08-12T14:37:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now.html</loc>
     <lastmod>2026-08-12T14:31:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -319,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260812-wintermute-to-pour-1b-into-ai-high-frequency-trading-amid-tradfi-expansion-repor.html</loc>
-    <lastmod>2026-08-12T13:23:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin.html</loc>
     <lastmod>2026-08-12T13:13:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -351,12 +375,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-us-cpi-inflation-slows-to-34-as-expected-bitcoin-holds-near-64000.html</loc>
     <lastmod>2026-08-12T12:44:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-fidelity-files-with-sec-to-add-staking-to-ethereum-etf.html</loc>
-    <lastmod>2026-08-12T12:42:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260812-binance-redotpay-clash-over-fate-of-singapore-lawsuit.html</loc>
-    <lastmod>2026-08-12T10:21:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit.html</loc>
     <lastmod>2026-08-12T09:22:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-.html</loc>
-    <lastmod>2026-08-12T02:00:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-bitcoin-is-futures-driven-right-now-open-interest-is-rising-while-on-chain-spot-.html</loc>
     <lastmod>2026-08-12T01:47:16.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260811-the-bull-and-bear-case-for-solanas-next-price-move.html</loc>
     <lastmod>2026-08-11T20:46:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html</loc>
-    <lastmod>2026-08-11T17:29:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
