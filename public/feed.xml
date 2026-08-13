@@ -5,7 +5,39 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 13 Aug 2026 05:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 06:41:09 GMT</lastBuildDate>
+    <item>
+      <title>Here’s what happened in crypto today</title>
+      <link>https://www.librchain.com/news/20260813-heres-what-happened-in-crypto-today.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260813-heres-what-happened-in-crypto-today.html</guid>
+      <description>Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.</description>
+      <pubDate>Thu, 13 Aug 2026 05:54:56 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Metaplanet denies selling bitcoin worth $320 million</title>
+      <link>https://www.librchain.com/news/20260813-metaplanet-denies-selling-bitcoin-worth-320-million.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260813-metaplanet-denies-selling-bitcoin-worth-320-million.html</guid>
+      <description>Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings</description>
+      <pubDate>Thu, 13 Aug 2026 05:34:48 GMT</pubDate>
+      <source url="https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million">CoinDesk</source>
+    </item>
+    <item>
+      <title>Bitcoin firms ask AI labs for same tools attackers already have</title>
+      <link>https://www.librchain.com/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html</guid>
+      <description>Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.</description>
+      <pubDate>Thu, 13 Aug 2026 05:21:21 GMT</pubDate>
+      <source url="https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have">CoinDesk</source>
+    </item>
+    <item>
+      <title>Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO</title>
+      <link>https://www.librchain.com/news/20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio.html</guid>
+      <description>Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.</description>
+      <pubDate>Thu, 13 Aug 2026 05:01:42 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer</title>
       <link>https://www.librchain.com/news/20260813-metaplanet-ceo-shuts-down-bitcoin-sale-speculation-after-322m-transfer.html</link>
@@ -327,6 +359,14 @@
       <source url="https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short">CoinDesk</source>
     </item>
     <item>
+      <title>🇸🇻 INSIGHT: Five years on and El Salvador&apos;s Bitcoin experiment is in retreat. Some now argue it was really aimed at the Bitcoin community and had few lasting benefits for locals. cointelegraph.com/magazine/el-sa… - x.com</title>
+      <link>https://www.librchain.com/news/20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5&quot; target=&quot;_blank&quot;&gt;🇸🇻 INSIGHT: Five years on and…</description>
+      <pubDate>Wed, 12 Aug 2026 14:31:01 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5">X Wire</source>
+    </item>
+    <item>
       <title>A Routing Bug Took Solana 86% of the Way to Losing Finality</title>
       <link>https://www.librchain.com/news/20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality.html</guid>
@@ -445,46 +485,6 @@
       <description>The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.</description>
       <pubDate>Wed, 12 Aug 2026 12:12:40 GMT</pubDate>
       <source url="https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny">Decrypt</source>
-    </item>
-    <item>
-      <title>Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers</title>
-      <link>https://www.librchain.com/news/20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers.html</guid>
-      <description>The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.</description>
-      <pubDate>Wed, 12 Aug 2026 12:06:36 GMT</pubDate>
-      <source url="https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers">Decrypt</source>
-    </item>
-    <item>
-      <title>FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off</title>
-      <link>https://www.librchain.com/news/20260812-flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-to.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-to.html</guid>
-      <description>The flight-tracking company voluntarily dismissed, without prejudice and without sharing a motive for its decision. However, the flight cancellation market never took off with Kalshi users.</description>
-      <pubDate>Wed, 12 Aug 2026 11:44:10 GMT</pubDate>
-      <source url="https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off">CoinDesk</source>
-    </item>
-    <item>
-      <title>Russia moves to restrict retail crypto trading to bitcoin, ether and USDT</title>
-      <link>https://www.librchain.com/news/20260812-russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt.html</guid>
-      <description>Non-qualified investors face a 300,000-ruble (approx. $3,600) annual purchase limit per intermediary, while qualified investors have no cap.</description>
-      <pubDate>Wed, 12 Aug 2026 11:19:32 GMT</pubDate>
-      <source url="https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt">CoinDesk</source>
-    </item>
-    <item>
-      <title>XRP trading could get spicy after CPI report as futures bets hit highest since October</title>
-      <link>https://www.librchain.com/news/20260812-xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-o.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-o.html</guid>
-      <description>Your day-ahead look for Aug. 12, 2026</description>
-      <pubDate>Wed, 12 Aug 2026 11:15:00 GMT</pubDate>
-      <source url="https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october">CoinDesk</source>
-    </item>
-    <item>
-      <title>Wintermute Plans $1B Investment in HFT and AI Infrastructure to Expand Into Traditional Markets According to Bloomberg, crypto market maker Wintermute plans to invest about $1 billion in high-frequency trading and AI data-center infrastructure over the next f - x.com</title>
-      <link>https://www.librchain.com/news/20260812-wintermute-plans-1b-investment-in-hft-and-ai-infrastructure-to-expand-into-tradi.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260812-wintermute-plans-1b-investment-in-hft-and-ai-infrastructure-to-expand-into-tradi.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DaGxWM0U1bHNSbFVjeEg4b3lycWo5bHhDYVZ2YXNrS0xwUmZpc2RILXhCWHJ0RzdqN2drMl9zaW5KOXplSUEyTTBtMmdTc05abWJZNHZYWkVRalBNa1BxZFRQWQ?oc=5&quot; target=&quot;_blank&quot;&gt;Wintermute Plans $1B Investment …</description>
-      <pubDate>Wed, 12 Aug 2026 10:53:26 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DaGxWM0U1bHNSbFVjeEg4b3lycWo5bHhDYVZ2YXNrS0xwUmZpc2RILXhCWHJ0RzdqN2drMl9zaW5KOXplSUEyTTBtMmdTc05abWJZNHZYWkVRalBNa1BxZFRQWQ?oc=5">X Wire</source>
     </item>
   </channel>
 </rss>

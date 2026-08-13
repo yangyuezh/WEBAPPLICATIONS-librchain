@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-13T05:01:03.430Z",
+  "updatedAt": "2026-08-13T06:41:09.651Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T05:54:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260813-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metaplanet denies selling bitcoin worth $320 million",
+      "summary": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
+      "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+      "publishedAt": "2026-08-13T05:34:48.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260813-metaplanet-denies-selling-bitcoin-worth-320-million",
+      "localUrl": "/news/20260813-metaplanet-denies-selling-bitcoin-worth-320-million.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "summary": "Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.",
+      "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+      "publishedAt": "2026-08-13T05:21:21.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+      "localUrl": "/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+      "summary": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
+      "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T05:01:42.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio",
+      "localUrl": "/news/20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
@@ -541,6 +596,17 @@
       "localUrl": "/news/20260812-crypto-long-short-when-capital-cant-move-fast-enough-markets-pay-the-price.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇸🇻 INSIGHT: Five years on and El Salvador's Bitcoin experiment is in retreat. Some now argue it was really aimed at the Bitcoin community and had few lasting benefits for locals. cointelegraph.com/magazine/el-sa… - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5\" target=\"_blank\">🇸🇻 INSIGHT: Five years on and…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5",
+      "publishedAt": "2026-08-12T14:31:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now",
+      "localUrl": "/news/20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now.html"
+    },
+    {
       "source": "Decrypt",
       "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
       "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
@@ -853,52 +919,6 @@
       "localUrl": "/news/20260812-binance-redotpay-clash-over-fate-of-singapore-lawsuit.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
-      "summary": "The BOE-led Digital Pound Lab will test trade-finance interoperability, in which exporters receive stablecoins while importers settle in a potential digital pound.",
-      "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-      "publishedAt": "2026-08-12T10:17:05.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "CBDC",
-        "UK",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260812-bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-      "localUrl": "/news/20260812-bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
-      "summary": "Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit squeeze as transaction-fee income barely bounced from 10-year lows of 0.52% of revenue.",
-      "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T10:06:05.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260812-bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low",
-      "localUrl": "/news/20260812-bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-      "summary": "Booming AI demand sends CRWV up 16% and lifts IREN and CIFR as investors favor computing infrastructure over crypto.",
-      "url": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
-      "publishedAt": "2026-08-12T09:41:52.000Z",
-      "keywords": [
-        "Markets",
-        "Artificial Intelligence",
-        "Earnings",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260812-coreweave-surges-16-on-258-billion-revenue-quarter-as-ai-infrastructure-demand-e",
-      "localUrl": "/news/20260812-coreweave-surges-16-on-258-billion-revenue-quarter-as-ai-infrastructure-demand-e.html"
-    },
-    {
       "source": "Decrypt",
       "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
       "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
@@ -910,30 +930,6 @@
       "category": "监管",
       "slug": "20260812-cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
       "localUrl": "/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
-      "summary": "The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.",
-      "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T09:03:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-crypto-companies-urge-ai-firms-to-give-bitcoin-developers-early-access",
-      "localUrl": "/news/20260812-crypto-companies-urge-ai-firms-to-give-bitcoin-developers-early-access.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 BULLISH: Bitcoin has triggered a second early bull signal, suggesting a potential bottoming phase, per CryptoQuant. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin has trigger…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5",
-      "publishedAt": "2026-08-12T08:05:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-",
-      "localUrl": "/news/20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-.html"
     },
     {
       "source": "X Wire",
@@ -978,6 +974,17 @@
       "category": "X热点",
       "slug": "20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord",
       "localUrl": "/news/20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 TODAY: An Ethereum ICO participant moved 2,680 $ETH worth $5.04M after over 11 years of dormancy, turning an $831 investment into a 6,068x return. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5\" target=\"_blank\">🔥 TODAY: An Ethereum ICO parti…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5",
+      "publishedAt": "2026-08-12T02:00:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-",
+      "localUrl": "/news/20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-.html"
     },
     {
       "source": "X Wire",
@@ -1028,17 +1035,6 @@
       "localUrl": "/news/20260811-btcpay-backers-offer-bitcoin-bounty-after-wallet-exploit.html"
     },
     {
-      "source": "X Wire",
-      "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday The SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering re - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5\" target=\"_blank\">SEC Could Unveil Tokenized Stock…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5",
-      "publishedAt": "2026-08-11T20:52:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla",
-      "localUrl": "/news/20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla.html"
-    },
-    {
       "source": "Decrypt",
       "title": "The Bull and Bear Case for Solana’s Next Price Move",
       "summary": "Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.",
@@ -1075,14 +1071,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Plumber Memes and $PLUMBER Token Surge from Crypto Tradin... - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Plumber Memes and $PLUMBER Token Surge from Cryp…",
+      "title": "Crypto Veterans Debate Plumbers vs Oldheads in Viral Banter - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Crypto Veterans Debate Plumbers vs Oldheads in V…",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
       "publishedAt": "2026-08-11T05:17:47.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-plumber-memes-and-plumber-token-surge-from-crypto-tradin-xcom",
-      "localUrl": "/news/20260811-plumber-memes-and-plumber-token-surge-from-crypto-tradin-xcom.html"
+      "slug": "20260811-crypto-veterans-debate-plumbers-vs-oldheads-in-viral-banter-xcom",
+      "localUrl": "/news/20260811-crypto-veterans-debate-plumbers-vs-oldheads-in-viral-banter-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
