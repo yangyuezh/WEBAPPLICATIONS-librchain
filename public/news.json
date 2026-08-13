@@ -1,7 +1,168 @@
 {
-  "updatedAt": "2026-08-13T17:08:35.238Z",
+  "updatedAt": "2026-08-13T19:16:16.332Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+      "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
+      "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+      "publishedAt": "2026-08-13T19:11:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so",
+      "localUrl": "/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
+      "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
+      "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
+      "publishedAt": "2026-08-13T18:39:11.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem",
+      "localUrl": "/news/20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+      "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it completed its long-promised financial audit.",
+      "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+      "publishedAt": "2026-08-13T18:26:21.000Z",
+      "keywords": [
+        "Finance",
+        "Tether",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260813-tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-180-bil",
+      "localUrl": "/news/20260813-tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-180-bil.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk",
+      "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
+      "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
+      "publishedAt": "2026-08-13T18:26:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk",
+      "localUrl": "/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
+      "summary": "The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, artificial intelligence and prediction markets.",
+      "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T18:18:50.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-cftc-to-join-sec-in-exploring-crypto-regulations-without-clarity-bill",
+      "localUrl": "/news/20260813-cftc-to-join-sec-in-exploring-crypto-regulations-without-clarity-bill.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
+      "summary": "The Blockchain Association is urging the Supreme Court to take up Custodia’s case, saying that broad Fed power over “master accounts” could be used to push crypto firms out of the banking system.",
+      "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
+      "publishedAt": "2026-08-13T17:47:12.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260813-crypto-group-warns-fed-could-use-banking-access-to-squeeze-digital-asset-firms",
+      "localUrl": "/news/20260813-crypto-group-warns-fed-could-use-banking-access-to-squeeze-digital-asset-firms.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "summary": "The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.",
+      "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
+      "publishedAt": "2026-08-13T17:43:25.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges",
+      "localUrl": "/news/20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
+      "summary": "The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.",
+      "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T17:36:09.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260813-crypto-group-backs-custodia-in-supreme-court-battle-over-fed-access",
+      "localUrl": "/news/20260813-crypto-group-backs-custodia-in-supreme-court-battle-over-fed-access.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
+      "summary": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
+      "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T17:28:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260813-robinhood-chain-nears-1b-tvl-as-uniswap-drives-liquidity-standard-chartered",
+      "localUrl": "/news/20260813-robinhood-chain-nears-1b-tvl-as-uniswap-drives-liquidity-standard-chartered.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
+      "summary": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
+      "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
+      "publishedAt": "2026-08-13T17:11:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260813-bitcoin-companies-want-help-from-ai-labs-to-guard-against-hackers",
+      "localUrl": "/news/20260813-bitcoin-companies-want-help-from-ai-labs-to-guard-against-hackers.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "summary": "The incident marks the first time Trezor customers' shipping addresses were exposed.",
+      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
+      "publishedAt": "2026-08-13T17:10:57.000Z",
+      "keywords": [
+        "Tech",
+        "Data Breaches",
+        "Ledger",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach",
+      "localUrl": "/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin falls back under $63,000 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWndiZUFvd2VzOVpMZXgwVE0yVzc5akZ6R0prQTdVb1RJWEljamlGQ1NBcEtkYUN4eWxGNEJCQW1KODNvVzd4Zzg3a0l2S0FXbHBjNWpJQm5qa0FKYjZHWjRB?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls back under …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWndiZUFvd2VzOVpMZXgwVE0yVzc5akZ6R0prQTdVb1RJWEljamlGQ1NBcEtkYUN4eWxGNEJCQW1KODNvVzd4Zzg3a0l2S0FXbHBjNWpJQm5qa0FKYjZHWjRB?oc=5",
+      "publishedAt": "2026-08-13T16:42:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-bitcoin-falls-back-under-63000-xcom",
+      "localUrl": "/news/20260813-just-in-bitcoin-falls-back-under-63000-xcom.html"
+    },
     {
       "source": "Decrypt",
       "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
@@ -66,6 +227,17 @@
       "category": "安全",
       "slug": "20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider",
       "localUrl": "/news/20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The next generation of the ether.fi crypto neobank is live. Earn, trade, borrow, spend. One app to replace your traditional bank. What’s new: → Tokenized stocks and metals trading → An integrated @Aave market on @Optimism, borrowing against your full portf - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5\" target=\"_blank\">The next generation of the ether.fi cry…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5",
+      "publishedAt": "2026-08-13T15:13:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen",
+      "localUrl": "/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html"
     },
     {
       "source": "Cointelegraph",
@@ -152,6 +324,17 @@
       "localUrl": "/news/20260813-kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion.html"
     },
     {
+      "source": "X Wire",
+      "title": "Goodbye, Poseidon! An epic 8-year, 8-figure rabbit hole in post-quantum cryptography reaches its dream conclusion. The Ethereum Foundation is abandoning Poseidon for L1, pivoting to SHA or BLAKE. This milestone unlocks ultimate security for lean Ethere - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eEh1SmUwZVhuVVpVLTIxTUd6OEtvRGhBaW1GWEZjQWg3V2xOVW93RUZERGQ2OVI0ZW9OVk85VS1uUmJsYUdtTE92Y1ZrRWVuNEI4bG5GU0tkenpMbmRkWmluTQ?oc=5\" target=\"_blank\">Goodbye, Poseidon! An epic 8-yea…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85eEh1SmUwZVhuVVpVLTIxTUd6OEtvRGhBaW1GWEZjQWg3V2xOVW93RUZERGQ2OVI0ZW9OVk85VS1uUmJsYUdtTE92Y1ZrRWVuNEI4bG5GU0tkenpMbmRkWmluTQ?oc=5",
+      "publishedAt": "2026-08-13T14:14:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph",
+      "localUrl": "/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
       "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
@@ -163,6 +346,17 @@
       "category": "基础设施",
       "slug": "20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans",
       "localUrl": "/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5",
+      "publishedAt": "2026-08-13T13:54:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom",
+      "localUrl": "/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -434,7 +628,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin stuck near $63,500 even as Fed rate hike expectations dwindle",
+      "title": "Live updates: Bitcoin slips back even as Fed rate hike expectations dwindle",
       "summary": "An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
       "publishedAt": "2026-08-13T09:18:19.000Z",
@@ -445,8 +639,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260813-live-updates-bitcoin-stuck-near-63500-even-as-fed-rate-hike-expectations-dwindle",
-      "localUrl": "/news/20260813-live-updates-bitcoin-stuck-near-63500-even-as-fed-rate-hike-expectations-dwindle.html"
+      "slug": "20260813-live-updates-bitcoin-slips-back-even-as-fed-rate-hike-expectations-dwindle",
+      "localUrl": "/news/20260813-live-updates-bitcoin-slips-back-even-as-fed-rate-hike-expectations-dwindle.html"
     },
     {
       "source": "CoinDesk",
@@ -601,6 +795,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bitcoin Spot Volume Hits Lowest Since 2019 as Glassnode Flags $58,500 Downside Risk Bitcoin spot exchange volume has fallen to its lowest level since Glassnode’s data series began in early 2019, with BTC caught between the $63,000 Median Realized P - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHAyOWpILXFjeUtIc2xPNnpMM2NzWG41NzRTbm1hclJ4M0FyLXY3WlhUTkxYREQxX2l2YTFnQkNCangxNUZxMG9Hd2VmaFBRUFBHb3RVX1ZPWGFpaVRSdkpiMA?oc=5\" target=\"_blank\">Bitcoin Spot Volume Hits Lowest …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHAyOWpILXFjeUtIc2xPNnpMM2NzWG41NzRTbm1hclJ4M0FyLXY3WlhUTkxYREQxX2l2YTFnQkNCangxNUZxMG9Hd2VmaFBRUFBHb3RVX1ZPWGFpaVRSdkpiMA?oc=5",
+      "publishedAt": "2026-08-13T03:08:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-bitcoin-spot-volume-hits-lowest-since-2019-as-glassnode-flags-58500-downside-ris",
+      "localUrl": "/news/20260813-bitcoin-spot-volume-hits-lowest-since-2019-as-glassnode-flags-58500-downside-ris.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🔥 LATEST: Bitwise CIO Matt Hougan says crypto is entering a revenue-driven era, with protocols like Hyperliquid, Uniswap, and Aave funneling revenue into buybacks and burns. He argues token prices haven't caught up to that shift yet. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FM2dBOFhpU2d1SFJhVVFRclFFVno3VWNjUDBuWWppYmxrSlBycjgyWEMzMEhwTVpLTnlIVk04ZnVzOGdhcFlTSUswSzJpOEN3d2VyZHNhajVkTlRSNmh1OUxQa3c?oc=5\" target=\"_blank\">🔥 LATEST: Bitwise CIO Matt Hou…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FM2dBOFhpU2d1SFJhVVFRclFFVno3VWNjUDBuWWppYmxrSlBycjgyWEMzMEhwTVpLTnlIVk04ZnVzOGdhcFlTSUswSzJpOEN3d2VyZHNhajVkTlRSNmh1OUxQa3c?oc=5",
@@ -609,17 +814,6 @@
       "category": "X热点",
       "slug": "20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with",
       "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin more likely to crash below $35,000 than to reclaim $100,000 this year. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT0JIN201WjdWZ1E5akNVWkhsMHM5NnJEdENpZllGZ25PS0VNOS1TX3NVeEZXaEhydzZVWVUwdkJHUjctZDRTbzJWMV9ZTXlnMU9aWk9ORDNKbzdZUnh3Ug?oc=5\" target=\"_blank\">BREAKING: Bitcoin more likely to cra…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT0JIN201WjdWZ1E5akNVWkhsMHM5NnJEdENpZllGZ25PS0VNOS1TX3NVeEZXaEhydzZVWVUwdkJHUjctZDRTbzJWMV9ZTXlnMU9aWk9ORDNKbzdZUnh3Ug?oc=5",
-      "publishedAt": "2026-08-13T02:40:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-breaking-bitcoin-more-likely-to-crash-below-35000-than-to-reclaim-100000-this-ye",
-      "localUrl": "/news/20260813-breaking-bitcoin-more-likely-to-crash-below-35000-than-to-reclaim-100000-this-ye.html"
     },
     {
       "source": "Cointelegraph",
@@ -635,63 +829,6 @@
       "localUrl": "/news/20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
-      "summary": "Qualifying new customers can receive full reimbursement, including fees, if they notify both the operator and law enforcement within 30 days.",
-      "url": "https://cointelegraph.com/news/arizona-crypto-atm-law-scam-refunds-171k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T23:42:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-arizona-crypto-atm-law-helps-35-scam-victims-recover-171k",
-      "localUrl": "/news/20260812-arizona-crypto-atm-law-helps-35-scam-victims-recover-171k.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-      "summary": "The U.S. regulator of platforms such as Kalshi and Polymarket suggests the industry is getting into bad compliance habits that may allow for market abuse.",
-      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
-      "publishedAt": "2026-08-12T23:16:53.000Z",
-      "keywords": [
-        "Policy",
-        "Kalshi",
-        "Polymarket",
-        "Prediction Markets",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260812-prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-tradi",
-      "localUrl": "/news/20260812-prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-tradi.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-      "summary": "Tokenized assets hit a record and trading activity jumped, but revenue slipped in the firm’s first earnings report since going public.",
-      "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
-      "publishedAt": "2026-08-12T22:26:24.000Z",
-      "keywords": [
-        "Markets",
-        "Tokenization",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260812-securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
-      "localUrl": "/news/20260812-securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 LATEST: Ethereum’s staking ratio has reached a record 34.4%, according to Token Terminal. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZk5IUURFcjBVZ2FaUXFKSzNiR1ZzSlBDbjlnLTUydU9tTS1oVVVJbk1idDhQV0VabWo3T2t2SENPbHgwRGtKOTh0ODk0dmFMSVJDQ0U3cG8tb3FsY2hzS0dzdUg?oc=5\" target=\"_blank\">🔥 LATEST: Ethereum’s staking r…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZk5IUURFcjBVZ2FaUXFKSzNiR1ZzSlBDbjlnLTUydU9tTS1oVVVJbk1idDhQV0VabWo3T2t2SENPbHgwRGtKOTh0ODk0dmFMSVJDQ0U3cG8tb3FsY2hzS0dzdUg?oc=5",
-      "publishedAt": "2026-08-12T22:20:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-latest-ethereums-staking-ratio-has-reached-a-record-344-according-to-token-termi",
-      "localUrl": "/news/20260812-latest-ethereums-staking-ratio-has-reached-a-record-344-according-to-token-termi.html"
-    },
-    {
       "source": "X Wire",
       "title": "hey what's up with \"Etherium\" on the ethereum foundation website - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDVHh5MkJ6cFA2djFkN2VzeTZ1bC1FTEpBZVYtT2FqYzNiOXIzcU16cjhYa1ZaU0FYVENBUFl6Z2tSYTVDd0lFQW91MG5jVGpUbFJZeklHTU5DNTlwTl9TMHRLQ2tKcEE?oc=5\" target=\"_blank\">hey what's up with \"Etheriu…",
@@ -701,24 +838,6 @@
       "category": "X热点",
       "slug": "20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom",
       "localUrl": "/news/20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-      "summary": "Zerohash, which handles crypto plumbing for Morgan Stanley's E*Trade, said it's planning on re-filing and hoping for a swift resolution.",
-      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
-      "publishedAt": "2026-08-12T22:11:09.000Z",
-      "keywords": [
-        "Policy",
-        "Zerohash",
-        "Morgan Stanley",
-        "banks",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260812-morgan-stanleys-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-us-trust",
-      "localUrl": "/news/20260812-morgan-stanleys-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-us-trust.html"
     },
     {
       "source": "X Wire",
@@ -743,32 +862,6 @@
       "category": "监管",
       "slug": "20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock",
       "localUrl": "/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
-      "summary": "Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.",
-      "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T21:21:17.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260812-hawaii-crypto-atm-ban-to-take-effect-on-oct-1",
-      "localUrl": "/news/20260812-hawaii-crypto-atm-ban-to-take-effect-on-oct-1.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
-      "summary": "The deal would add NEOS’ $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.",
-      "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T20:37:55.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal",
-      "localUrl": "/news/20260812-goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal.html"
     },
     {
       "source": "X Wire",
@@ -832,6 +925,17 @@
       "localUrl": "/news/20260812-spacexai-wants-grok-bot-to-do-your-jobbut-it-needs-access-to-your-accounts.html"
     },
     {
+      "source": "X Wire",
+      "title": "Wrapped bitcoin should be neutral market infrastructure. cirBTC is designed for institutions that need BTC collateral with 1:1 backing, onchain reserve verification, disciplined custody, and an issuer that does not operate a competing CEX, DEX, or lending proto - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hbHhpZlpLc0lXNDVDZU9JRUgyUTlGcndmZE1EWFVuZUV5Nm5IVVZvNXFqT1pfQUxuT0pfMEF3QTBRVE40ZEVDQk1YTVl0cTZpdDh5WFZscUJvdlE?oc=5\" target=\"_blank\">Wrapped bitcoin should be neutral market in…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hbHhpZlpLc0lXNDVDZU9JRUgyUTlGcndmZE1EWFVuZUV5Nm5IVVZvNXFqT1pfQUxuT0pfMEF3QTBRVE40ZEVDQk1YTVl0cTZpdDh5WFZscUJvdlE?oc=5",
+      "publishedAt": "2026-08-12T19:00:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-wrapped-bitcoin-should-be-neutral-market-infrastructure-cirbtc-is-designed-for-i",
+      "localUrl": "/news/20260812-wrapped-bitcoin-should-be-neutral-market-infrastructure-cirbtc-is-designed-for-i.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
       "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
@@ -869,19 +973,6 @@
       "localUrl": "/news/20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
-      "summary": "The flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.",
-      "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-      "publishedAt": "2026-08-12T17:46:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day",
-      "localUrl": "/news/20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUmY1Y21MSzkxNHZnNG1HWHRNRlBNQ1hpencxa3dLcDMyQXFMYnRiSEk4SGdwdHdhM1BBV1NBb2pBUDBpdlJrSXZzQmRZZzR6c1hSc252aUdCZXU5LUlPdmM2QQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 US regulator OCC …",
@@ -891,19 +982,6 @@
       "category": "X热点",
       "slug": "20260812-breaking-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-b",
       "localUrl": "/news/20260812-breaking-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-b.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
-      "summary": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
-      "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
-      "publishedAt": "2026-08-12T17:13:43.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260812-fidelity-files-to-let-its-ethereum-etf-stake-and-pay-investors",
-      "localUrl": "/news/20260812-fidelity-files-to-let-its-ethereum-etf-stake-and-pay-investors.html"
     },
     {
       "source": "X Wire",
@@ -939,32 +1017,6 @@
       "localUrl": "/news/20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid.html"
     },
     {
-      "source": "Decrypt",
-      "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-      "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.",
-      "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-      "publishedAt": "2026-08-12T16:00:52.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260812-xrp-bridge-drained-after-software-treats-fake-deposits-as-real",
-      "localUrl": "/news/20260812-xrp-bridge-drained-after-software-treats-fake-deposits-as-real.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
-      "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
-      "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
-      "publishedAt": "2026-08-12T15:54:16.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
-      "localUrl": "/news/20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: The OCC says crypto companies should be able to apply for U.S. bank charters, opening a potential path for digital asset firms to access the national banking system. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5\" target=\"_blank\">JUST IN: The OCC says crypto companies …",
@@ -974,30 +1026,6 @@
       "category": "X热点",
       "slug": "20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte",
       "localUrl": "/news/20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
-      "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
-      "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
-      "publishedAt": "2026-08-12T15:07:56.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34",
-      "localUrl": "/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "It's very simple. If #Bitcoin can't hold this level here, and doesn't want to test the resistance zones, we're looking to be getting a break downwards to $60,000. The final level of support is that area, if that doesn't happen, we're very likely to be sweeping the lows a - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IQ3l1em5xX2ROZWpya25zaThCeTVzb0JTWHVSdmVtLThUdFlNQl9mNEpPRnJlc2M2eG1ZNWRZVVd0VXlMcm5iWXVsMFVFekc0UDIzNTN0T3JTOEY4ZFlHLTVZdw?oc=5\" target=\"_blank\">It's very simple. If #Bitcoin ca…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IQ3l1em5xX2ROZWpya25zaThCeTVzb0JTWHVSdmVtLThUdFlNQl9mNEpPRnJlc2M2eG1ZNWRZVVd0VXlMcm5iWXVsMFVFekc0UDIzNTN0T3JTOEY4ZFlHLTVZdw?oc=5",
-      "publishedAt": "2026-08-12T14:37:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-its-very-simple-if-bitcoin-cant-hold-this-level-here-and-doesnt-want-to-test-the",
-      "localUrl": "/news/20260812-its-very-simple-if-bitcoin-cant-hold-this-level-here-and-doesnt-want-to-test-the.html"
     },
     {
       "source": "X Wire",
@@ -1031,39 +1059,6 @@
       "category": "X热点",
       "slug": "20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba",
       "localUrl": "/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Harmony Exploited in Unauthorized Mint of 4 Billion ONE Harmony, a Layer 1 blockchain launched in 2019, said it is working with exchanges to stop and freeze funds following a suspected exploit, while developing a patch and evaluating rollback opt - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5\" target=\"_blank\">JUST IN: Harmony Exploited in Un…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5",
-      "publishedAt": "2026-08-12T04:52:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-",
-      "localUrl": "/news/20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Strategy CEO Phong Le: Company to Resume Bitcoin Purchases Later This Year According to FOX Business, Strategy CEO Phong Le stated that the company plans to resume accumulating Bitcoin later this year, despite recent sales of portions of its holdings t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5\" target=\"_blank\">Strategy CEO Phong Le: Company t…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5",
-      "publishedAt": "2026-08-12T02:52:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord",
-      "localUrl": "/news/20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 ALERT: Bitcoin sellers are showing signs of exhaustion, but a historical market bottom has not yet been confirmed, according to Glassnode. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin sellers are s…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5",
-      "publishedAt": "2026-08-11T23:00:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo",
-      "localUrl": "/news/20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo.html"
     },
     {
       "source": "Solana Blog",
