@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-13T02:42:39.627Z",
+  "updatedAt": "2026-08-13T05:01:03.430Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+      "summary": "Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.",
+      "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T04:15:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260813-metaplanet-ceo-shuts-down-bitcoin-sale-speculation-after-322m-transfer",
+      "localUrl": "/news/20260813-metaplanet-ceo-shuts-down-bitcoin-sale-speculation-after-322m-transfer.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
+      "summary": "Futures positioning has rebuilt to levels last seen when dogecoin traded at three times today's price, and more than three accounts are betting on a rebound for every one betting against.",
+      "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+      "publishedAt": "2026-08-13T04:06:16.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260813-speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+      "localUrl": "/news/20260813-speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
+      "summary": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+      "publishedAt": "2026-08-13T03:39:06.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260813-bitcoin-slips-near-63500-as-traders-look-past-cpi-to-feds-next-tests",
+      "localUrl": "/news/20260813-bitcoin-slips-near-63500-as-traders-look-past-cpi-to-feds-next-tests.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "ASX shareholder plans to sue former directors over failed blockchain project",
@@ -429,6 +470,17 @@
       "localUrl": "/news/20260812-crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: The OCC says crypto companies should be able to apply for U.S. bank charters, opening a potential path for digital asset firms to access the national banking system. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5\" target=\"_blank\">JUST IN: The OCC says crypto companies …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5",
+      "publishedAt": "2026-08-12T15:42:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte",
+      "localUrl": "/news/20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
       "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
@@ -529,8 +581,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-      "summary": "",
+      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
+      "summary": "A routing glitch at a major data center provider knocked nearly 29% of Solana’s staked tokens offline, bringing the network within striking distance of a full freeze, while Foundation executives stressed that blocks and transactions never …",
       "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
       "publishedAt": "2026-08-12T13:39:31.000Z",
       "keywords": [
@@ -539,8 +591,8 @@
         "News"
       ],
       "category": "基础设施",
-      "slug": "20260812-smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "localUrl": "/news/20260812-smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says.html"
+      "slug": "20260812-solana-neared-a-freeze-threshold-wednesday-marinade-finance-says-the-foundation-",
+      "localUrl": "/news/20260812-solana-neared-a-freeze-threshold-wednesday-marinade-finance-says-the-foundation-.html"
     },
     {
       "source": "Cointelegraph",
@@ -847,21 +899,6 @@
       "localUrl": "/news/20260812-coreweave-surges-16-on-258-billion-revenue-quarter-as-ai-infrastructure-demand-e.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
-      "summary": "The fund would keep 85% of gross staking rewards, with the remaining 15% going to service providers.",
-      "url": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
-      "publishedAt": "2026-08-12T09:30:20.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260812-fidelity-moves-to-add-staking-quarterly-payouts-to-near-900-million-ether-etf",
-      "localUrl": "/news/20260812-fidelity-moves-to-add-staking-quarterly-payouts-to-near-900-million-ether-etf.html"
-    },
-    {
       "source": "Decrypt",
       "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
       "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
@@ -888,32 +925,15 @@
       "localUrl": "/news/20260812-crypto-companies-urge-ai-firms-to-give-bitcoin-developers-early-access.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "One overlooked group has added $1.78 billion of selling pressure to bitcoin market",
-      "summary": "Public miners are an underappreciated source of supply hitting the market right at the margin.",
-      "url": "https://www.coindesk.com/markets/2026/08/12/one-overlooked-group-has-added-usd1-78-billion-of-selling-pressure-to-bitcoin-market",
-      "publishedAt": "2026-08-12T08:53:23.000Z",
-      "keywords": [
-        "Markets",
-        "Mining",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260812-one-overlooked-group-has-added-178-billion-of-selling-pressure-to-bitcoin-market",
-      "localUrl": "/news/20260812-one-overlooked-group-has-added-178-billion-of-selling-pressure-to-bitcoin-market.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-      "summary": "Suspected North Korean IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
-      "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T07:34:58.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "综合",
-      "slug": "20260812-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers",
-      "localUrl": "/news/20260812-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.html"
+      "source": "X Wire",
+      "title": "🔥 BULLISH: Bitcoin has triggered a second early bull signal, suggesting a potential bottoming phase, per CryptoQuant. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin has trigger…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5",
+      "publishedAt": "2026-08-12T08:05:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-",
+      "localUrl": "/news/20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-.html"
     },
     {
       "source": "X Wire",
@@ -1030,28 +1050,6 @@
       "category": "基础设施",
       "slug": "20260811-the-bull-and-bear-case-for-solanas-next-price-move",
       "localUrl": "/news/20260811-the-bull-and-bear-case-for-solanas-next-price-move.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 SEC to unveil 'major crypto plans' as Clarity Act stalls — Bloomberg 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 SEC to unveil…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhLXk4eHozQWFGeFVldHdidFFmeE9LZmg3bm14aVMyQk1aUUZka3VQN2VmNEJyVllSVGVUdExvVWtWVjZ1RVZyYnhkaTR0UnlPUUlQQ05uYl9BX3B6VGhZYUFwSVlpSFU?oc=5",
-      "publishedAt": "2026-08-11T19:51:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom",
-      "localUrl": "/news/20260811-just-in-sec-to-unveil-major-crypto-plans-as-clarity-act-stalls-bloomberg-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "After selling Bitcoin to build $4.75 billion in cash reserves, @Strategy CEO @phongle says the company learned a key lesson: institutional and short-term investors value cash more than Bitcoin liquidity. “And that was a lesson learned,” Le said, adding Strateg - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5\" target=\"_blank\">After selling Bitcoin to build $4.75 bi…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQklhSUo2TEs5Sm5RYTBPNmI4QkJEVHAydTFPcE8zcmFNaW12VzFhbmtSSmx3cWI3V1RjV1VaYllwek5zeGo2WVRtaW4xeHU0alpJRlFwUWNfdFVFSHc?oc=5",
-      "publishedAt": "2026-08-11T18:58:29.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle",
-      "localUrl": "/news/20260811-after-selling-bitcoin-to-build-475-billion-in-cash-reserves-strategy-ceo-phongle.html"
     },
     {
       "source": "X Wire",
