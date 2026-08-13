@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-08-13T11:56:06.959Z",
+  "updatedAt": "2026-08-13T13:40:59.457Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
+      "summary": "A South Korean court sentenced the head of centralized finance (CeFi) lender Delio to 15 years in prison for embezzling digital assets from more than 1,100 customers.",
+      "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
+      "publishedAt": "2026-08-13T13:37:56.000Z",
+      "keywords": [
+        "Finance",
+        "Fraud",
+        "Crime",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260813-crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-50-m",
+      "localUrl": "/news/20260813-crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-50-m.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
+      "summary": "The tokenization-focused lender posted $226 million in quarterly revenue as blockchain loan marketplace volume jumped to $4.3 billion.",
+      "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
+      "publishedAt": "2026-08-13T13:29:28.000Z",
+      "keywords": [
+        "Finance",
+        "Tokenization",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260813-figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
+      "localUrl": "/news/20260813-figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
+      "summary": "Bitmine’s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether’s price appreciation, analysts told Cointelegraph.",
+      "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T13:14:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260813-bitmines-257m-annualized-staking-income-fills-operational-gaps-share-buybacks-an",
+      "localUrl": "/news/20260813-bitmines-257m-annualized-staking-income-fills-operational-gaps-share-buybacks-an.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
+      "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
+      "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
+      "publishedAt": "2026-08-13T13:10:43.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "安全",
+      "slug": "20260813-trezor-customer-data-exposed-in-shipping-partner-breach",
+      "localUrl": "/news/20260813-trezor-customer-data-exposed-in-shipping-partner-breach.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
+      "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
+      "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+      "publishedAt": "2026-08-13T13:01:05.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "综合",
+      "slug": "20260813-xrp-holders-can-now-trade-options-using-flares-fxrp-as-collateral",
+      "localUrl": "/news/20260813-xrp-holders-can-now-trade-options-using-flares-fxrp-as-collateral.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+      "summary": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
+      "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T13:00:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260813-mufg-poc-to-bring-japanese-government-bond-repo-transactions-onchain",
+      "localUrl": "/news/20260813-mufg-poc-to-bring-japanese-government-bond-repo-transactions-onchain.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+      "summary": "Digital asset sales slumped to $32.6 billion from $58.6 billiion a year earlier, but other revenues roughly doubled year-over-year to just shy of $65 billion.",
+      "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+      "publishedAt": "2026-08-13T12:09:58.000Z",
+      "keywords": [
+        "Finance",
+        "Bullish",
+        "Earnings",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260813-bullish-q2-adjusted-earnings-in-line-as-rise-in-subscription-revenue-offsets-dig",
+      "localUrl": "/news/20260813-bullish-q2-adjusted-earnings-in-line-as-rise-in-subscription-revenue-offsets-dig.html"
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
@@ -14,6 +114,19 @@
       "category": "监管",
       "slug": "20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks",
       "localUrl": "/news/20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+      "summary": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
+      "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T11:48:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-sec-allows-franklin-templeton-funds-to-invest-in-onchain-money-fund",
+      "localUrl": "/news/20260813-sec-allows-franklin-templeton-funds-to-invest-in-onchain-money-fund.html"
     },
     {
       "source": "Decrypt",
@@ -61,7 +174,7 @@
     {
       "source": "Cointelegraph",
       "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
-      "summary": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance” but have sacrificed some of their inherent immutability and decentralization.",
+      "summary": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance,” but have sacrificed some of their inherent immutability and decentralization.",
       "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-13T10:50:24.000Z",
       "keywords": [
@@ -144,8 +257,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: U.S. inflation is stickier than July’s mild CPI reading suggests",
-      "summary": "Bitcoin's choppy price action as in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
+      "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
+      "summary": "An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
       "publishedAt": "2026-08-13T09:18:19.000Z",
       "keywords": [
@@ -155,8 +268,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260813-live-updates-us-inflation-is-stickier-than-julys-mild-cpi-reading-suggests",
-      "localUrl": "/news/20260813-live-updates-us-inflation-is-stickier-than-julys-mild-cpi-reading-suggests.html"
+      "slug": "20260813-live-updates-bitcoin-continues-flat-near-63500-as-us-ppi-softer-than-forecast-in",
+      "localUrl": "/news/20260813-live-updates-bitcoin-continues-flat-near-63500-as-us-ppi-softer-than-forecast-in.html"
     },
     {
       "source": "CoinDesk",
@@ -218,7 +331,7 @@
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T05:54:56.000Z",
+      "publishedAt": "2026-08-13T06:00:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -662,19 +775,6 @@
       "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
-      "summary": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
-      "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T16:50:25.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260812-bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-",
-      "localUrl": "/news/20260812-bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
       "summary": "The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.",
@@ -717,19 +817,6 @@
       "category": "X热点",
       "slug": "20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid",
       "localUrl": "/news/20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
-      "summary": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
-      "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T16:07:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260812-hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin",
-      "localUrl": "/news/20260812-hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin.html"
     },
     {
       "source": "Decrypt",
@@ -782,19 +869,6 @@
       "localUrl": "/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
-      "summary": "Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.",
-      "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T15:00:10.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260812-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60",
-      "localUrl": "/news/20260812-bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Miden bets on privacy stablecoins with introduction of USDCx",
       "summary": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
@@ -810,23 +884,6 @@
       "category": "监管",
       "slug": "20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
       "localUrl": "/news/20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-      "summary": "In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while risk reprices by the minute. She makes t…",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-      "publishedAt": "2026-08-12T14:51:12.000Z",
-      "keywords": [
-        "CoinDesk Indices",
-        "CoinDesk Indices",
-        "Newsletters",
-        "Crypto Long & Short",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260812-crypto-long-short-when-capital-cant-move-fast-enough-markets-pay-the-price",
-      "localUrl": "/news/20260812-crypto-long-short-when-capital-cant-move-fast-enough-markets-pay-the-price.html"
     },
     {
       "source": "X Wire",
@@ -875,37 +932,6 @@
       "category": "市场",
       "slug": "20260812-kalshi-adds-real-time-market-data-feed-through-doublezero",
       "localUrl": "/news/20260812-kalshi-adds-real-time-market-data-feed-through-doublezero.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
-      "summary": "A routing glitch at a major data center provider knocked nearly 29% of Solana’s staked tokens offline, bringing the network within striking distance of a full freeze, while Foundation executives stressed that blocks and transactions never …",
-      "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-      "publishedAt": "2026-08-12T13:39:31.000Z",
-      "keywords": [
-        "Tech",
-        "Solana News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260812-solana-neared-a-freeze-threshold-wednesday-marinade-finance-says-the-foundation-",
-      "localUrl": "/news/20260812-solana-neared-a-freeze-threshold-wednesday-marinade-finance-says-the-foundation-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
-      "summary": "HashKey Exchange and OSL Group are now authorized distributors, enabling institutional and professional investors to mint and redeem HKDAP tokens.",
-      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
-      "publishedAt": "2026-08-12T13:13:49.000Z",
-      "keywords": [
-        "Finance",
-        "Hong Kong",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
-      "localUrl": "/news/20260812-standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin.html"
     },
     {
       "source": "X Wire",
@@ -967,33 +993,6 @@
       "localUrl": "/news/20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-      "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
-      "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-      "publishedAt": "2026-08-12T10:38:06.000Z",
-      "keywords": [
-        "harmony",
-        "DeFi"
-      ],
-      "category": "DeFi",
-      "slug": "20260812-harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-      "localUrl": "/news/20260812-harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-      "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
-      "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-      "publishedAt": "2026-08-12T09:22:12.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260812-cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-      "localUrl": "/news/20260812-cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Harmony Exploited in Unauthorized Mint of 4 Billion ONE Harmony, a Layer 1 blockchain launched in 2019, said it is working with exchanges to stop and freeze funds following a suspected exploit, while developing a patch and evaluating rollback opt - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5\" target=\"_blank\">JUST IN: Harmony Exploited in Un…",
@@ -1028,17 +1027,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 TODAY: An Ethereum ICO participant moved 2,680 $ETH worth $5.04M after over 11 years of dormancy, turning an $831 investment into a 6,068x return. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5\" target=\"_blank\">🔥 TODAY: An Ethereum ICO parti…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5",
-      "publishedAt": "2026-08-12T02:00:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-",
-      "localUrl": "/news/20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨 ALERT: Bitcoin sellers are showing signs of exhaustion, but a historical market bottom has not yet been confirmed, according to Glassnode. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin sellers are s…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbS1fVlJnNl9lb1M2Y3ViVkg1WnJaZlpra2wybmZBX3pqV0RlR2ZENTlYNXU0elRlRTNOZDdoU1QzV05ZMjJPQVdlNHFEX1BEaE0yY25Bb2ozTDE3blJ2VkdTUDU?oc=5",
@@ -1047,6 +1035,17 @@
       "category": "X热点",
       "slug": "20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo",
       "localUrl": "/news/20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday The SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering re - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5\" target=\"_blank\">SEC Could Unveil Tokenized Stock…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5",
+      "publishedAt": "2026-08-11T20:52:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla",
+      "localUrl": "/news/20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla.html"
     },
     {
       "source": "X Wire",
