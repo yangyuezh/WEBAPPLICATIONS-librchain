@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-12T23:54:34.941Z",
-  "total": 82,
+  "updatedAt": "2026-08-13T02:42:39.627Z",
+  "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "ASX shareholder plans to sue former directors over failed blockchain project",
+      "summary": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
+      "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T01:00:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project",
+      "localUrl": "/news/20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Arizona crypto ATM law helps 35 scam victims recover $171K",
@@ -47,6 +60,17 @@
       "category": "监管",
       "slug": "20260812-securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
       "localUrl": "/news/20260812-securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "hey what's up with \"Etherium\" on the ethereum foundation website - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDVHh5MkJ6cFA2djFkN2VzeTZ1bC1FTEpBZVYtT2FqYzNiOXIzcU16cjhYa1ZaU0FYVENBUFl6Z2tSYTVDd0lFQW91MG5jVGpUbFJZeklHTU5DNTlwTl9TMHRLQ2tKcEE?oc=5\" target=\"_blank\">hey what's up with \"Etheriu…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDVHh5MkJ6cFA2djFkN2VzeTZ1bC1FTEpBZVYtT2FqYzNiOXIzcU16cjhYa1ZaU0FYVENBUFl6Z2tSYTVDd0lFQW91MG5jVGpUbFJZeklHTU5DNTlwTl9TMHRLQ2tKcEE?oc=5",
+      "publishedAt": "2026-08-12T22:16:01.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom",
+      "localUrl": "/news/20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -196,17 +220,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 HUGE: A Bitcoin user paid a 1.6 $BTC fee, worth roughly $103,000, for a single transaction. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE51WHpxQzY4ZFVxa3FrSzJPdGF6M2NSdlNnQ1RqUXBjamdSMm9ucjk2QjlHZFJ1Ykd0N3FiQzhZVzJGcEg0cWFib0g1NE9Vc2xUbHloaXBKNjhvVklub1hsdjczMi0?oc=5\" target=\"_blank\">🚨 HUGE: A Bitcoin user paid a …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51WHpxQzY4ZFVxa3FrSzJPdGF6M2NSdlNnQ1RqUXBjamdSMm9ucjk2QjlHZFJ1Ykd0N3FiQzhZVzJGcEg0cWFib0g1NE9Vc2xUbHloaXBKNjhvVklub1hsdjczMi0?oc=5",
-      "publishedAt": "2026-08-12T18:45:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-huge-a-bitcoin-user-paid-a-16-btc-fee-worth-roughly-103000-for-a-single-transact",
-      "localUrl": "/news/20260812-huge-a-bitcoin-user-paid-a-16-btc-fee-worth-roughly-103000-for-a-single-transact.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🪶🕯️tomorrow. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbmFiZUtjZHJoUGdPZW9yUmwzc3l5YzUxQ05xMlVtSzdrbDc3dVo1XzRxVnlVR2EzX1VxXzBOLTF2ZXZhMjBHVEF4cjNPR3ItTlNJcHREUFpDWFAxRDg2YXBnVUhHRkE?oc=5\" target=\"_blank\">🪶🕯️tomorrow.</a> <font co…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbmFiZUtjZHJoUGdPZW9yUmwzc3l5YzUxQ05xMlVtSzdrbDc3dVo1XzRxVnlVR2EzX1VxXzBOLTF2ZXZhMjBHVEF4cjNPR3ItTlNJcHREUFpDWFAxRDg2YXBnVUhHRkE?oc=5",
@@ -228,6 +241,17 @@
       "category": "安全",
       "slug": "20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety",
       "localUrl": "/news/20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Goldman Sachs acquires NEOS, including $1 billion in their Bitcoin High Income ETFs 🤯 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QVlEzWS05bDJUNlRJcjVPdkdCdVRUV04zeGQzcVdoeEY2T2xrSURsS0l5UzVjbTdsYURObWxFNE1QNkNsQWtST2dpWUozRzdVT29sWVFwdG9RV04zZ3h2cHRwOHJ3U3M?oc=5\" target=\"_blank\">JUST IN: Goldman Sachs acqu…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QVlEzWS05bDJUNlRJcjVPdkdCdVRUV04zeGQzcVdoeEY2T2xrSURsS0l5UzVjbTdsYURObWxFNE1QNkNsQWtST2dpWUozRzdVT29sWVFwdG9RV04zZ3h2cHRwOHJ3U3M?oc=5",
+      "publishedAt": "2026-08-12T18:13:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in",
+      "localUrl": "/news/20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in.html"
     },
     {
       "source": "Cointelegraph",
@@ -599,6 +623,17 @@
       "localUrl": "/news/20260812-america-doesnt-need-a-second-class-payments-system.html"
     },
     {
+      "source": "Solana Blog",
+      "title": "Why Asia Is Ahead on Stablecoins, According to Reap's Daren Guo",
+      "summary": "Reap moves roughly $6B a year in stablecoin card volume after building cross-border payments infrastructure from Asia.",
+      "url": "https://solana.com/news/bits-to-bricks-asia-ahead-stablecoins-daren-guo-reap",
+      "publishedAt": "2026-08-12T12:57:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo",
+      "localUrl": "/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "U.S. CPI inflation slows to 3.4% as expected, bitcoin holds near $64,000",
       "summary": "Both headline and core inflation matched economists’ expectations, while bitcoin held near $64,000 and Treasury yields declined.",
@@ -711,6 +746,17 @@
       "category": "综合",
       "slug": "20260812-xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-o",
       "localUrl": "/news/20260812-xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-o.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Wintermute Plans $1B Investment in HFT and AI Infrastructure to Expand Into Traditional Markets According to Bloomberg, crypto market maker Wintermute plans to invest about $1 billion in high-frequency trading and AI data-center infrastructure over the next f - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DaGxWM0U1bHNSbFVjeEg4b3lycWo5bHhDYVZ2YXNrS0xwUmZpc2RILXhCWHJ0RzdqN2drMl9zaW5KOXplSUEyTTBtMmdTc05abWJZNHZYWkVRalBNa1BxZFRQWQ?oc=5\" target=\"_blank\">Wintermute Plans $1B Investment …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DaGxWM0U1bHNSbFVjeEg4b3lycWo5bHhDYVZ2YXNrS0xwUmZpc2RILXhCWHJ0RzdqN2drMl9zaW5KOXplSUEyTTBtMmdTc05abWJZNHZYWkVRalBNa1BxZFRQWQ?oc=5",
+      "publishedAt": "2026-08-12T10:53:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-wintermute-plans-1b-investment-in-hft-and-ai-infrastructure-to-expand-into-tradi",
+      "localUrl": "/news/20260812-wintermute-plans-1b-investment-in-hft-and-ai-infrastructure-to-expand-into-tradi.html"
     },
     {
       "source": "Decrypt",
@@ -857,17 +903,6 @@
       "localUrl": "/news/20260812-one-overlooked-group-has-added-178-billion-of-selling-pressure-to-bitcoin-market.html"
     },
     {
-      "source": "X Wire",
-      "title": "🔥 BULLISH: Bitcoin has triggered a second early bull signal, suggesting a potential bottoming phase, per CryptoQuant. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5\" target=\"_blank\">🔥 BULLISH: Bitcoin has trigger…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YZUxnbkNrOXQzYlBzYnJaMDlfNW4xeFRyaUJWWVJGSDYyRFhsTzYzWTIzeW9SYVBmemRVM3NjbDhqRHgzZXRTWHJfWFlMNElVcmtvM2JOVjRiYVZMRG1pYmxiWng?oc=5",
-      "publishedAt": "2026-08-12T08:05:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-",
-      "localUrl": "/news/20260812-bullish-bitcoin-has-triggered-a-second-early-bull-signal-suggesting-a-potential-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Inside the fake crypto startup that fooled North Korean IT workers",
       "summary": "Suspected North Korean IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
@@ -881,19 +916,6 @@
       "localUrl": "/news/20260812-inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-      "summary": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
-      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T06:02:52.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply",
-      "localUrl": "/news/20260812-harmony-considers-rollback-after-suspected-exploit-inflates-one-supply.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Harmony Exploited in Unauthorized Mint of 4 Billion ONE Harmony, a Layer 1 blockchain launched in 2019, said it is working with exchanges to stop and freeze funds following a suspected exploit, while developing a patch and evaluating rollback opt - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5\" target=\"_blank\">JUST IN: Harmony Exploited in Un…",
@@ -903,6 +925,17 @@
       "category": "X热点",
       "slug": "20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-",
       "localUrl": "/news/20260812-just-in-harmony-exploited-in-unauthorized-mint-of-4-billion-one-harmony-a-layer-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 NEW: Bitwise cuts 14% of its workforce amid the crypto price slump, trimming staff to about 155 from 180. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5\" target=\"_blank\">🚨 NEW: Bitwise cuts 14% of its…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5",
+      "publishedAt": "2026-08-12T04:00:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-",
+      "localUrl": "/news/20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-.html"
     },
     {
       "source": "X Wire",
@@ -925,17 +958,6 @@
       "category": "X热点",
       "slug": "20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord",
       "localUrl": "/news/20260812-strategy-ceo-phong-le-company-to-resume-bitcoin-purchases-later-this-year-accord.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 TODAY: An Ethereum ICO participant moved 2,680 $ETH worth $5.04M after over 11 years of dormancy, turning an $831 investment into a 6,068x return. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5\" target=\"_blank\">🔥 TODAY: An Ethereum ICO parti…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUTVSaXc0b25rYkV4aFNMUUtxc1FuMHBsUWl1eEpvWXB2eG5NT3FJelMwdXdkUWNqM1owVUM4UGgxRExSeG53T2NObGhuNkhhbGVwenMzMkNjSkNSTXpOeG9odnY?oc=5",
-      "publishedAt": "2026-08-12T02:00:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-",
-      "localUrl": "/news/20260812-today-an-ethereum-ico-participant-moved-2680-eth-worth-504m-after-over-11-years-.html"
     },
     {
       "source": "X Wire",
@@ -1043,17 +1065,6 @@
       "localUrl": "/news/20260811-ethereum-buyers-accumulate-ahead-of-cpi-investors-are-accumulating-ethereum-ahea.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin. Ethereum. Chainlink. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5\" target=\"_blank\">Bitcoin. Ethereum. Chainlink.</a> <fon…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01cm1rQmpJTGhLV0ZtckdpdGJyUlFjTU1QQk9LcTk0dWtiTnVKdm9wb1lnS0lkTkpnUEV5LTRtdUpFQVZVV3lxaHEwTGJfTzNDVzhDMkd6REEyUnVhOVpr?oc=5",
-      "publishedAt": "2026-08-11T13:49:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-bitcoin-ethereum-chainlink-xcom",
-      "localUrl": "/news/20260811-bitcoin-ethereum-chainlink-xcom.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "MoneyGram Ramps launches on Solana",
       "summary": "MoneyGram Ramps gives Solana builders one API for cash deposits in 25+ countries and withdrawals in 170+ countries and territories.",
@@ -1066,14 +1077,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Crypto Veterans Debate If Early Trading Beat Today's 'Plu... - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Crypto Veterans Debate If Early Trading Beat Tod…",
+      "title": "Plumber Memes and $PLUMBER Token Surge from Crypto Tradin... - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5\" target=\"_blank\">Plumber Memes and $PLUMBER Token Surge from Cryp…",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wQ3dEaGxxRVhzOGRsQU9rNFBidXAzRzFzbk12VXlDZHlOTktYdTA5d2R6X0VRQUVPVWhXdEJrVXUycVVGbTVwdmZCbEtVQThneWRMRTZ4Zw?oc=5",
       "publishedAt": "2026-08-11T05:17:47.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260811-crypto-veterans-debate-if-early-trading-beat-todays-plu-xcom",
-      "localUrl": "/news/20260811-crypto-veterans-debate-if-early-trading-beat-todays-plu-xcom.html"
+      "slug": "20260811-plumber-memes-and-plumber-token-surge-from-crypto-tradin-xcom",
+      "localUrl": "/news/20260811-plumber-memes-and-plumber-token-surge-from-crypto-tradin-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
