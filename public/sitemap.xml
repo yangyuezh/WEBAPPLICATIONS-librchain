@@ -2,19 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-13T19:16:16.372Z</lastmod>
+    <lastmod>2026-08-13T20:58:47.825Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-13T19:16:16.372Z</lastmod>
+    <lastmod>2026-08-13T20:58:47.825Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion.html</loc>
+    <lastmod>2026-08-13T20:43:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html</loc>
+    <lastmod>2026-08-13T20:30:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea.html</loc>
+    <lastmod>2026-08-13T19:21:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html</loc>
     <lastmod>2026-08-13T19:11:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-you-will-never-be-done-learning-about-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-13T18:51:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -115,6 +139,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html</loc>
+    <lastmod>2026-08-13T15:20:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html</loc>
     <lastmod>2026-08-13T15:13:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -165,12 +195,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html</loc>
     <lastmod>2026-08-13T14:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
-    <lastmod>2026-08-13T13:54:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -319,6 +343,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-.html</loc>
+    <lastmod>2026-08-13T07:10:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260813-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-13T06:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +369,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio.html</loc>
     <lastmod>2026-08-13T05:01:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-metaplanet-ceo-shuts-down-bitcoin-sale-speculation-after-322m-transfer.html</loc>
-    <lastmod>2026-08-13T04:15:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,20 +397,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project.html</loc>
-    <lastmod>2026-08-13T01:00:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom.html</loc>
     <lastmod>2026-08-12T22:16:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu.html</loc>
-    <lastmod>2026-08-12T21:47:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety.html</loc>
-    <lastmod>2026-08-12T18:16:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in.html</loc>
     <lastmod>2026-08-12T18:13:25.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html</loc>
     <lastmod>2026-08-12T16:55:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid.html</loc>
-    <lastmod>2026-08-12T16:10:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

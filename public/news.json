@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-13T19:16:16.332Z",
+  "updatedAt": "2026-08-13T20:58:47.784Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+      "summary": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
+      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T20:43:12.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion",
+      "localUrl": "/news/20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+      "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
+      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "publishedAt": "2026-08-13T20:30:24.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr",
+      "localUrl": "/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "summary": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
+      "url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T19:21:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260813-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea",
+      "localUrl": "/news/20260813-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea.html"
+    },
     {
       "source": "Decrypt",
       "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
@@ -14,6 +53,17 @@
       "category": "综合",
       "slug": "20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so",
       "localUrl": "/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "You will never be done learning about Bitcoin. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE53T3FOWDB3REdVX3F6UGczWGZ4cnVVQmNmTDk0UllsVjdZSU1hUzRuQVdPeGp2S0loZXdxenc2UnJGd0hoQV81Y1ZDa1o2aGtCX2pwLXd0WUh1WEk?oc=5\" target=\"_blank\">You will never be done learning about Bitco…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53T3FOWDB3REdVX3F6UGczWGZ4cnVVQmNmTDk0UllsVjdZSU1hUzRuQVdPeGp2S0loZXdxenc2UnJGd0hoQV81Y1ZDa1o2aGtCX2pwLXd0WUh1WEk?oc=5",
+      "publishedAt": "2026-08-13T18:51:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-you-will-never-be-done-learning-about-bitcoin-xcom",
+      "localUrl": "/news/20260813-you-will-never-be-done-learning-about-bitcoin-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -230,6 +280,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5",
+      "publishedAt": "2026-08-13T15:20:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks",
+      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html"
+    },
+    {
+      "source": "X Wire",
       "title": "The next generation of the ether.fi crypto neobank is live. Earn, trade, borrow, spend. One app to replace your traditional bank. What’s new: → Tokenized stocks and metals trading → An integrated @Aave market on @Optimism, borrowing against your full portf - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5\" target=\"_blank\">The next generation of the ether.fi cry…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5",
@@ -260,6 +321,7 @@
       "publishedAt": "2026-08-13T15:00:00.000Z",
       "keywords": [
         "CoinDesk Indices",
+        "Crypto for Advisors",
         "News"
       ],
       "category": "综合",
@@ -346,17 +408,6 @@
       "category": "基础设施",
       "slug": "20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans",
       "localUrl": "/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5",
-      "publishedAt": "2026-08-13T13:54:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom",
-      "localUrl": "/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html"
     },
     {
       "source": "CoinDesk",
@@ -698,6 +749,17 @@
       "localUrl": "/news/20260813-copper-us-arm-becomes-finra-member-sec-registered-broker-dealer.html"
     },
     {
+      "source": "X Wire",
+      "title": "Bitcoin OG traders just had their most profitable cycle ever. Unlike past cycles, crypto exchange traders were not the exit liquidity. ETFs and DATs were. That structural bid pushed Binance traders' unrealized profits to nearly triple the 2021 top. 🧵 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUZmdEtrLWxacElCRGh2bmYySDJjNFZKeWJjQS1VYWIwSjZ4YlRuOW9Lbi1RSU5IUndDcm1TVEJjVEl2UXhoTndMWWZpUTFSVlZaTGhwNzNqdl96NDV6MzR3?oc=5\" target=\"_blank\">Bitcoin OG traders just had their …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUZmdEtrLWxacElCRGh2bmYySDJjNFZKeWJjQS1VYWIwSjZ4YlRuOW9Lbi1RSU5IUndDcm1TVEJjVEl2UXhoTndMWWZpUTFSVlZaTGhwNzNqdl96NDV6MzR3?oc=5",
+      "publishedAt": "2026-08-13T07:10:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-",
+      "localUrl": "/news/20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
@@ -753,19 +815,6 @@
       "localUrl": "/news/20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-      "summary": "Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.",
-      "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T04:15:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260813-metaplanet-ceo-shuts-down-bitcoin-sale-speculation-after-322m-transfer",
-      "localUrl": "/news/20260813-metaplanet-ceo-shuts-down-bitcoin-sale-speculation-after-322m-transfer.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
       "summary": "Futures positioning has rebuilt to levels last seen when dogecoin traded at three times today's price, and more than three accounts are betting on a rebound for every one betting against.",
@@ -816,19 +865,6 @@
       "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "ASX shareholder plans to sue former directors over failed blockchain project",
-      "summary": "ASX’s failed blockchain-based CHESS overhaul faces renewed governance scrutiny after the exchange admitted misleading the market.",
-      "url": "https://cointelegraph.com/news/asx-shareholder-lawsuit-failed-blockchain-chess-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T01:00:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project",
-      "localUrl": "/news/20260813-asx-shareholder-plans-to-sue-former-directors-over-failed-blockchain-project.html"
-    },
-    {
       "source": "X Wire",
       "title": "hey what's up with \"Etherium\" on the ethereum foundation website - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDVHh5MkJ6cFA2djFkN2VzeTZ1bC1FTEpBZVYtT2FqYzNiOXIzcU16cjhYa1ZaU0FYVENBUFl6Z2tSYTVDd0lFQW91MG5jVGpUbFJZeklHTU5DNTlwTl9TMHRLQ2tKcEE?oc=5\" target=\"_blank\">hey what's up with \"Etheriu…",
@@ -838,17 +874,6 @@
       "category": "X热点",
       "slug": "20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom",
       "localUrl": "/news/20260812-hey-whats-up-with-etherium-on-the-ethereum-foundation-website-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court, urging it to review whether regional Federal Reserve Banks have the discretion to deny eligible state-chartered banks access t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ld2R6VGVGclFDWm5VVlhPNjY3MnZVVTVCR3NyS1RJdUVjeVl3TnVycGppeE5ZVWxJVGI0VVpHTVpWOGN5UzVRRTFtN1FWakRWNDdiQl8tSDFEUkluLW5weG1GS0d6QQ?oc=5\" target=\"_blank\">🚨NEW: Crypto trade group @B…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ld2R6VGVGclFDWm5VVlhPNjY3MnZVVTVCR3NyS1RJdUVjeVl3TnVycGppeE5ZVWxJVGI0VVpHTVpWOGN5UzVRRTFtN1FWakRWNDdiQl8tSDFEUkluLW5weG1GS0d6QQ?oc=5",
-      "publishedAt": "2026-08-12T21:47:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu",
-      "localUrl": "/news/20260812-new-crypto-trade-group-blockchainassn-has-filed-an-amicus-brief-in-support-of-cu.html"
     },
     {
       "source": "Decrypt",
@@ -949,19 +974,6 @@
       "localUrl": "/news/20260812-goldman-sachs-225b-neos-deal-hands-it-ready-made-bitcoin-income-etf-business.html"
     },
     {
-      "source": "Decrypt",
-      "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
-      "summary": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.",
-      "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
-      "publishedAt": "2026-08-12T18:16:04.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety",
-      "localUrl": "/news/20260812-after-coldcard-was-hacked-15-billion-in-bitcoin-moved-to-safety.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Goldman Sachs acquires NEOS, including $1 billion in their Bitcoin High Income ETFs 🤯 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QVlEzWS05bDJUNlRJcjVPdkdCdVRUV04zeGQzcVdoeEY2T2xrSURsS0l5UzVjbTdsYURObWxFNE1QNkNsQWtST2dpWUozRzdVT29sWVFwdG9RV04zZ3h2cHRwOHJ3U3M?oc=5\" target=\"_blank\">JUST IN: Goldman Sachs acqu…",
@@ -1004,17 +1016,6 @@
       "category": "X热点",
       "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
       "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: GOLDMAN ACQUIRES $1 BILLION BITCOIN ETF IN TAKEOVER DEAL 👀 • Buys ETF provider Neos for $2.3B • Fund pays 27% yield, but limits BTC upside - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSEwwN3o1MC1qNEdOaG5JRmRpSXlDZVd0azVSaFQ3WHlnUkpvWW1SUnVjMFFTaDFXYzYtN05OUlV1THViWk05OFI0aTVaM2tMdU40VFB5UEVPQ2RkMWEtb0h2LVlMZw?oc=5\" target=\"_blank\">BREAKING: GOLDMAN ACQUIRES $…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SSEwwN3o1MC1qNEdOaG5JRmRpSXlDZVd0azVSaFQ3WHlnUkpvWW1SUnVjMFFTaDFXYzYtN05OUlV1THViWk05OFI0aTVaM2tMdU40VFB5UEVPQ2RkMWEtb0h2LVlMZw?oc=5",
-      "publishedAt": "2026-08-12T16:10:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid",
-      "localUrl": "/news/20260812-breaking-goldman-acquires-1-billion-bitcoin-etf-in-takeover-deal-buys-etf-provid.html"
     },
     {
       "source": "X Wire",
