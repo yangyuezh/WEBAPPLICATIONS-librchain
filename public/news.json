@@ -1,7 +1,85 @@
 {
-  "updatedAt": "2026-08-13T15:11:17.946Z",
+  "updatedAt": "2026-08-13T17:08:35.238Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
+      "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
+      "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
+      "publishedAt": "2026-08-13T16:40:49.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "RWA",
+      "slug": "20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds",
+      "localUrl": "/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+      "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
+      "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+      "publishedAt": "2026-08-13T16:05:39.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+      "localUrl": "/news/20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
+      "summary": "AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.",
+      "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T16:00:23.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows",
+      "localUrl": "/news/20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
+      "summary": "The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.",
+      "url": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T15:36:45.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260813-bullish-shares-jump-10-as-q2-adjusted-ebitda-more-than-triples",
+      "localUrl": "/news/20260813-bullish-shares-jump-10-as-q2-adjusted-ebitda-more-than-triples.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trezor reports data from 14K users exposed through shipping provider",
+      "summary": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
+      "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T15:25:14.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider",
+      "localUrl": "/news/20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+      "summary": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
+      "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T15:07:38.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260813-bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data",
+      "localUrl": "/news/20260813-bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: The crypto advice gap",
@@ -15,6 +93,17 @@
       "category": "综合",
       "slug": "20260813-crypto-for-advisors-the-crypto-advice-gap",
       "localUrl": "/news/20260813-crypto-for-advisors-the-crypto-advice-gap.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇨🇭 Switzerland's largest bank UBS increases spot Bitcoin ETF holdings by 230% to $90 million. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aREtCVXRDNEc1dk83NkRfbFV2V2FFbjA0eXdmZVpWWkZIZVd2emYzTU5LaTI4VWlpRVEtaEdQNFdWR1FfQzhGQUJSVzFLaThSdW9RTjVwVjNKOVkzRkh2dU5n?oc=5\" target=\"_blank\">JUST IN: 🇨🇭 Switzerland's larges…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aREtCVXRDNEc1dk83NkRfbFV2V2FFbjA0eXdmZVpWWkZIZVd2emYzTU5LaTI4VWlpRVEtaEdQNFdWR1FfQzhGQUJSVzFLaThSdW9RTjVwVjNKOVkzRkh2dU5n?oc=5",
+      "publishedAt": "2026-08-13T14:58:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-increases-spot-bitcoin-etf-holdings-by-230",
+      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-increases-spot-bitcoin-etf-holdings-by-230.html"
     },
     {
       "source": "CoinDesk",
@@ -345,7 +434,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: S&P 500 hits record high as U.S. PPI comes in softer than forecast in July",
+      "title": "Live updates: Bitcoin stuck near $63,500 even as Fed rate hike expectations dwindle",
       "summary": "An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
       "publishedAt": "2026-08-13T09:18:19.000Z",
@@ -356,8 +445,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260813-live-updates-sp-500-hits-record-high-as-us-ppi-comes-in-softer-than-forecast-in-",
-      "localUrl": "/news/20260813-live-updates-sp-500-hits-record-high-as-us-ppi-comes-in-softer-than-forecast-in-.html"
+      "slug": "20260813-live-updates-bitcoin-stuck-near-63500-even-as-fed-rate-hike-expectations-dwindle",
+      "localUrl": "/news/20260813-live-updates-bitcoin-stuck-near-63500-even-as-fed-rate-hike-expectations-dwindle.html"
     },
     {
       "source": "CoinDesk",
@@ -717,19 +806,6 @@
       "localUrl": "/news/20260812-btc-goldman-sachs-is-buying-its-way-into-the-bitcoin-income-etf-race-the-bank-is.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
-      "summary": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
-      "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T20:22:46.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260812-nyc-council-announces-probe-into-predatory-marketing-practices-on-prediction-mar",
-      "localUrl": "/news/20260812-nyc-council-announces-probe-into-predatory-marketing-practices-on-prediction-mar.html"
-    },
-    {
       "source": "Decrypt",
       "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
       "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
@@ -769,19 +845,6 @@
       "localUrl": "/news/20260812-goldman-sachs-225b-neos-deal-hands-it-ready-made-bitcoin-income-etf-business.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
-      "summary": "Kraken’s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.",
-      "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T18:55:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260812-kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow",
-      "localUrl": "/news/20260812-kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow.html"
-    },
-    {
       "source": "Decrypt",
       "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
       "summary": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.",
@@ -806,19 +869,6 @@
       "localUrl": "/news/20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitwise cuts 14% of staff while still expecting growth",
-      "summary": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
-      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T18:01:15.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260812-bitwise-cuts-14-of-staff-while-still-expecting-growth",
-      "localUrl": "/news/20260812-bitwise-cuts-14-of-staff-while-still-expecting-growth.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
       "summary": "The flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.",
@@ -830,6 +880,17 @@
       "category": "监管",
       "slug": "20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day",
       "localUrl": "/news/20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUmY1Y21MSzkxNHZnNG1HWHRNRlBNQ1hpencxa3dLcDMyQXFMYnRiSEk4SGdwdHdhM1BBV1NBb2pBUDBpdlJrSXZzQmRZZzR6c1hSc252aUdCZXU5LUlPdmM2QQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 US regulator OCC …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUmY1Y21MSzkxNHZnNG1HWHRNRlBNQ1hpencxa3dLcDMyQXFMYnRiSEk4SGdwdHdhM1BBV1NBb2pBUDBpdlJrSXZzQmRZZzR6c1hSc252aUdCZXU5LUlPdmM2QQ?oc=5",
+      "publishedAt": "2026-08-12T17:45:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-breaking-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-b",
+      "localUrl": "/news/20260812-breaking-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-b.html"
     },
     {
       "source": "Decrypt",
@@ -845,17 +906,15 @@
       "localUrl": "/news/20260812-fidelity-files-to-let-its-ethereum-etf-stake-and-pay-investors.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "FlightAware drops Kalshi lawsuit one day after filing",
-      "summary": "Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as the entity behind verifying flight cancellation data.",
-      "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-12T16:58:52.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260812-flightaware-drops-kalshi-lawsuit-one-day-after-filing",
-      "localUrl": "/news/20260812-flightaware-drops-kalshi-lawsuit-one-day-after-filing.html"
+      "source": "X Wire",
+      "title": "The number of @Bitcoin $BTC holders continues to rise. Grayscale Research sees three trends supporting Bitcoin demand: •Government deficits: driving investors toward alternative stores of value like Bitcoin. •Blockchain adoption: stablecoins and tokenizatio - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wT1lYejVJM2g2bmJuT0tsbjVEVTVUQmJQTjlUeDNQMmRPNEJobjFJZjhGNEtUWjNDQ2R1TUJTeWs3b0RyREo0aGV4SWNra213eGtYcE85elllOW1KZU9R?oc=5\" target=\"_blank\">The number of @Bitcoin $BTC holders co…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wT1lYejVJM2g2bmJuT0tsbjVEVTVUQmJQTjlUeDNQMmRPNEJobjFJZjhGNEtUWjNDQ2R1TUJTeWs3b0RyREo0aGV4SWNra213eGtYcE85elllOW1KZU9R?oc=5",
+      "publishedAt": "2026-08-12T17:00:56.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-the-number-of-bitcoin-btc-holders-continues-to-rise-grayscale-research-sees-thre",
+      "localUrl": "/news/20260812-the-number-of-bitcoin-btc-holders-continues-to-rise-grayscale-research-sees-thre.html"
     },
     {
       "source": "X Wire",
@@ -942,43 +1001,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🇸🇻 INSIGHT: Five years on and El Salvador's Bitcoin experiment is in retreat. Some now argue it was really aimed at the Bitcoin community and had few lasting benefits for locals. cointelegraph.com/magazine/el-sa… - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5\" target=\"_blank\">🇸🇻 INSIGHT: Five years on and…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85X1Z4ZUxmeGZUWmVvR3liSEV1MUNISVRRR2NIdFVOaWd2dk1jOTJkTVRiOEpsMEhuNHFDRUJxMmkwRmxYZ2NxczEzZ25jNXZhWXVmYVBkandrV1V3MFlkdll6MnY?oc=5",
-      "publishedAt": "2026-08-12T14:31:01.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now",
-      "localUrl": "/news/20260812-insight-five-years-on-and-el-salvadors-bitcoin-experiment-is-in-retreat-some-now.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-      "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
-      "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-      "publishedAt": "2026-08-12T14:13:07.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-      "localUrl": "/news/20260812-a-routing-bug-took-solana-86-of-the-way-to-losing-finality.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-      "summary": "The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.",
-      "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-      "publishedAt": "2026-08-12T14:00:04.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260812-kalshi-adds-real-time-market-data-feed-through-doublezero",
-      "localUrl": "/news/20260812-kalshi-adds-real-time-market-data-feed-through-doublezero.html"
-    },
-    {
-      "source": "X Wire",
       "title": "CRYPTO CLIMBS AFTER CPI Cryptocurrencies moved higher after July CPI matched expectations, easing inflation concerns. Bitcoin rose 0.6% to $64,051, Ethereum gained 1.5% to $1,909, Solana added 0.8%, and XRP rose 0.2%. While CPI provided suppo - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNDVwcVhTblJXdXZkY1dPVkJ1bXowM2dLZWJ5OVlDakhmeHJFaHdvbWpkQXNGWjdRTjc3Rl83V2R2anZBZ3hWZy10aWZNM0N3ZDlBQ05NaTZ2eTNuOGc?oc=5\" target=\"_blank\">CRYPTO CLIMBS AFTER CPI Cryptocurrencie…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tNDVwcVhTblJXdXZkY1dPVkJ1bXowM2dLZWJ5OVlDakhmeHJFaHdvbWpkQXNGWjdRTjc3Rl83V2R2anZBZ3hWZy10aWZNM0N3ZDlBQ05NaTZ2eTNuOGc?oc=5",
@@ -1023,17 +1045,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 NEW: Bitwise cuts 14% of its workforce amid the crypto price slump, trimming staff to about 155 from 180. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5\" target=\"_blank\">🚨 NEW: Bitwise cuts 14% of its…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3eC15YW5aQlpjaFFrVWc0VmNXby1qbWt5WDB1dXY4ZFBoU3FMM2NHSkdPS0NMVmlZOE9paGVDeVdJTHdOekRXdExUYzlTbzN6ZHAwSENOMm1EWnJmUUNHRDNvVjc?oc=5",
-      "publishedAt": "2026-08-12T04:00:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-",
-      "localUrl": "/news/20260812-new-bitwise-cuts-14-of-its-workforce-amid-the-crypto-price-slump-trimming-staff-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Strategy CEO Phong Le: Company to Resume Bitcoin Purchases Later This Year According to FOX Business, Strategy CEO Phong Le stated that the company plans to resume accumulating Bitcoin later this year, despite recent sales of portions of its holdings t - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5\" target=\"_blank\">Strategy CEO Phong Le: Company t…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yU19qcWo0QXYzekhnbkVQNmc5VHJpMUdBSXVDanJHLWtCREZBa2FKRFpZQ292bzdtWGVfeUpMZzhrQm5SYVg3S1NiRWFyRXRwSEV4bEZ3ZXVtX2o0NDZxTjdJaw?oc=5",
@@ -1053,17 +1064,6 @@
       "category": "X热点",
       "slug": "20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo",
       "localUrl": "/news/20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇷🇺 Russia's central bank announces it approved Bitcoin for public trading on domestic exchanges, TASS reports. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5\" target=\"_blank\">BREAKING: 🇷🇺 Russia's cen…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41RjBzMWZQTEZsRE5tZ0dNMFd0dENVRDVzQUs1R0x2bF9pVjgteHd3VThJV3NQazVuYWYweFZNZVpjTmxualdXb2wzRmJnQUtTdXUwRlI5bDF6VURjZzgxS1hyb3Q3OTQ?oc=5",
-      "publishedAt": "2026-08-11T13:18:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o",
-      "localUrl": "/news/20260811-breaking-russias-central-bank-announces-it-approved-bitcoin-for-public-trading-o.html"
     },
     {
       "source": "Solana Blog",
