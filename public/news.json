@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-08-13T13:40:59.457Z",
+  "updatedAt": "2026-08-13T15:11:17.946Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The crypto advice gap",
+      "summary": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+      "publishedAt": "2026-08-13T15:00:00.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260813-crypto-for-advisors-the-crypto-advice-gap",
+      "localUrl": "/news/20260813-crypto-for-advisors-the-crypto-advice-gap.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
+      "summary": "The institutional crypto liquidity provider is bringing on the former Schroders Wealth Management Asia chairman as it targets family offices and asset managers across the region.",
+      "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+      "publishedAt": "2026-08-13T14:43:38.000Z",
+      "keywords": [
+        "Finance",
+        "B2C2",
+        "Crypto Trading",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260813-b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth",
+      "localUrl": "/news/20260813-b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
+      "summary": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
+      "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
+      "publishedAt": "2026-08-13T14:31:56.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260813-fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
+      "localUrl": "/news/20260813-fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
+      "summary": "The prediction-market platform raised $1 billion at a $22 billion valuation in May and is now discussing a new round that could nearly double that figure.",
+      "url": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
+      "publishedAt": "2026-08-13T14:16:06.000Z",
+      "keywords": [
+        "Finance",
+        "Kalshi",
+        "Prediction Markets",
+        "Funding Rounds",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260813-kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion",
+      "localUrl": "/news/20260813-kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
+      "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
+      "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
+      "publishedAt": "2026-08-13T14:01:03.000Z",
+      "keywords": [
+        "DeFi"
+      ],
+      "category": "基础设施",
+      "slug": "20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans",
+      "localUrl": "/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
+      "summary": "The online bank cut full-year revenue and profit forecasts after first-half crypto trading levels slumped.",
+      "url": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
+      "publishedAt": "2026-08-13T13:41:32.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260813-swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
+      "localUrl": "/news/20260813-swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
@@ -87,8 +175,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
-      "summary": "Digital asset sales slumped to $32.6 billion from $58.6 billiion a year earlier, but other revenues roughly doubled year-over-year to just shy of $65 billion.",
+      "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
+      "summary": "Bullish's second-quarter loss of $280 million was mostly attributable to a $244.6 million markdown on the company’s bitcoin holdings.",
       "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
       "publishedAt": "2026-08-13T12:09:58.000Z",
       "keywords": [
@@ -98,9 +186,9 @@
         "Crypto Trading",
         "News"
       ],
-      "category": "综合",
-      "slug": "20260813-bullish-q2-adjusted-earnings-in-line-as-rise-in-subscription-revenue-offsets-dig",
-      "localUrl": "/news/20260813-bullish-q2-adjusted-earnings-in-line-as-rise-in-subscription-revenue-offsets-dig.html"
+      "category": "监管",
+      "slug": "20260813-bullish-shares-surge-14-as-subscription-revenue-offsets-digital-asset-slowdown",
+      "localUrl": "/news/20260813-bullish-shares-surge-14-as-subscription-revenue-offsets-digital-asset-slowdown.html"
     },
     {
       "source": "Decrypt",
@@ -257,7 +345,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin continues flat near $63,500 as U.S. PPI softer than forecast in July",
+      "title": "Live updates: S&P 500 hits record high as U.S. PPI comes in softer than forecast in July",
       "summary": "An in-depth analysis of the U.S. CPI released Wednesday suggests the underlying price pressures remain sticky.",
       "url": "https://www.coindesk.com/tech/2026/08/13/live-markets-u-s-inflation-is-stickier-than-july-s-mild-cpi-suggests",
       "publishedAt": "2026-08-13T09:18:19.000Z",
@@ -268,8 +356,8 @@
         "live_news"
       ],
       "category": "市场",
-      "slug": "20260813-live-updates-bitcoin-continues-flat-near-63500-as-us-ppi-softer-than-forecast-in",
-      "localUrl": "/news/20260813-live-updates-bitcoin-continues-flat-near-63500-as-us-ppi-softer-than-forecast-in.html"
+      "slug": "20260813-live-updates-sp-500-hits-record-high-as-us-ppi-comes-in-softer-than-forecast-in-",
+      "localUrl": "/news/20260813-live-updates-sp-500-hits-record-high-as-us-ppi-comes-in-softer-than-forecast-in-.html"
     },
     {
       "source": "CoinDesk",
@@ -432,6 +520,17 @@
       "category": "X热点",
       "slug": "20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with",
       "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin more likely to crash below $35,000 than to reclaim $100,000 this year. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT0JIN201WjdWZ1E5akNVWkhsMHM5NnJEdENpZllGZ25PS0VNOS1TX3NVeEZXaEhydzZVWVUwdkJHUjctZDRTbzJWMV9ZTXlnMU9aWk9ORDNKbzdZUnh3Ug?oc=5\" target=\"_blank\">BREAKING: Bitcoin more likely to cra…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PT0JIN201WjdWZ1E5akNVWkhsMHM5NnJEdENpZllGZ25PS0VNOS1TX3NVeEZXaEhydzZVWVUwdkJHUjctZDRTbzJWMV9ZTXlnMU9aWk9ORDNKbzdZUnh3Ug?oc=5",
+      "publishedAt": "2026-08-13T02:40:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-breaking-bitcoin-more-likely-to-crash-below-35000-than-to-reclaim-100000-this-ye",
+      "localUrl": "/news/20260813-breaking-bitcoin-more-likely-to-crash-below-35000-than-to-reclaim-100000-this-ye.html"
     },
     {
       "source": "Cointelegraph",
@@ -607,6 +706,17 @@
       "localUrl": "/news/20260812-inner-thoughts-of-every-major-ai-model-exposed-in-massive-exploit.html"
     },
     {
+      "source": "X Wire",
+      "title": "BTC: Goldman Sachs is buying its way into the bitcoin income ETF race. The bank is acquiring NEOS Investments for up to $2.25B, picking up the $1.1B BTCI fund and going head-to-head with BlackRock's BITA. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuSzFrRXdka0ZwNVB3RjM2STFyNGVBSWtrbHZRNlE3YWtsank5RmlHVzRSU0ZKei1XRjczTTMySTJaQlEzcWNrRVhyazBoSk5RZW9oQWgtYWxtVHp0N1E?oc=5\" target=\"_blank\">BTC: Goldman Sachs is buying its way in…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuSzFrRXdka0ZwNVB3RjM2STFyNGVBSWtrbHZRNlE3YWtsank5RmlHVzRSU0ZKei1XRjczTTMySTJaQlEzcWNrRVhyazBoSk5RZW9oQWgtYWxtVHp0N1E?oc=5",
+      "publishedAt": "2026-08-12T20:28:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-btc-goldman-sachs-is-buying-its-way-into-the-bitcoin-income-etf-race-the-bank-is",
+      "localUrl": "/news/20260812-btc-goldman-sachs-is-buying-its-way-into-the-bitcoin-income-etf-race-the-bank-is.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
       "summary": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
@@ -722,22 +832,6 @@
       "localUrl": "/news/20260812-zoomsday-ai-used-to-build-critical-zoom-exploit-in-one-day.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
-      "summary": "The $2.25 billion deal expands Goldman’s derivative platform to $130 billion in total ETF assets, taking direct aim at BlackRock's rival BITA fund, according to an analyst.",
-      "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
-      "publishedAt": "2026-08-12T17:21:03.000Z",
-      "keywords": [
-        "Finance",
-        "ETFs",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260812-goldman-sachs-leaps-into-bitcoin-income-etfs-with-225-billion-neos-buyout",
-      "localUrl": "/news/20260812-goldman-sachs-leaps-into-bitcoin-income-etfs-with-225-billion-neos-buyout.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
       "summary": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
@@ -773,39 +867,6 @@
       "category": "X热点",
       "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
       "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
-      "summary": "The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.",
-      "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-      "publishedAt": "2026-08-12T16:34:24.000Z",
-      "keywords": [
-        "Finance",
-        "Wintermute",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260812-wintermute-plans-1-billion-ai-push-beyond-crypto-bloomberg",
-      "localUrl": "/news/20260812-wintermute-plans-1-billion-ai-push-beyond-crypto-bloomberg.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
-      "summary": "Kalshi is looking to meet institutional demands by adding DoubleZero data to its order book.",
-      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-      "publishedAt": "2026-08-12T16:14:49.000Z",
-      "keywords": [
-        "Finance",
-        "Kalshi",
-        "Solana News",
-        "Prediction Markets",
-        "Institutional Investors",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260812-kalshi-taps-doublezero-for-wall-street-style-high-speed-data-feed",
-      "localUrl": "/news/20260812-kalshi-taps-doublezero-for-wall-street-style-high-speed-data-feed.html"
     },
     {
       "source": "X Wire",
@@ -867,23 +928,6 @@
       "category": "市场",
       "slug": "20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34",
       "localUrl": "/news/20260812-why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "summary": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
-      "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-      "publishedAt": "2026-08-12T15:00:00.000Z",
-      "keywords": [
-        "Tech",
-        "Stablecoins",
-        "Privacy",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-      "localUrl": "/news/20260812-miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx.html"
     },
     {
       "source": "X Wire",
@@ -967,32 +1011,6 @@
       "localUrl": "/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-      "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
-      "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-      "publishedAt": "2026-08-12T12:12:40.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260812-morning-minute-the-cftc-bails-out-kalshi-in-ny",
-      "localUrl": "/news/20260812-morning-minute-the-cftc-bails-out-kalshi-in-ny.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-      "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
-      "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-      "publishedAt": "2026-08-12T12:06:36.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-      "localUrl": "/news/20260812-bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Harmony Exploited in Unauthorized Mint of 4 Billion ONE Harmony, a Layer 1 blockchain launched in 2019, said it is working with exchanges to stop and freeze funds following a suspected exploit, while developing a patch and evaluating rollback opt - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mR1Q2dkJlNHhsY3R6V2dtYnc4eEZXa3lqVHh0YlM4X3phcGV5MEJRU2pGczRHYi03T2x5WWlYNFF3bHkweEFqNlRIVzI5bEN5UXdWcWw5NEZKcVQ1cUJxakRVaw?oc=5\" target=\"_blank\">JUST IN: Harmony Exploited in Un…",
@@ -1035,28 +1053,6 @@
       "category": "X热点",
       "slug": "20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo",
       "localUrl": "/news/20260811-alert-bitcoin-sellers-are-showing-signs-of-exhaustion-but-a-historical-market-bo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday The SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering re - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5\" target=\"_blank\">SEC Could Unveil Tokenized Stock…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YVFJyaUxKQlVNcENvbU04aGpBc1hwOXRFbkpSWGRJQTJhaDMxU21jZkdMZ3lhRnpyOWxzN01oS1NkVXJRYjhZZ3lUUFlvdjVsVE5sSEU2SXRUaEdhN1VmREhKMA?oc=5",
-      "publishedAt": "2026-08-11T20:52:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla",
-      "localUrl": "/news/20260811-sec-could-unveil-tokenized-stock-trading-exemption-as-soon-as-friday-the-sec-pla.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "NEW: 🇺🇸 SEC to consider new rules for certain \"crypto asset\" investment contracts on Friday 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5\" target=\"_blank\">NEW: 🇺🇸 SEC to consider n…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSFNPVGM2eURtSWZRYVBsVWtkckVRS2cyM041R2FENnktbW4yUGxNOGpqTmNXb0xma2lkVmJYbFZvMVhVZjZpSlJRTVFDNGV1OEpwYUpoQk16T3YyLUVpQWk5Xy1Mazg?oc=5",
-      "publishedAt": "2026-08-11T14:55:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f",
-      "localUrl": "/news/20260811-new-sec-to-consider-new-rules-for-certain-crypto-asset-investment-contracts-on-f.html"
     },
     {
       "source": "X Wire",
