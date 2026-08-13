@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-13T22:58:23.626Z",
+  "updatedAt": "2026-08-13T23:54:20.704Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+      "summary": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T23:34:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260813-ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan",
+      "localUrl": "/news/20260813-ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "summary": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
+      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "publishedAt": "2026-08-13T23:09:14.000Z",
+      "keywords": [
+        "Policy",
+        "SEC",
+        "Tokenization",
+        "Breaking News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi",
+      "localUrl": "/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html"
+    },
     {
       "source": "Decrypt",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
@@ -320,17 +350,6 @@
       "localUrl": "/news/20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows.html"
     },
     {
-      "source": "X Wire",
-      "title": "Hacker Uses Google Search Ad for Hyperliquid to Phish Users, Causing About $550,000 in Losses According to DarcyAri, a hacker used a Google sponsored ad for “Hyperliquid” to lure users into a phishing site, resulting in a Google Search paid-ad phishing - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TVpHdEFQLWxWNmU3SHBLNDNtSlY3SXYyVkJ1MVotdVZsQkdDOE85QWJWWE5sTS15dDlIaVN0a3ZBeDN3WG9ValUzWEw4eGY0MFBLbzV1UkVfNl9tZm5hTVhGcw?oc=5\" target=\"_blank\">Hacker Uses Google Search Ad for…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TVpHdEFQLWxWNmU3SHBLNDNtSlY3SXYyVkJ1MVotdVZsQkdDOE85QWJWWE5sTS15dDlIaVN0a3ZBeDN3WG9ValUzWEw4eGY0MFBLbzV1UkVfNl9tZm5hTVhGcw?oc=5",
-      "publishedAt": "2026-08-13T15:42:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-hacker-uses-google-search-ad-for-hyperliquid-to-phish-users-causing-about-550000",
-      "localUrl": "/news/20260813-hacker-uses-google-search-ad-for-hyperliquid-to-phish-users-causing-about-550000.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
       "summary": "The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.",
@@ -355,17 +374,6 @@
       "category": "安全",
       "slug": "20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider",
       "localUrl": "/news/20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5",
-      "publishedAt": "2026-08-13T15:20:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks",
-      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html"
     },
     {
       "source": "X Wire",
@@ -838,30 +846,6 @@
       "localUrl": "/news/20260813-copper-us-arm-becomes-finra-member-sec-registered-broker-dealer.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin OG traders just had their most profitable cycle ever. Unlike past cycles, crypto exchange traders were not the exit liquidity. ETFs and DATs were. That structural bid pushed Binance traders' unrealized profits to nearly triple the 2021 top. 🧵 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUZmdEtrLWxacElCRGh2bmYySDJjNFZKeWJjQS1VYWIwSjZ4YlRuOW9Lbi1RSU5IUndDcm1TVEJjVEl2UXhoTndMWWZpUTFSVlZaTGhwNzNqdl96NDV6MzR3?oc=5\" target=\"_blank\">Bitcoin OG traders just had their …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15bUZmdEtrLWxacElCRGh2bmYySDJjNFZKeWJjQS1VYWIwSjZ4YlRuOW9Lbi1RSU5IUndDcm1TVEJjVEl2UXhoTndMWWZpUTFSVlZaTGhwNzNqdl96NDV6MzR3?oc=5",
-      "publishedAt": "2026-08-13T07:10:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-",
-      "localUrl": "/news/20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T06:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260813-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260813-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Metaplanet denies selling bitcoin worth $320 million",
       "summary": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
@@ -891,18 +875,15 @@
       "localUrl": "/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
-      "summary": "Futures positioning has rebuilt to levels last seen when dogecoin traded at three times today's price, and more than three accounts are betting on a rebound for every one betting against.",
-      "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
-      "publishedAt": "2026-08-13T04:06:16.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
-      "localUrl": "/news/20260813-speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70.html"
+      "source": "X Wire",
+      "title": "Solana was supposed to be the “Ethereum killer.” Faster Cheaper More scalable But one data center glitch revealed a very different picture: • 29% of all staked SOL went offline within minutes • 94% of that stake was concentrated with one provider • The networ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUEFXem9nOTFxNTJaLThCbnA2WDBuUDNVeVFpOEVnNG5CcVJoZUhRZWtyd0RVMEVMVXg1OEV6MHBDbG1mdXZHTFhEVnMzSThoOG5FZnZ4dWZfaEpVa3FZ?oc=5\" target=\"_blank\">Solana was supposed to be the “Ethereu…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUEFXem9nOTFxNTJaLThCbnA2WDBuUDNVeVFpOEVnNG5CcVJoZUhRZWtyd0RVMEVMVXg1OEV6MHBDbG1mdXZHTFhEVnMzSThoOG5FZnZ4dWZfaEpVa3FZ?oc=5",
+      "publishedAt": "2026-08-13T05:01:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o",
+      "localUrl": "/news/20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o.html"
     },
     {
       "source": "X Wire",
@@ -925,6 +906,17 @@
       "category": "X热点",
       "slug": "20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with",
       "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "GSR Model Makes Solana Top Allocation to 43.6%, Cuts Bitcoin to 16.9% GSR’s Core3 model portfolio raised its Solana allocation to 43.6%, making SOL its largest position, while cutting Ether to 39.5% and Bitcoin to just 16.9%, as the model’s relative alpha si - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DVjlxMWVwcnU3NGZhLURXUWNJaWh5dHIzZnhHWkZaTFhUcndzaUdMeEJTbXNVNFlfdnBzSGtDZjJJM3hkelNyX3ZQcGVtUGxuV1BkWElfajZRSEF0ZW1uMk9UZw?oc=5\" target=\"_blank\">GSR Model Makes Solana Top Alloc…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DVjlxMWVwcnU3NGZhLURXUWNJaWh5dHIzZnhHWkZaTFhUcndzaUdMeEJTbXNVNFlfdnBzSGtDZjJJM3hkelNyX3ZQcGVtUGxuV1BkWElfajZRSEF0ZW1uMk9UZw?oc=5",
+      "publishedAt": "2026-08-13T02:04:54.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-gsr-model-makes-solana-top-allocation-to-436-cuts-bitcoin-to-169-gsrs-core3-mode",
+      "localUrl": "/news/20260813-gsr-model-makes-solana-top-allocation-to-436-cuts-bitcoin-to-169-gsrs-core3-mode.html"
     },
     {
       "source": "X Wire",
@@ -1028,6 +1020,17 @@
       "category": "X热点",
       "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
       "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: The OCC says crypto companies should be able to apply for U.S. bank charters, opening a potential path for digital asset firms to access the national banking system. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5\" target=\"_blank\">JUST IN: The OCC says crypto companies …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5",
+      "publishedAt": "2026-08-12T15:42:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte",
+      "localUrl": "/news/20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte.html"
     },
     {
       "source": "X Wire",
