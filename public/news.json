@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-13T20:58:47.784Z",
+  "updatedAt": "2026-08-13T21:58:48.159Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+      "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
+      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+      "publishedAt": "2026-08-13T21:45:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-quotes-are-unhinged",
+      "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-quotes-are-unhinged.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+      "summary": "6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
+      "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+      "publishedAt": "2026-08-13T21:16:05.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures",
+      "localUrl": "/news/20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "City of Baltimore goes after prediction markets for sports betting",
+      "summary": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
+      "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-13T21:08:23.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting",
+      "localUrl": "/news/20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Tether completes first full financial audit, receives clean KPMG opinion",
@@ -251,6 +290,17 @@
       "category": "市场",
       "slug": "20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows",
       "localUrl": "/news/20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Hacker Uses Google Search Ad for Hyperliquid to Phish Users, Causing About $550,000 in Losses According to DarcyAri, a hacker used a Google sponsored ad for “Hyperliquid” to lure users into a phishing site, resulting in a Google Search paid-ad phishing - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TVpHdEFQLWxWNmU3SHBLNDNtSlY3SXYyVkJ1MVotdVZsQkdDOE85QWJWWE5sTS15dDlIaVN0a3ZBeDN3WG9ValUzWEw4eGY0MFBLbzV1UkVfNl9tZm5hTVhGcw?oc=5\" target=\"_blank\">Hacker Uses Google Search Ad for…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54TVpHdEFQLWxWNmU3SHBLNDNtSlY3SXYyVkJ1MVotdVZsQkdDOE85QWJWWE5sTS15dDlIaVN0a3ZBeDN3WG9ValUzWEw4eGY0MFBLbzV1UkVfNl9tZm5hTVhGcw?oc=5",
+      "publishedAt": "2026-08-13T15:42:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-hacker-uses-google-search-ad-for-hyperliquid-to-phish-users-causing-about-550000",
+      "localUrl": "/news/20260813-hacker-uses-google-search-ad-for-hyperliquid-to-phish-users-causing-about-550000.html"
     },
     {
       "source": "Cointelegraph",
@@ -802,19 +852,6 @@
       "localUrl": "/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-      "summary": "Bitwise’s Matt Hougan said he expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
-      "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T05:01:42.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio",
-      "localUrl": "/news/20260813-crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
       "summary": "Futures positioning has rebuilt to levels last seen when dogecoin traded at three times today's price, and more than three accounts are betting on a rebound for every one betting against.",
@@ -937,19 +974,6 @@
       "localUrl": "/news/20260812-chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price.html"
     },
     {
-      "source": "Decrypt",
-      "title": "SpaceXAI Wants Grok Bot to Do Your Job—But It Needs Access to Your Accounts",
-      "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
-      "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
-      "publishedAt": "2026-08-12T19:31:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260812-spacexai-wants-grok-bot-to-do-your-jobbut-it-needs-access-to-your-accounts",
-      "localUrl": "/news/20260812-spacexai-wants-grok-bot-to-do-your-jobbut-it-needs-access-to-your-accounts.html"
-    },
-    {
       "source": "X Wire",
       "title": "Wrapped bitcoin should be neutral market infrastructure. cirBTC is designed for institutions that need BTC collateral with 1:1 backing, onchain reserve verification, disciplined custody, and an issuer that does not operate a competing CEX, DEX, or lending proto - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hbHhpZlpLc0lXNDVDZU9JRUgyUTlGcndmZE1EWFVuZUV5Nm5IVVZvNXFqT1pfQUxuT0pfMEF3QTBRVE40ZEVDQk1YTVl0cTZpdDh5WFZscUJvdlE?oc=5\" target=\"_blank\">Wrapped bitcoin should be neutral market in…",
@@ -959,19 +983,6 @@
       "category": "X热点",
       "slug": "20260812-wrapped-bitcoin-should-be-neutral-market-infrastructure-cirbtc-is-designed-for-i",
       "localUrl": "/news/20260812-wrapped-bitcoin-should-be-neutral-market-infrastructure-cirbtc-is-designed-for-i.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
-      "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
-      "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
-      "publishedAt": "2026-08-12T18:58:26.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260812-goldman-sachs-225b-neos-deal-hands-it-ready-made-bitcoin-income-etf-business",
-      "localUrl": "/news/20260812-goldman-sachs-225b-neos-deal-hands-it-ready-made-bitcoin-income-etf-business.html"
     },
     {
       "source": "X Wire",
@@ -1016,17 +1027,6 @@
       "category": "X热点",
       "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
       "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: The OCC says crypto companies should be able to apply for U.S. bank charters, opening a potential path for digital asset firms to access the national banking system. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5\" target=\"_blank\">JUST IN: The OCC says crypto companies …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01NWtXSzB3N0ZMYUUzUERoWDM1b21oY2IwQ1NOOGNSUFcxMjZtSTZ3YW1kUTRLM2daM3NvM0QzemlEVERWbFU1d0l1cGlWS0JWVGNiYkdlelJLd0xvbEE?oc=5",
-      "publishedAt": "2026-08-12T15:42:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte",
-      "localUrl": "/news/20260812-just-in-the-occ-says-crypto-companies-should-be-able-to-apply-for-us-bank-charte.html"
     },
     {
       "source": "X Wire",
