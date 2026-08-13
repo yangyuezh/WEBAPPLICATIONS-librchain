@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-08-13T21:58:48.159Z",
+  "updatedAt": "2026-08-13T22:58:23.626Z",
   "total": 83,
   "items": [
     {
       "source": "Decrypt",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Quotes Are Unhinged",
+      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+      "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
+      "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+      "publishedAt": "2026-08-13T22:36:07.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws",
+      "localUrl": "/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "summary": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
+      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "publishedAt": "2026-08-13T22:18:07.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d",
+      "localUrl": "/news/20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
       "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
       "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
       "publishedAt": "2026-08-13T21:45:04.000Z",
@@ -12,8 +40,8 @@
         "Artificial Intelligence"
       ],
       "category": "综合",
-      "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-quotes-are-unhinged",
-      "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-quotes-are-unhinged.html"
+      "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged",
+      "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html"
     },
     {
       "source": "Decrypt",
@@ -460,6 +488,17 @@
       "localUrl": "/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5",
+      "publishedAt": "2026-08-13T13:54:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom",
+      "localUrl": "/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
       "summary": "The online bank cut full-year revenue and profit forecasts after first-half crypto trading levels slumped.",
@@ -866,20 +905,6 @@
       "localUrl": "/news/20260813-speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
-      "summary": "An in-line inflation print removed a tail risk but gave BTC little reason to rally, leaving Jackson Hole, jobs data and the next CPI release as the market’s next catalysts.",
-      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
-      "publishedAt": "2026-08-13T03:39:06.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-bitcoin-slips-near-63500-as-traders-look-past-cpi-to-feds-next-tests",
-      "localUrl": "/news/20260813-bitcoin-slips-near-63500-as-traders-look-past-cpi-to-feds-next-tests.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin Spot Volume Hits Lowest Since 2019 as Glassnode Flags $58,500 Downside Risk Bitcoin spot exchange volume has fallen to its lowest level since Glassnode’s data series began in early 2019, with BTC caught between the $63,000 Median Realized P - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5POHAyOWpILXFjeUtIc2xPNnpMM2NzWG41NzRTbm1hclJ4M0FyLXY3WlhUTkxYREQxX2l2YTFnQkNCangxNUZxMG9Hd2VmaFBRUFBHb3RVX1ZPWGFpaVRSdkpiMA?oc=5\" target=\"_blank\">Bitcoin Spot Volume Hits Lowest …",
@@ -961,19 +986,6 @@
       "localUrl": "/news/20260812-btc-goldman-sachs-is-buying-its-way-into-the-bitcoin-income-etf-race-the-bank-is.html"
     },
     {
-      "source": "Decrypt",
-      "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-      "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.",
-      "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
-      "publishedAt": "2026-08-12T20:01:05.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "基础设施",
-      "slug": "20260812-chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price",
-      "localUrl": "/news/20260812-chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price.html"
-    },
-    {
       "source": "X Wire",
       "title": "Wrapped bitcoin should be neutral market infrastructure. cirBTC is designed for institutions that need BTC collateral with 1:1 backing, onchain reserve verification, disciplined custody, and an issuer that does not operate a competing CEX, DEX, or lending proto - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hbHhpZlpLc0lXNDVDZU9JRUgyUTlGcndmZE1EWFVuZUV5Nm5IVVZvNXFqT1pfQUxuT0pfMEF3QTBRVE40ZEVDQk1YTVl0cTZpdDh5WFZscUJvdlE?oc=5\" target=\"_blank\">Wrapped bitcoin should be neutral market in…",
@@ -994,17 +1006,6 @@
       "category": "X热点",
       "slug": "20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in",
       "localUrl": "/news/20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUmY1Y21MSzkxNHZnNG1HWHRNRlBNQ1hpencxa3dLcDMyQXFMYnRiSEk4SGdwdHdhM1BBV1NBb2pBUDBpdlJrSXZzQmRZZzR6c1hSc252aUdCZXU5LUlPdmM2QQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 US regulator OCC …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLUmY1Y21MSzkxNHZnNG1HWHRNRlBNQ1hpencxa3dLcDMyQXFMYnRiSEk4SGdwdHdhM1BBV1NBb2pBUDBpdlJrSXZzQmRZZzR6c1hSc252aUdCZXU5LUlPdmM2QQ?oc=5",
-      "publishedAt": "2026-08-12T17:45:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-breaking-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-b",
-      "localUrl": "/news/20260812-breaking-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-b.html"
     },
     {
       "source": "X Wire",
