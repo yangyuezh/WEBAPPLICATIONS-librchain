@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-14T11:53:32.020Z",
+  "updatedAt": "2026-08-14T13:36:10.885Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
+      "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
+      "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
+      "publishedAt": "2026-08-14T12:38:39.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
+      "localUrl": "/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
+      "summary": "Credit card and staking revenue drove Gemini’s services growth in Q2 as exchange revenue fell 38% and trading volume dropped by two-thirds.",
+      "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T12:02:08.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth",
+      "localUrl": "/news/20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth.html"
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: Tether Finally Gets An Audit",
@@ -17,7 +43,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
       "summary": "Your day-ahead look for Aug. 14, 2026",
       "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
       "publishedAt": "2026-08-14T11:33:50.000Z",
@@ -26,9 +52,9 @@
         "Crypto Daybook Americas",
         "News"
       ],
-      "category": "市场",
-      "slug": "20260814-volatility-exits-crypto-tradfi-markets-even-as-us-iran-risks-linger-sovereign-de",
-      "localUrl": "/news/20260814-volatility-exits-crypto-tradfi-markets-even-as-us-iran-risks-linger-sovereign-de.html"
+      "category": "RWA",
+      "slug": "20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds",
+      "localUrl": "/news/20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds.html"
     },
     {
       "source": "Cointelegraph",
@@ -452,17 +478,6 @@
       "localUrl": "/news/20260813-just-in-white-house-to-meet-with-top-crypto-executives-next-week-xcom.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
-      "publishedAt": "2026-08-13T19:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin",
-      "localUrl": "/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
       "summary": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
@@ -681,6 +696,17 @@
       "category": "RWA",
       "slug": "20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds",
       "localUrl": "/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$BTC Every bear cycle, Bitcoin has always smacked into the purple and green bands. This cycle, that zone sits right around 48–52K. With roughly 1.5 months of bear‑market price action left, it’s completely realistic. But if we roll through October/November witho - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZm95Z0ludEtvT2xSNktIMW1lRTdnWWd5T1BDdXZFaHRISEhXbFV4R0ZNWWpRUmF6dElwNXk1Wkkta0tfRXpHMGw2bHhXU3pFTDExemRKT0V4eU1wcVE?oc=5\" target=\"_blank\">$BTC Every bear cycle, Bitcoin has alwa…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZm95Z0ludEtvT2xSNktIMW1lRTdnWWd5T1BDdXZFaHRISEhXbFV4R0ZNWWpRUmF6dElwNXk1Wkkta0tfRXpHMGw2bHhXU3pFTDExemRKT0V4eU1wcVE?oc=5",
+      "publishedAt": "2026-08-13T16:06:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-btc-every-bear-cycle-bitcoin-has-always-smacked-into-the-purple-and-green-bands-",
+      "localUrl": "/news/20260813-btc-every-bear-cycle-bitcoin-has-always-smacked-into-the-purple-and-green-bands-.html"
     },
     {
       "source": "Decrypt",
@@ -945,19 +971,6 @@
       "localUrl": "/news/20260813-figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
-      "summary": "Bitmine’s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether’s price appreciation, analysts told Cointelegraph.",
-      "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T13:14:48.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260813-bitmines-257m-annualized-staking-income-fills-operational-gaps-share-buybacks-an",
-      "localUrl": "/news/20260813-bitmines-257m-annualized-staking-income-fills-operational-gaps-share-buybacks-an.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
       "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
@@ -1012,19 +1025,6 @@
       "category": "监管",
       "slug": "20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks",
       "localUrl": "/news/20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-      "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
-      "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-      "publishedAt": "2026-08-13T11:42:27.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260813-twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-      "localUrl": "/news/20260813-twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in.html"
     },
     {
       "source": "X Wire",

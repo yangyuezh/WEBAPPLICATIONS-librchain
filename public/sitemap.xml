@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T11:53:32.051Z</lastmod>
+    <lastmod>2026-08-14T13:36:10.925Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T11:53:32.051Z</lastmod>
+    <lastmod>2026-08-14T13:36:10.925Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html</loc>
+    <lastmod>2026-08-14T12:38:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth.html</loc>
+    <lastmod>2026-08-14T12:02:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-morning-minute-tether-finally-gets-an-audit.html</loc>
@@ -19,7 +31,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-volatility-exits-crypto-tradfi-markets-even-as-us-iran-risks-linger-sovereign-de.html</loc>
+    <loc>https://www.librchain.com/news/20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds.html</loc>
     <lastmod>2026-08-14T11:33:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -211,12 +223,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html</loc>
-    <lastmod>2026-08-13T19:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea.html</loc>
     <lastmod>2026-08-13T19:21:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -315,6 +321,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html</loc>
     <lastmod>2026-08-13T16:40:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-btc-every-bear-cycle-bitcoin-has-always-smacked-into-the-purple-and-green-bands-.html</loc>
+    <lastmod>2026-08-13T16:06:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-bitmines-257m-annualized-staking-income-fills-operational-gaps-share-buybacks-an.html</loc>
-    <lastmod>2026-08-13T13:14:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-trezor-customer-data-exposed-in-shipping-partner-breach.html</loc>
     <lastmod>2026-08-13T13:10:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks.html</loc>
     <lastmod>2026-08-13T11:53:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in.html</loc>
-    <lastmod>2026-08-13T11:42:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
