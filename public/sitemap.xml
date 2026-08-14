@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T17:07:10.342Z</lastmod>
+    <lastmod>2026-08-14T18:05:30.183Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T17:07:10.342Z</lastmod>
+    <lastmod>2026-08-14T18:05:30.183Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus.html</loc>
+    <lastmod>2026-08-14T17:48:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy.html</loc>
+    <lastmod>2026-08-14T17:46:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-israels-largest-bank-will-give-bitcoin-trading-another-try.html</loc>
+    <lastmod>2026-08-14T17:14:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html</loc>
+    <lastmod>2026-08-14T17:03:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html</loc>
@@ -93,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html</loc>
     <lastmod>2026-08-14T12:38:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-just-in-binance-will-stop-processing-transactions-involving-11-crypto-platforms-.html</loc>
+    <lastmod>2026-08-14T12:21:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,12 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-update-the-sec-abruptly-canceled-fridays-vote-on-proposed-crypto-exemptions-for-.html</loc>
-    <lastmod>2026-08-13T22:20:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d.html</loc>
     <lastmod>2026-08-13T22:18:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +327,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting.html</loc>
     <lastmod>2026-08-13T21:08:23.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion.html</loc>
-    <lastmod>2026-08-13T20:43:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +493,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html</loc>
-    <lastmod>2026-08-13T14:01:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
     <lastmod>2026-08-13T13:54:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,18 +505,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-50-m.html</loc>
-    <lastmod>2026-08-13T13:37:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-trezor-customer-data-exposed-in-shipping-partner-breach.html</loc>
-    <lastmod>2026-08-13T13:10:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html</loc>
     <lastmod>2026-08-12T12:57:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -513,12 +513,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260811-moneygram-ramps-launches-on-solana.html</loc>
     <lastmod>2026-08-11T10:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html</loc>
-    <lastmod>2026-08-10T17:09:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

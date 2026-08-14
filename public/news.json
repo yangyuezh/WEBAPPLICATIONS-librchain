@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-14T17:07:10.301Z",
-  "total": 85,
+  "updatedAt": "2026-08-14T18:05:30.141Z",
+  "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
+      "summary": "Bullish, Coinbase, and Circle were among the names lower on Friday after the regulatory setback.",
+      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "publishedAt": "2026-08-14T17:48:04.000Z",
+      "keywords": [
+        "Markets",
+        "Tokenization",
+        "Market Wrap",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus",
+      "localUrl": "/news/20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+      "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
+      "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
+      "publishedAt": "2026-08-14T17:46:06.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "市场",
+      "slug": "20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy",
+      "localUrl": "/news/20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
+      "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
+      "publishedAt": "2026-08-14T17:14:02.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260814-israels-largest-bank-will-give-bitcoin-trading-another-try",
+      "localUrl": "/news/20260814-israels-largest-bank-will-give-bitcoin-trading-another-try.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "summary": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
+      "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T17:03:38.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-",
+      "localUrl": "/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
@@ -195,6 +250,17 @@
       "category": "监管",
       "slug": "20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
       "localUrl": "/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 JUST IN: Binance will stop processing transactions involving 11 crypto platforms, including HTX and EXMO, from Aug. 23. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTkJPY1J3QnBUU3ZuekFaYmVtWXBoNDRnSWVfQ2lTN0lQMXRzUHhheXJ6dllHZDh1U01iNEhiSnFFcnAxcEtQYUtFc3lVb2w5cE0wRHRYOTg2d25hdkVGcmlqMWY?oc=5\" target=\"_blank\">🚨 JUST IN: Binance will stop p…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTkJPY1J3QnBUU3ZuekFaYmVtWXBoNDRnSWVfQ2lTN0lQMXRzUHhheXJ6dllHZDh1U01iNEhiSnFFcnAxcEtQYUtFc3lVb2w5cE0wRHRYOTg2d25hdkVGcmlqMWY?oc=5",
+      "publishedAt": "2026-08-14T12:21:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-just-in-binance-will-stop-processing-transactions-involving-11-crypto-platforms-",
+      "localUrl": "/news/20260814-just-in-binance-will-stop-processing-transactions-involving-11-crypto-platforms-.html"
     },
     {
       "source": "X Wire",
@@ -590,17 +656,6 @@
       "localUrl": "/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇺🇸 UPDATE: The SEC abruptly canceled Friday’s vote on proposed crypto exemptions for startup fundraising, citing an unforeseen scheduling issue. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4QVpGRS1HVmhRNXI0cElRX29fYU02aHVMNzZBN0VBMGxJaHJCMWxUdzNieF9mUDhnNDlfMEs2emNkeEhxWWFQbDlfMDV2Y3ZJSDJiWVROMkVUalNOVHppMVdFcmc?oc=5\" target=\"_blank\">🇺🇸 UPDATE: The SEC abruptly c…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4QVpGRS1HVmhRNXI0cElRX29fYU02aHVMNzZBN0VBMGxJaHJCMWxUdzNieF9mUDhnNDlfMEs2emNkeEhxWWFQbDlfMDV2Y3ZJSDJiWVROMkVUalNOVHppMVdFcmc?oc=5",
-      "publishedAt": "2026-08-13T22:20:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-update-the-sec-abruptly-canceled-fridays-vote-on-proposed-crypto-exemptions-for-",
-      "localUrl": "/news/20260813-update-the-sec-abruptly-canceled-fridays-vote-on-proposed-crypto-exemptions-for-.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
       "summary": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
@@ -664,19 +719,6 @@
       "category": "监管",
       "slug": "20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting",
       "localUrl": "/news/20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-      "summary": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
-      "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T20:43:12.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion",
-      "localUrl": "/news/20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion.html"
     },
     {
       "source": "Decrypt",
@@ -1022,19 +1064,6 @@
       "localUrl": "/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
-      "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
-      "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
-      "publishedAt": "2026-08-13T14:01:03.000Z",
-      "keywords": [
-        "DeFi"
-      ],
-      "category": "基础设施",
-      "slug": "20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans",
-      "localUrl": "/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
@@ -1061,35 +1090,6 @@
       "localUrl": "/news/20260813-swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
-      "summary": "A South Korean court sentenced the head of centralized finance (CeFi) lender Delio to 15 years in prison for embezzling digital assets from more than 1,100 customers.",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
-      "publishedAt": "2026-08-13T13:37:56.000Z",
-      "keywords": [
-        "Finance",
-        "Fraud",
-        "Crime",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260813-crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-50-m",
-      "localUrl": "/news/20260813-crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-50-m.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
-      "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
-      "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
-      "publishedAt": "2026-08-13T13:10:43.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "安全",
-      "slug": "20260813-trezor-customer-data-exposed-in-shipping-partner-breach",
-      "localUrl": "/news/20260813-trezor-customer-data-exposed-in-shipping-partner-breach.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Why Asia Is Ahead on Stablecoins, According to Reap's Daren Guo",
       "summary": "Reap moves roughly $6B a year in stablecoin card volume after building cross-border payments infrastructure from Asia.",
@@ -1110,28 +1110,6 @@
       "category": "基础设施",
       "slug": "20260811-moneygram-ramps-launches-on-solana",
       "localUrl": "/news/20260811-moneygram-ramps-launches-on-solana.html"
-    },
-    {
-      "source": "Chainalysis Blog",
-      "title": "Understanding the FATF’s DeFi Report: A Functional Approach to Decentralized Finance Regulation",
-      "summary": "Summary The FATF just released its first DeFi-specific report: Acknowledging DeFi’s operational benefits, the global AML/CFT standard-setter explains how jurisdictions,… The post Understanding the FATF’s DeFi Report: A Functional Approach …",
-      "url": "https://www.chainalysis.com/blog/understanding-fatf-defi-report-july-2026/",
-      "publishedAt": "2026-08-10T17:09:55.000Z",
-      "keywords": [
-        "Policy & Regulation",
-        "AML",
-        "blockchain intelligence",
-        "cft",
-        "Compliance",
-        "DeFi",
-        "FATF",
-        "governance",
-        "Markets",
-        "Regulation"
-      ],
-      "category": "监管",
-      "slug": "20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan",
-      "localUrl": "/news/20260810-understanding-the-fatfs-defi-report-a-functional-approach-to-decentralized-finan.html"
     }
   ]
 }
