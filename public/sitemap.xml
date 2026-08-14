@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T06:38:48.718Z</lastmod>
+    <lastmod>2026-08-14T08:34:56.899Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T06:38:48.718Z</lastmod>
+    <lastmod>2026-08-14T08:34:56.899Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds.html</loc>
+    <lastmod>2026-08-14T08:22:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-sec-cancels-key-crypto-regulatory-meeting.html</loc>
+    <lastmod>2026-08-14T08:02:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1.html</loc>
+    <lastmod>2026-08-14T07:14:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html</loc>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-figure-reports-43b-in-loan-marketplace-volume-as-profit-nearly-triples.html</loc>
     <lastmod>2026-08-14T02:06:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-.html</loc>
+    <lastmod>2026-08-14T00:06:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -93,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion.html</loc>
     <lastmod>2026-08-13T20:43:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-just-in-the-white-house-is-expected-to-host-crypto-and-prediction-market-executi.html</loc>
+    <lastmod>2026-08-13T20:39:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -289,6 +319,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-update-a-usenix-study-found-65340-abusive-crypto-addresses-tied-to-5748m-in-loss.html</loc>
+    <lastmod>2026-08-13T14:07:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260813-ethereum-defi-platform-etherfi-adds-tokenized-stocks-and-portfolio-backed-loans.html</loc>
     <lastmod>2026-08-13T14:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,32 +445,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-bitcoin-speculators-keep-btc-price-pinned-below-687k-glassnode.html</loc>
-    <lastmod>2026-08-13T09:37:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-live-updates-bitcoin-slips-back-even-as-fed-rate-hike-expectations-dwindle.html</loc>
     <lastmod>2026-08-13T09:18:19.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-13-million-private-deb.html</loc>
-    <lastmod>2026-08-13T09:14:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-securitize-falls-16-after-earnings-miss-tokenization-revenue-drops.html</loc>
-    <lastmod>2026-08-13T08:29:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-.html</loc>
-    <lastmod>2026-08-13T07:10:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,6 +469,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-latest-bitcoin-drops-down-to-its-cost-of-production-zone-a-level-historically-as.html</loc>
+    <lastmod>2026-08-13T02:02:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html</loc>
     <lastmod>2026-08-12T21:31:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,24 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-inner-thoughts-of-every-major-ai-model-exposed-in-massive-exploit.html</loc>
     <lastmod>2026-08-12T20:31:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-btc-goldman-sachs-is-buying-its-way-into-the-bitcoin-income-etf-race-the-bank-is.html</loc>
-    <lastmod>2026-08-12T20:28:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-just-in-goldman-sachs-acquires-neos-including-1-billion-in-their-bitcoin-high-in.html</loc>
-    <lastmod>2026-08-12T18:13:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-the-number-of-bitcoin-btc-holders-continues-to-rise-grayscale-research-sees-thre.html</loc>
-    <lastmod>2026-08-12T17:00:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
