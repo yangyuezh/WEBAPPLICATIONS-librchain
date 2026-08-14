@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-14T15:04:13.491Z",
+  "updatedAt": "2026-08-14T16:02:40.475Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+      "summary": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
+      "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T15:41:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260814-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading",
+      "localUrl": "/news/20260814-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
+      "summary": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T15:29:13.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call",
+      "localUrl": "/news/20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call.html"
+    },
     {
       "source": "Decrypt",
       "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
@@ -349,7 +375,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
+      "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
       "summary": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
       "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
       "publishedAt": "2026-08-14T08:51:48.000Z",
@@ -361,8 +387,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260814-live-updates-bitcoin-slips-below-63000-as-oil-yields-climb",
-      "localUrl": "/news/20260814-live-updates-bitcoin-slips-below-63000-as-oil-yields-climb.html"
+      "slug": "20260814-live-updates-bitcoin-slips-below-63000-msci-threatens-to-exclude-strategy-from-i",
+      "localUrl": "/news/20260814-live-updates-bitcoin-slips-below-63000-msci-threatens-to-exclude-strategy-from-i.html"
     },
     {
       "source": "X Wire",
@@ -643,17 +669,6 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 White House to meet with top crypto executives next week. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OUzRuOVVYZnJJbzdBSDhGWGVaTl9UWEZCRGdPWWlDYlZRbm5CcXVleVR5eGpuaVNlOURqcXYtYk1sNXBlaWVpLVlNRThUYnUyaGxIMFl2SEtPT2g3VGRWWVBB?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 White House to meet …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OUzRuOVVYZnJJbzdBSDhGWGVaTl9UWEZCRGdPWWlDYlZRbm5CcXVleVR5eGpuaVNlOURqcXYtYk1sNXBlaWVpLVlNRThUYnUyaGxIMFl2SEtPT2g3VGRWWVBB?oc=5",
-      "publishedAt": "2026-08-13T20:11:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-white-house-to-meet-with-top-crypto-executives-next-week-xcom",
-      "localUrl": "/news/20260813-just-in-white-house-to-meet-with-top-crypto-executives-next-week-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
@@ -662,19 +677,6 @@
       "category": "X热点",
       "slug": "20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin",
       "localUrl": "/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
-      "summary": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
-      "url": "https://cointelegraph.com/news/delio-ceo-prison-crypto-fraud-south-korea?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T19:21:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260813-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea",
-      "localUrl": "/news/20260813-delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea.html"
     },
     {
       "source": "Decrypt",
@@ -752,19 +754,6 @@
       "category": "安全",
       "slug": "20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk",
       "localUrl": "/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CFTC to join SEC in exploring crypto regulations without CLARITY bill",
-      "summary": "The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, artificial intelligence and prediction markets.",
-      "url": "https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T18:18:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260813-cftc-to-join-sec-in-exploring-crypto-regulations-without-clarity-bill",
-      "localUrl": "/news/20260813-cftc-to-join-sec-in-exploring-crypto-regulations-without-clarity-bill.html"
     },
     {
       "source": "X Wire",
@@ -1077,6 +1066,17 @@
       "category": "X热点",
       "slug": "20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o",
       "localUrl": "/news/20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin is now trading in its \"Cost of Production\" zone, typically the sign of a bear market bottom. 👀 HODL 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5\" target=\"_blank\">JUST IN: Bitcoin is now tra…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5",
+      "publishedAt": "2026-08-12T16:55:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
+      "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
     },
     {
       "source": "Solana Blog",
