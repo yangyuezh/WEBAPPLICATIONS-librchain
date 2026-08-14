@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T18:05:30.183Z</lastmod>
+    <lastmod>2026-08-14T19:11:23.868Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T18:05:30.183Z</lastmod>
+    <lastmod>2026-08-14T19:11:23.868Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html</loc>
+    <lastmod>2026-08-14T19:01:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-dartmouth-endowments-crypto-exposure-drops-by-2m-amid-falling-prices.html</loc>
+    <lastmod>2026-08-14T18:57:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-kraken-parent-payward-revenue-rises-17-as-trading-volume-falls-in-q2.html</loc>
+    <lastmod>2026-08-14T18:44:21.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack.html</loc>
+    <lastmod>2026-08-14T18:31:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus.html</loc>
@@ -33,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html</loc>
     <lastmod>2026-08-14T17:03:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-spread-bitcoin-with-love-xcom.html</loc>
+    <lastmod>2026-08-14T16:52:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -229,6 +259,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html</loc>
+    <lastmod>2026-08-14T08:39:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds.html</loc>
     <lastmod>2026-08-14T08:22:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -283,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan.html</loc>
-    <lastmod>2026-08-13T23:34:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html</loc>
     <lastmod>2026-08-13T23:09:14.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures.html</loc>
     <lastmod>2026-08-13T21:16:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting.html</loc>
-    <lastmod>2026-08-13T21:08:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,20 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-bitcoin-falls-back-under-63000-xcom.html</loc>
-    <lastmod>2026-08-13T16:42:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html</loc>
     <lastmod>2026-08-13T16:40:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october.html</loc>
-    <lastmod>2026-08-13T16:05:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,12 +487,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report.html</loc>
-    <lastmod>2026-08-13T14:31:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion.html</loc>
     <lastmod>2026-08-13T14:16:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html</loc>
     <lastmod>2026-08-13T14:14:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
-    <lastmod>2026-08-13T13:54:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

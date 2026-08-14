@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-14T18:05:30.141Z",
+  "updatedAt": "2026-08-14T19:11:23.837Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+      "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
+      "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+      "publishedAt": "2026-08-14T19:01:05.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth",
+      "localUrl": "/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "summary": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
+      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T18:57:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260814-dartmouth-endowments-crypto-exposure-drops-by-2m-amid-falling-prices",
+      "localUrl": "/news/20260814-dartmouth-endowments-crypto-exposure-drops-by-2m-amid-falling-prices.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+      "summary": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T18:44:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260814-kraken-parent-payward-revenue-rises-17-as-trading-volume-falls-in-q2",
+      "localUrl": "/news/20260814-kraken-parent-payward-revenue-rises-17-as-trading-volume-falls-in-q2.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
+      "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
+      "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
+      "publishedAt": "2026-08-14T18:31:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack",
+      "localUrl": "/news/20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
@@ -56,6 +108,17 @@
       "category": "监管",
       "slug": "20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-",
       "localUrl": "/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Spread Bitcoin with love. 🧡 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5\" target=\"_blank\">Spread Bitcoin with love. 🧡</a> <font colo…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5",
+      "publishedAt": "2026-08-14T16:52:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-spread-bitcoin-with-love-xcom",
+      "localUrl": "/news/20260814-spread-bitcoin-with-love-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -492,6 +555,17 @@
       "localUrl": "/news/20260814-whats-the-most-underrated-crypto-project-right-now-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "\"Consensus\" in Bitcoin is one word doing seven jobs. Almost every fight you've watched is two people using different definitions, each assuming the other is arguing in bad faith. Consensus is not agreement. It's a wide range of self-interested actors, node runn - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5\" target=\"_blank\">\"Consensus\" in Bitcoin is one word doi…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5",
+      "publishedAt": "2026-08-14T08:39:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch",
+      "localUrl": "/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Crypto payments barely register among euro area merchants, ECB finds",
       "summary": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
@@ -613,19 +687,6 @@
       "localUrl": "/news/20260814-latest-ethereum-foundation-researcher-justin-drake-announces-the-ef-is-dropping-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
-      "summary": "Advances in compact proofs have erased Poseidon’s previous performance advantage, according to researcher Justin Drake.",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T23:34:56.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260813-ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan",
-      "localUrl": "/news/20260813-ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
       "summary": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
@@ -706,19 +767,6 @@
       "category": "基础设施",
       "slug": "20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures",
       "localUrl": "/news/20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "City of Baltimore goes after prediction markets for sports betting",
-      "summary": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
-      "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T21:08:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting",
-      "localUrl": "/news/20260813-city-of-baltimore-goes-after-prediction-markets-for-sports-betting.html"
     },
     {
       "source": "Decrypt",
@@ -900,17 +948,6 @@
       "localUrl": "/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin falls back under $63,000 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWndiZUFvd2VzOVpMZXgwVE0yVzc5akZ6R0prQTdVb1RJWEljamlGQ1NBcEtkYUN4eWxGNEJCQW1KODNvVzd4Zzg3a0l2S0FXbHBjNWpJQm5qa0FKYjZHWjRB?oc=5\" target=\"_blank\">JUST IN: Bitcoin falls back under …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lWndiZUFvd2VzOVpMZXgwVE0yVzc5akZ6R0prQTdVb1RJWEljamlGQ1NBcEtkYUN4eWxGNEJCQW1KODNvVzd4Zzg3a0l2S0FXbHBjNWpJQm5qa0FKYjZHWjRB?oc=5",
-      "publishedAt": "2026-08-13T16:42:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-bitcoin-falls-back-under-63000-xcom",
-      "localUrl": "/news/20260813-just-in-bitcoin-falls-back-under-63000-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
       "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
@@ -922,19 +959,6 @@
       "category": "RWA",
       "slug": "20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds",
       "localUrl": "/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
-      "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
-      "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
-      "publishedAt": "2026-08-13T16:05:39.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
-      "localUrl": "/news/20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october.html"
     },
     {
       "source": "X Wire",
@@ -1023,19 +1047,6 @@
       "localUrl": "/news/20260813-you-can-live-on-bitcoin-you-can-also-build-on-it-crude-oil-is-valuable-but-civil.html"
     },
     {
-      "source": "Decrypt",
-      "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
-      "summary": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
-      "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
-      "publishedAt": "2026-08-13T14:31:56.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260813-fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
-      "localUrl": "/news/20260813-fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
       "summary": "The prediction-market platform raised $1 billion at a $22 billion valuation in May and is now discussing a new round that could nearly double that figure.",
@@ -1062,17 +1073,6 @@
       "category": "X热点",
       "slug": "20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph",
       "localUrl": "/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5",
-      "publishedAt": "2026-08-13T13:54:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom",
-      "localUrl": "/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html"
     },
     {
       "source": "CoinDesk",
