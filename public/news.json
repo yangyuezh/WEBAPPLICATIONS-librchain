@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-08-14T04:57:47.181Z",
+  "updatedAt": "2026-08-14T06:38:48.676Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
+      "summary": "A new consultation targets \"non-operating companies\" broadly. Two familiar names still land on the deletion list.",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
+      "publishedAt": "2026-08-14T06:20:54.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n",
+      "localUrl": "/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "summary": "According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.",
+      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "publishedAt": "2026-08-14T05:04:52.000Z",
+      "keywords": [
+        "Markets",
+        "JPMorgan",
+        "Polymarket",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260814-jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket",
+      "localUrl": "/news/20260814-jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
@@ -109,6 +140,17 @@
       "category": "综合",
       "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged",
       "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 ALERT: Bitcoin hashrate is now 17% below its all-time high as miners pivot toward AI, according to a CryptoQuant analyst. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVHo3SUY3ckxNRXg1YjV2Z3ZUNlh6ckwtdVRCWWxWNmkwLUtYNDBUdmEtcE1NWUkyemlVN2dGYTh5Ulh1OUJPa2pSZVJfbFg4dFZuX080RE5pY0ViWkJ1WEdrTlQ?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin hashrate is n…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVHo3SUY3ckxNRXg1YjV2Z3ZUNlh6ckwtdVRCWWxWNmkwLUtYNDBUdmEtcE1NWUkyemlVN2dGYTh5Ulh1OUJPa2pSZVJfbFg4dFZuX080RE5pY0ViWkJ1WEdrTlQ?oc=5",
+      "publishedAt": "2026-08-13T21:40:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-",
+      "localUrl": "/news/20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-.html"
     },
     {
       "source": "Decrypt",
@@ -483,6 +525,17 @@
       "category": "X热点",
       "slug": "20260813-just-in-switzerlands-largest-bank-ubs-increases-spot-bitcoin-etf-holdings-by-230",
       "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-increases-spot-bitcoin-etf-holdings-by-230.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Riot Platforms, One of the Largest Publicly Traded Bitcoin Miners, Sells 4,300 BTC to Fund Operations and Data Center Expansion Riot Platforms, one of the largest publicly traded Bitcoin miners, sold 4,300 BTC to fund operations and data center expansion. It - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WU3JKalk4dFZuNmFsZlJLVk84TUdoVWxGTTNSTmF6TkU0UUY3QU41T1Z5MmlpejJKX04wSDhKVno1NUJ6dlVtTi10d0FwS2piRFVCOUdZQml2NXdvOFE1TEV6RQ?oc=5\" target=\"_blank\">Riot Platforms, One of the Large…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WU3JKalk4dFZuNmFsZlJLVk84TUdoVWxGTTNSTmF6TkU0UUY3QU41T1Z5MmlpejJKX04wSDhKVno1NUJ6dlVtTi10d0FwS2piRFVCOUdZQml2NXdvOFE1TEV6RQ?oc=5",
+      "publishedAt": "2026-08-13T14:57:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-riot-platforms-one-of-the-largest-publicly-traded-bitcoin-miners-sells-4300-btc-",
+      "localUrl": "/news/20260813-riot-platforms-one-of-the-largest-publicly-traded-bitcoin-miners-sells-4300-btc-.html"
     },
     {
       "source": "CoinDesk",
@@ -901,35 +954,6 @@
       "localUrl": "/news/20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Metaplanet denies selling bitcoin worth $320 million",
-      "summary": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
-      "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
-      "publishedAt": "2026-08-13T05:34:48.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-metaplanet-denies-selling-bitcoin-worth-320-million",
-      "localUrl": "/news/20260813-metaplanet-denies-selling-bitcoin-worth-320-million.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin firms ask AI labs for same tools attackers already have",
-      "summary": "Coinbase, Block, BitGo and dozens of others signed a letter arguing that safety guardrails on frontier models are blocking legitimate security work while adversaries face no such limits.",
-      "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
-      "publishedAt": "2026-08-13T05:21:21.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
-      "localUrl": "/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html"
-    },
-    {
       "source": "X Wire",
       "title": "Solana was supposed to be the “Ethereum killer.” Faster Cheaper More scalable But one data center glitch revealed a very different picture: • 29% of all staked SOL went offline within minutes • 94% of that stake was concentrated with one provider • The networ - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUEFXem9nOTFxNTJaLThCbnA2WDBuUDNVeVFpOEVnNG5CcVJoZUhRZWtyd0RVMEVMVXg1OEV6MHBDbG1mdXZHTFhEVnMzSThoOG5FZnZ4dWZfaEpVa3FZ?oc=5\" target=\"_blank\">Solana was supposed to be the “Ethereu…",
@@ -974,17 +998,6 @@
       "category": "监管",
       "slug": "20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock",
       "localUrl": "/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: The number of Bitcoin holders continue to rise, according to Grayscale 🚀 \"We believe that adoption will be driven by more demand for scarce assets, greater adoption of blockchain technology, and generational change in portfolio construction.\" 👏 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZ3NRQ2RsaklaYVprWDFLMVRUUTcxX2llZk5oVmFYckliWUtyNkZrZUZnMzUzeW5oSmxnV096bXdlVUsyNHJtZUltS0NZLXhpV1hMOHZXN2lYV2lzRWJMLURjUkRraFE?oc=5\" target=\"_blank\">JUST IN: The number of Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZ3NRQ2RsaklaYVprWDFLMVRUUTcxX2llZk5oVmFYckliWUtyNkZrZUZnMzUzeW5oSmxnV096bXdlVUsyNHJtZUltS0NZLXhpV1hMOHZXN2lYV2lzRWJMLURjUkRraFE?oc=5",
-      "publishedAt": "2026-08-12T20:35:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-just-in-the-number-of-bitcoin-holders-continue-to-rise-according-to-grayscale-we",
-      "localUrl": "/news/20260812-just-in-the-number-of-bitcoin-holders-continue-to-rise-according-to-grayscale-we.html"
     },
     {
       "source": "Decrypt",
@@ -1053,17 +1066,6 @@
       "category": "基础设施",
       "slug": "20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo",
       "localUrl": "/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 US regulator OCC approves Bitcoin and crypto firms to become national banks. \"America and the OCC are once again open for business.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQnRqRlhfRm1jRnJURFNaZ3d1WmRNc0N6N0liRTg1di1TZXZWbVFBSGhoR240NDYxR1lXV0c0TkQ0dWNpUnpvalFDR1NsZHB3UGJyemtVWXFiRzJMdGZFYlhnTFgzYmM?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 US regulator …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQnRqRlhfRm1jRnJURFNaZ3d1WmRNc0N6N0liRTg1di1TZXZWbVFBSGhoR240NDYxR1lXV0c0TkQ0dWNpUnpvalFDR1NsZHB3UGJyemtVWXFiRzJMdGZFYlhnTFgzYmM?oc=5",
-      "publishedAt": "2026-08-12T12:12:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba",
-      "localUrl": "/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html"
     },
     {
       "source": "Solana Blog",

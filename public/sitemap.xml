@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T04:57:47.222Z</lastmod>
+    <lastmod>2026-08-14T06:38:48.718Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T04:57:47.222Z</lastmod>
+    <lastmod>2026-08-14T06:38:48.718Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html</loc>
+    <lastmod>2026-08-14T06:20:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket.html</loc>
+    <lastmod>2026-08-14T05:04:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue.html</loc>
@@ -57,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html</loc>
     <lastmod>2026-08-13T21:45:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-.html</loc>
+    <lastmod>2026-08-13T21:40:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,6 +249,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-increases-spot-bitcoin-etf-holdings-by-230.html</loc>
     <lastmod>2026-08-13T14:58:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-riot-platforms-one-of-the-largest-publicly-traded-bitcoin-miners-sells-4300-btc-.html</loc>
+    <lastmod>2026-08-13T14:57:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,18 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-metaplanet-denies-selling-bitcoin-worth-320-million.html</loc>
-    <lastmod>2026-08-13T05:34:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have.html</loc>
-    <lastmod>2026-08-13T05:21:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o.html</loc>
     <lastmod>2026-08-13T05:01:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html</loc>
     <lastmod>2026-08-12T21:31:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-just-in-the-number-of-bitcoin-holders-continue-to-rise-according-to-grayscale-we.html</loc>
-    <lastmod>2026-08-12T20:35:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html</loc>
     <lastmod>2026-08-12T12:57:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-just-in-us-regulator-occ-approves-bitcoin-and-crypto-firms-to-become-national-ba.html</loc>
-    <lastmod>2026-08-12T12:12:59.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
