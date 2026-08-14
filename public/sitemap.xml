@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T02:41:19.605Z</lastmod>
+    <lastmod>2026-08-14T04:57:47.222Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T02:41:19.605Z</lastmod>
+    <lastmod>2026-08-14T04:57:47.222Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue.html</loc>
+    <lastmod>2026-08-14T04:44:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-figure-reports-43b-in-loan-marketplace-volume-as-profit-nearly-triples.html</loc>
@@ -117,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-cftc-to-join-sec-in-exploring-crypto-regulations-without-clarity-bill.html</loc>
     <lastmod>2026-08-13T18:18:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-kimi-k3-scan-uncovers-critical-vulnerabilities-across-bitcoin-open-source-projec.html</loc>
+    <lastmod>2026-08-13T17:54:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-bitgo-posts-19m-q2-loss-despite-80-revenue-surge-to-43b.html</loc>
-    <lastmod>2026-08-13T07:42:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-bitcoin-og-traders-just-had-their-most-profitable-cycle-ever-unlike-past-cycles-.html</loc>
     <lastmod>2026-08-13T07:10:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-btc-goldman-sachs-is-buying-its-way-into-the-bitcoin-income-etf-race-the-bank-is.html</loc>
     <lastmod>2026-08-12T20:28:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260812-wrapped-bitcoin-should-be-neutral-market-infrastructure-cirbtc-is-designed-for-i.html</loc>
-    <lastmod>2026-08-12T19:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

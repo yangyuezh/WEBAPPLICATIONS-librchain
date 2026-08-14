@@ -5,7 +5,15 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 14 Aug 2026 02:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:57:47 GMT</lastBuildDate>
+    <item>
+      <title>Neutrl pauses NUSD redemptions over undisclosed reserve issue</title>
+      <link>https://www.librchain.com/news/20260814-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260814-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue.html</guid>
+      <description>BA Labs had previously classified a proposed NUSD integration as higher risk because of its counterparty, operational and liquidity exposure.</description>
+      <pubDate>Fri, 14 Aug 2026 04:44:31 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Figure reports $4.3B in loan marketplace volume as profit nearly triples</title>
       <link>https://www.librchain.com/news/20260814-figure-reports-43b-in-loan-marketplace-volume-as-profit-nearly-triples.html</link>
@@ -149,6 +157,14 @@
       <description>The CFTC will hold a meeting for its Innovation Advisory Committee on Aug. 20 to address regulation related to crypto assets, artificial intelligence and prediction markets.</description>
       <pubDate>Thu, 13 Aug 2026 18:18:50 GMT</pubDate>
       <source url="https://cointelegraph.com/news/cftc-exploring-crypto-regulations-clarity-act?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Kimi K3 Scan Uncovers Critical Vulnerabilities Across Bitcoin Open-Source Projects Bitcoin Red Team researcher calle said that after using Kimi K3 for two weeks, the team identified numerous critical and high-severity vulnerabilities across Bitcoin open-sourc - x.com</title>
+      <link>https://www.librchain.com/news/20260813-kimi-k3-scan-uncovers-critical-vulnerabilities-across-bitcoin-open-source-projec.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260813-kimi-k3-scan-uncovers-critical-vulnerabilities-across-bitcoin-open-source-projec.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE82MVd4Z2d4a3BVT2ROYk1FbVpKVUpYQlVNdFFuWEdRSHBmcjNLYm1ORk4tTzFHdUZXZDZfYnVybFlQT2RCTThGcWxuR2M5RjY0WFRLYXlwYW1WNjdwSHR3bTF5dw?oc=5&quot; target=&quot;_blank&quot;&gt;Kimi K3 Scan Uncovers Critical V…</description>
+      <pubDate>Thu, 13 Aug 2026 17:54:05 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE82MVd4Z2d4a3BVT2ROYk1FbVpKVUpYQlVNdFFuWEdRSHBmcjNLYm1ORk4tTzFHdUZXZDZfYnVybFlQT2RCTThGcWxuR2M5RjY0WFRLYXlwYW1WNjdwSHR3bTF5dw?oc=5">X Wire</source>
     </item>
     <item>
       <title>Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms</title>
@@ -469,22 +485,6 @@
       <description>MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.</description>
       <pubDate>Thu, 13 Aug 2026 10:15:32 GMT</pubDate>
       <source url="https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades">CoinDesk</source>
-    </item>
-    <item>
-      <title>Binance bStocks pass xStocks as second-largest tokenized stock issuer</title>
-      <link>https://www.librchain.com/news/20260813-binance-bstocks-pass-xstocks-as-second-largest-tokenized-stock-issuer.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260813-binance-bstocks-pass-xstocks-as-second-largest-tokenized-stock-issuer.html</guid>
-      <description>Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.</description>
-      <pubDate>Thu, 13 Aug 2026 09:53:36 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy&apos;s STRC</title>
-      <link>https://www.librchain.com/news/20260813-brazils-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategys-.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260813-brazils-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategys-.html</guid>
-      <description>DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3–5 percentage points, net of costs, though investors&apos; actual returns are not guaranteed.</description>
-      <pubDate>Thu, 13 Aug 2026 09:39:52 GMT</pubDate>
-      <source url="https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc">CoinDesk</source>
     </item>
   </channel>
 </rss>
