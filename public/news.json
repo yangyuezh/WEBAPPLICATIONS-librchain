@@ -1,7 +1,149 @@
 {
-  "updatedAt": "2026-08-14T13:36:10.885Z",
-  "total": 83,
+  "updatedAt": "2026-08-14T15:04:13.491Z",
+  "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+      "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
+      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
+      "publishedAt": "2026-08-14T14:55:29.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260814-fake-linkedin-crypto-job-scams-have-cost-118m-singapore",
+      "localUrl": "/news/20260814-fake-linkedin-crypto-job-scams-have-cost-118m-singapore.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T14:40:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260814-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260814-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "summary": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T14:38:27.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260814-bitcoin-price-drops-to-625k-as-trader-warns-weekly-close-may-spark-more-losses",
+      "localUrl": "/news/20260814-bitcoin-price-drops-to-625k-as-trader-warns-weekly-close-may-spark-more-losses.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+      "summary": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased.",
+      "url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T14:22:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2",
+      "localUrl": "/news/20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+      "summary": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
+      "url": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T14:14:06.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260814-jpmorgan-boosts-bitcoin-ether-etf-positions-in-q2-filing",
+      "localUrl": "/news/20260814-jpmorgan-boosts-bitcoin-ether-etf-positions-in-q2-filing.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "summary": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
+      "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "publishedAt": "2026-08-14T14:12:34.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260814-strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "localUrl": "/news/20260814-strategy-says-msci-should-measure-markets-not-dictate-corporate-assets.html"
+    },
+    {
+      "source": "Chainalysis Blog",
+      "title": "Machine Learning Has a Specific Role in Blockchain Intelligence",
+      "summary": "Machine learning is a valuable tool in blockchain analytics – so long as it is used responsibly. Automated tools can… The post Machine Learning Has a Specific Role in Blockchain Intelligence appeared first on Chainalysis .",
+      "url": "https://www.chainalysis.com/blog/ml-role-in-blockchain-intelligence/",
+      "publishedAt": "2026-08-14T14:00:32.000Z",
+      "keywords": [
+        "Report",
+        "Alterya",
+        "artificial intelligence",
+        "blockchain intelligence",
+        "Machine Learning",
+        "Ontology"
+      ],
+      "category": "综合",
+      "slug": "20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence",
+      "localUrl": "/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
+      "summary": "Bank Leumi customers will be able to trade bitcoin, ether and solana through the bank’s investment app from early 2027.",
+      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
+      "publishedAt": "2026-08-14T13:51:37.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "banks",
+        "Galaxy Digital",
+        "Israel",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy",
+      "localUrl": "/news/20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
+      "summary": "Binance said it will stop processing transactions for involving 11 crypto platforms, including HTX, which was recently listed in the EU’s sanctions package targeting Russia.",
+      "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T13:36:34.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260814-binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms",
+      "localUrl": "/news/20260814-binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
+      "summary": "Solana’s proposed fee overhaul would make resource-heavy transactions more expensive while cutting costs for simpler activity, and it increases the amount of SOL burned.",
+      "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "基础设施",
+      "slug": "20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay",
+      "localUrl": "/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html"
+    },
     {
       "source": "Decrypt",
       "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
@@ -16,6 +158,17 @@
       "localUrl": "/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇮🇱 Israel's largest bank is entering Bitcoin. Bank Leumi will allow customers to buy, hold and sell Bitcoin directly through its banking app. The service is expected to launch in early 2027. 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVENmLXQ1UURrT1RERVN5Qkw0eUFEMmVNQnBaRi1ubVJJNzlNNkJwZmwyZUx4b2tYakg0LV8tc1BYejdHMUd2aXVHX2RFTE1QYnMydXYtSnBjN2xGcVJial9aOFB5VjQ?oc=5\" target=\"_blank\">JUST IN: 🇮🇱 Israel's larg…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVENmLXQ1UURrT1RERVN5Qkw0eUFEMmVNQnBaRi1ubVJJNzlNNkJwZmwyZUx4b2tYakg0LV8tc1BYejdHMUd2aXVHX2RFTE1QYnMydXYtSnBjN2xGcVJial9aOFB5VjQ?oc=5",
+      "publishedAt": "2026-08-14T12:20:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers",
+      "localUrl": "/news/20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
       "summary": "Credit card and staking revenue drove Gemini’s services growth in Q2 as exchange revenue fell 38% and trading volume dropped by two-thirds.",
@@ -27,6 +180,17 @@
       "category": "DeFi",
       "slug": "20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth",
       "localUrl": "/news/20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Binance to Stop Processing Transactions Involving 11 Crypto Platforms From August 23 Binance announced that, following recent regulatory developments, it will stop processing transactions involving certain crypto-asset service providers and platforms. Restr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zMmhzQzR2bl91TVVTNmtqSEszOGJGOFNsdExlbURoaGpJSENPUGV3eFpjaFBYUmxuUHZFZGxEMGE4Z1BXa1Q4M1h5TDdtazE0cnMwTFlfZEw2QkNTYk83ZjE4OA?oc=5\" target=\"_blank\">Binance to Stop Processing Trans…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zMmhzQzR2bl91TVVTNmtqSEszOGJGOFNsdExlbURoaGpJSENPUGV3eFpjaFBYUmxuUHZFZGxEMGE4Z1BXa1Q4M1h5TDdtazE0cnMwTFlfZEw2QkNTYk83ZjE4OA?oc=5",
+      "publishedAt": "2026-08-14T11:48:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-binance-to-stop-processing-transactions-involving-11-crypto-platforms-from-augus",
+      "localUrl": "/news/20260814-binance-to-stop-processing-transactions-involving-11-crypto-platforms-from-augus.html"
     },
     {
       "source": "Decrypt",
@@ -199,6 +363,17 @@
       "category": "DeFi",
       "slug": "20260814-live-updates-bitcoin-slips-below-63000-as-oil-yields-climb",
       "localUrl": "/news/20260814-live-updates-bitcoin-slips-below-63000-as-oil-yields-climb.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "What’s the most underrated crypto project right now? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rUnpkaXczWk5IMzZSQmtsSmlDQXNoU2NRUFlzQ28tdHNpME44aXQ3a0p1UXJ5Wk9FWTdCSlczbW12TkJQbGFRNGprRkxJem9kVlJEd1ZyNjBvSTFaMVZpNDI0ank?oc=5\" target=\"_blank\">What’s the most underrated cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rUnpkaXczWk5IMzZSQmtsSmlDQXNoU2NRUFlzQ28tdHNpME44aXQ3a0p1UXJ5Wk9FWTdCSlczbW12TkJQbGFRNGprRkxJem9kVlJEd1ZyNjBvSTFaMVZpNDI0ank?oc=5",
+      "publishedAt": "2026-08-14T08:45:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-whats-the-most-underrated-crypto-project-right-now-xcom",
+      "localUrl": "/news/20260814-whats-the-most-underrated-crypto-project-right-now-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -478,6 +653,17 @@
       "localUrl": "/news/20260813-just-in-white-house-to-meet-with-top-crypto-executives-next-week-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
+      "publishedAt": "2026-08-13T19:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin",
+      "localUrl": "/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
       "summary": "More than a year after being indicted on fraud charges related to his activities at crypto company Delio, Jeong Sang-ho faces prison time in South Korea.",
@@ -619,32 +805,6 @@
       "localUrl": "/news/20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
-      "summary": "The Blockchain Association argues the Fed should not have broad discretion to deny eligible state-chartered banks direct access to its payment system.",
-      "url": "https://cointelegraph.com/news/blockchain-association-backs-custodia-in-supreme-court-fight-over-fed-master-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T17:36:09.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260813-crypto-group-backs-custodia-in-supreme-court-battle-over-fed-access",
-      "localUrl": "/news/20260813-crypto-group-backs-custodia-in-supreme-court-battle-over-fed-access.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-      "summary": "Standard Chartered said Robinhood’s Uniswap integration could solve a key challenge for new blockchains while accelerating UNI token burns.",
-      "url": "https://cointelegraph.com/news/robinhood-chain-uniswap-liquidity-uni-burns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T17:28:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260813-robinhood-chain-nears-1b-tvl-as-uniswap-drives-liquidity-standard-chartered",
-      "localUrl": "/news/20260813-robinhood-chain-nears-1b-tvl-as-uniswap-drives-liquidity-standard-chartered.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
       "summary": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
@@ -698,17 +858,6 @@
       "localUrl": "/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html"
     },
     {
-      "source": "X Wire",
-      "title": "$BTC Every bear cycle, Bitcoin has always smacked into the purple and green bands. This cycle, that zone sits right around 48–52K. With roughly 1.5 months of bear‑market price action left, it’s completely realistic. But if we roll through October/November witho - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZm95Z0ludEtvT2xSNktIMW1lRTdnWWd5T1BDdXZFaHRISEhXbFV4R0ZNWWpRUmF6dElwNXk1Wkkta0tfRXpHMGw2bHhXU3pFTDExemRKT0V4eU1wcVE?oc=5\" target=\"_blank\">$BTC Every bear cycle, Bitcoin has alwa…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWZm95Z0ludEtvT2xSNktIMW1lRTdnWWd5T1BDdXZFaHRISEhXbFV4R0ZNWWpRUmF6dElwNXk1Wkkta0tfRXpHMGw2bHhXU3pFTDExemRKT0V4eU1wcVE?oc=5",
-      "publishedAt": "2026-08-13T16:06:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-btc-every-bear-cycle-bitcoin-has-always-smacked-into-the-purple-and-green-bands-",
-      "localUrl": "/news/20260813-btc-every-bear-cycle-bitcoin-has-always-smacked-into-the-purple-and-green-bands-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
       "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
@@ -720,45 +869,6 @@
       "category": "监管",
       "slug": "20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
       "localUrl": "/news/20260813-hawaii-to-ban-cash-deposits-at-crypto-atms-from-october.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Public Bitcoin miners cut hashrate 13.4% as AI infrastructure revenue grows",
-      "summary": "AI and HPC are reshaping mining economics as operators repurpose power and data centers, while a smaller group of miners continues to expand Bitcoin capacity.",
-      "url": "https://cointelegraph.com/news/bitcoin-miners-hashrate-ai-data-centers-hpc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T16:00:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows",
-      "localUrl": "/news/20260813-public-bitcoin-miners-cut-hashrate-134-as-ai-infrastructure-revenue-grows.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bullish shares jump 10% as Q2 adjusted EBITDA more than triples",
-      "summary": "The crypto exchange operator’s shares gained around 10% as adjusted EBITDA more than tripled and subscription and services revenue hit a record high.",
-      "url": "https://cointelegraph.com/news/bullish-shares-surge-as-q2-adjusted-revenue-surges-62?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T15:36:45.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260813-bullish-shares-jump-10-as-q2-adjusted-ebitda-more-than-triples",
-      "localUrl": "/news/20260813-bullish-shares-jump-10-as-q2-adjusted-ebitda-more-than-triples.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trezor reports data from 14K users exposed through shipping provider",
-      "summary": "The wallet provider warned that thousands of users could potentially be at risk of phishing attempts, while advising that all devices, private keys and backups were safe.",
-      "url": "https://cointelegraph.com/news/trezor-customer-data-shipping-provider-shipmonk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T15:25:14.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider",
-      "localUrl": "/news/20260813-trezor-reports-data-from-14k-users-exposed-through-shipping-provider.html"
     },
     {
       "source": "X Wire",
@@ -781,19 +891,6 @@
       "category": "X热点",
       "slug": "20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen",
       "localUrl": "/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
-      "summary": "Bitcoin joined US stocks in modest gains after July PPI inflation data continued a cooling trend seen over the past month.",
-      "url": "https://cointelegraph.com/markets/bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T15:07:38.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260813-bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data",
-      "localUrl": "/news/20260813-bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data.html"
     },
     {
       "source": "CoinDesk",
@@ -890,17 +987,6 @@
       "localUrl": "/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: A USENIX study found 65,340 abusive crypto addresses tied to $574.8M in losses on Ethereum and BNB Chain. Researchers extracted 16.3M+ private keys from 63,004 GitHub repositories. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZm5ob3JidTROVVNvZ1FuUkVKUXhfM0dSRDVjSmoxZENCX29KcHpxZXJKRFhJejJmQmJkNTVncWRHTDZOeEt0SVd6UWRYMUt2WmRpYkhkOXNjRjlJZEJyRVlQSUg?oc=5\" target=\"_blank\">🚨 UPDATE: A USENIX study found…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JZm5ob3JidTROVVNvZ1FuUkVKUXhfM0dSRDVjSmoxZENCX29KcHpxZXJKRFhJejJmQmJkNTVncWRHTDZOeEt0SVd6UWRYMUt2WmRpYkhkOXNjRjlJZEJyRVlQSUg?oc=5",
-      "publishedAt": "2026-08-13T14:07:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-update-a-usenix-study-found-65340-abusive-crypto-addresses-tied-to-5748m-in-loss",
-      "localUrl": "/news/20260813-update-a-usenix-study-found-65340-abusive-crypto-addresses-tied-to-5748m-in-loss.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
       "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
@@ -956,21 +1042,6 @@
       "localUrl": "/news/20260813-crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-50-m.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
-      "summary": "The tokenization-focused lender posted $226 million in quarterly revenue as blockchain loan marketplace volume jumped to $4.3 billion.",
-      "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
-      "publishedAt": "2026-08-13T13:29:28.000Z",
-      "keywords": [
-        "Finance",
-        "Tokenization",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
-      "localUrl": "/news/20260813-figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
       "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
@@ -997,36 +1068,6 @@
       "localUrl": "/news/20260813-xrp-holders-can-now-trade-options-using-flares-fxrp-as-collateral.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
-      "summary": "Bullish's second-quarter loss of $280 million was mostly attributable to a $244.6 million markdown on the company’s bitcoin holdings.",
-      "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
-      "publishedAt": "2026-08-13T12:09:58.000Z",
-      "keywords": [
-        "Finance",
-        "Bullish",
-        "Earnings",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260813-bullish-shares-surge-14-as-subscription-revenue-offsets-digital-asset-slowdown",
-      "localUrl": "/news/20260813-bullish-shares-surge-14-as-subscription-revenue-offsets-digital-asset-slowdown.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-      "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-      "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-      "publishedAt": "2026-08-13T11:53:17.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-      "localUrl": "/news/20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks.html"
-    },
-    {
       "source": "X Wire",
       "title": "Solana was supposed to be the “Ethereum killer.” Faster Cheaper More scalable But one data center glitch revealed a very different picture: • 29% of all staked SOL went offline within minutes • 94% of that stake was concentrated with one provider • The networ - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUEFXem9nOTFxNTJaLThCbnA2WDBuUDNVeVFpOEVnNG5CcVJoZUhRZWtyd0RVMEVMVXg1OEV6MHBDbG1mdXZHTFhEVnMzSThoOG5FZnZ4dWZfaEpVa3FZ?oc=5\" target=\"_blank\">Solana was supposed to be the “Ethereu…",
@@ -1036,28 +1077,6 @@
       "category": "X热点",
       "slug": "20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o",
       "localUrl": "/news/20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 LATEST: Bitwise CIO Matt Hougan says crypto is entering a revenue-driven era, with protocols like Hyperliquid, Uniswap, and Aave funneling revenue into buybacks and burns. He argues token prices haven't caught up to that shift yet. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FM2dBOFhpU2d1SFJhVVFRclFFVno3VWNjUDBuWWppYmxrSlBycjgyWEMzMEhwTVpLTnlIVk04ZnVzOGdhcFlTSUswSzJpOEN3d2VyZHNhajVkTlRSNmh1OUxQa3c?oc=5\" target=\"_blank\">🔥 LATEST: Bitwise CIO Matt Hou…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FM2dBOFhpU2d1SFJhVVFRclFFVno3VWNjUDBuWWppYmxrSlBycjgyWEMzMEhwTVpLTnlIVk04ZnVzOGdhcFlTSUswSzJpOEN3d2VyZHNhajVkTlRSNmh1OUxQa3c?oc=5",
-      "publishedAt": "2026-08-13T02:40:38.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with",
-      "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin is now trading in its \"Cost of Production\" zone, typically the sign of a bear market bottom. 👀 HODL 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5\" target=\"_blank\">JUST IN: Bitcoin is now tra…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5",
-      "publishedAt": "2026-08-12T16:55:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
-      "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
     },
     {
       "source": "Solana Blog",
