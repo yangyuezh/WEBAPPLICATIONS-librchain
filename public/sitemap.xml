@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T21:36:28.345Z</lastmod>
+    <lastmod>2026-08-14T22:36:49.251Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T21:36:28.345Z</lastmod>
+    <lastmod>2026-08-14T22:36:49.251Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html</loc>
+    <lastmod>2026-08-14T17:49:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus.html</loc>
     <lastmod>2026-08-14T17:48:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -105,6 +111,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html</loc>
     <lastmod>2026-08-14T16:20:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-israels-largest-bank-leumi-to-offer-bitcoin-ether-and-solana-trading-in-2027-ban.html</loc>
+    <lastmod>2026-08-14T16:02:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -249,6 +261,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-bitcoin-eyes-new-august-lows-as-binance-longs-face-cleanout.html</loc>
     <lastmod>2026-08-14T10:43:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-largest-crypto-card-provider-redotpay-delays-ipo-after-binance-lawsuit-according.html</loc>
+    <lastmod>2026-08-14T10:39:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -481,26 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-you-can-live-on-bitcoin-you-can-also-build-on-it-crude-oil-is-valuable-but-civil.html</loc>
-    <lastmod>2026-08-13T14:42:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion.html</loc>
     <lastmod>2026-08-13T14:16:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html</loc>
-    <lastmod>2026-08-13T14:14:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
-    <lastmod>2026-08-13T13:54:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
