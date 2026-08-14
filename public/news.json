@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-14T16:02:40.475Z",
-  "total": 84,
+  "updatedAt": "2026-08-14T17:07:10.301Z",
+  "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+      "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
+      "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
+      "publishedAt": "2026-08-14T16:23:20.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot",
+      "localUrl": "/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
@@ -247,6 +260,17 @@
       "localUrl": "/news/20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds.html"
     },
     {
+      "source": "X Wire",
+      "title": "The interesting part remains that #Altcoins are acting substantially stronger than Bitcoin. As an example: $ETH. It's climbing upwards against Bitcoin as it's attacking the 0.03 level. I do expect to see a liquidity flush taking place when the markets are going to se - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DLVZZVlVfTHZUUDNwMm5oZmd5c3hUdlNYNmJCOHBQMi11aVNVbE9fY25XblphQXAxZ2VDRGpzOVhsY0NTZUJnNWg2X185bFZhTVhTUW0wR25WSENvQlRJQ0E5SQ?oc=5\" target=\"_blank\">The interesting part remains tha…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DLVZZVlVfTHZUUDNwMm5oZmd5c3hUdlNYNmJCOHBQMi11aVNVbE9fY25XblphQXAxZ2VDRGpzOVhsY0NTZUJnNWg2X185bFZhTVhTUW0wR25WSENvQlRJQ0E5SQ?oc=5",
+      "publishedAt": "2026-08-14T11:27:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-the-interesting-part-remains-that-altcoins-are-acting-substantially-stronger-tha",
+      "localUrl": "/news/20260814-the-interesting-part-remains-that-altcoins-are-acting-substantially-stronger-tha.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
       "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
@@ -375,7 +399,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips below $63,000; MSCI threatens to exclude Strategy from indices",
+      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
       "summary": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
       "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
       "publishedAt": "2026-08-14T08:51:48.000Z",
@@ -387,8 +411,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260814-live-updates-bitcoin-slips-below-63000-msci-threatens-to-exclude-strategy-from-i",
-      "localUrl": "/news/20260814-live-updates-bitcoin-slips-below-63000-msci-threatens-to-exclude-strategy-from-i.html"
+      "slug": "20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from",
+      "localUrl": "/news/20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from.html"
     },
     {
       "source": "X Wire",
@@ -669,6 +693,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🪦 Crypto “dead” chatter is rising again. Words like dead, dying, over, ended, ending, and finished are gaining traction across X, Reddit, Telegram, and other crypto channels. 😨 This is fear language. It usually appears when retail patience is breaking, prices fee - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTFZlOTRvSUJYNFdfVWJJMTVONzRnYWtHMDlCb1c5aG5OcHhpQ0lSLW8xV2VHdmo5eVFqOTE1M1J5aHdFbFBtdXRZdlBmdHJHOHhzZndYYkhTeGpqQkVaUks3U1E?oc=5\" target=\"_blank\">🪦 Crypto “dead” chatter is ris…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTFZlOTRvSUJYNFdfVWJJMTVONzRnYWtHMDlCb1c5aG5OcHhpQ0lSLW8xV2VHdmo5eVFqOTE1M1J5aHdFbFBtdXRZdlBmdHJHOHhzZndYYkhTeGpqQkVaUks3U1E?oc=5",
+      "publishedAt": "2026-08-13T19:48:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-crypto-dead-chatter-is-rising-again-words-like-dead-dying-over-ended-ending-and-",
+      "localUrl": "/news/20260813-crypto-dead-chatter-is-rising-again-words-like-dead-dying-over-ended-ending-and-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
@@ -882,6 +917,17 @@
       "localUrl": "/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html"
     },
     {
+      "source": "Solana Blog",
+      "title": "Solana Changelog: August 13, 2026",
+      "summary": "Slot times to 250ms on testnet and releases from Agave and Firedancer.",
+      "url": "https://solana.com/news/solana-changelog-august-13-2026",
+      "publishedAt": "2026-08-13T15:03:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260813-solana-changelog-august-13-2026",
+      "localUrl": "/news/20260813-solana-changelog-august-13-2026.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: The crypto advice gap",
       "summary": "You’re reading Crypto for Advisors, CoinDesk’s weekly newsletter that unpacks digital assets for financial advisors. Subscribe here to get it every Thursday.",
@@ -1042,41 +1088,6 @@
       "category": "安全",
       "slug": "20260813-trezor-customer-data-exposed-in-shipping-partner-breach",
       "localUrl": "/news/20260813-trezor-customer-data-exposed-in-shipping-partner-breach.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
-      "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-      "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
-      "publishedAt": "2026-08-13T13:01:05.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "综合",
-      "slug": "20260813-xrp-holders-can-now-trade-options-using-flares-fxrp-as-collateral",
-      "localUrl": "/news/20260813-xrp-holders-can-now-trade-options-using-flares-fxrp-as-collateral.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Solana was supposed to be the “Ethereum killer.” Faster Cheaper More scalable But one data center glitch revealed a very different picture: • 29% of all staked SOL went offline within minutes • 94% of that stake was concentrated with one provider • The networ - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUEFXem9nOTFxNTJaLThCbnA2WDBuUDNVeVFpOEVnNG5CcVJoZUhRZWtyd0RVMEVMVXg1OEV6MHBDbG1mdXZHTFhEVnMzSThoOG5FZnZ4dWZfaEpVa3FZ?oc=5\" target=\"_blank\">Solana was supposed to be the “Ethereu…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rUEFXem9nOTFxNTJaLThCbnA2WDBuUDNVeVFpOEVnNG5CcVJoZUhRZWtyd0RVMEVMVXg1OEV6MHBDbG1mdXZHTFhEVnMzSThoOG5FZnZ4dWZfaEpVa3FZ?oc=5",
-      "publishedAt": "2026-08-13T05:01:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o",
-      "localUrl": "/news/20260813-solana-was-supposed-to-be-the-ethereum-killer-faster-cheaper-more-scalable-but-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin is now trading in its \"Cost of Production\" zone, typically the sign of a bear market bottom. 👀 HODL 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5\" target=\"_blank\">JUST IN: Bitcoin is now tra…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRDJubGpUNFZZU1Y0al9tdmQtbl96ZXFaTTBWUmsyNlpNbS1oeUN4VGNrSDZrRGNuQUdpWEpuZUNCdExWMDZRZWw4SGswbDBWSlRmenEtUnF3Q3h3QzdaUm1qZ1oweUk?oc=5",
-      "publishedAt": "2026-08-12T16:55:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign",
-      "localUrl": "/news/20260812-just-in-bitcoin-is-now-trading-in-its-cost-of-production-zone-typically-the-sign.html"
     },
     {
       "source": "Solana Blog",
