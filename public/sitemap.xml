@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T19:11:23.868Z</lastmod>
+    <lastmod>2026-08-14T20:41:41.386Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T19:11:23.868Z</lastmod>
+    <lastmod>2026-08-14T20:41:41.386Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html</loc>
+    <lastmod>2026-08-14T20:01:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html</loc>
@@ -259,12 +265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html</loc>
-    <lastmod>2026-08-14T08:39:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds.html</loc>
     <lastmod>2026-08-14T08:22:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,6 +337,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260813-breaking-the-sec-just-canceled-fridays-crypto-meeting-entirely-hours-after-delay.html</loc>
+    <lastmod>2026-08-13T22:04:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html</loc>
     <lastmod>2026-08-13T21:45:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html</loc>
     <lastmod>2026-08-13T20:30:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-crypto-dead-chatter-is-rising-again-words-like-dead-dying-over-ended-ending-and-.html</loc>
-    <lastmod>2026-08-13T19:48:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html</loc>
-    <lastmod>2026-08-13T16:40:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html</loc>
     <lastmod>2026-08-13T15:20:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +489,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html</loc>
     <lastmod>2026-08-13T14:14:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
+    <lastmod>2026-08-13T13:54:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-14T19:11:23.837Z",
+  "updatedAt": "2026-08-14T20:41:41.343Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
+      "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+      "publishedAt": "2026-08-14T20:01:13.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model",
+      "localUrl": "/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html"
+    },
     {
       "source": "Decrypt",
       "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
@@ -555,17 +568,6 @@
       "localUrl": "/news/20260814-whats-the-most-underrated-crypto-project-right-now-xcom.html"
     },
     {
-      "source": "X Wire",
-      "title": "\"Consensus\" in Bitcoin is one word doing seven jobs. Almost every fight you've watched is two people using different definitions, each assuming the other is arguing in bad faith. Consensus is not agreement. It's a wide range of self-interested actors, node runn - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5\" target=\"_blank\">\"Consensus\" in Bitcoin is one word doi…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5",
-      "publishedAt": "2026-08-14T08:39:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch",
-      "localUrl": "/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto payments barely register among euro area merchants, ECB finds",
       "summary": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
@@ -732,6 +734,17 @@
       "localUrl": "/news/20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨BREAKING: The SEC just CANCELED Friday's crypto meeting entirely, hours after delaying its tokenized stock exemption. The agency was set to vote on letting crypto startups raise money without traditional securities rules, but blamed an \"unforeseen sched - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGN2h6NnhnMzN5UEg3X3FURkhfbURqaFVPb0Y5RklJdlJKSVE2VGM0QzNNMy1jXzlWV2N3VlBJcTVCV3ZaRHZBeGUxTS02dnBTY0pWVUQ1MXI0RkZXMDBKNQ?oc=5\" target=\"_blank\">🚨BREAKING: The SEC just CANCELED Fr…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGN2h6NnhnMzN5UEg3X3FURkhfbURqaFVPb0Y5RklJdlJKSVE2VGM0QzNNMy1jXzlWV2N3VlBJcTVCV3ZaRHZBeGUxTS02dnBTY0pWVUQ1MXI0RkZXMDBKNQ?oc=5",
+      "publishedAt": "2026-08-13T22:04:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-breaking-the-sec-just-canceled-fridays-crypto-meeting-entirely-hours-after-delay",
+      "localUrl": "/news/20260813-breaking-the-sec-just-canceled-fridays-crypto-meeting-entirely-hours-after-delay.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
       "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
@@ -780,17 +793,6 @@
       "category": "综合",
       "slug": "20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr",
       "localUrl": "/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🪦 Crypto “dead” chatter is rising again. Words like dead, dying, over, ended, ending, and finished are gaining traction across X, Reddit, Telegram, and other crypto channels. 😨 This is fear language. It usually appears when retail patience is breaking, prices fee - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTFZlOTRvSUJYNFdfVWJJMTVONzRnYWtHMDlCb1c5aG5OcHhpQ0lSLW8xV2VHdmo5eVFqOTE1M1J5aHdFbFBtdXRZdlBmdHJHOHhzZndYYkhTeGpqQkVaUks3U1E?oc=5\" target=\"_blank\">🪦 Crypto “dead” chatter is ris…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTFZlOTRvSUJYNFdfVWJJMTVONzRnYWtHMDlCb1c5aG5OcHhpQ0lSLW8xV2VHdmo5eVFqOTE1M1J5aHdFbFBtdXRZdlBmdHJHOHhzZndYYkhTeGpqQkVaUks3U1E?oc=5",
-      "publishedAt": "2026-08-13T19:48:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-crypto-dead-chatter-is-rising-again-words-like-dead-dying-over-ended-ending-and-",
-      "localUrl": "/news/20260813-crypto-dead-chatter-is-rising-again-words-like-dead-dying-over-ended-ending-and-.html"
     },
     {
       "source": "X Wire",
@@ -948,19 +950,6 @@
       "localUrl": "/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-      "summary": "The company's CEO said a 5,014 BTC transfer was a custody move, not a sale, as the Tokyo-listed Bitcoin treasury company rolls out a fixed-rate debt program.",
-      "url": "https://decrypt.co/375562/metaplanet-denies-bitcoin-sale-launches-bitbonds",
-      "publishedAt": "2026-08-13T16:40:49.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "RWA",
-      "slug": "20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds",
-      "localUrl": "/news/20260813-metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
@@ -1073,6 +1062,17 @@
       "category": "X热点",
       "slug": "20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph",
       "localUrl": "/news/20260813-goodbye-poseidon-an-epic-8-year-8-figure-rabbit-hole-in-post-quantum-cryptograph.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5",
+      "publishedAt": "2026-08-13T13:54:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom",
+      "localUrl": "/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html"
     },
     {
       "source": "CoinDesk",
