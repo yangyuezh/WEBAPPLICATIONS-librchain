@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T22:36:49.251Z</lastmod>
+    <lastmod>2026-08-14T23:33:04.709Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T22:36:49.251Z</lastmod>
+    <lastmod>2026-08-14T23:33:04.709Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -69,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html</loc>
     <lastmod>2026-08-14T17:49:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-just-in-gemini-discloses-adding-1689-btc-bitcoin-to-their-treasury-now-totaling-.html</loc>
+    <lastmod>2026-08-14T17:48:16.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-crypto-for-advisors-the-crypto-advice-gap.html</loc>
     <lastmod>2026-08-13T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-increases-spot-bitcoin-etf-holdings-by-230.html</loc>
-    <lastmod>2026-08-13T14:58:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
