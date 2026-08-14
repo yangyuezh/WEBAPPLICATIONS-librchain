@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T20:41:41.386Z</lastmod>
+    <lastmod>2026-08-14T21:36:28.345Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T20:41:41.386Z</lastmod>
+    <lastmod>2026-08-14T21:36:28.345Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance.html</loc>
+    <lastmod>2026-08-14T21:22:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-ireland-plans-industry-standards-for-illicit-crypto-use.html</loc>
+    <lastmod>2026-08-14T21:08:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator.html</loc>
+    <lastmod>2026-08-14T21:05:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html</loc>
+    <lastmod>2026-08-14T21:03:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html</loc>
@@ -75,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html</loc>
     <lastmod>2026-08-14T16:23:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html</loc>
+    <lastmod>2026-08-14T16:20:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -295,18 +325,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue.html</loc>
-    <lastmod>2026-08-14T04:44:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-figure-reports-43b-in-loan-marketplace-volume-as-profit-nearly-triples.html</loc>
-    <lastmod>2026-08-14T02:06:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-.html</loc>
     <lastmod>2026-08-14T00:06:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d.html</loc>
     <lastmod>2026-08-13T22:18:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-breaking-the-sec-just-canceled-fridays-crypto-meeting-entirely-hours-after-delay.html</loc>
-    <lastmod>2026-08-13T22:04:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -427,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-bitcoin-companies-want-help-from-ai-labs-to-guard-against-hackers.html</loc>
-    <lastmod>2026-08-13T17:11:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html</loc>
     <lastmod>2026-08-13T17:10:57.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
     <lastmod>2026-08-13T13:54:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide.html</loc>
-    <lastmod>2026-08-13T13:41:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
