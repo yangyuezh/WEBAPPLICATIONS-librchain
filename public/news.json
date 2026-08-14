@@ -1,7 +1,123 @@
 {
-  "updatedAt": "2026-08-14T10:13:57.148Z",
+  "updatedAt": "2026-08-14T11:53:32.020Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tether Finally Gets An Audit",
+      "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
+      "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
+      "publishedAt": "2026-08-14T11:45:39.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260814-morning-minute-tether-finally-gets-an-audit",
+      "localUrl": "/news/20260814-morning-minute-tether-finally-gets-an-audit.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+      "summary": "Your day-ahead look for Aug. 14, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+      "publishedAt": "2026-08-14T11:33:50.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260814-volatility-exits-crypto-tradfi-markets-even-as-us-iran-risks-linger-sovereign-de",
+      "localUrl": "/news/20260814-volatility-exits-crypto-tradfi-markets-even-as-us-iran-risks-linger-sovereign-de.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
+      "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
+      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T11:23:28.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260814-shinhan-asset-management-partners-with-plume-on-tokenized-fund-pilot",
+      "localUrl": "/news/20260814-shinhan-asset-management-partners-with-plume-on-tokenized-fund-pilot.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
+      "summary": "The token’s sale has been pushed back due to the Iran war disrupting travel in the region.",
+      "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
+      "publishedAt": "2026-08-14T11:07:49.000Z",
+      "keywords": [
+        "Finance",
+        "Eric Trump",
+        "Real World Assets",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260814-trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
+      "localUrl": "/news/20260814-trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
+      "summary": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
+      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
+      "publishedAt": "2026-08-14T11:06:12.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260814-bitcoin-slips-as-us-inflation-fails-to-spark-gains-etfs-see-augusts-first-two-da",
+      "localUrl": "/news/20260814-bitcoin-slips-as-us-inflation-fails-to-spark-gains-etfs-see-augusts-first-two-da.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
+      "summary": "Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pressure on leveraged longs.",
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-14T10:43:57.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260814-bitcoin-eyes-new-august-lows-as-binance-longs-face-cleanout",
+      "localUrl": "/news/20260814-bitcoin-eyes-new-august-lows-as-binance-longs-face-cleanout.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
+      "summary": "No replacement date has been set for the meeting, which was cancelled due to an “unforeseen scheduling issue.”",
+      "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
+      "publishedAt": "2026-08-14T10:39:39.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260814-sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
+      "localUrl": "/news/20260814-sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
+      "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
+      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
+      "publishedAt": "2026-08-14T10:35:40.000Z",
+      "keywords": [
+        "Finance",
+        "Stablecoins",
+        "IPOs",
+        "Binance",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg",
+      "localUrl": "/news/20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
@@ -30,7 +146,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
+      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
       "summary": "JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over regulatory concerns but remains open to an underwriting role if the platform goes public.",
       "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-14T08:53:42.000Z",
@@ -38,8 +154,8 @@
         "Latest News"
       ],
       "category": "监管",
-      "slug": "20260814-jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns-report",
-      "localUrl": "/news/20260814-jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns-report.html"
+      "slug": "20260814-jpmorgan-cuts-polymarket-banking-ties-over-regulatory-concerns-report",
+      "localUrl": "/news/20260814-jpmorgan-cuts-polymarket-banking-ties-over-regulatory-concerns-report.html"
     },
     {
       "source": "CoinDesk",
@@ -167,6 +283,17 @@
       "category": "X热点",
       "slug": "20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-",
       "localUrl": "/news/20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 LATEST: Ethereum Foundation researcher Justin Drake announces the EF is dropping Poseidon in favor of SHA or BLAKE hashes. He calls it a milestone for post-quantum security on Ethereum. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxLWE1cEw1YTktbVRHX3RSY0s0amlVSWM1MHE5alJDYkMyVjlMdEs1NzVFeDRyRFFQX3RBY0pnUlM5SkxHNXc0RWt6Sy14c18ycnRQWjFKQk1xbFZrd1NzbGFQUXY?oc=5\" target=\"_blank\">🚨 LATEST: Ethereum Foundation …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxLWE1cEw1YTktbVRHX3RSY0s0amlVSWM1MHE5alJDYkMyVjlMdEs1NzVFeDRyRFFQX3RBY0pnUlM5SkxHNXc0RWt6Sy14c18ycnRQWjFKQk1xbFZrd1NzbGFQUXY?oc=5",
+      "publishedAt": "2026-08-14T00:00:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-latest-ethereum-foundation-researcher-justin-drake-announces-the-ef-is-dropping-",
+      "localUrl": "/news/20260814-latest-ethereum-foundation-researcher-justin-drake-announces-the-ef-is-dropping-.html"
     },
     {
       "source": "Cointelegraph",
@@ -301,17 +428,6 @@
       "localUrl": "/news/20260813-tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion.html"
     },
     {
-      "source": "X Wire",
-      "title": "🇺🇸 JUST IN: The White House is expected to host crypto and prediction market executives next Wednesday, one day before the CFTC’s Innovation Advisory Committee meeting. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDdlRBTlRlNk1vbFVpQUhEUUJYMDYtUGJsQ2FwVkhSZlFCaVg5VHg4MmJPNF9zWnZVTVd3bmFwWFMwdXF5anBtdl9JdHNQLWlKWnllVkRJTWE5OFUxSVRCUTYwNU0?oc=5\" target=\"_blank\">🇺🇸 JUST IN: The White House i…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDdlRBTlRlNk1vbFVpQUhEUUJYMDYtUGJsQ2FwVkhSZlFCaVg5VHg4MmJPNF9zWnZVTVd3bmFwWFMwdXF5anBtdl9JdHNQLWlKWnllVkRJTWE5OFUxSVRCUTYwNU0?oc=5",
-      "publishedAt": "2026-08-13T20:39:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-the-white-house-is-expected-to-host-crypto-and-prediction-market-executi",
-      "localUrl": "/news/20260813-just-in-the-white-house-is-expected-to-host-crypto-and-prediction-market-executi.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
       "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
@@ -334,6 +450,17 @@
       "category": "X热点",
       "slug": "20260813-just-in-white-house-to-meet-with-top-crypto-executives-next-week-xcom",
       "localUrl": "/news/20260813-just-in-white-house-to-meet-with-top-crypto-executives-next-week-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
+      "publishedAt": "2026-08-13T19:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin",
+      "localUrl": "/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html"
     },
     {
       "source": "Cointelegraph",
@@ -857,19 +984,6 @@
       "localUrl": "/news/20260813-xrp-holders-can-now-trade-options-using-flares-fxrp-as-collateral.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-      "summary": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
-      "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T13:00:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260813-mufg-poc-to-bring-japanese-government-bond-repo-transactions-onchain",
-      "localUrl": "/news/20260813-mufg-poc-to-bring-japanese-government-bond-repo-transactions-onchain.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
       "summary": "Bullish's second-quarter loss of $280 million was mostly attributable to a $244.6 million markdown on the company’s bitcoin holdings.",
@@ -900,19 +1014,6 @@
       "localUrl": "/news/20260813-morning-minute-the-sec-plans-rules-for-tokenized-stocks.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-      "summary": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
-      "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-13T11:48:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260813-sec-allows-franklin-templeton-funds-to-invest-in-onchain-money-fund",
-      "localUrl": "/news/20260813-sec-allows-franklin-templeton-funds-to-invest-in-onchain-money-fund.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
       "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
@@ -924,81 +1025,6 @@
       "category": "市场",
       "slug": "20260813-twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
       "localUrl": "/news/20260813-twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy, Metaplanet unrealized bitcoin losses highlight risk of concentrating on just one token",
-      "summary": "Your day-ahead look for Aug. 13, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
-      "publishedAt": "2026-08-13T11:35:53.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on",
-      "localUrl": "/news/20260813-strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds steady near $64,000 as monero, hyperliquid outperform",
-      "summary": "Crypto markets remain in a low volatility holding pattern, trading in a tight range following Wednesday's CPI report.",
-      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
-      "publishedAt": "2026-08-13T11:02:43.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-bitcoin-holds-steady-near-64000-as-monero-hyperliquid-outperform",
-      "localUrl": "/news/20260813-bitcoin-holds-steady-near-64000-as-monero-hyperliquid-outperform.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
-      "summary": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
-      "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
-      "publishedAt": "2026-08-13T10:16:50.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260813-ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
-      "localUrl": "/news/20260813-ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-      "summary": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
-      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-      "publishedAt": "2026-08-13T10:15:32.000Z",
-      "keywords": [
-        "Finance",
-        "Japan",
-        "banks",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260813-mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-      "localUrl": "/news/20260813-mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazil’s largest bitcoin treasury firm plans ETF with 95% allocation to Strategy's STRC",
-      "summary": "DIGY11 aims for annual distributions matching Brazil’s interbank rate plus 3–5 percentage points, net of costs, though investors' actual returns are not guaranteed.",
-      "url": "https://www.coindesk.com/business/2026/08/13/brazil-s-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategy-s-strc",
-      "publishedAt": "2026-08-13T09:39:52.000Z",
-      "keywords": [
-        "Finance",
-        "Brazil",
-        "ETFs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260813-brazils-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategys-",
-      "localUrl": "/news/20260813-brazils-largest-bitcoin-treasury-firm-plans-etf-with-95-allocation-to-strategys-.html"
     },
     {
       "source": "X Wire",
@@ -1021,30 +1047,6 @@
       "category": "X热点",
       "slug": "20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with",
       "localUrl": "/news/20260813-latest-bitwise-cio-matt-hougan-says-crypto-is-entering-a-revenue-driven-era-with.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨LATEST: Bitcoin drops down to its ‘Cost of Production’ zone, a level historically associated with bear-market bottoms. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE16anYzRWpYTDU2Z3hUaXJVVWlWMXNVbHNuSVg2MmIydFowcjJYc0tVV3hrLURPSE9RQ2NMU3VGcVNQQWFxVkRsMWF3WGNQR2hyay1rRVFDZVpoSXNSOXNkUw?oc=5\" target=\"_blank\">🚨LATEST: Bitcoin drops down to its …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16anYzRWpYTDU2Z3hUaXJVVWlWMXNVbHNuSVg2MmIydFowcjJYc0tVV3hrLURPSE9RQ2NMU3VGcVNQQWFxVkRsMWF3WGNQR2hyay1rRVFDZVpoSXNSOXNkUw?oc=5",
-      "publishedAt": "2026-08-13T02:02:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-latest-bitcoin-drops-down-to-its-cost-of-production-zone-a-level-historically-as",
-      "localUrl": "/news/20260813-latest-bitcoin-drops-down-to-its-cost-of-production-zone-a-level-historically-as.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
-      "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
-      "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
-      "publishedAt": "2026-08-12T21:31:15.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock",
-      "localUrl": "/news/20260812-the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock.html"
     },
     {
       "source": "X Wire",
