@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T14:35:29.116Z</lastmod>
+    <lastmod>2026-08-15T15:32:24.925Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T14:35:29.116Z</lastmod>
+    <lastmod>2026-08-15T15:32:24.925Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-why-the-worlds-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-.html</loc>
+    <lastmod>2026-08-15T15:21:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-paul-tudor-jones-investment-firm-increases-stake-in-blackrocks-bitcoin-etf-after.html</loc>
+    <lastmod>2026-08-15T15:12:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions.html</loc>
+    <lastmod>2026-08-15T15:01:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-15T14:40:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html</loc>
@@ -45,6 +69,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html</loc>
     <lastmod>2026-08-15T12:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html</loc>
+    <lastmod>2026-08-15T11:41:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -325,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-the-interesting-part-remains-that-altcoins-are-acting-substantially-stronger-tha.html</loc>
-    <lastmod>2026-08-14T11:27:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-shinhan-asset-management-partners-with-plume-on-tokenized-fund-pilot.html</loc>
     <lastmod>2026-08-14T11:23:28.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg.html</loc>
     <lastmod>2026-08-14T10:35:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-redotpay-us-ipo-delayed-amid-regulatory-legal-hurdles-report.html</loc>
-    <lastmod>2026-08-14T09:53:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,26 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-180-bil.html</loc>
-    <lastmod>2026-08-13T18:26:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html</loc>
-    <lastmod>2026-08-13T18:26:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges.html</loc>
-    <lastmod>2026-08-13T17:43:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html</loc>
-    <lastmod>2026-08-13T15:13:20.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html</loc>
+    <lastmod>2026-08-13T15:20:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

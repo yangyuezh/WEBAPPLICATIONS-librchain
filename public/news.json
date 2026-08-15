@@ -1,7 +1,64 @@
 {
-  "updatedAt": "2026-08-15T14:35:29.074Z",
+  "updatedAt": "2026-08-15T15:32:24.883Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
+      "summary": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
+      "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
+      "publishedAt": "2026-08-15T15:21:15.000Z",
+      "keywords": [
+        "Policy",
+        "Bitcoin Mining",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260815-why-the-worlds-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-",
+      "localUrl": "/news/20260815-why-the-worlds-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
+      "summary": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
+      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
+      "publishedAt": "2026-08-15T15:12:29.000Z",
+      "keywords": [
+        "Finance",
+        "BlackRock",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260815-paul-tudor-jones-investment-firm-increases-stake-in-blackrocks-bitcoin-etf-after",
+      "localUrl": "/news/20260815-paul-tudor-jones-investment-firm-increases-stake-in-blackrocks-bitcoin-etf-after.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+      "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+      "publishedAt": "2026-08-15T15:01:05.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions",
+      "localUrl": "/news/20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-15T14:40:24.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260815-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260815-heres-what-happened-in-crypto-today.html"
+    },
     {
       "source": "CoinDesk",
       "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
@@ -89,6 +146,17 @@
       "category": "基础设施",
       "slug": "20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc",
       "localUrl": "/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Tether is NOT building any blockchain nor has plan to build one. We remain agnostic and support many transport layers for our stablecoins. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5\" target=\"_blank\">Tether is NOT building any block…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5",
+      "publishedAt": "2026-08-15T11:41:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
+      "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
     },
     {
       "source": "Cointelegraph",
@@ -685,17 +753,6 @@
       "localUrl": "/news/20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds.html"
     },
     {
-      "source": "X Wire",
-      "title": "The interesting part remains that #Altcoins are acting substantially stronger than Bitcoin. As an example: $ETH. It's climbing upwards against Bitcoin as it's attacking the 0.03 level. I do expect to see a liquidity flush taking place when the markets are going to se - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DLVZZVlVfTHZUUDNwMm5oZmd5c3hUdlNYNmJCOHBQMi11aVNVbE9fY25XblphQXAxZ2VDRGpzOVhsY0NTZUJnNWg2X185bFZhTVhTUW0wR25WSENvQlRJQ0E5SQ?oc=5\" target=\"_blank\">The interesting part remains tha…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DLVZZVlVfTHZUUDNwMm5oZmd5c3hUdlNYNmJCOHBQMi11aVNVbE9fY25XblphQXAxZ2VDRGpzOVhsY0NTZUJnNWg2X185bFZhTVhTUW0wR25WSENvQlRJQ0E5SQ?oc=5",
-      "publishedAt": "2026-08-14T11:27:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-the-interesting-part-remains-that-altcoins-are-acting-substantially-stronger-tha",
-      "localUrl": "/news/20260814-the-interesting-part-remains-that-altcoins-are-acting-substantially-stronger-tha.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
       "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
@@ -793,19 +850,6 @@
       "category": "综合",
       "slug": "20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg",
       "localUrl": "/news/20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
-      "summary": "RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals, while the company says it secured a US money transmitter license.",
-      "url": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T09:53:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260814-redotpay-us-ipo-delayed-amid-regulatory-legal-hurdles-report",
-      "localUrl": "/news/20260814-redotpay-us-ipo-delayed-amid-regulatory-legal-hurdles-report.html"
     },
     {
       "source": "Decrypt",
@@ -1028,58 +1072,15 @@
       "localUrl": "/news/20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "summary": "KPMG U.S. examined Tether's books and even counted its gold bars as the $180 billion USDT issuer said it completed its long-promised financial audit.",
-      "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-      "publishedAt": "2026-08-13T18:26:21.000Z",
-      "keywords": [
-        "Finance",
-        "Tether",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260813-tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-180-bil",
-      "localUrl": "/news/20260813-tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-180-bil.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk",
-      "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
-      "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
-      "publishedAt": "2026-08-13T18:26:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk",
-      "localUrl": "/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "summary": "The thesis is that high yields on long-term U.S. Treasuries make non-yielding assets like bitcoin less attractive.",
-      "url": "https://www.coindesk.com/markets/2026/08/13/forecasts-for-usd1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-suggests",
-      "publishedAt": "2026-08-13T17:43:25.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges",
-      "localUrl": "/news/20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges.html"
-    },
-    {
       "source": "X Wire",
-      "title": "The next generation of the ether.fi crypto neobank is live. Earn, trade, borrow, spend. One app to replace your traditional bank. What’s new: → Tokenized stocks and metals trading → An integrated @Aave market on @Optimism, borrowing against your full portf - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5\" target=\"_blank\">The next generation of the ether.fi cry…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5",
-      "publishedAt": "2026-08-13T15:13:20.000Z",
+      "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5",
+      "publishedAt": "2026-08-13T15:20:05.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen",
-      "localUrl": "/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html"
+      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks",
+      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html"
     },
     {
       "source": "Solana Blog",
