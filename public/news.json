@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-08-15T11:31:30.924Z",
+  "updatedAt": "2026-08-15T12:55:52.476Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+      "summary": "Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.",
+      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "publishedAt": "2026-08-15T12:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Ethereum News",
+        "DeFi",
+        "Institutional Adoption",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc",
+      "localUrl": "/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
@@ -1073,22 +1090,6 @@
       "category": "综合",
       "slug": "20260813-crypto-for-advisors-the-crypto-advice-gap",
       "localUrl": "/news/20260813-crypto-for-advisors-the-crypto-advice-gap.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
-      "summary": "The institutional crypto liquidity provider is bringing on the former Schroders Wealth Management Asia chairman as it targets family offices and asset managers across the region.",
-      "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
-      "publishedAt": "2026-08-13T14:43:38.000Z",
-      "keywords": [
-        "Finance",
-        "B2C2",
-        "Crypto Trading",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260813-b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth",
-      "localUrl": "/news/20260813-b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth.html"
     },
     {
       "source": "Solana Blog",

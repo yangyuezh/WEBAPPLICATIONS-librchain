@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T11:31:30.968Z</lastmod>
+    <lastmod>2026-08-15T12:55:52.517Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T11:31:30.968Z</lastmod>
+    <lastmod>2026-08-15T12:55:52.517Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html</loc>
+    <lastmod>2026-08-15T12:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</loc>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-crypto-for-advisors-the-crypto-advice-gap.html</loc>
     <lastmod>2026-08-13T15:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth.html</loc>
-    <lastmod>2026-08-13T14:43:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

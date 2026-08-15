@@ -5,7 +5,15 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Aug 2026 11:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:55:52 GMT</lastBuildDate>
+    <item>
+      <title>Wall Street&apos;s private blockchain obsession is a &apos;race to the bottom,&apos; Ethereum advocate Raman warns</title>
+      <link>https://www.librchain.com/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html</guid>
+      <description>Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.</description>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns">CoinDesk</source>
+    </item>
     <item>
       <title>Kalshi ordered to stop broad range of prediction markets in Washington</title>
       <link>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</link>
@@ -477,14 +485,6 @@
       <description>Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.</description>
       <pubDate>Fri, 14 Aug 2026 07:14:37 GMT</pubDate>
       <source url="https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1">CoinDesk</source>
-    </item>
-    <item>
-      <title>Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal</title>
-      <link>https://www.librchain.com/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html</guid>
-      <description>A new consultation targets &quot;non-operating companies&quot; broadly. Two familiar names still land on the deletion list.</description>
-      <pubDate>Fri, 14 Aug 2026 06:20:54 GMT</pubDate>
-      <source url="https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal">CoinDesk</source>
     </item>
   </channel>
 </rss>
