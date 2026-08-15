@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T12:55:52.517Z</lastmod>
+    <lastmod>2026-08-15T13:39:24.200Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T12:55:52.517Z</lastmod>
+    <lastmod>2026-08-15T13:39:24.200Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-bitcoin-to-1m-by-2030-is-mathematically-impossible-says-markus-thielen.html</loc>
+    <lastmod>2026-08-15T13:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin.html</loc>
+    <lastmod>2026-08-15T13:01:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercards-18-bi.html</loc>
+    <lastmod>2026-08-15T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-bitcoin-could-bottom-in-october-altcoins-are-basically-dead-swan-ceo-says.html</loc>
+    <lastmod>2026-08-15T12:57:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html</loc>
@@ -187,12 +211,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-14T14:40:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-bitcoin-price-drops-to-625k-as-trader-warns-weekly-close-may-spark-more-losses.html</loc>
     <lastmod>2026-08-14T14:38:27.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -349,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-jpmorgan-cuts-polymarket-banking-ties-over-regulatory-concerns-report.html</loc>
-    <lastmod>2026-08-14T08:53:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from.html</loc>
     <lastmod>2026-08-14T08:51:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,6 +405,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html</loc>
     <lastmod>2026-08-13T23:09:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html</loc>
+    <lastmod>2026-08-13T22:50:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-you-will-never-be-done-learning-about-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-13T18:51:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem.html</loc>
     <lastmod>2026-08-13T18:39:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html</loc>
     <lastmod>2026-08-13T18:26:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-crypto-group-warns-fed-could-use-banking-access-to-squeeze-digital-asset-firms.html</loc>
-    <lastmod>2026-08-13T17:47:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-solana-changelog-august-13-2026.html</loc>
     <lastmod>2026-08-13T15:03:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-crypto-for-advisors-the-crypto-advice-gap.html</loc>
-    <lastmod>2026-08-13T15:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
