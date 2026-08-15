@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-15T19:31:16.350Z",
+  "updatedAt": "2026-08-15T20:35:28.309Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "summary": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
+      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-15T19:27:29.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup",
+      "localUrl": "/news/20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Tokenized stock holders more than double as monthly volume surges",
@@ -27,6 +40,17 @@
       "category": "综合",
       "slug": "20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china",
       "localUrl": "/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The support under bitcoin:native has started to disappear. The heavy wall of buy orders that built below price in June has begun to drain away. What remains is a much thinner floor. In our weekly updates we've been monitoring this metric closely 👇 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hRmFDbnJMZmFTUUZOcDVKdHIxaG15emd4cGpHQWM4dDY1WnZDMTUyOGJiVjcyMmhNU3ctX25DZ3hVbzROeVFYenJkRXlSU3Fwc1Y1YlNUakNaMS1zUExn?oc=5\" target=\"_blank\">The support under bitcoin:native has s…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hRmFDbnJMZmFTUUZOcDVKdHIxaG15emd4cGpHQWM4dDY1WnZDMTUyOGJiVjcyMmhNU3ctX25DZ3hVbzROeVFYenJkRXlSU3Fwc1Y1YlNUakNaMS1zUExn?oc=5",
+      "publishedAt": "2026-08-15T16:08:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-the-support-under-bitcoinnative-has-started-to-disappear-the-heavy-wall-of-buy-o",
+      "localUrl": "/news/20260815-the-support-under-bitcoinnative-has-started-to-disappear-the-heavy-wall-of-buy-o.html"
     },
     {
       "source": "CoinDesk",
@@ -236,17 +260,6 @@
       "category": "X热点",
       "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
       "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Cosmos Ecosystem’s Second-Largest Wallet Cosmostation to Shut Down Cosmos ecosystem wallet Cosmostation announced it will discontinue its wallet services. Starting September 1, Cosmostation Wallet will retain only seed phrase and private key export f - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lNlFHbkpUY3ZnZFNETVNvMFoya0JxbjEwSEdnYmkxeVNTdXJoMFZ6YXRwM3JNbFBDc2p3YkJlWU9nc1lOMmh0djlaakt1RGJpaDdZRjhTN0dsdVJ6dU5KZHU0UQ?oc=5\" target=\"_blank\">Cosmos Ecosystem’s Second-Larges…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lNlFHbkpUY3ZnZFNETVNvMFoya0JxbjEwSEdnYmkxeVNTdXJoMFZ6YXRwM3JNbFBDc2p3YkJlWU9nc1lOMmh0djlaakt1RGJpaDdZRjhTN0dsdVJ6dU5KZHU0UQ?oc=5",
-      "publishedAt": "2026-08-15T11:20:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-cosmos-ecosystems-second-largest-wallet-cosmostation-to-shut-down-cosmos-ecosyst",
-      "localUrl": "/news/20260815-cosmos-ecosystems-second-largest-wallet-cosmostation-to-shut-down-cosmos-ecosyst.html"
     },
     {
       "source": "Cointelegraph",
@@ -841,19 +854,6 @@
       "category": "RWA",
       "slug": "20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds",
       "localUrl": "/news/20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-      "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
-      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T11:23:28.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260814-shinhan-asset-management-partners-with-plume-on-tokenized-fund-pilot",
-      "localUrl": "/news/20260814-shinhan-asset-management-partners-with-plume-on-tokenized-fund-pilot.html"
     },
     {
       "source": "CoinDesk",
