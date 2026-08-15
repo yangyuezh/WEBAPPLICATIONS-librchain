@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-14T23:33:04.709Z</lastmod>
+    <lastmod>2026-08-15T01:46:50.230Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-14T23:33:04.709Z</lastmod>
+    <lastmod>2026-08-15T01:46:50.230Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say.html</loc>
+    <lastmod>2026-08-14T23:41:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260814-gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance.html</loc>
@@ -469,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html</loc>
-    <lastmod>2026-08-13T15:20:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html</loc>
     <lastmod>2026-08-13T15:13:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -499,8 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion.html</loc>
-    <lastmod>2026-08-13T14:16:06.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260813-you-can-live-on-bitcoin-you-can-also-build-on-it-crude-oil-is-valuable-but-civil.html</loc>
+    <lastmod>2026-08-13T14:42:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
