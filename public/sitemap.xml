@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T13:39:24.200Z</lastmod>
+    <lastmod>2026-08-15T14:35:29.116Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T13:39:24.200Z</lastmod>
+    <lastmod>2026-08-15T14:35:29.116Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html</loc>
+    <lastmod>2026-08-15T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-bitcoin-to-1m-by-2030-is-mathematically-impossible-says-markus-thielen.html</loc>
@@ -61,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260815-insight-crypto-executives-have-been-lying-to-you-bitcoin-probably-isnt-going-to-.html</loc>
+    <lastmod>2026-08-15T06:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say.html</loc>
     <lastmod>2026-08-14T23:41:49.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -93,6 +105,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html</loc>
     <lastmod>2026-08-14T21:03:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf.html</loc>
+    <lastmod>2026-08-14T20:15:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -409,12 +427,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html</loc>
-    <lastmod>2026-08-13T22:50:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html</loc>
     <lastmod>2026-08-13T22:36:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,18 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges.html</loc>
     <lastmod>2026-08-13T17:43:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html</loc>
-    <lastmod>2026-08-13T17:10:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html</loc>
-    <lastmod>2026-08-13T15:20:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-08-15T13:39:24.158Z",
+  "updatedAt": "2026-08-15T14:35:29.074Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+      "summary": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
+      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "publishedAt": "2026-08-15T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Institutional Investors",
+        "Funding Rounds",
+        "Regulation",
+        "Crypto News",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era",
+      "localUrl": "/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
@@ -110,6 +128,17 @@
       "localUrl": "/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html"
     },
     {
+      "source": "X Wire",
+      "title": "🔥 INSIGHT: Crypto executives have been lying to you. Bitcoin probably isn't going to $1 million by 2030. In the latest episode of Trade Secrets, @itsciaranlyons sits down with Markus Thielen ( @markus10x) of 10x Research ( @10xresearch) to unpack why the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fcnc4ZG9hd2FnZmRLV1RsN3lJWGczcVVaNERnLUpvM3VaSkF0b1FIU0h3bWt6XzhJUFVjV1FXdU94eWVMZDZCVDRMNF90MHkwSWZ0elltMDktVUwtYXd2NW9VS2g?oc=5\" target=\"_blank\">🔥 INSIGHT: Crypto executives h…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fcnc4ZG9hd2FnZmRLV1RsN3lJWGczcVVaNERnLUpvM3VaSkF0b1FIU0h3bWt6XzhJUFVjV1FXdU94eWVMZDZCVDRMNF90MHkwSWZ0elltMDktVUwtYXd2NW9VS2g?oc=5",
+      "publishedAt": "2026-08-15T06:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-insight-crypto-executives-have-been-lying-to-you-bitcoin-probably-isnt-going-to-",
+      "localUrl": "/news/20260815-insight-crypto-executives-have-been-lying-to-you-bitcoin-probably-isnt-going-to-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
       "summary": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
@@ -191,6 +220,17 @@
       "category": "监管",
       "slug": "20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders",
       "localUrl": "/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $326 billion Edleman Financial discloses owning $34 million in Bitcoin ETFs 💥 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYl85eVM1VEE4MzdrbHNyX1JoQ3NqMjE4SnFfQl9KMHlzMExhcWo1bl9IdkVJcXhvNk9mQXYyVm1CTUFPNk1ROUpqZ2NseWRoNE1xQkRuYW9lcjRHSEY2M0xpODVMWnM?oc=5\" target=\"_blank\">JUST IN: $326 billion Edlem…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYl85eVM1VEE4MzdrbHNyX1JoQ3NqMjE4SnFfQl9KMHlzMExhcWo1bl9IdkVJcXhvNk9mQXYyVm1CTUFPNk1ROUpqZ2NseWRoNE1xQkRuYW9lcjRHSEY2M0xpODVMWnM?oc=5",
+      "publishedAt": "2026-08-14T20:15:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf",
+      "localUrl": "/news/20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf.html"
     },
     {
       "source": "Decrypt",
@@ -884,17 +924,6 @@
       "localUrl": "/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto Traders Debate Top Onchain Rankings List - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4XzV5X3BUYlpwcHZteXZ5OUZRM0doNzRYUHlqN29RdG1kay00bEdlWDJjYnl6MjdGR3dQSFNEVV9Pak5UdVhmV05ZYkpNaHI4TWstdTV6Zw?oc=5\" target=\"_blank\">Crypto Traders Debate Top Onchain Rankings List<…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4XzV5X3BUYlpwcHZteXZ5OUZRM0doNzRYUHlqN29RdG1kay00bEdlWDJjYnl6MjdGR3dQSFNEVV9Pak5UdVhmV05ZYkpNaHI4TWstdTV6Zw?oc=5",
-      "publishedAt": "2026-08-13T22:50:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-crypto-traders-debate-top-onchain-rankings-list-xcom",
-      "localUrl": "/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
       "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
@@ -1040,33 +1069,6 @@
       "category": "DeFi",
       "slug": "20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges",
       "localUrl": "/news/20260813-forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "summary": "The incident marks the first time Trezor customers' shipping addresses were exposed.",
-      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
-      "publishedAt": "2026-08-13T17:10:57.000Z",
-      "keywords": [
-        "Tech",
-        "Data Breaches",
-        "Ledger",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach",
-      "localUrl": "/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5",
-      "publishedAt": "2026-08-13T15:20:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks",
-      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html"
     },
     {
       "source": "X Wire",
