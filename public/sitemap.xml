@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T22:34:33.005Z</lastmod>
+    <lastmod>2026-08-15T23:31:27.652Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T22:34:33.005Z</lastmod>
+    <lastmod>2026-08-15T23:31:27.652Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html</loc>
     <lastmod>2026-08-15T17:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-.html</loc>
+    <lastmod>2026-08-15T16:20:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,6 +117,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-bitcoin-could-bottom-in-october-altcoins-are-basically-dead-swan-ceo-says.html</loc>
     <lastmod>2026-08-15T12:57:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-insight-bitcoin-hitting-1-million-by-2030-is-mathematically-impossible-according.html</loc>
+    <lastmod>2026-08-15T12:32:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,20 +367,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html</loc>
-    <lastmod>2026-08-14T12:43:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html</loc>
     <lastmod>2026-08-14T12:38:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-just-in-binance-will-stop-processing-transactions-involving-11-crypto-platforms-.html</loc>
-    <lastmod>2026-08-14T12:21:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
