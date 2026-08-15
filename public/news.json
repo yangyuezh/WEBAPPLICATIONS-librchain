@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:43:32.217Z",
+  "updatedAt": "2026-08-15T05:36:26.370Z",
   "total": 84,
   "items": [
     {
@@ -896,17 +896,6 @@
       "localUrl": "/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
-      "publishedAt": "2026-08-13T19:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin",
-      "localUrl": "/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
       "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
@@ -1014,6 +1003,17 @@
       "category": "安全",
       "slug": "20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach",
       "localUrl": "/news/20260813-trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5",
+      "publishedAt": "2026-08-13T15:20:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks",
+      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html"
     },
     {
       "source": "X Wire",
