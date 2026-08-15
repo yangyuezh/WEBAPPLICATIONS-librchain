@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T01:46:50.230Z</lastmod>
+    <lastmod>2026-08-15T03:01:11.069Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T01:46:50.230Z</lastmod>
+    <lastmod>2026-08-15T03:01:11.069Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -123,6 +123,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html</loc>
     <lastmod>2026-08-14T16:20:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-just-in-uae-sovereign-wealth-funds-mubadala-and-abu-dhabi-investment-council-rep.html</loc>
+    <lastmod>2026-08-14T16:16:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html</loc>
     <lastmod>2026-08-13T20:30:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html</loc>
-    <lastmod>2026-08-13T19:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
