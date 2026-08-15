@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-15T16:37:11.388Z",
+  "updatedAt": "2026-08-15T17:32:04.634Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+      "summary": "Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+      "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+      "publishedAt": "2026-08-15T17:01:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china",
+      "localUrl": "/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
@@ -653,6 +666,17 @@
       "localUrl": "/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html"
     },
     {
+      "source": "X Wire",
+      "title": "TODAY: New Chainlink integrations ↓ • @re: CCIP to secure reUSD transfers across Ethereum & Solana • @obligatecom: SmartData to bring NAV onchain for its $200M+ oTFY token • @RadiantPrimeXYZ: Proof of Reserve to enhance transparency for its toke - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IV0pVLWlpM2FqNzJXaEE4bnJsUlZfenhyT0loZFlaYVhFMzdrLXdiNUpqYzFXZmdqUnI4cjdoaWJBNmtlLW8zVjBUZjdCbWsyYXdCZFZnODRHLW1kaGlv?oc=5\" target=\"_blank\">TODAY: New Chainlink integrations ↓ • …",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IV0pVLWlpM2FqNzJXaEE4bnJsUlZfenhyT0loZFlaYVhFMzdrLXdiNUpqYzFXZmdqUnI4cjdoaWJBNmtlLW8zVjBUZjdCbWsyYXdCZFZnODRHLW1kaGlv?oc=5",
+      "publishedAt": "2026-08-14T13:54:23.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-today-new-chainlink-integrations-re-ccip-to-secure-reusd-transfers-across-ethere",
+      "localUrl": "/news/20260814-today-new-chainlink-integrations-re-ccip-to-secure-reusd-transfers-across-ethere.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Israel’s largest bank to offer crypto trading with Galaxy",
       "summary": "Bank Leumi customers will be able to trade bitcoin, ether and solana through the bank’s investment app from early 2027.",
@@ -1056,30 +1080,6 @@
       "category": "综合",
       "slug": "20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so",
       "localUrl": "/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-      "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
-      "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
-      "publishedAt": "2026-08-13T18:39:11.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem",
-      "localUrl": "/news/20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The next generation of the ether.fi crypto neobank is live. Earn, trade, borrow, spend. One app to replace your traditional bank. What’s new: → Tokenized stocks and metals trading → An integrated @Aave market on @Optimism, borrowing against your full portf - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5\" target=\"_blank\">The next generation of the ether.fi cry…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5",
-      "publishedAt": "2026-08-13T15:13:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen",
-      "localUrl": "/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html"
     },
     {
       "source": "Solana Blog",

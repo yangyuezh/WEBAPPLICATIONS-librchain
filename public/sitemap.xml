@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T16:37:11.432Z</lastmod>
+    <lastmod>2026-08-15T17:32:04.663Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T16:37:11.432Z</lastmod>
+    <lastmod>2026-08-15T17:32:04.663Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html</loc>
+    <lastmod>2026-08-15T17:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-p.html</loc>
@@ -307,6 +313,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-today-new-chainlink-integrations-re-ccip-to-secure-reusd-transfers-across-ethere.html</loc>
+    <lastmod>2026-08-14T13:54:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy.html</loc>
     <lastmod>2026-08-14T13:51:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -483,18 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html</loc>
     <lastmod>2026-08-13T19:11:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem.html</loc>
-    <lastmod>2026-08-13T18:39:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html</loc>
-    <lastmod>2026-08-13T15:13:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
