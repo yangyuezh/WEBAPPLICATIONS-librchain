@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T09:35:58.618Z</lastmod>
+    <lastmod>2026-08-15T10:35:16.746Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T09:35:58.618Z</lastmod>
+    <lastmod>2026-08-15T10:35:16.746Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -163,12 +163,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-crypto-killed-so-many-dreams-in-5-years-xcom.html</loc>
-    <lastmod>2026-08-14T15:00:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-fake-linkedin-crypto-job-scams-have-cost-118m-singapore.html</loc>
     <lastmod>2026-08-14T14:55:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -225,12 +219,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html</loc>
     <lastmod>2026-08-14T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html</loc>
-    <lastmod>2026-08-14T12:43:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,6 +343,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html</loc>
+    <lastmod>2026-08-14T08:39:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds.html</loc>
     <lastmod>2026-08-14T08:22:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -379,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-.html</loc>
-    <lastmod>2026-08-14T00:06:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-latest-ethereum-foundation-researcher-justin-drake-announces-the-ef-is-dropping-.html</loc>
     <lastmod>2026-08-14T00:00:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -393,6 +381,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html</loc>
     <lastmod>2026-08-13T23:09:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html</loc>
+    <lastmod>2026-08-13T22:50:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -435,6 +429,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html</loc>
     <lastmod>2026-08-13T19:11:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-you-will-never-be-done-learning-about-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-13T18:51:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html</loc>
     <lastmod>2026-08-12T12:57:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260811-moneygram-ramps-launches-on-solana.html</loc>
-    <lastmod>2026-08-11T10:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

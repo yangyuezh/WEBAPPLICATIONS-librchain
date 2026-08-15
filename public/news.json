@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-15T09:35:58.579Z",
-  "total": 84,
+  "updatedAt": "2026-08-15T10:35:16.702Z",
+  "total": 83,
   "items": [
     {
       "source": "Cointelegraph",
@@ -324,17 +324,6 @@
       "localUrl": "/news/20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto killed so many dreams in 5 years. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZTlndzU2dVVJOXBMNnFiRkFDU1pDYTFWS1l2Yl9ualhWQVBhX1RtZHhtRndMTXpqZFduZGU2ODMtLThWb3ZDSjlZd1ZYWVhKTXkzZUdldi1JLXJQaGc?oc=5\" target=\"_blank\">Crypto killed so many dreams in 5 years…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZTlndzU2dVVJOXBMNnFiRkFDU1pDYTFWS1l2Yl9ualhWQVBhX1RtZHhtRndMTXpqZFduZGU2ODMtLThWb3ZDSjlZd1ZYWVhKTXkzZUdldi1JLXJQaGc?oc=5",
-      "publishedAt": "2026-08-14T15:00:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-crypto-killed-so-many-dreams-in-5-years-xcom",
-      "localUrl": "/news/20260814-crypto-killed-so-many-dreams-in-5-years-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
       "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
@@ -475,17 +464,6 @@
       "category": "基础设施",
       "slug": "20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay",
       "localUrl": "/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Saylor kinda makes me over Bitcoin. Hard to take it seriously anymore. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JTG54cy1RTnhYME0zOE5wbzY4bTRMOWIySTRnNmZxcmNWV3lWeVFSUWEyeENWOGJGTlBjYjUtRkp2Q1lQV3g1NC1UWEFoQTdYbklnY29zeGtDZVQ0WWtMMWRjZmFwZw?oc=5\" target=\"_blank\">Saylor kinda makes me over B…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JTG54cy1RTnhYME0zOE5wbzY4bTRMOWIySTRnNmZxcmNWV3lWeVFSUWEyeENWOGJGTlBjYjUtRkp2Q1lQV3g1NC1UWEFoQTdYbklnY29zeGtDZVQ0WWtMMWRjZmFwZw?oc=5",
-      "publishedAt": "2026-08-14T12:43:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom",
-      "localUrl": "/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -752,6 +730,17 @@
       "localUrl": "/news/20260814-whats-the-most-underrated-crypto-project-right-now-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "\"Consensus\" in Bitcoin is one word doing seven jobs. Almost every fight you've watched is two people using different definitions, each assuming the other is arguing in bad faith. Consensus is not agreement. It's a wide range of self-interested actors, node runn - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5\" target=\"_blank\">\"Consensus\" in Bitcoin is one word doi…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5",
+      "publishedAt": "2026-08-14T08:39:52.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch",
+      "localUrl": "/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Crypto payments barely register among euro area merchants, ECB finds",
       "summary": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
@@ -813,17 +802,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Hot take on SEC abruptly cancelling tomorrow’s planned meeting on crypto… Perhaps certain influential Senators came to their senses and realized the SEC could & would move forward on crypto innovation with or w/out Congress. If so, would bode well for C - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxZGJEaTNlQlhGX3diTDZLQ3FHYzdlNy1ZMEtvWGF5X2tIQnA0VnNHaXFvd0sxSV92aVc5cGZaR294eFVvUFlWMnl1dy1HUWVIMFJ0NER4SUJ0dm5OSHlfYQ?oc=5\" target=\"_blank\">Hot take on SEC abruptly cancelling …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxZGJEaTNlQlhGX3diTDZLQ3FHYzdlNy1ZMEtvWGF5X2tIQnA0VnNHaXFvd0sxSV92aVc5cGZaR294eFVvUFlWMnl1dy1HUWVIMFJ0NER4SUJ0dm5OSHlfYQ?oc=5",
-      "publishedAt": "2026-08-14T00:06:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-",
-      "localUrl": "/news/20260814-hot-take-on-sec-abruptly-cancelling-tomorrows-planned-meeting-on-crypto-perhaps-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "🚨 LATEST: Ethereum Foundation researcher Justin Drake announces the EF is dropping Poseidon in favor of SHA or BLAKE hashes. He calls it a milestone for post-quantum security on Ethereum. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxLWE1cEw1YTktbVRHX3RSY0s0amlVSWM1MHE5alJDYkMyVjlMdEs1NzVFeDRyRFFQX3RBY0pnUlM5SkxHNXc0RWt6Sy14c18ycnRQWjFKQk1xbFZrd1NzbGFQUXY?oc=5\" target=\"_blank\">🚨 LATEST: Ethereum Foundation …",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxLWE1cEw1YTktbVRHX3RSY0s0amlVSWM1MHE5alJDYkMyVjlMdEs1NzVFeDRyRFFQX3RBY0pnUlM5SkxHNXc0RWt6Sy14c18ycnRQWjFKQk1xbFZrd1NzbGFQUXY?oc=5",
@@ -849,6 +827,17 @@
       "category": "监管",
       "slug": "20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi",
       "localUrl": "/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto Traders Debate Top Onchain Rankings List - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4XzV5X3BUYlpwcHZteXZ5OUZRM0doNzRYUHlqN29RdG1kay00bEdlWDJjYnl6MjdGR3dQSFNEVV9Pak5UdVhmV05ZYkpNaHI4TWstdTV6Zw?oc=5\" target=\"_blank\">Crypto Traders Debate Top Onchain Rankings List<…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4XzV5X3BUYlpwcHZteXZ5OUZRM0doNzRYUHlqN29RdG1kay00bEdlWDJjYnl6MjdGR3dQSFNEVV9Pak5UdVhmV05ZYkpNaHI4TWstdTV6Zw?oc=5",
+      "publishedAt": "2026-08-13T22:50:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-crypto-traders-debate-top-onchain-rankings-list-xcom",
+      "localUrl": "/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -940,6 +929,17 @@
       "category": "综合",
       "slug": "20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so",
       "localUrl": "/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "You will never be done learning about Bitcoin. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE53T3FOWDB3REdVX3F6UGczWGZ4cnVVQmNmTDk0UllsVjdZSU1hUzRuQVdPeGp2S0loZXdxenc2UnJGd0hoQV81Y1ZDa1o2aGtCX2pwLXd0WUh1WEk?oc=5\" target=\"_blank\">You will never be done learning about Bitco…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53T3FOWDB3REdVX3F6UGczWGZ4cnVVQmNmTDk0UllsVjdZSU1hUzRuQVdPeGp2S0loZXdxenc2UnJGd0hoQV81Y1ZDa1o2aGtCX2pwLXd0WUh1WEk?oc=5",
+      "publishedAt": "2026-08-13T18:51:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-you-will-never-be-done-learning-about-bitcoin-xcom",
+      "localUrl": "/news/20260813-you-will-never-be-done-learning-about-bitcoin-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -1100,17 +1100,6 @@
       "category": "基础设施",
       "slug": "20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo",
       "localUrl": "/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "MoneyGram Ramps launches on Solana",
-      "summary": "MoneyGram Ramps gives Solana builders one API for cash deposits in 25+ countries and withdrawals in 170+ countries and territories.",
-      "url": "https://solana.com/news/moneygram-ramps",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260811-moneygram-ramps-launches-on-solana",
-      "localUrl": "/news/20260811-moneygram-ramps-launches-on-solana.html"
     }
   ]
 }
