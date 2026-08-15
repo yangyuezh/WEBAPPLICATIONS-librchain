@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T10:35:16.746Z</lastmod>
+    <lastmod>2026-08-15T11:31:30.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T10:35:16.746Z</lastmod>
+    <lastmod>2026-08-15T11:31:30.968Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</loc>
+    <lastmod>2026-08-15T10:44:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-galaxy-lowers-clarity-act-odds-to-10.html</loc>
@@ -163,6 +169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-crypto-killed-so-many-dreams-in-5-years-xcom.html</loc>
+    <lastmod>2026-08-14T15:00:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-fake-linkedin-crypto-job-scams-have-cost-118m-singapore.html</loc>
     <lastmod>2026-08-14T14:55:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,6 +231,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html</loc>
     <lastmod>2026-08-14T13:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html</loc>
+    <lastmod>2026-08-14T12:43:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,18 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html</loc>
-    <lastmod>2026-08-14T08:39:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds.html</loc>
-    <lastmod>2026-08-14T08:22:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1.html</loc>
     <lastmod>2026-08-14T07:14:37.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -381,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html</loc>
     <lastmod>2026-08-13T23:09:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html</loc>
-    <lastmod>2026-08-13T22:50:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

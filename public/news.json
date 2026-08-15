@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-15T10:35:16.702Z",
+  "updatedAt": "2026-08-15T11:31:30.924Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-15T10:44:52.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington",
+      "localUrl": "/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Galaxy lowers CLARITY Act odds to 10%",
@@ -324,6 +337,17 @@
       "localUrl": "/news/20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call.html"
     },
     {
+      "source": "X Wire",
+      "title": "Crypto killed so many dreams in 5 years. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZTlndzU2dVVJOXBMNnFiRkFDU1pDYTFWS1l2Yl9ualhWQVBhX1RtZHhtRndMTXpqZFduZGU2ODMtLThWb3ZDSjlZd1ZYWVhKTXkzZUdldi1JLXJQaGc?oc=5\" target=\"_blank\">Crypto killed so many dreams in 5 years…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZTlndzU2dVVJOXBMNnFiRkFDU1pDYTFWS1l2Yl9ualhWQVBhX1RtZHhtRndMTXpqZFduZGU2ODMtLThWb3ZDSjlZd1ZYWVhKTXkzZUdldi1JLXJQaGc?oc=5",
+      "publishedAt": "2026-08-14T15:00:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-crypto-killed-so-many-dreams-in-5-years-xcom",
+      "localUrl": "/news/20260814-crypto-killed-so-many-dreams-in-5-years-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
       "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
@@ -464,6 +488,17 @@
       "category": "基础设施",
       "slug": "20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay",
       "localUrl": "/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Saylor kinda makes me over Bitcoin. Hard to take it seriously anymore. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JTG54cy1RTnhYME0zOE5wbzY4bTRMOWIySTRnNmZxcmNWV3lWeVFSUWEyeENWOGJGTlBjYjUtRkp2Q1lQV3g1NC1UWEFoQTdYbklnY29zeGtDZVQ0WWtMMWRjZmFwZw?oc=5\" target=\"_blank\">Saylor kinda makes me over B…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JTG54cy1RTnhYME0zOE5wbzY4bTRMOWIySTRnNmZxcmNWV3lWeVFSUWEyeENWOGJGTlBjYjUtRkp2Q1lQV3g1NC1UWEFoQTdYbklnY29zeGtDZVQ0WWtMMWRjZmFwZw?oc=5",
+      "publishedAt": "2026-08-14T12:43:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom",
+      "localUrl": "/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -730,30 +765,6 @@
       "localUrl": "/news/20260814-whats-the-most-underrated-crypto-project-right-now-xcom.html"
     },
     {
-      "source": "X Wire",
-      "title": "\"Consensus\" in Bitcoin is one word doing seven jobs. Almost every fight you've watched is two people using different definitions, each assuming the other is arguing in bad faith. Consensus is not agreement. It's a wide range of self-interested actors, node runn - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5\" target=\"_blank\">\"Consensus\" in Bitcoin is one word doi…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wRFdUTlRld0tQTS1XVVdLcHdqLXNrcDhxcWUwSUNqUW5peXZOYmdMZjZGSWk4SkpFNDgta0U0d3RtcGl2amdWdUFhZ3hHU3h2WnNpaGZTSFNhR3NJbzhn?oc=5",
-      "publishedAt": "2026-08-14T08:39:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch",
-      "localUrl": "/news/20260814-consensus-in-bitcoin-is-one-word-doing-seven-jobs-almost-every-fight-youve-watch.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto payments barely register among euro area merchants, ECB finds",
-      "summary": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
-      "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T08:22:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds",
-      "localUrl": "/news/20260814-crypto-payments-barely-register-among-euro-area-merchants-ecb-finds.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
       "summary": "Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.",
@@ -827,17 +838,6 @@
       "category": "监管",
       "slug": "20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi",
       "localUrl": "/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto Traders Debate Top Onchain Rankings List - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4XzV5X3BUYlpwcHZteXZ5OUZRM0doNzRYUHlqN29RdG1kay00bEdlWDJjYnl6MjdGR3dQSFNEVV9Pak5UdVhmV05ZYkpNaHI4TWstdTV6Zw?oc=5\" target=\"_blank\">Crypto Traders Debate Top Onchain Rankings List<…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4XzV5X3BUYlpwcHZteXZ5OUZRM0doNzRYUHlqN29RdG1kay00bEdlWDJjYnl6MjdGR3dQSFNEVV9Pak5UdVhmV05ZYkpNaHI4TWstdTV6Zw?oc=5",
-      "publishedAt": "2026-08-13T22:50:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-crypto-traders-debate-top-onchain-rankings-list-xcom",
-      "localUrl": "/news/20260813-crypto-traders-debate-top-onchain-rankings-list-xcom.html"
     },
     {
       "source": "Decrypt",
