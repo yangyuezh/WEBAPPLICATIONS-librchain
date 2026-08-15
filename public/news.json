@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:50:26.447Z",
+  "updatedAt": "2026-08-15T04:43:32.217Z",
   "total": 84,
   "items": [
     {
@@ -442,6 +442,17 @@
       "localUrl": "/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html"
     },
     {
+      "source": "X Wire",
+      "title": "Saylor kinda makes me over Bitcoin. Hard to take it seriously anymore. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JTG54cy1RTnhYME0zOE5wbzY4bTRMOWIySTRnNmZxcmNWV3lWeVFSUWEyeENWOGJGTlBjYjUtRkp2Q1lQV3g1NC1UWEFoQTdYbklnY29zeGtDZVQ0WWtMMWRjZmFwZw?oc=5\" target=\"_blank\">Saylor kinda makes me over B…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JTG54cy1RTnhYME0zOE5wbzY4bTRMOWIySTRnNmZxcmNWV3lWeVFSUWEyeENWOGJGTlBjYjUtRkp2Q1lQV3g1NC1UWEFoQTdYbklnY29zeGtDZVQ0WWtMMWRjZmFwZw?oc=5",
+      "publishedAt": "2026-08-14T12:43:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom",
+      "localUrl": "/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
       "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
@@ -857,17 +868,6 @@
       "category": "综合",
       "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged",
       "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 ALERT: Bitcoin hashrate is now 17% below its all-time high as miners pivot toward AI, according to a CryptoQuant analyst. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVHo3SUY3ckxNRXg1YjV2Z3ZUNlh6ckwtdVRCWWxWNmkwLUtYNDBUdmEtcE1NWUkyemlVN2dGYTh5Ulh1OUJPa2pSZVJfbFg4dFZuX080RE5pY0ViWkJ1WEdrTlQ?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin hashrate is n…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVHo3SUY3ckxNRXg1YjV2Z3ZUNlh6ckwtdVRCWWxWNmkwLUtYNDBUdmEtcE1NWUkyemlVN2dGYTh5Ulh1OUJPa2pSZVJfbFg4dFZuX080RE5pY0ViWkJ1WEdrTlQ?oc=5",
-      "publishedAt": "2026-08-13T21:40:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-",
-      "localUrl": "/news/20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-.html"
     },
     {
       "source": "Decrypt",
