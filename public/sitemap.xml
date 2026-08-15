@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T15:32:24.925Z</lastmod>
+    <lastmod>2026-08-15T16:37:11.432Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T15:32:24.925Z</lastmod>
+    <lastmod>2026-08-15T16:37:11.432Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-p.html</loc>
+    <lastmod>2026-08-15T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-i.html</loc>
+    <lastmod>2026-08-15T15:56:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-why-the-worlds-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-.html</loc>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-15T14:40:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-uni-is-uni-no-crypto-no-generative-ai-needed-were-just-happy-to-have-him-here-xc.html</loc>
+    <lastmod>2026-08-15T14:16:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,32 +457,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html</loc>
-    <lastmod>2026-08-13T23:09:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html</loc>
     <lastmod>2026-08-13T22:36:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d.html</loc>
-    <lastmod>2026-08-13T22:18:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html</loc>
     <lastmod>2026-08-13T21:45:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-.html</loc>
-    <lastmod>2026-08-13T21:40:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html</loc>
-    <lastmod>2026-08-13T15:20:05.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html</loc>
+    <lastmod>2026-08-13T15:13:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

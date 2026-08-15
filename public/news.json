@@ -1,7 +1,38 @@
 {
-  "updatedAt": "2026-08-15T15:32:24.883Z",
+  "updatedAt": "2026-08-15T16:37:11.388Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+      "summary": "Hyperliquid traders value Unitree at nearly $38 billion versus $9 billion at its IPO, leaving leveraged bets vulnerable when trading begins, Allium analysts said.",
+      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "publishedAt": "2026-08-15T16:00:00.000Z",
+      "keywords": [
+        "Markets",
+        "Hyperliquid",
+        "Derivatives",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260815-robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-p",
+      "localUrl": "/news/20260815-robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-p.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+      "summary": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
+      "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+      "publishedAt": "2026-08-15T15:56:05.000Z",
+      "keywords": [
+        "Finance",
+        "banks",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260815-swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-i",
+      "localUrl": "/news/20260815-swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-i.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
@@ -58,6 +89,17 @@
       "category": "监管",
       "slug": "20260815-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260815-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Uni is Uni. No crypto, no generative AI needed. We’re just happy to have him here - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQjZ4Z09BOVYxZGlUUFNMUThVczVBS1hYMUpZRnE4WjA5M0JpbXhHeDN3SlRGT0R3VEZIY3R6NUJzUURBRzl5bURxdjY0ZEZfN0FkUEY4NVB1MExZaTBESXpDRQ?oc=5\" target=\"_blank\">Uni is Uni. No crypto, no genera…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQjZ4Z09BOVYxZGlUUFNMUThVczVBS1hYMUpZRnE4WjA5M0JpbXhHeDN3SlRGT0R3VEZIY3R6NUJzUURBRzl5bURxdjY0ZEZfN0FkUEY4NVB1MExZaTBESXpDRQ?oc=5",
+      "publishedAt": "2026-08-15T14:16:49.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-uni-is-uni-no-crypto-no-generative-ai-needed-were-just-happy-to-have-him-here-xc",
+      "localUrl": "/news/20260815-uni-is-uni-no-crypto-no-generative-ai-needed-were-just-happy-to-have-him-here-xc.html"
     },
     {
       "source": "CoinDesk",
@@ -951,23 +993,6 @@
       "localUrl": "/news/20260814-latest-ethereum-foundation-researcher-justin-drake-announces-the-ef-is-dropping-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "summary": "The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for \"Reg Crypto\" on Friday.",
-      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-      "publishedAt": "2026-08-13T23:09:14.000Z",
-      "keywords": [
-        "Policy",
-        "SEC",
-        "Tokenization",
-        "Breaking News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi",
-      "localUrl": "/news/20260813-us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
       "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
@@ -981,21 +1006,6 @@
       "localUrl": "/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "summary": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
-      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "publishedAt": "2026-08-13T22:18:07.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d",
-      "localUrl": "/news/20260813-sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
       "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
@@ -1007,17 +1017,6 @@
       "category": "综合",
       "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged",
       "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 ALERT: Bitcoin hashrate is now 17% below its all-time high as miners pivot toward AI, according to a CryptoQuant analyst. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVHo3SUY3ckxNRXg1YjV2Z3ZUNlh6ckwtdVRCWWxWNmkwLUtYNDBUdmEtcE1NWUkyemlVN2dGYTh5Ulh1OUJPa2pSZVJfbFg4dFZuX080RE5pY0ViWkJ1WEdrTlQ?oc=5\" target=\"_blank\">🚨 ALERT: Bitcoin hashrate is n…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rVHo3SUY3ckxNRXg1YjV2Z3ZUNlh6ckwtdVRCWWxWNmkwLUtYNDBUdmEtcE1NWUkyemlVN2dGYTh5Ulh1OUJPa2pSZVJfbFg4dFZuX080RE5pY0ViWkJ1WEdrTlQ?oc=5",
-      "publishedAt": "2026-08-13T21:40:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-",
-      "localUrl": "/news/20260813-alert-bitcoin-hashrate-is-now-17-below-its-all-time-high-as-miners-pivot-toward-.html"
     },
     {
       "source": "Decrypt",
@@ -1073,14 +1072,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN:🇨🇭 Switzerland's largest bank UBS discloses owning $83.2 million of BlackRock's Bitcoin ETF 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5\" target=\"_blank\">JUST IN:🇨🇭 Switzerland's …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0FVRi0tdi1fTWpVOS1lMDd0bDdIZGZydGhCWHlJRGhWVi1XeUdVOVhDalBvTVZYbkdMVFpTeVlxYTFVNmJjeW1mOVRJZ2g4VTRZQlZXS1owVXFBaFNwT2ZacGMxVWM?oc=5",
-      "publishedAt": "2026-08-13T15:20:05.000Z",
+      "title": "The next generation of the ether.fi crypto neobank is live. Earn, trade, borrow, spend. One app to replace your traditional bank. What’s new: → Tokenized stocks and metals trading → An integrated @Aave market on @Optimism, borrowing against your full portf - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5\" target=\"_blank\">The next generation of the ether.fi cry…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LbkRmX3c2ZklleDFodF9SRHpNNzAzX1RZcTdZMWVvSXE5dWhPOTJTTV90bEJ4dm5DVGJSZTdDN2FNMzBtTGFiZ3FFTXFIWmM3bUFPQjFxSTZVemp4X3c?oc=5",
+      "publishedAt": "2026-08-13T15:13:20.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks",
-      "localUrl": "/news/20260813-just-in-switzerlands-largest-bank-ubs-discloses-owning-832-million-of-blackrocks.html"
+      "slug": "20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen",
+      "localUrl": "/news/20260813-the-next-generation-of-the-etherfi-crypto-neobank-is-live-earn-trade-borrow-spen.html"
     },
     {
       "source": "Solana Blog",
