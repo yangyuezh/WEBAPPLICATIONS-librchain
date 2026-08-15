@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T03:01:11.029Z",
+  "updatedAt": "2026-08-15T03:50:26.447Z",
   "total": 84,
   "items": [
     {
@@ -896,6 +896,17 @@
       "localUrl": "/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨HUGE: China's Kimi AI just scanned nearly ALL of Bitcoin's open-source code, flagging almost 8,000 flaws. The Bitcoin Red Team has now covered 501 projects, finding 1,280 critical or high-severity issues, with maintainers validating and patching flaws. The - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5\" target=\"_blank\">🚨HUGE: China's Kimi AI just scanned…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WTdtNUxka2puc2dKQzBmdmtBamZrYzk3MEhZcmVhVENPUzh5UGJuR0FkWkdWUkFoTjdWS0JWUFRSejB3UTBUWWJvUFptcE8yZlJ2TnRUejM4aHFWS0JyYw?oc=5",
+      "publishedAt": "2026-08-13T19:30:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin",
+      "localUrl": "/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
       "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
@@ -907,17 +918,6 @@
       "category": "综合",
       "slug": "20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so",
       "localUrl": "/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: JPMorgan discloses holding a $610 million position in BlackRock's Bitcoin ETF 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Vzctb3k0alAwTUhxQ1VKMVNuMUxXaUNNQ2RVQnBXSjBwX2N1ZDA0djdyTGVFZmtTWTBVTHlOb0w0SEZYZkdGUnBxQkp0Wnd0NWxQNEVWbHdGSGJ3eU51M0pobjVmZjg?oc=5\" target=\"_blank\">JUST IN: JPMorgan discloses…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85Vzctb3k0alAwTUhxQ1VKMVNuMUxXaUNNQ2RVQnBXSjBwX2N1ZDA0djdyTGVFZmtTWTBVTHlOb0w0SEZYZkdGUnBxQkp0Wnd0NWxQNEVWbHdGSGJ3eU51M0pobjVmZjg?oc=5",
-      "publishedAt": "2026-08-13T18:54:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-just-in-jpmorgan-discloses-holding-a-610-million-position-in-blackrocks-bitcoin-",
-      "localUrl": "/news/20260813-just-in-jpmorgan-discloses-holding-a-610-million-position-in-blackrocks-bitcoin-.html"
     },
     {
       "source": "X Wire",
@@ -971,17 +971,6 @@
       "category": "安全",
       "slug": "20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk",
       "localUrl": "/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Kimi K3 Scan Uncovers Critical Vulnerabilities Across Bitcoin Open-Source Projects Bitcoin Red Team researcher calle said that after using Kimi K3 for two weeks, the team identified numerous critical and high-severity vulnerabilities across Bitcoin open-sourc - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE82MVd4Z2d4a3BVT2ROYk1FbVpKVUpYQlVNdFFuWEdRSHBmcjNLYm1ORk4tTzFHdUZXZDZfYnVybFlQT2RCTThGcWxuR2M5RjY0WFRLYXlwYW1WNjdwSHR3bTF5dw?oc=5\" target=\"_blank\">Kimi K3 Scan Uncovers Critical V…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82MVd4Z2d4a3BVT2ROYk1FbVpKVUpYQlVNdFFuWEdRSHBmcjNLYm1ORk4tTzFHdUZXZDZfYnVybFlQT2RCTThGcWxuR2M5RjY0WFRLYXlwYW1WNjdwSHR3bTF5dw?oc=5",
-      "publishedAt": "2026-08-13T17:54:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260813-kimi-k3-scan-uncovers-critical-vulnerabilities-across-bitcoin-open-source-projec",
-      "localUrl": "/news/20260813-kimi-k3-scan-uncovers-critical-vulnerabilities-across-bitcoin-open-source-projec.html"
     },
     {
       "source": "Decrypt",
@@ -1089,6 +1078,17 @@
       "category": "X热点",
       "slug": "20260813-you-can-live-on-bitcoin-you-can-also-build-on-it-crude-oil-is-valuable-but-civil",
       "localUrl": "/news/20260813-you-can-live-on-bitcoin-you-can-also-build-on-it-crude-oil-is-valuable-but-civil.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇯🇵 Japan public company Metaplanet to issue Bitcoin \"BitBonds\" 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5\" target=\"_blank\">JUST IN: 🇯🇵 Japan public …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BYV80czJyWHZHcFRkdWpOYmxhY3lzZDRVU3ZWUzJTdHZISlFRNkJqM1hwcng5elZNT0FKZVJVc0twY2JQaG1FUndST2pfbjJRczdZTmtHUE5sdzhLblIxN2lQOHV2RjA?oc=5",
+      "publishedAt": "2026-08-13T13:54:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom",
+      "localUrl": "/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html"
     },
     {
       "source": "Solana Blog",

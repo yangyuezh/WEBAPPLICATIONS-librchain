@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T03:01:11.069Z</lastmod>
+    <lastmod>2026-08-15T03:50:26.490Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T03:01:11.069Z</lastmod>
+    <lastmod>2026-08-15T03:50:26.490Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -415,14 +415,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html</loc>
-    <lastmod>2026-08-13T19:11:03.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260813-huge-chinas-kimi-ai-just-scanned-nearly-all-of-bitcoins-open-source-code-flaggin.html</loc>
+    <lastmod>2026-08-13T19:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260813-just-in-jpmorgan-discloses-holding-a-610-million-position-in-blackrocks-bitcoin-.html</loc>
-    <lastmod>2026-08-13T18:54:36.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html</loc>
+    <lastmod>2026-08-13T19:11:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -447,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk.html</loc>
     <lastmod>2026-08-13T18:26:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-kimi-k3-scan-uncovers-critical-vulnerabilities-across-bitcoin-open-source-projec.html</loc>
-    <lastmod>2026-08-13T17:54:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,6 +495,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-you-can-live-on-bitcoin-you-can-also-build-on-it-crude-oil-is-valuable-but-civil.html</loc>
     <lastmod>2026-08-13T14:42:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260813-just-in-japan-public-company-metaplanet-to-issue-bitcoin-bitbonds-xcom.html</loc>
+    <lastmod>2026-08-13T13:54:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
