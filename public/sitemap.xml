@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T08:44:14.328Z</lastmod>
+    <lastmod>2026-08-16T09:37:11.234Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T08:44:14.328Z</lastmod>
+    <lastmod>2026-08-16T09:37:11.234Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -151,12 +151,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html</loc>
-    <lastmod>2026-08-15T11:41:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</loc>
     <lastmod>2026-08-15T10:44:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,6 +213,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html</loc>
     <lastmod>2026-08-14T21:03:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf.html</loc>
+    <lastmod>2026-08-14T20:15:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

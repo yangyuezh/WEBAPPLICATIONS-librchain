@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T08:44:14.289Z",
+  "updatedAt": "2026-08-16T09:37:11.191Z",
   "total": 83,
   "items": [
     {
@@ -306,17 +306,6 @@
       "localUrl": "/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html"
     },
     {
-      "source": "X Wire",
-      "title": "Tether is NOT building any blockchain nor has plan to build one. We remain agnostic and support many transport layers for our stablecoins. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5\" target=\"_blank\">Tether is NOT building any block…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5",
-      "publishedAt": "2026-08-15T11:41:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
-      "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
       "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
@@ -457,6 +446,17 @@
       "category": "监管",
       "slug": "20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders",
       "localUrl": "/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $326 billion Edleman Financial discloses owning $34 million in Bitcoin ETFs 💥 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYl85eVM1VEE4MzdrbHNyX1JoQ3NqMjE4SnFfQl9KMHlzMExhcWo1bl9IdkVJcXhvNk9mQXYyVm1CTUFPNk1ROUpqZ2NseWRoNE1xQkRuYW9lcjRHSEY2M0xpODVMWnM?oc=5\" target=\"_blank\">JUST IN: $326 billion Edlem…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYl85eVM1VEE4MzdrbHNyX1JoQ3NqMjE4SnFfQl9KMHlzMExhcWo1bl9IdkVJcXhvNk9mQXYyVm1CTUFPNk1ROUpqZ2NseWRoNE1xQkRuYW9lcjRHSEY2M0xpODVMWnM?oc=5",
+      "publishedAt": "2026-08-14T20:15:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf",
+      "localUrl": "/news/20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf.html"
     },
     {
       "source": "Decrypt",
