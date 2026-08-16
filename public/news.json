@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T18:43:51.134Z",
+  "updatedAt": "2026-08-16T19:30:09.384Z",
   "total": 82,
   "items": [
     {
@@ -17,6 +17,17 @@
       "category": "监管",
       "slug": "20260816-the-sec-meeting-that-wasnt-state-of-crypto",
       "localUrl": "/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 VITALIK: Ethereum wants massive scaling without sacrificing decentralization or censorship resistance. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVnl0NE9TYTJhQV9JaTJIU2pNbHF3bWJnMV8ybzVkZWQ4dGJHR0FJejZlMzAxeExzWnRma1c5MnAwUE5qWlFmQ185V2xLUHJTX0pYeE13Zzg4QlIwUTBZRmd2ZV8?oc=5\" target=\"_blank\">🚨 VITALIK: Ethereum wants mass…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVnl0NE9TYTJhQV9JaTJIU2pNbHF3bWJnMV8ybzVkZWQ4dGJHR0FJejZlMzAxeExzWnRma1c5MnAwUE5qWlFmQ185V2xLUHJTX0pYeE13Zzg4QlIwUTBZRmd2ZV8?oc=5",
+      "publishedAt": "2026-08-16T16:30:35.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c",
+      "localUrl": "/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html"
     },
     {
       "source": "Decrypt",
@@ -206,17 +217,6 @@
       "category": "X热点",
       "slug": "20260816-coinbase-bitcoin-premium-index-posts-record-90-day-negative-streak-coinglass-dat",
       "localUrl": "/news/20260816-coinbase-bitcoin-premium-index-posts-record-90-day-negative-streak-coinglass-dat.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "INSIGHT: \"Soon, millionaires won't be able to afford 1 full Bitcoin.\" says @cz_binance, noting there are 23.6M U.S. millionaires but only 20.07M $BTC in circulation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5\" target=\"_blank\">INSIGHT: \"Soon, millionaires won't be a…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5",
-      "publishedAt": "2026-08-15T21:53:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-",
-      "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
     },
     {
       "source": "X Wire",
@@ -795,17 +795,6 @@
       "localUrl": "/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html"
     },
     {
-      "source": "X Wire",
-      "title": "Spread Bitcoin with love. 🧡 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5\" target=\"_blank\">Spread Bitcoin with love. 🧡</a> <font colo…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5",
-      "publishedAt": "2026-08-14T16:52:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-spread-bitcoin-with-love-xcom",
-      "localUrl": "/news/20260814-spread-bitcoin-with-love-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
       "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
@@ -817,6 +806,17 @@
       "category": "市场",
       "slug": "20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot",
       "localUrl": "/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ethereum $ETH and Solana $SOL could be getting scarcer. New proposals on both networks aim to burn more tokens and cut inflation, reducing future supply. If they pass, annual inflation for ETH and SOL could fall below gold (1.8%) and U.S. CPI (3.3%) by 2 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSXg5YlNUZ0ZJMDkxVGZZU09hbWR4RkVrWDlpNVBWM0Z4d01xU0hCTndIZlNNZHJ5bVczcm1lQWNDSWZaUmFrR0c3eTZ5dWwxVzNTYzN2ODJ6MzExZGRj?oc=5\" target=\"_blank\">Ethereum $ETH and Solana $SOL could be…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSXg5YlNUZ0ZJMDkxVGZZU09hbWR4RkVrWDlpNVBWM0Z4d01xU0hCTndIZlNNZHJ5bVczcm1lQWNDSWZaUmFrR0c3eTZ5dWwxVzNTYzN2ODJ6MzExZGRj?oc=5",
+      "publishedAt": "2026-08-14T16:20:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo",
+      "localUrl": "/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html"
     },
     {
       "source": "Cointelegraph",
