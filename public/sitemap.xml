@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T07:41:49.841Z</lastmod>
+    <lastmod>2026-08-16T08:44:14.328Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T07:41:49.841Z</lastmod>
+    <lastmod>2026-08-16T08:44:14.328Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,12 +63,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-i.html</loc>
     <lastmod>2026-08-15T15:56:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-the-top-blockchains-powering-crypto-games-right-now-wax_io-11025-0xpolygon-6934-.html</loc>
-    <lastmod>2026-08-15T15:36:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -177,6 +171,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html</loc>
     <lastmod>2026-08-15T08:36:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-bitcoin-open-interest-just-broke-above-its-pre-1010-level-last-time-bitcoin-cras.html</loc>
+    <lastmod>2026-08-15T07:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
