@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-08-16T17:30:53.290Z",
+  "updatedAt": "2026-08-16T18:43:51.134Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "summary": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
+      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "publishedAt": "2026-08-16T18:30:00.000Z",
+      "keywords": [
+        "Policy",
+        "Newsletters",
+        "State of Crypto",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260816-the-sec-meeting-that-wasnt-state-of-crypto",
+      "localUrl": "/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html"
+    },
     {
       "source": "Decrypt",
       "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
@@ -171,6 +187,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Bitcoin may have only 51 days left. The $BTC macro cycle has followed an almost flawless pattern: 2015 → 2017 bull market: 1,065 days 2017 → 2018 bear market: 365 days 2018 → 2021 bull market: 1,065 days 2021 → 2022 bear market: 365 days 2022 → - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xRTczMzdnby1BMHFGeGtVem9sNnlGLWpuRXZ5MW5EbkhfeU5VNG1wMGhyY3NMajlueVROMDJtZXgzdXdXeC0yNThsNllwU1lpLTVuNXI1ODdMOFJjeDlXOTVB?oc=5\" target=\"_blank\">Bitcoin may have only 51 days left…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xRTczMzdnby1BMHFGeGtVem9sNnlGLWpuRXZ5MW5EbkhfeU5VNG1wMGhyY3NMajlueVROMDJtZXgzdXdXeC0yNThsNllwU1lpLTVuNXI1ODdMOFJjeDlXOTVB?oc=5",
+      "publishedAt": "2026-08-16T06:28:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl",
+      "localUrl": "/news/20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Coinbase Bitcoin Premium Index Posts Record 90-Day Negative Streak CoinGlass data shows the Coinbase Bitcoin Premium Index has remained negative for 90 consecutive days from May 19 to August 16, most recently at -0.1066%, marking the longest neg - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMTVRNVdqLW4yWkZXUHc1ZHBUeGEyZklxU0t3a3lxc2ZqQnc5djg1UXRpTmhfWk9XcGtiSjdoWVRBODlGN0YtUG02Z1phNW93SE56WHRNWUlfR05jUjRRR01CMA?oc=5\" target=\"_blank\">Coinbase Bitcoin Premium Index P…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMTVRNVdqLW4yWkZXUHc1ZHBUeGEyZklxU0t3a3lxc2ZqQnc5djg1UXRpTmhfWk9XcGtiSjdoWVRBODlGN0YtUG02Z1phNW93SE56WHRNWUlfR05jUjRRR01CMA?oc=5",
@@ -251,6 +278,17 @@
       "category": "综合",
       "slug": "20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china",
       "localUrl": "/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin meetups in 2012 have such deep nostalgia for me. This one took place in Chinatown, NYC. People walked in off the street and quickly fell down the rabbit hole of a free market money. All of this against the backdrop of the great financial crisis. I miss tho - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WODg1N3FnR3NnUUZsWUpIbHNKLTE4dnh2SkYxeFRweVBla0RTNUVPa3lCWDEtdnRONmhuckZYS0xiaEZqNl9OcmFtLTVhR3ptdldzMkNLbTRycG51WXMzUWFUNA?oc=5\" target=\"_blank\">Bitcoin meetups in 2012 have suc…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WODg1N3FnR3NnUUZsWUpIbHNKLTE4dnh2SkYxeFRweVBla0RTNUVPa3lCWDEtdnRONmhuckZYS0xiaEZqNl9OcmFtLTVhR3ptdldzMkNLbTRycG51WXMzUWFUNA?oc=5",
+      "publishedAt": "2026-08-15T16:57:25.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-bitcoin-meetups-in-2012-have-such-deep-nostalgia-for-me-this-one-took-place-in-c",
+      "localUrl": "/news/20260815-bitcoin-meetups-in-2012-have-such-deep-nostalgia-for-me-this-one-took-place-in-c.html"
     },
     {
       "source": "X Wire",
@@ -493,28 +531,6 @@
       "category": "基础设施",
       "slug": "20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc",
       "localUrl": "/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Tether is NOT building any blockchain nor has plan to build one. We remain agnostic and support many transport layers for our stablecoins. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5\" target=\"_blank\">Tether is NOT building any block…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5",
-      "publishedAt": "2026-08-15T11:41:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
-      "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "📊 MARKET: Crypto wiped out $2.1T in less than a year. Can the market reclaim $4T? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5\" target=\"_blank\">📊 MARKET: Crypto wiped out $2.…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5",
-      "publishedAt": "2026-08-15T11:26:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-market-crypto-wiped-out-21t-in-less-than-a-year-can-the-market-reclaim-4t-xcom",
-      "localUrl": "/news/20260815-market-crypto-wiped-out-21t-in-less-than-a-year-can-the-market-reclaim-4t-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -1001,21 +1017,6 @@
       "category": "RWA",
       "slug": "20260814-trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
       "localUrl": "/news/20260814-trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "summary": "Spot bitcoin ETFs saw back-to-back outflows for the first time since late July as the largest cryptocurrency wiped out last week's gains and altcoins struggled to find direction.",
-      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-slips-as-u-s-inflation-fails-to-spark-gains-etfs-see-august-s-first-two-day-drawdown",
-      "publishedAt": "2026-08-14T11:06:12.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260814-bitcoin-slips-as-us-inflation-fails-to-spark-gains-etfs-see-augusts-first-two-da",
-      "localUrl": "/news/20260814-bitcoin-slips-as-us-inflation-fails-to-spark-gains-etfs-see-augusts-first-two-da.html"
     },
     {
       "source": "Decrypt",
