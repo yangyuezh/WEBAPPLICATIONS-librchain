@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-16T10:35:54.342Z",
+  "updatedAt": "2026-08-16T11:31:27.314Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "summary": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
+      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-16T11:12:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade",
+      "localUrl": "/news/20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade.html"
+    },
     {
       "source": "X Wire",
       "title": "Many people have been wrong about crypto. Takes time. Not 100% sure I am correct here either. We are human afterall. - x.com",
@@ -12,6 +25,17 @@
       "category": "X热点",
       "slug": "20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he",
       "localUrl": "/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin may have only 51 days left. The $BTC macro cycle has followed an almost flawless pattern: 2015 → 2017 bull market: 1,065 days 2017 → 2018 bear market: 365 days 2018 → 2021 bull market: 1,065 days 2021 → 2022 bear market: 365 days 2022 → - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xRTczMzdnby1BMHFGeGtVem9sNnlGLWpuRXZ5MW5EbkhfeU5VNG1wMGhyY3NMajlueVROMDJtZXgzdXdXeC0yNThsNllwU1lpLTVuNXI1ODdMOFJjeDlXOTVB?oc=5\" target=\"_blank\">Bitcoin may have only 51 days left…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xRTczMzdnby1BMHFGeGtVem9sNnlGLWpuRXZ5MW5EbkhfeU5VNG1wMGhyY3NMajlueVROMDJtZXgzdXdXeC0yNThsNllwU1lpLTVuNXI1ODdMOFJjeDlXOTVB?oc=5",
+      "publishedAt": "2026-08-16T06:28:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl",
+      "localUrl": "/news/20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl.html"
     },
     {
       "source": "X Wire",
@@ -824,30 +848,6 @@
       "category": "X热点",
       "slug": "20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers",
       "localUrl": "/news/20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
-      "summary": "Credit card and staking revenue drove Gemini’s services growth in Q2 as exchange revenue fell 38% and trading volume dropped by two-thirds.",
-      "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T12:02:08.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth",
-      "localUrl": "/news/20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Binance to Stop Processing Transactions Involving 11 Crypto Platforms From August 23 Binance announced that, following recent regulatory developments, it will stop processing transactions involving certain crypto-asset service providers and platforms. Restr - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zMmhzQzR2bl91TVVTNmtqSEszOGJGOFNsdExlbURoaGpJSENPUGV3eFpjaFBYUmxuUHZFZGxEMGE4Z1BXa1Q4M1h5TDdtazE0cnMwTFlfZEw2QkNTYk83ZjE4OA?oc=5\" target=\"_blank\">Binance to Stop Processing Trans…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zMmhzQzR2bl91TVVTNmtqSEszOGJGOFNsdExlbURoaGpJSENPUGV3eFpjaFBYUmxuUHZFZGxEMGE4Z1BXa1Q4M1h5TDdtazE0cnMwTFlfZEw2QkNTYk83ZjE4OA?oc=5",
-      "publishedAt": "2026-08-14T11:48:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-binance-to-stop-processing-transactions-involving-11-crypto-platforms-from-augus",
-      "localUrl": "/news/20260814-binance-to-stop-processing-transactions-involving-11-crypto-platforms-from-augus.html"
     },
     {
       "source": "Decrypt",

@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T10:35:54.382Z</lastmod>
+    <lastmod>2026-08-16T11:31:27.354Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T10:35:54.382Z</lastmod>
+    <lastmod>2026-08-16T11:31:27.354Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade.html</loc>
+    <lastmod>2026-08-16T11:12:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html</loc>
     <lastmod>2026-08-16T09:57:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl.html</loc>
+    <lastmod>2026-08-16T06:28:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -387,18 +399,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers.html</loc>
     <lastmod>2026-08-14T12:20:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-gemini-posts-108m-q2-net-loss-despite-37-revenue-growth.html</loc>
-    <lastmod>2026-08-14T12:02:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-binance-to-stop-processing-transactions-involving-11-crypto-platforms-from-augus.html</loc>
-    <lastmod>2026-08-14T11:48:14.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
