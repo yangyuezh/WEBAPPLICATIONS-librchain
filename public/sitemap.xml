@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T19:30:09.424Z</lastmod>
+    <lastmod>2026-08-16T20:34:46.197Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T19:30:09.424Z</lastmod>
+    <lastmod>2026-08-16T20:34:46.197Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html</loc>
     <lastmod>2026-08-16T18:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html</loc>
-    <lastmod>2026-08-16T16:30:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -33,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals.html</loc>
     <lastmod>2026-08-16T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an.html</loc>
+    <lastmod>2026-08-16T15:37:10.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,6 +259,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260815-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-15T09:34:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260815-galaxy-lowers-clarity-act-odds-to-10.html</loc>
     <lastmod>2026-08-15T08:40:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html</loc>
     <lastmod>2026-08-14T16:23:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html</loc>
-    <lastmod>2026-08-14T16:20:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
