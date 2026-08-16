@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T09:37:11.234Z</lastmod>
+    <lastmod>2026-08-16T10:35:54.382Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T09:37:11.234Z</lastmod>
+    <lastmod>2026-08-16T10:35:54.382Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html</loc>
+    <lastmod>2026-08-16T09:57:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html</loc>
@@ -151,6 +157,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html</loc>
+    <lastmod>2026-08-15T11:41:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-market-crypto-wiped-out-21t-in-less-than-a-year-can-the-market-reclaim-4t-xcom.html</loc>
+    <lastmod>2026-08-15T11:26:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</loc>
     <lastmod>2026-08-15T10:44:52.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -165,12 +183,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html</loc>
     <lastmod>2026-08-15T08:36:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-bitcoin-open-interest-just-broke-above-its-pre-1010-level-last-time-bitcoin-cras.html</loc>
-    <lastmod>2026-08-15T07:42:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -213,12 +225,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html</loc>
     <lastmod>2026-08-14T21:03:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf.html</loc>
-    <lastmod>2026-08-14T20:15:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -315,12 +321,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call.html</loc>
     <lastmod>2026-08-14T15:29:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-crypto-killed-so-many-dreams-in-5-years-xcom.html</loc>
-    <lastmod>2026-08-14T15:00:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

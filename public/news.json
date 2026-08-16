@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-16T09:37:11.191Z",
+  "updatedAt": "2026-08-16T10:35:54.342Z",
   "total": 83,
   "items": [
+    {
+      "source": "X Wire",
+      "title": "Many people have been wrong about crypto. Takes time. Not 100% sure I am correct here either. We are human afterall. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YjBUR0JTaHFNek1ZclV0X0xwU2Zhc1BRVXk5NlNxcXBKOGxRQjREMWctQ0VyaVN4SWpCLS1QYjNUVXdWeVYtUmdLaGloUTlDSDQta3RFYjdxR0xRbVdMQg?oc=5\" target=\"_blank\">Many people have been wrong about cr…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YjBUR0JTaHFNek1ZclV0X0xwU2Zhc1BRVXk5NlNxcXBKOGxRQjREMWctQ0VyaVN4SWpCLS1QYjNUVXdWeVYtUmdLaGloUTlDSDQta3RFYjdxR0xRbVdMQg?oc=5",
+      "publishedAt": "2026-08-16T09:57:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he",
+      "localUrl": "/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html"
+    },
     {
       "source": "X Wire",
       "title": "INSIGHT: \"Soon, millionaires won't be able to afford 1 full Bitcoin.\" says @cz_binance, noting there are 23.6M U.S. millionaires but only 20.07M $BTC in circulation. - x.com",
@@ -306,6 +317,28 @@
       "localUrl": "/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html"
     },
     {
+      "source": "X Wire",
+      "title": "Tether is NOT building any blockchain nor has plan to build one. We remain agnostic and support many transport layers for our stablecoins. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5\" target=\"_blank\">Tether is NOT building any block…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5",
+      "publishedAt": "2026-08-15T11:41:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
+      "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "📊 MARKET: Crypto wiped out $2.1T in less than a year. Can the market reclaim $4T? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5\" target=\"_blank\">📊 MARKET: Crypto wiped out $2.…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5",
+      "publishedAt": "2026-08-15T11:26:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-market-crypto-wiped-out-21t-in-less-than-a-year-can-the-market-reclaim-4t-xcom",
+      "localUrl": "/news/20260815-market-crypto-wiped-out-21t-in-less-than-a-year-can-the-market-reclaim-4t-xcom.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
       "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
@@ -341,17 +374,6 @@
       "category": "X热点",
       "slug": "20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor",
       "localUrl": "/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin open interest just broke above its pre-10/10 level. Last time, Bitcoin crashed more than 14% in a matter of hours. Traders have now rebuilt every bit of that leverage. Will it flush again? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zUzMtZ1NEQmFSRnpkNkduRnhHbDZKdVQ1Ty1mVU9oSHhqX2hvZEFPWk8yMmxjdkV5RXNUbGo3UnhJbjNGRHdkUnk4MkZBa0VCYk40b0x6dmlCS0VoQXhHTzBB?oc=5\" target=\"_blank\">Bitcoin open interest just broke a…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zUzMtZ1NEQmFSRnpkNkduRnhHbDZKdVQ1Ty1mVU9oSHhqX2hvZEFPWk8yMmxjdkV5RXNUbGo3UnhJbjNGRHdkUnk4MkZBa0VCYk40b0x6dmlCS0VoQXhHTzBB?oc=5",
-      "publishedAt": "2026-08-15T07:42:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-bitcoin-open-interest-just-broke-above-its-pre-1010-level-last-time-bitcoin-cras",
-      "localUrl": "/news/20260815-bitcoin-open-interest-just-broke-above-its-pre-1010-level-last-time-bitcoin-cras.html"
     },
     {
       "source": "X Wire",
@@ -446,17 +468,6 @@
       "category": "监管",
       "slug": "20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders",
       "localUrl": "/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $326 billion Edleman Financial discloses owning $34 million in Bitcoin ETFs 💥 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYl85eVM1VEE4MzdrbHNyX1JoQ3NqMjE4SnFfQl9KMHlzMExhcWo1bl9IdkVJcXhvNk9mQXYyVm1CTUFPNk1ROUpqZ2NseWRoNE1xQkRuYW9lcjRHSEY2M0xpODVMWnM?oc=5\" target=\"_blank\">JUST IN: $326 billion Edlem…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYl85eVM1VEE4MzdrbHNyX1JoQ3NqMjE4SnFfQl9KMHlzMExhcWo1bl9IdkVJcXhvNk9mQXYyVm1CTUFPNk1ROUpqZ2NseWRoNE1xQkRuYW9lcjRHSEY2M0xpODVMWnM?oc=5",
-      "publishedAt": "2026-08-14T20:15:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf",
-      "localUrl": "/news/20260814-just-in-326-billion-edleman-financial-discloses-owning-34-million-in-bitcoin-etf.html"
     },
     {
       "source": "Decrypt",
@@ -660,17 +671,6 @@
       "category": "监管",
       "slug": "20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call",
       "localUrl": "/news/20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Crypto killed so many dreams in 5 years. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZTlndzU2dVVJOXBMNnFiRkFDU1pDYTFWS1l2Yl9ualhWQVBhX1RtZHhtRndMTXpqZFduZGU2ODMtLThWb3ZDSjlZd1ZYWVhKTXkzZUdldi1JLXJQaGc?oc=5\" target=\"_blank\">Crypto killed so many dreams in 5 years…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZTlndzU2dVVJOXBMNnFiRkFDU1pDYTFWS1l2Yl9ualhWQVBhX1RtZHhtRndMTXpqZFduZGU2ODMtLThWb3ZDSjlZd1ZYWVhKTXkzZUdldi1JLXJQaGc?oc=5",
-      "publishedAt": "2026-08-14T15:00:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-crypto-killed-so-many-dreams-in-5-years-xcom",
-      "localUrl": "/news/20260814-crypto-killed-so-many-dreams-in-5-years-xcom.html"
     },
     {
       "source": "Decrypt",
