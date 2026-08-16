@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-16T11:31:27.314Z",
-  "total": 83,
+  "updatedAt": "2026-08-16T12:57:31.160Z",
+  "total": 82,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "summary": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
+      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-16T12:48:09.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says",
+      "localUrl": "/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "summary": "Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.",
+      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "publishedAt": "2026-08-16T12:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Bitcoin News",
+        "banks",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260816-the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embra",
+      "localUrl": "/news/20260816-the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embra.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
@@ -36,6 +65,17 @@
       "category": "X热点",
       "slug": "20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl",
       "localUrl": "/news/20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Coinbase Bitcoin Premium Index Posts Record 90-Day Negative Streak CoinGlass data shows the Coinbase Bitcoin Premium Index has remained negative for 90 consecutive days from May 19 to August 16, most recently at -0.1066%, marking the longest neg - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMTVRNVdqLW4yWkZXUHc1ZHBUeGEyZklxU0t3a3lxc2ZqQnc5djg1UXRpTmhfWk9XcGtiSjdoWVRBODlGN0YtUG02Z1phNW93SE56WHRNWUlfR05jUjRRR01CMA?oc=5\" target=\"_blank\">Coinbase Bitcoin Premium Index P…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMTVRNVdqLW4yWkZXUHc1ZHBUeGEyZklxU0t3a3lxc2ZqQnc5djg1UXRpTmhfWk9XcGtiSjdoWVRBODlGN0YtUG02Z1phNW93SE56WHRNWUlfR05jUjRRR01CMA?oc=5",
+      "publishedAt": "2026-08-16T03:27:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-coinbase-bitcoin-premium-index-posts-record-90-day-negative-streak-coinglass-dat",
+      "localUrl": "/news/20260816-coinbase-bitcoin-premium-index-posts-record-90-day-negative-streak-coinglass-dat.html"
     },
     {
       "source": "X Wire",
@@ -260,6 +300,17 @@
       "localUrl": "/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html"
     },
     {
+      "source": "X Wire",
+      "title": "$ETH continues to hold up very strong. If bitcoin:native finally enters its blow-off phase toward ±$450K, I expect $ETH to reach the orange box. From an Elliott Wave perspective, that would complete the expanding wedge with an impulsive C-wave. Counterintui - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfYWtaWFRYTW9LSzl3ZUoxSEZqM1p2ekJ3NXhPMHZIMVprS0ZQcU1Ka1lxbkJkXzZGYS05TExvaV8xQkk4Vm9JZ282dVUySVJKcDJRMUJucVNHY056SVN1TEl0aw?oc=5\" target=\"_blank\">$ETH continues to hold up very s…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfYWtaWFRYTW9LSzl3ZUoxSEZqM1p2ekJ3NXhPMHZIMVprS0ZQcU1Ka1lxbkJkXzZGYS05TExvaV8xQkk4Vm9JZ282dVUySVJKcDJRMUJucVNHY056SVN1TEl0aw?oc=5",
+      "publishedAt": "2026-08-15T13:39:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-eth-continues-to-hold-up-very-strong-if-bitcoinnative-finally-enters-its-blow-of",
+      "localUrl": "/news/20260815-eth-continues-to-hold-up-very-strong-if-bitcoinnative-finally-enters-its-blow-of.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
       "summary": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
@@ -342,17 +393,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Tether is NOT building any blockchain nor has plan to build one. We remain agnostic and support many transport layers for our stablecoins. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5\" target=\"_blank\">Tether is NOT building any block…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5",
-      "publishedAt": "2026-08-15T11:41:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
-      "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
-    },
-    {
-      "source": "X Wire",
       "title": "📊 MARKET: Crypto wiped out $2.1T in less than a year. Can the market reclaim $4T? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5\" target=\"_blank\">📊 MARKET: Crypto wiped out $2.…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5",
@@ -427,6 +467,17 @@
       "category": "监管",
       "slug": "20260814-trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
       "localUrl": "/news/20260814-trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Exclusive: World Liberty Financial, the Trump family’s flagship crypto venture, says its trust company has received preliminary approval from the Office of the Comptroller of the Currency to become a bank. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UZ1dMUWQtcTRzLUpNVWljZGlUS2tsZk82UDNXWkRBOEd3SS11LVVsZmVGZ0dmNmJ0VVZjRG9HVGpPOVd4LVlkZWdwd2dUR3ZxQWQzRVJnTQ?oc=5\" target=\"_blank\">Exclusive: World Liberty Financial, the Trump fa…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UZ1dMUWQtcTRzLUpNVWljZGlUS2tsZk82UDNXWkRBOEd3SS11LVVsZmVGZ0dmNmJ0VVZjRG9HVGpPOVd4LVlkZWdwd2dUR3ZxQWQzRVJnTQ?oc=5",
+      "publishedAt": "2026-08-14T21:46:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says",
+      "localUrl": "/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html"
     },
     {
       "source": "Cointelegraph",
@@ -568,17 +619,6 @@
       "category": "X热点",
       "slug": "20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au",
       "localUrl": "/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Gemini discloses adding 1,689 BTC Bitcoin to their treasury, now totaling 5,528 BTC! 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlbm1wWDhfNWxTZXRhdmpMaXBhTTF6MlNocm5yT1h0WTRucDNnLVNOYjV3bEpSRFMwNzRrRlBXOEdCNVRvaEpaTzlER1o4NlB1MW9VQ1RVcmVmc1VJcVhxb3JRNVk5b0U?oc=5\" target=\"_blank\">JUST IN: Gemini discloses a…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlbm1wWDhfNWxTZXRhdmpMaXBhTTF6MlNocm5yT1h0WTRucDNnLVNOYjV3bEpSRFMwNzRrRlBXOEdCNVRvaEpaTzlER1o4NlB1MW9VQ1RVcmVmc1VJcVhxb3JRNVk5b0U?oc=5",
-      "publishedAt": "2026-08-14T17:48:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-just-in-gemini-discloses-adding-1689-btc-bitcoin-to-their-treasury-now-totaling-",
-      "localUrl": "/news/20260814-just-in-gemini-discloses-adding-1689-btc-bitcoin-to-their-treasury-now-totaling-.html"
     },
     {
       "source": "CoinDesk",
@@ -813,19 +853,6 @@
       "localUrl": "/news/20260814-binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Solana’s fee overhaul increases burn and makes resource hogs pay",
-      "summary": "Solana’s proposed fee overhaul would make resource-heavy transactions more expensive while cutting costs for simpler activity, and it increases the amount of SOL burned.",
-      "url": "https://cointelegraph.com/magazine/solana-wants-its-biggest-resource-hogs-to-pay-more?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "基础设施",
-      "slug": "20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay",
-      "localUrl": "/news/20260814-solanas-fee-overhaul-increases-burn-and-makes-resource-hogs-pay.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
       "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
@@ -837,17 +864,6 @@
       "category": "监管",
       "slug": "20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
       "localUrl": "/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇮🇱 Israel's largest bank is entering Bitcoin. Bank Leumi will allow customers to buy, hold and sell Bitcoin directly through its banking app. The service is expected to launch in early 2027. 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVENmLXQ1UURrT1RERVN5Qkw0eUFEMmVNQnBaRi1ubVJJNzlNNkJwZmwyZUx4b2tYakg0LV8tc1BYejdHMUd2aXVHX2RFTE1QYnMydXYtSnBjN2xGcVJial9aOFB5VjQ?oc=5\" target=\"_blank\">JUST IN: 🇮🇱 Israel's larg…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVENmLXQ1UURrT1RERVN5Qkw0eUFEMmVNQnBaRi1ubVJJNzlNNkJwZmwyZUx4b2tYakg0LV8tc1BYejdHMUd2aXVHX2RFTE1QYnMydXYtSnBjN2xGcVJial9aOFB5VjQ?oc=5",
-      "publishedAt": "2026-08-14T12:20:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers",
-      "localUrl": "/news/20260814-just-in-israels-largest-bank-is-entering-bitcoin-bank-leumi-will-allow-customers.html"
     },
     {
       "source": "Decrypt",
@@ -1001,22 +1017,6 @@
       "localUrl": "/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "summary": "According to Financial Times, JPMorgan ended its banking relationship with Polymarket in late 2025 over regulatory concerns.",
-      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-      "publishedAt": "2026-08-14T05:04:52.000Z",
-      "keywords": [
-        "Markets",
-        "JPMorgan",
-        "Polymarket",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260814-jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket",
-      "localUrl": "/news/20260814-jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
       "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
@@ -1091,17 +1091,6 @@
       "category": "基础设施",
       "slug": "20260813-solana-changelog-august-13-2026",
       "localUrl": "/news/20260813-solana-changelog-august-13-2026.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Why Asia Is Ahead on Stablecoins, According to Reap's Daren Guo",
-      "summary": "Reap moves roughly $6B a year in stablecoin card volume after building cross-border payments infrastructure from Asia.",
-      "url": "https://solana.com/news/bits-to-bricks-asia-ahead-stablecoins-daren-guo-reap",
-      "publishedAt": "2026-08-12T12:57:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo",
-      "localUrl": "/news/20260812-why-asia-is-ahead-on-stablecoins-according-to-reaps-daren-guo.html"
     }
   ]
 }
