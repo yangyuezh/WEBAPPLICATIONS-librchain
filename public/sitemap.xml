@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T03:09:57.396Z</lastmod>
+    <lastmod>2026-08-16T04:46:55.560Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T03:09:57.396Z</lastmod>
+    <lastmod>2026-08-16T04:46:55.560Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html</loc>
+    <lastmod>2026-08-15T21:53:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup.html</loc>
@@ -441,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from.html</loc>
     <lastmod>2026-08-14T08:51:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-whats-the-most-underrated-crypto-project-right-now-xcom.html</loc>
-    <lastmod>2026-08-14T08:45:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
