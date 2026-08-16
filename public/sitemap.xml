@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T15:33:02.145Z</lastmod>
+    <lastmod>2026-08-16T16:38:17.012Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T15:33:02.145Z</lastmod>
+    <lastmod>2026-08-16T16:38:17.012Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html</loc>
+    <lastmod>2026-08-16T16:00:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals.html</loc>
+    <lastmod>2026-08-16T16:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html</loc>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union.html</loc>
     <lastmod>2026-08-16T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall.html</loc>
+    <lastmod>2026-08-16T13:35:36.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html</loc>
-    <lastmod>2026-08-14T17:49:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus.html</loc>
     <lastmod>2026-08-14T17:48:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg.html</loc>
-    <lastmod>2026-08-14T10:35:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it.html</loc>
     <lastmod>2026-08-14T09:50:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures.html</loc>
     <lastmod>2026-08-13T21:16:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html</loc>
-    <lastmod>2026-08-13T20:30:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

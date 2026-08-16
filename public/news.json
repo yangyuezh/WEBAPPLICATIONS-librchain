@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-16T15:33:02.102Z",
+  "updatedAt": "2026-08-16T16:38:16.969Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+      "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
+      "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
+      "publishedAt": "2026-08-16T16:00:05.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore",
+      "localUrl": "/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "summary": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
+      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "publishedAt": "2026-08-16T16:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Exclusive",
+        "Bitwise",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "localUrl": "/news/20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals.html"
+    },
     {
       "source": "X Wire",
       "title": "Bitcoiners deserve a lot of credit for pioneering many of these ideas (see Utreexo). But yes, this is what the current proposed Ethereum scaling strategy looks like in action. We want Ethereum to have the best of UTXO-style state, dynamic state, and everything i - x.com",
@@ -56,6 +85,17 @@
       "category": "监管",
       "slug": "20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
       "localUrl": "/news/20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers Crypto wallet provider SafePal disclosed a security incident involving an authorization flaw in an order-tracking plugin that allowed unauthorized access to customer order information. A - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE02UmhRVnpNZUZlMHFVem5hdGlzSkhZVVAzMEdpVExnSUUtOFdHS242RVV0cW1BYnI3R3IwZGJtLUZLZDQ1T0o1czZrRExmLW1DazVhZGhKR2djakhYZEtQN1hYRQ?oc=5\" target=\"_blank\">SafePal Discloses Order Data Bre…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02UmhRVnpNZUZlMHFVem5hdGlzSkhZVVAzMEdpVExnSUUtOFdHS242RVV0cW1BYnI3R3IwZGJtLUZLZDQ1T0o1czZrRExmLW1DazVhZGhKR2djakhYZEtQN1hYRQ?oc=5",
+      "publishedAt": "2026-08-16T13:35:36.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall",
+      "localUrl": "/news/20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall.html"
     },
     {
       "source": "CoinDesk",
@@ -695,17 +735,6 @@
       "localUrl": "/news/20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack.html"
     },
     {
-      "source": "X Wire",
-      "title": "LATEST: @binance will block transactions involving 16 crypto platforms starting August 23, including HTX and EXMO, with restrictions applying to all Binance users globally. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNXllNlVGa2JXWVF2U1kwTkRCcEVVYXJJZ3RjWGlLUmY3NHVzMGNUVVJsMjRQakJqc0REdjJfSzdrRV9DQjFWTUkzQ3lsaV9xRndtRk5ncXpWZkRsaXc?oc=5\" target=\"_blank\">LATEST: @binance will block transaction…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNXllNlVGa2JXWVF2U1kwTkRCcEVVYXJJZ3RjWGlLUmY3NHVzMGNUVVJsMjRQakJqc0REdjJfSzdrRV9DQjFWTUkzQ3lsaV9xRndtRk5ncXpWZkRsaXc?oc=5",
-      "publishedAt": "2026-08-14T17:49:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au",
-      "localUrl": "/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
       "summary": "Bullish, Coinbase, and Circle were among the names lower on Friday after the regulatory setback.",
@@ -1002,23 +1031,6 @@
       "localUrl": "/news/20260814-sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "summary": "A spokesperson for the stablecoin payments company declined to comment on any IPO plans.",
-      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
-      "publishedAt": "2026-08-14T10:35:40.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "IPOs",
-        "Binance",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg",
-      "localUrl": "/news/20260814-redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
       "summary": "A King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
@@ -1069,19 +1081,6 @@
       "category": "基础设施",
       "slug": "20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures",
       "localUrl": "/news/20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-      "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.",
-      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-      "publishedAt": "2026-08-13T20:30:24.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr",
-      "localUrl": "/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html"
     },
     {
       "source": "Solana Blog",
