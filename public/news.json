@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-08-16T12:57:31.160Z",
+  "updatedAt": "2026-08-16T13:40:47.901Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "summary": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "publishedAt": "2026-08-16T13:00:00.000Z",
+      "keywords": [
+        "News Analysis",
+        "Stablecoins",
+        "banks",
+        "Interest Rates",
+        "JPMorgan",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260816-the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad",
+      "localUrl": "/news/20260816-the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
@@ -14,6 +33,17 @@
       "category": "安全",
       "slug": "20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says",
       "localUrl": "/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 TWO MEETINGS THIS WEEK COULD DECIDE THE FUTURE OF CRYPTO IN AMERICA. The White House sits down with crypto leaders on Wednesday. The CFTC meets on crypto rules on Thursday. Congress already failed. The CLARITY Act missed its Au - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Qakl1V2Fucmw0Qmp1REx6MW91b2NTdHllUFpYZTdaZkJqcFdkRWJuRGhzeVo4SkhZQ3BkY0o1bXRfQjVnOEc1bTV4eW9PdUFCSTJpUGMyd2pVVkNlblV0alNB?oc=5\" target=\"_blank\">🚨 TWO MEETINGS THIS WEEK COULD DE…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Qakl1V2Fucmw0Qmp1REx6MW91b2NTdHllUFpYZTdaZkJqcFdkRWJuRGhzeVo4SkhZQ3BkY0o1bXRfQjVnOEc1bTV4eW9PdUFCSTJpUGMyd2pVVkNlblV0alNB?oc=5",
+      "publishedAt": "2026-08-16T12:03:38.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-two-meetings-this-week-could-decide-the-future-of-crypto-in-america-the-white-ho",
+      "localUrl": "/news/20260816-two-meetings-this-week-could-decide-the-future-of-crypto-in-america-the-white-ho.html"
     },
     {
       "source": "CoinDesk",
@@ -393,6 +423,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Tether is NOT building any blockchain nor has plan to build one. We remain agnostic and support many transport layers for our stablecoins. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5\" target=\"_blank\">Tether is NOT building any block…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdmZuOHY4N21GbHZLek9lNGpnV3VjVFA2ckpDb04zRXJuN0g3T0Q1aDMxc2syalJJTWJFaWNEWFJzOVpubU1IbkZlLXpKeHBNRnRfWl90VGUtMjhST19oaEc4MA?oc=5",
+      "publishedAt": "2026-08-15T11:41:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost",
+      "localUrl": "/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html"
+    },
+    {
+      "source": "X Wire",
       "title": "📊 MARKET: Crypto wiped out $2.1T in less than a year. Can the market reclaim $4T? - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5\" target=\"_blank\">📊 MARKET: Crypto wiped out $2.…",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dFVfLWJCalY1SDNUSjFfTVJnVk1rUjd1dEhYbkdIaVBiQ0FTeFVDS0RpcGpVRXJfNnJhNkxsM0lMQ0hBT0UxQlBCZ2VzS1FETHAwdF9QVjRZRUl1MW5ZY2F2R3U?oc=5",
@@ -676,17 +717,6 @@
       "localUrl": "/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html"
     },
     {
-      "source": "X Wire",
-      "title": "Spread Bitcoin with love. 🧡 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5\" target=\"_blank\">Spread Bitcoin with love. 🧡</a> <font colo…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5",
-      "publishedAt": "2026-08-14T16:52:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-spread-bitcoin-with-love-xcom",
-      "localUrl": "/news/20260814-spread-bitcoin-with-love-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
       "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
@@ -698,17 +728,6 @@
       "category": "市场",
       "slug": "20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot",
       "localUrl": "/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum $ETH and Solana $SOL could be getting scarcer. New proposals on both networks aim to burn more tokens and cut inflation, reducing future supply. If they pass, annual inflation for ETH and SOL could fall below gold (1.8%) and U.S. CPI (3.3%) by 2 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSXg5YlNUZ0ZJMDkxVGZZU09hbWR4RkVrWDlpNVBWM0Z4d01xU0hCTndIZlNNZHJ5bVczcm1lQWNDSWZaUmFrR0c3eTZ5dWwxVzNTYzN2ODJ6MzExZGRj?oc=5\" target=\"_blank\">Ethereum $ETH and Solana $SOL could be…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSXg5YlNUZ0ZJMDkxVGZZU09hbWR4RkVrWDlpNVBWM0Z4d01xU0hCTndIZlNNZHJ5bVczcm1lQWNDSWZaUmFrR0c3eTZ5dWwxVzNTYzN2ODJ6MzExZGRj?oc=5",
-      "publishedAt": "2026-08-14T16:20:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo",
-      "localUrl": "/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html"
     },
     {
       "source": "Cointelegraph",
@@ -1000,21 +1019,6 @@
       "category": "监管",
       "slug": "20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1",
       "localUrl": "/news/20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holders Strategy and Metaplanet face stock-index exclusion under MSCI’s new proposal",
-      "summary": "A new consultation targets \"non-operating companies\" broadly. Two familiar names still land on the deletion list.",
-      "url": "https://www.coindesk.com/markets/2026/08/14/bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-msci-s-new-proposal",
-      "publishedAt": "2026-08-14T06:20:54.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n",
-      "localUrl": "/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html"
     },
     {
       "source": "Decrypt",

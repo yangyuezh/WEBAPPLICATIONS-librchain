@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T12:57:31.202Z</lastmod>
+    <lastmod>2026-08-16T13:40:47.944Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T12:57:31.202Z</lastmod>
+    <lastmod>2026-08-16T13:40:47.944Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260816-the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad.html</loc>
+    <lastmod>2026-08-16T13:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html</loc>
     <lastmod>2026-08-16T12:48:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-two-meetings-this-week-could-decide-the-future-of-crypto-in-america-the-white-ho.html</loc>
+    <lastmod>2026-08-16T12:03:38.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,6 +205,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260815-tether-is-not-building-any-blockchain-nor-has-plan-to-build-one-we-remain-agnost.html</loc>
+    <lastmod>2026-08-15T11:41:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260815-market-crypto-wiped-out-21t-in-less-than-a-year-can-the-market-reclaim-4t-xcom.html</loc>
     <lastmod>2026-08-15T11:26:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -325,20 +343,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-spread-bitcoin-with-love-xcom.html</loc>
-    <lastmod>2026-08-14T16:52:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html</loc>
     <lastmod>2026-08-14T16:23:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html</loc>
-    <lastmod>2026-08-14T16:20:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1.html</loc>
     <lastmod>2026-08-14T07:14:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-bitcoin-holders-strategy-and-metaplanet-face-stock-index-exclusion-under-mscis-n.html</loc>
-    <lastmod>2026-08-14T06:20:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
