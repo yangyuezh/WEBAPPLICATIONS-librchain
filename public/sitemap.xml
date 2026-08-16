@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-15T23:31:27.652Z</lastmod>
+    <lastmod>2026-08-16T01:54:40.492Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-15T23:31:27.652Z</lastmod>
+    <lastmod>2026-08-16T01:54:40.492Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup.html</loc>
     <lastmod>2026-08-15T19:27:29.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html</loc>
+    <lastmod>2026-08-15T18:30:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -165,12 +171,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say.html</loc>
     <lastmod>2026-08-14T23:41:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-update-trump-will-personally-attend-wednesdays-crypto-summit-joined-by-the-heads.html</loc>
-    <lastmod>2026-08-14T22:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,6 +367,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-saylor-kinda-makes-me-over-bitcoin-hard-to-take-it-seriously-anymore-xcom.html</loc>
+    <lastmod>2026-08-14T12:43:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html</loc>
     <lastmod>2026-08-14T12:38:39.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -459,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket.html</loc>
     <lastmod>2026-08-14T05:04:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-latest-ethereum-foundation-researcher-justin-drake-announces-the-ef-is-dropping-.html</loc>
-    <lastmod>2026-08-14T00:00:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
