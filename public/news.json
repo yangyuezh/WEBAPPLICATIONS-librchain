@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-16T14:35:14.146Z",
+  "updatedAt": "2026-08-16T15:33:02.102Z",
   "total": 82,
   "items": [
+    {
+      "source": "X Wire",
+      "title": "Bitcoiners deserve a lot of credit for pioneering many of these ideas (see Utreexo). But yes, this is what the current proposed Ethereum scaling strategy looks like in action. We want Ethereum to have the best of UTXO-style state, dynamic state, and everything i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MU244NlIwSjd2NUpsZXhZdzBNT1duWVlhQlNhNXhnU0JYTFFaOC1zYndEQ09nRmF6N1F6akpFSVVmbkJISDRZSkppSlVSa0dRa2NhcVl4QXVhVkZfVnpWaG1rNXFtUQ?oc=5\" target=\"_blank\">Bitcoiners deserve a lot of …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MU244NlIwSjd2NUpsZXhZdzBNT1duWVlhQlNhNXhnU0JYTFFaOC1zYndEQ09nRmF6N1F6akpFSVVmbkJISDRZSkppSlVSa0dRa2NhcVl4QXVhVkZfVnpWaG1rNXFtUQ?oc=5",
+      "publishedAt": "2026-08-16T14:25:58.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex",
+      "localUrl": "/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
@@ -161,6 +172,17 @@
       "category": "X热点",
       "slug": "20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-",
       "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Billionaire Mark Cuban says computer chips \"will be the new crypto.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYklFaEF4NWVaQzRWSi1CVFNWVnZUbEdLaTdtWUU2WlpET0k1QzNqZUlJSjlJYkJ3aVAtRUVtNmI5b1pVS1ZHbDEwUGw1RlZHVm16X3ZLWXNRODAxRnA4ODFn?oc=5\" target=\"_blank\">JUST IN: Billionaire Mark Cuban sa…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYklFaEF4NWVaQzRWSi1CVFNWVnZUbEdLaTdtWUU2WlpET0k1QzNqZUlJSjlJYkJ3aVAtRUVtNmI5b1pVS1ZHbDEwUGw1RlZHVm16X3ZLWXNRODAxRnA4ODFn?oc=5",
+      "publishedAt": "2026-08-15T21:32:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-just-in-billionaire-mark-cuban-says-computer-chips-will-be-the-new-crypto-xcom",
+      "localUrl": "/news/20260815-just-in-billionaire-mark-cuban-says-computer-chips-will-be-the-new-crypto-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -345,17 +367,6 @@
       "localUrl": "/news/20260815-uni-is-uni-no-crypto-no-generative-ai-needed-were-just-happy-to-have-him-here-xc.html"
     },
     {
-      "source": "X Wire",
-      "title": "Justin Sun Responds After Binance Announces Restrictions on Transactions Involving HTX Justin Sun said he had spoken with Binance, which clarified that its restrictions on transactions involving HTX and other platforms apply only to users in the UK and EU. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Xby1HTTliOGdGczZPeWZLbU1JaGs2YWlMT2xTSTlXTTdmd2llUXc3al9jNzZGaGNZNldYSVh5STNkakEwNHNyTXNQNUE2QlFqdGtvWGhqRGZEb1lFandRaGh6bw?oc=5\" target=\"_blank\">Justin Sun Responds After Binanc…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Xby1HTTliOGdGczZPeWZLbU1JaGs2YWlMT2xTSTlXTTdmd2llUXc3al9jNzZGaGNZNldYSVh5STNkakEwNHNyTXNQNUE2QlFqdGtvWGhqRGZEb1lFandRaGh6bw?oc=5",
-      "publishedAt": "2026-08-15T14:00:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-justin-sun-responds-after-binance-announces-restrictions-on-transactions-involvi",
-      "localUrl": "/news/20260815-justin-sun-responds-after-binance-announces-restrictions-on-transactions-involvi.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
       "summary": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
@@ -523,17 +534,6 @@
       "category": "X热点",
       "slug": "20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor",
       "localUrl": "/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 INSIGHT: Crypto executives have been lying to you. Bitcoin probably isn't going to $1 million by 2030. In the latest episode of Trade Secrets, @itsciaranlyons sits down with Markus Thielen ( @markus10x) of 10x Research ( @10xresearch) to unpack why the - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fcnc4ZG9hd2FnZmRLV1RsN3lJWGczcVVaNERnLUpvM3VaSkF0b1FIU0h3bWt6XzhJUFVjV1FXdU94eWVMZDZCVDRMNF90MHkwSWZ0elltMDktVUwtYXd2NW9VS2g?oc=5\" target=\"_blank\">🔥 INSIGHT: Crypto executives h…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Fcnc4ZG9hd2FnZmRLV1RsN3lJWGczcVVaNERnLUpvM3VaSkF0b1FIU0h3bWt6XzhJUFVjV1FXdU94eWVMZDZCVDRMNF90MHkwSWZ0elltMDktVUwtYXd2NW9VS2g?oc=5",
-      "publishedAt": "2026-08-15T06:30:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-insight-crypto-executives-have-been-lying-to-you-bitcoin-probably-isnt-going-to-",
-      "localUrl": "/news/20260815-insight-crypto-executives-have-been-lying-to-you-bitcoin-probably-isnt-going-to-.html"
     },
     {
       "source": "CoinDesk",

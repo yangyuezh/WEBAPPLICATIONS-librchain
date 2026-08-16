@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T14:35:14.312Z</lastmod>
+    <lastmod>2026-08-16T15:33:02.145Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T14:35:14.312Z</lastmod>
+    <lastmod>2026-08-16T15:33:02.145Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html</loc>
+    <lastmod>2026-08-16T14:25:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260816-crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40000-customers-orde.html</loc>
@@ -81,6 +87,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html</loc>
     <lastmod>2026-08-15T21:53:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-just-in-billionaire-mark-cuban-says-computer-chips-will-be-the-new-crypto-xcom.html</loc>
+    <lastmod>2026-08-15T21:32:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -169,12 +181,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-justin-sun-responds-after-binance-announces-restrictions-on-transactions-involvi.html</loc>
-    <lastmod>2026-08-15T14:00:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html</loc>
     <lastmod>2026-08-15T14:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -249,12 +255,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html</loc>
     <lastmod>2026-08-15T08:36:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-insight-crypto-executives-have-been-lying-to-you-bitcoin-probably-isnt-going-to-.html</loc>
-    <lastmod>2026-08-15T06:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
