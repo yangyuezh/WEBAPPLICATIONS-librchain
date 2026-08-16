@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-16T13:40:47.901Z",
+  "updatedAt": "2026-08-16T14:35:14.146Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "summary": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
+      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "publishedAt": "2026-08-16T14:02:32.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260816-crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40000-customers-orde",
+      "localUrl": "/news/20260816-crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40000-customers-orde.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+      "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
+      "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+      "publishedAt": "2026-08-16T14:01:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260816-people-are-turning-to-ai-for-mental-health-california-wants-it-banned",
+      "localUrl": "/news/20260816-people-are-turning-to-ai-for-mental-health-california-wants-it-banned.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "summary": "Fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts after the EU's MiCA deadline are on the rise.",
+      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "publishedAt": "2026-08-16T14:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "Regulation",
+        "MiCA",
+        "Hack",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "localUrl": "/news/20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union.html"
+    },
     {
       "source": "CoinDesk",
       "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
@@ -988,39 +1032,6 @@
       "localUrl": "/news/20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-      "summary": "WTI crude tops $82 a barrel, adding inflation pressure and weighing on risk assets as bond yields rise.",
-      "url": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-      "publishedAt": "2026-08-14T08:51:48.000Z",
-      "keywords": [
-        "Tech",
-        "Bitcoin News",
-        "Trade Finance",
-        "Live News",
-        "live_news"
-      ],
-      "category": "DeFi",
-      "slug": "20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from",
-      "localUrl": "/news/20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-      "summary": "Top cryptocurrencies nurse losses as regulatory picture sours. ETF flows and traditional markets offer little support.",
-      "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
-      "publishedAt": "2026-08-14T07:14:37.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "XRP News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1",
-      "localUrl": "/news/20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1.html"
-    },
-    {
       "source": "Decrypt",
       "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
       "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
@@ -1071,19 +1082,6 @@
       "category": "综合",
       "slug": "20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr",
       "localUrl": "/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-      "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
-      "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-      "publishedAt": "2026-08-13T19:11:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so",
-      "localUrl": "/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html"
     },
     {
       "source": "Solana Blog",

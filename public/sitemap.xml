@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T13:40:47.944Z</lastmod>
+    <lastmod>2026-08-16T14:35:14.312Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T13:40:47.944Z</lastmod>
+    <lastmod>2026-08-16T14:35:14.312Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40000-customers-orde.html</loc>
+    <lastmod>2026-08-16T14:02:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-people-are-turning-to-ai-for-mental-health-california-wants-it-banned.html</loc>
+    <lastmod>2026-08-16T14:01:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union.html</loc>
+    <lastmod>2026-08-16T14:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260816-the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad.html</loc>
@@ -457,18 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-live-updates-bitcoin-slips-back-to-63000-msci-threatens-to-exclude-strategy-from.html</loc>
-    <lastmod>2026-08-14T08:51:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-1.html</loc>
-    <lastmod>2026-08-14T07:14:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html</loc>
     <lastmod>2026-08-13T22:36:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr.html</loc>
     <lastmod>2026-08-13T20:30:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so.html</loc>
-    <lastmod>2026-08-13T19:11:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
