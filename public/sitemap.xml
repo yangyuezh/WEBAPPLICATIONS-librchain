@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T16:38:17.012Z</lastmod>
+    <lastmod>2026-08-16T17:30:53.332Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T16:38:17.012Z</lastmod>
+    <lastmod>2026-08-16T17:30:53.332Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -67,12 +67,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-two-meetings-this-week-could-decide-the-future-of-crypto-in-america-the-white-ho.html</loc>
-    <lastmod>2026-08-16T12:03:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260816-the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embra.html</loc>
     <lastmod>2026-08-16T12:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -87,12 +81,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html</loc>
     <lastmod>2026-08-16T09:57:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl.html</loc>
-    <lastmod>2026-08-16T06:28:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,6 +337,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html</loc>
+    <lastmod>2026-08-14T17:49:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus.html</loc>
     <lastmod>2026-08-14T17:48:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -369,6 +363,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html</loc>
     <lastmod>2026-08-14T17:03:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260814-spread-bitcoin-with-love-xcom.html</loc>
+    <lastmod>2026-08-14T16:52:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
