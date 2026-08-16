@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T20:34:46.197Z</lastmod>
+    <lastmod>2026-08-16T21:31:36.846Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T20:34:46.197Z</lastmod>
+    <lastmod>2026-08-16T21:31:36.846Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html</loc>
     <lastmod>2026-08-16T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html</loc>
+    <lastmod>2026-08-16T16:30:35.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -207,12 +213,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html</loc>
     <lastmod>2026-08-15T14:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-eth-continues-to-hold-up-very-strong-if-bitcoinnative-finally-enters-its-blow-of.html</loc>
-    <lastmod>2026-08-15T13:39:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
