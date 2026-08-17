@@ -5,7 +5,7 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 17 Aug 2026 01:52:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:09:39 GMT</lastBuildDate>
     <item>
       <title>Transaction v1 and the ALT Trade-off</title>
       <link>https://www.librchain.com/news/20260817-transaction-v1-and-the-alt-trade-off.html</link>
@@ -21,6 +21,14 @@
       <description>Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.</description>
       <pubDate>Sun, 16 Aug 2026 23:54:50 GMT</pubDate>
       <source url="https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Right place, right time: many neoclouds spent years mining crypto, then AI showed up and turned their power rights, data centers, and GPUs into some of the hottest assets in tech. 25 quarters in, CoreWeave is pulling in more quarterly revenue than Azure, AW - x.com</title>
+      <link>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5&quot; target=&quot;_blank&quot;&gt;Right place, right time: many neoclouds spent y…</description>
+      <pubDate>Sun, 16 Aug 2026 19:47:54 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5">X Wire</source>
     </item>
     <item>
       <title>Did whales go long at the top of the local bitcoin:native range? Whale net long positioning on Hyperliquid peaked right into resistance. Spot and flow data still show no matching demand. Read our latest weekly article &quot;Trigger Happy&quot; for analyses like this👇 - x.com</title>
@@ -477,14 +485,6 @@
       <description>Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.</description>
       <pubDate>Fri, 14 Aug 2026 17:46:06 GMT</pubDate>
       <source url="https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million">Decrypt</source>
-    </item>
-    <item>
-      <title>Israel’s Largest Bank Will Give Bitcoin Trading Another Try</title>
-      <link>https://www.librchain.com/news/20260814-israels-largest-bank-will-give-bitcoin-trading-another-try.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260814-israels-largest-bank-will-give-bitcoin-trading-another-try.html</guid>
-      <description>Bank Leumi&apos;s 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy&apos;s custody stack now give it another shot in early 2027.</description>
-      <pubDate>Fri, 14 Aug 2026 17:14:02 GMT</pubDate>
-      <source url="https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading">Decrypt</source>
     </item>
   </channel>
 </rss>

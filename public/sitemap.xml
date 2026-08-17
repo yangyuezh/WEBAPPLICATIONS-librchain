@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T01:52:11.252Z</lastmod>
+    <lastmod>2026-08-17T03:09:39.099Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T01:52:11.252Z</lastmod>
+    <lastmod>2026-08-17T03:09:39.099Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -21,6 +21,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html</loc>
     <lastmod>2026-08-16T23:54:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</loc>
+    <lastmod>2026-08-16T19:47:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html</loc>
     <lastmod>2026-08-14T17:03:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-spread-bitcoin-with-love-xcom.html</loc>
-    <lastmod>2026-08-14T16:52:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
