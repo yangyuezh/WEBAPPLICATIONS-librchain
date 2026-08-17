@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-17T03:09:38.965Z",
+  "updatedAt": "2026-08-17T04:54:27.232Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+      "summary": "Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+      "publishedAt": "2026-08-17T04:43:03.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges",
+      "localUrl": "/news/20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
+      "summary": "Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "publishedAt": "2026-08-17T04:14:00.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-bitcoin-tops-64000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
+      "localUrl": "/news/20260817-bitcoin-tops-64000-in-asia-morning-hours-as-hype-jumps-8-on-the-week.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
+      "summary": "The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.",
+      "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T03:42:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260817-chainalysis-sues-us-over-95m-ice-contract-with-trm-labs",
+      "localUrl": "/news/20260817-chainalysis-sues-us-over-95m-ice-contract-with-trm-labs.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "thank god for meme coins imagine how boring crypto would be if it was just bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRm9KU0dfQ2ptYV9vdUoxVEZ1eVdPdU85RFNTSGQ5VWVpZC1KOVRQai1HTXdwejI2LVF3ZGo0MWI0X0dwM0hGcGdvZVVtMGc3WTBZc2M2ZHVmVW1MeFE?oc=5\" target=\"_blank\">thank god for meme coins imagine how bo…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRm9KU0dfQ2ptYV9vdUoxVEZ1eVdPdU85RFNTSGQ5VWVpZC1KOVRQai1HTXdwejI2LVF3ZGo0MWI0X0dwM0hGcGdvZVVtMGc3WTBZc2M2ZHVmVW1MeFE?oc=5",
+      "publishedAt": "2026-08-17T03:24:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco",
+      "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
+    },
     {
       "source": "Solana Blog",
       "title": "Transaction v1 and the ALT Trade-off",
@@ -103,6 +155,17 @@
       "category": "X热点",
       "slug": "20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an",
       "localUrl": "/news/20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin 👀 “The mission is simple: take this thing to the moon. 🚀” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5",
+      "publishedAt": "2026-08-16T15:04:14.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si",
+      "localUrl": "/news/20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si.html"
     },
     {
       "source": "X Wire",
@@ -252,6 +315,17 @@
       "category": "X热点",
       "slug": "20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl",
       "localUrl": "/news/20260816-bitcoin-may-have-only-51-days-left-the-btc-macro-cycle-has-followed-an-almost-fl.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ethereum's next year's upgrade, Hegotá, is being scoped right now. 66 proposals are on the table and over the next few core dev calls, this list will be narrowed down to the EIPs that get implementations, devnets, testnets, and a realistic chance of shipping in 2 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5\" target=\"_blank\">Ethereum's next year's upgrade, Hegotá,…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5",
+      "publishedAt": "2026-08-16T05:07:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
+      "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
     },
     {
       "source": "X Wire",
@@ -436,17 +510,6 @@
       "localUrl": "/news/20260815-latest-pokemon-cards-outperformed-bitcoin-by-over-43-percentage-points-during-th.html"
     },
     {
-      "source": "X Wire",
-      "title": "Uni is Uni. No crypto, no generative AI needed. We’re just happy to have him here - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQjZ4Z09BOVYxZGlUUFNMUThVczVBS1hYMUpZRnE4WjA5M0JpbXhHeDN3SlRGT0R3VEZIY3R6NUJzUURBRzl5bURxdjY0ZEZfN0FkUEY4NVB1MExZaTBESXpDRQ?oc=5\" target=\"_blank\">Uni is Uni. No crypto, no genera…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQjZ4Z09BOVYxZGlUUFNMUThVczVBS1hYMUpZRnE4WjA5M0JpbXhHeDN3SlRGT0R3VEZIY3R6NUJzUURBRzl5bURxdjY0ZEZfN0FkUEY4NVB1MExZaTBESXpDRQ?oc=5",
-      "publishedAt": "2026-08-15T14:16:49.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-uni-is-uni-no-crypto-no-generative-ai-needed-were-just-happy-to-have-him-here-xc",
-      "localUrl": "/news/20260815-uni-is-uni-no-crypto-no-generative-ai-needed-were-just-happy-to-have-him-here-xc.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
       "summary": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
@@ -557,17 +620,6 @@
       "category": "市场",
       "slug": "20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington",
       "localUrl": "/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Soon, millionaires won't be able to afford 1 full Bitcoin. 🤷 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EdXNKbElIejItYklPcmowV1d0cVZPUnNqdTFLVTVZdlRjQl9lMjFTNWRVOUVrejEyd0lZdVNkN2xrNlZRVThDR2RtbkxIano2RmkybFZMYWJfckhYOWtNaA?oc=5\" target=\"_blank\">Soon, millionaires won't be able to …",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EdXNKbElIejItYklPcmowV1d0cVZPUnNqdTFLVTVZdlRjQl9lMjFTNWRVOUVrejEyd0lZdVNkN2xrNlZRVThDR2RtbkxIano2RmkybFZMYWJfckhYOWtNaA?oc=5",
-      "publishedAt": "2026-08-15T09:34:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-xcom",
-      "localUrl": "/news/20260815-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -832,17 +884,6 @@
       "localUrl": "/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html"
     },
     {
-      "source": "X Wire",
-      "title": "Ethereum $ETH and Solana $SOL could be getting scarcer. New proposals on both networks aim to burn more tokens and cut inflation, reducing future supply. If they pass, annual inflation for ETH and SOL could fall below gold (1.8%) and U.S. CPI (3.3%) by 2 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSXg5YlNUZ0ZJMDkxVGZZU09hbWR4RkVrWDlpNVBWM0Z4d01xU0hCTndIZlNNZHJ5bVczcm1lQWNDSWZaUmFrR0c3eTZ5dWwxVzNTYzN2ODJ6MzExZGRj?oc=5\" target=\"_blank\">Ethereum $ETH and Solana $SOL could be…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZSXg5YlNUZ0ZJMDkxVGZZU09hbWR4RkVrWDlpNVBWM0Z4d01xU0hCTndIZlNNZHJ5bVczcm1lQWNDSWZaUmFrR0c3eTZ5dWwxVzNTYzN2ODJ6MzExZGRj?oc=5",
-      "publishedAt": "2026-08-14T16:20:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo",
-      "localUrl": "/news/20260814-ethereum-eth-and-solana-sol-could-be-getting-scarcer-new-proposals-on-both-netwo.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
       "summary": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
@@ -906,19 +947,6 @@
       "category": "监管",
       "slug": "20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2",
       "localUrl": "/news/20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
-      "summary": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
-      "url": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T14:14:06.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260814-jpmorgan-boosts-bitcoin-ether-etf-positions-in-q2-filing",
-      "localUrl": "/news/20260814-jpmorgan-boosts-bitcoin-ether-etf-positions-in-q2-filing.html"
     },
     {
       "source": "CoinDesk",
@@ -996,38 +1024,6 @@
       "category": "市场",
       "slug": "20260814-morning-minute-tether-finally-gets-an-audit",
       "localUrl": "/news/20260814-morning-minute-tether-finally-gets-an-audit.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fear is fading across markets, be it bitcoin, stocks, gold or bonds",
-      "summary": "Your day-ahead look for Aug. 14, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
-      "publishedAt": "2026-08-14T11:33:50.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds",
-      "localUrl": "/news/20260814-fear-is-fading-across-markets-be-it-bitcoin-stocks-gold-or-bonds.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "summary": "The token’s sale has been pushed back due to the Iran war disrupting travel in the region.",
-      "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
-      "publishedAt": "2026-08-14T11:07:49.000Z",
-      "keywords": [
-        "Finance",
-        "Eric Trump",
-        "Real World Assets",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260814-trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
-      "localUrl": "/news/20260814-trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token.html"
     },
     {
       "source": "Decrypt",
