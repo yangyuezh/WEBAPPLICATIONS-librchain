@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T16:42:09.226Z</lastmod>
+    <lastmod>2026-08-17T17:40:28.540Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T16:42:09.226Z</lastmod>
+    <lastmod>2026-08-17T17:40:28.540Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html</loc>
+    <lastmod>2026-08-17T17:11:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-e.html</loc>
@@ -289,6 +295,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html</loc>
+    <lastmod>2026-08-17T01:48:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-announcing-the-plataberget-testnet.html</loc>
     <lastmod>2026-08-17T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -303,12 +315,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html</loc>
     <lastmod>2026-08-16T23:54:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html</loc>
-    <lastmod>2026-08-16T23:03:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -339,6 +345,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html</loc>
     <lastmod>2026-08-16T16:00:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-probably-easier-to-use-gold-than-bitcoin-in-most-places-still-despite-the-endles.html</loc>
+    <lastmod>2026-08-16T15:40:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,12 +387,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade.html</loc>
     <lastmod>2026-08-16T11:12:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html</loc>
-    <lastmod>2026-08-16T09:57:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
     <lastmod>2026-08-15T12:44:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</loc>
-    <lastmod>2026-08-15T11:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

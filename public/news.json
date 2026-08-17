@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-17T16:42:09.183Z",
+  "updatedAt": "2026-08-17T17:40:28.486Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+      "summary": "The regulatory review could shape an emerging market that lets companies and investors trade and hedge the cost of increasingly scarce AI computing power.",
+      "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T17:11:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun",
+      "localUrl": "/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html"
+    },
     {
       "source": "CoinDesk",
       "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
@@ -637,6 +650,17 @@
       "localUrl": "/news/20260817-chainalysis-sues-us-government-over-contract-award-to-trm-labs-chainalysis-gover.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin has remained in the “Fire Sale” zone for longer than at any point in its history, according to the Bitcoin Rainbow Price Chart. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin has remained in the…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5",
+      "publishedAt": "2026-08-17T01:48:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-",
+      "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
+    },
+    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -672,17 +696,6 @@
       "category": "安全",
       "slug": "20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
       "localUrl": "/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman Selig, & executives from across crypto industry including Coinbase, Polymarket, Ripple, Gemini, etc. Also expected to i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5\" target=\"_blank\">White House hosting major crypto mee…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5",
-      "publishedAt": "2026-08-16T23:03:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres",
-      "localUrl": "/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html"
     },
     {
       "source": "X Wire",
@@ -740,6 +753,17 @@
       "category": "综合",
       "slug": "20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore",
       "localUrl": "/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Probably easier to use gold than bitcoin in most places still despite the endless promises of its use cases… what have these people built of value, stable coins? Really? So what’s the point of having a monetary system that can’t really be used… I’m just asking - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1VVpTM2tHSXNOQmQ4Mm9Oa1JOSVAxYV94Mm02ZzFIQWZXeUpLcklpUmUzaS1GcnhFYVVvc2RqUks2Qm10amNVd0dCLS1TcmJUWjI0aXZnTUQ1XzJFbWlSWHJGNDd6UQ?oc=5\" target=\"_blank\">Probably easier to use gold …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1VVpTM2tHSXNOQmQ4Mm9Oa1JOSVAxYV94Mm02ZzFIQWZXeUpLcklpUmUzaS1GcnhFYVVvc2RqUks2Qm10amNVd0dCLS1TcmJUWjI0aXZnTUQ1XzJFbWlSWHJGNDd6UQ?oc=5",
+      "publishedAt": "2026-08-16T15:40:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-probably-easier-to-use-gold-than-bitcoin-in-most-places-still-despite-the-endles",
+      "localUrl": "/news/20260816-probably-easier-to-use-gold-than-bitcoin-in-most-places-still-despite-the-endles.html"
     },
     {
       "source": "X Wire",
@@ -812,17 +836,6 @@
       "category": "基础设施",
       "slug": "20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade",
       "localUrl": "/news/20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Many people have been wrong about crypto. Takes time. Not 100% sure I am correct here either. We are human afterall. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YjBUR0JTaHFNek1ZclV0X0xwU2Zhc1BRVXk5NlNxcXBKOGxRQjREMWctQ0VyaVN4SWpCLS1QYjNUVXdWeVYtUmdLaGloUTlDSDQta3RFYjdxR0xRbVdMQg?oc=5\" target=\"_blank\">Many people have been wrong about cr…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YjBUR0JTaHFNek1ZclV0X0xwU2Zhc1BRVXk5NlNxcXBKOGxRQjREMWctQ0VyaVN4SWpCLS1QYjNUVXdWeVYtUmdLaGloUTlDSDQta3RFYjdxR0xRbVdMQg?oc=5",
-      "publishedAt": "2026-08-16T09:57:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he",
-      "localUrl": "/news/20260816-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct-he.html"
     },
     {
       "source": "X Wire",
@@ -969,19 +982,6 @@
       "category": "X热点",
       "slug": "20260815-6289594-bitcoin-xcom",
       "localUrl": "/news/20260815-6289594-bitcoin-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
-      "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
-      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-15T11:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington",
-      "localUrl": "/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html"
     },
     {
       "source": "X Wire",
