@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-17T18:54:52.881Z",
+  "updatedAt": "2026-08-17T19:36:55.111Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+      "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
+      "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+      "publishedAt": "2026-08-17T19:01:56.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign",
+      "localUrl": "/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
@@ -16,6 +29,19 @@
       "category": "市场",
       "slug": "20260817-saylor-says-share-buyback-isnt-priority-as-strategy-builds-48-billion-cash-reser",
       "localUrl": "/news/20260817-saylor-says-share-buyback-isnt-priority-as-strategy-builds-48-billion-cash-reser.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance to plan UK relaunch with FCA license application: Report",
+      "summary": "Binance’s UK arm has been barred from offering regulated activities in the country since June 2021, but the company will reportedly move to secure licensing under new crypto rules.",
+      "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T18:45:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260817-binance-to-plan-uk-relaunch-with-fca-license-application-report",
+      "localUrl": "/news/20260817-binance-to-plan-uk-relaunch-with-fca-license-application-report.html"
     },
     {
       "source": "Decrypt",
@@ -987,19 +1013,6 @@
       "localUrl": "/news/20260815-trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
-      "summary": "Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto’s best outcome is to become part of TradFi.",
-      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-15T12:57:58.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260815-bitcoin-could-bottom-in-october-altcoins-are-basically-dead-swan-ceo-says",
-      "localUrl": "/news/20260815-bitcoin-could-bottom-in-october-altcoins-are-basically-dead-swan-ceo-says.html"
-    },
-    {
       "source": "X Wire",
       "title": "$62,895.94 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5\" target=\"_blank\">$62,895.94 #Bitcoin</a> <font color=\"#6f6f…",
@@ -1057,19 +1070,6 @@
       "category": "综合",
       "slug": "20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model",
       "localUrl": "/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-      "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
-      "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-      "publishedAt": "2026-08-14T19:01:05.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth",
-      "localUrl": "/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html"
     },
     {
       "source": "Chainalysis Blog",

@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T18:54:52.921Z</lastmod>
+    <lastmod>2026-08-17T19:36:55.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T18:54:52.921Z</lastmod>
+    <lastmod>2026-08-17T19:36:55.151Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html</loc>
+    <lastmod>2026-08-17T19:01:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-saylor-says-share-buyback-isnt-priority-as-strategy-builds-48-billion-cash-reser.html</loc>
     <lastmod>2026-08-17T18:53:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-binance-to-plan-uk-relaunch-with-fca-license-application-report.html</loc>
+    <lastmod>2026-08-17T18:45:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +475,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-bitcoin-could-bottom-in-october-altcoins-are-basically-dead-swan-ceo-says.html</loc>
-    <lastmod>2026-08-15T12:57:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
     <lastmod>2026-08-15T12:44:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,12 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html</loc>
     <lastmod>2026-08-14T20:01:13.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html</loc>
-    <lastmod>2026-08-14T19:01:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
