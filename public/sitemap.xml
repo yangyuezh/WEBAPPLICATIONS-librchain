@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T09:53:42.754Z</lastmod>
+    <lastmod>2026-08-17T10:45:51.110Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T09:53:42.754Z</lastmod>
+    <lastmod>2026-08-17T10:45:51.110Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli.html</loc>
+    <lastmod>2026-08-17T10:31:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-dutch-prosecutors-sell-25m-of-crypto-from-bankrupt-platform-knaken.html</loc>
+    <lastmod>2026-08-17T10:13:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-bitcoin-tracks-equity-bounce-but-390-million-etf-outflow-week-keeps-bulls-on-bac.html</loc>
+    <lastmod>2026-08-17T09:59:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-bitpanda-fined-in-austrias-first-published-mica-penalty.html</loc>
@@ -127,12 +145,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-sndk-stock-perpetual-open-interest-reaches-173-billion-highest-among-stock-perpe.html</loc>
-    <lastmod>2026-08-16T17:59:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html</loc>
     <lastmod>2026-08-16T17:05:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -141,6 +153,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html</loc>
     <lastmod>2026-08-16T16:30:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv.html</loc>
+    <lastmod>2026-08-16T16:06:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -349,12 +367,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html</loc>
-    <lastmod>2026-08-15T12:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html</loc>
     <lastmod>2026-08-15T11:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -495,18 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it.html</loc>
     <lastmod>2026-08-14T09:50:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html</loc>
-    <lastmod>2026-08-13T22:36:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html</loc>
-    <lastmod>2026-08-13T21:45:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

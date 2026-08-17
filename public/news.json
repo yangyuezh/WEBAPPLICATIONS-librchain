@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-17T09:53:42.711Z",
+  "updatedAt": "2026-08-17T10:45:51.068Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+      "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.",
+      "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
+      "publishedAt": "2026-08-17T10:31:04.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "监管",
+      "slug": "20260817-paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli",
+      "localUrl": "/news/20260817-paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+      "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
+      "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+      "publishedAt": "2026-08-17T10:13:41.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260817-dutch-prosecutors-sell-25m-of-crypto-from-bankrupt-platform-knaken",
+      "localUrl": "/news/20260817-dutch-prosecutors-sell-25m-of-crypto-from-bankrupt-platform-knaken.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tracks equity bounce, but $390 million ETF outflow week keeps bulls on back foot",
+      "summary": "The price of bitcoin tracked a bounce in equities, but a $390 million ETF outflow streak and 10% odds on landmark crypto legislation leave markets searching for direction.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tracks-equity-bounce-but-usd390-million-etf-outflow-week-keeps-bulls-on-back-foot",
+      "publishedAt": "2026-08-17T09:59:55.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260817-bitcoin-tracks-equity-bounce-but-390-million-etf-outflow-week-keeps-bulls-on-bac",
+      "localUrl": "/news/20260817-bitcoin-tracks-equity-bounce-but-390-million-etf-outflow-week-keeps-bulls-on-bac.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitpanda fined in Austria’s first published MiCA penalty",
@@ -258,17 +299,6 @@
     },
     {
       "source": "X Wire",
-      "title": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals According to WuBlockchain Data, as of August 17, open interest in Sandisk (SNDK) stock perpetuals reached $1.73 billion, the highest among all stock perpetuals. T - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DMFhRZGxJbi1sNWVacTZiM21GUU5TZzJ1bDdRckhJMlNnMk5XRjh5eFV5YnVLZTMzdEEtcy1fQlBPLTVXVUZNSVZhamM2STZDUE5XbjZQR1FRcmhkVjY0dkc1MA?oc=5\" target=\"_blank\">SNDK Stock Perpetual Open Intere…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DMFhRZGxJbi1sNWVacTZiM21GUU5TZzJ1bDdRckhJMlNnMk5XRjh5eFV5YnVLZTMzdEEtcy1fQlBPLTVXVUZNSVZhamM2STZDUE5XbjZQR1FRcmhkVjY0dkc1MA?oc=5",
-      "publishedAt": "2026-08-16T17:59:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-sndk-stock-perpetual-open-interest-reaches-173-billion-highest-among-stock-perpe",
-      "localUrl": "/news/20260816-sndk-stock-perpetual-open-interest-reaches-173-billion-highest-among-stock-perpe.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo Vitalik Buterin said the Bitcoin community deserves credit for work on technologies such as Utreexo, adding that Ethereum’s current scaling proposals are exploring similar ideas. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRklIMjhHQzkyY1h5STlPUU9XbGo3TVNyTkY4bXlaQ0NfczRWYzJGSEZQdW1RTUVENTZ6LU1PbWZKQWFKZzJOUGZKcUZXQnYzMlVEMXlfenFNdDA5c2tib2Z0NA?oc=5\" target=\"_blank\">Vitalik Buterin Says Ethereum Sc…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRklIMjhHQzkyY1h5STlPUU9XbGo3TVNyTkY4bXlaQ0NfczRWYzJGSEZQdW1RTUVENTZ6LU1PbWZKQWFKZzJOUGZKcUZXQnYzMlVEMXlfenFNdDA5c2tib2Z0NA?oc=5",
@@ -288,6 +318,17 @@
       "category": "X热点",
       "slug": "20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c",
       "localUrl": "/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "EU Regulators Warn of MiCA Migration Scams as 1,700 Crypto Platforms Halt EU Services More than 1,700 unlicensed crypto platforms were required to stop serving EU users after MiCA took full effect on July 1, while only 323 firms held valid MiCA authorizati - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQXNxa0hGWjZmTk9MTF9fRkdVekxrdWlVNUdnNjU2NV9GVlhlRjV5MVJzT0VIemNFazBGWFk1aXJlTjM3OUZyOENpb1RiQWdfdHpCU045ZXdET09Ya3dES1Y1UQ?oc=5\" target=\"_blank\">EU Regulators Warn of MiCA Migra…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQXNxa0hGWjZmTk9MTF9fRkdVekxrdWlVNUdnNjU2NV9GVlhlRjV5MVJzT0VIemNFazBGWFk1aXJlTjM3OUZyOENpb1RiQWdfdHpCU045ZXdET09Ya3dES1Y1UQ?oc=5",
+      "publishedAt": "2026-08-16T16:06:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv",
+      "localUrl": "/news/20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv.html"
     },
     {
       "source": "Decrypt",
@@ -743,23 +784,6 @@
       "localUrl": "/news/20260815-6289594-bitcoin-xcom.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-      "summary": "Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.",
-      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-      "publishedAt": "2026-08-15T12:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Ethereum News",
-        "DeFi",
-        "Institutional Adoption",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc",
-      "localUrl": "/news/20260815-wall-streets-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advoc.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
       "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
@@ -1071,32 +1095,6 @@
       "category": "监管",
       "slug": "20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
       "localUrl": "/news/20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
-      "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
-      "publishedAt": "2026-08-13T22:36:07.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws",
-      "localUrl": "/news/20260813-bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-      "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other—and the transcripts explain why.",
-      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "publishedAt": "2026-08-13T21:45:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged",
-      "localUrl": "/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html"
     },
     {
       "source": "Solana Blog",
