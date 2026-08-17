@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-17T17:40:28.486Z",
+  "updatedAt": "2026-08-17T18:54:52.881Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
+      "summary": "Strategy is prioritizing STRC, cash reserves, and its credit business over stock buybacks, Executive Chairman Michael Saylor said Monday.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+      "publishedAt": "2026-08-17T18:53:47.000Z",
+      "keywords": [
+        "Markets",
+        "MicroStrategy",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260817-saylor-says-share-buyback-isnt-priority-as-strategy-builds-48-billion-cash-reser",
+      "localUrl": "/news/20260817-saylor-says-share-buyback-isnt-priority-as-strategy-builds-48-billion-cash-reser.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
+      "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
+      "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
+      "publishedAt": "2026-08-17T18:29:56.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-solanas-pump-token-leads-crypto-market-gainers-as-chart-paints-golden-cross",
+      "localUrl": "/news/20260817-solanas-pump-token-leads-crypto-market-gainers-as-chart-paints-golden-cross.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
+      "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
+      "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
+      "publishedAt": "2026-08-17T18:19:46.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade",
+      "localUrl": "/news/20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
@@ -587,6 +628,17 @@
       "localUrl": "/news/20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou.html"
     },
     {
+      "source": "X Wire",
+      "title": "🇺🇸 THE WHITE HOUSE IS HOSTING THE BIGGEST CRYPTO MEETING IN HISTORY THIS WEEK! In the room: President Trump, SEC Chair Atkins, CFTC Chair Selig, Coinbase, Ripple, Gemini, Polymarket, Kalshi, Nasdaq, NYSE, CME and DTCC. The real st - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TnUwYWVoZmxUZERwbDBUQUlMS2VFUk94ZUJoMmU0U3VyMHQwUzVuNFYzWk4zZFBNaW1rRDRmQ1M1b3lib1RNLXZFdmRHODU3WE80bmVTOTE0Q2RBV2Q3NGRn?oc=5\" target=\"_blank\">🇺🇸 THE WHITE HOUSE IS HOSTING TH…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TnUwYWVoZmxUZERwbDBUQUlMS2VFUk94ZUJoMmU0U3VyMHQwUzVuNFYzWk4zZFBNaW1rRDRmQ1M1b3lib1RNLXZFdmRHODU3WE80bmVTOTE0Q2RBV2Q3NGRn?oc=5",
+      "publishedAt": "2026-08-17T04:58:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th",
+      "localUrl": "/news/20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
       "summary": "Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.",
@@ -599,20 +651,6 @@
       "category": "市场",
       "slug": "20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges",
       "localUrl": "/news/20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin nears $64,000 in Asia morning hours as HYPE jumps 8% on the week",
-      "summary": "Every major gained on Sunday, though bitcoin, ether, XRP and solana are all lower over seven days.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-      "publishedAt": "2026-08-17T04:14:00.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-bitcoin-nears-64000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-      "localUrl": "/news/20260817-bitcoin-nears-64000-in-asia-morning-hours-as-hype-jumps-8-on-the-week.html"
     },
     {
       "source": "Cointelegraph",
@@ -651,14 +689,14 @@
     },
     {
       "source": "X Wire",
-      "title": "JUST IN: Bitcoin has remained in the “Fire Sale” zone for longer than at any point in its history, according to the Bitcoin Rainbow Price Chart. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin has remained in the…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5",
-      "publishedAt": "2026-08-17T01:48:30.000Z",
+      "title": "Curve Finance Founder Questions Pumpfun and Phantom Wallet Experience Curve Finance founder Michael Egorov criticized Pumpfun as “a casino of scams called memecoins” and said Phantom’s hardware-wallet experience was worse than MetaMask’s. H - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5\" target=\"_blank\">Curve Finance Founder Questions …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5",
+      "publishedAt": "2026-08-17T01:46:45.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-",
-      "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
+      "slug": "20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina",
+      "localUrl": "/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html"
     },
     {
       "source": "Ethereum Blog",
@@ -696,6 +734,17 @@
       "category": "安全",
       "slug": "20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
       "localUrl": "/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$BTC vs $GOLD is seeing Bitcoin trend down again after rejecting from the horizontal support/resistance. GOLD has been on a nice rally the past 1-2 weeks as BTC has failed to push above $65K and went back to underperforming other asset classes. This ha - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdkVBU3B4eFZidjhfTWZfbk5jQzM5Y0RheVItcHl4WG1RRmw3YlpMdGlFTVROaFpaR0lIVDI4c1cyWTlfTUR5clN6TDJNa3VjZFhoNzEtaDNoNXdhcy1zVg?oc=5\" target=\"_blank\">$BTC vs $GOLD is seeing Bitcoin tren…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdkVBU3B4eFZidjhfTWZfbk5jQzM5Y0RheVItcHl4WG1RRmw3YlpMdGlFTVROaFpaR0lIVDI4c1cyWTlfTUR5clN6TDJNa3VjZFhoNzEtaDNoNXdhcy1zVg?oc=5",
+      "publishedAt": "2026-08-16T20:01:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-btc-vs-gold-is-seeing-bitcoin-trend-down-again-after-rejecting-from-the-horizont",
+      "localUrl": "/news/20260816-btc-vs-gold-is-seeing-bitcoin-trend-down-again-after-rejecting-from-the-horizont.html"
     },
     {
       "source": "X Wire",
@@ -849,17 +898,6 @@
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
     },
     {
-      "source": "X Wire",
-      "title": "INSIGHT: \"Soon, millionaires won't be able to afford 1 full Bitcoin.\" says @cz_binance, noting there are 23.6M U.S. millionaires but only 20.07M $BTC in circulation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5\" target=\"_blank\">INSIGHT: \"Soon, millionaires won't be a…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5",
-      "publishedAt": "2026-08-15T21:53:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-",
-      "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
       "summary": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
@@ -908,17 +946,6 @@
       "category": "综合",
       "slug": "20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china",
       "localUrl": "/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "To understand Bitcoin, first understand money. Money is energy. Bitcoin is digital monetary energy. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpcWdOTDJaZHlmX0tkckg4Z1F2ZjUwUGw3OEhBaENxN0Z6OG92WVl3X3E4Mnl5dnVYTlRyaE95MXgyb25RamR1RDh3SzE1cjlramlLSzhLNUFoQmc?oc=5\" target=\"_blank\">To understand Bitcoin, first understand mon…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpcWdOTDJaZHlmX0tkckg4Z1F2ZjUwUGw3OEhBaENxN0Z6OG92WVl3X3E4Mnl5dnVYTlRyaE95MXgyb25RamR1RDh3SzE1cjlramlLSzhLNUFoQmc?oc=5",
-      "publishedAt": "2026-08-15T16:20:03.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-",
-      "localUrl": "/news/20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-.html"
     },
     {
       "source": "Decrypt",
@@ -1043,32 +1070,6 @@
       "category": "基础设施",
       "slug": "20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth",
       "localUrl": "/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-      "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
-      "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-      "publishedAt": "2026-08-14T18:31:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack",
-      "localUrl": "/news/20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-      "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
-      "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
-      "publishedAt": "2026-08-14T17:46:06.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy",
-      "localUrl": "/news/20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy.html"
     },
     {
       "source": "Chainalysis Blog",
