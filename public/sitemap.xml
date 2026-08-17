@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-16T23:31:09.789Z</lastmod>
+    <lastmod>2026-08-17T01:52:11.252Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-16T23:31:09.789Z</lastmod>
+    <lastmod>2026-08-17T01:52:11.252Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-transaction-v1-and-the-alt-trade-off.html</loc>
+    <lastmod>2026-08-17T00:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html</loc>
+    <lastmod>2026-08-16T23:54:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po.html</loc>
+    <lastmod>2026-08-16T18:32:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html</loc>
@@ -139,20 +157,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-bitcoin-meetups-in-2012-have-such-deep-nostalgia-for-me-this-one-took-place-in-c.html</loc>
-    <lastmod>2026-08-15T16:57:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-.html</loc>
     <lastmod>2026-08-15T16:20:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-the-support-under-bitcoinnative-has-started-to-disappear-the-heavy-wall-of-buy-o.html</loc>
-    <lastmod>2026-08-15T16:08:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,6 +379,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260814-spread-bitcoin-with-love-xcom.html</loc>
+    <lastmod>2026-08-14T16:52:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html</loc>
     <lastmod>2026-08-14T16:23:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy.html</loc>
     <lastmod>2026-08-14T13:51:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms.html</loc>
-    <lastmod>2026-08-14T13:36:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

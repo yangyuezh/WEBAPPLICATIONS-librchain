@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-16T23:31:09.757Z",
-  "total": 82,
+  "updatedAt": "2026-08-17T01:52:11.211Z",
+  "total": 83,
   "items": [
+    {
+      "source": "Solana Blog",
+      "title": "Transaction v1 and the ALT Trade-off",
+      "summary": "",
+      "url": "https://solana.com/news/transaction-v1-and-the-alt-trade-off",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260817-transaction-v1-and-the-alt-trade-off",
+      "localUrl": "/news/20260817-transaction-v1-and-the-alt-trade-off.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
+      "summary": "Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.",
+      "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-16T23:54:50.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "安全",
+      "slug": "20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
+      "localUrl": "/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Did whales go long at the top of the local bitcoin:native range? Whale net long positioning on Hyperliquid peaked right into resistance. Spot and flow data still show no matching demand. Read our latest weekly article \"Trigger Happy\" for analyses like this👇 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5\" target=\"_blank\">Did whales go long at the top of the l…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5",
+      "publishedAt": "2026-08-16T18:32:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po",
+      "localUrl": "/news/20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po.html"
+    },
     {
       "source": "CoinDesk",
       "title": "The SEC meeting that wasn't: State of Crypto",
@@ -281,17 +316,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin meetups in 2012 have such deep nostalgia for me. This one took place in Chinatown, NYC. People walked in off the street and quickly fell down the rabbit hole of a free market money. All of this against the backdrop of the great financial crisis. I miss tho - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WODg1N3FnR3NnUUZsWUpIbHNKLTE4dnh2SkYxeFRweVBla0RTNUVPa3lCWDEtdnRONmhuckZYS0xiaEZqNl9OcmFtLTVhR3ptdldzMkNLbTRycG51WXMzUWFUNA?oc=5\" target=\"_blank\">Bitcoin meetups in 2012 have suc…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WODg1N3FnR3NnUUZsWUpIbHNKLTE4dnh2SkYxeFRweVBla0RTNUVPa3lCWDEtdnRONmhuckZYS0xiaEZqNl9OcmFtLTVhR3ptdldzMkNLbTRycG51WXMzUWFUNA?oc=5",
-      "publishedAt": "2026-08-15T16:57:25.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-bitcoin-meetups-in-2012-have-such-deep-nostalgia-for-me-this-one-took-place-in-c",
-      "localUrl": "/news/20260815-bitcoin-meetups-in-2012-have-such-deep-nostalgia-for-me-this-one-took-place-in-c.html"
-    },
-    {
-      "source": "X Wire",
       "title": "To understand Bitcoin, first understand money. Money is energy. Bitcoin is digital monetary energy. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpcWdOTDJaZHlmX0tkckg4Z1F2ZjUwUGw3OEhBaENxN0Z6OG92WVl3X3E4Mnl5dnVYTlRyaE95MXgyb25RamR1RDh3SzE1cjlramlLSzhLNUFoQmc?oc=5\" target=\"_blank\">To understand Bitcoin, first understand mon…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpcWdOTDJaZHlmX0tkckg4Z1F2ZjUwUGw3OEhBaENxN0Z6OG92WVl3X3E4Mnl5dnVYTlRyaE95MXgyb25RamR1RDh3SzE1cjlramlLSzhLNUFoQmc?oc=5",
@@ -300,17 +324,6 @@
       "category": "X热点",
       "slug": "20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-",
       "localUrl": "/news/20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The support under bitcoin:native has started to disappear. The heavy wall of buy orders that built below price in June has begun to drain away. What remains is a much thinner floor. In our weekly updates we've been monitoring this metric closely 👇 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hRmFDbnJMZmFTUUZOcDVKdHIxaG15emd4cGpHQWM4dDY1WnZDMTUyOGJiVjcyMmhNU3ctX25DZ3hVbzROeVFYenJkRXlSU3Fwc1Y1YlNUakNaMS1zUExn?oc=5\" target=\"_blank\">The support under bitcoin:native has s…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hRmFDbnJMZmFTUUZOcDVKdHIxaG15emd4cGpHQWM4dDY1WnZDMTUyOGJiVjcyMmhNU3ctX25DZ3hVbzROeVFYenJkRXlSU3Fwc1Y1YlNUakNaMS1zUExn?oc=5",
-      "publishedAt": "2026-08-15T16:08:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-the-support-under-bitcoinnative-has-started-to-disappear-the-heavy-wall-of-buy-o",
-      "localUrl": "/news/20260815-the-support-under-bitcoinnative-has-started-to-disappear-the-heavy-wall-of-buy-o.html"
     },
     {
       "source": "CoinDesk",
@@ -795,6 +808,17 @@
       "localUrl": "/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html"
     },
     {
+      "source": "X Wire",
+      "title": "Spread Bitcoin with love. 🧡 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5\" target=\"_blank\">Spread Bitcoin with love. 🧡</a> <font colo…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5heUZIaWgyT29aTms0b0ltZDFpNV95Z0VRX0RsTVdoY1c4ajdOSmlmUXQ3V0wxcWZENEl4SUlMNkpkYU5DQkxKU08zV09heDJpcElBcWtDdWplbEk?oc=5",
+      "publishedAt": "2026-08-14T16:52:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260814-spread-bitcoin-with-love-xcom",
+      "localUrl": "/news/20260814-spread-bitcoin-with-love-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
       "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
@@ -946,19 +970,6 @@
       "category": "基础设施",
       "slug": "20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy",
       "localUrl": "/news/20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
-      "summary": "Binance said it will stop processing transactions for involving 11 crypto platforms, including HTX, which was recently listed in the EU’s sanctions package targeting Russia.",
-      "url": "https://cointelegraph.com/news/binance-restrict-htx-10-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T13:36:34.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260814-binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms",
-      "localUrl": "/news/20260814-binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms.html"
     },
     {
       "source": "Decrypt",
