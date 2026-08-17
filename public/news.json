@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-17T05:47:02.828Z",
+  "updatedAt": "2026-08-17T07:12:59.999Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
+      "summary": "Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.",
+      "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T05:52:55.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260817-greenlanes-70m-bera-treasury-ends-q2-valued-at-16m",
+      "localUrl": "/news/20260817-greenlanes-70m-bera-treasury-ends-q2-valued-at-16m.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "summary": "The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "publishedAt": "2026-08-17T05:51:18.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou",
+      "localUrl": "/news/20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou.html"
+    },
     {
       "source": "CoinDesk",
       "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
@@ -126,6 +154,17 @@
       "category": "X热点",
       "slug": "20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit",
       "localUrl": "/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "EU Regulators Warn of MiCA Migration Scams as 1,700 Crypto Platforms Halt EU Services More than 1,700 unlicensed crypto platforms were required to stop serving EU users after MiCA took full effect on July 1, while only 323 firms held valid MiCA authorizati - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQXNxa0hGWjZmTk9MTF9fRkdVekxrdWlVNUdnNjU2NV9GVlhlRjV5MVJzT0VIemNFazBGWFk1aXJlTjM3OUZyOENpb1RiQWdfdHpCU045ZXdET09Ya3dES1Y1UQ?oc=5\" target=\"_blank\">EU Regulators Warn of MiCA Migra…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQXNxa0hGWjZmTk9MTF9fRkdVekxrdWlVNUdnNjU2NV9GVlhlRjV5MVJzT0VIemNFazBGWFk1aXJlTjM3OUZyOENpb1RiQWdfdHpCU045ZXdET09Ya3dES1Y1UQ?oc=5",
+      "publishedAt": "2026-08-16T16:06:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv",
+      "localUrl": "/news/20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv.html"
     },
     {
       "source": "Decrypt",
@@ -508,17 +547,6 @@
       "category": "监管",
       "slug": "20260815-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260815-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "LATEST: 📊 Pokémon cards outperformed Bitcoin by over 43 percentage points during the past 3 months, gaining 22.8% vs. Bitcoin's -20.7%, per Rand Group. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE44VkRRMi1rRHVwdGpsSThuZHB6UnNfdmpPSE10cU1vVzFkYTh1Q2hNdzJPNEVLSExqMFM0cW5XblhRY254b1FHSUt6Y2V1aUJ3R1pUem1tT0dqbEx2VWQ2Y0pzekg?oc=5\" target=\"_blank\">LATEST: 📊 Pokémon cards outper…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44VkRRMi1rRHVwdGpsSThuZHB6UnNfdmpPSE10cU1vVzFkYTh1Q2hNdzJPNEVLSExqMFM0cW5XblhRY254b1FHSUt6Y2V1aUJ3R1pUem1tT0dqbEx2VWQ2Y0pzekg?oc=5",
-      "publishedAt": "2026-08-15T14:20:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-latest-pokemon-cards-outperformed-bitcoin-by-over-43-percentage-points-during-th",
-      "localUrl": "/news/20260815-latest-pokemon-cards-outperformed-bitcoin-by-over-43-percentage-points-during-th.html"
     },
     {
       "source": "CoinDesk",
@@ -936,19 +964,6 @@
       "localUrl": "/news/20260814-bitcoin-price-drops-to-625k-as-trader-warns-weekly-close-may-spark-more-losses.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
-      "summary": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased.",
-      "url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T14:22:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2",
-      "localUrl": "/news/20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
       "summary": "The bitcoin treasury company said index providers should measure markets rather than determine which assets public companies are allowed to own.",
@@ -980,24 +995,6 @@
       "category": "综合",
       "slug": "20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence",
       "localUrl": "/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
-      "summary": "Bank Leumi customers will be able to trade bitcoin, ether and solana through the bank’s investment app from early 2027.",
-      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
-      "publishedAt": "2026-08-14T13:51:37.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "banks",
-        "Galaxy Digital",
-        "Israel",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy",
-      "localUrl": "/news/20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy.html"
     },
     {
       "source": "Decrypt",

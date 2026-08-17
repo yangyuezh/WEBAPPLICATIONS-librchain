@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T05:47:02.869Z</lastmod>
+    <lastmod>2026-08-17T07:13:00.040Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T05:47:02.869Z</lastmod>
+    <lastmod>2026-08-17T07:13:00.040Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-greenlanes-70m-bera-treasury-ends-q2-valued-at-16m.html</loc>
+    <lastmod>2026-08-17T05:52:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou.html</loc>
+    <lastmod>2026-08-17T05:51:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges.html</loc>
@@ -69,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html</loc>
     <lastmod>2026-08-16T17:05:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv.html</loc>
+    <lastmod>2026-08-16T16:06:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -243,12 +261,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-15T14:40:24.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-latest-pokemon-cards-outperformed-bitcoin-by-over-43-percentage-points-during-th.html</loc>
-    <lastmod>2026-08-15T14:20:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,12 +451,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2.html</loc>
-    <lastmod>2026-08-14T14:22:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-strategy-says-msci-should-measure-markets-not-dictate-corporate-assets.html</loc>
     <lastmod>2026-08-14T14:12:34.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html</loc>
     <lastmod>2026-08-14T14:00:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-israels-largest-bank-to-offer-crypto-trading-with-galaxy.html</loc>
-    <lastmod>2026-08-14T13:51:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
