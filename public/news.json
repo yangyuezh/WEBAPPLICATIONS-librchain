@@ -1,7 +1,158 @@
 {
-  "updatedAt": "2026-08-17T11:36:01.897Z",
+  "updatedAt": "2026-08-17T13:02:44.225Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
+      "summary": "The Bitcoin treasury firm halted BTC sales after three weeks, with equity issuance covering dividends, a STRC buyback and the dollar reserve.",
+      "url": "https://decrypt.co/375762/strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
+      "publishedAt": "2026-08-17T12:56:55.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "RWA",
+      "slug": "20260817-strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock",
+      "localUrl": "/news/20260817-strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
+      "summary": "Proceeds funded STRC dividends and repurchases, while $149.1 million was added to Strategy’s US dollar reserve, which reached $4.8 billion.",
+      "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T12:51:03.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260817-strategy-raises-334m-through-stock-sales-but-buys-no-bitcoin",
+      "localUrl": "/news/20260817-strategy-raises-334m-through-stock-sales-but-buys-no-bitcoin.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Harmony plans rollback, wiping 109,000 transactions after ONE exploit",
+      "summary": "Harmony said selectively restoring transactions could create inconsistent chain state, as Ravencoin faces a separate rollback dispute after an exploit.",
+      "url": "https://cointelegraph.com/news/harmony-plans-rollback-transactions-one-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T12:31:36.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260817-harmony-plans-rollback-wiping-109000-transactions-after-one-exploit",
+      "localUrl": "/news/20260817-harmony-plans-rollback-wiping-109000-transactions-after-one-exploit.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
+      "summary": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
+      "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
+      "publishedAt": "2026-08-17T12:31:04.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "综合",
+      "slug": "20260817-pirated-copies-of-the-odyssey-are-hiding-crypto-stealing-malware",
+      "localUrl": "/news/20260817-pirated-copies-of-the-odyssey-are-hiding-crypto-stealing-malware.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
+      "summary": "Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
+      "publishedAt": "2026-08-17T12:19:45.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260817-no-change-in-bitcoin-holdings-as-strategy-boosted-dollar-reserve-bought-back-mor",
+      "localUrl": "/news/20260817-no-change-in-bitcoin-holdings-as-strategy-boosted-dollar-reserve-bought-back-mor.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
+      "summary": "Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.",
+      "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+      "publishedAt": "2026-08-17T12:02:10.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-ethereums-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
+      "localUrl": "/news/20260817-ethereums-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$MSTR - STRATEGY SELLS $334M STOCK, BUYS NO BITCOIN Strategy sold 3.46M shares, raising $333.7M through its ATM program last week. The company made no Bitcoin purchases, keeping holdings unchanged at 840,447 BTC, acquired for $63.36B - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS $334M STOCK, BUY…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5",
+      "publishedAt": "2026-08-17T12:02:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising",
+      "localUrl": "/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+      "summary": "Funds and digital assets were not touched, but names, bank account details, and national ID numbers may have been exposed in what the company says was a wider global attack.",
+      "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
+      "publishedAt": "2026-08-17T11:59:23.000Z",
+      "keywords": [
+        "Tech",
+        "Data Breaches",
+        "Cryptocurrency",
+        "Hack",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260817-israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-c",
+      "localUrl": "/news/20260817-israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-c.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
+      "summary": "Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
+      "publishedAt": "2026-08-17T11:43:02.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Volatility",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260817-bitcoin-options-remain-expensive-despite-summer-calm-heres-why-it-matters",
+      "localUrl": "/news/20260817-bitcoin-options-remain-expensive-despite-summer-calm-heres-why-it-matters.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
+      "summary": "Bitcoin confirmed a weekly candle close below its 200-week moving average, copying the 2022 bear-market as traders warn of further BTC price downside next.",
+      "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T11:38:52.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260817-btc-price-loses-200-week-trend-line-as-2022-repeats-five-things-to-know-in-bitco",
+      "localUrl": "/news/20260817-btc-price-loses-200-week-trend-line-as-2022-repeats-five-things-to-know-in-bitco.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance gave Russian authorities client data used in terrorism financing case: Report",
+      "summary": "Reuters reported that Binance supplied transaction records and identity documents later used in a terrorism-financing case against Yuri Belenkiy.",
+      "url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T11:38:43.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-binance-gave-russian-authorities-client-data-used-in-terrorism-financing-case-re",
+      "localUrl": "/news/20260817-binance-gave-russian-authorities-client-data-used-in-terrorism-financing-case-re.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
@@ -19,7 +170,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
+      "title": "Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case",
       "summary": "The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.",
       "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
       "publishedAt": "2026-08-17T10:52:31.000Z",
@@ -29,8 +180,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260817-bitpanda-fined-70000-in-austrias-first-published-mica-enforcement-case",
-      "localUrl": "/news/20260817-bitpanda-fined-70000-in-austrias-first-published-mica-enforcement-case.html"
+      "slug": "20260817-bitpanda-fined-70000-euros-in-austrias-first-published-mica-enforcement-case",
+      "localUrl": "/news/20260817-bitpanda-fined-70000-euros-in-austrias-first-published-mica-enforcement-case.html"
     },
     {
       "source": "Decrypt",
@@ -145,6 +296,19 @@
       "localUrl": "/news/20260817-live-updates-bitcoin-flat-near-63500-lapsing-us-iran-ceasefire-revives-the-oil-t.html"
     },
     {
+      "source": "Cointelegraph",
+      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
+      "summary": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
+      "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T08:30:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated",
+      "localUrl": "/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
       "summary": "Soft economic data has Goldman Sachs doubting a September rate increase, offering good news for bitcoin bulls.",
@@ -160,19 +324,6 @@
       "category": "市场",
       "slug": "20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
       "localUrl": "/news/20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
-      "summary": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
-      "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T08:15:01.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated",
-      "localUrl": "/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html"
     },
     {
       "source": "Cointelegraph",
@@ -363,17 +514,6 @@
       "localUrl": "/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html"
     },
     {
-      "source": "X Wire",
-      "title": "EU Regulators Warn of MiCA Migration Scams as 1,700 Crypto Platforms Halt EU Services More than 1,700 unlicensed crypto platforms were required to stop serving EU users after MiCA took full effect on July 1, while only 323 firms held valid MiCA authorizati - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQXNxa0hGWjZmTk9MTF9fRkdVekxrdWlVNUdnNjU2NV9GVlhlRjV5MVJzT0VIemNFazBGWFk1aXJlTjM3OUZyOENpb1RiQWdfdHpCU045ZXdET09Ya3dES1Y1UQ?oc=5\" target=\"_blank\">EU Regulators Warn of MiCA Migra…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQXNxa0hGWjZmTk9MTF9fRkdVekxrdWlVNUdnNjU2NV9GVlhlRjV5MVJzT0VIemNFazBGWFk1aXJlTjM3OUZyOENpb1RiQWdfdHpCU045ZXdET09Ya3dES1Y1UQ?oc=5",
-      "publishedAt": "2026-08-16T16:06:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv",
-      "localUrl": "/news/20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
       "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
@@ -401,17 +541,6 @@
       "category": "市场",
       "slug": "20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
       "localUrl": "/news/20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens CZ said he plans to donate the BNB and 币安人生 tokens held in the wallet address he used while testing Trust Wallet to Giggle Academy, then stop using - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcFppUTduRmJINk1nY3g4NTFidER1RFl6czhkV0hRTS02ZDBiSWJYTG5jU0F0VlZmWWtHM1FyS205M3FZVUt3UFA3cUV5SFRaREt3aUtveUlyMm1GU2NHUmMyNA?oc=5\" target=\"_blank\">CZ Says He Will Stop Using Publi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcFppUTduRmJINk1nY3g4NTFidER1RFl6czhkV0hRTS02ZDBiSWJYTG5jU0F0VlZmWWtHM1FyS205M3FZVUt3UFA3cUV5SFRaREt3aUtveUlyMm1GU2NHUmMyNA?oc=5",
-      "publishedAt": "2026-08-16T15:37:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an",
-      "localUrl": "/news/20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an.html"
     },
     {
       "source": "X Wire",
@@ -586,6 +715,17 @@
     },
     {
       "source": "X Wire",
+      "title": "INSIGHT: \"Soon, millionaires won't be able to afford 1 full Bitcoin.\" says @cz_binance, noting there are 23.6M U.S. millionaires but only 20.07M $BTC in circulation. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5\" target=\"_blank\">INSIGHT: \"Soon, millionaires won't be a…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5",
+      "publishedAt": "2026-08-15T21:53:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-",
+      "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: Billionaire Mark Cuban says computer chips \"will be the new crypto.\" - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYklFaEF4NWVaQzRWSi1CVFNWVnZUbEdLaTdtWUU2WlpET0k1QzNqZUlJSjlJYkJ3aVAtRUVtNmI5b1pVS1ZHbDEwUGw1RlZHVm16X3ZLWXNRODAxRnA4ODFn?oc=5\" target=\"_blank\">JUST IN: Billionaire Mark Cuban sa…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYklFaEF4NWVaQzRWSi1CVFNWVnZUbEdLaTdtWUU2WlpET0k1QzNqZUlJSjlJYkJ3aVAtRUVtNmI5b1pVS1ZHbDEwUGw1RlZHVm16X3ZLWXNRODAxRnA4ODFn?oc=5",
@@ -655,68 +795,6 @@
       "category": "X热点",
       "slug": "20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-",
       "localUrl": "/news/20260815-to-understand-bitcoin-first-understand-money-money-is-energy-bitcoin-is-digital-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "summary": "Hyperliquid traders value Unitree at nearly $38 billion versus $9 billion at its IPO, leaving leveraged bets vulnerable when trading begins, Allium analysts said.",
-      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-      "publishedAt": "2026-08-15T16:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Hyperliquid",
-        "Derivatives",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260815-robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-p",
-      "localUrl": "/news/20260815-robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-p.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-      "summary": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
-      "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-      "publishedAt": "2026-08-15T15:56:05.000Z",
-      "keywords": [
-        "Finance",
-        "banks",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260815-swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-i",
-      "localUrl": "/news/20260815-swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-i.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-      "summary": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
-      "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-      "publishedAt": "2026-08-15T15:21:15.000Z",
-      "keywords": [
-        "Policy",
-        "Bitcoin Mining",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260815-why-the-worlds-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-",
-      "localUrl": "/news/20260815-why-the-worlds-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "summary": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
-      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-      "publishedAt": "2026-08-15T15:12:29.000Z",
-      "keywords": [
-        "Finance",
-        "BlackRock",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260815-paul-tudor-jones-investment-firm-increases-stake-in-blackrocks-bitcoin-etf-after",
-      "localUrl": "/news/20260815-paul-tudor-jones-investment-firm-increases-stake-in-blackrocks-bitcoin-etf-after.html"
     },
     {
       "source": "Decrypt",
@@ -908,32 +986,6 @@
       "localUrl": "/news/20260814-sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-      "summary": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
-      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T18:57:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260814-dartmouth-endowments-crypto-exposure-drops-by-2m-amid-falling-prices",
-      "localUrl": "/news/20260814-dartmouth-endowments-crypto-exposure-drops-by-2m-amid-falling-prices.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
-      "summary": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T18:44:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260814-kraken-parent-payward-revenue-rises-17-as-trading-volume-falls-in-q2",
-      "localUrl": "/news/20260814-kraken-parent-payward-revenue-rises-17-as-trading-volume-falls-in-q2.html"
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
       "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
@@ -973,19 +1025,6 @@
       "localUrl": "/news/20260814-israels-largest-bank-will-give-bitcoin-trading-another-try.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
-      "summary": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
-      "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T17:03:38.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-",
-      "localUrl": "/news/20260814-uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
       "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
@@ -997,19 +1036,6 @@
       "category": "市场",
       "slug": "20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot",
       "localUrl": "/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "summary": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank’s investment app beginning in early 2027.",
-      "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T15:41:49.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260814-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading",
-      "localUrl": "/news/20260814-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading.html"
     },
     {
       "source": "Decrypt",
@@ -1067,32 +1093,6 @@
       "category": "市场",
       "slug": "20260814-morning-minute-tether-finally-gets-an-audit",
       "localUrl": "/news/20260814-morning-minute-tether-finally-gets-an-audit.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
-      "summary": "No replacement date has been set for the meeting, which was cancelled due to an “unforeseen scheduling issue.”",
-      "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
-      "publishedAt": "2026-08-14T10:39:39.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260814-sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
-      "localUrl": "/news/20260814-sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
-      "summary": "A King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
-      "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
-      "publishedAt": "2026-08-14T09:50:40.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
-      "localUrl": "/news/20260814-kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it.html"
     },
     {
       "source": "Solana Blog",
