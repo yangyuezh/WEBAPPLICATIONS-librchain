@@ -2,18 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T08:57:12.745Z</lastmod>
+    <lastmod>2026-08-17T09:53:42.754Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T08:57:12.745Z</lastmod>
+    <lastmod>2026-08-17T09:53:42.754Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-live-updates-bitcoin-flat-near-63500-but-the-flows-have-quietly-turned.html</loc>
+    <loc>https://www.librchain.com/news/20260817-bitpanda-fined-in-austrias-first-published-mica-penalty.html</loc>
+    <lastmod>2026-08-17T09:31:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-safepal-bitcoin-wallet-data-breach-stokes-fears-of-physical-attacks.html</loc>
+    <lastmod>2026-08-17T09:31:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest.html</loc>
+    <lastmod>2026-08-17T09:16:14.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead.html</loc>
+    <lastmod>2026-08-17T09:13:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-live-updates-bitcoin-flat-near-63500-lapsing-us-iran-ceasefire-revives-the-oil-t.html</loc>
     <lastmod>2026-08-17T08:38:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -79,6 +103,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html</loc>
+    <lastmod>2026-08-16T23:03:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</loc>
     <lastmod>2026-08-16T19:47:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -97,6 +127,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260816-sndk-stock-perpetual-open-interest-reaches-173-billion-highest-among-stock-perpe.html</loc>
+    <lastmod>2026-08-16T17:59:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html</loc>
     <lastmod>2026-08-16T17:05:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -105,12 +141,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html</loc>
     <lastmod>2026-08-16T16:30:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-eu-regulators-warn-of-mica-migration-scams-as-1700-crypto-platforms-halt-eu-serv.html</loc>
-    <lastmod>2026-08-16T16:06:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say.html</loc>
-    <lastmod>2026-08-14T23:41:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html</loc>
     <lastmod>2026-08-14T21:46:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -361,20 +385,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-trump-family-backed-crypto-firm-world-liberty-gets-conditional-bank-charter-appr.html</loc>
-    <lastmod>2026-08-14T21:14:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-ireland-plans-industry-standards-for-illicit-crypto-use.html</loc>
     <lastmod>2026-08-14T21:08:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator.html</loc>
-    <lastmod>2026-08-14T21:05:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260814-bitcoin-price-drops-to-625k-as-trader-warns-weekly-close-may-spark-more-losses.html</loc>
-    <lastmod>2026-08-14T14:38:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html</loc>
     <lastmod>2026-08-14T14:00:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260813-anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged.html</loc>
     <lastmod>2026-08-13T21:45:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260813-solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures.html</loc>
-    <lastmod>2026-08-13T21:16:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
