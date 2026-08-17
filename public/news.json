@@ -1,7 +1,50 @@
 {
-  "updatedAt": "2026-08-17T13:49:49.112Z",
+  "updatedAt": "2026-08-17T14:40:30.706Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The Coldcard hack proves reputation is not a security model",
+      "summary": "A community built on verification spent five years outsourcing its judgment to one man, writes Foundation CEO Zach Herbert.",
+      "url": "https://www.coindesk.com/opinion/2026/08/17/the-coldcard-hack-proves-reputation-is-not-a-security-model",
+      "publishedAt": "2026-08-17T14:09:46.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260817-the-coldcard-hack-proves-reputation-is-not-a-security-model",
+      "localUrl": "/news/20260817-the-coldcard-hack-proves-reputation-is-not-a-security-model.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "summary": "The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.",
+      "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
+      "publishedAt": "2026-08-17T14:04:21.000Z",
+      "keywords": [
+        "Markets",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-tom-lees-bitmine-now-owns-48-of-ethereum-supply-after-latest-eth-purchase",
+      "localUrl": "/news/20260817-tom-lees-bitmine-now-owns-48-of-ethereum-supply-after-latest-eth-purchase.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
+      "summary": "Crypto’s favorite maxim, “don’t trust, verify” wasn’t followed in the case of Coldcard’s code.",
+      "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
+      "publishedAt": "2026-08-17T13:57:11.000Z",
+      "keywords": [
+        "Tech",
+        "Feature"
+      ],
+      "category": "安全",
+      "slug": "20260817-how-a-bug-in-coldcards-code-went-unnoticed-for-years-leading-to-100-million-in-h",
+      "localUrl": "/news/20260817-how-a-bug-in-coldcards-code-went-unnoticed-for-years-leading-to-100-million-in-h.html"
+    },
     {
       "source": "Decrypt",
       "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
@@ -321,7 +364,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
+      "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
       "summary": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.",
       "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "publishedAt": "2026-08-17T08:38:26.000Z",
@@ -331,8 +374,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260817-live-updates-bitcoin-flat-near-63500-lapsing-us-iran-ceasefire-revives-the-oil-t",
-      "localUrl": "/news/20260817-live-updates-bitcoin-flat-near-63500-lapsing-us-iran-ceasefire-revives-the-oil-t.html"
+      "slug": "20260817-live-updates-bitcoin-remains-trapped-in-tight-range-as-big-ai-compute-deals-cont",
+      "localUrl": "/news/20260817-live-updates-bitcoin-remains-trapped-in-tight-range-as-big-ai-compute-deals-cont.html"
     },
     {
       "source": "Cointelegraph",
@@ -445,6 +488,17 @@
       "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Bitcoin has remained in the “Fire Sale” zone for longer than at any point in its history, according to the Bitcoin Rainbow Price Chart. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin has remained in the…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5",
+      "publishedAt": "2026-08-17T01:48:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-",
+      "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
+    },
+    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -553,6 +607,17 @@
       "localUrl": "/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html"
     },
     {
+      "source": "X Wire",
+      "title": "Bitcoin is the only game in the casino where we can all win. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdHlMMlRlaC1sbHk1T2FVNVEzbmVRSjZCX3RsZlktZGE5WTlReFl3al9iejRkVjVXenhKY080R2NtNmEwZzhsaGJpRXpyai1iR1FTaFg5MllPZ2M?oc=5\" target=\"_blank\">Bitcoin is the only game in the casino wher…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdHlMMlRlaC1sbHk1T2FVNVEzbmVRSjZCX3RsZlktZGE5WTlReFl3al9iejRkVjVXenhKY080R2NtNmEwZzhsaGJpRXpyai1iR1FTaFg5MllPZ2M?oc=5",
+      "publishedAt": "2026-08-16T16:20:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-bitcoin-is-the-only-game-in-the-casino-where-we-can-all-win-xcom",
+      "localUrl": "/news/20260816-bitcoin-is-the-only-game-in-the-casino-where-we-can-all-win-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
       "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
@@ -580,17 +645,6 @@
       "category": "市场",
       "slug": "20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
       "localUrl": "/news/20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens CZ said he plans to donate the BNB and 币安人生 tokens held in the wallet address he used while testing Trust Wallet to Giggle Academy, then stop using - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcFppUTduRmJINk1nY3g4NTFidER1RFl6czhkV0hRTS02ZDBiSWJYTG5jU0F0VlZmWWtHM1FyS205M3FZVUt3UFA3cUV5SFRaREt3aUtveUlyMm1GU2NHUmMyNA?oc=5\" target=\"_blank\">CZ Says He Will Stop Using Publi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcFppUTduRmJINk1nY3g4NTFidER1RFl6czhkV0hRTS02ZDBiSWJYTG5jU0F0VlZmWWtHM1FyS205M3FZVUt3UFA3cUV5SFRaREt3aUtveUlyMm1GU2NHUmMyNA?oc=5",
-      "publishedAt": "2026-08-16T15:37:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an",
-      "localUrl": "/news/20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an.html"
     },
     {
       "source": "X Wire",
@@ -642,23 +696,6 @@
       "localUrl": "/news/20260816-people-are-turning-to-ai-for-mental-health-california-wants-it-banned.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
-      "summary": "Fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts after the EU's MiCA deadline are on the rise.",
-      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "publishedAt": "2026-08-16T14:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Regulation",
-        "MiCA",
-        "Hack",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "localUrl": "/news/20260816-micas-cleanup-is-creating-a-new-scam-wave-across-the-european-union.html"
-    },
-    {
       "source": "X Wire",
       "title": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers Crypto wallet provider SafePal disclosed a security incident involving an authorization flaw in an order-tracking plugin that allowed unauthorized access to customer order information. A - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE02UmhRVnpNZUZlMHFVem5hdGlzSkhZVVAzMEdpVExnSUUtOFdHS242RVV0cW1BYnI3R3IwZGJtLUZLZDQ1T0o1czZrRExmLW1DazVhZGhKR2djakhYZEtQN1hYRQ?oc=5\" target=\"_blank\">SafePal Discloses Order Data Bre…",
@@ -668,25 +705,6 @@
       "category": "X热点",
       "slug": "20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall",
       "localUrl": "/news/20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "summary": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-      "publishedAt": "2026-08-16T13:00:00.000Z",
-      "keywords": [
-        "News Analysis",
-        "Stablecoins",
-        "banks",
-        "Interest Rates",
-        "JPMorgan",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260816-the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad",
-      "localUrl": "/news/20260816-the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad.html"
     },
     {
       "source": "Cointelegraph",
@@ -700,22 +718,6 @@
       "category": "安全",
       "slug": "20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says",
       "localUrl": "/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "summary": "Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.",
-      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-      "publishedAt": "2026-08-16T12:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin News",
-        "banks",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260816-the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embra",
-      "localUrl": "/news/20260816-the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embra.html"
     },
     {
       "source": "Cointelegraph",
@@ -751,17 +753,6 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Coinbase Bitcoin Premium Index Posts Record 90-Day Negative Streak CoinGlass data shows the Coinbase Bitcoin Premium Index has remained negative for 90 consecutive days from May 19 to August 16, most recently at -0.1066%, marking the longest neg - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMTVRNVdqLW4yWkZXUHc1ZHBUeGEyZklxU0t3a3lxc2ZqQnc5djg1UXRpTmhfWk9XcGtiSjdoWVRBODlGN0YtUG02Z1phNW93SE56WHRNWUlfR05jUjRRR01CMA?oc=5\" target=\"_blank\">Coinbase Bitcoin Premium Index P…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmMTVRNVdqLW4yWkZXUHc1ZHBUeGEyZklxU0t3a3lxc2ZqQnc5djg1UXRpTmhfWk9XcGtiSjdoWVRBODlGN0YtUG02Z1phNW93SE56WHRNWUlfR05jUjRRR01CMA?oc=5",
-      "publishedAt": "2026-08-16T03:27:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-coinbase-bitcoin-premium-index-posts-record-90-day-negative-streak-coinglass-dat",
-      "localUrl": "/news/20260816-coinbase-bitcoin-premium-index-posts-record-90-day-negative-streak-coinglass-dat.html"
     },
     {
       "source": "X Wire",
