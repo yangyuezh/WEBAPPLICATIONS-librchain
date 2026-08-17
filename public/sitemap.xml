@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T20:39:31.855Z</lastmod>
+    <lastmod>2026-08-17T21:36:19.872Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T20:39:31.855Z</lastmod>
+    <lastmod>2026-08-17T21:36:19.872Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-occ-approves-trump-family-crypto-company-for-trust-charter.html</loc>
+    <lastmod>2026-08-17T21:17:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september.html</loc>
+    <lastmod>2026-08-17T21:16:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html</loc>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html</loc>
     <lastmod>2026-08-17T19:59:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html</loc>
+    <lastmod>2026-08-17T19:37:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,26 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-bitcoin-to-1m-by-2030-is-mathematically-impossible-says-markus-thielen.html</loc>
-    <lastmod>2026-08-15T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin.html</loc>
-    <lastmod>2026-08-15T13:01:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
     <lastmod>2026-08-15T12:44:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html</loc>
-    <lastmod>2026-08-15T08:36:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
