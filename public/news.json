@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-17T22:36:33.755Z",
+  "updatedAt": "2026-08-17T23:33:16.198Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "summary": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
+      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+      "publishedAt": "2026-08-17T22:35:46.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur",
+      "localUrl": "/news/20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur.html"
+    },
     {
       "source": "Decrypt",
       "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
@@ -1049,19 +1062,6 @@
       "category": "RWA",
       "slug": "20260815-tokenized-stock-holders-more-than-double-as-monthly-volume-surges",
       "localUrl": "/news/20260815-tokenized-stock-holders-more-than-double-as-monthly-volume-surges.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
-      "summary": "Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
-      "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
-      "publishedAt": "2026-08-15T17:01:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china",
-      "localUrl": "/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html"
     },
     {
       "source": "X Wire",

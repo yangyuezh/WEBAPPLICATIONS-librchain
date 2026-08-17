@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T22:36:33.796Z</lastmod>
+    <lastmod>2026-08-17T23:33:16.265Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T22:36:33.796Z</lastmod>
+    <lastmod>2026-08-17T23:33:16.265Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur.html</loc>
+    <lastmod>2026-08-17T22:35:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html</loc>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-tokenized-stock-holders-more-than-double-as-monthly-volume-surges.html</loc>
     <lastmod>2026-08-15T17:26:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html</loc>
-    <lastmod>2026-08-15T17:01:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
