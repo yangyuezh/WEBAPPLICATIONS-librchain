@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-17T19:36:55.111Z",
+  "updatedAt": "2026-08-17T20:39:31.814Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+      "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+      "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+      "publishedAt": "2026-08-17T20:31:04.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us",
+      "localUrl": "/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+      "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
+      "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+      "publishedAt": "2026-08-17T19:59:18.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "安全",
+      "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
+      "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
+    },
     {
       "source": "Decrypt",
       "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
@@ -514,6 +540,17 @@
       "localUrl": "/news/20260817-bitcoin-tracks-equity-bounce-but-390-million-etf-outflow-week-keeps-bulls-on-bac.html"
     },
     {
+      "source": "X Wire",
+      "title": "INSIGHT: @VitalikButerin credits Bitcoin developers for pioneering the scaling ideas now shaping Ethereum's future architecture, backing a hybrid UTXO and account-based model. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OaEI4VWNZTkxmcktwT1lmUlNSSnQwZmc2cmN4bDg4TTVvLVVUb05Lb2NaaGpIZGJaMTVwYTdfaldybjRkc1ctRG83T2FqNzFLVVJNRGxGdGJRN3pfNnc?oc=5\" target=\"_blank\">INSIGHT: @VitalikButerin credits Bitcoi…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OaEI4VWNZTkxmcktwT1lmUlNSSnQwZmc2cmN4bDg4TTVvLVVUb05Lb2NaaGpIZGJaMTVwYTdfaldybjRkc1ctRG83T2FqNzFLVVJNRGxGdGJRN3pfNnc?oc=5",
+      "publishedAt": "2026-08-17T09:52:53.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide",
+      "localUrl": "/news/20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitpanda fined in Austria’s first published MiCA penalty",
       "summary": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
@@ -760,17 +797,6 @@
       "category": "安全",
       "slug": "20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
       "localUrl": "/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$BTC vs $GOLD is seeing Bitcoin trend down again after rejecting from the horizontal support/resistance. GOLD has been on a nice rally the past 1-2 weeks as BTC has failed to push above $65K and went back to underperforming other asset classes. This ha - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdkVBU3B4eFZidjhfTWZfbk5jQzM5Y0RheVItcHl4WG1RRmw3YlpMdGlFTVROaFpaR0lIVDI4c1cyWTlfTUR5clN6TDJNa3VjZFhoNzEtaDNoNXdhcy1zVg?oc=5\" target=\"_blank\">$BTC vs $GOLD is seeing Bitcoin tren…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYdkVBU3B4eFZidjhfTWZfbk5jQzM5Y0RheVItcHl4WG1RRmw3YlpMdGlFTVROaFpaR0lIVDI4c1cyWTlfTUR5clN6TDJNa3VjZFhoNzEtaDNoNXdhcy1zVg?oc=5",
-      "publishedAt": "2026-08-16T20:01:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-btc-vs-gold-is-seeing-bitcoin-trend-down-again-after-rejecting-from-the-horizont",
-      "localUrl": "/news/20260816-btc-vs-gold-is-seeing-bitcoin-trend-down-again-after-rejecting-from-the-horizont.html"
     },
     {
       "source": "X Wire",
@@ -1044,32 +1070,6 @@
       "category": "X热点",
       "slug": "20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says",
       "localUrl": "/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-      "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
-      "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-      "publishedAt": "2026-08-14T21:03:35.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders",
-      "localUrl": "/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-      "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
-      "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
-      "publishedAt": "2026-08-14T20:01:13.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model",
-      "localUrl": "/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html"
     },
     {
       "source": "Chainalysis Blog",

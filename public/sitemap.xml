@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T19:36:55.151Z</lastmod>
+    <lastmod>2026-08-17T20:39:31.855Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T19:36:55.151Z</lastmod>
+    <lastmod>2026-08-17T20:39:31.855Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html</loc>
+    <lastmod>2026-08-17T20:31:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html</loc>
+    <lastmod>2026-08-17T19:59:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html</loc>
@@ -235,6 +247,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide.html</loc>
+    <lastmod>2026-08-17T09:52:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-bitpanda-fined-in-austrias-first-published-mica-penalty.html</loc>
     <lastmod>2026-08-17T09:31:47.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html</loc>
     <lastmod>2026-08-16T23:54:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-btc-vs-gold-is-seeing-bitcoin-trend-down-again-after-rejecting-from-the-horizont.html</loc>
-    <lastmod>2026-08-16T20:01:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,18 +501,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html</loc>
     <lastmod>2026-08-14T21:46:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-france-tax-data-leak-could-fuel-scams-attacks-targeting-bitcoin-holders.html</loc>
-    <lastmod>2026-08-14T21:03:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model.html</loc>
-    <lastmod>2026-08-14T20:01:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
