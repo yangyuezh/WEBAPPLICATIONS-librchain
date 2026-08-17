@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-17T14:40:30.706Z",
-  "total": 84,
+  "updatedAt": "2026-08-17T15:36:01.105Z",
+  "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
+      "summary": "The protocol pioneered decentralized finance lending, but assets locked have tumbled from a peak five years ago. Now it's looking to attract institutions after retail traders lost interest.",
+      "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "publishedAt": "2026-08-17T15:32:30.000Z",
+      "keywords": [
+        "Finance",
+        "DeFi",
+        "Crypto Lending",
+        "Compound",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus",
+      "localUrl": "/news/20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "summary": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.",
+      "url": "https://www.coindesk.com/policy/2026/08/17/u-s-treasury-department-proposes-genius-act-stablecoin-rule",
+      "publishedAt": "2026-08-17T14:44:29.000Z",
+      "keywords": [
+        "Policy",
+        "Stablecoins",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260817-us-treasury-department-proposes-genius-act-stablecoin-rule",
+      "localUrl": "/news/20260817-us-treasury-department-proposes-genius-act-stablecoin-rule.html"
+    },
     {
       "source": "CoinDesk",
       "title": "The Coldcard hack proves reputation is not a security model",
@@ -408,6 +441,17 @@
       "localUrl": "/news/20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says.html"
     },
     {
+      "source": "X Wire",
+      "title": "Great move upwards on #Bitcoin, and it might become interesting. These are the levels that I'm watching. ❌ - Resistance is this area at $63,800 for #Bitcoin, which I'd like to see break upwards. I don't think we'll do that immediately, but markets are looking better - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5\" target=\"_blank\">Great move upwards on #Bitcoin, …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5",
+      "publishedAt": "2026-08-17T07:31:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-great-move-upwards-on-bitcoin-and-it-might-become-interesting-these-are-the-leve",
+      "localUrl": "/news/20260817-great-move-upwards-on-bitcoin-and-it-might-become-interesting-these-are-the-leve.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
       "summary": "Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.",
@@ -486,17 +530,6 @@
       "category": "X热点",
       "slug": "20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco",
       "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin has remained in the “Fire Sale” zone for longer than at any point in its history, according to the Bitcoin Rainbow Price Chart. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin has remained in the…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5",
-      "publishedAt": "2026-08-17T01:48:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-",
-      "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
     },
     {
       "source": "Ethereum Blog",
@@ -631,22 +664,6 @@
       "localUrl": "/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "summary": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
-      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "publishedAt": "2026-08-16T16:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Exclusive",
-        "Bitwise",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "localUrl": "/news/20260816-crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin 👀 “The mission is simple: take this thing to the moon. 🚀” - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
@@ -667,20 +684,6 @@
       "category": "X热点",
       "slug": "20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex",
       "localUrl": "/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "summary": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
-      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "publishedAt": "2026-08-16T14:02:32.000Z",
-      "keywords": [
-        "Tech",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260816-crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40000-customers-orde",
-      "localUrl": "/news/20260816-crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40000-customers-orde.html"
     },
     {
       "source": "Decrypt",
@@ -1084,17 +1087,6 @@
       "category": "综合",
       "slug": "20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence",
       "localUrl": "/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Solana Changelog: August 13, 2026",
-      "summary": "Slot times to 250ms on testnet and releases from Agave and Firedancer.",
-      "url": "https://solana.com/news/solana-changelog-august-13-2026",
-      "publishedAt": "2026-08-13T15:03:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260813-solana-changelog-august-13-2026",
-      "localUrl": "/news/20260813-solana-changelog-august-13-2026.html"
     }
   ]
 }
