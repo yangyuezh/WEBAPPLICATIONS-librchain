@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T04:54:27.232Z",
+  "updatedAt": "2026-08-17T05:47:02.828Z",
   "total": 83,
   "items": [
     {
@@ -115,6 +115,17 @@
       "category": "监管",
       "slug": "20260816-the-sec-meeting-that-wasnt-state-of-crypto",
       "localUrl": "/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo Vitalik Buterin said the Bitcoin community deserves credit for work on technologies such as Utreexo, adding that Ethereum’s current scaling proposals are exploring similar ideas. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRklIMjhHQzkyY1h5STlPUU9XbGo3TVNyTkY4bXlaQ0NfczRWYzJGSEZQdW1RTUVENTZ6LU1PbWZKQWFKZzJOUGZKcUZXQnYzMlVEMXlfenFNdDA5c2tib2Z0NA?oc=5\" target=\"_blank\">Vitalik Buterin Says Ethereum Sc…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRklIMjhHQzkyY1h5STlPUU9XbGo3TVNyTkY4bXlaQ0NfczRWYzJGSEZQdW1RTUVENTZ6LU1PbWZKQWFKZzJOUGZKcUZXQnYzMlVEMXlfenFNdDA5c2tib2Z0NA?oc=5",
+      "publishedAt": "2026-08-16T17:05:11.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit",
+      "localUrl": "/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html"
     },
     {
       "source": "Decrypt",
@@ -803,17 +814,6 @@
       "category": "安全",
       "slug": "20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack",
       "localUrl": "/news/20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "LATEST: @binance will block transactions involving 16 crypto platforms starting August 23, including HTX and EXMO, with restrictions applying to all Binance users globally. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNXllNlVGa2JXWVF2U1kwTkRCcEVVYXJJZ3RjWGlLUmY3NHVzMGNUVVJsMjRQakJqc0REdjJfSzdrRV9DQjFWTUkzQ3lsaV9xRndtRk5ncXpWZkRsaXc?oc=5\" target=\"_blank\">LATEST: @binance will block transaction…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jNXllNlVGa2JXWVF2U1kwTkRCcEVVYXJJZ3RjWGlLUmY3NHVzMGNUVVJsMjRQakJqc0REdjJfSzdrRV9DQjFWTUkzQ3lsaV9xRndtRk5ncXpWZkRsaXc?oc=5",
-      "publishedAt": "2026-08-14T17:49:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au",
-      "localUrl": "/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html"
     },
     {
       "source": "CoinDesk",

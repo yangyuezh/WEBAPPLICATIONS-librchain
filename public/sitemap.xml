@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T04:54:27.275Z</lastmod>
+    <lastmod>2026-08-17T05:47:02.869Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T04:54:27.275Z</lastmod>
+    <lastmod>2026-08-17T05:47:02.869Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html</loc>
     <lastmod>2026-08-16T18:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html</loc>
+    <lastmod>2026-08-16T17:05:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -375,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-openai-staff-blame-rush-to-ship-for-rogue-agent-hack.html</loc>
     <lastmod>2026-08-14T18:31:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-latest-binance-will-block-transactions-involving-16-crypto-platforms-starting-au.html</loc>
-    <lastmod>2026-08-14T17:49:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
