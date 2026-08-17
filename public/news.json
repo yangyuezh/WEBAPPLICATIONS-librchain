@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-17T21:36:19.831Z",
+  "updatedAt": "2026-08-17T22:36:33.755Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "summary": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+      "publishedAt": "2026-08-17T22:16:03.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "市场",
+      "slug": "20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence",
+      "localUrl": "/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "summary": "Payward will use Anthropic’s cybersecurity model to hunt vulnerabilities and share open-source findings.",
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "publishedAt": "2026-08-17T22:12:00.000Z",
+      "keywords": [
+        "Tech",
+        "Payward",
+        "Kraken",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260817-kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push",
+      "localUrl": "/news/20260817-kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "OCC approves Trump family crypto company for trust charter",
@@ -53,17 +83,6 @@
       "category": "安全",
       "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Wall Street giant Jane Street dropped a bombshell SEC filing: They disclosed owning over $990 million in Bitcoin ETFs 🤯 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5\" target=\"_blank\">JUST IN: Wall Street giant …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5",
-      "publishedAt": "2026-08-17T19:37:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo",
-      "localUrl": "/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html"
     },
     {
       "source": "Decrypt",
@@ -340,6 +359,17 @@
       "category": "监管",
       "slug": "20260817-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260817-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "bitcoin:native holds near $63.6k as weak spot liquidity, ETF outflows and loss realization keep conditions subdued. Stabilising capital flows suggest selling pressure may be easing, but conviction remains limited. Read this week’s Market Pulse👇 glassno.de/3T - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUWJEV3B6dUFCSWJMVzhILVR0WFRVMW1Vei1wZVc3UlY4SjJyaU9jT3BhUkdaYU5hUGpiRlBWWnQ2N2h2TGlhdjZELXNhNzl4RUJ0dEZ1b1FQZUlfNUE4?oc=5\" target=\"_blank\">bitcoin:native holds near $63.6k as we…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUWJEV3B6dUFCSWJMVzhILVR0WFRVMW1Vei1wZVc3UlY4SjJyaU9jT3BhUkdaYU5hUGpiRlBWWnQ2N2h2TGlhdjZELXNhNzl4RUJ0dEZ1b1FQZUlfNUE4?oc=5",
+      "publishedAt": "2026-08-17T13:17:32.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-bitcoinnative-holds-near-636k-as-weak-spot-liquidity-etf-outflows-and-loss-reali",
+      "localUrl": "/news/20260817-bitcoinnative-holds-near-636k-as-weak-spot-liquidity-etf-outflows-and-loss-reali.html"
     },
     {
       "source": "Decrypt",
@@ -690,6 +720,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Reuters: Binance Provided Russian Authorities With User Data Used in Terrorism-Financing Case Reuters reports that law-enforcement documents show Binance provided Russian authorities in 2025 with the identity and crypto transaction records of Yuri Bele - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UX0NJS055dXVDZ2Rzb1J2c3V3NEhuLWo1aURlaGV1cUJKaE4tc2Q2Y0o4WjBfcjhNaU93akRDUFkwZWpPZjB0clU2a3FfU2pwOS1vdjdvRlpFTnJKTmUyOTdjcw?oc=5\" target=\"_blank\">Reuters: Binance Provided Russia…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UX0NJS055dXVDZ2Rzb1J2c3V3NEhuLWo1aURlaGV1cUJKaE4tc2Q2Y0o4WjBfcjhNaU93akRDUFkwZWpPZjB0clU2a3FfU2pwOS1vdjdvRlpFTnJKTmUyOTdjcw?oc=5",
+      "publishedAt": "2026-08-17T07:52:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-reuters-binance-provided-russian-authorities-with-user-data-used-in-terrorism-fi",
+      "localUrl": "/news/20260817-reuters-binance-provided-russian-authorities-with-user-data-used-in-terrorism-fi.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Great move upwards on #Bitcoin, and it might become interesting. These are the levels that I'm watching. ❌ - Resistance is this area at $63,800 for #Bitcoin, which I'd like to see break upwards. I don't think we'll do that immediately, but markets are looking better - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5\" target=\"_blank\">Great move upwards on #Bitcoin, …",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5",
@@ -737,20 +778,6 @@
       "category": "X热点",
       "slug": "20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th",
       "localUrl": "/news/20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
-      "summary": "Futures open interest climbed to $2.78 billion and traders on Binance and OKX leaned heavily long, even as social sentiment hit a three-month low.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
-      "publishedAt": "2026-08-17T04:43:03.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges",
-      "localUrl": "/news/20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges.html"
     },
     {
       "source": "Cointelegraph",
@@ -1037,19 +1064,6 @@
       "localUrl": "/news/20260815-apple-turns-to-alibaba-to-help-build-ai-model-for-china.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-      "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
-      "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
-      "publishedAt": "2026-08-15T15:01:05.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions",
-      "localUrl": "/news/20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions.html"
-    },
-    {
       "source": "X Wire",
       "title": "$62,895.94 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5\" target=\"_blank\">$62,895.94 #Bitcoin</a> <font color=\"#6f6f…",
@@ -1059,17 +1073,6 @@
       "category": "X热点",
       "slug": "20260815-6289594-bitcoin-xcom",
       "localUrl": "/news/20260815-6289594-bitcoin-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Exclusive: World Liberty Financial, the Trump family’s flagship crypto venture, says its trust company has received preliminary approval from the Office of the Comptroller of the Currency to become a bank. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UZ1dMUWQtcTRzLUpNVWljZGlUS2tsZk82UDNXWkRBOEd3SS11LVVsZmVGZ0dmNmJ0VVZjRG9HVGpPOVd4LVlkZWdwd2dUR3ZxQWQzRVJnTQ?oc=5\" target=\"_blank\">Exclusive: World Liberty Financial, the Trump fa…",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UZ1dMUWQtcTRzLUpNVWljZGlUS2tsZk82UDNXWkRBOEd3SS11LVVsZmVGZ0dmNmJ0VVZjRG9HVGpPOVd4LVlkZWdwd2dUR3ZxQWQzRVJnTQ?oc=5",
-      "publishedAt": "2026-08-14T21:46:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says",
-      "localUrl": "/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html"
     },
     {
       "source": "Chainalysis Blog",

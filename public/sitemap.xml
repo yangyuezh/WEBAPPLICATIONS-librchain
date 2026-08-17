@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T21:36:19.872Z</lastmod>
+    <lastmod>2026-08-17T22:36:33.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T21:36:19.872Z</lastmod>
+    <lastmod>2026-08-17T22:36:33.796Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html</loc>
+    <lastmod>2026-08-17T22:16:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push.html</loc>
+    <lastmod>2026-08-17T22:12:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-occ-approves-trump-family-crypto-company-for-trust-charter.html</loc>
@@ -33,12 +45,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html</loc>
     <lastmod>2026-08-17T19:59:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html</loc>
-    <lastmod>2026-08-17T19:37:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -159,6 +165,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-17T13:20:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-bitcoinnative-holds-near-636k-as-weak-spot-liquidity-etf-outflows-and-loss-reali.html</loc>
+    <lastmod>2026-08-17T13:17:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,6 +325,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-reuters-binance-provided-russian-authorities-with-user-data-used-in-terrorism-fi.html</loc>
+    <lastmod>2026-08-17T07:52:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-great-move-upwards-on-bitcoin-and-it-might-become-interesting-these-are-the-leve.html</loc>
     <lastmod>2026-08-17T07:31:43.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -333,12 +351,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th.html</loc>
     <lastmod>2026-08-17T04:58:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-xrp-traders-bet-on-a-rebound-as-price-slips-to-1-and-bearish-chatter-surges.html</loc>
-    <lastmod>2026-08-17T04:43:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,20 +499,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions.html</loc>
-    <lastmod>2026-08-15T15:01:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
     <lastmod>2026-08-15T12:44:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html</loc>
-    <lastmod>2026-08-14T21:46:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
