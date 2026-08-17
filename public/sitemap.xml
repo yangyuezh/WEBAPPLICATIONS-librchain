@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T13:02:44.266Z</lastmod>
+    <lastmod>2026-08-17T13:49:49.152Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T13:02:44.266Z</lastmod>
+    <lastmod>2026-08-17T13:49:49.152Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero.html</loc>
+    <lastmod>2026-08-17T13:31:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-17T13:20:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week.html</loc>
+    <lastmod>2026-08-17T13:03:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock.html</loc>
@@ -253,6 +271,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an.html</loc>
+    <lastmod>2026-08-16T15:37:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si.html</loc>
     <lastmod>2026-08-16T15:04:14.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,12 +361,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-just-in-billionaire-mark-cuban-says-computer-chips-will-be-the-new-crypto-xcom.html</loc>
-    <lastmod>2026-08-15T21:32:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup.html</loc>
     <lastmod>2026-08-15T19:27:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +393,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions.html</loc>
     <lastmod>2026-08-15T15:01:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-15T14:40:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -495,18 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html</loc>
     <lastmod>2026-08-14T14:00:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html</loc>
-    <lastmod>2026-08-14T12:38:39.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260814-morning-minute-tether-finally-gets-an-audit.html</loc>
-    <lastmod>2026-08-14T11:45:39.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

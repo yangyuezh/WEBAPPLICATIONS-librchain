@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-17T13:02:44.225Z",
+  "updatedAt": "2026-08-17T13:49:49.112Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
+      "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
+      "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
+      "publishedAt": "2026-08-17T13:31:04.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero",
+      "localUrl": "/news/20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T13:20:20.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260817-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260817-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
+      "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
+      "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+      "publishedAt": "2026-08-17T13:03:17.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
+      "localUrl": "/news/20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week.html"
+    },
     {
       "source": "Decrypt",
       "title": "Strategy Leaves Bitcoin Untouched, Raises $334M Selling MSTR Stock",
@@ -544,6 +583,17 @@
     },
     {
       "source": "X Wire",
+      "title": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens CZ said he plans to donate the BNB and 币安人生 tokens held in the wallet address he used while testing Trust Wallet to Giggle Academy, then stop using - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcFppUTduRmJINk1nY3g4NTFidER1RFl6czhkV0hRTS02ZDBiSWJYTG5jU0F0VlZmWWtHM1FyS205M3FZVUt3UFA3cUV5SFRaREt3aUtveUlyMm1GU2NHUmMyNA?oc=5\" target=\"_blank\">CZ Says He Will Stop Using Publi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVcFppUTduRmJINk1nY3g4NTFidER1RFl6czhkV0hRTS02ZDBiSWJYTG5jU0F0VlZmWWtHM1FyS205M3FZVUt3UFA3cUV5SFRaREt3aUtveUlyMm1GU2NHUmMyNA?oc=5",
+      "publishedAt": "2026-08-16T15:37:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an",
+      "localUrl": "/news/20260816-cz-says-he-will-stop-using-public-wallet-address-after-donating-remaining-bnb-an.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin 👀 “The mission is simple: take this thing to the moon. 🚀” - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5",
@@ -725,17 +775,6 @@
       "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Billionaire Mark Cuban says computer chips \"will be the new crypto.\" - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYklFaEF4NWVaQzRWSi1CVFNWVnZUbEdLaTdtWUU2WlpET0k1QzNqZUlJSjlJYkJ3aVAtRUVtNmI5b1pVS1ZHbDEwUGw1RlZHVm16X3ZLWXNRODAxRnA4ODFn?oc=5\" target=\"_blank\">JUST IN: Billionaire Mark Cuban sa…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYklFaEF4NWVaQzRWSi1CVFNWVnZUbEdLaTdtWUU2WlpET0k1QzNqZUlJSjlJYkJ3aVAtRUVtNmI5b1pVS1ZHbDEwUGw1RlZHVm16X3ZLWXNRODAxRnA4ODFn?oc=5",
-      "publishedAt": "2026-08-15T21:32:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-just-in-billionaire-mark-cuban-says-computer-chips-will-be-the-new-crypto-xcom",
-      "localUrl": "/news/20260815-just-in-billionaire-mark-cuban-says-computer-chips-will-be-the-new-crypto-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
       "summary": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
@@ -808,19 +847,6 @@
       "category": "综合",
       "slug": "20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions",
       "localUrl": "/news/20260815-meta-patents-cameras-that-recognize-faces-and-log-your-actions.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-15T14:40:24.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260815-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260815-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Cointelegraph",
@@ -1067,32 +1093,6 @@
       "category": "综合",
       "slug": "20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence",
       "localUrl": "/news/20260814-machine-learning-has-a-specific-role-in-blockchain-intelligence.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
-      "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
-      "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-      "publishedAt": "2026-08-14T12:38:39.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-      "localUrl": "/news/20260814-irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Tether Finally Gets An Audit",
-      "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
-      "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-      "publishedAt": "2026-08-14T11:45:39.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260814-morning-minute-tether-finally-gets-an-audit",
-      "localUrl": "/news/20260814-morning-minute-tether-finally-gets-an-audit.html"
     },
     {
       "source": "Solana Blog",
