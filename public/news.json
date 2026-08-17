@@ -1,7 +1,101 @@
 {
-  "updatedAt": "2026-08-17T15:36:01.105Z",
+  "updatedAt": "2026-08-17T16:42:09.183Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "summary": "Sheldon Lee said a Chinese-language X account making the claims was hacked. Users want wallets, assets and liabilities disclosed.",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
+      "publishedAt": "2026-08-17T16:40:08.000Z",
+      "keywords": [
+        "Finance",
+        "Cryptocurrency",
+        "Hack",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260817-bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-e",
+      "localUrl": "/news/20260817-bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-e.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
+      "summary": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially without finalized regulations from US government agencies.",
+      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T16:29:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260817-us-treasury-moves-forward-with-rules-on-genius-act-after-july-deadline",
+      "localUrl": "/news/20260817-us-treasury-moves-forward-with-rules-on-genius-act-after-july-deadline.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
+      "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
+      "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
+      "publishedAt": "2026-08-17T16:27:26.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say",
+      "localUrl": "/news/20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
+      "summary": "Bitcoin price strength saw BTC/USD pass $64,000 on 2% daily gains as gold pushed higher while US stocks wobbled on fresh US-Iran rhetoric.",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T16:16:40.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260817-bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat",
+      "localUrl": "/news/20260817-bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+      "summary": "Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto through the downturn, while more than 5 million staked ETH is projected to generate $287 million in annual rewards.",
+      "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T16:04:32.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260817-bitmine-nears-5-of-ethereum-supply-despite-84b-in-unrealized-losses",
+      "localUrl": "/news/20260817-bitmine-nears-5-of-ethereum-supply-despite-84b-in-unrealized-losses.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+      "summary": "Stripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.",
+      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+      "publishedAt": "2026-08-17T15:54:29.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260817-what-stripes-7-billion-openrouter-deal-actually-means-for-ai",
+      "localUrl": "/news/20260817-what-stripes-7-billion-openrouter-deal-actually-means-for-ai.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+      "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
+      "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+      "publishedAt": "2026-08-17T15:47:59.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260817-tom-lees-bitmine-buys-another-19-million-in-ethereum-as-stash-nears-5-of-total-s",
+      "localUrl": "/news/20260817-tom-lees-bitmine-buys-another-19-million-in-ethereum-as-stash-nears-5-of-total-s.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
@@ -397,7 +491,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin remains trapped in tight range as big AI compute deals continue to roll in",
+      "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
       "summary": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.",
       "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "publishedAt": "2026-08-17T08:38:26.000Z",
@@ -407,8 +501,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260817-live-updates-bitcoin-remains-trapped-in-tight-range-as-big-ai-compute-deals-cont",
-      "localUrl": "/news/20260817-live-updates-bitcoin-remains-trapped-in-tight-range-as-big-ai-compute-deals-cont.html"
+      "slug": "20260817-live-updates-bitcoin-rises-above-64000-as-big-ai-compute-deals-continue-to-roll-",
+      "localUrl": "/news/20260817-live-updates-bitcoin-rises-above-64000-as-big-ai-compute-deals-continue-to-roll-.html"
     },
     {
       "source": "Cointelegraph",
@@ -532,6 +626,17 @@
       "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
     },
     {
+      "source": "X Wire",
+      "title": "Chainalysis Sues US Government Over Contract Award to TRM Labs Chainalysis Government Solutions has sued the US government in the Court of Federal Claims, alleging that the Department of Homeland Security and ICE bypassed normal competition pr - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxbUR6Wm1xaFRpdUd1YUpOdzVqSXoxNWxKT1o2ajdRNE1sUjcxeXlvYjZucHRBcmZxY2JjUU5uOVRzVDVnREMxTmRGdm1wNkJPTmpPZjhFRHZkbHRkRklyUDltNA?oc=5\" target=\"_blank\">Chainalysis Sues US Government O…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxbUR6Wm1xaFRpdUd1YUpOdzVqSXoxNWxKT1o2ajdRNE1sUjcxeXlvYjZucHRBcmZxY2JjUU5uOVRzVDVnREMxTmRGdm1wNkJPTmpPZjhFRHZkbHRkRklyUDltNA?oc=5",
+      "publishedAt": "2026-08-17T02:29:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-chainalysis-sues-us-government-over-contract-award-to-trm-labs-chainalysis-gover",
+      "localUrl": "/news/20260817-chainalysis-sues-us-government-over-contract-award-to-trm-labs-chainalysis-gover.html"
+    },
+    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -589,33 +694,6 @@
       "category": "X热点",
       "slug": "20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u",
       "localUrl": "/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Did whales go long at the top of the local bitcoin:native range? Whale net long positioning on Hyperliquid peaked right into resistance. Spot and flow data still show no matching demand. Read our latest weekly article \"Trigger Happy\" for analyses like this👇 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5\" target=\"_blank\">Did whales go long at the top of the l…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5",
-      "publishedAt": "2026-08-16T18:32:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po",
-      "localUrl": "/news/20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The SEC meeting that wasn't: State of Crypto",
-      "summary": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
-      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-      "publishedAt": "2026-08-16T18:30:00.000Z",
-      "keywords": [
-        "Policy",
-        "Newsletters",
-        "State of Crypto",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260816-the-sec-meeting-that-wasnt-state-of-crypto",
-      "localUrl": "/news/20260816-the-sec-meeting-that-wasnt-state-of-crypto.html"
     },
     {
       "source": "X Wire",
@@ -906,19 +984,6 @@
       "localUrl": "/news/20260815-kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Galaxy lowers CLARITY Act odds to 10%",
-      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
-      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-15T08:40:59.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260815-galaxy-lowers-clarity-act-odds-to-10",
-      "localUrl": "/news/20260815-galaxy-lowers-clarity-act-odds-to-10.html"
-    },
-    {
       "source": "X Wire",
       "title": "Bitcoin surpassed 20.07 million coins mined as of August 2026, leaving only 4.4% more supply. I'd estimate 10-20% of existing bitcoins are lost/stuck/unrecoverable. It's a deflationary asset. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYkFKb20wTXVmSXNOb2U5QUdQLS1Gc1JWa2l1ZjdNNUwzYzFXUS1rQk1OUUxEMFZsVkQ4MV9uMXJMODVqcFh6N3BBdkJlaWlLMGI4Y0ZvcHltUVRxT0N6Mw?oc=5\" target=\"_blank\">Bitcoin surpassed 20.07 million coin…",
@@ -939,32 +1004,6 @@
       "category": "X热点",
       "slug": "20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says",
       "localUrl": "/news/20260814-exclusive-world-liberty-financial-the-trump-familys-flagship-crypto-venture-says.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-      "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
-      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T21:22:23.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260814-gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance",
-      "localUrl": "/news/20260814-gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ireland plans industry standards for illicit crypto use",
-      "summary": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
-      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T21:08:52.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260814-ireland-plans-industry-standards-for-illicit-crypto-use",
-      "localUrl": "/news/20260814-ireland-plans-industry-standards-for-illicit-crypto-use.html"
     },
     {
       "source": "Decrypt",
@@ -1030,45 +1069,6 @@
       "category": "市场",
       "slug": "20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy",
       "localUrl": "/news/20260814-coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-      "summary": "Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.",
-      "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-      "publishedAt": "2026-08-14T17:14:02.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260814-israels-largest-bank-will-give-bitcoin-trading-another-try",
-      "localUrl": "/news/20260814-israels-largest-bank-will-give-bitcoin-trading-another-try.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-      "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
-      "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
-      "publishedAt": "2026-08-14T16:23:20.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot",
-      "localUrl": "/news/20260814-another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
-      "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
-      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
-      "publishedAt": "2026-08-14T14:55:29.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260814-fake-linkedin-crypto-job-scams-have-cost-118m-singapore",
-      "localUrl": "/news/20260814-fake-linkedin-crypto-job-scams-have-cost-118m-singapore.html"
     },
     {
       "source": "Chainalysis Blog",
