@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-17T10:45:51.068Z",
+  "updatedAt": "2026-08-17T11:36:01.897Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
+      "summary": "Your day-ahead look for Aug. 17, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+      "publishedAt": "2026-08-17T11:28:41.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260817-bitcoins-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
+      "localUrl": "/news/20260817-bitcoins-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
+      "summary": "The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
+      "publishedAt": "2026-08-17T10:52:31.000Z",
+      "keywords": [
+        "Finance",
+        "MiCA",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260817-bitpanda-fined-70000-in-austrias-first-published-mica-enforcement-case",
+      "localUrl": "/news/20260817-bitpanda-fined-70000-in-austrias-first-published-mica-enforcement-case.html"
+    },
     {
       "source": "Decrypt",
       "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
@@ -130,6 +160,19 @@
       "category": "市场",
       "slug": "20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
       "localUrl": "/news/20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
+      "summary": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
+      "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-17T08:15:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated",
+      "localUrl": "/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html"
     },
     {
       "source": "Cointelegraph",
@@ -702,24 +745,6 @@
       "localUrl": "/news/20260815-heres-what-happened-in-crypto-today.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "summary": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
-      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "publishedAt": "2026-08-15T14:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "Institutional Investors",
-        "Funding Rounds",
-        "Regulation",
-        "Crypto News",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era",
-      "localUrl": "/news/20260815-the-112-billion-in-2026-funding-that-killed-cryptos-permissionless-era.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
       "summary": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
@@ -744,20 +769,6 @@
       "category": "监管",
       "slug": "20260815-trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin",
       "localUrl": "/news/20260815-trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "summary": "Washington kept crypto’s biggest legislative hope alive, Wall Street pushed deeper into digital assets, and a security scare sent billions of dollars of bitcoin moving between wallets.",
-      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-      "publishedAt": "2026-08-15T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260815-clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercards-18-bi",
-      "localUrl": "/news/20260815-clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercards-18-bi.html"
     },
     {
       "source": "Cointelegraph",
@@ -999,19 +1010,6 @@
       "category": "基础设施",
       "slug": "20260814-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading",
       "localUrl": "/news/20260814-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "summary": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-14T15:29:13.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call",
-      "localUrl": "/news/20260814-crypto-biz-bitcoins-116m-self-custody-wake-up-call.html"
     },
     {
       "source": "Decrypt",
