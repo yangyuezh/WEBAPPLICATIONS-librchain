@@ -1,7 +1,36 @@
 {
-  "updatedAt": "2026-08-18T22:37:49.011Z",
+  "updatedAt": "2026-08-18T23:33:19.355Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "summary": "Vlad Tenev says tokenized stocks could bring real-time settlement and 24/7 trading, but U.S. rules remain a hurdle.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "publishedAt": "2026-08-18T23:11:12.000Z",
+      "keywords": [
+        "Markets",
+        "Tokenization",
+        "Robinhood",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260818-robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad",
+      "localUrl": "/news/20260818-robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
+      "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+      "publishedAt": "2026-08-18T22:56:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows",
+      "localUrl": "/news/20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows.html"
+    },
     {
       "source": "Decrypt",
       "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
@@ -178,6 +207,17 @@
       "category": "监管",
       "slug": "20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move",
       "localUrl": "/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: 🇺🇸 The SEC has officially proposed its first ever crypto rulebook. Here are the key points: 1. Projects can raise up to $75 million a year without registering as securities. 2. A separate one time exemption allows up to $5 million over four years. 3. A t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS0VxN2Q3Q2FJRm12RnhqUTJ4Yy1mbFpYUGd4RGxZVTVoQV9XSXdLZk8zSXhndFVSTHJrcHhpYnU5cGNQc3JFaWhCdG1mUWkxSTVyMEQ4SkEwMnlQanBNcmJmQQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 The SEC has offic…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS0VxN2Q3Q2FJRm12RnhqUTJ4Yy1mbFpYUGd4RGxZVTVoQV9XSXdLZk8zSXhndFVSTHJrcHhpYnU5cGNQc3JFaWhCdG1mUWkxSTVyMEQ4SkEwMnlQanBNcmJmQQ?oc=5",
+      "publishedAt": "2026-08-18T18:53:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are",
+      "localUrl": "/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html"
     },
     {
       "source": "X Wire",
@@ -780,21 +820,6 @@
       "localUrl": "/news/20260818-south-korea-moves-to-block-polymarket-over-gambling-concerns.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tepidly on the rise as stocks slip",
-      "summary": "The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
-      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
-      "publishedAt": "2026-08-18T08:16:11.000Z",
-      "keywords": [
-        "Tech",
-        "Live News",
-        "live_news"
-      ],
-      "category": "DeFi",
-      "slug": "20260818-live-updates-bitcoin-tepidly-on-the-rise-as-stocks-slip",
-      "localUrl": "/news/20260818-live-updates-bitcoin-tepidly-on-the-rise-as-stocks-slip.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
       "summary": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
@@ -933,17 +958,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🔥 BULLISH: Jane Street added $630M in Bitcoin ETFs in Q2, lifting holdings to $1.06B after cutting them 71% the prior quarter. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tRVgtWU45YzZvb2Qwdk01SVE3OW5FdW9lRzZVQ2Fzb1Y3VlJVUWZ4TVFFc3hvS0dmeGNBWmlpTkNDcHg0YV9BWmR6OG5mYXpzLWN3ekFrenV2b2pISXFiXzd0aE4?oc=5\" target=\"_blank\">🔥 BULLISH: Jane Street added $…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tRVgtWU45YzZvb2Qwdk01SVE3OW5FdW9lRzZVQ2Fzb1Y3VlJVUWZ4TVFFc3hvS0dmeGNBWmlpTkNDcHg0YV9BWmR6OG5mYXpzLWN3ekFrenV2b2pISXFiXzd0aE4?oc=5",
-      "publishedAt": "2026-08-17T21:00:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af",
-      "localUrl": "/news/20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af.html"
-    },
-    {
-      "source": "X Wire",
       "title": "It's hard to talk about \"crypto\" these days. In the same way that Salesforce, Shopify, Facebook, Uber, and Stripe are all \"internet companies\" — but all pursuing different opportunities. In \"crypto\" these days you have increasingly fragmented story-lines: * Bitcoin * - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV1lwckVMUEdhZFlOWDFwV1ZLTEdOdnFqVG53cTFQa0tmdmJKMVdOZlp4SlRXNTdjN0VlMXlVWFlGbGd2bW1MdE96UVNVc2xGd0pTbGFWcnVyaDBsUkE?oc=5\" target=\"_blank\">It's hard to talk about \"crypto\" these …",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kV1lwckVMUEdhZFlOWDFwV1ZLTEdOdnFqVG53cTFQa0tmdmJKMVdOZlp4SlRXNTdjN0VlMXlVWFlGbGd2bW1MdE96UVNVc2xGd0pTbGFWcnVyaDBsUkE?oc=5",
@@ -978,19 +992,6 @@
       "category": "安全",
       "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
-      "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-      "publishedAt": "2026-08-17T19:01:56.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign",
-      "localUrl": "/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html"
     },
     {
       "source": "X Wire",

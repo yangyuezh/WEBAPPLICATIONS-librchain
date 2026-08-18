@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T22:37:49.053Z</lastmod>
+    <lastmod>2026-08-18T23:33:19.396Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T22:37:49.053Z</lastmod>
+    <lastmod>2026-08-18T23:33:19.396Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad.html</loc>
+    <lastmod>2026-08-18T23:11:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows.html</loc>
+    <lastmod>2026-08-18T22:56:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in.html</loc>
@@ -87,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html</loc>
     <lastmod>2026-08-18T18:57:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html</loc>
+    <lastmod>2026-08-18T18:53:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -355,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-live-updates-bitcoin-tepidly-on-the-rise-as-stocks-slip.html</loc>
-    <lastmod>2026-08-18T08:16:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk.html</loc>
     <lastmod>2026-08-18T08:07:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -427,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af.html</loc>
-    <lastmod>2026-08-17T21:00:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-its-hard-to-talk-about-crypto-these-days-in-the-same-way-that-salesforce-shopify.html</loc>
     <lastmod>2026-08-17T20:45:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html</loc>
     <lastmod>2026-08-17T19:59:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html</loc>
-    <lastmod>2026-08-17T19:01:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
