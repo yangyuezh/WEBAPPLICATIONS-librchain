@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-18T18:53:34.296Z",
+  "updatedAt": "2026-08-18T19:36:10.970Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+      "summary": "Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
+      "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+      "publishedAt": "2026-08-18T19:15:26.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "市场",
+      "slug": "20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks",
+      "localUrl": "/news/20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "summary": "The Securities and Exchange Commission issued the \"Regulation Crypto\" proposal after having cancelled a meeting days before meant to vote on it.",
+      "url": "https://www.coindesk.com/policy/2026/08/18/r",
+      "publishedAt": "2026-08-18T19:09:33.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260818-us-sec-proposes-first-major-crypto-rule-in-surprise-announcement",
+      "localUrl": "/news/20260818-us-sec-proposes-first-major-crypto-rule-in-surprise-announcement.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "summary": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifically on security grounds.",
+      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "publishedAt": "2026-08-18T18:57:00.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "Exclusive",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "localUrl": "/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html"
+    },
     {
       "source": "Decrypt",
       "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
@@ -626,34 +670,6 @@
       "localUrl": "/news/20260818-the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-      "summary": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-      "publishedAt": "2026-08-18T05:34:32.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260818-xrp-sinks-below-1-for-first-time-since-2024-even-as-korean-bank-adopts-ripple-pa",
-      "localUrl": "/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-even-as-korean-bank-adopts-ripple-pa.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-      "summary": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-      "publishedAt": "2026-08-18T05:18:18.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm",
-      "localUrl": "/news/20260818-monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
       "summary": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
@@ -802,6 +818,17 @@
       "category": "市场",
       "slug": "20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september",
       "localUrl": "/news/20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 BULLISH: Jane Street added $630M in Bitcoin ETFs in Q2, lifting holdings to $1.06B after cutting them 71% the prior quarter. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tRVgtWU45YzZvb2Qwdk01SVE3OW5FdW9lRzZVQ2Fzb1Y3VlJVUWZ4TVFFc3hvS0dmeGNBWmlpTkNDcHg0YV9BWmR6OG5mYXpzLWN3ekFrenV2b2pISXFiXzd0aE4?oc=5\" target=\"_blank\">🔥 BULLISH: Jane Street added $…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tRVgtWU45YzZvb2Qwdk01SVE3OW5FdW9lRzZVQ2Fzb1Y3VlJVUWZ4TVFFc3hvS0dmeGNBWmlpTkNDcHg0YV9BWmR6OG5mYXpzLWN3ekFrenV2b2pISXFiXzd0aE4?oc=5",
+      "publishedAt": "2026-08-17T21:00:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af",
+      "localUrl": "/news/20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af.html"
     },
     {
       "source": "X Wire",
@@ -976,19 +1003,6 @@
       "localUrl": "/news/20260817-what-stripes-7-billion-openrouter-deal-actually-means-for-ai.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
-      "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
-      "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
-      "publishedAt": "2026-08-17T15:47:59.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-tom-lees-bitmine-buys-another-19-million-in-ethereum-as-stash-nears-5-of-total-s",
-      "localUrl": "/news/20260817-tom-lees-bitmine-buys-another-19-million-in-ethereum-as-stash-nears-5-of-total-s.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 TODAY: Hashdex’s Bitcoin ETF, DEFI, ends trading ahead of its closure and liquidation. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdC1SX0Fud1U3b05jSDRDYXhqRVU2a1hBLXZXUjdBbF9aNVpGVHVlWXFibWRqMjhLNzVvRzctNjQ3eUFmTTZ3SGxMUkZnU3pfSkJaN2hwejFHS3ZqcGI3S0NSVm4?oc=5\" target=\"_blank\">🚨 TODAY: Hashdex’s Bitcoin ETF…",
@@ -1009,17 +1023,6 @@
       "category": "X热点",
       "slug": "20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising",
       "localUrl": "/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 LATEST: Paul Tudor Jones’ firm boosted its BlackRock Bitcoin ETF stake by 18.9% to $22.9M. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5\" target=\"_blank\">🔥 LATEST: Paul Tudor Jones’ fi…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5",
-      "publishedAt": "2026-08-17T11:41:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2",
-      "localUrl": "/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html"
     },
     {
       "source": "X Wire",

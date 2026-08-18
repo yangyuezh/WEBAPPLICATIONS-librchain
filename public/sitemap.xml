@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T18:53:34.341Z</lastmod>
+    <lastmod>2026-08-18T19:36:11.011Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T18:53:34.341Z</lastmod>
+    <lastmod>2026-08-18T19:36:11.011Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks.html</loc>
+    <lastmod>2026-08-18T19:15:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-us-sec-proposes-first-major-crypto-rule-in-surprise-announcement.html</loc>
+    <lastmod>2026-08-18T19:09:33.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html</loc>
+    <lastmod>2026-08-18T18:57:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi.html</loc>
@@ -283,18 +301,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-even-as-korean-bank-adopts-ripple-pa.html</loc>
-    <lastmod>2026-08-18T05:34:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm.html</loc>
-    <lastmod>2026-08-18T05:18:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade.html</loc>
     <lastmod>2026-08-18T05:12:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -363,6 +369,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september.html</loc>
     <lastmod>2026-08-17T21:16:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af.html</loc>
+    <lastmod>2026-08-17T21:00:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,12 +463,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-tom-lees-bitmine-buys-another-19-million-in-ethereum-as-stash-nears-5-of-total-s.html</loc>
-    <lastmod>2026-08-17T15:47:59.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-today-hashdexs-bitcoin-etf-defi-ends-trading-ahead-of-its-closure-and-liquidatio.html</loc>
     <lastmod>2026-08-17T15:01:19.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +471,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html</loc>
     <lastmod>2026-08-17T12:02:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html</loc>
-    <lastmod>2026-08-17T11:41:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
