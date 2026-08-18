@@ -1,10 +1,38 @@
 {
-  "updatedAt": "2026-08-18T05:41:40.528Z",
+  "updatedAt": "2026-08-18T07:00:30.834Z",
   "total": 83,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T06:09:35.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260818-heres-what-happened-in-crypto-today.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "title": "The bitcoin price level where leveraged bulls could get whacked",
+      "summary": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "publishedAt": "2026-08-18T05:55:43.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260818-the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "localUrl": "/news/20260818-the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
       "summary": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
       "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "publishedAt": "2026-08-18T05:34:32.000Z",
@@ -13,8 +41,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260818-xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments",
-      "localUrl": "/news/20260818-xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments.html"
+      "slug": "20260818-xrp-sinks-below-1-for-first-time-since-2024-as-korean-bank-adopts-ripple-payment",
+      "localUrl": "/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-as-korean-bank-adopts-ripple-payment.html"
     },
     {
       "source": "CoinDesk",
@@ -82,6 +110,17 @@
       "category": "监管",
       "slug": "20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation",
       "localUrl": "/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Jane Street Discloses Over $1 Billion in Bitcoin ETF Holdings, Led by BlackRock’s IBIT Quant trading giant Jane Street disclosed more than $1 billion in U.S. spot Bitcoin ETF holdings as of June 30, with roughly $828 million invested in BlackRock’s IBIT and th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5\" target=\"_blank\">Jane Street Discloses Over $1 Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5",
+      "publishedAt": "2026-08-18T02:35:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i",
+      "localUrl": "/news/20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i.html"
     },
     {
       "source": "Cointelegraph",
@@ -405,17 +444,6 @@
       "localUrl": "/news/20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: Goldman Sachs BOUGHT $386M worth of Michael Saylor's Strategy shares Now holds $558M worth of $MSTR - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWNjNfSFlobjFHTThZQ3pPNW8wVXh0UV9OQ2FETEdYU3c1dnpTUk8tU2p0a1J4VlJQbW9naFR0TFE2UzVldlhYUEFNZFNYa0FadllHaVU0UGhhQW9vOW9FX3EwUXBoZw?oc=5\" target=\"_blank\">BREAKING: Goldman Sachs BOUG…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWNjNfSFlobjFHTThZQ3pPNW8wVXh0UV9OQ2FETEdYU3c1dnpTUk8tU2p0a1J4VlJQbW9naFR0TFE2UzVldlhYUEFNZFNYa0FadllHaVU0UGhhQW9vOW9FX3EwUXBoZw?oc=5",
-      "publishedAt": "2026-08-17T14:45:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-breaking-goldman-sachs-bought-386m-worth-of-michael-saylors-strategy-shares-now-",
-      "localUrl": "/news/20260817-breaking-goldman-sachs-bought-386m-worth-of-michael-saylors-strategy-shares-now-.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
       "summary": "The Treasury proposal would establish some of the core definitions and jurisdictions in the law Congress completed last year.",
@@ -486,19 +514,6 @@
       "category": "监管",
       "slug": "20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero",
       "localUrl": "/news/20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T13:20:20.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260817-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260817-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Decrypt",
@@ -786,21 +801,6 @@
       "category": "监管",
       "slug": "20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest",
       "localUrl": "/news/20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-      "summary": "Your look at what's coming in the week starting Aug. 17",
-      "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-      "publishedAt": "2026-08-17T09:13:02.000Z",
-      "keywords": [
-        "Markets",
-        "week ahead",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260817-coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-      "localUrl": "/news/20260817-coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead.html"
     },
     {
       "source": "Cointelegraph",

@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T05:41:40.565Z</lastmod>
+    <lastmod>2026-08-18T07:00:30.878Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T05:41:40.565Z</lastmod>
+    <lastmod>2026-08-18T07:00:30.878Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments.html</loc>
+    <loc>https://www.librchain.com/news/20260818-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-18T06:09:35.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked.html</loc>
+    <lastmod>2026-08-18T05:55:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-as-korean-bank-adopts-ripple-payment.html</loc>
     <lastmod>2026-08-18T05:34:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -45,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html</loc>
     <lastmod>2026-08-18T03:21:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i.html</loc>
+    <lastmod>2026-08-18T02:35:41.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,12 +211,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-breaking-goldman-sachs-bought-386m-worth-of-michael-saylors-strategy-shares-now-.html</loc>
-    <lastmod>2026-08-17T14:45:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-us-treasury-department-proposes-genius-act-stablecoin-rule.html</loc>
     <lastmod>2026-08-17T14:44:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -225,12 +237,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero.html</loc>
     <lastmod>2026-08-17T13:31:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-17T13:20:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -357,12 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest.html</loc>
     <lastmod>2026-08-17T09:16:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead.html</loc>
-    <lastmod>2026-08-17T09:13:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
