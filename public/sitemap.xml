@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T04:47:54.806Z</lastmod>
+    <lastmod>2026-08-18T05:41:40.565Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T04:47:54.806Z</lastmod>
+    <lastmod>2026-08-18T05:41:40.565Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments.html</loc>
+    <lastmod>2026-08-18T05:34:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm.html</loc>
+    <lastmod>2026-08-18T05:18:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade.html</loc>
+    <lastmod>2026-08-18T05:12:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-bitcoin-climbs-above-64000-while-most-majors-slip.html</loc>
@@ -349,20 +367,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-live-updates-bitcoin-rises-above-64000-as-big-ai-compute-deals-continue-to-roll-.html</loc>
-    <lastmod>2026-08-17T08:38:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html</loc>
     <lastmod>2026-08-17T08:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says.html</loc>
-    <lastmod>2026-08-17T08:16:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,6 +445,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html</loc>
+    <lastmod>2026-08-16T23:03:57.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</loc>
     <lastmod>2026-08-16T19:47:54.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,20 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html</loc>
-    <lastmod>2026-08-16T12:48:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html</loc>
     <lastmod>2026-08-16T05:07:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html</loc>
-    <lastmod>2026-08-15T18:30:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

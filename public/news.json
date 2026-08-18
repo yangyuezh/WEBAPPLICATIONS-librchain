@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-18T04:47:54.753Z",
+  "updatedAt": "2026-08-18T05:41:40.528Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+      "summary": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "publishedAt": "2026-08-18T05:34:32.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260818-xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments",
+      "localUrl": "/news/20260818-xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "summary": "The program came three months before investor unlocks begin, with MON trading below its public-sale price and most of the token supply still outside circulation.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "publishedAt": "2026-08-18T05:18:18.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm",
+      "localUrl": "/news/20260818-monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "summary": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T05:12:18.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade",
+      "localUrl": "/news/20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin climbs above $64,000 while most majors slip",
@@ -762,21 +803,6 @@
       "localUrl": "/news/20260817-coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $64,000 as big AI compute deals continue to roll in",
-      "summary": "Shipping through the Strait of Hormuz has ground to a near halt as the 60-day truce lapses with no deal, reviving the oil-price risk that has capped crypto all summer. ETF flows, meanwhile, are quietly turning.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
-      "publishedAt": "2026-08-17T08:38:26.000Z",
-      "keywords": [
-        "Markets",
-        "Live News",
-        "live_news"
-      ],
-      "category": "监管",
-      "slug": "20260817-live-updates-bitcoin-rises-above-64000-as-big-ai-compute-deals-continue-to-roll-",
-      "localUrl": "/news/20260817-live-updates-bitcoin-rises-above-64000-as-big-ai-compute-deals-continue-to-roll-.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
       "summary": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
@@ -788,23 +814,6 @@
       "category": "综合",
       "slug": "20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated",
       "localUrl": "/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
-      "summary": "Soft economic data has Goldman Sachs doubting a September rate increase, offering good news for bitcoin bulls.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
-      "publishedAt": "2026-08-17T08:16:11.000Z",
-      "keywords": [
-        "Markets",
-        "Federal Reserve",
-        "Federal Open Market Committee (FOMC)",
-        "Interest Rates",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
-      "localUrl": "/news/20260817-september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says.html"
     },
     {
       "source": "X Wire",
@@ -948,6 +957,17 @@
     },
     {
       "source": "X Wire",
+      "title": "White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman Selig, & executives from across crypto industry including Coinbase, Polymarket, Ripple, Gemini, etc. Also expected to i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5\" target=\"_blank\">White House hosting major crypto mee…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5",
+      "publishedAt": "2026-08-16T23:03:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres",
+      "localUrl": "/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Right place, right time: many neoclouds spent years mining crypto, then AI showed up and turned their power rights, data centers, and GPUs into some of the hottest assets in tech. 25 quarters in, CoreWeave is pulling in more quarterly revenue than Azure, AW - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5\" target=\"_blank\">Right place, right time: many neoclouds spent y…",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5",
@@ -1028,19 +1048,6 @@
       "localUrl": "/news/20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-      "summary": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
-      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-16T12:48:09.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says",
-      "localUrl": "/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html"
-    },
-    {
       "source": "X Wire",
       "title": "Ethereum's next year's upgrade, Hegotá, is being scoped right now. 66 proposals are on the table and over the next few core dev calls, this list will be narrowed down to the EIPs that get implementations, devnets, testnets, and a realistic chance of shipping in 2 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5\" target=\"_blank\">Ethereum's next year's upgrade, Hegotá,…",
@@ -1050,17 +1057,6 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 NEW: Bitcoin has never been below Fire Sale for this long. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5\" target=\"_blank\">🚨 NEW: Bitcoin has never been …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5",
-      "publishedAt": "2026-08-15T18:30:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom",
-      "localUrl": "/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html"
     },
     {
       "source": "X Wire",
