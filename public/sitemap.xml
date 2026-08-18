@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T09:45:34.011Z</lastmod>
+    <lastmod>2026-08-18T10:42:58.579Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T09:45:34.011Z</lastmod>
+    <lastmod>2026-08-18T10:42:58.579Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html</loc>
+    <lastmod>2026-08-18T10:38:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bitcoin-scores-a-rare-win-over-sp-500-with-26-rise-versus-05-fall.html</loc>
+    <lastmod>2026-08-18T10:01:23.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis.html</loc>
@@ -361,12 +373,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-bitpanda-fined-70000-euros-in-austrias-first-published-mica-enforcement-case.html</loc>
-    <lastmod>2026-08-17T10:52:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli.html</loc>
     <lastmod>2026-08-17T10:31:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -375,12 +381,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-dutch-prosecutors-sell-25m-of-crypto-from-bankrupt-platform-knaken.html</loc>
     <lastmod>2026-08-17T10:13:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-bitcoin-tracks-equity-bounce-but-390-million-etf-outflow-week-keeps-bulls-on-bac.html</loc>
-    <lastmod>2026-08-17T09:59:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Aug 2026 09:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:42:58 GMT</lastBuildDate>
+    <item>
+      <title>Bitcoin pauses at $64,000 as rising yields, oil drag equities lower</title>
+      <link>https://www.librchain.com/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html</guid>
+      <description>BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with the FOMC&apos;s July meeting minutes and a White House crypto summit both due Wednesday.</description>
+      <pubDate>Tue, 18 Aug 2026 10:38:56 GMT</pubDate>
+      <source url="https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower">CoinDesk</source>
+    </item>
+    <item>
+      <title>Bitcoin scores a rare win over S&amp;P 500 with 2.6% rise versus 0.5% fall</title>
+      <link>https://www.librchain.com/news/20260818-bitcoin-scores-a-rare-win-over-sp-500-with-26-rise-versus-05-fall.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260818-bitcoin-scores-a-rare-win-over-sp-500-with-26-rise-versus-05-fall.html</guid>
+      <description>BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging behind U.S. stocks.</description>
+      <pubDate>Tue, 18 Aug 2026 10:01:23 GMT</pubDate>
+      <source url="https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday">CoinDesk</source>
+    </item>
     <item>
       <title>Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis</title>
       <link>https://www.librchain.com/news/20260818-bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis.html</link>
@@ -469,22 +485,6 @@
       <description>Your day-ahead look for Aug. 17, 2026</description>
       <pubDate>Mon, 17 Aug 2026 11:28:41 GMT</pubDate>
       <source url="https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price">CoinDesk</source>
-    </item>
-    <item>
-      <title>Bitpanda fined 70,000 euros in Austria’s first published MiCA enforcement case</title>
-      <link>https://www.librchain.com/news/20260817-bitpanda-fined-70000-euros-in-austrias-first-published-mica-enforcement-case.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260817-bitpanda-fined-70000-euros-in-austrias-first-published-mica-enforcement-case.html</guid>
-      <description>The fine stems from Bitpanda failing to submit a mandatory white paper 20 days before publication and omitting required disclosures in marketing materials.</description>
-      <pubDate>Mon, 17 Aug 2026 10:52:31 GMT</pubDate>
-      <source url="https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case">CoinDesk</source>
-    </item>
-    <item>
-      <title>Paul Tudor Jones&apos; Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling</title>
-      <link>https://www.librchain.com/news/20260817-paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260817-paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli.html</guid>
-      <description>The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.</description>
-      <pubDate>Mon, 17 Aug 2026 10:31:04 GMT</pubDate>
-      <source url="https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf">Decrypt</source>
     </item>
   </channel>
 </rss>
