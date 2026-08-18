@@ -1,7 +1,92 @@
 {
-  "updatedAt": "2026-08-18T11:35:51.753Z",
-  "total": 83,
+  "updatedAt": "2026-08-18T13:04:30.754Z",
+  "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+      "summary": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.",
+      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+      "publishedAt": "2026-08-18T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "MoonPay",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-cash-apps-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+      "localUrl": "/news/20260818-cash-apps-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
+      "summary": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
+      "url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T13:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260818-moonpay-adds-cash-app-pay-for-crypto-purchases-by-us-customers",
+      "localUrl": "/news/20260818-moonpay-adds-cash-app-pay-for-crypto-purchases-by-us-customers.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T12:53:39.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260818-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+      "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
+      "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+      "publishedAt": "2026-08-18T12:37:02.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+      "localUrl": "/news/20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
+      "summary": "Visa’s request for product (RFP) talks about the need to support a range of stablecoins.",
+      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+      "publishedAt": "2026-08-18T12:20:48.000Z",
+      "keywords": [
+        "Finance",
+        "Exclusive",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260818-visa-looking-for-new-stablecoin-settlement-partner-after-bvnk-sale-to-mastercard",
+      "localUrl": "/news/20260818-visa-looking-for-new-stablecoin-settlement-partner-after-bvnk-sale-to-mastercard.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
+      "summary": "Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.",
+      "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+      "publishedAt": "2026-08-18T12:17:05.000Z",
+      "keywords": [
+        "Tech",
+        "Ethereum News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-ethereums-next-upgrade-breaks-the-21000-gas-rule-wallets-rely-on",
+      "localUrl": "/news/20260818-ethereums-next-upgrade-breaks-the-21000-gas-rule-wallets-rely-on.html"
+    },
     {
       "source": "Decrypt",
       "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
@@ -142,8 +227,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
-      "summary": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
+      "title": "Live updates: Bitcoin holds $64,000 as surging yields and rising oil drain risk appetite",
+      "summary": "The U.S. 30-year Treasury yield hit its highest since 2007 and Brent crude topped $91 as the Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
       "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
       "publishedAt": "2026-08-18T08:16:11.000Z",
       "keywords": [
@@ -152,8 +237,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-oil-drain-risk-appetite",
-      "localUrl": "/news/20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-oil-drain-risk-appetite.html"
+      "slug": "20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-rising-oil-drain-risk-app",
+      "localUrl": "/news/20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-rising-oil-drain-risk-app.html"
     },
     {
       "source": "Cointelegraph",
@@ -167,19 +252,6 @@
       "category": "监管",
       "slug": "20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk",
       "localUrl": "/news/20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T06:09:35.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260818-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -313,6 +385,19 @@
       "localUrl": "/news/20260818-fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express.html"
     },
     {
+      "source": "Ethereum Blog",
+      "title": "Allocation Update - Q2 2026",
+      "summary": "Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal verification, and open-source tooling. See the list below of the projects and eco…",
+      "url": "https://blog.ethereum.org/en/2026/08/18/allocation-q2-26",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "keywords": [
+        "Ecosystem Support Program"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-allocation-update-q2-2026",
+      "localUrl": "/news/20260818-allocation-update-q2-2026.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
       "summary": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
@@ -419,6 +504,17 @@
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
     },
     {
+      "source": "X Wire",
+      "title": "Saylor: MSTR Investors Should Hold for at Least Four Years, Preferably Seven to 10, and Be Prepared for Difficult Years Strategy Executive Chairman Michael Saylor said MSTR investors should have at least a four-year time horizon, with seven to 10 years pre - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yY2p2UkpPLWl2d0RTSC1hbWZUNldWTTRuSEJ6cHE1OTVud2JCbnZTcnNPT09TeUs4aUtEQWExSTB2Si1CM1FxQUd3UlV6RlNwLU5MN2FpblkxSDdXank0TS13OA?oc=5\" target=\"_blank\">Saylor: MSTR Investors Should Ho…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yY2p2UkpPLWl2d0RTSC1hbWZUNldWTTRuSEJ6cHE1OTVud2JCbnZTcnNPT09TeUs4aUtEQWExSTB2Si1CM1FxQUd3UlV6RlNwLU5MN2FpblkxSDdXank0TS13OA?oc=5",
+      "publishedAt": "2026-08-17T19:53:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10",
+      "localUrl": "/news/20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10.html"
+    },
+    {
       "source": "Decrypt",
       "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
       "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
@@ -487,6 +583,17 @@
     },
     {
       "source": "X Wire",
+      "title": "NEW: 🇺🇸 Harvard University reports owning $101.3M in BlackRocks Bitcoin ETF 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNXNSVC1oTkZza25YaVQwcjdqRUlrMWppZzZ4Zmdoa0loZS1JbDlleDlNX2pNSUNKTDZHZ1R6VHBvX0VzSHJNVy05ay1xZG00SVFweHVDZkxwNVlZT1N4aks5enR0R2M?oc=5\" target=\"_blank\">NEW: 🇺🇸 Harvard Universit…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNXNSVC1oTkZza25YaVQwcjdqRUlrMWppZzZ4Zmdoa0loZS1JbDlleDlNX2pNSUNKTDZHZ1R6VHBvX0VzSHJNVy05ay1xZG00SVFweHVDZkxwNVlZT1N4aks5enR0R2M?oc=5",
+      "publishedAt": "2026-08-17T18:02:31.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom",
+      "localUrl": "/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "cirBTC is now live on Ethereum for all Circle Mint LLC customers. The underlying BTC is custodied by Circle National Trust, a federally chartered national trust bank and qualified custodian supervised by the OCC. What’s next: Circle is building toward a simple, - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydl9qSjYtZ1VhS0NuRGdUMzNaeTNMQUM3V1JkcUhIRXlzazJZSVRaMzBLcWY1Z2VQU0VCWTlVbGljR3VVZmlLVWJBVFA5U0V1WHNaYUFlaHpDZms?oc=5\" target=\"_blank\">cirBTC is now live on Ethereum for all Circ…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydl9qSjYtZ1VhS0NuRGdUMzNaeTNMQUM3V1JkcUhIRXlzazJZSVRaMzBLcWY1Z2VQU0VCWTlVbGljR3VVZmlLVWJBVFA5U0V1WHNaYUFlaHpDZms?oc=5",
@@ -508,6 +615,17 @@
       "category": "监管",
       "slug": "20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun",
       "localUrl": "/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "People think Hyperliquid is a crypto app. And people thought Amazon was a book store. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZUlVTTQ4c1cwOHlRODZMUUtHSTZiMmE4RDRjR0N1UjhTeFk5YVVHeUQ5TzBpSDg3Vy10Ti1Pb24xLXdZNFIwYjhyU184YWpsakhTVEhiQXAybkFJcjJoZzRn?oc=5\" target=\"_blank\">People think Hyperliquid is a cryp…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZUlVTTQ4c1cwOHlRODZMUUtHSTZiMmE4RDRjR0N1UjhTeFk5YVVHeUQ5TzBpSDg3Vy10Ti1Pb24xLXdZNFIwYjhyU184YWpsakhTVEhiQXAybkFJcjJoZzRn?oc=5",
+      "publishedAt": "2026-08-17T16:43:21.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-people-think-hyperliquid-is-a-crypto-app-and-people-thought-amazon-was-a-book-st",
+      "localUrl": "/news/20260817-people-think-hyperliquid-is-a-crypto-app-and-people-thought-amazon-was-a-book-st.html"
     },
     {
       "source": "CoinDesk",
@@ -619,6 +737,17 @@
       "category": "基础设施",
       "slug": "20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus",
       "localUrl": "/news/20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 TODAY: Hashdex’s Bitcoin ETF, DEFI, ends trading ahead of its closure and liquidation. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdC1SX0Fud1U3b05jSDRDYXhqRVU2a1hBLXZXUjdBbF9aNVpGVHVlWXFibWRqMjhLNzVvRzctNjQ3eUFmTTZ3SGxMUkZnU3pfSkJaN2hwejFHS3ZqcGI3S0NSVm4?oc=5\" target=\"_blank\">🚨 TODAY: Hashdex’s Bitcoin ETF…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdC1SX0Fud1U3b05jSDRDYXhqRVU2a1hBLXZXUjdBbF9aNVpGVHVlWXFibWRqMjhLNzVvRzctNjQ3eUFmTTZ3SGxMUkZnU3pfSkJaN2hwejFHS3ZqcGI3S0NSVm4?oc=5",
+      "publishedAt": "2026-08-17T15:01:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-today-hashdexs-bitcoin-etf-defi-ends-trading-ahead-of-its-closure-and-liquidatio",
+      "localUrl": "/news/20260817-today-hashdexs-bitcoin-etf-defi-ends-trading-ahead-of-its-closure-and-liquidatio.html"
     },
     {
       "source": "CoinDesk",
@@ -769,35 +898,6 @@
       "localUrl": "/news/20260817-pirated-copies-of-the-odyssey-are-hiding-crypto-stealing-malware.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "No change in bitcoin holdings as Strategy boosted dollar reserve, bought back more STRC last week",
-      "summary": "Led by Executive Chairman Michael Saylor, the company raised $333.7 million via the sale of common stock.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/no-change-in-bitcoin-holdings-as-strategy-lifted-dollar-reserve-and-bought-back-more-strc-last-week",
-      "publishedAt": "2026-08-17T12:19:45.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260817-no-change-in-bitcoin-holdings-as-strategy-boosted-dollar-reserve-bought-back-mor",
-      "localUrl": "/news/20260817-no-change-in-bitcoin-holdings-as-strategy-boosted-dollar-reserve-bought-back-mor.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum’s next big upgrade has 66 proposals, including a major privacy fix",
-      "summary": "Developers are narrowing the list for the Hegotá upgrade, including a package to change how wallets approve and pay for transactions, giving developers of privacy apps more of the tools they need inside Ethereum itself.",
-      "url": "https://www.coindesk.com/tech/2026/08/17/ethereum-s-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
-      "publishedAt": "2026-08-17T12:02:10.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-ethereums-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix",
-      "localUrl": "/news/20260817-ethereums-next-big-upgrade-has-66-proposals-including-a-major-privacy-fix.html"
-    },
-    {
       "source": "X Wire",
       "title": "$MSTR - STRATEGY SELLS $334M STOCK, BUYS NO BITCOIN Strategy sold 3.46M shares, raising $333.7M through its ATM program last week. The company made no Bitcoin purchases, keeping holdings unchanged at 840,447 BTC, acquired for $63.36B - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS $334M STOCK, BUY…",
@@ -807,23 +907,6 @@
       "category": "X热点",
       "slug": "20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising",
       "localUrl": "/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Israel’s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
-      "summary": "Funds and digital assets were not touched, but names, bank account details, and national ID numbers may have been exposed in what the company says was a wider global attack.",
-      "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
-      "publishedAt": "2026-08-17T11:59:23.000Z",
-      "keywords": [
-        "Tech",
-        "Data Breaches",
-        "Cryptocurrency",
-        "Hack",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260817-israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-c",
-      "localUrl": "/news/20260817-israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-c.html"
     },
     {
       "source": "X Wire",
@@ -848,19 +931,6 @@
       "category": "市场",
       "slug": "20260817-btc-price-loses-200-week-trend-line-as-2022-repeats-five-things-to-know-in-bitco",
       "localUrl": "/news/20260817-btc-price-loses-200-week-trend-line-as-2022-repeats-five-things-to-know-in-bitco.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance gave Russian authorities client data used in terrorism financing case: Report",
-      "summary": "Reuters reported that Binance supplied transaction records and identity documents later used in a terrorism-financing case against Yuri Belenkiy.",
-      "url": "https://cointelegraph.com/news/binance-russia-client-data-used-ukraine-case-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T11:38:43.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-binance-gave-russian-authorities-client-data-used-in-terrorism-financing-case-re",
-      "localUrl": "/news/20260817-binance-gave-russian-authorities-client-data-used-in-terrorism-financing-case-re.html"
     },
     {
       "source": "Decrypt",
@@ -900,30 +970,6 @@
       "localUrl": "/news/20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide.html"
     },
     {
-      "source": "Decrypt",
-      "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-      "summary": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
-      "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-      "publishedAt": "2026-08-17T09:31:04.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "监管",
-      "slug": "20260817-safepal-bitcoin-wallet-data-breach-stokes-fears-of-physical-attacks",
-      "localUrl": "/news/20260817-safepal-bitcoin-wallet-data-breach-stokes-fears-of-physical-attacks.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Reuters: Binance Provided Russian Authorities With User Data Used in Terrorism-Financing Case Reuters reports that law-enforcement documents show Binance provided Russian authorities in 2025 with the identity and crypto transaction records of Yuri Bele - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UX0NJS055dXVDZ2Rzb1J2c3V3NEhuLWo1aURlaGV1cUJKaE4tc2Q2Y0o4WjBfcjhNaU93akRDUFkwZWpPZjB0clU2a3FfU2pwOS1vdjdvRlpFTnJKTmUyOTdjcw?oc=5\" target=\"_blank\">Reuters: Binance Provided Russia…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UX0NJS055dXVDZ2Rzb1J2c3V3NEhuLWo1aURlaGV1cUJKaE4tc2Q2Y0o4WjBfcjhNaU93akRDUFkwZWpPZjB0clU2a3FfU2pwOS1vdjdvRlpFTnJKTmUyOTdjcw?oc=5",
-      "publishedAt": "2026-08-17T07:52:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-reuters-binance-provided-russian-authorities-with-user-data-used-in-terrorism-fi",
-      "localUrl": "/news/20260817-reuters-binance-provided-russian-authorities-with-user-data-used-in-terrorism-fi.html"
-    },
-    {
       "source": "X Wire",
       "title": "Great move upwards on #Bitcoin, and it might become interesting. These are the levels that I'm watching. ❌ - Resistance is this area at $63,800 for #Bitcoin, which I'd like to see break upwards. I don't think we'll do that immediately, but markets are looking better - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5\" target=\"_blank\">Great move upwards on #Bitcoin, …",
@@ -955,28 +1001,6 @@
       "category": "X热点",
       "slug": "20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco",
       "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin has remained in the “Fire Sale” zone for longer than at any point in its history, according to the Bitcoin Rainbow Price Chart. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin has remained in the…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5",
-      "publishedAt": "2026-08-17T01:48:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-",
-      "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Curve Finance Founder Questions Pumpfun and Phantom Wallet Experience Curve Finance founder Michael Egorov criticized Pumpfun as “a casino of scams called memecoins” and said Phantom’s hardware-wallet experience was worse than MetaMask’s. H - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5\" target=\"_blank\">Curve Finance Founder Questions …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5",
-      "publishedAt": "2026-08-17T01:46:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina",
-      "localUrl": "/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1056,17 +1080,6 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$62,895.94 #Bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5\" target=\"_blank\">$62,895.94 #Bitcoin</a> <font color=\"#6f6f…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5",
-      "publishedAt": "2026-08-15T12:44:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-6289594-bitcoin-xcom",
-      "localUrl": "/news/20260815-6289594-bitcoin-xcom.html"
     },
     {
       "source": "Chainalysis Blog",
