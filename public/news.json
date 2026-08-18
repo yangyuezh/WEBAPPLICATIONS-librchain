@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-18T10:42:58.539Z",
+  "updatedAt": "2026-08-18T11:35:51.753Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+      "summary": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
+      "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+      "publishedAt": "2026-08-18T11:31:04.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260818-chainalysis-sues-us-government-over-946m-ice-contract-handed-to-rival-trm-labs",
+      "localUrl": "/news/20260818-chainalysis-sues-us-government-over-946m-ice-contract-handed-to-rival-trm-labs.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
+      "summary": "Your day-ahead look for Aug. 18 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "publishedAt": "2026-08-18T11:21:51.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260818-the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+      "localUrl": "/news/20260818-the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "summary": "Regulators rejected Polymarket's defense regarding its P2P nature, arguing the platform manages market rules and facilitates crypto-based gambling activity.",
+      "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "publishedAt": "2026-08-18T11:05:56.000Z",
+      "keywords": [
+        "Finance",
+        "Polymarket",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260818-south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+      "localUrl": "/news/20260818-south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken launches US-listed stock trading for EEA customers",
+      "summary": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
+      "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T10:53:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260818-kraken-launches-us-listed-stock-trading-for-eea-customers",
+      "localUrl": "/news/20260818-kraken-launches-us-listed-stock-trading-for-eea-customers.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
@@ -624,6 +680,17 @@
       "localUrl": "/news/20260817-how-a-bug-in-coldcards-code-went-unnoticed-for-years-leading-to-100-million-in-h.html"
     },
     {
+      "source": "X Wire",
+      "title": "Binance Plans UK Return With FCA Crypto License Application Under New Regime According to The Telegraph, Binance plans to apply for authorization from the UK Financial Conduct Authority under the country’s new crypto regulatory regime, seeking to ret - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qelJXMnB3R19KZ085MGJMcWxkUFRVcG1mdTFfa1EzblR5X0p6d2xmaXhOUHd6SVRZMXlwaDludklWdUV1ZjNyMGE5SHlCcnFWdnRyLVgtNHB2ZDBKOTJpbzhHRQ?oc=5\" target=\"_blank\">Binance Plans UK Return With FCA…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qelJXMnB3R19KZ085MGJMcWxkUFRVcG1mdTFfa1EzblR5X0p6d2xmaXhOUHd6SVRZMXlwaDludklWdUV1ZjNyMGE5SHlCcnFWdnRyLVgtNHB2ZDBKOTJpbzhHRQ?oc=5",
+      "publishedAt": "2026-08-17T13:54:39.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-binance-plans-uk-return-with-fca-crypto-license-application-under-new-regime-acc",
+      "localUrl": "/news/20260817-binance-plans-uk-return-with-fca-crypto-license-application-under-new-regime-acc.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
       "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
@@ -759,20 +826,15 @@
       "localUrl": "/news/20260817-israels-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200000-c.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin options remain expensive despite summer calm. Here's why it matters",
-      "summary": "Bitcoin’s implied volatility is near a seasonal floor, but options continue to price substantially more movement than the market is delivering.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-options-remain-expensive-despite-summer-calm-here-s-why-it-matters",
-      "publishedAt": "2026-08-17T11:43:02.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Volatility",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260817-bitcoin-options-remain-expensive-despite-summer-calm-heres-why-it-matters",
-      "localUrl": "/news/20260817-bitcoin-options-remain-expensive-despite-summer-calm-heres-why-it-matters.html"
+      "source": "X Wire",
+      "title": "🔥 LATEST: Paul Tudor Jones’ firm boosted its BlackRock Bitcoin ETF stake by 18.9% to $22.9M. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5\" target=\"_blank\">🔥 LATEST: Paul Tudor Jones’ fi…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5",
+      "publishedAt": "2026-08-17T11:41:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2",
+      "localUrl": "/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html"
     },
     {
       "source": "Cointelegraph",
@@ -799,21 +861,6 @@
       "category": "基础设施",
       "slug": "20260817-binance-gave-russian-authorities-client-data-used-in-terrorism-financing-case-re",
       "localUrl": "/news/20260817-binance-gave-russian-authorities-client-data-used-in-terrorism-financing-case-re.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's biggest holders, Strategy and Metaplanet, are betting on math, not price",
-      "summary": "Your day-ahead look for Aug. 17, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/17/bitcoin-s-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
-      "publishedAt": "2026-08-17T11:28:41.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260817-bitcoins-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price",
-      "localUrl": "/news/20260817-bitcoins-biggest-holders-strategy-and-metaplanet-are-betting-on-math-not-price.html"
     },
     {
       "source": "Decrypt",
@@ -851,19 +898,6 @@
       "category": "X热点",
       "slug": "20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide",
       "localUrl": "/news/20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitpanda fined in Austria’s first published MiCA penalty",
-      "summary": "The FMA said Bitpanda breached MiCA rules on crypto white papers and marketing communications, with the decision now final.",
-      "url": "https://cointelegraph.com/news/bitpanda-fined-austrian-published-mica-penalty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T09:31:47.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "安全",
-      "slug": "20260817-bitpanda-fined-in-austrias-first-published-mica-penalty",
-      "localUrl": "/news/20260817-bitpanda-fined-in-austrias-first-published-mica-penalty.html"
     },
     {
       "source": "Decrypt",
@@ -991,19 +1025,6 @@
       "localUrl": "/news/20260816-bitcoin-is-the-only-game-in-the-casino-where-we-can-all-win-xcom.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
-      "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
-      "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-      "publishedAt": "2026-08-16T16:00:05.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore",
-      "localUrl": "/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin 👀 “The mission is simple: take this thing to the moon. 🚀” - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
@@ -1027,17 +1048,6 @@
     },
     {
       "source": "X Wire",
-      "title": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers Crypto wallet provider SafePal disclosed a security incident involving an authorization flaw in an order-tracking plugin that allowed unauthorized access to customer order information. A - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE02UmhRVnpNZUZlMHFVem5hdGlzSkhZVVAzMEdpVExnSUUtOFdHS242RVV0cW1BYnI3R3IwZGJtLUZLZDQ1T0o1czZrRExmLW1DazVhZGhKR2djakhYZEtQN1hYRQ?oc=5\" target=\"_blank\">SafePal Discloses Order Data Bre…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02UmhRVnpNZUZlMHFVem5hdGlzSkhZVVAzMEdpVExnSUUtOFdHS242RVV0cW1BYnI3R3IwZGJtLUZLZDQ1T0o1czZrRExmLW1DazVhZGhKR2djakhYZEtQN1hYRQ?oc=5",
-      "publishedAt": "2026-08-16T13:35:36.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall",
-      "localUrl": "/news/20260816-safepal-discloses-order-data-breach-affecting-nearly-40000-customers-crypto-wall.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Ethereum's next year's upgrade, Hegotá, is being scoped right now. 66 proposals are on the table and over the next few core dev calls, this list will be narrowed down to the EIPs that get implementations, devnets, testnets, and a realistic chance of shipping in 2 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5\" target=\"_blank\">Ethereum's next year's upgrade, Hegotá,…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5",
@@ -1046,17 +1056,6 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "INSIGHT: \"Soon, millionaires won't be able to afford 1 full Bitcoin.\" says @cz_binance, noting there are 23.6M U.S. millionaires but only 20.07M $BTC in circulation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5\" target=\"_blank\">INSIGHT: \"Soon, millionaires won't be a…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5",
-      "publishedAt": "2026-08-15T21:53:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-",
-      "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
     },
     {
       "source": "X Wire",
