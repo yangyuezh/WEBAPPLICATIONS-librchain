@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-18T03:05:38.212Z",
+  "updatedAt": "2026-08-18T03:56:05.400Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+      "summary": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
+      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T03:21:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation",
+      "localUrl": "/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
@@ -863,17 +876,6 @@
       "localUrl": "/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html"
     },
     {
-      "source": "X Wire",
-      "title": "⚡️ CZ: “Many people have been wrong about crypto. Takes time. Not 100% sure I am correct here either. We are human afterall.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV2lyaEpYemR4T0x1VkN1b1VGd3JpMkpiUDJCSUVyb25VbWRJTGN3NG1wLWtnUUs2OUhMdGU4Z05OT1V6NV85WHhNcGVla0hNSWpxMjJ6ZkpaRzVrVXpnZTRNaDk?oc=5\" target=\"_blank\">⚡️ CZ: “Many people have been w…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV2lyaEpYemR4T0x1VkN1b1VGd3JpMkpiUDJCSUVyb25VbWRJTGN3NG1wLWtnUUs2OUhMdGU4Z05OT1V6NV85WHhNcGVla0hNSWpxMjJ6ZkpaRzVrVXpnZTRNaDk?oc=5",
-      "publishedAt": "2026-08-17T01:40:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-cz-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct",
-      "localUrl": "/news/20260817-cz-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct.html"
-    },
-    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -912,6 +914,17 @@
     },
     {
       "source": "X Wire",
+      "title": "White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman Selig, & executives from across crypto industry including Coinbase, Polymarket, Ripple, Gemini, etc. Also expected to i - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5\" target=\"_blank\">White House hosting major crypto mee…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5",
+      "publishedAt": "2026-08-16T23:03:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres",
+      "localUrl": "/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Right place, right time: many neoclouds spent years mining crypto, then AI showed up and turned their power rights, data centers, and GPUs into some of the hottest assets in tech. 25 quarters in, CoreWeave is pulling in more quarterly revenue than Azure, AW - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5\" target=\"_blank\">Right place, right time: many neoclouds spent y…",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5",
@@ -920,6 +933,17 @@
       "category": "X热点",
       "slug": "20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u",
       "localUrl": "/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Did whales go long at the top of the local bitcoin:native range? Whale net long positioning on Hyperliquid peaked right into resistance. Spot and flow data still show no matching demand. Read our latest weekly article \"Trigger Happy\" for analyses like this👇 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5\" target=\"_blank\">Did whales go long at the top of the l…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5",
+      "publishedAt": "2026-08-16T18:32:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po",
+      "localUrl": "/news/20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po.html"
     },
     {
       "source": "X Wire",
@@ -1038,30 +1062,6 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-      "summary": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
-      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-15T19:27:29.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup",
-      "localUrl": "/news/20260815-bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 NEW: Bitcoin has never been below Fire Sale for this long. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5\" target=\"_blank\">🚨 NEW: Bitcoin has never been …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5",
-      "publishedAt": "2026-08-15T18:30:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom",
-      "localUrl": "/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html"
     },
     {
       "source": "X Wire",
