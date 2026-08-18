@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T17:38:27.612Z</lastmod>
+    <lastmod>2026-08-18T18:53:34.341Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T17:38:27.612Z</lastmod>
+    <lastmod>2026-08-18T18:53:34.341Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi.html</loc>
+    <lastmod>2026-08-18T18:36:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware.html</loc>
+    <lastmod>2026-08-18T18:06:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push.html</loc>
+    <lastmod>2026-08-18T17:39:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-google-is-paying-10-million-to-use-spirit-airlines-data-to-train-its-ai-models.html</loc>
@@ -421,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-us-treasury-moves-forward-with-rules-on-genius-act-after-july-deadline.html</loc>
-    <lastmod>2026-08-17T16:29:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say.html</loc>
     <lastmod>2026-08-17T16:27:26.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -451,20 +463,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero.html</loc>
-    <lastmod>2026-08-17T13:31:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week.html</loc>
-    <lastmod>2026-08-17T13:03:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html</loc>
     <lastmod>2026-08-17T12:02:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html</loc>
+    <lastmod>2026-08-17T11:41:05.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</loc>
     <lastmod>2026-08-16T19:47:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html</loc>
-    <lastmod>2026-08-16T14:25:58.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

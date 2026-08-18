@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-08-18T17:38:27.570Z",
+  "updatedAt": "2026-08-18T18:53:34.296Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+      "summary": "WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
+      "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+      "publishedAt": "2026-08-18T18:36:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi",
+      "localUrl": "/news/20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
+      "summary": "The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
+      "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
+      "publishedAt": "2026-08-18T18:06:42.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware",
+      "localUrl": "/news/20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+      "summary": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
+      "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T17:39:37.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push",
+      "localUrl": "/news/20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push.html"
+    },
     {
       "source": "Decrypt",
       "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
@@ -911,19 +950,6 @@
       "localUrl": "/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
-      "summary": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially without finalized regulations from US government agencies.",
-      "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T16:29:48.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260817-us-treasury-moves-forward-with-rules-on-genius-act-after-july-deadline",
-      "localUrl": "/news/20260817-us-treasury-moves-forward-with-rules-on-genius-act-after-july-deadline.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
       "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
@@ -974,32 +1000,6 @@
       "localUrl": "/news/20260817-today-hashdexs-bitcoin-etf-defi-ends-trading-ahead-of-its-closure-and-liquidatio.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
-      "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-      "publishedAt": "2026-08-17T13:31:04.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "监管",
-      "slug": "20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero",
-      "localUrl": "/news/20260817-hackers-are-abusing-a-macos-screen-sharing-flaw-to-secretly-mine-monero.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-      "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
-      "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-      "publishedAt": "2026-08-17T13:03:17.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "监管",
-      "slug": "20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-      "localUrl": "/news/20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week.html"
-    },
-    {
       "source": "X Wire",
       "title": "$MSTR - STRATEGY SELLS $334M STOCK, BUYS NO BITCOIN Strategy sold 3.46M shares, raising $333.7M through its ATM program last week. The company made no Bitcoin purchases, keeping holdings unchanged at 840,447 BTC, acquired for $63.36B - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS $334M STOCK, BUY…",
@@ -1009,6 +1009,17 @@
       "category": "X热点",
       "slug": "20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising",
       "localUrl": "/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 LATEST: Paul Tudor Jones’ firm boosted its BlackRock Bitcoin ETF stake by 18.9% to $22.9M. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5\" target=\"_blank\">🔥 LATEST: Paul Tudor Jones’ fi…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5",
+      "publishedAt": "2026-08-17T11:41:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2",
+      "localUrl": "/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html"
     },
     {
       "source": "X Wire",
@@ -1077,17 +1088,6 @@
       "category": "X热点",
       "slug": "20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u",
       "localUrl": "/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoiners deserve a lot of credit for pioneering many of these ideas (see Utreexo). But yes, this is what the current proposed Ethereum scaling strategy looks like in action. We want Ethereum to have the best of UTXO-style state, dynamic state, and everything i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MU244NlIwSjd2NUpsZXhZdzBNT1duWVlhQlNhNXhnU0JYTFFaOC1zYndEQ09nRmF6N1F6akpFSVVmbkJISDRZSkppSlVSa0dRa2NhcVl4QXVhVkZfVnpWaG1rNXFtUQ?oc=5\" target=\"_blank\">Bitcoiners deserve a lot of …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MU244NlIwSjd2NUpsZXhZdzBNT1duWVlhQlNhNXhnU0JYTFFaOC1zYndEQ09nRmF6N1F6akpFSVVmbkJISDRZSkppSlVSa0dRa2NhcVl4QXVhVkZfVnpWaG1rNXFtUQ?oc=5",
-      "publishedAt": "2026-08-16T14:25:58.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex",
-      "localUrl": "/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html"
     }
   ]
 }
