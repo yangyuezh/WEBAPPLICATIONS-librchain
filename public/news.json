@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-17T23:33:16.198Z",
+  "updatedAt": "2026-08-18T01:47:53.359Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+      "summary": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
+      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T01:28:37.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "监管",
+      "slug": "20260818-fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express",
+      "localUrl": "/news/20260818-fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express.html"
+    },
     {
       "source": "Decrypt",
       "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
@@ -287,6 +300,17 @@
       "category": "基础设施",
       "slug": "20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus",
       "localUrl": "/news/20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Goldman Sachs BOUGHT $386M worth of Michael Saylor's Strategy shares Now holds $558M worth of $MSTR - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWNjNfSFlobjFHTThZQ3pPNW8wVXh0UV9OQ2FETEdYU3c1dnpTUk8tU2p0a1J4VlJQbW9naFR0TFE2UzVldlhYUEFNZFNYa0FadllHaVU0UGhhQW9vOW9FX3EwUXBoZw?oc=5\" target=\"_blank\">BREAKING: Goldman Sachs BOUG…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWNjNfSFlobjFHTThZQ3pPNW8wVXh0UV9OQ2FETEdYU3c1dnpTUk8tU2p0a1J4VlJQbW9naFR0TFE2UzVldlhYUEFNZFNYa0FadllHaVU0UGhhQW9vOW9FX3EwUXBoZw?oc=5",
+      "publishedAt": "2026-08-17T14:45:37.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-breaking-goldman-sachs-bought-386m-worth-of-michael-saylors-strategy-shares-now-",
+      "localUrl": "/news/20260817-breaking-goldman-sachs-bought-386m-worth-of-michael-saylors-strategy-shares-now-.html"
     },
     {
       "source": "CoinDesk",
@@ -829,6 +853,17 @@
     },
     {
       "source": "X Wire",
+      "title": "JUST IN: Bitcoin has remained in the “Fire Sale” zone for longer than at any point in its history, according to the Bitcoin Rainbow Price Chart. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5\" target=\"_blank\">JUST IN: Bitcoin has remained in the…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WSG5ZbEJxUlVETUFBMi1veVJDaDBNd2hJZkNwRUZBRDhWOG92ZjBKRFBsMTRyZ1BIZzJGa0ZhNC1NYk91WU1zVS1ZMm12LTF1V2p6YUtRSm9LbkQtUklnLQ?oc=5",
+      "publishedAt": "2026-08-17T01:48:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-",
+      "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "Curve Finance Founder Questions Pumpfun and Phantom Wallet Experience Curve Finance founder Michael Egorov criticized Pumpfun as “a casino of scams called memecoins” and said Phantom’s hardware-wallet experience was worse than MetaMask’s. H - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5\" target=\"_blank\">Curve Finance Founder Questions …",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5",
@@ -899,17 +934,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 VITALIK: Ethereum wants massive scaling without sacrificing decentralization or censorship resistance. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVnl0NE9TYTJhQV9JaTJIU2pNbHF3bWJnMV8ybzVkZWQ4dGJHR0FJejZlMzAxeExzWnRma1c5MnAwUE5qWlFmQ185V2xLUHJTX0pYeE13Zzg4QlIwUTBZRmd2ZV8?oc=5\" target=\"_blank\">🚨 VITALIK: Ethereum wants mass…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVnl0NE9TYTJhQV9JaTJIU2pNbHF3bWJnMV8ybzVkZWQ4dGJHR0FJejZlMzAxeExzWnRma1c5MnAwUE5qWlFmQ185V2xLUHJTX0pYeE13Zzg4QlIwUTBZRmd2ZV8?oc=5",
-      "publishedAt": "2026-08-16T16:30:35.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c",
-      "localUrl": "/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoin is the only game in the casino where we can all win. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdHlMMlRlaC1sbHk1T2FVNVEzbmVRSjZCX3RsZlktZGE5WTlReFl3al9iejRkVjVXenhKY080R2NtNmEwZzhsaGJpRXpyai1iR1FTaFg5MllPZ2M?oc=5\" target=\"_blank\">Bitcoin is the only game in the casino wher…",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdHlMMlRlaC1sbHk1T2FVNVEzbmVRSjZCX3RsZlktZGE5WTlReFl3al9iejRkVjVXenhKY080R2NtNmEwZzhsaGJpRXpyai1iR1FTaFg5MllPZ2M?oc=5",
@@ -931,17 +955,6 @@
       "category": "综合",
       "slug": "20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore",
       "localUrl": "/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Probably easier to use gold than bitcoin in most places still despite the endless promises of its use cases… what have these people built of value, stable coins? Really? So what’s the point of having a monetary system that can’t really be used… I’m just asking - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1VVpTM2tHSXNOQmQ4Mm9Oa1JOSVAxYV94Mm02ZzFIQWZXeUpLcklpUmUzaS1GcnhFYVVvc2RqUks2Qm10amNVd0dCLS1TcmJUWjI0aXZnTUQ1XzJFbWlSWHJGNDd6UQ?oc=5\" target=\"_blank\">Probably easier to use gold …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1VVpTM2tHSXNOQmQ4Mm9Oa1JOSVAxYV94Mm02ZzFIQWZXeUpLcklpUmUzaS1GcnhFYVVvc2RqUks2Qm10amNVd0dCLS1TcmJUWjI0aXZnTUQ1XzJFbWlSWHJGNDd6UQ?oc=5",
-      "publishedAt": "2026-08-16T15:40:09.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-probably-easier-to-use-gold-than-bitcoin-in-most-places-still-despite-the-endles",
-      "localUrl": "/news/20260816-probably-easier-to-use-gold-than-bitcoin-in-most-places-still-despite-the-endles.html"
     },
     {
       "source": "X Wire",
@@ -1041,30 +1054,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 NEW: Bitcoin has never been below Fire Sale for this long. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5\" target=\"_blank\">🚨 NEW: Bitcoin has never been …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5",
-      "publishedAt": "2026-08-15T18:30:28.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom",
-      "localUrl": "/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tokenized stock holders more than double as monthly volume surges",
-      "summary": "Tokenized equities reached 1.31 million holders over the past month, as monthly transfer volume surged 179% to $23.13 billion and distributed value rose 5.9% to $2.38 billion.",
-      "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-15T17:26:43.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260815-tokenized-stock-holders-more-than-double-as-monthly-volume-surges",
-      "localUrl": "/news/20260815-tokenized-stock-holders-more-than-double-as-monthly-volume-surges.html"
-    },
-    {
-      "source": "X Wire",
       "title": "$62,895.94 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5\" target=\"_blank\">$62,895.94 #Bitcoin</a> <font color=\"#6f6f…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5",
@@ -1073,6 +1062,17 @@
       "category": "X热点",
       "slug": "20260815-6289594-bitcoin-xcom",
       "localUrl": "/news/20260815-6289594-bitcoin-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin surpassed 20.07 million coins mined as of August 2026, leaving only 4.4% more supply. I'd estimate 10-20% of existing bitcoins are lost/stuck/unrecoverable. It's a deflationary asset. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYkFKb20wTXVmSXNOb2U5QUdQLS1Gc1JWa2l1ZjdNNUwzYzFXUS1rQk1OUUxEMFZsVkQ4MV9uMXJMODVqcFh6N3BBdkJlaWlLMGI4Y0ZvcHltUVRxT0N6Mw?oc=5\" target=\"_blank\">Bitcoin surpassed 20.07 million coin…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYkFKb20wTXVmSXNOb2U5QUdQLS1Gc1JWa2l1ZjdNNUwzYzFXUS1rQk1OUUxEMFZsVkQ4MV9uMXJMODVqcFh6N3BBdkJlaWlLMGI4Y0ZvcHltUVRxT0N6Mw?oc=5",
+      "publishedAt": "2026-08-15T08:36:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor",
+      "localUrl": "/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html"
     },
     {
       "source": "Chainalysis Blog",

@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-17T23:33:16.265Z</lastmod>
+    <lastmod>2026-08-18T01:47:53.399Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-17T23:33:16.265Z</lastmod>
+    <lastmod>2026-08-18T01:47:53.399Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express.html</loc>
+    <lastmod>2026-08-18T01:28:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur.html</loc>
@@ -135,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-compound-bets-52-million-new-leadership-team-in-switch-to-institutional-focus.html</loc>
     <lastmod>2026-08-17T15:32:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-breaking-goldman-sachs-bought-386m-worth-of-michael-saylors-strategy-shares-now-.html</loc>
+    <lastmod>2026-08-17T14:45:37.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,6 +391,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html</loc>
+    <lastmod>2026-08-17T01:48:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html</loc>
     <lastmod>2026-08-17T01:46:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -415,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-vitalik-ethereum-wants-massive-scaling-without-sacrificing-decentralization-or-c.html</loc>
-    <lastmod>2026-08-16T16:30:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260816-bitcoin-is-the-only-game-in-the-casino-where-we-can-all-win-xcom.html</loc>
     <lastmod>2026-08-16T16:20:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260816-gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore.html</loc>
     <lastmod>2026-08-16T16:00:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-probably-easier-to-use-gold-than-bitcoin-in-most-places-still-despite-the-endles.html</loc>
-    <lastmod>2026-08-16T15:40:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,20 +493,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html</loc>
-    <lastmod>2026-08-15T18:30:28.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260815-tokenized-stock-holders-more-than-double-as-monthly-volume-surges.html</loc>
-    <lastmod>2026-08-15T17:26:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
     <lastmod>2026-08-15T12:44:45.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html</loc>
+    <lastmod>2026-08-15T08:36:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
