@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-18T20:36:28.506Z",
+  "updatedAt": "2026-08-18T21:35:03.041Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
+      "summary": "The Financial Accounting Standards Board, a nonprofit that governs accounting practices, proposed that certain stablecoins should fit the bill as cash-like.",
+      "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "publishedAt": "2026-08-18T21:25:42.000Z",
+      "keywords": [
+        "Policy",
+        "Regulation",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260818-us-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "localUrl": "/news/20260818-us-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+      "summary": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and certain exemptions for token issuance.",
+      "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T21:24:15.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-sec-proposes-new-crypto-rules-in-absence-of-clarity-act",
+      "localUrl": "/news/20260818-sec-proposes-new-crypto-rules-in-absence-of-clarity-act.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+      "summary": "X’s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
+      "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
+      "publishedAt": "2026-08-18T21:20:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260818-arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba",
+      "localUrl": "/news/20260818-arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
+      "summary": "The non-custodial cross-chain swap engine connects Canton’s institutional tokenized-asset markets with liquidity and trading activity across major public blockchains.",
+      "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T20:45:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-falconx-interstice-connect-canton-to-ethereum-solana-and-robinhood-chain",
+      "localUrl": "/news/20260818-falconx-interstice-connect-canton-to-ethereum-solana-and-robinhood-chain.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -110,6 +165,17 @@
       "localUrl": "/news/20260818-new-the-secgov-has-just-formally-proposed-regulation-crypto-assets-a-new-framewo.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 TODAY: The SEC proposed new rules, “Regulation Crypto Assets,” that would create a clear and fit-for-purpose framework for certain investment contracts involving crypto assets. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3ajMtV2YxNUdzUFZ4ejBpNlNUelVyaklVUHIyQVV2S3dDM0xrT1RjdnhaTk1nc1pYYVk4NHZnZWNORU1URmxuWmxMaXI0U0FrQTNwcUNxd294VFk?oc=5\" target=\"_blank\">🚨 TODAY: The SEC proposed new rules, “Regu…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3ajMtV2YxNUdzUFZ4ejBpNlNUelVyaklVUHIyQVV2S3dDM0xrT1RjdnhaTk1nc1pYYVk4NHZnZWNORU1URmxuWmxMaXI0U0FrQTNwcUNxd294VFk?oc=5",
+      "publishedAt": "2026-08-18T18:40:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-today-the-sec-proposed-new-rules-regulation-crypto-assets-that-would-create-a-cl",
+      "localUrl": "/news/20260818-today-the-sec-proposed-new-rules-regulation-crypto-assets-that-would-create-a-cl.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
       "summary": "WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
@@ -147,6 +213,17 @@
       "category": "综合",
       "slug": "20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push",
       "localUrl": "/news/20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Welcome home, @VonMiller 🤠 #DallasCowboys | @blockchain - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0dyYzFERHRxQVdUdmlFcktEUGY1dTNvY0NzOFhyVzg4RFVRZFNGT3NiS2RiZ0QxOF94OUlMTVdvTXBXMlhncnZvMVFIZmxVNGhRRUdjUkNPTGJFOEJSVnRDb0g?oc=5\" target=\"_blank\">Welcome home, @VonMiller 🤠 #Da…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0dyYzFERHRxQVdUdmlFcktEUGY1dTNvY0NzOFhyVzg4RFVRZFNGT3NiS2RiZ0QxOF94OUlMTVdvTXBXMlhncnZvMVFIZmxVNGhRRUdjUkNPTGJFOEJSVnRDb0g?oc=5",
+      "publishedAt": "2026-08-18T17:34:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom",
+      "localUrl": "/news/20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -651,28 +728,6 @@
       "localUrl": "/news/20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria.html"
     },
     {
-      "source": "X Wire",
-      "title": "HTX Users Suspected of Sending Mass Small “Poisoning” Transfers to Exchange Addresses; Some Accounts Reportedly Frozen HTX said it is investigating reports that some addresses received small transfers appearing to originate from HTX. The exchange s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dFJZSlhRSWZsdWdQdEtwWXhYMl9PZUlucE1UNjJsU19RSHNKNlFwVkdmeWozUkE2Slh2R2dOdGRQUmhLb0dtOG95QXc1dGFDTTNza3VrS0RIYkJOUkxKVUVhUQ?oc=5\" target=\"_blank\">HTX Users Suspected of Sending M…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dFJZSlhRSWZsdWdQdEtwWXhYMl9PZUlucE1UNjJsU19RSHNKNlFwVkdmeWozUkE2Slh2R2dOdGRQUmhLb0dtOG95QXc1dGFDTTNza3VrS0RIYkJOUkxKVUVhUQ?oc=5",
-      "publishedAt": "2026-08-18T09:22:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-htx-users-suspected-of-sending-mass-small-poisoning-transfers-to-exchange-addres",
-      "localUrl": "/news/20260818-htx-users-suspected-of-sending-mass-small-poisoning-transfers-to-exchange-addres.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Pump fun Co-founder: I genuinely don't believe in decentralization On August 8, 2026, Pump fun co-founder Noah Tweedale stated in an interview with Crypto Insider that he is a massive bear on decentralization. He believes that looking back at internet histor - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xNFI3YjFYZlpaYkJsR3BCNjFtQ0ZvV1BKSERiMzc4UVpzM0FzWG9VYllQZ2pqMndFOTRxRjJPVXJ2cmJoY2ZsNlFNSmt0bE10ejM3S19BYi01cFEyX3ZSMzViVQ?oc=5\" target=\"_blank\">Pump fun Co-founder: I genuinely…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xNFI3YjFYZlpaYkJsR3BCNjFtQ0ZvV1BKSERiMzc4UVpzM0FzWG9VYllQZ2pqMndFOTRxRjJPVXJ2cmJoY2ZsNlFNSmt0bE10ejM3S19BYi01cFEyX3ZSMzViVQ?oc=5",
-      "publishedAt": "2026-08-18T09:00:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-pump-fun-co-founder-i-genuinely-dont-believe-in-decentralization-on-august-8-202",
-      "localUrl": "/news/20260818-pump-fun-co-founder-i-genuinely-dont-believe-in-decentralization-on-august-8-202.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "China adds 8 banks to digital yuan network as operator count hits 30",
       "summary": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
@@ -725,21 +780,6 @@
       "category": "监管",
       "slug": "20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk",
       "localUrl": "/news/20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The bitcoin price level where leveraged bulls could get whacked",
-      "summary": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-      "publishedAt": "2026-08-18T05:55:43.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "安全",
-      "slug": "20260818-the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-      "localUrl": "/news/20260818-the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked.html"
     },
     {
       "source": "Cointelegraph",
@@ -803,17 +843,15 @@
       "localUrl": "/news/20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-      "summary": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
-      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T01:28:37.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "监管",
-      "slug": "20260818-fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express",
-      "localUrl": "/news/20260818-fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express.html"
+      "source": "X Wire",
+      "title": "Jane Street Discloses Over $1 Billion in Bitcoin ETF Holdings, Led by BlackRock’s IBIT Quant trading giant Jane Street disclosed more than $1 billion in U.S. spot Bitcoin ETF holdings as of June 30, with roughly $828 million invested in BlackRock’s IBIT and th - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5\" target=\"_blank\">Jane Street Discloses Over $1 Bi…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5",
+      "publishedAt": "2026-08-18T02:35:41.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i",
+      "localUrl": "/news/20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i.html"
     },
     {
       "source": "Ethereum Blog",
@@ -853,19 +891,6 @@
       "category": "市场",
       "slug": "20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence",
       "localUrl": "/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OCC approves Trump family crypto company for trust charter",
-      "summary": "The US financial regulator gave conditional approval for World Liberty Financial’s charter bid as ten Democrats signed onto a bill to “prevent corruption in banking applications.“",
-      "url": "https://cointelegraph.com/news/occ-donald-trump-world-liberty-financial-trust-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T21:17:30.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260817-occ-approves-trump-family-crypto-company-for-trust-charter",
-      "localUrl": "/news/20260817-occ-approves-trump-family-crypto-company-for-trust-charter.html"
     },
     {
       "source": "Decrypt",
@@ -999,30 +1024,6 @@
       "category": "X热点",
       "slug": "20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-",
       "localUrl": "/news/20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
-      "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
-      "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-      "publishedAt": "2026-08-17T16:27:26.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say",
-      "localUrl": "/news/20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 TODAY: Hashdex’s Bitcoin ETF, DEFI, ends trading ahead of its closure and liquidation. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdC1SX0Fud1U3b05jSDRDYXhqRVU2a1hBLXZXUjdBbF9aNVpGVHVlWXFibWRqMjhLNzVvRzctNjQ3eUFmTTZ3SGxMUkZnU3pfSkJaN2hwejFHS3ZqcGI3S0NSVm4?oc=5\" target=\"_blank\">🚨 TODAY: Hashdex’s Bitcoin ETF…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdC1SX0Fud1U3b05jSDRDYXhqRVU2a1hBLXZXUjdBbF9aNVpGVHVlWXFibWRqMjhLNzVvRzctNjQ3eUFmTTZ3SGxMUkZnU3pfSkJaN2hwejFHS3ZqcGI3S0NSVm4?oc=5",
-      "publishedAt": "2026-08-17T15:01:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-today-hashdexs-bitcoin-etf-defi-ends-trading-ahead-of-its-closure-and-liquidatio",
-      "localUrl": "/news/20260817-today-hashdexs-bitcoin-etf-defi-ends-trading-ahead-of-its-closure-and-liquidatio.html"
     },
     {
       "source": "X Wire",
