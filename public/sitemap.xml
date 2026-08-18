@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T07:00:30.878Z</lastmod>
+    <lastmod>2026-08-18T07:49:49.869Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T07:00:30.878Z</lastmod>
+    <lastmod>2026-08-18T07:49:49.869Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,6 +57,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html</loc>
     <lastmod>2026-08-18T03:21:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou.html</loc>
+    <lastmod>2026-08-18T02:40:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html</loc>
     <lastmod>2026-08-17T03:24:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-chainalysis-sues-us-government-over-contract-award-to-trm-labs-chainalysis-gover.html</loc>
-    <lastmod>2026-08-17T02:29:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
