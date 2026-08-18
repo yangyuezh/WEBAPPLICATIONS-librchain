@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-18T19:36:10.970Z",
+  "updatedAt": "2026-08-18T20:36:28.506Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T20:21:26.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260818-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+      "summary": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
+      "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+      "publishedAt": "2026-08-18T20:00:25.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260818-sec-proposes-crypto-fundraising-exemptions-in-abrupt-about-face",
+      "localUrl": "/news/20260818-sec-proposes-crypto-fundraising-exemptions-in-abrupt-about-face.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
+      "summary": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads.",
+      "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T19:54:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260818-ripple-and-coinbase-funded-pac-spends-2m-in-florida-race-with-little-mention-of-",
+      "localUrl": "/news/20260818-ripple-and-coinbase-funded-pac-spends-2m-in-florida-race-with-little-mention-of-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
+      "summary": "The $33.3 million Winklevoss Capital deal expands Cypherpunk’s ZEC strategy as it targets 5% ownership of the cryptocurrency’s circulating supply.",
+      "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T19:31:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260818-cypherpunk-launches-zcash-mining-fleet-controlling-18-of-network-hashrate",
+      "localUrl": "/news/20260818-cypherpunk-launches-zcash-mining-fleet-controlling-18-of-network-hashrate.html"
+    },
     {
       "source": "Decrypt",
       "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
@@ -45,6 +97,17 @@
       "category": "监管",
       "slug": "20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move",
       "localUrl": "/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨NEW: The @SECGov has just formally proposed Regulation Crypto Assets, a new framework for crypto fundraising in the U.S. The proposal would: 📌Allow certain offerings of up to $5M over four years or $75M annually without SEC registration 📌Create a co - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkWl9xUUZZcGVNRGRmYWx4NXhPWmw3T1VyOHpzZjZSNmNsMzhNUE55cGlzckYzckdqbUM1dzZxS2RfeGZQM0RNNkVJTHYwSlh2RktuU1llVVowcjNwQTlVaWdFTVZnZw?oc=5\" target=\"_blank\">🚨NEW: The @SECGov has just …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkWl9xUUZZcGVNRGRmYWx4NXhPWmw3T1VyOHpzZjZSNmNsMzhNUE55cGlzckYzckdqbUM1dzZxS2RfeGZQM0RNNkVJTHYwSlh2RktuU1llVVowcjNwQTlVaWdFTVZnZw?oc=5",
+      "publishedAt": "2026-08-18T18:49:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-new-the-secgov-has-just-formally-proposed-regulation-crypto-assets-a-new-framewo",
+      "localUrl": "/news/20260818-new-the-secgov-has-just-formally-proposed-regulation-crypto-assets-a-new-framewo.html"
     },
     {
       "source": "Decrypt",
@@ -118,7 +181,7 @@
     {
       "source": "Cointelegraph",
       "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-      "summary": "Despite already serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
+      "summary": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
       "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-18T16:49:58.000Z",
       "keywords": [
@@ -159,6 +222,17 @@
       "localUrl": "/news/20260818-kraken-adds-us-stocks-in-europe-as-tradfi-crypto-divide-blurs.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇨🇳 Publicly traded Chinese company Zhibao Technology creates treasury Bitcoin reserve of 2,380 BTC 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sY0VkRmlfSTBFdjJwekhHUV9SZEowSndsZWd0bU1yNFBWa3M3MkM0a3FMeEQwdVF3SVJLRVJnQWppSklPdFJPOGpfaWpBTXNKc2NuME1lLS1GMFpZNmJ1NkwxNHdselU?oc=5\" target=\"_blank\">JUST IN: 🇨🇳 Publicly trad…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sY0VkRmlfSTBFdjJwekhHUV9SZEowSndsZWd0bU1yNFBWa3M3MkM0a3FMeEQwdVF3SVJLRVJnQWppSklPdFJPOGpfaWpBTXNKc2NuME1lLS1GMFpZNmJ1NkwxNHdselU?oc=5",
+      "publishedAt": "2026-08-18T16:07:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco",
+      "localUrl": "/news/20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
       "summary": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
@@ -183,6 +257,17 @@
       "category": "基础设施",
       "slug": "20260818-citi-to-launch-bitcoin-custody-as-wall-street-pushes-deeper-into-crypto",
       "localUrl": "/news/20260818-citi-to-launch-bitcoin-custody-as-wall-street-pushes-deeper-into-crypto.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Strong hands are buying bitcoin:native. Bottoms are formed when profit taking slows and conviction buyers step in. This setup looks similar to what we saw during 2022. The largest increase in BTC held by conviction buyers occurred when BTC dropped to $60 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OSGZaRXBKZERVeDBuNUFiVzFGbVNzaTlFWjh1cXhiMFhRdFRBenllTjZRbkh6N01hVzk4ZzJVbWhhb2RyYUY2Z2ZZNFNHeUtwdG5DcUloek4zRkdJTU84?oc=5\" target=\"_blank\">Strong hands are buying bitcoin:native…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OSGZaRXBKZERVeDBuNUFiVzFGbVNzaTlFWjh1cXhiMFhRdFRBenllTjZRbkh6N01hVzk4ZzJVbWhhb2RyYUY2Z2ZZNFNHeUtwdG5DcUloek4zRkdJTU84?oc=5",
+      "publishedAt": "2026-08-18T15:42:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-strong-hands-are-buying-bitcoinnative-bottoms-are-formed-when-profit-taking-slow",
+      "localUrl": "/news/20260818-strong-hands-are-buying-bitcoinnative-bottoms-are-formed-when-profit-taking-slow.html"
     },
     {
       "source": "Cointelegraph",
@@ -386,19 +471,6 @@
       "category": "综合",
       "slug": "20260818-moonpay-adds-cash-app-pay-for-crypto-purchases-by-us-customers",
       "localUrl": "/news/20260818-moonpay-adds-cash-app-pay-for-crypto-purchases-by-us-customers.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T12:53:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260818-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "Decrypt",
@@ -731,17 +803,6 @@
       "localUrl": "/news/20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou.html"
     },
     {
-      "source": "X Wire",
-      "title": "Jane Street Discloses Over $1 Billion in Bitcoin ETF Holdings, Led by BlackRock’s IBIT Quant trading giant Jane Street disclosed more than $1 billion in U.S. spot Bitcoin ETF holdings as of June 30, with roughly $828 million invested in BlackRock’s IBIT and th - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5\" target=\"_blank\">Jane Street Discloses Over $1 Bi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5",
-      "publishedAt": "2026-08-18T02:35:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i",
-      "localUrl": "/news/20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
       "summary": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
@@ -868,17 +929,6 @@
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Wall Street giant Jane Street dropped a bombshell SEC filing: They disclosed owning over $990 million in Bitcoin ETFs 🤯 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5\" target=\"_blank\">JUST IN: Wall Street giant …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5",
-      "publishedAt": "2026-08-17T19:37:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo",
-      "localUrl": "/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html"
-    },
-    {
       "source": "Decrypt",
       "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
       "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
@@ -890,19 +940,6 @@
       "category": "市场",
       "slug": "20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign",
       "localUrl": "/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance to plan UK relaunch with FCA license application: Report",
-      "summary": "Binance’s UK arm has been barred from offering regulated activities in the country since June 2021, but the company will reportedly move to secure licensing under new crypto rules.",
-      "url": "https://cointelegraph.com/news/binance-uk-launch-plans-fca-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T18:45:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260817-binance-to-plan-uk-relaunch-with-fca-license-application-report",
-      "localUrl": "/news/20260817-binance-to-plan-uk-relaunch-with-fca-license-application-report.html"
     },
     {
       "source": "Decrypt",
@@ -964,19 +1001,6 @@
       "localUrl": "/news/20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
-      "summary": "The regulatory review could shape an emerging market that lets companies and investors trade and hedge the cost of increasingly scarce AI computing power.",
-      "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T17:11:39.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun",
-      "localUrl": "/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
       "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
@@ -988,19 +1012,6 @@
       "category": "监管",
       "slug": "20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say",
       "localUrl": "/news/20260817-wall-street-pushback-halts-secs-crypto-fundraising-framework-sources-say.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-      "summary": "Stripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.",
-      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-      "publishedAt": "2026-08-17T15:54:29.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260817-what-stripes-7-billion-openrouter-deal-actually-means-for-ai",
-      "localUrl": "/news/20260817-what-stripes-7-billion-openrouter-deal-actually-means-for-ai.html"
     },
     {
       "source": "X Wire",
@@ -1034,17 +1045,6 @@
       "category": "X热点",
       "slug": "20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide",
       "localUrl": "/news/20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Great move upwards on #Bitcoin, and it might become interesting. These are the levels that I'm watching. ❌ - Resistance is this area at $63,800 for #Bitcoin, which I'd like to see break upwards. I don't think we'll do that immediately, but markets are looking better - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5\" target=\"_blank\">Great move upwards on #Bitcoin, …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WkpoV3hYdUwtRTdzbmIzN2lMYzZPMHowb2tqMHpHcDRfT0FXeTBQS1YzRDRXYmduNTc1OWtETXJ1dzYwNEtiQ3JEVy12eEU2RW8ySWY0MHJZeThfWC1VbFZxYw?oc=5",
-      "publishedAt": "2026-08-17T07:31:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-great-move-upwards-on-bitcoin-and-it-might-become-interesting-these-are-the-leve",
-      "localUrl": "/news/20260817-great-move-upwards-on-bitcoin-and-it-might-become-interesting-these-are-the-leve.html"
     },
     {
       "source": "X Wire",
