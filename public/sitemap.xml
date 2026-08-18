@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T03:56:05.441Z</lastmod>
+    <lastmod>2026-08-18T04:47:54.806Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T03:56:05.441Z</lastmod>
+    <lastmod>2026-08-18T04:47:54.806Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bitcoin-climbs-above-64000-while-most-majors-slip.html</loc>
+    <lastmod>2026-08-18T04:32:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html</loc>
+    <lastmod>2026-08-18T04:11:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html</loc>
@@ -55,6 +67,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-im-not-sure-why-bitcoin-didnt-sell-off-today-but-the-rally-gives-hodlers-another.html</loc>
+    <lastmod>2026-08-17T20:53:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html</loc>
     <lastmod>2026-08-17T20:31:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -63,6 +81,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html</loc>
     <lastmod>2026-08-17T19:59:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10.html</loc>
+    <lastmod>2026-08-17T19:53:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou.html</loc>
-    <lastmod>2026-08-17T05:51:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th.html</loc>
     <lastmod>2026-08-17T04:58:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,26 +439,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html</loc>
-    <lastmod>2026-08-16T23:03:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</loc>
     <lastmod>2026-08-16T19:47:54.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po.html</loc>
-    <lastmod>2026-08-16T18:32:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html</loc>
-    <lastmod>2026-08-16T17:05:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -487,14 +487,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade.html</loc>
-    <lastmod>2026-08-16T11:12:51.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html</loc>
+    <lastmod>2026-08-16T05:07:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html</loc>
-    <lastmod>2026-08-16T05:07:48.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html</loc>
+    <lastmod>2026-08-15T18:30:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

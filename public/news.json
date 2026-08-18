@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-08-18T03:56:05.400Z",
+  "updatedAt": "2026-08-18T04:47:54.753Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "summary": "Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "publishedAt": "2026-08-18T04:32:38.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260818-bitcoin-climbs-above-64000-while-most-majors-slip",
+      "localUrl": "/news/20260818-bitcoin-climbs-above-64000-while-most-majors-slip.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "summary": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
+      "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T04:11:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments",
+      "localUrl": "/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
@@ -98,6 +125,17 @@
       "localUrl": "/news/20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september.html"
     },
     {
+      "source": "X Wire",
+      "title": "I'm not sure why Bitcoin didn't sell off today, but the rally gives HODLers another opportunity to sell. Any ideas what's propping it up? Remember, $65K is resistance. There isn't much upside above that level, but plenty of downside below. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoY3VWbzhqdngtb2VjMnFrOGpFMFpNeUpoVExMZGdfamdPREpvMktpWHIybHllRGtSQ3dYemc1aTAzNGxlNlhILXQxejBMSzZJZmc4SDIzVDhmeDRiZlgydHBB?oc=5\" target=\"_blank\">I'm not sure why Bitcoin didn't se…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoY3VWbzhqdngtb2VjMnFrOGpFMFpNeUpoVExMZGdfamdPREpvMktpWHIybHllRGtSQ3dYemc1aTAzNGxlNlhILXQxejBMSzZJZmc4SDIzVDhmeDRiZlgydHBB?oc=5",
+      "publishedAt": "2026-08-17T20:53:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-im-not-sure-why-bitcoin-didnt-sell-off-today-but-the-rally-gives-hodlers-another",
+      "localUrl": "/news/20260817-im-not-sure-why-bitcoin-didnt-sell-off-today-but-the-rally-gives-hodlers-another.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
       "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
@@ -122,6 +160,17 @@
       "category": "安全",
       "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Saylor: MSTR Investors Should Hold for at Least Four Years, Preferably Seven to 10, and Be Prepared for Difficult Years Strategy Executive Chairman Michael Saylor said MSTR investors should have at least a four-year time horizon, with seven to 10 years pre - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yY2p2UkpPLWl2d0RTSC1hbWZUNldWTTRuSEJ6cHE1OTVud2JCbnZTcnNPT09TeUs4aUtEQWExSTB2Si1CM1FxQUd3UlV6RlNwLU5MN2FpblkxSDdXank0TS13OA?oc=5\" target=\"_blank\">Saylor: MSTR Investors Should Ho…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yY2p2UkpPLWl2d0RTSC1hbWZUNldWTTRuSEJ6cHE1OTVud2JCbnZTcnNPT09TeUs4aUtEQWExSTB2Si1CM1FxQUd3UlV6RlNwLU5MN2FpblkxSDdXank0TS13OA?oc=5",
+      "publishedAt": "2026-08-17T19:53:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10",
+      "localUrl": "/news/20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10.html"
     },
     {
       "source": "Decrypt",
@@ -793,21 +842,6 @@
       "localUrl": "/news/20260817-greenlanes-70m-bera-treasury-ends-q2-valued-at-16m.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
-      "summary": "The market may be facing a dangerous liquidity mismatch as futures open interest outpaces trading volume by a significant margin.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
-      "publishedAt": "2026-08-17T05:51:18.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou",
-      "localUrl": "/news/20260817-the-bitcoin-futures-market-looks-like-a-crowded-club-with-a-tiny-exit-and-it-cou.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 THE WHITE HOUSE IS HOSTING THE BIGGEST CRYPTO MEETING IN HISTORY THIS WEEK! In the room: President Trump, SEC Chair Atkins, CFTC Chair Selig, Coinbase, Ripple, Gemini, Polymarket, Kalshi, Nasdaq, NYSE, CME and DTCC. The real st - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TnUwYWVoZmxUZERwbDBUQUlMS2VFUk94ZUJoMmU0U3VyMHQwUzVuNFYzWk4zZFBNaW1rRDRmQ1M1b3lib1RNLXZFdmRHODU3WE80bmVTOTE0Q2RBV2Q3NGRn?oc=5\" target=\"_blank\">🇺🇸 THE WHITE HOUSE IS HOSTING TH…",
@@ -914,17 +948,6 @@
     },
     {
       "source": "X Wire",
-      "title": "White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman Selig, & executives from across crypto industry including Coinbase, Polymarket, Ripple, Gemini, etc. Also expected to i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5\" target=\"_blank\">White House hosting major crypto mee…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5",
-      "publishedAt": "2026-08-16T23:03:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres",
-      "localUrl": "/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Right place, right time: many neoclouds spent years mining crypto, then AI showed up and turned their power rights, data centers, and GPUs into some of the hottest assets in tech. 25 quarters in, CoreWeave is pulling in more quarterly revenue than Azure, AW - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5\" target=\"_blank\">Right place, right time: many neoclouds spent y…",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5",
@@ -933,28 +956,6 @@
       "category": "X热点",
       "slug": "20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u",
       "localUrl": "/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Did whales go long at the top of the local bitcoin:native range? Whale net long positioning on Hyperliquid peaked right into resistance. Spot and flow data still show no matching demand. Read our latest weekly article \"Trigger Happy\" for analyses like this👇 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5\" target=\"_blank\">Did whales go long at the top of the l…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tS2ptTGtJMHJjYUdXbXZQYy11cUJfd1JrcGgyTTUtMlpKN0hmYnRzdmgzLUt0cFgyY016N2lwa09xV3ptbzkwV05ta09oRldpS1NXNUtZYTc5Qm1nYVBz?oc=5",
-      "publishedAt": "2026-08-16T18:32:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po",
-      "localUrl": "/news/20260816-did-whales-go-long-at-the-top-of-the-local-bitcoinnative-range-whale-net-long-po.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo Vitalik Buterin said the Bitcoin community deserves credit for work on technologies such as Utreexo, adding that Ethereum’s current scaling proposals are exploring similar ideas. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRklIMjhHQzkyY1h5STlPUU9XbGo3TVNyTkY4bXlaQ0NfczRWYzJGSEZQdW1RTUVENTZ6LU1PbWZKQWFKZzJOUGZKcUZXQnYzMlVEMXlfenFNdDA5c2tib2Z0NA?oc=5\" target=\"_blank\">Vitalik Buterin Says Ethereum Sc…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRklIMjhHQzkyY1h5STlPUU9XbGo3TVNyTkY4bXlaQ0NfczRWYzJGSEZQdW1RTUVENTZ6LU1PbWZKQWFKZzJOUGZKcUZXQnYzMlVEMXlfenFNdDA5c2tib2Z0NA?oc=5",
-      "publishedAt": "2026-08-16T17:05:11.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit",
-      "localUrl": "/news/20260816-vitalik-buterin-says-ethereum-scaling-can-draw-lessons-from-bitcoins-utreexo-vit.html"
     },
     {
       "source": "X Wire",
@@ -1040,19 +1041,6 @@
       "localUrl": "/news/20260816-defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-      "summary": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
-      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-16T11:12:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade",
-      "localUrl": "/news/20260816-ethereum-devs-to-narrow-66-proposals-tied-to-hegota-upgrade.html"
-    },
-    {
       "source": "X Wire",
       "title": "Ethereum's next year's upgrade, Hegotá, is being scoped right now. 66 proposals are on the table and over the next few core dev calls, this list will be narrowed down to the EIPs that get implementations, devnets, testnets, and a realistic chance of shipping in 2 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5\" target=\"_blank\">Ethereum's next year's upgrade, Hegotá,…",
@@ -1062,6 +1050,17 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 NEW: Bitcoin has never been below Fire Sale for this long. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5\" target=\"_blank\">🚨 NEW: Bitcoin has never been …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5",
+      "publishedAt": "2026-08-15T18:30:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom",
+      "localUrl": "/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html"
     },
     {
       "source": "X Wire",
