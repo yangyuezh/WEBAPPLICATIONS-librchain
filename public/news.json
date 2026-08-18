@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-18T15:43:19.109Z",
+  "updatedAt": "2026-08-18T16:45:41.976Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
+      "summary": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
+      "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T16:21:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260818-metaplanet-expands-bitcoin-treasury-strategy-to-us-with-2100-btc-nasdaq-play",
+      "localUrl": "/news/20260818-metaplanet-expands-bitcoin-treasury-strategy-to-us-with-2100-btc-nasdaq-play.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+      "summary": "The exchange said it is the first crypto company to offer European customers both traditional U.S. equities and tokenized versions of those assets on a single regulated platform.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+      "publishedAt": "2026-08-18T16:08:46.000Z",
+      "keywords": [
+        "Markets",
+        "Markets",
+        "Cryptocurrency",
+        "Tokenization",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260818-kraken-adds-us-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+      "localUrl": "/news/20260818-kraken-adds-us-stocks-in-europe-as-tradfi-crypto-divide-blurs.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+      "summary": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
+      "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T15:59:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-neuberger-teams-with-securitize-on-multi-chain-tokenized-fixed-income-fund-launc",
+      "localUrl": "/news/20260818-neuberger-teams-with-securitize-on-multi-chain-tokenized-fixed-income-fund-launc.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+      "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
+      "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+      "publishedAt": "2026-08-18T15:56:05.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-citi-to-launch-bitcoin-custody-as-wall-street-pushes-deeper-into-crypto",
+      "localUrl": "/news/20260818-citi-to-launch-bitcoin-custody-as-wall-street-pushes-deeper-into-crypto.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
@@ -147,6 +203,17 @@
       "category": "基础设施",
       "slug": "20260818-citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
       "localUrl": "/news/20260818-citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $15 trillion BlackRock reports they're still bullish on Bitcoin despite the -50% decline from its all time high 👀 \"bitcoin’s core investment case as an important emerging global monetary alternative and unique portfolio diversifier remains unchanged.\" 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HdWlHcU0tWGJzMm9rcHdjZWs1eDZQQTl4ZUE2T1VBUG5VcEZMS3Y3UmdKcUtxYkJyLWVIa21qTW1xRk13dzFaVTJqMm9zcUdhQUliQW1WY0hCUW1Fa19jMFdBQl9zNTQ?oc=5\" target=\"_blank\">JUST IN: $15 trillion Black…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HdWlHcU0tWGJzMm9rcHdjZWs1eDZQQTl4ZUE2T1VBUG5VcEZMS3Y3UmdKcUtxYkJyLWVIa21qTW1xRk13dzFaVTJqMm9zcUdhQUliQW1WY0hCUW1Fa19jMFdBQl9zNTQ?oc=5",
+      "publishedAt": "2026-08-18T13:23:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th",
+      "localUrl": "/news/20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th.html"
     },
     {
       "source": "CoinDesk",
@@ -518,6 +585,17 @@
       "localUrl": "/news/20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Ethereum Foundation launches the Platåberget testnet, opening early public testing for the Glamsterdam upgrade ahead of its Aug. 20 fork. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum Foundation …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5",
+      "publishedAt": "2026-08-18T05:00:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
+      "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin climbs above $64,000 while most majors slip",
       "summary": "Miners have cut their computing power by a fifth over three quarters to make room for AI, and Venice's token jumped 10% after the company said it crossed $100 million in annualised revenue.",
@@ -632,23 +710,6 @@
       "localUrl": "/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "summary": "Payward will use Anthropic’s cybersecurity model to hunt vulnerabilities and share open-source findings.",
-      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "publishedAt": "2026-08-17T22:12:00.000Z",
-      "keywords": [
-        "Tech",
-        "Payward",
-        "Kraken",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260817-kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push",
-      "localUrl": "/news/20260817-kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "OCC approves Trump family crypto company for trust charter",
       "summary": "The US financial regulator gave conditional approval for World Liberty Financial’s charter bid as ten Democrats signed onto a bill to “prevent corruption in banking applications.“",
@@ -673,6 +734,17 @@
       "category": "市场",
       "slug": "20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september",
       "localUrl": "/news/20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🔥 BULLISH: Jane Street added $630M in Bitcoin ETFs in Q2, lifting holdings to $1.06B after cutting them 71% the prior quarter. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tRVgtWU45YzZvb2Qwdk01SVE3OW5FdW9lRzZVQ2Fzb1Y3VlJVUWZ4TVFFc3hvS0dmeGNBWmlpTkNDcHg0YV9BWmR6OG5mYXpzLWN3ekFrenV2b2pISXFiXzd0aE4?oc=5\" target=\"_blank\">🔥 BULLISH: Jane Street added $…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tRVgtWU45YzZvb2Qwdk01SVE3OW5FdW9lRzZVQ2Fzb1Y3VlJVUWZ4TVFFc3hvS0dmeGNBWmlpTkNDcHg0YV9BWmR6OG5mYXpzLWN3ekFrenV2b2pISXFiXzd0aE4?oc=5",
+      "publishedAt": "2026-08-17T21:00:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af",
+      "localUrl": "/news/20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af.html"
     },
     {
       "source": "X Wire",
@@ -710,17 +782,6 @@
       "category": "安全",
       "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Wall Street giant Jane Street dropped a bombshell SEC filing: They disclosed owning over $990 million in Bitcoin ETFs 🤯 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5\" target=\"_blank\">JUST IN: Wall Street giant …",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5",
-      "publishedAt": "2026-08-17T19:37:27.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo",
-      "localUrl": "/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html"
     },
     {
       "source": "Decrypt",
@@ -776,6 +837,17 @@
     },
     {
       "source": "X Wire",
+      "title": "Your agent works the night shift now. Agentic Trading for crypto is rolling out now to eligible users. Connect your agent through the Robinhood MCP server to trade crypto alongside equities and options from a dedicated Agentic Account—using only the funds y - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnaWt4bXRtQ2w3X1dYeG9aLUJYZ29HUHNlaUZWR1dkOTd1eURjV0NlRnRjTmpETnFTTmxHOEVhbTRmWDlQUEEwdHNRNzNBazQxLU5Gd2dHY1ZCSFNJX2hDRVczSQ?oc=5\" target=\"_blank\">Your agent works the night shift…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnaWt4bXRtQ2w3X1dYeG9aLUJYZ29HUHNlaUZWR1dkOTd1eURjV0NlRnRjTmpETnFTTmxHOEVhbTRmWDlQUEEwdHNRNzNBazQxLU5Gd2dHY1ZCSFNJX2hDRVczSQ?oc=5",
+      "publishedAt": "2026-08-17T18:15:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-your-agent-works-the-night-shift-now-agentic-trading-for-crypto-is-rolling-out-n",
+      "localUrl": "/news/20260817-your-agent-works-the-night-shift-now-agentic-trading-for-crypto-is-rolling-out-n.html"
+    },
+    {
+      "source": "X Wire",
       "title": "NEW: 🇺🇸 Harvard University reports owning $101.3M in BlackRocks Bitcoin ETF 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNXNSVC1oTkZza25YaVQwcjdqRUlrMWppZzZ4Zmdoa0loZS1JbDlleDlNX2pNSUNKTDZHZ1R6VHBvX0VzSHJNVy05ay1xZG00SVFweHVDZkxwNVlZT1N4aks5enR0R2M?oc=5\" target=\"_blank\">NEW: 🇺🇸 Harvard Universit…",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNXNSVC1oTkZza25YaVQwcjdqRUlrMWppZzZ4Zmdoa0loZS1JbDlleDlNX2pNSUNKTDZHZ1R6VHBvX0VzSHJNVy05ay1xZG00SVFweHVDZkxwNVlZT1N4aks5enR0R2M?oc=5",
@@ -808,17 +880,6 @@
       "category": "监管",
       "slug": "20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun",
       "localUrl": "/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "People think Hyperliquid is a crypto app. And people thought Amazon was a book store. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZUlVTTQ4c1cwOHlRODZMUUtHSTZiMmE4RDRjR0N1UjhTeFk5YVVHeUQ5TzBpSDg3Vy10Ti1Pb24xLXdZNFIwYjhyU184YWpsakhTVEhiQXAybkFJcjJoZzRn?oc=5\" target=\"_blank\">People think Hyperliquid is a cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZUlVTTQ4c1cwOHlRODZMUUtHSTZiMmE4RDRjR0N1UjhTeFk5YVVHeUQ5TzBpSDg3Vy10Ti1Pb24xLXdZNFIwYjhyU184YWpsakhTVEhiQXAybkFJcjJoZzRn?oc=5",
-      "publishedAt": "2026-08-17T16:43:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-people-think-hyperliquid-is-a-crypto-app-and-people-thought-amazon-was-a-book-st",
-      "localUrl": "/news/20260817-people-think-hyperliquid-is-a-crypto-app-and-people-thought-amazon-was-a-book-st.html"
     },
     {
       "source": "Cointelegraph",
@@ -858,19 +919,6 @@
       "category": "市场",
       "slug": "20260817-bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat",
       "localUrl": "/news/20260817-bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
-      "summary": "Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto through the downturn, while more than 5 million staked ETH is projected to generate $287 million in annual rewards.",
-      "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T16:04:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260817-bitmine-nears-5-of-ethereum-supply-despite-84b-in-unrealized-losses",
-      "localUrl": "/news/20260817-bitmine-nears-5-of-ethereum-supply-despite-84b-in-unrealized-losses.html"
     },
     {
       "source": "Decrypt",
@@ -949,32 +997,6 @@
       "localUrl": "/news/20260817-strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-      "summary": "Proceeds funded STRC dividends and repurchases, while $149.1 million was added to Strategy’s US dollar reserve, which reached $4.8 billion.",
-      "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T12:51:03.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260817-strategy-raises-334m-through-stock-sales-but-buys-no-bitcoin",
-      "localUrl": "/news/20260817-strategy-raises-334m-through-stock-sales-but-buys-no-bitcoin.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
-      "summary": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
-      "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
-      "publishedAt": "2026-08-17T12:31:04.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "综合",
-      "slug": "20260817-pirated-copies-of-the-odyssey-are-hiding-crypto-stealing-malware",
-      "localUrl": "/news/20260817-pirated-copies-of-the-odyssey-are-hiding-crypto-stealing-malware.html"
-    },
-    {
       "source": "X Wire",
       "title": "$MSTR - STRATEGY SELLS $334M STOCK, BUYS NO BITCOIN Strategy sold 3.46M shares, raising $333.7M through its ATM program last week. The company made no Bitcoin purchases, keeping holdings unchanged at 840,447 BTC, acquired for $63.36B - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS $334M STOCK, BUY…",
@@ -984,17 +1006,6 @@
       "category": "X热点",
       "slug": "20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising",
       "localUrl": "/news/20260817-mstr-strategy-sells-334m-stock-buys-no-bitcoin-strategy-sold-346m-shares-raising.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 LATEST: Paul Tudor Jones’ firm boosted its BlackRock Bitcoin ETF stake by 18.9% to $22.9M. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5\" target=\"_blank\">🔥 LATEST: Paul Tudor Jones’ fi…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xaWd1YndzTW9xcmI5bTA1VkdWbjkzNEdLcEU4THEzMExCSVJ5MEExWnlCbVFIVFNSQVYxTEFEQVZrd056YTlLRnNndF9ncGdpcGxTZnZkOWJzXzhWeThreDFnLVA?oc=5",
-      "publishedAt": "2026-08-17T11:41:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2",
-      "localUrl": "/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html"
     },
     {
       "source": "X Wire",
@@ -1063,17 +1074,6 @@
       "category": "X热点",
       "slug": "20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u",
       "localUrl": "/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin 👀 “The mission is simple: take this thing to the moon. 🚀” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5",
-      "publishedAt": "2026-08-16T15:04:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si",
-      "localUrl": "/news/20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si.html"
     },
     {
       "source": "X Wire",
