@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-08-18T13:04:30.754Z",
+  "updatedAt": "2026-08-18T13:54:19.985Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
+      "summary": "Retail investors can apply to buy the 1 billion yen bond without a securities account and receive perks through Toyota’s payment app.",
+      "url": "https://cointelegraph.com/news/toyota-finance-tokenized-bond-offering-mobile-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T13:41:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-toyota-finance-opens-tokenized-bonds-to-retail-investors-via-mobile-payment-app",
+      "localUrl": "/news/20260818-toyota-finance-opens-tokenized-bonds-to-retail-investors-via-mobile-payment-app.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
+      "summary": "The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.",
+      "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
+      "publishedAt": "2026-08-18T13:25:13.000Z",
+      "keywords": [
+        "Markets",
+        "Custody",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260818-citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
+      "localUrl": "/news/20260818-citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto’s easy-money era is ending in a wave of failures",
+      "summary": "Inflated valuations and weak business models are driving crypto’s shakeout, Global Settlement Network CEO Ryan Kirkley says.",
+      "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
+      "publishedAt": "2026-08-18T13:22:40.000Z",
+      "keywords": [
+        "Finance",
+        "Fundraising",
+        "Stablecoins",
+        "Institutional Adoption",
+        "Exclusive",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260818-cryptos-easy-money-era-is-ending-in-a-wave-of-failures",
+      "localUrl": "/news/20260818-cryptos-easy-money-era-is-ending-in-a-wave-of-failures.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
@@ -55,6 +101,28 @@
       "category": "基础设施",
       "slug": "20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
       "localUrl": "/news/20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Since April, a small team inside Metaplanet has been working on something we could not talk about. Today it is public. Metaplanet is taking a controlling stake in Super League Enterprise (Nasdaq: SLE). At closing it will be renamed Superplanet, our U.S. Bitcoi - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNy15RTM2M1BFa2RqcWVCYkR2d052TDluVFhDaDkxQkp1a2ozeDhacDBNRlJYQ2x1ZTZZSVduaWhYZHZRNUktdnY3UE51OG5sNHVCc1gwV1RtamdwVWc?oc=5\" target=\"_blank\">Since April, a small team inside Metapl…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNy15RTM2M1BFa2RqcWVCYkR2d052TDluVFhDaDkxQkp1a2ozeDhacDBNRlJYQ2x1ZTZZSVduaWhYZHZRNUktdnY3UE51OG5sNHVCc1gwV1RtamdwVWc?oc=5",
+      "publishedAt": "2026-08-18T12:32:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-since-april-a-small-team-inside-metaplanet-has-been-working-on-something-we-coul",
+      "localUrl": "/news/20260818-since-april-a-small-team-inside-metaplanet-has-been-working-on-something-we-coul.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "*Metaplanet to Invest 2,100 Bitcoin in Super League to Launch U.S. Bitcoin Treasury Platform, Superplanet* - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE02R2Y0c0ZQbHBkamFxQ2txNkIyQjhkYW0tWVh1TkVFdFBDRDh5WTFxYjhyTnBaQ1NPMDVKZ0hSMTdjbGJPcXZSTTFLRElCd040U1ZSTFA2RzlwdmROazdueg?oc=5\" target=\"_blank\">*Metaplanet to Invest 2,100 Bitcoin …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02R2Y0c0ZQbHBkamFxQ2txNkIyQjhkYW0tWVh1TkVFdFBDRDh5WTFxYjhyTnBaQ1NPMDVKZ0hSMTdjbGJPcXZSTTFLRElCd040U1ZSTFA2RzlwdmROazdueg?oc=5",
+      "publishedAt": "2026-08-18T12:31:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-",
+      "localUrl": "/news/20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-.html"
     },
     {
       "source": "CoinDesk",
@@ -198,6 +266,17 @@
       "category": "监管",
       "slug": "20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria",
       "localUrl": "/news/20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "HTX Users Suspected of Sending Mass Small “Poisoning” Transfers to Exchange Addresses; Some Accounts Reportedly Frozen HTX said it is investigating reports that some addresses received small transfers appearing to originate from HTX. The exchange s - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dFJZSlhRSWZsdWdQdEtwWXhYMl9PZUlucE1UNjJsU19RSHNKNlFwVkdmeWozUkE2Slh2R2dOdGRQUmhLb0dtOG95QXc1dGFDTTNza3VrS0RIYkJOUkxKVUVhUQ?oc=5\" target=\"_blank\">HTX Users Suspected of Sending M…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dFJZSlhRSWZsdWdQdEtwWXhYMl9PZUlucE1UNjJsU19RSHNKNlFwVkdmeWozUkE2Slh2R2dOdGRQUmhLb0dtOG95QXc1dGFDTTNza3VrS0RIYkJOUkxKVUVhUQ?oc=5",
+      "publishedAt": "2026-08-18T09:22:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-htx-users-suspected-of-sending-mass-small-poisoning-transfers-to-exchange-addres",
+      "localUrl": "/news/20260818-htx-users-suspected-of-sending-mass-small-poisoning-transfers-to-exchange-addres.html"
     },
     {
       "source": "Cointelegraph",
@@ -515,6 +594,17 @@
       "localUrl": "/news/20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: Wall Street giant Jane Street dropped a bombshell SEC filing: They disclosed owning over $990 million in Bitcoin ETFs 🤯 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5\" target=\"_blank\">JUST IN: Wall Street giant …",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0a2xiTnljRno0N3FJeHNVeHhZdzJBX2JwXzd2Yk9qTjk1RU40OEtVc2p3WldaOGlzXzNnNDJ6OUphQ3pycnhHOTBtV2RaYVA0Vktfc2V5ZVZLOGVybW04SnJZaWh2YTg?oc=5",
+      "publishedAt": "2026-08-17T19:37:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo",
+      "localUrl": "/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html"
+    },
+    {
       "source": "Decrypt",
       "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
       "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
@@ -615,17 +705,6 @@
       "category": "监管",
       "slug": "20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun",
       "localUrl": "/news/20260817-cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "People think Hyperliquid is a crypto app. And people thought Amazon was a book store. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZUlVTTQ4c1cwOHlRODZMUUtHSTZiMmE4RDRjR0N1UjhTeFk5YVVHeUQ5TzBpSDg3Vy10Ti1Pb24xLXdZNFIwYjhyU184YWpsakhTVEhiQXAybkFJcjJoZzRn?oc=5\" target=\"_blank\">People think Hyperliquid is a cryp…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RZUlVTTQ4c1cwOHlRODZMUUtHSTZiMmE4RDRjR0N1UjhTeFk5YVVHeUQ5TzBpSDg3Vy10Ti1Pb24xLXdZNFIwYjhyU184YWpsakhTVEhiQXAybkFJcjJoZzRn?oc=5",
-      "publishedAt": "2026-08-17T16:43:21.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-people-think-hyperliquid-is-a-crypto-app-and-people-thought-amazon-was-a-book-st",
-      "localUrl": "/news/20260817-people-think-hyperliquid-is-a-crypto-app-and-people-thought-amazon-was-a-book-st.html"
     },
     {
       "source": "CoinDesk",
@@ -780,46 +859,6 @@
       "localUrl": "/news/20260817-the-coldcard-hack-proves-reputation-is-not-a-security-model.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
-      "summary": "The crypto treasury company bought another 9,926 ETH last week, extending a buying streak that began in June 2025.",
-      "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-      "publishedAt": "2026-08-17T14:04:21.000Z",
-      "keywords": [
-        "Markets",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-tom-lees-bitmine-now-owns-48-of-ethereum-supply-after-latest-eth-purchase",
-      "localUrl": "/news/20260817-tom-lees-bitmine-now-owns-48-of-ethereum-supply-after-latest-eth-purchase.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How a bug in Coldcard’s code went unnoticed for years, leading to $100 million in hacked funds",
-      "summary": "Crypto’s favorite maxim, “don’t trust, verify” wasn’t followed in the case of Coldcard’s code.",
-      "url": "https://www.coindesk.com/tech/2026/08/17/how-a-bug-in-coldcard-s-code-went-unnoticed-for-years-leading-to-usd100-million-in-hacked-funds",
-      "publishedAt": "2026-08-17T13:57:11.000Z",
-      "keywords": [
-        "Tech",
-        "Feature"
-      ],
-      "category": "安全",
-      "slug": "20260817-how-a-bug-in-coldcards-code-went-unnoticed-for-years-leading-to-100-million-in-h",
-      "localUrl": "/news/20260817-how-a-bug-in-coldcards-code-went-unnoticed-for-years-leading-to-100-million-in-h.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Binance Plans UK Return With FCA Crypto License Application Under New Regime According to The Telegraph, Binance plans to apply for authorization from the UK Financial Conduct Authority under the country’s new crypto regulatory regime, seeking to ret - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qelJXMnB3R19KZ085MGJMcWxkUFRVcG1mdTFfa1EzblR5X0p6d2xmaXhOUHd6SVRZMXlwaDludklWdUV1ZjNyMGE5SHlCcnFWdnRyLVgtNHB2ZDBKOTJpbzhHRQ?oc=5\" target=\"_blank\">Binance Plans UK Return With FCA…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qelJXMnB3R19KZ085MGJMcWxkUFRVcG1mdTFfa1EzblR5X0p6d2xmaXhOUHd6SVRZMXlwaDludklWdUV1ZjNyMGE5SHlCcnFWdnRyLVgtNHB2ZDBKOTJpbzhHRQ?oc=5",
-      "publishedAt": "2026-08-17T13:54:39.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-binance-plans-uk-return-with-fca-crypto-license-application-under-new-regime-acc",
-      "localUrl": "/news/20260817-binance-plans-uk-return-with-fca-crypto-license-application-under-new-regime-acc.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
       "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
@@ -899,6 +938,17 @@
     },
     {
       "source": "X Wire",
+      "title": "BREAKING: Michael Saylor's Strategy has not bought Bitcoin for 8 consecutive weeks. The company sold 3.46 million shares last week and raised $333.7 million. None of it went into Bitcoin. The money funded preferred dividends, a $132.2 million repurchase - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0dlNUSDdYVWxVNGtpOFBDYzZiSTBVTmp4b2x5ZG5jTWJabF8yNXFuS1U1OU92US0wMEdfbkx1OTYzQkRwNjlPbTNmNWt2X24zeFRrelZKZ2pfNU5LNEo1MS1MQQ?oc=5\" target=\"_blank\">BREAKING: Michael Saylor's Strat…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0dlNUSDdYVWxVNGtpOFBDYzZiSTBVTmp4b2x5ZG5jTWJabF8yNXFuS1U1OU92US0wMEdfbkx1OTYzQkRwNjlPbTNmNWt2X24zeFRrelZKZ2pfNU5LNEo1MS1MQQ?oc=5",
+      "publishedAt": "2026-08-17T12:16:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-breaking-michael-saylors-strategy-has-not-bought-bitcoin-for-8-consecutive-weeks",
+      "localUrl": "/news/20260817-breaking-michael-saylors-strategy-has-not-bought-bitcoin-for-8-consecutive-weeks.html"
+    },
+    {
+      "source": "X Wire",
       "title": "$MSTR - STRATEGY SELLS $334M STOCK, BUYS NO BITCOIN Strategy sold 3.46M shares, raising $333.7M through its ATM program last week. The company made no Bitcoin purchases, keeping holdings unchanged at 840,447 BTC, acquired for $63.36B - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5\" target=\"_blank\">$MSTR - STRATEGY SELLS $334M STOCK, BUY…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oWlptSzJmRkNDcWlzSWNEYmdZNXpqU29wS1dPa1BLOVltak5mbDgwb2p6Qi15R2tBR1hDRy1zOU5mZ2pVYWNnWUs3RWNUelNWdExuRFFZb1ozUWFienc?oc=5",
@@ -918,19 +968,6 @@
       "category": "X热点",
       "slug": "20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2",
       "localUrl": "/news/20260817-latest-paul-tudor-jones-firm-boosted-its-blackrock-bitcoin-etf-stake-by-189-to-2.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTC price loses 200-week trend line as 2022 repeats: Five things to know in Bitcoin this week",
-      "summary": "Bitcoin confirmed a weekly candle close below its 200-week moving average, copying the 2022 bear-market as traders warn of further BTC price downside next.",
-      "url": "https://cointelegraph.com/markets/btc-price-loses-200-week-trend-line-as-2022-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T11:38:52.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260817-btc-price-loses-200-week-trend-line-as-2022-repeats-five-things-to-know-in-bitco",
-      "localUrl": "/news/20260817-btc-price-loses-200-week-trend-line-as-2022-repeats-five-things-to-know-in-bitco.html"
     },
     {
       "source": "Decrypt",
@@ -1039,28 +1076,6 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin is the only game in the casino where we can all win. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdHlMMlRlaC1sbHk1T2FVNVEzbmVRSjZCX3RsZlktZGE5WTlReFl3al9iejRkVjVXenhKY080R2NtNmEwZzhsaGJpRXpyai1iR1FTaFg5MllPZ2M?oc=5\" target=\"_blank\">Bitcoin is the only game in the casino wher…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdHlMMlRlaC1sbHk1T2FVNVEzbmVRSjZCX3RsZlktZGE5WTlReFl3al9iejRkVjVXenhKY080R2NtNmEwZzhsaGJpRXpyai1iR1FTaFg5MllPZ2M?oc=5",
-      "publishedAt": "2026-08-16T16:20:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-bitcoin-is-the-only-game-in-the-casino-where-we-can-all-win-xcom",
-      "localUrl": "/news/20260816-bitcoin-is-the-only-game-in-the-casino-where-we-can-all-win-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 Public company Strive CEO hints at buying more Bitcoin 👀 “The mission is simple: take this thing to the moon. 🚀” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 Public compan…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMWtUNzJfU1NibHY0TUpQQ1hneDE3SUxXcUNicklRMUw4SEJfb3BwT1BabTdQSWJyMW9VTUs1R0FzZlV2UkZNUGN4b2NGUzYzRTdkcWVEbDdBaV8wRTJQUlp5eVhYQzQ?oc=5",
-      "publishedAt": "2026-08-16T15:04:14.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si",
-      "localUrl": "/news/20260816-just-in-public-company-strive-ceo-hints-at-buying-more-bitcoin-the-mission-is-si.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Bitcoiners deserve a lot of credit for pioneering many of these ideas (see Utreexo). But yes, this is what the current proposed Ethereum scaling strategy looks like in action. We want Ethereum to have the best of UTXO-style state, dynamic state, and everything i - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MU244NlIwSjd2NUpsZXhZdzBNT1duWVlhQlNhNXhnU0JYTFFaOC1zYndEQ09nRmF6N1F6akpFSVVmbkJISDRZSkppSlVSa0dRa2NhcVl4QXVhVkZfVnpWaG1rNXFtUQ?oc=5\" target=\"_blank\">Bitcoiners deserve a lot of …",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MU244NlIwSjd2NUpsZXhZdzBNT1duWVlhQlNhNXhnU0JYTFFaOC1zYndEQ09nRmF6N1F6akpFSVVmbkJISDRZSkppSlVSa0dRa2NhcVl4QXVhVkZfVnpWaG1rNXFtUQ?oc=5",
@@ -1069,17 +1084,6 @@
       "category": "X热点",
       "slug": "20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex",
       "localUrl": "/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum's next year's upgrade, Hegotá, is being scoped right now. 66 proposals are on the table and over the next few core dev calls, this list will be narrowed down to the EIPs that get implementations, devnets, testnets, and a realistic chance of shipping in 2 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5\" target=\"_blank\">Ethereum's next year's upgrade, Hegotá,…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WTDdZT0hQS0pERVRVYzh1aXdzUlJVMGhiVWZBUlRlWFZUcVR6cWdwNmlkN3VoVnk5TXBkQzdJYWFoNnM3VVd0Z196LVhPM25SMXNGaFE1VTNVZnJkbnc?oc=5",
-      "publishedAt": "2026-08-16T05:07:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
-      "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
     },
     {
       "source": "Chainalysis Blog",
