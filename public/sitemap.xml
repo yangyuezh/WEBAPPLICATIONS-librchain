@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T16:45:42.018Z</lastmod>
+    <lastmod>2026-08-18T17:38:27.612Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T16:45:42.018Z</lastmod>
+    <lastmod>2026-08-18T17:38:27.612Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-google-is-paying-10-million-to-use-spirit-airlines-data-to-train-its-ai-models.html</loc>
+    <lastmod>2026-08-18T17:19:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere.html</loc>
+    <lastmod>2026-08-18T17:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-federal-prosecutors-blast-ex-celsius-ceos-motion-to-vacate-as-without-merit.html</loc>
+    <lastmod>2026-08-18T16:49:58.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-metaplanet-expands-bitcoin-treasury-strategy-to-us-with-2100-btc-nasdaq-play.html</loc>
@@ -271,12 +289,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-bitcoin-climbs-above-64000-while-most-majors-slip.html</loc>
-    <lastmod>2026-08-18T04:32:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html</loc>
     <lastmod>2026-08-18T04:11:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -337,12 +349,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-bullish-jane-street-added-630m-in-bitcoin-etfs-in-q2-lifting-holdings-to-106b-af.html</loc>
-    <lastmod>2026-08-17T21:00:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-its-hard-to-talk-about-crypto-these-days-in-the-same-way-that-salesforce-shopify.html</loc>
     <lastmod>2026-08-17T20:45:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -357,6 +363,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html</loc>
     <lastmod>2026-08-17T19:59:18.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-just-in-wall-street-giant-jane-street-dropped-a-bombshell-sec-filing-they-disclo.html</loc>
+    <lastmod>2026-08-17T19:37:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat.html</loc>
-    <lastmod>2026-08-17T16:16:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-what-stripes-7-billion-openrouter-deal-actually-means-for-ai.html</loc>
     <lastmod>2026-08-17T15:54:29.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +459,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week.html</loc>
     <lastmod>2026-08-17T13:03:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-strategy-leaves-bitcoin-untouched-raises-334m-selling-mstr-stock.html</loc>
-    <lastmod>2026-08-17T12:56:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
