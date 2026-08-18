@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T21:35:03.081Z</lastmod>
+    <lastmod>2026-08-18T22:37:49.053Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T21:35:03.081Z</lastmod>
+    <lastmod>2026-08-18T22:37:49.053Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in.html</loc>
+    <lastmod>2026-08-18T22:31:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed.html</loc>
+    <lastmod>2026-08-18T21:49:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-us-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent.html</loc>
@@ -445,18 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-solanas-pump-token-leads-crypto-market-gainers-as-chart-paints-golden-cross.html</loc>
-    <lastmod>2026-08-17T18:29:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade.html</loc>
-    <lastmod>2026-08-17T18:19:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-your-agent-works-the-night-shift-now-agentic-trading-for-crypto-is-rolling-out-n.html</loc>
     <lastmod>2026-08-17T18:15:10.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html</loc>
     <lastmod>2026-08-17T18:02:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-.html</loc>
-    <lastmod>2026-08-17T17:17:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html</loc>
     <lastmod>2026-08-17T03:24:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-6273508-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-17T00:44:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

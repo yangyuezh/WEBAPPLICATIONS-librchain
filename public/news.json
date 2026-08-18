@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-18T21:35:03.041Z",
+  "updatedAt": "2026-08-18T22:37:49.011Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+      "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
+      "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+      "publishedAt": "2026-08-18T22:31:04.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in",
+      "localUrl": "/news/20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "summary": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
+      "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+      "publishedAt": "2026-08-18T21:49:46.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "综合",
+      "slug": "20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed",
+      "localUrl": "/news/20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed.html"
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
@@ -21,7 +47,7 @@
     {
       "source": "Cointelegraph",
       "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "summary": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and certain exemptions for token issuance.",
+      "summary": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as “investment contracts” and certain exemptions for token issuance.",
       "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "2026-08-18T21:24:15.000Z",
       "keywords": [
@@ -967,32 +993,6 @@
       "localUrl": "/news/20260817-xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-      "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
-      "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-      "publishedAt": "2026-08-17T18:29:56.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-solanas-pump-token-leads-crypto-market-gainers-as-chart-paints-golden-cross",
-      "localUrl": "/news/20260817-solanas-pump-token-leads-crypto-market-gainers-as-chart-paints-golden-cross.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-      "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
-      "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-      "publishedAt": "2026-08-17T18:19:46.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade",
-      "localUrl": "/news/20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade.html"
-    },
-    {
       "source": "X Wire",
       "title": "Your agent works the night shift now. Agentic Trading for crypto is rolling out now to eligible users. Connect your agent through the Robinhood MCP server to trade crypto alongside equities and options from a dedicated Agentic Account—using only the funds y - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnaWt4bXRtQ2w3X1dYeG9aLUJYZ29HUHNlaUZWR1dkOTd1eURjV0NlRnRjTmpETnFTTmxHOEVhbTRmWDlQUEEwdHNRNzNBazQxLU5Gd2dHY1ZCSFNJX2hDRVczSQ?oc=5\" target=\"_blank\">Your agent works the night shift…",
@@ -1013,17 +1013,6 @@
       "category": "X热点",
       "slug": "20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom",
       "localUrl": "/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "cirBTC is now live on Ethereum for all Circle Mint LLC customers. The underlying BTC is custodied by Circle National Trust, a federally chartered national trust bank and qualified custodian supervised by the OCC. What’s next: Circle is building toward a simple, - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydl9qSjYtZ1VhS0NuRGdUMzNaeTNMQUM3V1JkcUhIRXlzazJZSVRaMzBLcWY1Z2VQU0VCWTlVbGljR3VVZmlLVWJBVFA5U0V1WHNaYUFlaHpDZms?oc=5\" target=\"_blank\">cirBTC is now live on Ethereum for all Circ…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydl9qSjYtZ1VhS0NuRGdUMzNaeTNMQUM3V1JkcUhIRXlzazJZSVRaMzBLcWY1Z2VQU0VCWTlVbGljR3VVZmlLVWJBVFA5U0V1WHNaYUFlaHpDZms?oc=5",
-      "publishedAt": "2026-08-17T17:17:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-",
-      "localUrl": "/news/20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-.html"
     },
     {
       "source": "X Wire",
@@ -1057,6 +1046,17 @@
       "category": "X热点",
       "slug": "20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco",
       "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "$62,735.08 #Bitcoin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aS1BfSmFuTUhabElZX1BkeUZnaEdGMVdEZEtHQnZMTVAyTi1HUktPeU1PTWtkMTduSm9wUDNIamVOZ3VCSHVud1hTQlAyLS16cHN0S3JSR29VbWVT?oc=5\" target=\"_blank\">$62,735.08 #Bitcoin</a> <font color=\"#6f6f…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aS1BfSmFuTUhabElZX1BkeUZnaEdGMVdEZEtHQnZMTVAyTi1HUktPeU1PTWtkMTduSm9wUDNIamVOZ3VCSHVud1hTQlAyLS16cHN0S3JSR29VbWVT?oc=5",
+      "publishedAt": "2026-08-17T00:44:24.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-6273508-bitcoin-xcom",
+      "localUrl": "/news/20260817-6273508-bitcoin-xcom.html"
     },
     {
       "source": "Ethereum Blog",
