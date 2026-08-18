@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T01:47:53.399Z</lastmod>
+    <lastmod>2026-08-18T03:05:38.252Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T01:47:53.399Z</lastmod>
+    <lastmod>2026-08-18T03:05:38.252Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -183,12 +183,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-17T13:20:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-bitcoinnative-holds-near-636k-as-weak-spot-liquidity-etf-outflows-and-loss-reali.html</loc>
-    <lastmod>2026-08-17T13:17:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -403,6 +397,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260817-cz-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct.html</loc>
+    <lastmod>2026-08-17T01:40:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260817-announcing-the-plataberget-testnet.html</loc>
     <lastmod>2026-08-17T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,14 +493,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-15T12:44:45.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html</loc>
+    <lastmod>2026-08-15T18:30:28.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html</loc>
-    <lastmod>2026-08-15T08:36:50.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260815-6289594-bitcoin-xcom.html</loc>
+    <lastmod>2026-08-15T12:44:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

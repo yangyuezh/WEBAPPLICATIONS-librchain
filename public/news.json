@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:47:53.359Z",
+  "updatedAt": "2026-08-18T03:05:38.212Z",
   "total": 83,
   "items": [
     {
@@ -396,17 +396,6 @@
       "category": "监管",
       "slug": "20260817-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260817-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "bitcoin:native holds near $63.6k as weak spot liquidity, ETF outflows and loss realization keep conditions subdued. Stabilising capital flows suggest selling pressure may be easing, but conviction remains limited. Read this week’s Market Pulse👇 glassno.de/3T - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUWJEV3B6dUFCSWJMVzhILVR0WFRVMW1Vei1wZVc3UlY4SjJyaU9jT3BhUkdaYU5hUGpiRlBWWnQ2N2h2TGlhdjZELXNhNzl4RUJ0dEZ1b1FQZUlfNUE4?oc=5\" target=\"_blank\">bitcoin:native holds near $63.6k as we…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUWJEV3B6dUFCSWJMVzhILVR0WFRVMW1Vei1wZVc3UlY4SjJyaU9jT3BhUkdaYU5hUGpiRlBWWnQ2N2h2TGlhdjZELXNhNzl4RUJ0dEZ1b1FQZUlfNUE4?oc=5",
-      "publishedAt": "2026-08-17T13:17:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-bitcoinnative-holds-near-636k-as-weak-spot-liquidity-etf-outflows-and-loss-reali",
-      "localUrl": "/news/20260817-bitcoinnative-holds-near-636k-as-weak-spot-liquidity-etf-outflows-and-loss-reali.html"
     },
     {
       "source": "Decrypt",
@@ -874,6 +863,17 @@
       "localUrl": "/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html"
     },
     {
+      "source": "X Wire",
+      "title": "⚡️ CZ: “Many people have been wrong about crypto. Takes time. Not 100% sure I am correct here either. We are human afterall.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV2lyaEpYemR4T0x1VkN1b1VGd3JpMkpiUDJCSUVyb25VbWRJTGN3NG1wLWtnUUs2OUhMdGU4Z05OT1V6NV85WHhNcGVla0hNSWpxMjJ6ZkpaRzVrVXpnZTRNaDk?oc=5\" target=\"_blank\">⚡️ CZ: “Many people have been w…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BV2lyaEpYemR4T0x1VkN1b1VGd3JpMkpiUDJCSUVyb25VbWRJTGN3NG1wLWtnUUs2OUhMdGU4Z05OT1V6NV85WHhNcGVla0hNSWpxMjJ6ZkpaRzVrVXpnZTRNaDk?oc=5",
+      "publishedAt": "2026-08-17T01:40:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-cz-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct",
+      "localUrl": "/news/20260817-cz-many-people-have-been-wrong-about-crypto-takes-time-not-100-sure-i-am-correct.html"
+    },
+    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -1054,6 +1054,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨 NEW: Bitcoin has never been below Fire Sale for this long. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5\" target=\"_blank\">🚨 NEW: Bitcoin has never been …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMllCTUFwcHZMckpMNjBiWTYyM1pGaG9FRHY3SkNOb3h2Wjd1YnNsM1k0VVo1Zm5fRy0xQWQ1SXhidVRQS0RzNWJtZW96VkNUZ0F3UHhEMnJVdW1qdUtKR0d6Tmg?oc=5",
+      "publishedAt": "2026-08-15T18:30:28.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom",
+      "localUrl": "/news/20260815-new-bitcoin-has-never-been-below-fire-sale-for-this-long-xcom.html"
+    },
+    {
+      "source": "X Wire",
       "title": "$62,895.94 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5\" target=\"_blank\">$62,895.94 #Bitcoin</a> <font color=\"#6f6f…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBod245WHNOTDN2N2ExdkNOQ1B3MGhwblVvTURFVTJsZzltMlA2VzdzOVRON1pHclhScFA5VTFqeGM5SlU3MGswQWxOSEREZS1Qa0NPVThSUERFUkFs?oc=5",
@@ -1062,17 +1073,6 @@
       "category": "X热点",
       "slug": "20260815-6289594-bitcoin-xcom",
       "localUrl": "/news/20260815-6289594-bitcoin-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Bitcoin surpassed 20.07 million coins mined as of August 2026, leaving only 4.4% more supply. I'd estimate 10-20% of existing bitcoins are lost/stuck/unrecoverable. It's a deflationary asset. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYkFKb20wTXVmSXNOb2U5QUdQLS1Gc1JWa2l1ZjdNNUwzYzFXUS1rQk1OUUxEMFZsVkQ4MV9uMXJMODVqcFh6N3BBdkJlaWlLMGI4Y0ZvcHltUVRxT0N6Mw?oc=5\" target=\"_blank\">Bitcoin surpassed 20.07 million coin…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzYkFKb20wTXVmSXNOb2U5QUdQLS1Gc1JWa2l1ZjdNNUwzYzFXUS1rQk1OUUxEMFZsVkQ4MV9uMXJMODVqcFh6N3BBdkJlaWlLMGI4Y0ZvcHltUVRxT0N6Mw?oc=5",
-      "publishedAt": "2026-08-15T08:36:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor",
-      "localUrl": "/news/20260815-bitcoin-surpassed-2007-million-coins-mined-as-of-august-2026-leaving-only-44-mor.html"
     },
     {
       "source": "Chainalysis Blog",
