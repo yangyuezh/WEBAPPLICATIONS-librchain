@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-18T08:50:34.648Z",
+  "updatedAt": "2026-08-18T09:45:33.971Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "summary": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T09:31:15.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "DeFi",
+      "slug": "20260818-bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis",
+      "localUrl": "/news/20260818-bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
+      "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+      "publishedAt": "2026-08-18T09:31:04.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria",
+      "localUrl": "/news/20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "China adds 8 banks to digital yuan network as operator count hits 30",
+      "summary": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
+      "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T08:48:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260818-china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30",
+      "localUrl": "/news/20260818-china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea moves to block Polymarket over gambling concerns",
+      "summary": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
+      "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T08:39:57.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260818-south-korea-moves-to-block-polymarket-over-gambling-concerns",
+      "localUrl": "/news/20260818-south-korea-moves-to-block-polymarket-over-gambling-concerns.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
@@ -279,17 +331,6 @@
       "category": "安全",
       "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Saylor: MSTR Investors Should Hold for at Least Four Years, Preferably Seven to 10, and Be Prepared for Difficult Years Strategy Executive Chairman Michael Saylor said MSTR investors should have at least a four-year time horizon, with seven to 10 years pre - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yY2p2UkpPLWl2d0RTSC1hbWZUNldWTTRuSEJ6cHE1OTVud2JCbnZTcnNPT09TeUs4aUtEQWExSTB2Si1CM1FxQUd3UlV6RlNwLU5MN2FpblkxSDdXank0TS13OA?oc=5\" target=\"_blank\">Saylor: MSTR Investors Should Ho…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yY2p2UkpPLWl2d0RTSC1hbWZUNldWTTRuSEJ6cHE1OTVud2JCbnZTcnNPT09TeUs4aUtEQWExSTB2Si1CM1FxQUd3UlV6RlNwLU5MN2FpblkxSDdXank0TS13OA?oc=5",
-      "publishedAt": "2026-08-17T19:53:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10",
-      "localUrl": "/news/20260817-saylor-mstr-investors-should-hold-for-at-least-four-years-preferably-seven-to-10.html"
     },
     {
       "source": "Decrypt",
@@ -838,19 +879,6 @@
       "localUrl": "/news/20260817-safepal-bitcoin-wallet-data-breach-stokes-fears-of-physical-attacks.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
-      "summary": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
-      "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T08:30:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated",
-      "localUrl": "/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html"
-    },
-    {
       "source": "X Wire",
       "title": "Reuters: Binance Provided Russian Authorities With User Data Used in Terrorism-Financing Case Reuters reports that law-enforcement documents show Binance provided Russian authorities in 2025 with the identity and crypto transaction records of Yuri Bele - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UX0NJS055dXVDZ2Rzb1J2c3V3NEhuLWo1aURlaGV1cUJKaE4tc2Q2Y0o4WjBfcjhNaU93akRDUFkwZWpPZjB0clU2a3FfU2pwOS1vdjdvRlpFTnJKTmUyOTdjcw?oc=5\" target=\"_blank\">Reuters: Binance Provided Russia…",
@@ -873,19 +901,6 @@
       "localUrl": "/news/20260817-great-move-upwards-on-bitcoin-and-it-might-become-interesting-these-are-the-leve.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
-      "summary": "Greenlane recorded a $19.1 million noncash valuation loss as BERA’s price fell nearly 76% year to date.",
-      "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T05:52:55.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260817-greenlanes-70m-bera-treasury-ends-q2-valued-at-16m",
-      "localUrl": "/news/20260817-greenlanes-70m-bera-treasury-ends-q2-valued-at-16m.html"
-    },
-    {
       "source": "X Wire",
       "title": "🇺🇸 THE WHITE HOUSE IS HOSTING THE BIGGEST CRYPTO MEETING IN HISTORY THIS WEEK! In the room: President Trump, SEC Chair Atkins, CFTC Chair Selig, Coinbase, Ripple, Gemini, Polymarket, Kalshi, Nasdaq, NYSE, CME and DTCC. The real st - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TnUwYWVoZmxUZERwbDBUQUlMS2VFUk94ZUJoMmU0U3VyMHQwUzVuNFYzWk4zZFBNaW1rRDRmQ1M1b3lib1RNLXZFdmRHODU3WE80bmVTOTE0Q2RBV2Q3NGRn?oc=5\" target=\"_blank\">🇺🇸 THE WHITE HOUSE IS HOSTING TH…",
@@ -895,19 +910,6 @@
       "category": "X热点",
       "slug": "20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th",
       "localUrl": "/news/20260817-the-white-house-is-hosting-the-biggest-crypto-meeting-in-history-this-week-in-th.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
-      "summary": "The sealed complaint leaves Chainalysis’ specific objections and requested remedy undisclosed as briefing continues.",
-      "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-17T03:42:48.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260817-chainalysis-sues-us-over-95m-ice-contract-with-trm-labs",
-      "localUrl": "/news/20260817-chainalysis-sues-us-over-95m-ice-contract-with-trm-labs.html"
     },
     {
       "source": "X Wire",
@@ -932,6 +934,17 @@
       "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
     },
     {
+      "source": "X Wire",
+      "title": "Curve Finance Founder Questions Pumpfun and Phantom Wallet Experience Curve Finance founder Michael Egorov criticized Pumpfun as “a casino of scams called memecoins” and said Phantom’s hardware-wallet experience was worse than MetaMask’s. H - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5\" target=\"_blank\">Curve Finance Founder Questions …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5",
+      "publishedAt": "2026-08-17T01:46:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina",
+      "localUrl": "/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html"
+    },
+    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -954,17 +967,6 @@
       "category": "基础设施",
       "slug": "20260817-transaction-v1-and-the-alt-trade-off",
       "localUrl": "/news/20260817-transaction-v1-and-the-alt-trade-off.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman Selig, & executives from across crypto industry including Coinbase, Polymarket, Ripple, Gemini, etc. Also expected to i - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5\" target=\"_blank\">White House hosting major crypto mee…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETlJfZWEtYmliVjlpUk5iUzZ4dm1yZ1hGcUlYcXZyYzMwbVc3cE5ORktsRnRERWh3bzB3d1phT2NaSGo4WTBCQXd5RkE3WXMyc1I4X2MtMFpoRFIwLXd5UA?oc=5",
-      "publishedAt": "2026-08-16T23:03:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres",
-      "localUrl": "/news/20260816-white-house-hosting-major-crypto-meeting-this-week-expected-attendance-from-pres.html"
     },
     {
       "source": "X Wire",
@@ -1024,19 +1026,6 @@
       "localUrl": "/news/20260816-bitcoiners-deserve-a-lot-of-credit-for-pioneering-many-of-these-ideas-see-utreex.html"
     },
     {
-      "source": "Decrypt",
-      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-      "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
-      "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-      "publishedAt": "2026-08-16T14:01:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260816-people-are-turning-to-ai-for-mental-health-california-wants-it-banned",
-      "localUrl": "/news/20260816-people-are-turning-to-ai-for-mental-health-california-wants-it-banned.html"
-    },
-    {
       "source": "X Wire",
       "title": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers Crypto wallet provider SafePal disclosed a security incident involving an authorization flaw in an order-tracking plugin that allowed unauthorized access to customer order information. A - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE02UmhRVnpNZUZlMHFVem5hdGlzSkhZVVAzMEdpVExnSUUtOFdHS242RVV0cW1BYnI3R3IwZGJtLUZLZDQ1T0o1czZrRExmLW1DazVhZGhKR2djakhYZEtQN1hYRQ?oc=5\" target=\"_blank\">SafePal Discloses Order Data Bre…",
@@ -1057,6 +1046,17 @@
       "category": "X热点",
       "slug": "20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o",
       "localUrl": "/news/20260816-ethereums-next-years-upgrade-hegota-is-being-scoped-right-now-66-proposals-are-o.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "INSIGHT: \"Soon, millionaires won't be able to afford 1 full Bitcoin.\" says @cz_binance, noting there are 23.6M U.S. millionaires but only 20.07M $BTC in circulation. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5\" target=\"_blank\">INSIGHT: \"Soon, millionaires won't be a…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fM1c2d2tUNGJlUzcwMVN1OTZ0M0QtSTNyd0NWTkdjbXJpLUJMdDBvRWcxWEprMnJKczFBZUszeUh4Yi1Ca3p4NHMxQnduS2VaZGpVMVpTaUFkV0V4aHc?oc=5",
+      "publishedAt": "2026-08-15T21:53:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-",
+      "localUrl": "/news/20260815-insight-soon-millionaires-wont-be-able-to-afford-1-full-bitcoin-says-cz_binance-.html"
     },
     {
       "source": "X Wire",
