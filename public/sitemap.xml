@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T07:49:49.869Z</lastmod>
+    <lastmod>2026-08-18T08:50:34.687Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T07:49:49.869Z</lastmod>
+    <lastmod>2026-08-18T08:50:34.687Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-oil-drain-risk-appetite.html</loc>
+    <lastmod>2026-08-18T08:16:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk.html</loc>
+    <lastmod>2026-08-18T08:07:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-heres-what-happened-in-crypto-today.html</loc>
@@ -25,7 +37,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-as-korean-bank-adopts-ripple-payment.html</loc>
+    <loc>https://www.librchain.com/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-even-as-korean-bank-adopts-ripple-pa.html</loc>
     <lastmod>2026-08-18T05:34:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -159,6 +171,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade.html</loc>
     <lastmod>2026-08-17T18:19:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-.html</loc>
+    <lastmod>2026-08-17T17:17:13.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +385,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest.html</loc>
-    <lastmod>2026-08-17T09:16:14.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated.html</loc>
     <lastmod>2026-08-17T08:30:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -421,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html</loc>
-    <lastmod>2026-08-17T01:46:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-announcing-the-plataberget-testnet.html</loc>
     <lastmod>2026-08-17T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-transaction-v1-and-the-alt-trade-off.html</loc>
     <lastmod>2026-08-17T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html</loc>
-    <lastmod>2026-08-16T23:54:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

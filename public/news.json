@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-18T07:49:49.829Z",
+  "updatedAt": "2026-08-18T08:50:34.648Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+      "summary": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
+      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+      "publishedAt": "2026-08-18T08:16:11.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "DeFi",
+      "slug": "20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-oil-drain-risk-appetite",
+      "localUrl": "/news/20260818-live-updates-bitcoin-holds-64000-as-surging-yields-and-oil-drain-risk-appetite.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
+      "summary": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
+      "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-18T08:07:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk",
+      "localUrl": "/news/20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -32,7 +60,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
+      "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
       "summary": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
       "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
       "publishedAt": "2026-08-18T05:34:32.000Z",
@@ -41,8 +69,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260818-xrp-sinks-below-1-for-first-time-since-2024-as-korean-bank-adopts-ripple-payment",
-      "localUrl": "/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-as-korean-bank-adopts-ripple-payment.html"
+      "slug": "20260818-xrp-sinks-below-1-for-first-time-since-2024-even-as-korean-bank-adopts-ripple-pa",
+      "localUrl": "/news/20260818-xrp-sinks-below-1-for-first-time-since-2024-even-as-korean-bank-adopts-ripple-pa.html"
     },
     {
       "source": "CoinDesk",
@@ -329,6 +357,17 @@
       "category": "基础设施",
       "slug": "20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade",
       "localUrl": "/news/20260817-ethereum-developers-target-privacy-changes-in-next-major-upgrade.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "cirBTC is now live on Ethereum for all Circle Mint LLC customers. The underlying BTC is custodied by Circle National Trust, a federally chartered national trust bank and qualified custodian supervised by the OCC. What’s next: Circle is building toward a simple, - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydl9qSjYtZ1VhS0NuRGdUMzNaeTNMQUM3V1JkcUhIRXlzazJZSVRaMzBLcWY1Z2VQU0VCWTlVbGljR3VVZmlLVWJBVFA5U0V1WHNaYUFlaHpDZms?oc=5\" target=\"_blank\">cirBTC is now live on Ethereum for all Circ…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ydl9qSjYtZ1VhS0NuRGdUMzNaeTNMQUM3V1JkcUhIRXlzazJZSVRaMzBLcWY1Z2VQU0VCWTlVbGljR3VVZmlLVWJBVFA5U0V1WHNaYUFlaHpDZms?oc=5",
+      "publishedAt": "2026-08-17T17:17:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-",
+      "localUrl": "/news/20260817-cirbtc-is-now-live-on-ethereum-for-all-circle-mint-llc-customers-the-underlying-.html"
     },
     {
       "source": "Cointelegraph",
@@ -799,21 +838,6 @@
       "localUrl": "/news/20260817-safepal-bitcoin-wallet-data-breach-stokes-fears-of-physical-attacks.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-      "summary": "Binance says it cooperates with lawful requests, despite exiting the Russian market in 2023 to improve its compliance strategy.",
-      "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
-      "publishedAt": "2026-08-17T09:16:14.000Z",
-      "keywords": [
-        "Policy",
-        "Binance",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest",
-      "localUrl": "/news/20260817-binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donors-arrest.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
       "summary": "BitMart’s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries “fabricated rumors.”",
@@ -908,17 +932,6 @@
       "localUrl": "/news/20260817-just-in-bitcoin-has-remained-in-the-fire-sale-zone-for-longer-than-at-any-point-.html"
     },
     {
-      "source": "X Wire",
-      "title": "Curve Finance Founder Questions Pumpfun and Phantom Wallet Experience Curve Finance founder Michael Egorov criticized Pumpfun as “a casino of scams called memecoins” and said Phantom’s hardware-wallet experience was worse than MetaMask’s. H - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5\" target=\"_blank\">Curve Finance Founder Questions …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aRDJxOHdXV25Dc0E1aXhickFVYmVGN3hPdWxKLVZuR3h0dlAtbkNhUV9iM0lJa1JHOGdTVndWUVk3SC1LTU5KbXhJYlZmdERTdm5xVURkb0Y4R1dGY3NLcWQ0bw?oc=5",
-      "publishedAt": "2026-08-17T01:46:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina",
-      "localUrl": "/news/20260817-curve-finance-founder-questions-pumpfun-and-phantom-wallet-experience-curve-fina.html"
-    },
-    {
       "source": "Ethereum Blog",
       "title": "Announcing the Platåberget Testnet",
       "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
@@ -941,19 +954,6 @@
       "category": "基础设施",
       "slug": "20260817-transaction-v1-and-the-alt-trade-off",
       "localUrl": "/news/20260817-transaction-v1-and-the-alt-trade-off.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-      "summary": "Owners of Trezor and SafePal crypto wallets at high risk of phishing attempts after separate data leaks, CLARITY odds at 10% despite White House meeting this week.",
-      "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-16T23:54:50.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "安全",
-      "slug": "20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
-      "localUrl": "/news/20260816-data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest.html"
     },
     {
       "source": "X Wire",
