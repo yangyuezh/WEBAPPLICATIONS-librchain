@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T20:41:38.175Z</lastmod>
+    <lastmod>2026-08-19T21:36:20.713Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T20:41:38.175Z</lastmod>
+    <lastmod>2026-08-19T21:36:20.713Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -111,6 +111,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html</loc>
     <lastmod>2026-08-19T16:23:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-cash-app-pay-is-now-available-on-uniswap-apps-buy-crypto-directly-with-your-cash.html</loc>
+    <lastmod>2026-08-19T16:21:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,6 +445,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260818-reg-crypto-is-out-xcom.html</loc>
+    <lastmod>2026-08-18T18:51:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260818-today-the-sec-proposed-new-rules-regulation-crypto-assets-that-would-create-a-cl.html</loc>
     <lastmod>2026-08-18T18:40:48.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -453,12 +465,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware.html</loc>
     <lastmod>2026-08-18T18:06:42.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom.html</loc>
-    <lastmod>2026-08-18T17:34:33.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th.html</loc>
     <lastmod>2026-08-18T13:23:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-.html</loc>
-    <lastmod>2026-08-18T12:31:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
