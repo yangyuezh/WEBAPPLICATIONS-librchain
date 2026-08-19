@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-08-19T03:58:13.407Z",
+  "updatedAt": "2026-08-19T04:48:31.158Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+      "summary": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+      "publishedAt": "2026-08-19T04:25:42.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260819-solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+      "localUrl": "/news/20260819-solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+      "summary": "The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redemption rights and one-to-one liquid reserves.",
+      "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T03:58:13.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
+      "localUrl": "/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html"
+    },
     {
       "source": "CoinDesk",
       "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
@@ -244,6 +271,17 @@
       "category": "X热点",
       "slug": "20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are",
       "localUrl": "/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how fed - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YQS1Mazg1dmJ2c0lROEduV0Jhc2ZZS1JrT0NaZTYtZkx2emFLQU9wOFpHYTZyQXpjR3lDMVQ5NW5obENsbHgyYU00enhOOXlSLVF2Tlozd3dHd1RWenl5bk1oM0VWUQ?oc=5\" target=\"_blank\">BREAKING: The SEC announces …",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YQS1Mazg1dmJ2c0lROEduV0Jhc2ZZS1JrT0NaZTYtZkx2emFLQU9wOFpHYTZyQXpjR3lDMVQ5NW5obENsbHgyYU00enhOOXlSLVF2Tlozd3dHd1RWenl5bk1oM0VWUQ?oc=5",
+      "publishedAt": "2026-08-18T18:46:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-breaking-the-sec-announces-new-proposed-rules-that-will-create-a-clear-and-fit-f",
+      "localUrl": "/news/20260818-breaking-the-sec-announces-new-proposed-rules-that-will-create-a-clear-and-fit-f.html"
     },
     {
       "source": "X Wire",
@@ -786,21 +824,6 @@
       "localUrl": "/news/20260818-kraken-launches-us-listed-stock-trading-for-eea-customers.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
-      "summary": "BTC has dropped 0.6% since midnight UTC as Nasdaq 100 futures slip 1.1%, with the FOMC's July meeting minutes and a White House crypto summit both due Wednesday.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-pauses-at-usd64-000-as-rising-yields-oil-drag-equities-lower",
-      "publishedAt": "2026-08-18T10:38:56.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower",
-      "localUrl": "/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
       "summary": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
@@ -901,19 +924,6 @@
       "category": "综合",
       "slug": "20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments",
       "localUrl": "/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-      "summary": "Prosecutors allege Edward Zimbardi collected crypto from thousands of investors, lost over $34 million on currency trades and spent at least $10 million personally.",
-      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T03:21:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation",
-      "localUrl": "/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html"
     },
     {
       "source": "X Wire",
@@ -1036,17 +1046,6 @@
       "category": "X热点",
       "slug": "20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom",
       "localUrl": "/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "thank god for meme coins imagine how boring crypto would be if it was just bitcoin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRm9KU0dfQ2ptYV9vdUoxVEZ1eVdPdU85RFNTSGQ5VWVpZC1KOVRQai1HTXdwejI2LVF3ZGo0MWI0X0dwM0hGcGdvZVVtMGc3WTBZc2M2ZHVmVW1MeFE?oc=5\" target=\"_blank\">thank god for meme coins imagine how bo…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRm9KU0dfQ2ptYV9vdUoxVEZ1eVdPdU85RFNTSGQ5VWVpZC1KOVRQai1HTXdwejI2LVF3ZGo0MWI0X0dwM0hGcGdvZVVtMGc3WTBZc2M2ZHVmVW1MeFE?oc=5",
-      "publishedAt": "2026-08-17T03:24:32.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco",
-      "localUrl": "/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html"
     },
     {
       "source": "X Wire",

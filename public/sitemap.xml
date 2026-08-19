@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T03:58:13.448Z</lastmod>
+    <lastmod>2026-08-19T04:48:31.185Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T03:58:13.448Z</lastmod>
+    <lastmod>2026-08-19T04:48:31.185Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7.html</loc>
+    <lastmod>2026-08-19T04:25:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html</loc>
+    <lastmod>2026-08-19T03:58:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260819-it-has-to-pass-andrew-cuomo-warns-us-is-falling-behind-on-crypto-rules.html</loc>
@@ -117,6 +129,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html</loc>
     <lastmod>2026-08-18T18:53:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-breaking-the-sec-announces-new-proposed-rules-that-will-create-a-clear-and-fit-f.html</loc>
+    <lastmod>2026-08-18T18:46:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -361,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html</loc>
-    <lastmod>2026-08-18T10:38:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis.html</loc>
     <lastmod>2026-08-18T09:31:15.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -411,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html</loc>
     <lastmod>2026-08-18T04:11:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation.html</loc>
-    <lastmod>2026-08-18T03:21:26.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html</loc>
     <lastmod>2026-08-17T18:02:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-thank-god-for-meme-coins-imagine-how-boring-crypto-would-be-if-it-was-just-bitco.html</loc>
-    <lastmod>2026-08-17T03:24:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
