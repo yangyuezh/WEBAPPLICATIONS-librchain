@@ -1,7 +1,113 @@
 {
-  "updatedAt": "2026-08-19T15:42:50.556Z",
+  "updatedAt": "2026-08-19T16:43:50.072Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
+      "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
+      "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
+      "publishedAt": "2026-08-19T16:31:04.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "综合",
+      "slug": "20260819-coinbases-base-is-betting-big-on-ai-agents-with-100k-startup-accelerator",
+      "localUrl": "/news/20260819-coinbases-base-is-betting-big-on-ai-agents-with-100k-startup-accelerator.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
+      "summary": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
+      "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T16:30:12.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "RWA",
+      "slug": "20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger",
+      "localUrl": "/news/20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
+      "summary": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
+      "publishedAt": "2026-08-19T16:18:04.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260819-bitcoin-surges-above-68000-liquidating-14-billion-shorts-as-treasury-buybacks-bo",
+      "localUrl": "/news/20260819-bitcoin-surges-above-68000-liquidating-14-billion-shorts-as-treasury-buybacks-bo.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+      "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
+      "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
+      "publishedAt": "2026-08-19T16:10:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour",
+      "localUrl": "/news/20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+      "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
+      "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+      "publishedAt": "2026-08-19T16:00:06.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260819-coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid",
+      "localUrl": "/news/20260819-coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
+      "summary": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T16:00:03.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "DeFi",
+      "slug": "20260819-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback",
+      "localUrl": "/news/20260819-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
+      "summary": "The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.",
+      "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T15:50:58.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260819-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs",
+      "localUrl": "/news/20260819-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
+      "summary": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T15:44:09.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "RWA",
+      "slug": "20260819-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
+      "localUrl": "/news/20260819-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
@@ -113,6 +219,17 @@
       "category": "基础设施",
       "slug": "20260819-cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
       "localUrl": "/news/20260819-cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "I have believed for more than a decade that the U.S. Dollar Index, DXY, is in a structural decline that is likely to continue. I also think we may now be approaching a much more significant leg lower, and that has major implications for Bitcoin. If that view is right, t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zU0t6U1dmNnQ1UXJPQTBnZDFTQUVDNEZoVXZFakhKNENPb2NWYVgzRS0za1pyQWRFWXZOU0xzX196RXU4T3plc3FVXzNPam9JakozN3cwQ2k5OVpFdHVz?oc=5\" target=\"_blank\">I have believed for more than a decade…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zU0t6U1dmNnQ1UXJPQTBnZDFTQUVDNEZoVXZFakhKNENPb2NWYVgzRS0za1pyQWRFWXZOU0xzX196RXU4T3plc3FVXzNPam9JakozN3cwQ2k5OVpFdHVz?oc=5",
+      "publishedAt": "2026-08-19T14:41:22.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru",
+      "localUrl": "/news/20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru.html"
     },
     {
       "source": "Decrypt",
@@ -538,23 +655,6 @@
       "localUrl": "/news/20260819-mayachain-halts-network-after-estimated-17m-exploit.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
-      "summary": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-      "publishedAt": "2026-08-19T04:25:42.000Z",
-      "keywords": [
-        "Markets",
-        "Solana News",
-        "Bitcoin News",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260819-bitcoin-holds-64000-and-solana-leads-gains-amid-7-korean-chip-stock-slide",
-      "localUrl": "/news/20260819-bitcoin-holds-64000-and-solana-leads-gains-amid-7-korean-chip-stock-slide.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 UPDATE: Bitcoin's spot demand is about to turn positive for the first time since February, a shift that's historically led to an 18.1% median gain over 60 days with a 78% win rate, per CryptoQuant. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SdVRheWh6OEFZUC1sc1JZcE5hZ0tjYXo1Mjd2VjNmbXROVUwtMTJTcGNDd0pjX2NiaWJPSGJzdTVVUTJ5TmpMNEktblY0eFVqdXpXVlVveElzRW5uaGR2NnNrNEQ?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin's spot deman…",
@@ -716,19 +816,6 @@
       "localUrl": "/news/20260818-ripple-and-coinbase-funded-pac-spends-2m-in-florida-race-with-little-mention-of-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Cypherpunk launches Zcash mining fleet controlling 18% of network hashrate",
-      "summary": "The $33.3 million Winklevoss Capital deal expands Cypherpunk’s ZEC strategy as it targets 5% ownership of the cryptocurrency’s circulating supply.",
-      "url": "https://cointelegraph.com/news/cypherpunk-zcash-mining-winklevoss-capital-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T19:31:16.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260818-cypherpunk-launches-zcash-mining-fleet-controlling-18-of-network-hashrate",
-      "localUrl": "/news/20260818-cypherpunk-launches-zcash-mining-fleet-controlling-18-of-network-hashrate.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
       "summary": "Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
@@ -751,17 +838,6 @@
       "category": "X热点",
       "slug": "20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-",
       "localUrl": "/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how fed - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YQS1Mazg1dmJ2c0lROEduV0Jhc2ZZS1JrT0NaZTYtZkx2emFLQU9wOFpHYTZyQXpjR3lDMVQ5NW5obENsbHgyYU00enhOOXlSLVF2Tlozd3dHd1RWenl5bk1oM0VWUQ?oc=5\" target=\"_blank\">BREAKING: The SEC announces …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YQS1Mazg1dmJ2c0lROEduV0Jhc2ZZS1JrT0NaZTYtZkx2emFLQU9wOFpHYTZyQXpjR3lDMVQ5NW5obENsbHgyYU00enhOOXlSLVF2Tlozd3dHd1RWenl5bk1oM0VWUQ?oc=5",
-      "publishedAt": "2026-08-18T18:46:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-breaking-the-sec-announces-new-proposed-rules-that-will-create-a-clear-and-fit-f",
-      "localUrl": "/news/20260818-breaking-the-sec-announces-new-proposed-rules-that-will-create-a-clear-and-fit-f.html"
     },
     {
       "source": "X Wire",
@@ -812,30 +888,6 @@
       "localUrl": "/news/20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
-      "summary": "The multi-asset card lets US customers spend crypto and fiat and earn cashback as Kraken’s parent company expands across financial services.",
-      "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T17:39:37.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push",
-      "localUrl": "/news/20260818-krakens-krak-debuts-us-debit-card-as-payward-broadens-financial-services-push.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Welcome home, @VonMiller 🤠 #DallasCowboys | @blockchain - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0dyYzFERHRxQVdUdmlFcktEUGY1dTNvY0NzOFhyVzg4RFVRZFNGT3NiS2RiZ0QxOF94OUlMTVdvTXBXMlhncnZvMVFIZmxVNGhRRUdjUkNPTGJFOEJSVnRDb0g?oc=5\" target=\"_blank\">Welcome home, @VonMiller 🤠 #Da…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0dyYzFERHRxQVdUdmlFcktEUGY1dTNvY0NzOFhyVzg4RFVRZFNGT3NiS2RiZ0QxOF94OUlMTVdvTXBXMlhncnZvMVFIZmxVNGhRRUdjUkNPTGJFOEJSVnRDb0g?oc=5",
-      "publishedAt": "2026-08-18T17:34:33.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom",
-      "localUrl": "/news/20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
       "summary": "The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.",
@@ -849,17 +901,15 @@
       "localUrl": "/news/20260818-google-is-paying-10-million-to-use-spirit-airlines-data-to-train-its-ai-models.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
-      "summary": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
-      "url": "https://cointelegraph.com/news/us-prosecutors-celsius-ceo-alex-mashinsky-motion-vacate-deny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T16:49:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-federal-prosecutors-blast-ex-celsius-ceos-motion-to-vacate-as-without-merit",
-      "localUrl": "/news/20260818-federal-prosecutors-blast-ex-celsius-ceos-motion-to-vacate-as-without-merit.html"
+      "source": "X Wire",
+      "title": "Metaplanet to Invest 2,100 BTC in Super League to Build U.S. Bitcoin Treasury Platform Japan-listed Bitcoin treasury company Metaplanet (TSE: 3350) and Nasdaq-listed Super League Enterprise (Nasdaq: SLE) have entered into a definitive agreement under - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd0VodnFNUGlveDVZTE5Dd2JFNENHZnA3UkFFSEp2TmRoZFFjRjRnUXJJUnpUdHUtME95d3lJUEQwZ2V5UEJ0WXMyZmdMdGdPRWpXYzNYYXJQbkxkQ1NNVXZQQQ?oc=5\" target=\"_blank\">Metaplanet to Invest 2,100 BTC i…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd0VodnFNUGlveDVZTE5Dd2JFNENHZnA3UkFFSEp2TmRoZFFjRjRnUXJJUnpUdHUtME95d3lJUEQwZ2V5UEJ0WXMyZmdMdGdPRWpXYzNYYXJQbkxkQ1NNVXZQQQ?oc=5",
+      "publishedAt": "2026-08-18T16:36:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf",
+      "localUrl": "/news/20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf.html"
     },
     {
       "source": "X Wire",
@@ -871,19 +921,6 @@
       "category": "X热点",
       "slug": "20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg",
       "localUrl": "/news/20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
-      "summary": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
-      "url": "https://cointelegraph.com/news/metaplanet-expands-bitcoin-treasury-strategy-super-league?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T16:21:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260818-metaplanet-expands-bitcoin-treasury-strategy-to-us-with-2100-btc-nasdaq-play",
-      "localUrl": "/news/20260818-metaplanet-expands-bitcoin-treasury-strategy-to-us-with-2100-btc-nasdaq-play.html"
     },
     {
       "source": "X Wire",
@@ -908,17 +945,6 @@
       "localUrl": "/news/20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin capitulation check - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USTdrV0ZJczZiRE1JV3NadnE4dFppWkY1MUN5ZkpoLUxweWZibjdxSDQ0VUZ4aUZjRTZUb0NyaWU2ZktPd3lvVlloVWFxZUt0T0ZGNnJ6SU5EZHgzRFNXVlZLcXk?oc=5\" target=\"_blank\">Bitcoin capitulation check</a> …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USTdrV0ZJczZiRE1JV3NadnE4dFppWkY1MUN5ZkpoLUxweWZibjdxSDQ0VUZ4aUZjRTZUb0NyaWU2ZktPd3lvVlloVWFxZUt0T0ZGNnJ6SU5EZHgzRFNXVlZLcXk?oc=5",
-      "publishedAt": "2026-08-18T16:00:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-bitcoin-capitulation-check-xcom",
-      "localUrl": "/news/20260818-bitcoin-capitulation-check-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
       "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
@@ -941,17 +967,6 @@
       "category": "X热点",
       "slug": "20260818-strong-hands-are-buying-bitcoinnative-bottoms-are-formed-when-profit-taking-slow",
       "localUrl": "/news/20260818-strong-hands-are-buying-bitcoinnative-bottoms-are-formed-when-profit-taking-slow.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Avalanche was designed for the moment when blockchain would move beyond experimentation and become infrastructure for global finance and enterprise. That moment is here, and today’s leadership appointments build on Ava Labs’ progress as we carry t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKd1hLNzZOcXRwRXQtaHNISkxNODY2OFFUZXFmMTRSTktOZ3FSU3gtN0xodUhQVGFONzZFLTMzU3BtckhZMW16VWVZQXBTVzJEYnMwaDMxMHNUYml2MTZqNg?oc=5\" target=\"_blank\">Avalanche was designed for the momen…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKd1hLNzZOcXRwRXQtaHNISkxNODY2OFFUZXFmMTRSTktOZ3FSU3gtN0xodUhQVGFONzZFLTMzU3BtckhZMW16VWVZQXBTVzJEYnMwaDMxMHNUYml2MTZqNg?oc=5",
-      "publishedAt": "2026-08-18T15:31:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-avalanche-was-designed-for-the-moment-when-blockchain-would-move-beyond-experime",
-      "localUrl": "/news/20260818-avalanche-was-designed-for-the-moment-when-blockchain-would-move-beyond-experime.html"
     },
     {
       "source": "Decrypt",
@@ -1015,30 +1030,26 @@
       "localUrl": "/news/20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
-      "summary": "The bid protest, filed in the U.S. Court of Federal Claims, challenges ICE's sole-source award for blockchain forensic tools, pitting the two biggest names in crypto tracing against each other.",
-      "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
-      "publishedAt": "2026-08-18T11:31:04.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260818-chainalysis-sues-us-government-over-946m-ice-contract-handed-to-rival-trm-labs",
-      "localUrl": "/news/20260818-chainalysis-sues-us-government-over-946m-ice-contract-handed-to-rival-trm-labs.html"
+      "source": "X Wire",
+      "title": "JUST IN: $2.8 trillion bank Citi announces they will go live with Bitcoin custody services later this year 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5\" target=\"_blank\">JUST IN: $2.8 trillion bank…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5",
+      "publishedAt": "2026-08-18T12:19:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s",
+      "localUrl": "/news/20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
-      "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
-      "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
-      "publishedAt": "2026-08-18T09:31:04.000Z",
-      "keywords": [
-        "Law and Order"
-      ],
-      "category": "监管",
-      "slug": "20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria",
-      "localUrl": "/news/20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria.html"
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Ethereum Foundation launches the Platåberget testnet, opening early public testing for the Glamsterdam upgrade ahead of its Aug. 20 fork. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum Foundation …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5",
+      "publishedAt": "2026-08-18T05:00:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
+      "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1052,19 +1063,6 @@
       "category": "基础设施",
       "slug": "20260818-allocation-update-q2-2026",
       "localUrl": "/news/20260818-allocation-update-q2-2026.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "summary": "Payward is joining Project Glasswing, Anthropic’s program for giving vetted organizations access to its powerful cybersecurity AI.",
-      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-      "publishedAt": "2026-08-17T22:35:46.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur",
-      "localUrl": "/news/20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur.html"
     },
     {
       "source": "X Wire",
