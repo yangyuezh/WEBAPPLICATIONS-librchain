@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-08-19T09:45:42.513Z",
-  "total": 83,
+  "updatedAt": "2026-08-19T10:42:59.256Z",
+  "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+      "summary": "BTC volatility has dropped to multi-year lows as surging Treasury yields rattle equities and traders await the Fed's July meeting minutes for clues on the interest-rate path.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+      "publishedAt": "2026-08-19T10:29:57.000Z",
+      "keywords": [
+        "Markets",
+        "Crypto Markets Today",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260819-bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-d",
+      "localUrl": "/news/20260819-bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-d.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nexo launches regulated crypto-backed credit in Australia",
+      "summary": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
+      "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T10:20:27.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260819-nexo-launches-regulated-crypto-backed-credit-in-australia",
+      "localUrl": "/news/20260819-nexo-launches-regulated-crypto-backed-credit-in-australia.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+      "summary": "The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.",
+      "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+      "publishedAt": "2026-08-19T10:04:30.000Z",
+      "keywords": [
+        "Finance",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260819-tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+      "localUrl": "/news/20260819-tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg.html"
+    },
+    {
+      "source": "Solana Blog",
+      "title": "Lowering Slot Time and Validators Economic",
+      "summary": "Solana will reduce its slot times from 400ms to 200ms. This change will make the protocol more competitive in terms of latency. Here we explore some possible implication on validators economic.",
+      "url": "https://solana.com/news/lowering-slot-time-and-validators-economic",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "keywords": [],
+      "category": "基础设施",
+      "slug": "20260819-lowering-slot-time-and-validators-economic",
+      "localUrl": "/news/20260819-lowering-slot-time-and-validators-economic.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+      "summary": "Ripple Prime's inaugural senior notes carried an investment grade rating and drew institutional investors across key financial markets.",
+      "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+      "publishedAt": "2026-08-19T09:55:50.000Z",
+      "keywords": [
+        "Finance",
+        "Ripple",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-ripple-raises-275-million-in-senior-notes-for-prime-brokerage-push",
+      "localUrl": "/news/20260819-ripple-raises-275-million-in-senior-notes-for-prime-brokerage-push.html"
+    },
     {
       "source": "Decrypt",
       "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
@@ -73,6 +141,17 @@
       "category": "监管",
       "slug": "20260819-bitcoin-etfs-add-189m-as-august-net-inflows-approach-1b",
       "localUrl": "/news/20260819-bitcoin-etfs-add-189m-as-august-net-inflows-approach-1b.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 TODAY: The White House will host a crypto summit with crypto executives. What do you expect to hear from this summit? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MUdFZXA1VkQzX2U3S0htcm5TTWpzUjhTOV92NVVqenFZZWtUVDFjVWtDTnZHanI3Zlk5ZHJEUENzVzlpSG9jTkNWM09zNUxFZkVBRWNJcGhXeUtkVDhEd1lSODU?oc=5\" target=\"_blank\">🇺🇸 TODAY: The White House wil…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MUdFZXA1VkQzX2U3S0htcm5TTWpzUjhTOV92NVVqenFZZWtUVDFjVWtDTnZHanI3Zlk5ZHJEUENzVzlpSG9jTkNWM09zNUxFZkVBRWNJcGhXeUtkVDhEd1lSODU?oc=5",
+      "publishedAt": "2026-08-19T07:00:59.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-today-the-white-house-will-host-a-crypto-summit-with-crypto-executives-what-do-y",
+      "localUrl": "/news/20260819-today-the-white-house-will-host-a-crypto-summit-with-crypto-executives-what-do-y.html"
     },
     {
       "source": "CoinDesk",
@@ -549,6 +628,17 @@
       "localUrl": "/news/20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf.html"
     },
     {
+      "source": "X Wire",
+      "title": "For years, anti-crypto armies, doomers, and decelerationists stifled innovation, regulating by enforcement and driving transformational technologies like blockchain, AI, and prediction markets overseas. On August 20, the @CFTC is turning the page and chartin - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Y1NIb2ZVbXcxeW1HWlZwN3pkSEZud29hbWFWM1NrZzhVLTFJUnJ4bEd5c2pFd1NFSnE5bk1zcnBoQW1FSl80S2c1T0xfQWczYmJwbkJDSEI5U01JaW9GNnVuTE4?oc=5\" target=\"_blank\">For years, anti-crypto armies, …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Y1NIb2ZVbXcxeW1HWlZwN3pkSEZud29hbWFWM1NrZzhVLTFJUnJ4bEd5c2pFd1NFSnE5bk1zcnBoQW1FSl80S2c1T0xfQWczYmJwbkJDSEI5U01JaW9GNnVuTE4?oc=5",
+      "publishedAt": "2026-08-18T16:31:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg",
+      "localUrl": "/news/20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Metaplanet expands Bitcoin treasury strategy to US with 2,100-BTC Nasdaq play",
       "summary": "The proposed deal with Nasdaq-listed Super League Enterprise would give the Tokyo-based company a foothold in US capital markets while using existing Bitcoin rather than additional purchases.",
@@ -780,21 +870,6 @@
       "localUrl": "/news/20260818-toyota-finance-opens-tokenized-bonds-to-retail-investors-via-mobile-payment-app.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Citi plans to launch bitcoin custody for institutional clients later this year",
-      "summary": "The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-      "publishedAt": "2026-08-18T13:25:13.000Z",
-      "keywords": [
-        "Markets",
-        "Custody",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year",
-      "localUrl": "/news/20260818-citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: $15 trillion BlackRock reports they're still bullish on Bitcoin despite the -50% decline from its all time high 👀 \"bitcoin’s core investment case as an important emerging global monetary alternative and unique portfolio diversifier remains unchanged.\" 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HdWlHcU0tWGJzMm9rcHdjZWs1eDZQQTl4ZUE2T1VBUG5VcEZMS3Y3UmdKcUtxYkJyLWVIa21qTW1xRk13dzFaVTJqMm9zcUdhQUliQW1WY0hCUW1Fa19jMFdBQl9zNTQ?oc=5\" target=\"_blank\">JUST IN: $15 trillion Black…",
@@ -804,39 +879,6 @@
       "category": "X热点",
       "slug": "20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th",
       "localUrl": "/news/20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto’s easy-money era is ending in a wave of failures",
-      "summary": "Inflated valuations and weak business models are driving crypto’s shakeout, Global Settlement Network CEO Ryan Kirkley says.",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-      "publishedAt": "2026-08-18T13:22:40.000Z",
-      "keywords": [
-        "Finance",
-        "Fundraising",
-        "Stablecoins",
-        "Institutional Adoption",
-        "Exclusive",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260818-cryptos-easy-money-era-is-ending-in-a-wave-of-failures",
-      "localUrl": "/news/20260818-cryptos-easy-money-era-is-ending-in-a-wave-of-failures.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-      "summary": "Eligible Cash App users will be able to use their balances to purchase digital assets offered by MoonPay, which include ether, solana and stablecoin USDT.",
-      "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-      "publishedAt": "2026-08-18T13:00:00.000Z",
-      "keywords": [
-        "Finance",
-        "MoonPay",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-cash-apps-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-      "localUrl": "/news/20260818-cash-apps-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay.html"
     },
     {
       "source": "Cointelegraph",
@@ -952,19 +994,6 @@
       "localUrl": "/news/20260818-china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "South Korea moves to block Polymarket over gambling concerns",
-      "summary": "The Korea Media and Communications Commission said Polymarket’s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
-      "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T08:39:57.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260818-south-korea-moves-to-block-polymarket-over-gambling-concerns",
-      "localUrl": "/news/20260818-south-korea-moves-to-block-polymarket-over-gambling-concerns.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 UPDATE: Ethereum Foundation launches the Platåberget testnet, opening early public testing for the Glamsterdam upgrade ahead of its Aug. 20 fork. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum Foundation …",
@@ -974,28 +1003,6 @@
       "category": "X热点",
       "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
       "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 NOW: Blockchain Association submits a comment letter urging the SEC to rescind outdated Rules 611 and 610(e), pushing for market structure to catch up with tokenization. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMnNkZEtnR3I4ZzR1RzlHbnFJcXJGei1DVktvZUZVaWZleGxvLXFSS3RDZENCZHdhc09wRUFxbmhJNm1pLU1RdmVQZnhaX1VQRWZzbnJUMWJPajljNUw3V1RuU1Q?oc=5\" target=\"_blank\">🇺🇸 NOW: Blockchain Associatio…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMnNkZEtnR3I4ZzR1RzlHbnFJcXJGei1DVktvZUZVaWZleGxvLXFSS3RDZENCZHdhc09wRUFxbmhJNm1pLU1RdmVQZnhaX1VQRWZzbnJUMWJPajljNUw3V1RuU1Q?oc=5",
-      "publishedAt": "2026-08-18T02:40:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou",
-      "localUrl": "/news/20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Jane Street Discloses Over $1 Billion in Bitcoin ETF Holdings, Led by BlackRock’s IBIT Quant trading giant Jane Street disclosed more than $1 billion in U.S. spot Bitcoin ETF holdings as of June 30, with roughly $828 million invested in BlackRock’s IBIT and th - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5\" target=\"_blank\">Jane Street Discloses Over $1 Bi…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5",
-      "publishedAt": "2026-08-18T02:35:41.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i",
-      "localUrl": "/news/20260818-jane-street-discloses-over-1-billion-in-bitcoin-etf-holdings-led-by-blackrocks-i.html"
     },
     {
       "source": "Ethereum Blog",
