@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T04:48:31.185Z</lastmod>
+    <lastmod>2026-08-19T05:43:31.697Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T04:48:31.185Z</lastmod>
+    <lastmod>2026-08-19T05:43:31.697Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-mayachain-halts-network-after-estimated-17m-exploit.html</loc>
+    <lastmod>2026-08-19T05:13:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260819-solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7.html</loc>
@@ -21,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html</loc>
     <lastmod>2026-08-19T03:58:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-.html</loc>
+    <lastmod>2026-08-19T02:07:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -343,12 +355,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s.html</loc>
-    <lastmod>2026-08-18T12:19:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-ethereums-next-upgrade-breaks-the-21000-gas-rule-wallets-rely-on.html</loc>
     <lastmod>2026-08-18T12:17:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -417,12 +423,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html</loc>
     <lastmod>2026-08-18T05:00:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html</loc>
-    <lastmod>2026-08-18T04:11:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

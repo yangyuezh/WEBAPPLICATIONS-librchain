@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-19T04:48:31.158Z",
+  "updatedAt": "2026-08-19T05:43:31.673Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "MAYAChain halts network after estimated $1.7M exploit",
+      "summary": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
+      "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T05:13:54.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "安全",
+      "slug": "20260819-mayachain-halts-network-after-estimated-17m-exploit",
+      "localUrl": "/news/20260819-mayachain-halts-network-after-estimated-17m-exploit.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
@@ -28,6 +41,17 @@
       "category": "监管",
       "slug": "20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
       "localUrl": "/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Some asked, \"why are you doing an AI / crypto project when you think AI is a bubble that will burst?\" Very simple, the bubble is in debt issued to build data centers and stocks of unprofitable hyperscalers and frontier labs. Price is what you pay, value is what you - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dmVqdllXOFFJVEZwWUlyd3h0c3JFWnppNGRCOXFQU1FpY25kRTJPTHZsTFhjZjJWY3QtakpYZ18tR2huTGpaNWo0RFlJNl9pZVdwU0djUzB1Wi0tV18wbGRB?oc=5\" target=\"_blank\">Some asked, \"why are you doing an …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dmVqdllXOFFJVEZwWUlyd3h0c3JFWnppNGRCOXFQU1FpY25kRTJPTHZsTFhjZjJWY3QtakpYZ18tR2huTGpaNWo0RFlJNl9pZVdwU0djUzB1Wi0tV18wbGRB?oc=5",
+      "publishedAt": "2026-08-19T02:07:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-",
+      "localUrl": "/news/20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-.html"
     },
     {
       "source": "CoinDesk",
@@ -742,17 +766,6 @@
       "localUrl": "/news/20260818-visa-looking-for-new-stablecoin-settlement-partner-after-bvnk-sale-to-mastercard.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: $2.8 trillion bank Citi announces they will go live with Bitcoin custody services later this year 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5\" target=\"_blank\">JUST IN: $2.8 trillion bank…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5",
-      "publishedAt": "2026-08-18T12:19:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s",
-      "localUrl": "/news/20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
       "summary": "Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.",
@@ -911,19 +924,6 @@
       "category": "X热点",
       "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
       "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-      "summary": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
-      "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T04:11:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments",
-      "localUrl": "/news/20260818-south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments.html"
     },
     {
       "source": "X Wire",
