@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T10:42:59.297Z</lastmod>
+    <lastmod>2026-08-19T11:36:00.625Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T10:42:59.297Z</lastmod>
+    <lastmod>2026-08-19T11:36:00.625Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-alleged-165m-crypto-ponzi-mastermind-deported-from-fiji-to-us.html</loc>
+    <lastmod>2026-08-19T11:31:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-ripple-raises-275m-for-us-prime-brokerage-to-meet-institutional-demand.html</loc>
+    <lastmod>2026-08-19T11:18:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge.html</loc>
+    <lastmod>2026-08-19T11:14:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock.html</loc>
+    <lastmod>2026-08-19T11:06:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260819-bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-d.html</loc>
@@ -391,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-hashkey-taps-hong-kongs-first-regulated-stablecoin-to-settle-insurance-and-trade.html</loc>
-    <lastmod>2026-08-18T14:03:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-toyota-finance-opens-tokenized-bonds-to-retail-investors-via-mobile-payment-app.html</loc>
     <lastmod>2026-08-18T13:41:56.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -445,20 +463,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis.html</loc>
-    <lastmod>2026-08-18T09:31:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria.html</loc>
     <lastmod>2026-08-18T09:31:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30.html</loc>
-    <lastmod>2026-08-18T08:48:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september.html</loc>
     <lastmod>2026-08-17T21:16:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html</loc>
-    <lastmod>2026-08-17T20:31:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
