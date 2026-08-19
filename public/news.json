@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-08-19T17:36:56.326Z",
+  "updatedAt": "2026-08-19T18:50:37.680Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+      "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+      "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+      "publishedAt": "2026-08-19T18:20:35.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen",
+      "localUrl": "/news/20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+      "summary": "In a race that drew criticism to crypto's leading political action committee for featuring fake headlines in ads, Fairshake's expensive effort fell short.",
+      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+      "publishedAt": "2026-08-19T18:10:10.000Z",
+      "keywords": [
+        "Policy",
+        "Election 2026",
+        "PACs",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries",
+      "localUrl": "/news/20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "summary": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
+      "url": "https://cointelegraph.com/news/falconx-ethena-launch-1b-usde-backed-institutional-lending-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T17:34:10.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260819-falconx-ethena-bring-usde-backing-assets-into-1b-institutional-credit-facility",
+      "localUrl": "/news/20260819-falconx-ethena-bring-usde-backing-assets-into-1b-institutional-credit-facility.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "OCC head promises final GENIUS rules by November",
@@ -55,6 +97,17 @@
       "localUrl": "/news/20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger.html"
     },
     {
+      "source": "X Wire",
+      "title": "$1.2 trillion has been added to precious metals and crypto in the last 3 hours. Gold up +3.08%, adding $934 billion. Silver up +3.86%, adding $136 billion. Bitcoin up +8.14%, adding $103 billion. Ethereum up +9.66%, adding $22 billion. This comes as the Tre - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5\" target=\"_blank\">$1.2 trillion has been added to …",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5",
+      "publishedAt": "2026-08-19T16:23:17.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol",
+      "localUrl": "/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
       "summary": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
@@ -68,6 +121,17 @@
       "category": "基础设施",
       "slug": "20260819-bitcoin-surges-above-68000-liquidating-14-billion-shorts-as-treasury-buybacks-bo",
       "localUrl": "/news/20260819-bitcoin-surges-above-68000-liquidating-14-billion-shorts-as-treasury-buybacks-bo.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is classified information. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOWdLY2xaQUtvX0JJck4yVVZNRWFYbzBSWlJLc0w3dEQ5ZzZqeXRhdEFGWVNDZkxyVTJsTDg2X184WjhZN1VUNE5JRGVPWHdjRENpQXhxUkNuZG8?oc=5\" target=\"_blank\">Bitcoin is classified information.</a> <fon…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOWdLY2xaQUtvX0JJck4yVVZNRWFYbzBSWlJLc0w3dEQ5ZzZqeXRhdEFGWVNDZkxyVTJsTDg2X184WjhZN1VUNE5JRGVPWHdjRENpQXhxUkNuZG8?oc=5",
+      "publishedAt": "2026-08-19T16:10:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-bitcoin-is-classified-information-xcom",
+      "localUrl": "/news/20260819-bitcoin-is-classified-information-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -92,6 +156,17 @@
       "category": "X热点",
       "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
+      "publishedAt": "2026-08-19T16:04:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
+      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
     },
     {
       "source": "Decrypt",
@@ -269,6 +344,17 @@
       "localUrl": "/news/20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨NEW: The meeting of tech leaders is set to kick off at the White House today at 2:30PM ET where President Trump is expected to make remarks alongside @SECPaulSAtkins and @ChairmanSelig. Other crypto/TradFi executives expected to attend: 📌 @brian - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tQ2NVdk14cUhtemFfdFB4NW0ydEo1RGExWU0yZlZ6TERGTkZwOVVXWnhUNVBxWXduYXlOSlFDSVRJZEVXU2NubVFYZ09pQTAzVUdJZ2lIZTltWi03VU5TM2YtRlFOdw?oc=5\" target=\"_blank\">🚨NEW: The meeting of tech l…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tQ2NVdk14cUhtemFfdFB4NW0ydEo1RGExWU0yZlZ6TERGTkZwOVVXWnhUNVBxWXduYXlOSlFDSVRJZEVXU2NubVFYZ09pQTAzVUdJZ2lIZTltWi03VU5TM2YtRlFOdw?oc=5",
+      "publishedAt": "2026-08-19T14:32:50.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-new-the-meeting-of-tech-leaders-is-set-to-kick-off-at-the-white-house-today-at-2",
+      "localUrl": "/news/20260819-new-the-meeting-of-tech-leaders-is-set-to-kick-off-at-the-white-house-today-at-2.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: SEC Brings Clarity to Crypto",
       "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
@@ -280,6 +366,17 @@
       "category": "监管",
       "slug": "20260819-morning-minute-sec-brings-clarity-to-crypto",
       "localUrl": "/news/20260819-morning-minute-sec-brings-clarity-to-crypto.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "In the last 24 hours: * The SEC released Regulation Crypto Assets * The Treasury launched yield curve control * The White House prepared for a meeting with top crypto execs to discuss tokenization and the Clarity Act. Hard not to be extremely bullish both BT - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OQUFNVmdnRWN1eEF2eDJiS2d5Zms2bEFRSGxQMWFWZXRjeGlHcUE3ay11RnA4S3BSWlUwYk9EZDdyZEJ4VmtDMVdFVmFWUnVzSTFMbDdISjMzZTZXSFdqNWxR?oc=5\" target=\"_blank\">In the last 24 hours: * The SEC re…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OQUFNVmdnRWN1eEF2eDJiS2d5Zms2bEFRSGxQMWFWZXRjeGlHcUE3ay11RnA4S3BSWlUwYk9EZDdyZEJ4VmtDMVdFVmFWUnVzSTFMbDdISjMzZTZXSFdqNWxR?oc=5",
+      "publishedAt": "2026-08-19T13:36:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-in-the-last-24-hours-the-sec-released-regulation-crypto-assets-the-treasury-laun",
+      "localUrl": "/news/20260819-in-the-last-24-hours-the-sec-released-regulation-crypto-assets-the-treasury-laun.html"
     },
     {
       "source": "Decrypt",
@@ -581,6 +678,17 @@
       "localUrl": "/news/20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet.html"
     },
     {
+      "source": "X Wire",
+      "title": "Some are trying to bring Bitcoin to billions. Others are trying to win arguments on the internet. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSDFDX2pBUzVWZW9ZSXdpdDBoRmxiOUtid0pCZ3BlRThLSkRObWw5MWM5NzAwd3BxNmdUUkNZWEYzTWFNeHoxRHhmdTVoNjdQTzVjd2hNcjZ5SUE?oc=5\" target=\"_blank\">Some are trying to bring Bitcoin to billion…",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSDFDX2pBUzVWZW9ZSXdpdDBoRmxiOUtid0pCZ3BlRThLSkRObWw5MWM5NzAwd3BxNmdUUkNZWEYzTWFNeHoxRHhmdTVoNjdQTzVjd2hNcjZ5SUE?oc=5",
+      "publishedAt": "2026-08-19T09:27:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-",
+      "localUrl": "/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
       "summary": "Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.",
@@ -664,21 +772,6 @@
       "localUrl": "/news/20260819-maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-by-11-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
-      "summary": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
-      "publishedAt": "2026-08-19T05:45:27.000Z",
-      "keywords": [
-        "Markets",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260819-robot-maker-unitrees-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
-      "localUrl": "/news/20260819-robot-maker-unitrees-ipo-surges-600-outpacing-crypto-traders-premarket-bets.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "MAYAChain halts network after estimated $1.7M exploit",
       "summary": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
@@ -714,17 +807,6 @@
       "category": "监管",
       "slug": "20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents",
       "localUrl": "/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Some asked, \"why are you doing an AI / crypto project when you think AI is a bubble that will burst?\" Very simple, the bubble is in debt issued to build data centers and stocks of unprofitable hyperscalers and frontier labs. Price is what you pay, value is what you - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dmVqdllXOFFJVEZwWUlyd3h0c3JFWnppNGRCOXFQU1FpY25kRTJPTHZsTFhjZjJWY3QtakpYZ18tR2huTGpaNWo0RFlJNl9pZVdwU0djUzB1Wi0tV18wbGRB?oc=5\" target=\"_blank\">Some asked, \"why are you doing an …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dmVqdllXOFFJVEZwWUlyd3h0c3JFWnppNGRCOXFQU1FpY25kRTJPTHZsTFhjZjJWY3QtakpYZ18tR2huTGpaNWo0RFlJNl9pZVdwU0djUzB1Wi0tV18wbGRB?oc=5",
-      "publishedAt": "2026-08-19T02:07:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-",
-      "localUrl": "/news/20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-.html"
     },
     {
       "source": "Decrypt",
@@ -803,30 +885,6 @@
       "localUrl": "/news/20260818-bitcoin-in-the-tightest-volatility-band-its-been-in-for-five-years-three-things-.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
-      "summary": "The non-custodial cross-chain swap engine connects Canton’s institutional tokenized-asset markets with liquidity and trading activity across major public blockchains.",
-      "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T20:45:48.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-falconx-interstice-connect-canton-to-ethereum-solana-and-robinhood-chain",
-      "localUrl": "/news/20260818-falconx-interstice-connect-canton-to-ethereum-solana-and-robinhood-chain.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 NEW: The SEC’s proposed “Regulation Crypto Assets” would create tailored rules for certain crypto investment contracts. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiUjJIcGlBSGJxX01rVTk0bVIyT2FfbS1oSFpvU2VVRDFWSWxzZkRzUnZzd19iTTNSZk9YNVdBUTRFWUlJQzJObTVBZTFWVTdyN2RuMTRUUnR2TnhMTXZqUjFNLWk?oc=5\" target=\"_blank\">🇺🇸 NEW: The SEC’s proposed “R…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiUjJIcGlBSGJxX01rVTk0bVIyT2FfbS1oSFpvU2VVRDFWSWxzZkRzUnZzd19iTTNSZk9YNVdBUTRFWUlJQzJObTVBZTFWVTdyN2RuMTRUUnR2TnhMTXZqUjFNLWk?oc=5",
-      "publishedAt": "2026-08-18T20:00:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-new-the-secs-proposed-regulation-crypto-assets-would-create-tailored-rules-for-c",
-      "localUrl": "/news/20260818-new-the-secs-proposed-regulation-crypto-assets-would-create-tailored-rules-for-c.html"
-    },
-    {
       "source": "Decrypt",
       "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
       "summary": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
@@ -877,17 +935,6 @@
       "localUrl": "/news/20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: 🇺🇸 The White House to host a crypto summit tomorrow with crypto industry leaders 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQTdCbUpMSGkxc1FGSWFBNkV5N0gxa2VfeG1qUS1qMEtPTVJhZ180OEItWlZQNXd1T0pPRUZBaWNMTlRMdDNJTkg1MEU5Z1lFbGV3NVllNEpYWDhVX3o5VFg2REtfbkU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The White Hou…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQTdCbUpMSGkxc1FGSWFBNkV5N0gxa2VfeG1qUS1qMEtPTVJhZ180OEItWlZQNXd1T0pPRUZBaWNMTlRMdDNJTkg1MEU5Z1lFbGV3NVllNEpYWDhVX3o5VFg2REtfbkU?oc=5",
-      "publishedAt": "2026-08-18T18:07:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-just-in-the-white-house-to-host-a-crypto-summit-tomorrow-with-crypto-industry-le",
-      "localUrl": "/news/20260818-just-in-the-white-house-to-host-a-crypto-summit-tomorrow-with-crypto-industry-le.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
       "summary": "The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
@@ -901,6 +948,17 @@
       "localUrl": "/news/20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware.html"
     },
     {
+      "source": "X Wire",
+      "title": "Welcome home, @VonMiller 🤠 #DallasCowboys | @blockchain - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0dyYzFERHRxQVdUdmlFcktEUGY1dTNvY0NzOFhyVzg4RFVRZFNGT3NiS2RiZ0QxOF94OUlMTVdvTXBXMlhncnZvMVFIZmxVNGhRRUdjUkNPTGJFOEJSVnRDb0g?oc=5\" target=\"_blank\">Welcome home, @VonMiller 🤠 #Da…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS0dyYzFERHRxQVdUdmlFcktEUGY1dTNvY0NzOFhyVzg4RFVRZFNGT3NiS2RiZ0QxOF94OUlMTVdvTXBXMlhncnZvMVFIZmxVNGhRRUdjUkNPTGJFOEJSVnRDb0g?oc=5",
+      "publishedAt": "2026-08-18T17:34:33.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom",
+      "localUrl": "/news/20260818-welcome-home-vonmiller-dallascowboys-blockchain-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
       "summary": "The bankrupt airline’s internal communications and business records could soon be used to improve Google’s AI systems.",
@@ -912,17 +970,6 @@
       "category": "综合",
       "slug": "20260818-google-is-paying-10-million-to-use-spirit-airlines-data-to-train-its-ai-models",
       "localUrl": "/news/20260818-google-is-paying-10-million-to-use-spirit-airlines-data-to-train-its-ai-models.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Metaplanet to Invest 2,100 BTC in Super League to Build U.S. Bitcoin Treasury Platform Japan-listed Bitcoin treasury company Metaplanet (TSE: 3350) and Nasdaq-listed Super League Enterprise (Nasdaq: SLE) have entered into a definitive agreement under - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd0VodnFNUGlveDVZTE5Dd2JFNENHZnA3UkFFSEp2TmRoZFFjRjRnUXJJUnpUdHUtME95d3lJUEQwZ2V5UEJ0WXMyZmdMdGdPRWpXYzNYYXJQbkxkQ1NNVXZQQQ?oc=5\" target=\"_blank\">Metaplanet to Invest 2,100 BTC i…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd0VodnFNUGlveDVZTE5Dd2JFNENHZnA3UkFFSEp2TmRoZFFjRjRnUXJJUnpUdHUtME95d3lJUEQwZ2V5UEJ0WXMyZmdMdGdPRWpXYzNYYXJQbkxkQ1NNVXZQQQ?oc=5",
-      "publishedAt": "2026-08-18T16:36:13.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf",
-      "localUrl": "/news/20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf.html"
     },
     {
       "source": "X Wire",
@@ -945,17 +992,6 @@
       "category": "X热点",
       "slug": "20260818-1-crypto-more-relevant-today-given-the-rapidly-increasing-capabilities-of-ai-and",
       "localUrl": "/news/20260818-1-crypto-more-relevant-today-given-the-rapidly-increasing-capabilities-of-ai-and.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: 🇨🇳 Publicly traded Chinese company Zhibao Technology creates treasury Bitcoin reserve of 2,380 BTC 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sY0VkRmlfSTBFdjJwekhHUV9SZEowSndsZWd0bU1yNFBWa3M3MkM0a3FMeEQwdVF3SVJLRVJnQWppSklPdFJPOGpfaWpBTXNKc2NuME1lLS1GMFpZNmJ1NkwxNHdselU?oc=5\" target=\"_blank\">JUST IN: 🇨🇳 Publicly trad…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sY0VkRmlfSTBFdjJwekhHUV9SZEowSndsZWd0bU1yNFBWa3M3MkM0a3FMeEQwdVF3SVJLRVJnQWppSklPdFJPOGpfaWpBTXNKc2NuME1lLS1GMFpZNmJ1NkwxNHdselU?oc=5",
-      "publishedAt": "2026-08-18T16:07:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco",
-      "localUrl": "/news/20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco.html"
     },
     {
       "source": "Decrypt",
@@ -995,19 +1031,6 @@
       "localUrl": "/news/20260818-japans-metaplanet-plants-its-flag-in-the-us-with-132m-bitcoin-treasury-deal.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
-      "summary": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
-      "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
-      "publishedAt": "2026-08-18T14:03:34.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "市场",
-      "slug": "20260818-bitcoin-wallet-untouched-for-15-years-suddenly-springs-to-life",
-      "localUrl": "/news/20260818-bitcoin-wallet-untouched-for-15-years-suddenly-springs-to-life.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: $15 trillion BlackRock reports they're still bullish on Bitcoin despite the -50% decline from its all time high 👀 \"bitcoin’s core investment case as an important emerging global monetary alternative and unique portfolio diversifier remains unchanged.\" 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HdWlHcU0tWGJzMm9rcHdjZWs1eDZQQTl4ZUE2T1VBUG5VcEZMS3Y3UmdKcUtxYkJyLWVIa21qTW1xRk13dzFaVTJqMm9zcUdhQUliQW1WY0hCUW1Fa19jMFdBQl9zNTQ?oc=5\" target=\"_blank\">JUST IN: $15 trillion Black…",
@@ -1028,28 +1051,6 @@
       "category": "X热点",
       "slug": "20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-",
       "localUrl": "/news/20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $2.8 trillion bank Citi announces they will go live with Bitcoin custody services later this year 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5\" target=\"_blank\">JUST IN: $2.8 trillion bank…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5",
-      "publishedAt": "2026-08-18T12:19:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s",
-      "localUrl": "/news/20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Ethereum Foundation launches the Platåberget testnet, opening early public testing for the Glamsterdam upgrade ahead of its Aug. 20 fork. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum Foundation …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5",
-      "publishedAt": "2026-08-18T05:00:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
-      "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
     },
     {
       "source": "Ethereum Blog",
