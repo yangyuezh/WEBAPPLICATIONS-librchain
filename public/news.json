@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-18T23:33:19.355Z",
+  "updatedAt": "2026-08-19T01:50:06.647Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "summary": "Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto and traditional markets.",
+      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "publishedAt": "2026-08-19T01:35:36.000Z",
+      "keywords": [
+        "Policy",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260819-it-has-to-pass-andrew-cuomo-warns-us-is-falling-behind-on-crypto-rules",
+      "localUrl": "/news/20260819-it-has-to-pass-andrew-cuomo-warns-us-is-falling-behind-on-crypto-rules.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
@@ -218,17 +233,6 @@
       "category": "X热点",
       "slug": "20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are",
       "localUrl": "/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨NEW: The @SECGov has just formally proposed Regulation Crypto Assets, a new framework for crypto fundraising in the U.S. The proposal would: 📌Allow certain offerings of up to $5M over four years or $75M annually without SEC registration 📌Create a co - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkWl9xUUZZcGVNRGRmYWx4NXhPWmw3T1VyOHpzZjZSNmNsMzhNUE55cGlzckYzckdqbUM1dzZxS2RfeGZQM0RNNkVJTHYwSlh2RktuU1llVVowcjNwQTlVaWdFTVZnZw?oc=5\" target=\"_blank\">🚨NEW: The @SECGov has just …",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkWl9xUUZZcGVNRGRmYWx4NXhPWmw3T1VyOHpzZjZSNmNsMzhNUE55cGlzckYzckdqbUM1dzZxS2RfeGZQM0RNNkVJTHYwSlh2RktuU1llVVowcjNwQTlVaWdFTVZnZw?oc=5",
-      "publishedAt": "2026-08-18T18:49:12.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-new-the-secgov-has-just-formally-proposed-regulation-crypto-assets-a-new-framewo",
-      "localUrl": "/news/20260818-new-the-secgov-has-just-formally-proposed-regulation-crypto-assets-a-new-framewo.html"
     },
     {
       "source": "X Wire",
@@ -667,6 +671,17 @@
       "localUrl": "/news/20260818-visa-looking-for-new-stablecoin-settlement-partner-after-bvnk-sale-to-mastercard.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: $2.8 trillion bank Citi announces they will go live with Bitcoin custody services later this year 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5\" target=\"_blank\">JUST IN: $2.8 trillion bank…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hYlhwNFI3M3lySE1DMnVvQzdjdTZmVkFYdnBabjJrZXhOYTF5QkdJbHh3aEpJSEdLYzBGWFdLbEJuWC03V3lMa2EyVmJqb2pFWHhpdk1mSmxvaktLZHRrM0trYXdYTTA?oc=5",
+      "publishedAt": "2026-08-18T12:19:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s",
+      "localUrl": "/news/20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
       "summary": "Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.",
@@ -751,21 +766,6 @@
       "category": "DeFi",
       "slug": "20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower",
       "localUrl": "/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin scores a rare win over S&P 500 with 2.6% rise versus 0.5% fall",
-      "summary": "BTC outperformed Wall Street on Monday, breaking its recent pattern of lagging behind U.S. stocks.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-scored-a-rare-win-over-s-and-p-500-on-monday",
-      "publishedAt": "2026-08-18T10:01:23.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260818-bitcoin-scores-a-rare-win-over-sp-500-with-26-rise-versus-05-fall",
-      "localUrl": "/news/20260818-bitcoin-scores-a-rare-win-over-sp-500-with-26-rise-versus-05-fall.html"
     },
     {
       "source": "Cointelegraph",

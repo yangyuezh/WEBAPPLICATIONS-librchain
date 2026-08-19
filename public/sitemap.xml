@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-18T23:33:19.396Z</lastmod>
+    <lastmod>2026-08-19T01:50:06.685Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-18T23:33:19.396Z</lastmod>
+    <lastmod>2026-08-19T01:50:06.685Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-it-has-to-pass-andrew-cuomo-warns-us-is-falling-behind-on-crypto-rules.html</loc>
+    <lastmod>2026-08-19T01:35:36.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260818-robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad.html</loc>
@@ -105,12 +111,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html</loc>
     <lastmod>2026-08-18T18:53:37.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-new-the-secgov-has-just-formally-proposed-regulation-crypto-assets-a-new-framewo.html</loc>
-    <lastmod>2026-08-18T18:49:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -307,6 +307,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260818-just-in-28-trillion-bank-citi-announces-they-will-go-live-with-bitcoin-custody-s.html</loc>
+    <lastmod>2026-08-18T12:19:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260818-ethereums-next-upgrade-breaks-the-21000-gas-rule-wallets-rely-on.html</loc>
     <lastmod>2026-08-18T12:17:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -339,12 +345,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower.html</loc>
     <lastmod>2026-08-18T10:38:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-bitcoin-scores-a-rare-win-over-sp-500-with-26-rise-versus-05-fall.html</loc>
-    <lastmod>2026-08-18T10:01:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
