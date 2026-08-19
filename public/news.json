@@ -1,10 +1,36 @@
 {
-  "updatedAt": "2026-08-19T16:43:50.072Z",
+  "updatedAt": "2026-08-19T17:36:56.326Z",
   "total": 84,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "OCC head promises final GENIUS rules by November",
+      "summary": "The US banking regulator released a 376‑page proposal in February, calling for public comment on rules to implement the stablecoin bill ahead of its January 2027 effective date.",
+      "url": "https://cointelegraph.com/news/occ-head-jonathan-gould-genius-rules-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T17:00:01.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260819-occ-head-promises-final-genius-rules-by-november",
+      "localUrl": "/news/20260819-occ-head-promises-final-genius-rules-by-november.html"
+    },
+    {
       "source": "Decrypt",
-      "title": "Coinbase's Base Is Betting Big on AI Agents With $100K Startup Accelerator",
+      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
+      "summary": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
+      "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
+      "publishedAt": "2026-08-19T16:54:46.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means",
+      "localUrl": "/news/20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
       "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
       "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
       "publishedAt": "2026-08-19T16:31:04.000Z",
@@ -12,8 +38,8 @@
         "Coins"
       ],
       "category": "综合",
-      "slug": "20260819-coinbases-base-is-betting-big-on-ai-agents-with-100k-startup-accelerator",
-      "localUrl": "/news/20260819-coinbases-base-is-betting-big-on-ai-agents-with-100k-startup-accelerator.html"
+      "slug": "20260819-coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator",
+      "localUrl": "/news/20260819-coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator.html"
     },
     {
       "source": "Cointelegraph",
@@ -55,6 +81,17 @@
       "category": "市场",
       "slug": "20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour",
       "localUrl": "/news/20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin surges over +7% to its highest level since June 2nd as $1.2 billion worth of shorts are liquidated in 60 minutes. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cGNxLThUSGZWaWhKWExheGhuNmItbDR0ZmNCa2RaVDF2YjRKQVJqQVhnV0hHUGpGTTNTdnA1dzhOQnZMY0g4Zk10bnhpdHNZUFlVZXZXQ0Jzd2QzRVluVzZlekhKUQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges ove…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cGNxLThUSGZWaWhKWExheGhuNmItbDR0ZmNCa2RaVDF2YjRKQVJqQVhnV0hHUGpGTTNTdnA1dzhOQnZMY0g4Zk10bnhpdHNZUFlVZXZXQ0Jzd2QzRVluVzZlekhKUQ?oc=5",
+      "publishedAt": "2026-08-19T16:07:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
+      "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
     },
     {
       "source": "Decrypt",
@@ -560,7 +597,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $69,700 as Treasury move pushes yields lower",
+      "title": "Live updates: Bitcoin and gold jump but rejected at key level as Treasury move pushes yields lower",
       "summary": "Led by Scott Bessent, the U.S. Treasury announced at least a doubling in the size of its long-dated bond buybacks.",
       "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
       "publishedAt": "2026-08-19T09:05:45.000Z",
@@ -572,8 +609,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260819-live-updates-bitcoin-hits-69700-as-treasury-move-pushes-yields-lower",
-      "localUrl": "/news/20260819-live-updates-bitcoin-hits-69700-as-treasury-move-pushes-yields-lower.html"
+      "slug": "20260819-live-updates-bitcoin-and-gold-jump-but-rejected-at-key-level-as-treasury-move-pu",
+      "localUrl": "/news/20260819-live-updates-bitcoin-and-gold-jump-but-rejected-at-key-level-as-treasury-move-pu.html"
     },
     {
       "source": "Cointelegraph",
@@ -803,19 +840,6 @@
       "localUrl": "/news/20260818-sec-proposes-crypto-fundraising-exemptions-in-abrupt-about-face.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ripple- and Coinbase-funded PAC spends $2M in Florida race with little mention of crypto",
-      "summary": "A Florida representative not running for reelection who voted against the GENIUS and CLARITY Acts has endorsed a Democratic candidate, possibly leading to PAC-funded negative ads.",
-      "url": "https://cointelegraph.com/news/crypto-pac-ads-florida-congress-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T19:54:16.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260818-ripple-and-coinbase-funded-pac-spends-2m-in-florida-race-with-little-mention-of-",
-      "localUrl": "/news/20260818-ripple-and-coinbase-funded-pac-spends-2m-in-florida-race-with-little-mention-of-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
       "summary": "Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.",
@@ -827,17 +851,6 @@
       "category": "市场",
       "slug": "20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks",
       "localUrl": "/news/20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto assets. As the Crypto Capital of the World, the U.S. must and will lead. Regulation Crypto Assets will ensure that we do. 🇺🇸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5\" target=\"_blank\">With our new proposal, the S…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5",
-      "publishedAt": "2026-08-18T18:55:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-",
-      "localUrl": "/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html"
     },
     {
       "source": "X Wire",
@@ -1004,19 +1017,6 @@
       "category": "X热点",
       "slug": "20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th",
       "localUrl": "/news/20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
-      "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
-      "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
-      "publishedAt": "2026-08-18T12:37:02.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
-      "localUrl": "/news/20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high.html"
     },
     {
       "source": "X Wire",
