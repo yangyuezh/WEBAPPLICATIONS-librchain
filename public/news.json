@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-08-19T08:51:19.653Z",
+  "updatedAt": "2026-08-19T09:45:42.513Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
+      "summary": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
+      "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
+      "publishedAt": "2026-08-19T09:31:03.000Z",
+      "keywords": [
+        "zcash",
+        "Coins"
+      ],
+      "category": "RWA",
+      "slug": "20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet",
+      "localUrl": "/news/20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+      "summary": "Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+      "publishedAt": "2026-08-19T09:10:22.000Z",
+      "keywords": [
+        "Markets",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
+      "localUrl": "/news/20260819-openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+      "summary": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
+      "publishedAt": "2026-08-19T09:05:45.000Z",
+      "keywords": [
+        "Markets",
+        "Artificial Intelligence",
+        "Bitcoin News",
+        "Live News",
+        "live_news"
+      ],
+      "category": "DeFi",
+      "slug": "20260819-live-updates-bitcoin-remains-above-64000-as-oil-rises-and-the-kospi-tumbles-6",
+      "localUrl": "/news/20260819-live-updates-bitcoin-remains-above-64000-as-oil-rises-and-the-kospi-tumbles-6.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
@@ -345,6 +391,17 @@
     },
     {
       "source": "X Wire",
+      "title": "With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto assets. As the Crypto Capital of the World, the U.S. must and will lead. Regulation Crypto Assets will ensure that we do. 🇺🇸 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5\" target=\"_blank\">With our new proposal, the S…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5",
+      "publishedAt": "2026-08-18T18:55:26.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-",
+      "localUrl": "/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html"
+    },
+    {
+      "source": "X Wire",
       "title": "BREAKING: 🇺🇸 The SEC has officially proposed its first ever crypto rulebook. Here are the key points: 1. Projects can raise up to $75 million a year without registering as securities. 2. A separate one time exemption allows up to $5 million over four years. 3. A t - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS0VxN2Q3Q2FJRm12RnhqUTJ4Yy1mbFpYUGd4RGxZVTVoQV9XSXdLZk8zSXhndFVSTHJrcHhpYnU5cGNQc3JFaWhCdG1mUWkxSTVyMEQ4SkEwMnlQanBNcmJmQQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 The SEC has offic…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS0VxN2Q3Q2FJRm12RnhqUTJ4Yy1mbFpYUGd4RGxZVTVoQV9XSXdLZk8zSXhndFVSTHJrcHhpYnU5cGNQc3JFaWhCdG1mUWkxSTVyMEQ4SkEwMnlQanBNcmJmQQ?oc=5",
@@ -681,17 +738,6 @@
       "localUrl": "/news/20260818-japans-metaplanet-launching-us-bitcoin-treasury-company-through-135-million-nano.html"
     },
     {
-      "source": "X Wire",
-      "title": "🔥 BULLISH: BlackRock says Bitcoin’s investment case remains intact after a ~50% pullback, with a 1-2% allocation still potentially improving risk-adjusted returns in a 60/40 portfolio. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YYXhSckFkRmZoc2NPdVRuTHFZWmNIUmh3b3Nmd2VTWFc2cUtqVkk3SzRqUUI1VGdqcFVzR3ZpVFpyWXV1QWwzdVo5elJqUGh6RmcyMkVRVFpyekhmTmp0allwSUE?oc=5\" target=\"_blank\">🔥 BULLISH: BlackRock says Bitc…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YYXhSckFkRmZoc2NPdVRuTHFZWmNIUmh3b3Nmd2VTWFc2cUtqVkk3SzRqUUI1VGdqcFVzR3ZpVFpyWXV1QWwzdVo5elJqUGh6RmcyMkVRVFpyekhmTmp0allwSUE?oc=5",
-      "publishedAt": "2026-08-18T14:29:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-bullish-blackrock-says-bitcoins-investment-case-remains-intact-after-a-50-pullba",
-      "localUrl": "/news/20260818-bullish-blackrock-says-bitcoins-investment-case-remains-intact-after-a-50-pullba.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
       "summary": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
@@ -839,37 +885,6 @@
       "category": "X热点",
       "slug": "20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-",
       "localUrl": "/news/20260818-metaplanet-to-invest-2100-bitcoin-in-super-league-to-launch-us-bitcoin-treasury-.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-      "summary": "Visa’s request for product (RFP) talks about the need to support a range of stablecoins.",
-      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
-      "publishedAt": "2026-08-18T12:20:48.000Z",
-      "keywords": [
-        "Finance",
-        "Exclusive",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260818-visa-looking-for-new-stablecoin-settlement-partner-after-bvnk-sale-to-mastercard",
-      "localUrl": "/news/20260818-visa-looking-for-new-stablecoin-settlement-partner-after-bvnk-sale-to-mastercard.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on",
-      "summary": "Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.",
-      "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
-      "publishedAt": "2026-08-18T12:17:05.000Z",
-      "keywords": [
-        "Tech",
-        "Ethereum News",
-        "News"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-ethereums-next-upgrade-breaks-the-21000-gas-rule-wallets-rely-on",
-      "localUrl": "/news/20260818-ethereums-next-upgrade-breaks-the-21000-gas-rule-wallets-rely-on.html"
     },
     {
       "source": "Decrypt",
@@ -1046,19 +1061,6 @@
       "category": "监管",
       "slug": "20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us",
       "localUrl": "/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
-      "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-      "publishedAt": "2026-08-17T19:59:18.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "安全",
-      "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
-      "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
     },
     {
       "source": "X Wire",
