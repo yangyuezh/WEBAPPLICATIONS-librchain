@@ -1,7 +1,102 @@
 {
-  "updatedAt": "2026-08-19T14:49:04.935Z",
+  "updatedAt": "2026-08-19T15:42:50.556Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
+      "summary": "Bitcoin is close to forming a pattern that analysts say could signal prices rising to as high as $76,000.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
+      "publishedAt": "2026-08-19T15:22:47.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Technical Analysis",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000",
+      "localUrl": "/news/20260819-bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+      "summary": "COIN and BLSH rose about 8% and CRCL gained nearly 10% ahead of a key procedural vote scheduled for Sept. 15.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
+      "publishedAt": "2026-08-19T15:22:29.000Z",
+      "keywords": [
+        "Markets",
+        "Clarity Act",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-abou",
+      "localUrl": "/news/20260819-coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-abou.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Injective receives SEC transfer agent registration for institutional services arm",
+      "summary": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
+      "url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T15:19:21.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260819-injective-receives-sec-transfer-agent-registration-for-institutional-services-ar",
+      "localUrl": "/news/20260819-injective-receives-sec-transfer-agent-registration-for-institutional-services-ar.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
+      "summary": "AI agents could boost crypto activity, but much of the value may bypass blockchains and their tokens.",
+      "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
+      "publishedAt": "2026-08-19T14:59:07.000Z",
+      "keywords": [
+        "Tech",
+        "Artificial Intelligence",
+        "Fidelity Digital Assets",
+        "Stablecoins",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260819-ai-could-supercharge-crypto-but-theres-a-catch-fidelity-digital-assets-says",
+      "localUrl": "/news/20260819-ai-could-supercharge-crypto-but-theres-a-catch-fidelity-digital-assets-says.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
+      "summary": "In this week's Crypto Long & Short, Solstice Finance's David Plisek argues that most of the money lost in DeFi this spring wasn't taken by hackers but by yield strategies that quietly stopped working. Looking at April's $13 billion drawdow…",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
+      "publishedAt": "2026-08-19T14:57:35.000Z",
+      "keywords": [
+        "CoinDesk Indices",
+        "Crypto Long & Short",
+        "CoinDesk Indices",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260819-crypto-long-short-where-defi-yield-really-comes-from-and-why-it-broke-this-sprin",
+      "localUrl": "/news/20260819-crypto-long-short-where-defi-yield-really-comes-from-and-why-it-broke-this-sprin.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger",
+      "summary": "The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain relevant as stablecoins and tokenized deposits become widely used worldwide.",
+      "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
+      "publishedAt": "2026-08-19T14:50:33.000Z",
+      "keywords": [
+        "Finance",
+        "Standard chartered",
+        "banks",
+        "Ledger",
+        "tokenized deposits",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260819-hsbc-standard-chartered-execute-first-live-banking-transaction-on-swifts-247-led",
+      "localUrl": "/news/20260819-hsbc-standard-chartered-execute-first-live-banking-transaction-on-swifts-247-led.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
@@ -348,7 +443,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tops $65,000 as Treasury move sends yields lower",
+      "title": "Live updates: Bitcoin hits $69,700 as Treasury move pushes yields lower",
       "summary": "Led by Scott Bessent, the U.S. Treasury announced at least a doubling in the size of its long-dated bond buybacks.",
       "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
       "publishedAt": "2026-08-19T09:05:45.000Z",
@@ -360,8 +455,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260819-live-updates-bitcoin-tops-65000-as-treasury-move-sends-yields-lower",
-      "localUrl": "/news/20260819-live-updates-bitcoin-tops-65000-as-treasury-move-sends-yields-lower.html"
+      "slug": "20260819-live-updates-bitcoin-hits-69700-as-treasury-move-pushes-yields-lower",
+      "localUrl": "/news/20260819-live-updates-bitcoin-hits-69700-as-treasury-move-pushes-yields-lower.html"
     },
     {
       "source": "Cointelegraph",
@@ -484,35 +579,15 @@
       "localUrl": "/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "summary": "Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto and traditional markets.",
-      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
-      "publishedAt": "2026-08-19T01:35:36.000Z",
-      "keywords": [
-        "Policy",
-        "Clarity Act",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260819-it-has-to-pass-andrew-cuomo-warns-us-is-falling-behind-on-crypto-rules",
-      "localUrl": "/news/20260819-it-has-to-pass-andrew-cuomo-warns-us-is-falling-behind-on-crypto-rules.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "summary": "Vlad Tenev says tokenized stocks could bring real-time settlement and 24/7 trading, but U.S. rules remain a hurdle.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-      "publishedAt": "2026-08-18T23:11:12.000Z",
-      "keywords": [
-        "Markets",
-        "Tokenization",
-        "Robinhood",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260818-robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad",
-      "localUrl": "/news/20260818-robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad.html"
+      "source": "X Wire",
+      "title": "Some asked, \"why are you doing an AI / crypto project when you think AI is a bubble that will burst?\" Very simple, the bubble is in debt issued to build data centers and stocks of unprofitable hyperscalers and frontier labs. Price is what you pay, value is what you - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dmVqdllXOFFJVEZwWUlyd3h0c3JFWnppNGRCOXFQU1FpY25kRTJPTHZsTFhjZjJWY3QtakpYZ18tR2huTGpaNWo0RFlJNl9pZVdwU0djUzB1Wi0tV18wbGRB?oc=5\" target=\"_blank\">Some asked, \"why are you doing an …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84dmVqdllXOFFJVEZwWUlyd3h0c3JFWnppNGRCOXFQU1FpY25kRTJPTHZsTFhjZjJWY3QtakpYZ18tR2huTGpaNWo0RFlJNl9pZVdwU0djUzB1Wi0tV18wbGRB?oc=5",
+      "publishedAt": "2026-08-19T02:07:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-",
+      "localUrl": "/news/20260819-some-asked-why-are-you-doing-an-ai-crypto-project-when-you-think-ai-is-a-bubble-.html"
     },
     {
       "source": "Decrypt",
@@ -552,22 +627,6 @@
       "category": "综合",
       "slug": "20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed",
       "localUrl": "/news/20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-      "summary": "The Financial Accounting Standards Board, a nonprofit that governs accounting practices, proposed that certain stablecoins should fit the bill as cash-like.",
-      "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
-      "publishedAt": "2026-08-18T21:25:42.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260818-us-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
-      "localUrl": "/news/20260818-us-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent.html"
     },
     {
       "source": "Cointelegraph",
@@ -681,37 +740,6 @@
       "category": "市场",
       "slug": "20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks",
       "localUrl": "/news/20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
-      "summary": "The Securities and Exchange Commission issued the \"Regulation Crypto\" proposal after having cancelled a meeting days before meant to vote on it.",
-      "url": "https://www.coindesk.com/policy/2026/08/18/r",
-      "publishedAt": "2026-08-18T19:09:33.000Z",
-      "keywords": [
-        "Policy",
-        "Regulation",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260818-us-sec-proposes-first-major-crypto-rule-in-surprise-announcement",
-      "localUrl": "/news/20260818-us-sec-proposes-first-major-crypto-rule-in-surprise-announcement.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "summary": "This is the first time a U.S. government entity has publicly replaced its blockchain infrastructure specifically on security grounds.",
-      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
-      "publishedAt": "2026-08-18T18:57:00.000Z",
-      "keywords": [
-        "Finance",
-        "Crypto News",
-        "Exclusive",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move",
-      "localUrl": "/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html"
     },
     {
       "source": "X Wire",
@@ -891,19 +919,6 @@
       "localUrl": "/news/20260818-bitcoin-capitulation-check-xcom.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
-      "summary": "The $613 billion asset manager will subadvise a high-yield fund tokenized across Ethereum, Solana, Avalanche and Sui.",
-      "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T15:59:54.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-neuberger-teams-with-securitize-on-multi-chain-tokenized-fixed-income-fund-launc",
-      "localUrl": "/news/20260818-neuberger-teams-with-securitize-on-multi-chain-tokenized-fixed-income-fund-launc.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
       "summary": "The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.",
@@ -987,17 +1002,6 @@
       "category": "基础设施",
       "slug": "20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
       "localUrl": "/news/20260818-morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Since April, a small team inside Metaplanet has been working on something we could not talk about. Today it is public. Metaplanet is taking a controlling stake in Super League Enterprise (Nasdaq: SLE). At closing it will be renamed Superplanet, our U.S. Bitcoi - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNy15RTM2M1BFa2RqcWVCYkR2d052TDluVFhDaDkxQkp1a2ozeDhacDBNRlJYQ2x1ZTZZSVduaWhYZHZRNUktdnY3UE51OG5sNHVCc1gwV1RtamdwVWc?oc=5\" target=\"_blank\">Since April, a small team inside Metapl…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PNy15RTM2M1BFa2RqcWVCYkR2d052TDluVFhDaDkxQkp1a2ozeDhacDBNRlJYQ2x1ZTZZSVduaWhYZHZRNUktdnY3UE51OG5sNHVCc1gwV1RtamdwVWc?oc=5",
-      "publishedAt": "2026-08-18T12:32:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-since-april-a-small-team-inside-metaplanet-has-been-working-on-something-we-coul",
-      "localUrl": "/news/20260818-since-april-a-small-team-inside-metaplanet-has-been-working-on-something-we-coul.html"
     },
     {
       "source": "X Wire",
