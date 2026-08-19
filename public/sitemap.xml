@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T03:07:57.119Z</lastmod>
+    <lastmod>2026-08-19T03:58:13.448Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T03:07:57.119Z</lastmod>
+    <lastmod>2026-08-19T03:58:13.448Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -175,6 +175,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260818-1-crypto-more-relevant-today-given-the-rapidly-increasing-capabilities-of-ai-and.html</loc>
+    <lastmod>2026-08-18T16:21:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260818-kraken-adds-us-stocks-in-europe-as-tradfi-crypto-divide-blurs.html</loc>
     <lastmod>2026-08-18T16:08:46.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -237,6 +243,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-japans-metaplanet-launching-us-bitcoin-treasury-company-through-135-million-nano.html</loc>
     <lastmod>2026-08-18T14:35:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260818-bullish-blackrock-says-bitcoins-investment-case-remains-intact-after-a-50-pullba.html</loc>
+    <lastmod>2026-08-18T14:29:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -445,12 +457,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-its-hard-to-talk-about-crypto-these-days-in-the-same-way-that-salesforce-shopify.html</loc>
-    <lastmod>2026-08-17T20:45:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-treasury-proposes-rules-defining-who-can-legally-sell-stablecoins-in-us.html</loc>
     <lastmod>2026-08-17T20:31:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html</loc>
     <lastmod>2026-08-17T18:02:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-insight-vitalikbuterin-credits-bitcoin-developers-for-pioneering-the-scaling-ide.html</loc>
-    <lastmod>2026-08-17T09:52:53.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
