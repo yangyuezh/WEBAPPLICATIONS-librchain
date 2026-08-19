@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-19T21:36:20.672Z",
+  "updatedAt": "2026-08-19T22:36:55.752Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "summary": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
+      "publishedAt": "2026-08-19T22:26:01.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-bitcoin-briefly-hits-70000-for-the-first-time-since-june-here-is-why",
+      "localUrl": "/news/20260819-bitcoin-briefly-hits-70000-for-the-first-time-since-june-here-is-why.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+      "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
+      "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+      "publishedAt": "2026-08-19T22:18:01.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip",
+      "localUrl": "/news/20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+      "summary": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
+      "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+      "publishedAt": "2026-08-19T21:36:50.000Z",
+      "keywords": [
+        "Artificial Intelligence"
+      ],
+      "category": "监管",
+      "slug": "20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat",
+      "localUrl": "/news/20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
@@ -14,6 +55,17 @@
       "category": "市场",
       "slug": "20260819-bitcoincom-integrates-uae-registered-us-dollar-stablecoin-into-self-custodial-wa",
       "localUrl": "/news/20260819-bitcoincom-integrates-uae-registered-us-dollar-stablecoin-into-self-custodial-wa.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 White House Crypto Summit recap: • President Trump says US considers buying \"sizable\" amounts of Bitcoin & other crypto. • Trump calls on Congress to pass Crypto Clarity Act. • Trump says US is ensuring it remains the \"undisputed leader\" in $BTC & cry - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QckVNcXl2TW1LLXFlWjZEWXNQM0VYdXo5aXpkeERDcHE4eDBUWXIxS2xaazAwSUVpMl9UNWI2MkhLOC1KdVp1STNmUENOb2tWR0ZwY0tTemIyRHhEZmV1ZVBR?oc=5\" target=\"_blank\">🇺🇸 White House Crypto Summit rec…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QckVNcXl2TW1LLXFlWjZEWXNQM0VYdXo5aXpkeERDcHE4eDBUWXIxS2xaazAwSUVpMl9UNWI2MkhLOC1KdVp1STNmUENOb2tWR0ZwY0tTemIyRHhEZmV1ZVBR?oc=5",
+      "publishedAt": "2026-08-19T20:01:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-white-house-crypto-summit-recap-president-trump-says-us-considers-buying-sizable",
+      "localUrl": "/news/20260819-white-house-crypto-summit-recap-president-trump-says-us-considers-buying-sizable.html"
     },
     {
       "source": "Decrypt",
@@ -598,17 +650,6 @@
       "localUrl": "/news/20260819-bitcoin-is-flashing-8-of-12-capitulation-signals-but-bottoms-not-yet-in-says-van.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: The Clarity Act now has just a 20% chance of being signed into law in 2026. Just months ago, markets saw an 80%+ chance of the Clarity Act being signed into law. Crypto needs a new catalyst. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMWJLN0JOa3pHNkI3RHNIOE5UYlNmUUpzdUdkT2hUQktEcHJDQXQyY3o1QUdfY1BvTHdmSl9YWkJSM1FTU0lLU0F6RjRTUDcwS0Rhd00yS3VEV2ZUazBwUTY1WW9xQQ?oc=5\" target=\"_blank\">BREAKING: The Clarity Act no…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMWJLN0JOa3pHNkI3RHNIOE5UYlNmUUpzdUdkT2hUQktEcHJDQXQyY3o1QUdfY1BvTHdmSl9YWkJSM1FTU0lLU0F6RjRTUDcwS0Rhd00yS3VEV2ZUazBwUTY1WW9xQQ?oc=5",
-      "publishedAt": "2026-08-19T12:42:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-breaking-the-clarity-act-now-has-just-a-20-chance-of-being-signed-into-law-in-20",
-      "localUrl": "/news/20260819-breaking-the-clarity-act-now-has-just-a-20-chance-of-being-signed-into-law-in-20.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
       "summary": "The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.",
@@ -813,21 +854,6 @@
       "localUrl": "/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
-      "summary": "Widening losses and intensifying competition coincide with a pause in frontier reinforcement-learning training as openai strengthens its safety controls.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
-      "publishedAt": "2026-08-19T09:10:22.000Z",
-      "keywords": [
-        "Markets",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260819-openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
-      "localUrl": "/news/20260819-openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
       "summary": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
@@ -985,32 +1011,6 @@
       "category": "X热点",
       "slug": "20260818-today-the-sec-proposed-new-rules-regulation-crypto-assets-that-would-create-a-cl",
       "localUrl": "/news/20260818-today-the-sec-proposed-new-rules-regulation-crypto-assets-that-would-create-a-cl.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
-      "summary": "WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
-      "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
-      "publishedAt": "2026-08-18T18:36:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "监管",
-      "slug": "20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi",
-      "localUrl": "/news/20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-      "summary": "The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
-      "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
-      "publishedAt": "2026-08-18T18:06:42.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware",
-      "localUrl": "/news/20260818-bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware.html"
     },
     {
       "source": "X Wire",
