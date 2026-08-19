@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:35:07 GMT</lastBuildDate>
+    <item>
+      <title>Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures</title>
+      <link>https://www.librchain.com/news/20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures.html</guid>
+      <description>The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.</description>
+      <pubDate>Wed, 19 Aug 2026 19:16:04 GMT</pubDate>
+      <source url="https://decrypt.co/375987/kalshi-copper-perpetual-futures">Decrypt</source>
+    </item>
+    <item>
+      <title>Crypto PAC notches primary wins, but loses $2M Florida race</title>
+      <link>https://www.librchain.com/news/20260819-crypto-pac-notches-primary-wins-but-loses-2m-florida-race.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260819-crypto-pac-notches-primary-wins-but-loses-2m-florida-race.html</guid>
+      <description>A Fairshake spokesperson said that the PAC was “just getting started“ on its expenditures as part of efforts to fill US Congress with lawmakers friendly to the crypto industry.</description>
+      <pubDate>Wed, 19 Aug 2026 18:48:58 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/crypto-pac-wins-primaries-loses-florida-race?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen</title>
       <link>https://www.librchain.com/news/20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen.html</link>
@@ -69,6 +85,14 @@
       <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5&quot; target=&quot;_blank&quot;&gt;$1.2 trillion has been added to …</description>
       <pubDate>Wed, 19 Aug 2026 16:23:17 GMT</pubDate>
       <source url="https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5">X Wire</source>
+    </item>
+    <item>
+      <title>JUST IN: Bitcoin odds of hitting $70,000 this month rise to 72% after pumping 7% in one hour. - x.com</title>
+      <link>https://www.librchain.com/news/20260819-just-in-bitcoin-odds-of-hitting-70000-this-month-rise-to-72-after-pumping-7-in-o.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260819-just-in-bitcoin-odds-of-hitting-70000-this-month-rise-to-72-after-pumping-7-in-o.html</guid>
+      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oXzA4WEJUZU9mOHFQRVl6Rmk3eTdFdlM5aDhkUmw4SDRoU2tVSkdTQjJYb0UyOURsS0ZheGRtbkpmNmlLN3V5Q2cxX3oycnRsdmJyQVQ5WVB4RnRKOXNmSGlB?oc=5&quot; target=&quot;_blank&quot;&gt;JUST IN: Bitcoin odds of hitting $…</description>
+      <pubDate>Wed, 19 Aug 2026 16:19:29 GMT</pubDate>
+      <source url="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oXzA4WEJUZU9mOHFQRVl6Rmk3eTdFdlM5aDhkUmw4SDRoU2tVSkdTQjJYb0UyOURsS0ZheGRtbkpmNmlLN3V5Q2cxX3oycnRsdmJyQVQ5WVB4RnRKOXNmSGlB?oc=5">X Wire</source>
     </item>
     <item>
       <title>Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite</title>
@@ -461,30 +485,6 @@
       <description>A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.</description>
       <pubDate>Wed, 19 Aug 2026 06:36:11 GMT</pubDate>
       <source url="https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million">CoinDesk</source>
-    </item>
-    <item>
-      <title>MAYAChain halts network after estimated $1.7M exploit</title>
-      <link>https://www.librchain.com/news/20260819-mayachain-halts-network-after-estimated-17m-exploit.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260819-mayachain-halts-network-after-estimated-17m-exploit.html</guid>
-      <description>A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.</description>
-      <pubDate>Wed, 19 Aug 2026 05:13:54 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
-    </item>
-    <item>
-      <title>🚨 UPDATE: Bitcoin&apos;s spot demand is about to turn positive for the first time since February, a shift that&apos;s historically led to an 18.1% median gain over 60 days with a 78% win rate, per CryptoQuant. - x.com</title>
-      <link>https://www.librchain.com/news/20260819-update-bitcoins-spot-demand-is-about-to-turn-positive-for-the-first-time-since-f.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260819-update-bitcoins-spot-demand-is-about-to-turn-positive-for-the-first-time-since-f.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SdVRheWh6OEFZUC1sc1JZcE5hZ0tjYXo1Mjd2VjNmbXROVUwtMTJTcGNDd0pjX2NiaWJPSGJzdTVVUTJ5TmpMNEktblY0eFVqdXpXVlVveElzRW5uaGR2NnNrNEQ?oc=5&quot; target=&quot;_blank&quot;&gt;🚨 UPDATE: Bitcoin&apos;s spot deman…</description>
-      <pubDate>Wed, 19 Aug 2026 04:00:44 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SdVRheWh6OEFZUC1sc1JZcE5hZ0tjYXo1Mjd2VjNmbXROVUwtMTJTcGNDd0pjX2NiaWJPSGJzdTVVUTJ5TmpMNEktblY0eFVqdXpXVlVveElzRW5uaGR2NnNrNEQ?oc=5">X Wire</source>
-    </item>
-    <item>
-      <title>US accounting board FASB proposes conditions for stablecoins as cash equivalents</title>
-      <link>https://www.librchain.com/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260819-us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents.html</guid>
-      <description>The FASB said secondary-market liquidity alone would not be enough, with holders needing direct issuer redemption rights and one-to-one liquid reserves.</description>
-      <pubDate>Wed, 19 Aug 2026 03:58:13 GMT</pubDate>
-      <source url="https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
   </channel>
 </rss>
