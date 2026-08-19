@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-19T05:43:31.673Z",
+  "updatedAt": "2026-08-19T07:01:35.475Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "summary": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+      "publishedAt": "2026-08-19T06:36:11.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260819-maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-11-mil",
+      "localUrl": "/news/20260819-maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-11-mil.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T05:53:49.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260819-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260819-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "summary": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "publishedAt": "2026-08-19T05:45:27.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-robot-maker-unitrees-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "localUrl": "/news/20260819-robot-maker-unitrees-ipo-surges-600-outpacing-crypto-traders-premarket-bets.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "MAYAChain halts network after estimated $1.7M exploit",
@@ -179,17 +220,15 @@
       "localUrl": "/news/20260818-falconx-interstice-connect-canton-to-ethereum-solana-and-robinhood-chain.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T20:21:26.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260818-heres-what-happened-in-crypto-today.html"
+      "source": "X Wire",
+      "title": "🇺🇸 NEW: The SEC’s proposed “Regulation Crypto Assets” would create tailored rules for certain crypto investment contracts. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiUjJIcGlBSGJxX01rVTk0bVIyT2FfbS1oSFpvU2VVRDFWSWxzZkRzUnZzd19iTTNSZk9YNVdBUTRFWUlJQzJObTVBZTFWVTdyN2RuMTRUUnR2TnhMTXZqUjFNLWk?oc=5\" target=\"_blank\">🇺🇸 NEW: The SEC’s proposed “R…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiUjJIcGlBSGJxX01rVTk0bVIyT2FfbS1oSFpvU2VVRDFWSWxzZkRzUnZzd19iTTNSZk9YNVdBUTRFWUlJQzJObTVBZTFWVTdyN2RuMTRUUnR2TnhMTXZqUjFNLWk?oc=5",
+      "publishedAt": "2026-08-18T20:00:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-new-the-secs-proposed-regulation-crypto-assets-would-create-tailored-rules-for-c",
+      "localUrl": "/news/20260818-new-the-secs-proposed-regulation-crypto-assets-would-create-tailored-rules-for-c.html"
     },
     {
       "source": "Decrypt",
@@ -501,6 +540,17 @@
       "localUrl": "/news/20260818-strong-hands-are-buying-bitcoinnative-bottoms-are-formed-when-profit-taking-slow.html"
     },
     {
+      "source": "X Wire",
+      "title": "Avalanche was designed for the moment when blockchain would move beyond experimentation and become infrastructure for global finance and enterprise. That moment is here, and today’s leadership appointments build on Ava Labs’ progress as we carry t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKd1hLNzZOcXRwRXQtaHNISkxNODY2OFFUZXFmMTRSTktOZ3FSU3gtN0xodUhQVGFONzZFLTMzU3BtckhZMW16VWVZQXBTVzJEYnMwaDMxMHNUYml2MTZqNg?oc=5\" target=\"_blank\">Avalanche was designed for the momen…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKd1hLNzZOcXRwRXQtaHNISkxNODY2OFFUZXFmMTRSTktOZ3FSU3gtN0xodUhQVGFONzZFLTMzU3BtckhZMW16VWVZQXBTVzJEYnMwaDMxMHNUYml2MTZqNg?oc=5",
+      "publishedAt": "2026-08-18T15:31:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-avalanche-was-designed-for-the-moment-when-blockchain-would-move-beyond-experime",
+      "localUrl": "/news/20260818-avalanche-was-designed-for-the-moment-when-blockchain-would-move-beyond-experime.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bitcoin tags $65K as S&P 500 rebounds from 2-week lows on US-Iran rhetoric",
       "summary": "Bitcoin returned to $65,000 for the first time in a week as fresh BTC price volatility accompanied US claims that the Strait of Hormuz was “open and operating.”",
@@ -794,36 +844,6 @@
       "localUrl": "/news/20260818-chainalysis-sues-us-government-over-946m-ice-contract-handed-to-rival-trm-labs.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "The 'crack' in the energy market is wider than ever. Bitcoin might feel it.",
-      "summary": "Your day-ahead look for Aug. 18 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
-      "publishedAt": "2026-08-18T11:21:51.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260818-the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
-      "localUrl": "/news/20260818-the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
-      "summary": "Regulators rejected Polymarket's defense regarding its P2P nature, arguing the platform manages market rules and facilitates crypto-based gambling activity.",
-      "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-      "publishedAt": "2026-08-18T11:05:56.000Z",
-      "keywords": [
-        "Finance",
-        "Polymarket",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260818-south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-      "localUrl": "/news/20260818-south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kraken launches US-listed stock trading for EEA customers",
       "summary": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
@@ -1038,17 +1058,6 @@
     },
     {
       "source": "X Wire",
-      "title": "NEW: 🇺🇸 Harvard University reports owning $101.3M in BlackRocks Bitcoin ETF 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNXNSVC1oTkZza25YaVQwcjdqRUlrMWppZzZ4Zmdoa0loZS1JbDlleDlNX2pNSUNKTDZHZ1R6VHBvX0VzSHJNVy05ay1xZG00SVFweHVDZkxwNVlZT1N4aks5enR0R2M?oc=5\" target=\"_blank\">NEW: 🇺🇸 Harvard Universit…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNXNSVC1oTkZza25YaVQwcjdqRUlrMWppZzZ4Zmdoa0loZS1JbDlleDlNX2pNSUNKTDZHZ1R6VHBvX0VzSHJNVy05ay1xZG00SVFweHVDZkxwNVlZT1N4aks5enR0R2M?oc=5",
-      "publishedAt": "2026-08-17T18:02:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom",
-      "localUrl": "/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html"
-    },
-    {
-      "source": "X Wire",
       "title": "$62,735.08 #Bitcoin - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aS1BfSmFuTUhabElZX1BkeUZnaEdGMVdEZEtHQnZMTVAyTi1HUktPeU1PTWtkMTduSm9wUDNIamVOZ3VCSHVud1hTQlAyLS16cHN0S3JSR29VbWVT?oc=5\" target=\"_blank\">$62,735.08 #Bitcoin</a> <font color=\"#6f6f…",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aS1BfSmFuTUhabElZX1BkeUZnaEdGMVdEZEtHQnZMTVAyTi1HUktPeU1PTWtkMTduSm9wUDNIamVOZ3VCSHVud1hTQlAyLS16cHN0S3JSR29VbWVT?oc=5",
@@ -1081,17 +1090,6 @@
       "category": "基础设施",
       "slug": "20260817-transaction-v1-and-the-alt-trade-off",
       "localUrl": "/news/20260817-transaction-v1-and-the-alt-trade-off.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Right place, right time: many neoclouds spent years mining crypto, then AI showed up and turned their power rights, data centers, and GPUs into some of the hottest assets in tech. 25 quarters in, CoreWeave is pulling in more quarterly revenue than Azure, AW - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5\" target=\"_blank\">Right place, right time: many neoclouds spent y…",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ITkpvT1I3bVN4NWZtLXc4TGNLZDNJSW1wY2VtOEVNUVdyQ2F0SXhyRVpfd2R0Z2VNS1NJdU5oM25wbTREWTNuQm1yZDVjMjJLMS1mR2ZPR1A?oc=5",
-      "publishedAt": "2026-08-16T19:47:54.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u",
-      "localUrl": "/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html"
     }
   ]
 }

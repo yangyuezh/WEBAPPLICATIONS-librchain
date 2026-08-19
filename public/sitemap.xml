@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T05:43:31.697Z</lastmod>
+    <lastmod>2026-08-19T07:01:35.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T05:43:31.697Z</lastmod>
+    <lastmod>2026-08-19T07:01:35.516Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-11-mil.html</loc>
+    <lastmod>2026-08-19T06:36:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-19T05:53:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-robot-maker-unitrees-ipo-surges-600-outpacing-crypto-traders-premarket-bets.html</loc>
+    <lastmod>2026-08-19T05:45:27.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260819-mayachain-halts-network-after-estimated-17m-exploit.html</loc>
@@ -91,8 +109,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-18T20:21:26.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260818-new-the-secs-proposed-regulation-crypto-assets-would-create-tailored-rules-for-c.html</loc>
+    <lastmod>2026-08-18T20:00:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -241,6 +259,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260818-avalanche-was-designed-for-the-moment-when-blockchain-would-move-beyond-experime.html</loc>
+    <lastmod>2026-08-18T15:31:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260818-bitcoin-tags-65k-as-sp-500-rebounds-from-2-week-lows-on-us-iran-rhetoric.html</loc>
     <lastmod>2026-08-18T15:27:13.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -367,18 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it.html</loc>
-    <lastmod>2026-08-18T11:21:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access.html</loc>
-    <lastmod>2026-08-18T11:05:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-kraken-launches-us-listed-stock-trading-for-eea-customers.html</loc>
     <lastmod>2026-08-18T10:53:21.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,12 +493,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260817-new-harvard-university-reports-owning-1013m-in-blackrocks-bitcoin-etf-xcom.html</loc>
-    <lastmod>2026-08-17T18:02:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260817-6273508-bitcoin-xcom.html</loc>
     <lastmod>2026-08-17T00:44:24.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -501,12 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-transaction-v1-and-the-alt-trade-off.html</loc>
     <lastmod>2026-08-17T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260816-right-place-right-time-many-neoclouds-spent-years-mining-crypto-then-ai-showed-u.html</loc>
-    <lastmod>2026-08-16T19:47:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
