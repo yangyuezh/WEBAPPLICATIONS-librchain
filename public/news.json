@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-19T07:50:10.732Z",
+  "updatedAt": "2026-08-19T08:51:19.653Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
+      "summary": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
+      "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T08:34:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop",
+      "localUrl": "/news/20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
+      "summary": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T07:59:16.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260819-bitcoin-etfs-add-189m-as-august-net-inflows-approach-1b",
+      "localUrl": "/news/20260819-bitcoin-etfs-add-189m-as-august-net-inflows-approach-1b.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
@@ -316,17 +342,6 @@
       "category": "监管",
       "slug": "20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move",
       "localUrl": "/news/20260818-wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto assets. As the Crypto Capital of the World, the U.S. must and will lead. Regulation Crypto Assets will ensure that we do. 🇺🇸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5\" target=\"_blank\">With our new proposal, the S…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5",
-      "publishedAt": "2026-08-18T18:55:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-",
-      "localUrl": "/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html"
     },
     {
       "source": "X Wire",
@@ -935,32 +950,6 @@
       "localUrl": "/news/20260818-south-korea-moves-to-block-polymarket-over-gambling-concerns.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "BitBox patches ‘severe’ wallet flaws that could put funds at risk",
-      "summary": "BitBox recommended all users update to firmware version 9.26.5 and said it had received no reports of exploitation or fund losses.",
-      "url": "https://cointelegraph.com/news/bitbox-patches-severe-wallet-firmware-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T08:07:04.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk",
-      "localUrl": "/news/20260818-bitbox-patches-severe-wallet-flaws-that-could-put-funds-at-risk.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-      "summary": "Developers have been urged to test on Plataberget before Glamsterdam’s new gas model reaches Ethereum’s other testnets and mainnet.",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T05:12:18.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade",
-      "localUrl": "/news/20260818-ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade.html"
-    },
-    {
       "source": "X Wire",
       "title": "🚨 UPDATE: Ethereum Foundation launches the Platåberget testnet, opening early public testing for the Glamsterdam upgrade ahead of its Aug. 20 fork. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum Foundation …",
@@ -970,6 +959,17 @@
       "category": "X热点",
       "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
       "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 NOW: Blockchain Association submits a comment letter urging the SEC to rescind outdated Rules 611 and 610(e), pushing for market structure to catch up with tokenization. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMnNkZEtnR3I4ZzR1RzlHbnFJcXJGei1DVktvZUZVaWZleGxvLXFSS3RDZENCZHdhc09wRUFxbmhJNm1pLU1RdmVQZnhaX1VQRWZzbnJUMWJPajljNUw3V1RuU1Q?oc=5\" target=\"_blank\">🇺🇸 NOW: Blockchain Associatio…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMnNkZEtnR3I4ZzR1RzlHbnFJcXJGei1DVktvZUZVaWZleGxvLXFSS3RDZENCZHdhc09wRUFxbmhJNm1pLU1RdmVQZnhaX1VQRWZzbnJUMWJPajljNUw3V1RuU1Q?oc=5",
+      "publishedAt": "2026-08-18T02:40:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou",
+      "localUrl": "/news/20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou.html"
     },
     {
       "source": "X Wire",
