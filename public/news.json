@@ -1,7 +1,37 @@
 {
-  "updatedAt": "2026-08-19T13:55:24.659Z",
+  "updatedAt": "2026-08-19T14:49:04.935Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
+      "summary": "The investment bank will help its roughly 3,000 institutional clients execute large block trades in event contracts.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
+      "publishedAt": "2026-08-19T14:41:55.000Z",
+      "keywords": [
+        "Markets",
+        "Prediction Markets",
+        "Cantor Fitzgerald",
+        "Kalshi",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260819-cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
+      "localUrl": "/news/20260819-cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: SEC Brings Clarity to Crypto",
+      "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
+      "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+      "publishedAt": "2026-08-19T14:30:24.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "监管",
+      "slug": "20260819-morning-minute-sec-brings-clarity-to-crypto",
+      "localUrl": "/news/20260819-morning-minute-sec-brings-clarity-to-crypto.html"
+    },
     {
       "source": "Decrypt",
       "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
@@ -228,7 +258,7 @@
       "title": "Nexo launches regulated crypto-backed credit in Australia",
       "summary": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
       "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T10:20:27.000Z",
+      "publishedAt": "2026-08-19T10:25:00.000Z",
       "keywords": [
         "Latest News"
       ],
@@ -791,23 +821,6 @@
       "localUrl": "/news/20260818-google-is-paying-10-million-to-use-spirit-airlines-data-to-train-its-ai-models.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin has gone quiet as traders chase ‘5x or 10x’ payoffs elsewhere",
-      "summary": "Bitcoin's price swings have hit a cycle low, squeezed by a market tug-of-war with no clear winner. The traders who once lived off its chaos have taken their risk appetite elsewhere.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-      "publishedAt": "2026-08-18T17:00:00.000Z",
-      "keywords": [
-        "Markets",
-        "Volatility",
-        "Exclusive",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260818-bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
-      "localUrl": "/news/20260818-bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Federal prosecutors blast ex-Celsius CEO’s motion to vacate as ‘without merit’",
       "summary": "Currently serving a 12-year sentence in federal prison, Alex Mashinsky continues to explore legal avenues to vacate his conviction related to activities at Celsius.",
@@ -1048,19 +1061,6 @@
       "category": "监管",
       "slug": "20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur",
       "localUrl": "/news/20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-      "summary": "Elon Musk’s AI firm says the state’s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
-      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-      "publishedAt": "2026-08-17T22:16:03.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "市场",
-      "slug": "20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence",
-      "localUrl": "/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html"
     },
     {
       "source": "X Wire",

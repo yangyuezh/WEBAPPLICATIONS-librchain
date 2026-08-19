@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T13:55:24.702Z</lastmod>
+    <lastmod>2026-08-19T14:49:04.975Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T13:55:24.702Z</lastmod>
+    <lastmod>2026-08-19T14:49:04.975Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients.html</loc>
+    <lastmod>2026-08-19T14:41:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-morning-minute-sec-brings-clarity-to-crypto.html</loc>
+    <lastmod>2026-08-19T14:30:24.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260819-chinese-insurtech-firm-zhibao-adds-2380-bitcoin-in-1547m-treasury-pivot.html</loc>
@@ -110,7 +122,7 @@
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260819-nexo-launches-regulated-crypto-backed-credit-in-australia.html</loc>
-    <lastmod>2026-08-19T10:20:27.000Z</lastmod>
+    <lastmod>2026-08-19T10:25:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -367,12 +379,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260818-bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere.html</loc>
-    <lastmod>2026-08-18T17:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-federal-prosecutors-blast-ex-celsius-ceos-motion-to-vacate-as-without-merit.html</loc>
     <lastmod>2026-08-18T16:49:58.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260817-kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur.html</loc>
     <lastmod>2026-08-17T22:35:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence.html</loc>
-    <lastmod>2026-08-17T22:16:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
