@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T07:01:35.475Z",
+  "updatedAt": "2026-08-19T07:50:10.732Z",
   "total": 83,
   "items": [
     {
@@ -31,12 +31,13 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "title": "Robot maker Unitree’s IPO surges 600% , outpacing crypto traders’ premarket bets",
       "summary": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
       "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
       "publishedAt": "2026-08-19T05:45:27.000Z",
       "keywords": [
         "Markets",
+        "Artificial Intelligence",
         "News"
       ],
       "category": "市场",
@@ -58,17 +59,20 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+      "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
       "summary": "Bitcoin held near $64,000 and every major except BNB gained, while Korean semiconductor stocks fell more than 7% and Fed minutes are due at 2 p.m. ET.",
       "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
       "publishedAt": "2026-08-19T04:25:42.000Z",
       "keywords": [
         "Markets",
+        "Solana News",
+        "Bitcoin News",
+        "Ethereum News",
         "News"
       ],
       "category": "基础设施",
-      "slug": "20260819-solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-      "localUrl": "/news/20260819-solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7.html"
+      "slug": "20260819-bitcoin-holds-64000-and-solana-leads-gains-amid-7-korean-chip-stock-slide",
+      "localUrl": "/news/20260819-bitcoin-holds-64000-and-solana-leads-gains-amid-7-korean-chip-stock-slide.html"
     },
     {
       "source": "Cointelegraph",
@@ -371,6 +375,17 @@
       "localUrl": "/news/20260818-trump-family-crypto-firm-tied-to-chinese-ai-models-us-government-called-a-securi.html"
     },
     {
+      "source": "X Wire",
+      "title": "JUST IN: 🇺🇸 The White House to host a crypto summit tomorrow with crypto industry leaders 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQTdCbUpMSGkxc1FGSWFBNkV5N0gxa2VfeG1qUS1qMEtPTVJhZ180OEItWlZQNXd1T0pPRUZBaWNMTlRMdDNJTkg1MEU5Z1lFbGV3NVllNEpYWDhVX3o5VFg2REtfbkU?oc=5\" target=\"_blank\">JUST IN: 🇺🇸 The White Hou…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQTdCbUpMSGkxc1FGSWFBNkV5N0gxa2VfeG1qUS1qMEtPTVJhZ180OEItWlZQNXd1T0pPRUZBaWNMTlRMdDNJTkg1MEU5Z1lFbGV3NVllNEpYWDhVX3o5VFg2REtfbkU?oc=5",
+      "publishedAt": "2026-08-18T18:07:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-just-in-the-white-house-to-host-a-crypto-summit-tomorrow-with-crypto-industry-le",
+      "localUrl": "/news/20260818-just-in-the-white-house-to-host-a-crypto-summit-tomorrow-with-crypto-industry-le.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
       "summary": "The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.",
@@ -449,6 +464,17 @@
       "category": "监管",
       "slug": "20260818-federal-prosecutors-blast-ex-celsius-ceos-motion-to-vacate-as-without-merit",
       "localUrl": "/news/20260818-federal-prosecutors-blast-ex-celsius-ceos-motion-to-vacate-as-without-merit.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Metaplanet to Invest 2,100 BTC in Super League to Build U.S. Bitcoin Treasury Platform Japan-listed Bitcoin treasury company Metaplanet (TSE: 3350) and Nasdaq-listed Super League Enterprise (Nasdaq: SLE) have entered into a definitive agreement under - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd0VodnFNUGlveDVZTE5Dd2JFNENHZnA3UkFFSEp2TmRoZFFjRjRnUXJJUnpUdHUtME95d3lJUEQwZ2V5UEJ0WXMyZmdMdGdPRWpXYzNYYXJQbkxkQ1NNVXZQQQ?oc=5\" target=\"_blank\">Metaplanet to Invest 2,100 BTC i…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXd0VodnFNUGlveDVZTE5Dd2JFNENHZnA3UkFFSEp2TmRoZFFjRjRnUXJJUnpUdHUtME95d3lJUEQwZ2V5UEJ0WXMyZmdMdGdPRWpXYzNYYXJQbkxkQ1NNVXZQQQ?oc=5",
+      "publishedAt": "2026-08-18T16:36:13.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf",
+      "localUrl": "/news/20260818-metaplanet-to-invest-2100-btc-in-super-league-to-build-us-bitcoin-treasury-platf.html"
     },
     {
       "source": "Cointelegraph",
@@ -947,17 +973,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🇺🇸 NOW: Blockchain Association submits a comment letter urging the SEC to rescind outdated Rules 611 and 610(e), pushing for market structure to catch up with tokenization. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMnNkZEtnR3I4ZzR1RzlHbnFJcXJGei1DVktvZUZVaWZleGxvLXFSS3RDZENCZHdhc09wRUFxbmhJNm1pLU1RdmVQZnhaX1VQRWZzbnJUMWJPajljNUw3V1RuU1Q?oc=5\" target=\"_blank\">🇺🇸 NOW: Blockchain Associatio…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pMnNkZEtnR3I4ZzR1RzlHbnFJcXJGei1DVktvZUZVaWZleGxvLXFSS3RDZENCZHdhc09wRUFxbmhJNm1pLU1RdmVQZnhaX1VQRWZzbnJUMWJPajljNUw3V1RuU1Q?oc=5",
-      "publishedAt": "2026-08-18T02:40:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou",
-      "localUrl": "/news/20260818-now-blockchain-association-submits-a-comment-letter-urging-the-sec-to-rescind-ou.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Jane Street Discloses Over $1 Billion in Bitcoin ETF Holdings, Led by BlackRock’s IBIT Quant trading giant Jane Street disclosed more than $1 billion in U.S. spot Bitcoin ETF holdings as of June 30, with roughly $828 million invested in BlackRock’s IBIT and th - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5\" target=\"_blank\">Jane Street Discloses Over $1 Bi…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xenJRdU5ZaGFVMDVGdWdsV0g0dXBVYmgwTWNJdUtWQVp6RkFRNF93SDJRT2x6SF9mMWJPNll2V1d3aE5rd3RLdHk1TndZRGh2ZFd4MjM2R1YzaklMck9iX2ZtTQ?oc=5",
@@ -1044,17 +1059,6 @@
       "category": "安全",
       "slug": "20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less",
       "localUrl": "/news/20260817-openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Your agent works the night shift now. Agentic Trading for crypto is rolling out now to eligible users. Connect your agent through the Robinhood MCP server to trade crypto alongside equities and options from a dedicated Agentic Account—using only the funds y - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnaWt4bXRtQ2w3X1dYeG9aLUJYZ29HUHNlaUZWR1dkOTd1eURjV0NlRnRjTmpETnFTTmxHOEVhbTRmWDlQUEEwdHNRNzNBazQxLU5Gd2dHY1ZCSFNJX2hDRVczSQ?oc=5\" target=\"_blank\">Your agent works the night shift…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnaWt4bXRtQ2w3X1dYeG9aLUJYZ29HUHNlaUZWR1dkOTd1eURjV0NlRnRjTmpETnFTTmxHOEVhbTRmWDlQUEEwdHNRNzNBazQxLU5Gd2dHY1ZCSFNJX2hDRVczSQ?oc=5",
-      "publishedAt": "2026-08-17T18:15:10.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260817-your-agent-works-the-night-shift-now-agentic-trading-for-crypto-is-rolling-out-n",
-      "localUrl": "/news/20260817-your-agent-works-the-night-shift-now-agentic-trading-for-crypto-is-rolling-out-n.html"
     },
     {
       "source": "X Wire",
