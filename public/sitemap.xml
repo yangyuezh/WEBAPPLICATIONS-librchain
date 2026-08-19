@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-19T22:36:55.791Z</lastmod>
+    <lastmod>2026-08-19T23:33:21.985Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-19T22:36:55.791Z</lastmod>
+    <lastmod>2026-08-19T23:33:21.985Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat.html</loc>
     <lastmod>2026-08-19T21:36:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june.html</loc>
+    <lastmod>2026-08-19T21:22:31.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -259,6 +265,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260819-just-in-president-trump-to-host-crypto-officials-at-the-white-house-today-accord.html</loc>
+    <lastmod>2026-08-19T13:37:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260819-in-the-last-24-hours-the-sec-released-regulation-crypto-assets-the-treasury-laun.html</loc>
     <lastmod>2026-08-19T13:36:07.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,12 +421,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-update-bitcoins-spot-demand-is-about-to-turn-positive-for-the-first-time-since-f.html</loc>
-    <lastmod>2026-08-19T04:00:44.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows.html</loc>
     <lastmod>2026-08-18T22:56:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg.html</loc>
     <lastmod>2026-08-18T16:31:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-1-crypto-more-relevant-today-given-the-rapidly-increasing-capabilities-of-ai-and.html</loc>
-    <lastmod>2026-08-18T16:21:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
