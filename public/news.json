@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-08-19T11:36:00.582Z",
+  "updatedAt": "2026-08-19T13:05:29.714Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+      "summary": "The warehouse facility gives Ethena another source of returns for the assets backing USDe while channeling onchain capital into overcollateralized institutional loans.",
+      "url": "https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility",
+      "publishedAt": "2026-08-19T13:00:00.000Z",
+      "keywords": [
+        "Finance",
+        "FalconX",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-1-billion-falco",
+      "localUrl": "/news/20260819-beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-1-billion-falco.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strengthen the Clarity Act",
+      "summary": "The American Bankers Association seeks to strengthen the Clarity Act, not kill it, argues Rob Nichols, president and CEO of the ABA.",
+      "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+      "publishedAt": "2026-08-19T13:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260819-strengthen-the-clarity-act",
+      "localUrl": "/news/20260819-strengthen-the-clarity-act.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+      "summary": "Similar setups have historically produced below-average 90-day and 180-day bitcoin returns, said the asset manager.",
+      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet",
+      "publishedAt": "2026-08-19T12:45:35.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260819-bitcoin-is-flashing-8-of-12-capitulation-signals-but-bottoms-not-yet-in-says-van",
+      "localUrl": "/news/20260819-bitcoin-is-flashing-8-of-12-capitulation-signals-but-bottoms-not-yet-in-says-van.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
+      "summary": "The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.",
+      "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
+      "publishedAt": "2026-08-19T12:01:09.000Z",
+      "keywords": [
+        "Tech",
+        "Hack",
+        "Artificial Intelligence",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260819-a-year-after-losing-146-billion-bybit-says-ai-helped-it-save-700-million",
+      "localUrl": "/news/20260819-a-year-after-losing-146-billion-bybit-says-ai-helped-it-save-700-million.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
+      "summary": "Symbiotic’s Liquid Lane gives eligible holders immediate USDC liquidity across three Centrifuge funds managed by Janus Henderson and NYLIM.",
+      "url": "https://cointelegraph.com/news/centrifuge-symbiotic-liquidity-network-janus-henderson-nylim-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T12:00:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260819-centrifuge-adds-symbiotic-liquidity-network-across-16b-in-janus-henderson-nylim-",
+      "localUrl": "/news/20260819-centrifuge-adds-symbiotic-liquidity-network-across-16b-in-janus-henderson-nylim-.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sweden’s H100 reports $26M H1 loss driven by falling Bitcoin value",
+      "summary": "Sweden’s H100 reported a $26 million loss for the first half of the year, as it completed its acquisitions to become Europe’s second-largest Bitcoin treasury by holdings.",
+      "url": "https://cointelegraph.com/news/swedens-h100-26m-h1-loss-falling-bitcoin-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-19T11:59:30.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260819-swedens-h100-reports-26m-h1-loss-driven-by-falling-bitcoin-value",
+      "localUrl": "/news/20260819-swedens-h100-reports-26m-h1-loss-driven-by-falling-bitcoin-value.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week",
+      "summary": "The People’s Bank of China (PBOC) added 20 new operators this year across two rounds of expansions, including eight additions this week.",
+      "url": "https://www.coindesk.com/business/2026/08/19/china-triples-digital-yuan-bank-roster-year-to-date-as-eight-more-banks-join-network",
+      "publishedAt": "2026-08-19T11:55:45.000Z",
+      "keywords": [
+        "Finance",
+        "CBDC",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260819-china-triples-its-e-cny-network-in-2026-as-8-more-banks-join-the-cbdc-push-this-",
+      "localUrl": "/news/20260819-china-triples-its-e-cny-network-in-2026-as-8-more-banks-join-the-cbdc-push-this-.html"
+    },
     {
       "source": "Decrypt",
       "title": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
@@ -155,8 +255,8 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
-      "summary": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
+      "title": "Live updates: Bitcoin takes aim at $65,000 as Treasury move sends yields lower",
+      "summary": "Led by Scott Bessent, the U.S. Treasury announced at least a doubling in the size of its long-dated bond buybacks.",
       "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
       "publishedAt": "2026-08-19T09:05:45.000Z",
       "keywords": [
@@ -167,8 +267,8 @@
         "live_news"
       ],
       "category": "DeFi",
-      "slug": "20260819-live-updates-bitcoin-remains-above-64000-as-oil-rises-and-the-kospi-tumbles-6",
-      "localUrl": "/news/20260819-live-updates-bitcoin-remains-above-64000-as-oil-rises-and-the-kospi-tumbles-6.html"
+      "slug": "20260819-live-updates-bitcoin-takes-aim-at-65000-as-treasury-move-sends-yields-lower",
+      "localUrl": "/news/20260819-live-updates-bitcoin-takes-aim-at-65000-as-treasury-move-sends-yields-lower.html"
     },
     {
       "source": "Cointelegraph",
@@ -416,6 +516,17 @@
       "localUrl": "/news/20260818-arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba.html"
     },
     {
+      "source": "X Wire",
+      "title": "Bitcoin in the tightest volatility band it’s been in for five years. Three things are going on: 1. Miners have transferred significant compute power to AI, which disrupted the hash rate and muted volatility. 2. Capital has also fled crypto into AI broadly. 3. Four-year cy - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYkI3c24yQkdYRkdDZFphVXZPR2VxdzE2NVh0M1QwS3lNUUFydjJ6M2tsYmJfY1UwZV9WWHNJWEhITjNrZG5qOWdVOUpTQk1WWlJOUkVCNmJjNGlzbVFIaQ?oc=5\" target=\"_blank\">Bitcoin in the tightest volatility b…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYkI3c24yQkdYRkdDZFphVXZPR2VxdzE2NVh0M1QwS3lNUUFydjJ6M2tsYmJfY1UwZV9WWHNJWEhITjNrZG5qOWdVOUpTQk1WWlJOUkVCNmJjNGlzbVFIaQ?oc=5",
+      "publishedAt": "2026-08-18T21:10:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-bitcoin-in-the-tightest-volatility-band-its-been-in-for-five-years-three-things-",
+      "localUrl": "/news/20260818-bitcoin-in-the-tightest-volatility-band-its-been-in-for-five-years-three-things-.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
       "summary": "The non-custodial cross-chain swap engine connects Canton’s institutional tokenized-asset markets with liquidity and trading activity across major public blockchains.",
@@ -532,17 +643,6 @@
       "category": "X热点",
       "slug": "20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-",
       "localUrl": "/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: 🇺🇸 The SEC has officially proposed its first ever crypto rulebook. Here are the key points: 1. Projects can raise up to $75 million a year without registering as securities. 2. A separate one time exemption allows up to $5 million over four years. 3. A t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS0VxN2Q3Q2FJRm12RnhqUTJ4Yy1mbFpYUGd4RGxZVTVoQV9XSXdLZk8zSXhndFVSTHJrcHhpYnU5cGNQc3JFaWhCdG1mUWkxSTVyMEQ4SkEwMnlQanBNcmJmQQ?oc=5\" target=\"_blank\">BREAKING: 🇺🇸 The SEC has offic…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vS0VxN2Q3Q2FJRm12RnhqUTJ4Yy1mbFpYUGd4RGxZVTVoQV9XSXdLZk8zSXhndFVSTHJrcHhpYnU5cGNQc3JFaWhCdG1mUWkxSTVyMEQ4SkEwMnlQanBNcmJmQQ?oc=5",
-      "publishedAt": "2026-08-18T18:53:37.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are",
-      "localUrl": "/news/20260818-breaking-the-sec-has-officially-proposed-its-first-ever-crypto-rulebook-here-are.html"
     },
     {
       "source": "X Wire",
@@ -717,23 +817,6 @@
       "localUrl": "/news/20260818-1-crypto-more-relevant-today-given-the-rapidly-increasing-capabilities-of-ai-and.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
-      "summary": "The exchange said it is the first crypto company to offer European customers both traditional U.S. equities and tokenized versions of those assets on a single regulated platform.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
-      "publishedAt": "2026-08-18T16:08:46.000Z",
-      "keywords": [
-        "Markets",
-        "Markets",
-        "Cryptocurrency",
-        "Tokenization",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260818-kraken-adds-us-stocks-in-europe-as-tradfi-crypto-divide-blurs",
-      "localUrl": "/news/20260818-kraken-adds-us-stocks-in-europe-as-tradfi-crypto-divide-blurs.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: 🇨🇳 Publicly traded Chinese company Zhibao Technology creates treasury Bitcoin reserve of 2,380 BTC 🚀 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sY0VkRmlfSTBFdjJwekhHUV9SZEowSndsZWd0bU1yNFBWa3M3MkM0a3FMeEQwdVF3SVJLRVJnQWppSklPdFJPOGpfaWpBTXNKc2NuME1lLS1GMFpZNmJ1NkwxNHdselU?oc=5\" target=\"_blank\">JUST IN: 🇨🇳 Publicly trad…",
@@ -743,6 +826,17 @@
       "category": "X热点",
       "slug": "20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco",
       "localUrl": "/news/20260818-just-in-publicly-traded-chinese-company-zhibao-technology-creates-treasury-bitco.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin capitulation check - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USTdrV0ZJczZiRE1JV3NadnE4dFppWkY1MUN5ZkpoLUxweWZibjdxSDQ0VUZ4aUZjRTZUb0NyaWU2ZktPd3lvVlloVWFxZUt0T0ZGNnJ6SU5EZHgzRFNXVlZLcXk?oc=5\" target=\"_blank\">Bitcoin capitulation check</a> …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USTdrV0ZJczZiRE1JV3NadnE4dFppWkY1MUN5ZkpoLUxweWZibjdxSDQ0VUZ4aUZjRTZUb0NyaWU2ZktPd3lvVlloVWFxZUt0T0ZGNnJ6SU5EZHgzRFNXVlZLcXk?oc=5",
+      "publishedAt": "2026-08-18T16:00:10.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-bitcoin-capitulation-check-xcom",
+      "localUrl": "/news/20260818-bitcoin-capitulation-check-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -819,69 +913,6 @@
       "localUrl": "/news/20260818-japans-metaplanet-plants-its-flag-in-the-us-with-132m-bitcoin-treasury-deal.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
-      "summary": "WLFI says the AI platform is independent and uses USD1 as a payment rail, but would not say whether it has equity, financing, revenue-sharing or other economic interests in the company.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
-      "publishedAt": "2026-08-18T15:07:52.000Z",
-      "keywords": [
-        "Markets",
-        "World Liberty Financial",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260818-why-the-trump-backed-crypto-venture-is-distancing-itself-from-hong-kong-ai-aggre",
-      "localUrl": "/news/20260818-why-the-trump-backed-crypto-venture-is-distancing-itself-from-hong-kong-ai-aggre.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin miners’ AI pivot pays off, but mining could revive with one twist",
-      "summary": "Miners with AI and high-performance computing contracts have commanded higher valuations as declining bitcoin prices and hashprice squeeze pure-play operators.",
-      "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
-      "publishedAt": "2026-08-18T14:41:31.000Z",
-      "keywords": [
-        "Finance",
-        "Bitcoin Mining",
-        "Artificial Intelligence",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260818-bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
-      "localUrl": "/news/20260818-bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Global bond yields surge as debt fears test bitcoin’s hedge narrative",
-      "summary": "Long-term borrowing costs are reaching multi-decade highs as U.S. debt approaches $40 trillion and AI hyperscalers accelerate bond issuance.",
-      "url": "https://www.coindesk.com/markets/2026/08/18/global-bond-yields-surge-as-debt-fears-test-bitcoin-s-hedge-narrative",
-      "publishedAt": "2026-08-18T14:40:41.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260818-global-bond-yields-surge-as-debt-fears-test-bitcoins-hedge-narrative",
-      "localUrl": "/news/20260818-global-bond-yields-surge-as-debt-fears-test-bitcoins-hedge-narrative.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan's Metaplanet launching U.S. bitcoin treasury company through $135 million nanocap deal",
-      "summary": "The deal involves Metaplanet contributing 2,100 bitcoin and $2.5 million in cash, valuing the initial investment at $134.6 million.",
-      "url": "https://www.coindesk.com/business/2026/08/18/japan-s-metaplanet-launching-u-s-bitcoin-treasury-company-through-usd135-million-nanocap-deal",
-      "publishedAt": "2026-08-18T14:35:08.000Z",
-      "keywords": [
-        "Finance",
-        "Digital Asset Treasury",
-        "Japan",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260818-japans-metaplanet-launching-us-bitcoin-treasury-company-through-135-million-nano",
-      "localUrl": "/news/20260818-japans-metaplanet-launching-us-bitcoin-treasury-company-through-135-million-nano.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
       "summary": "The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.",
@@ -917,19 +948,6 @@
       "category": "X热点",
       "slug": "20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th",
       "localUrl": "/news/20260818-just-in-15-trillion-blackrock-reports-theyre-still-bullish-on-bitcoin-despite-th.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MoonPay adds Cash App Pay for crypto purchases by US customers",
-      "summary": "Eligible US users can fund MoonPay crypto purchases with Cash App balances as the payments firm expands beyond its core onramp business.",
-      "url": "https://cointelegraph.com/news/moonpay-cash-app-pay-crypto-purchases-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T13:00:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260818-moonpay-adds-cash-app-pay-for-crypto-purchases-by-us-customers",
-      "localUrl": "/news/20260818-moonpay-adds-cash-app-pay-for-crypto-purchases-by-us-customers.html"
     },
     {
       "source": "Decrypt",
@@ -980,19 +998,6 @@
       "localUrl": "/news/20260818-chainalysis-sues-us-government-over-946m-ice-contract-handed-to-rival-trm-labs.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kraken launches US-listed stock trading for EEA customers",
-      "summary": "Eligible EEA users can trade conventional US shares alongside more than 700 tokenized xStocks through Kraken’s European entity.",
-      "url": "https://cointelegraph.com/news/kraken-us-stock-trading-eea-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-18T10:53:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260818-kraken-launches-us-listed-stock-trading-for-eea-customers",
-      "localUrl": "/news/20260818-kraken-launches-us-listed-stock-trading-for-eea-customers.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
       "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
@@ -1004,17 +1009,6 @@
       "category": "监管",
       "slug": "20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria",
       "localUrl": "/news/20260818-bitpanda-hit-with-europes-first-published-mica-penalty-in-austria.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Ethereum Foundation launches the Platåberget testnet, opening early public testing for the Glamsterdam upgrade ahead of its Aug. 20 fork. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum Foundation …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wVHdUSENMNmpOQ3hod0x1Y3l4NlBEQzF6RWkwejdDbkwxcTF0ZlpvS0V3T0RmUWFoUnBHZnQzRVF1dDdCc2ZmVjVESjlGYi1TcVRRWFVYa2VJcDRiYUFURzBUNnI?oc=5",
-      "publishedAt": "2026-08-18T05:00:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public",
-      "localUrl": "/news/20260818-update-ethereum-foundation-launches-the-plataberget-testnet-opening-early-public.html"
     },
     {
       "source": "Ethereum Blog",
