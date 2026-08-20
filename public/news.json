@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-20T09:47:11.896Z",
+  "updatedAt": "2026-08-20T10:44:09.484Z",
   "total": 84,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto short liquidations pass $3B mark as Bitcoin price nears $72K",
+      "summary": "Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.",
+      "url": "https://cointelegraph.com/markets/crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T10:03:04.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260820-crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k",
+      "localUrl": "/news/20260820-crypto-short-liquidations-pass-3b-mark-as-bitcoin-price-nears-72k.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
@@ -49,7 +62,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin approaches $72,000 as Strategy and Coinbase continue rally",
+      "title": "Bitcoin hits $72,000 as Strategy and Coinbase continue rally",
       "summary": "Bitcoin has gained 15% since monday, reclaiming several key technical and on-chain levels as bullish momentum builds.",
       "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-approaches-usd72-000-as-strategy-and-coinbase-continue-rally",
       "publishedAt": "2026-08-20T09:25:03.000Z",
@@ -59,8 +72,8 @@
         "News"
       ],
       "category": "市场",
-      "slug": "20260820-bitcoin-approaches-72000-as-strategy-and-coinbase-continue-rally",
-      "localUrl": "/news/20260820-bitcoin-approaches-72000-as-strategy-and-coinbase-continue-rally.html"
+      "slug": "20260820-bitcoin-hits-72000-as-strategy-and-coinbase-continue-rally",
+      "localUrl": "/news/20260820-bitcoin-hits-72000-as-strategy-and-coinbase-continue-rally.html"
     },
     {
       "source": "Cointelegraph",
@@ -74,6 +87,17 @@
       "category": "基础设施",
       "slug": "20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone",
       "localUrl": "/news/20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN 🚨: Bitcoin $BTC gets above 200-day moving average for the first time since November 2025 📈 🤑 🥳 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Qm9WZWEzdklEdENVWkZwZDR0UlFZMGVmS2hqLTBnRTdVNlY1MzQ4dXhaVnk4N0VQUjJqb3h5OXAyckx2cEItbXBBRzhKOEtqUnVYRFM4UHJiVnp6aWc?oc=5\" target=\"_blank\">JUST IN 🚨: Bitcoin $BTC gets above 200…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Qm9WZWEzdklEdENVWkZwZDR0UlFZMGVmS2hqLTBnRTdVNlY1MzQ4dXhaVnk4N0VQUjJqb3h5OXAyckx2cEItbXBBRzhKOEtqUnVYRFM4UHJiVnp6aWc?oc=5",
+      "publishedAt": "2026-08-20T08:59:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-just-in-bitcoin-btc-gets-above-200-day-moving-average-for-the-first-time-since-n",
+      "localUrl": "/news/20260820-just-in-bitcoin-btc-gets-above-200-day-moving-average-for-the-first-time-since-n.html"
     },
     {
       "source": "Cointelegraph",
@@ -90,7 +114,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
+      "title": "Live updates: Bitcoin jumps above $71,000, ETFs draw $700 million in biggest inflows in months",
       "summary": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
       "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "publishedAt": "2026-08-20T06:21:17.000Z",
@@ -100,8 +124,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260820-live-updates-bitcoin-hits-71000-etfs-draw-700-million-in-biggest-inflows-in-mont",
-      "localUrl": "/news/20260820-live-updates-bitcoin-hits-71000-etfs-draw-700-million-in-biggest-inflows-in-mont.html"
+      "slug": "20260820-live-updates-bitcoin-jumps-above-71000-etfs-draw-700-million-in-biggest-inflows-",
+      "localUrl": "/news/20260820-live-updates-bitcoin-jumps-above-71000-etfs-draw-700-million-in-biggest-inflows-.html"
     },
     {
       "source": "Cointelegraph",
@@ -194,17 +218,6 @@
       "category": "X热点",
       "slug": "20260820-ethereum-eth-breakout-xcom",
       "localUrl": "/news/20260820-ethereum-eth-breakout-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 NEW: White House crypto advisor Patrick Witt says passing the CLARITY Act is the next step to “modernize our capital markets and ensure American financial leadership.” - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JMFVtNEp1VDZUWTAzZHVEd1M1T0p4cU51Z1ZhcExRdUx1ckVuLUZGSU1oM3p0OHYyM3E4TDdaM0o2YUFvb3puRUF4SEdIOElMbGI2UUFFVUJ2SklpREJLOVZnMHk?oc=5\" target=\"_blank\">🇺🇸 NEW: White House crypto ad…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JMFVtNEp1VDZUWTAzZHVEd1M1T0p4cU51Z1ZhcExRdUx1ckVuLUZGSU1oM3p0OHYyM3E4TDdaM0o2YUFvb3puRUF4SEdIOElMbGI2UUFFVUJ2SklpREJLOVZnMHk?oc=5",
-      "publishedAt": "2026-08-20T01:30:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-new-white-house-crypto-advisor-patrick-witt-says-passing-the-clarity-act-is-the-",
-      "localUrl": "/news/20260820-new-white-house-crypto-advisor-patrick-witt-says-passing-the-clarity-act-is-the-.html"
     },
     {
       "source": "X Wire",
@@ -521,17 +534,6 @@
       "localUrl": "/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin odds of hitting $70,000 this month rise to 72% after pumping 7% in one hour. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oXzA4WEJUZU9mOHFQRVl6Rmk3eTdFdlM5aDhkUmw4SDRoU2tVSkdTQjJYb0UyOURsS0ZheGRtbkpmNmlLN3V5Q2cxX3oycnRsdmJyQVQ5WVB4RnRKOXNmSGlB?oc=5\" target=\"_blank\">JUST IN: Bitcoin odds of hitting $…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oXzA4WEJUZU9mOHFQRVl6Rmk3eTdFdlM5aDhkUmw4SDRoU2tVSkdTQjJYb0UyOURsS0ZheGRtbkpmNmlLN3V5Q2cxX3oycnRsdmJyQVQ5WVB4RnRKOXNmSGlB?oc=5",
-      "publishedAt": "2026-08-19T16:19:29.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-just-in-bitcoin-odds-of-hitting-70000-this-month-rise-to-72-after-pumping-7-in-o",
-      "localUrl": "/news/20260819-just-in-bitcoin-odds-of-hitting-70000-this-month-rise-to-72-after-pumping-7-in-o.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
       "summary": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
@@ -591,6 +593,17 @@
       "category": "X热点",
       "slug": "20260819-an-amazing-move-on-the-markets-bitcoin-to-69000-all-the-people-who-were-short-ar",
       "localUrl": "/news/20260819-an-amazing-move-on-the-markets-bitcoin-to-69000-all-the-people-who-were-short-ar.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
+      "publishedAt": "2026-08-19T16:04:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
+      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
     },
     {
       "source": "Decrypt",
@@ -883,14 +896,14 @@
     },
     {
       "source": "X Wire",
-      "title": "BREAKING: The Clarity Act now has just a 20% chance of being signed into law in 2026. Just months ago, markets saw an 80%+ chance of the Clarity Act being signed into law. Crypto needs a new catalyst. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMWJLN0JOa3pHNkI3RHNIOE5UYlNmUUpzdUdkT2hUQktEcHJDQXQyY3o1QUdfY1BvTHdmSl9YWkJSM1FTU0lLU0F6RjRTUDcwS0Rhd00yS3VEV2ZUazBwUTY1WW9xQQ?oc=5\" target=\"_blank\">BREAKING: The Clarity Act no…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMWJLN0JOa3pHNkI3RHNIOE5UYlNmUUpzdUdkT2hUQktEcHJDQXQyY3o1QUdfY1BvTHdmSl9YWkJSM1FTU0lLU0F6RjRTUDcwS0Rhd00yS3VEV2ZUazBwUTY1WW9xQQ?oc=5",
-      "publishedAt": "2026-08-19T12:42:50.000Z",
+      "title": "Top crypto executives are heading to the White House today as the industry presses federal regulators for answers on what's next. Executives from Coinbase, Ripple, Robinhood and other major firms are expected to sit down with leaders from the SEC and CF - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwTkdJVkVXOTMtQnVTQl9IMUFaR2VkQzhmR2ctNFo0NjhaLWEyWGFJYmt4R0V6TDJhZEU1bG4yV2MwcUthVjNzTGE3ZlJNNWF3OElrQUdPU1VHamJR?oc=5\" target=\"_blank\">Top crypto executives are heading to the W…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwTkdJVkVXOTMtQnVTQl9IMUFaR2VkQzhmR2ctNFo0NjhaLWEyWGFJYmt4R0V6TDJhZEU1bG4yV2MwcUthVjNzTGE3ZlJNNWF3OElrQUdPU1VHamJR?oc=5",
+      "publishedAt": "2026-08-19T12:25:20.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260819-breaking-the-clarity-act-now-has-just-a-20-chance-of-being-signed-into-law-in-20",
-      "localUrl": "/news/20260819-breaking-the-clarity-act-now-has-just-a-20-chance-of-being-signed-into-law-in-20.html"
+      "slug": "20260819-top-crypto-executives-are-heading-to-the-white-house-today-as-the-industry-press",
+      "localUrl": "/news/20260819-top-crypto-executives-are-heading-to-the-white-house-today-as-the-industry-press.html"
     },
     {
       "source": "Cointelegraph",
@@ -930,19 +943,6 @@
       "category": "监管",
       "slug": "20260819-alleged-165m-crypto-ponzi-mastermind-deported-from-fiji-to-us",
       "localUrl": "/news/20260819-alleged-165m-crypto-ponzi-mastermind-deported-from-fiji-to-us.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ripple raises $275M for US prime brokerage to meet institutional demand",
-      "summary": "Ripple said the $275 million raised will support its expansion into traditional financial services such as prime brokerage and multi-asset clearing, citing strong demand from institutions.",
-      "url": "https://cointelegraph.com/news/ripple-raises-275m-us-prime-brokerage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T11:18:38.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260819-ripple-raises-275m-for-us-prime-brokerage-to-meet-institutional-demand",
-      "localUrl": "/news/20260819-ripple-raises-275m-for-us-prime-brokerage-to-meet-institutional-demand.html"
     },
     {
       "source": "Solana Blog",
@@ -1044,17 +1044,6 @@
       "localUrl": "/news/20260818-arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin in the tightest volatility band it’s been in for five years. Three things are going on: 1. Miners have transferred significant compute power to AI, which disrupted the hash rate and muted volatility. 2. Capital has also fled crypto into AI broadly. 3. Four-year cy - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYkI3c24yQkdYRkdDZFphVXZPR2VxdzE2NVh0M1QwS3lNUUFydjJ6M2tsYmJfY1UwZV9WWHNJWEhITjNrZG5qOWdVOUpTQk1WWlJOUkVCNmJjNGlzbVFIaQ?oc=5\" target=\"_blank\">Bitcoin in the tightest volatility b…",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KYkI3c24yQkdYRkdDZFphVXZPR2VxdzE2NVh0M1QwS3lNUUFydjJ6M2tsYmJfY1UwZV9WWHNJWEhITjNrZG5qOWdVOUpTQk1WWlJOUkVCNmJjNGlzbVFIaQ?oc=5",
-      "publishedAt": "2026-08-18T21:10:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-bitcoin-in-the-tightest-volatility-band-its-been-in-for-five-years-three-things-",
-      "localUrl": "/news/20260818-bitcoin-in-the-tightest-volatility-band-its-been-in-for-five-years-three-things-.html"
-    },
-    {
       "source": "Decrypt",
       "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
       "summary": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
@@ -1066,6 +1055,17 @@
       "category": "监管",
       "slug": "20260818-sec-proposes-crypto-fundraising-exemptions-in-abrupt-about-face",
       "localUrl": "/news/20260818-sec-proposes-crypto-fundraising-exemptions-in-abrupt-about-face.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Reg Crypto is out! - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRjdsQU9EYVJEVDlXMWJaOEdEUk01ZFk3X3RPY0pUdzhBM1FJNlp5NVFTME1sZVdjbm1ZeEFFdlRSQ1pTQkVFOWtmNkMtbkMxMkF5MVJmaXNuM0lIYUtXM01QRQ?oc=5\" target=\"_blank\">Reg Crypto is out!</a> <font col…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRjdsQU9EYVJEVDlXMWJaOEdEUk01ZFk3X3RPY0pUdzhBM1FJNlp5NVFTME1sZVdjbm1ZeEFFdlRSQ1pTQkVFOWtmNkMtbkMxMkF5MVJmaXNuM0lIYUtXM01QRQ?oc=5",
+      "publishedAt": "2026-08-18T18:51:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260818-reg-crypto-is-out-xcom",
+      "localUrl": "/news/20260818-reg-crypto-is-out-xcom.html"
     },
     {
       "source": "Ethereum Blog",
