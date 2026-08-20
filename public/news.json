@@ -1,10 +1,23 @@
 {
-  "updatedAt": "2026-08-20T07:52:52.339Z",
+  "updatedAt": "2026-08-20T08:52:59.603Z",
   "total": 84,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "BitGo Korea secures VASP registration for institutional crypto custody",
+      "summary": "Regulators reportedly accepted BitGo Korea’s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
+      "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T07:48:40.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260820-bitgo-korea-secures-vasp-registration-for-institutional-crypto-custody",
+      "localUrl": "/news/20260820-bitgo-korea-secures-vasp-registration-for-institutional-crypto-custody.html"
+    },
+    {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "title": "Live updates: Bitcoin hits $71,000, ETFs draw $700 million in biggest inflows in months",
       "summary": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
       "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "publishedAt": "2026-08-20T06:21:17.000Z",
@@ -14,8 +27,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260820-live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-million-in-biggest-in",
-      "localUrl": "/news/20260820-live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-million-in-biggest-in.html"
+      "slug": "20260820-live-updates-bitcoin-hits-71000-etfs-draw-700-million-in-biggest-inflows-in-mont",
+      "localUrl": "/news/20260820-live-updates-bitcoin-hits-71000-etfs-draw-700-million-in-biggest-inflows-in-mont.html"
     },
     {
       "source": "Cointelegraph",
@@ -180,6 +193,17 @@
       "category": "市场",
       "slug": "20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip",
       "localUrl": "/news/20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸LATEST: Trump meets Coinbase, Kraken, Ripple, Chainlink, NYSE, Nasdaq and Robinhood at the White House crypto summit. Key takeaways: - Trump calls on Congress to pass \"a fair version of the CLARITY Act\" to keep the US ahead of China. - Coinbas - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DX3FVME9HVWxPTlFuMDNUVDdfb0ExcVVOdTdzVDJsVktlNF9xVF8zTDFfbWZJdUVodkxsbm54SWRQNnRpZDdwaVoxNWVvX0VqU3hodUFLcTFrbGdXeW1uZw?oc=5\" target=\"_blank\">🇺🇸LATEST: Trump meets Coinbase, Kr…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DX3FVME9HVWxPTlFuMDNUVDdfb0ExcVVOdTdzVDJsVktlNF9xVF8zTDFfbWZJdUVodkxsbm54SWRQNnRpZDdwaVoxNWVvX0VqU3hodUFLcTFrbGdXeW1uZw?oc=5",
+      "publishedAt": "2026-08-19T22:01:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-latest-trump-meets-coinbase-kraken-ripple-chainlink-nyse-nasdaq-and-robinhood-at",
+      "localUrl": "/news/20260819-latest-trump-meets-coinbase-kraken-ripple-chainlink-nyse-nasdaq-and-robinhood-at.html"
     },
     {
       "source": "Decrypt",
@@ -906,19 +930,6 @@
       "localUrl": "/news/20260819-bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Nexo launches regulated crypto-backed credit in Australia",
-      "summary": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
-      "url": "https://cointelegraph.com/news/nexo-launches-crypto-backed-credit-australia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T10:25:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "DeFi",
-      "slug": "20260819-nexo-launches-regulated-crypto-backed-credit-in-australia",
-      "localUrl": "/news/20260819-nexo-launches-regulated-crypto-backed-credit-in-australia.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Lowering Slot Time and Validators Economic",
       "summary": "Solana will reduce its slot times from 400ms to 200ms. This change will make the protocol more competitive in terms of latency. Here we explore some possible implication on validators economic.",
@@ -1053,17 +1064,6 @@
       "category": "市场",
       "slug": "20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks",
       "localUrl": "/news/20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Reg Crypto is out! - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRjdsQU9EYVJEVDlXMWJaOEdEUk01ZFk3X3RPY0pUdzhBM1FJNlp5NVFTME1sZVdjbm1ZeEFFdlRSQ1pTQkVFOWtmNkMtbkMxMkF5MVJmaXNuM0lIYUtXM01QRQ?oc=5\" target=\"_blank\">Reg Crypto is out!</a> <font col…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRjdsQU9EYVJEVDlXMWJaOEdEUk01ZFk3X3RPY0pUdzhBM1FJNlp5NVFTME1sZVdjbm1ZeEFFdlRSQ1pTQkVFOWtmNkMtbkMxMkF5MVJmaXNuM0lIYUtXM01QRQ?oc=5",
-      "publishedAt": "2026-08-18T18:51:20.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-reg-crypto-is-out-xcom",
-      "localUrl": "/news/20260818-reg-crypto-is-out-xcom.html"
     },
     {
       "source": "Ethereum Blog",

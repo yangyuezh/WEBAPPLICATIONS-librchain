@@ -2,18 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T07:52:52.405Z</lastmod>
+    <lastmod>2026-08-20T08:52:59.644Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T07:52:52.405Z</lastmod>
+    <lastmod>2026-08-20T08:52:59.644Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-million-in-biggest-in.html</loc>
+    <loc>https://www.librchain.com/news/20260820-bitgo-korea-secures-vasp-registration-for-institutional-crypto-custody.html</loc>
+    <lastmod>2026-08-20T07:48:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-hits-71000-etfs-draw-700-million-in-biggest-inflows-in-mont.html</loc>
     <lastmod>2026-08-20T06:21:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -93,6 +99,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip.html</loc>
     <lastmod>2026-08-19T22:18:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-latest-trump-meets-coinbase-kraken-ripple-chainlink-nyse-nasdaq-and-robinhood-at.html</loc>
+    <lastmod>2026-08-19T22:01:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +433,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-nexo-launches-regulated-crypto-backed-credit-in-australia.html</loc>
-    <lastmod>2026-08-19T10:25:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-lowering-slot-time-and-validators-economic.html</loc>
     <lastmod>2026-08-19T10:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-markets-confident-openai-releases-its-next-ai-model-in-weeks.html</loc>
     <lastmod>2026-08-18T19:15:26.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-reg-crypto-is-out-xcom.html</loc>
-    <lastmod>2026-08-18T18:51:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
