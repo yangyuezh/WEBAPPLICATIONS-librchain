@@ -1,7 +1,70 @@
 {
-  "updatedAt": "2026-08-20T13:07:48.402Z",
+  "updatedAt": "2026-08-20T13:58:56.010Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
+      "summary": "Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
+      "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
+      "publishedAt": "2026-08-20T13:31:05.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260820-fake-crypto-aml-checkers-are-trying-to-drain-users-wallets",
+      "localUrl": "/news/20260820-fake-crypto-aml-checkers-are-trying-to-drain-users-wallets.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MiCA cracks down on USDT in Europe... but no one else cares",
+      "summary": "USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weakening global demand for Tether.",
+      "url": "https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T13:30:00.000Z",
+      "keywords": [
+        "Magazine"
+      ],
+      "category": "市场",
+      "slug": "20260820-mica-cracks-down-on-usdt-in-europe-but-no-one-else-cares",
+      "localUrl": "/news/20260820-mica-cracks-down-on-usdt-in-europe-but-no-one-else-cares.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
+      "summary": "Bitdeer expects revenue from the five-year agreement to begin in early 2027 as it builds toward 350 megawatts of AI cloud capacity by 2028.",
+      "url": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T13:18:02.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility",
+      "localUrl": "/news/20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T13:12:56.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260820-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260820-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto last week vs Crypto this week - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5\" target=\"_blank\">Crypto last week vs Crypto this we…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5",
+      "publishedAt": "2026-08-20T13:03:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-crypto-last-week-vs-crypto-this-week-xcom",
+      "localUrl": "/news/20260820-crypto-last-week-vs-crypto-this-week-xcom.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
@@ -95,6 +158,17 @@
       "category": "监管",
       "slug": "20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may",
       "localUrl": "/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $3,100,000,000 worth of crypto shorts liquidated in the past 24 hours. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5\" target=\"_blank\">JUST IN: $3,100,000,000 worth of c…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5",
+      "publishedAt": "2026-08-20T11:16:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom",
+      "localUrl": "/news/20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -278,19 +352,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T06:03:50.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260820-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260820-heres-what-happened-in-crypto-today.html"
-    },
-    {
-      "source": "Cointelegraph",
       "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
       "summary": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
       "url": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -367,17 +428,6 @@
       "category": "X热点",
       "slug": "20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi",
       "localUrl": "/news/20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Ethereum $ETH Breakout 🚀 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcTRURnhUc1RKU0k1UEhjWVFvNkZTU3FVTENUbW0xaDFyWXBQV0VYR1FBTEhFQy1vU1RhMXBuMWxsLWg0U1hjVWI3VEZyS18xTFFwcHZQQ0JGNGhOU3c?oc=5\" target=\"_blank\">Ethereum $ETH Breakout 🚀 🚀</a> <font …",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcTRURnhUc1RKU0k1UEhjWVFvNkZTU3FVTENUbW0xaDFyWXBQV0VYR1FBTEhFQy1vU1RhMXBuMWxsLWg0U1hjVWI3VEZyS18xTFFwcHZQQ0JGNGhOU3c?oc=5",
-      "publishedAt": "2026-08-20T02:39:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-ethereum-eth-breakout-xcom",
-      "localUrl": "/news/20260820-ethereum-eth-breakout-xcom.html"
     },
     {
       "source": "X Wire",
@@ -607,6 +657,28 @@
       "localUrl": "/news/20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries.html"
     },
     {
+      "source": "X Wire",
+      "title": "What if Bitcoin hasn’t had a real bull run since 2021? It made new USD highs in 2025, but failed to hold price discovery vs gold and fell back to ~15 oz/BTC. Overlay QE/QT, factor in today’s Treasury “liquidity support”, and maybe the real bull run is just getting s - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aRXVJUFBySHlFTnNqeWZ5VnlVMUdhbUFTRks3SlBoWW5EcXBLNUZwbjRoc3hlVnA1NEJaRThTbnh4MlpsUDNoS3AxQ0oyUmYwVXQzS3ViTWRnU01Nbk5Lbl9n?oc=5\" target=\"_blank\">What if Bitcoin hasn’t had a real …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aRXVJUFBySHlFTnNqeWZ5VnlVMUdhbUFTRks3SlBoWW5EcXBLNUZwbjRoc3hlVnA1NEJaRThTbnh4MlpsUDNoS3AxQ0oyUmYwVXQzS3ViTWRnU01Nbk5Lbl9n?oc=5",
+      "publishedAt": "2026-08-19T18:10:02.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-what-if-bitcoin-hasnt-had-a-real-bull-run-since-2021-it-made-new-usd-highs-in-20",
+      "localUrl": "/news/20260819-what-if-bitcoin-hasnt-had-a-real-bull-run-since-2021-it-made-new-usd-highs-in-20.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The SEC just proposed new crypto regulation. Since the ICO boom of 2017, token-based fundraising in the US has lacked regulations. \"Reg Crypto\" would change that. Grayscale Research believes this could bring more token offerings onchain, driving value t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5\" target=\"_blank\">The SEC just proposed new crypto regul…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5",
+      "publishedAt": "2026-08-19T18:09:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas",
+      "localUrl": "/news/20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
       "summary": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
@@ -733,28 +805,6 @@
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
     },
     {
-      "source": "X Wire",
-      "title": "An amazing move on the markets. #Bitcoin to $69,000. All the people who were short are blasted out of their positions, as all liquidity above $68,200 has been taken. I don't think we'll continue straight from here, however, it's clearly buying the dip season. If this - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EelFYQlFkNXBKVHJZR3ZUYlJ4M2xoVXBaQ21YNGxfa2VqUmV0MUJYQ3djcXBWT0pZTElrUTkyc09lT2ttY19lOFBsRXFCdHNHdkJQdm5nS2NvMmotMkV1ak9QTQ?oc=5\" target=\"_blank\">An amazing move on the markets. …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EelFYQlFkNXBKVHJZR3ZUYlJ4M2xoVXBaQ21YNGxfa2VqUmV0MUJYQ3djcXBWT0pZTElrUTkyc09lT2ttY19lOFBsRXFCdHNHdkJQdm5nS2NvMmotMkV1ak9QTQ?oc=5",
-      "publishedAt": "2026-08-19T16:07:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-an-amazing-move-on-the-markets-bitcoin-to-69000-all-the-people-who-were-short-ar",
-      "localUrl": "/news/20260819-an-amazing-move-on-the-markets-bitcoin-to-69000-all-the-people-who-were-short-ar.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
-      "publishedAt": "2026-08-19T16:04:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
-      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
       "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
@@ -849,19 +899,6 @@
       "localUrl": "/news/20260819-coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-abou.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Injective receives SEC transfer agent registration for institutional services arm",
-      "summary": "Injective’s affiliated entity can now maintain securities ownership records, adding regulated market infrastructure to its growing push into tokenized assets.",
-      "url": "https://cointelegraph.com/news/injective-sec-transfer-agent-tokenized-securities-recordkeeping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T15:19:21.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260819-injective-receives-sec-transfer-agent-registration-for-institutional-services-ar",
-      "localUrl": "/news/20260819-injective-receives-sec-transfer-agent-registration-for-institutional-services-ar.html"
-    },
-    {
       "source": "X Wire",
       "title": "$2,000 ethereum:native Welcome back - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMXV1THAzWGNETUloZkZiLVU4dDRxQlhwUmRsVlBzbkJtTHdGS20zYTFFNTdiRHR1eEgzUW54TmRrd0FNS3dpbHdTb0FZQ3hxcWtWbDR0a2RzMko2RVd3?oc=5\" target=\"_blank\">$2,000 ethereum:native Welcome back</a…",
@@ -888,17 +925,6 @@
       "category": "综合",
       "slug": "20260819-ai-could-supercharge-crypto-but-theres-a-catch-fidelity-digital-assets-says",
       "localUrl": "/news/20260819-ai-could-supercharge-crypto-but-theres-a-catch-fidelity-digital-assets-says.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "I have believed for more than a decade that the U.S. Dollar Index, DXY, is in a structural decline that is likely to continue. I also think we may now be approaching a much more significant leg lower, and that has major implications for Bitcoin. If that view is right, t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zU0t6U1dmNnQ1UXJPQTBnZDFTQUVDNEZoVXZFakhKNENPb2NWYVgzRS0za1pyQWRFWXZOU0xzX196RXU4T3plc3FVXzNPam9JakozN3cwQ2k5OVpFdHVz?oc=5\" target=\"_blank\">I have believed for more than a decade…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zU0t6U1dmNnQ1UXJPQTBnZDFTQUVDNEZoVXZFakhKNENPb2NWYVgzRS0za1pyQWRFWXZOU0xzX196RXU4T3plc3FVXzNPam9JakozN3cwQ2k5OVpFdHVz?oc=5",
-      "publishedAt": "2026-08-19T14:41:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru",
-      "localUrl": "/news/20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru.html"
     },
     {
       "source": "Decrypt",
@@ -936,19 +962,6 @@
       "category": "RWA",
       "slug": "20260819-chinese-insurtech-firm-zhibao-adds-2380-bitcoin-in-1547m-treasury-pivot",
       "localUrl": "/news/20260819-chinese-insurtech-firm-zhibao-adds-2380-bitcoin-in-1547m-treasury-pivot.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
-      "summary": "Apate’s 200,000 fake AI ‘victims’ are so good at scam baiting, the company has a monthly KPI for how many F-bombs scammers drop at the infuriating bots.",
-      "url": "https://cointelegraph.com/magazine/fake-ai-victims-are-scam-baiting-600000-fraudsters-every-month?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T13:30:00.000Z",
-      "keywords": [
-        "Magazine"
-      ],
-      "category": "DeFi",
-      "slug": "20260819-200000-fake-ai-victims-deployed-to-scam-bait-online-fraudsters",
-      "localUrl": "/news/20260819-200000-fake-ai-victims-deployed-to-scam-bait-online-fraudsters.html"
     },
     {
       "source": "Decrypt",
@@ -1048,19 +1061,6 @@
       "category": "综合",
       "slug": "20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed",
       "localUrl": "/news/20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
-      "summary": "X’s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
-      "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
-      "publishedAt": "2026-08-18T21:20:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260818-arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba",
-      "localUrl": "/news/20260818-arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba.html"
     },
     {
       "source": "Ethereum Blog",
