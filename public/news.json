@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:40:54.183Z",
+  "updatedAt": "2026-08-20T23:36:02.216Z",
   "total": 85,
   "items": [
     {
@@ -678,17 +678,6 @@
       "localUrl": "/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Ethereum's exchange supply has fallen roughly 15% over eleven weeks while Bitcoin's balances quietly climbed back, per Santiment. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum's exchange …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5",
-      "publishedAt": "2026-08-20T06:01:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b",
-      "localUrl": "/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
       "summary": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
@@ -864,6 +853,17 @@
       "category": "监管",
       "slug": "20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat",
       "localUrl": "/news/20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto exchange OKX has barred staff based in Hong Kong or traveling through China from using Anthropic's Claude AI model after having its corporate account briefly suspended - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yY1F2TExjUHk5SUpsWUV4M1JvUHNRY29HRVhVb2w0VFJSaTFRcmg3M2ZGNmR4ejRZWHNsMUlwZTd4MnVfT1BhTHJxUWI4a2RNeFVBQUJnZ1Y2OGotZkE?oc=5\" target=\"_blank\">Crypto exchange OKX has barred staff ba…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yY1F2TExjUHk5SUpsWUV4M1JvUHNRY29HRVhVb2w0VFJSaTFRcmg3M2ZGNmR4ejRZWHNsMUlwZTd4MnVfT1BhTHJxUWI4a2RNeFVBQUJnZ1Y2OGotZkE?oc=5",
+      "publishedAt": "2026-08-19T21:30:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-crypto-exchange-okx-has-barred-staff-based-in-hong-kong-or-traveling-through-chi",
+      "localUrl": "/news/20260819-crypto-exchange-okx-has-barred-staff-based-in-hong-kong-or-traveling-through-chi.html"
     },
     {
       "source": "X Wire",

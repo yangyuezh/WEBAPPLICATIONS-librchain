@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T22:40:54.224Z</lastmod>
+    <lastmod>2026-08-20T23:36:02.259Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T22:40:54.224Z</lastmod>
+    <lastmod>2026-08-20T23:36:02.259Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -319,12 +319,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html</loc>
-    <lastmod>2026-08-20T06:01:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid.html</loc>
     <lastmod>2026-08-20T05:52:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -405,6 +399,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat.html</loc>
     <lastmod>2026-08-19T21:36:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-crypto-exchange-okx-has-barred-staff-based-in-hong-kong-or-traveling-through-chi.html</loc>
+    <lastmod>2026-08-19T21:30:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
