@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-20T13:58:56.010Z",
-  "total": 84,
+  "updatedAt": "2026-08-20T14:51:24.329Z",
+  "total": 64,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Hyperliquid Is Coming to the US",
+      "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
+      "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+      "publishedAt": "2026-08-20T14:02:44.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260820-morning-minute-hyperliquid-is-coming-to-the-us",
+      "localUrl": "/news/20260820-morning-minute-hyperliquid-is-coming-to-the-us.html"
+    },
     {
       "source": "Decrypt",
       "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
@@ -55,17 +68,6 @@
       "localUrl": "/news/20260820-heres-what-happened-in-crypto-today.html"
     },
     {
-      "source": "X Wire",
-      "title": "Crypto last week vs Crypto this week - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5\" target=\"_blank\">Crypto last week vs Crypto this we…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5",
-      "publishedAt": "2026-08-20T13:03:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-crypto-last-week-vs-crypto-this-week-xcom",
-      "localUrl": "/news/20260820-crypto-last-week-vs-crypto-this-week-xcom.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
       "summary": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
@@ -77,17 +79,6 @@
       "category": "监管",
       "slug": "20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe",
       "localUrl": "/news/20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin surges above $72,000 for the first time since June 1st as levered liquidations hit $3.4 billion in 24 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5",
-      "publishedAt": "2026-08-20T12:22:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered",
-      "localUrl": "/news/20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered.html"
     },
     {
       "source": "CoinDesk",
@@ -158,17 +149,6 @@
       "category": "监管",
       "slug": "20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may",
       "localUrl": "/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $3,100,000,000 worth of crypto shorts liquidated in the past 24 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5\" target=\"_blank\">JUST IN: $3,100,000,000 worth of c…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5",
-      "publishedAt": "2026-08-20T11:16:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom",
-      "localUrl": "/news/20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -288,17 +268,6 @@
       "localUrl": "/news/20260820-bitcoin-hits-72000-as-strategy-and-coinbase-continue-rally.html"
     },
     {
-      "source": "X Wire",
-      "title": "🚨 THE LARGEST SHORT LIQUIDATION IN CRYPTO HISTORY JUST HAPPENED. Short sellers lost $3 billion in a single day. Bitcoin hit $71,000, up +11.50%, and $236 billion was added to the crypto market. Here is the full move: - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVGJCTGJ2SDJTVVl5MmZRNXNaTkxEY3RuVC1RRlhzUmtheEJyeThoZmNMcXN0Y0c5UXNVaC16MC1wUTlLU1o0QTNNeHlCOTBSUkllRWpTa1Y0OFphVHlLM2R4VQ?oc=5\" target=\"_blank\">🚨 THE LARGEST SHORT LIQUIDATION…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVGJCTGJ2SDJTVVl5MmZRNXNaTkxEY3RuVC1RRlhzUmtheEJyeThoZmNMcXN0Y0c5UXNVaC16MC1wUTlLU1o0QTNNeHlCOTBSUkllRWpTa1Y0OFphVHlLM2R4VQ?oc=5",
-      "publishedAt": "2026-08-20T09:03:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-the-largest-short-liquidation-in-crypto-history-just-happened-short-sellers-lost",
-      "localUrl": "/news/20260820-the-largest-short-liquidation-in-crypto-history-just-happened-short-sellers-lost.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
       "summary": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
@@ -310,17 +279,6 @@
       "category": "基础设施",
       "slug": "20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone",
       "localUrl": "/news/20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN 🚨: Bitcoin $BTC gets above 200-day moving average for the first time since November 2025 📈 🤑 🥳 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Qm9WZWEzdklEdENVWkZwZDR0UlFZMGVmS2hqLTBnRTdVNlY1MzQ4dXhaVnk4N0VQUjJqb3h5OXAyckx2cEItbXBBRzhKOEtqUnVYRFM4UHJiVnp6aWc?oc=5\" target=\"_blank\">JUST IN 🚨: Bitcoin $BTC gets above 200…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Qm9WZWEzdklEdENVWkZwZDR0UlFZMGVmS2hqLTBnRTdVNlY1MzQ4dXhaVnk4N0VQUjJqb3h5OXAyckx2cEItbXBBRzhKOEtqUnVYRFM4UHJiVnp6aWc?oc=5",
-      "publishedAt": "2026-08-20T08:59:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-just-in-bitcoin-btc-gets-above-200-day-moving-average-for-the-first-time-since-n",
-      "localUrl": "/news/20260820-just-in-bitcoin-btc-gets-above-200-day-moving-average-for-the-first-time-since-n.html"
     },
     {
       "source": "Cointelegraph",
@@ -337,7 +295,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $72,000, but bond yields are back on the rise",
+      "title": "Live updates: Bitcoin slips from highest levels as yields head higher",
       "summary": "Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's desire to lower long-term government bond yields.",
       "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "publishedAt": "2026-08-20T06:21:17.000Z",
@@ -347,8 +305,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260820-live-updates-bitcoin-hits-72000-but-bond-yields-are-back-on-the-rise",
-      "localUrl": "/news/20260820-live-updates-bitcoin-hits-72000-but-bond-yields-are-back-on-the-rise.html"
+      "slug": "20260820-live-updates-bitcoin-slips-from-highest-levels-as-yields-head-higher",
+      "localUrl": "/news/20260820-live-updates-bitcoin-slips-from-highest-levels-as-yields-head-higher.html"
     },
     {
       "source": "Cointelegraph",
@@ -419,39 +377,6 @@
       "localUrl": "/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html"
     },
     {
-      "source": "X Wire",
-      "title": "Glassnode Says Bitcoin Rebounds Remain Local Rallies, Not a Trend Reversal Bitcoin remains below both the roughly $68,500 Short-Term Holder Cost Basis and the $75,800 True Market Mean, with Glassnode’s on-chain models continuing to place the mar - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Z0wyYXRqbFlMV0ctdU8xWnNMWVIwY3F6SkpMUko3Y3g4VUlGcGNhWjk2MEltckNfa2hDZ3ZXRHVXblBock5rU1RwUlB6cEdtS2hvN3Rob0xFSnQ2bUpBMnB4NA?oc=5\" target=\"_blank\">Glassnode Says Bitcoin Rebounds …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Z0wyYXRqbFlMV0ctdU8xWnNMWVIwY3F6SkpMUko3Y3g4VUlGcGNhWjk2MEltckNfa2hDZ3ZXRHVXblBock5rU1RwUlB6cEdtS2hvN3Rob0xFSnQ2bUpBMnB4NA?oc=5",
-      "publishedAt": "2026-08-20T02:59:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi",
-      "localUrl": "/news/20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstro - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5\" target=\"_blank\">🚨SCOOP: A small group of cr…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5",
-      "publishedAt": "2026-08-20T00:34:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni",
-      "localUrl": "/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $190,000,000,000 added to the crypto market cap in the past 24 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUXA0Ym92S25KeHFhSG9SU1QyMlRzc2l6b1VhbWhzQ00tem9NNUhfeW1Ra0NHNmstR1lUaHZVLWFhcjQwWkhEQzV0RzdFSE9WSnRnYkM3eS1PUHlDY2s1OF9R?oc=5\" target=\"_blank\">JUST IN: $190,000,000,000 added to…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUXA0Ym92S25KeHFhSG9SU1QyMlRzc2l6b1VhbWhzQ00tem9NNUhfeW1Ra0NHNmstR1lUaHZVLWFhcjQwWkhEQzV0RzdFSE9WSnRnYkM3eS1PUHlDY2s1OF9R?oc=5",
-      "publishedAt": "2026-08-20T00:05:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom",
-      "localUrl": "/news/20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
       "summary": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
@@ -493,17 +418,6 @@
       "localUrl": "/news/20260819-trump-says-ai-could-be-bigger-than-the-internet-as-he-pushes-light-touch-regulat.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin extends gains to rise above $70,000 for the first time since June 2nd and levered short liquidations hit $2.7 billion in 24 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abks4OFlESHJhZHM3d1hIeEFxcUJvVk91X3ZWVHB4TW4wNm5GbkxDLW5veVZPbHNEQ1FERHBPQUNlTVpiZWJ1cXJudFVWTzVLX0FUWDRxS2hYM2JtLVJZZlRvZlRCZw?oc=5\" target=\"_blank\">BREAKING: Bitcoin extends ga…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abks4OFlESHJhZHM3d1hIeEFxcUJvVk91X3ZWVHB4TW4wNm5GbkxDLW5veVZPbHNEQ1FERHBPQUNlTVpiZWJ1cXJudFVWTzVLX0FUWDRxS2hYM2JtLVJZZlRvZlRCZw?oc=5",
-      "publishedAt": "2026-08-19T21:22:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june",
-      "localUrl": "/news/20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
       "summary": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
@@ -515,17 +429,6 @@
       "category": "市场",
       "slug": "20260819-bitcoincom-integrates-uae-registered-us-dollar-stablecoin-into-self-custodial-wa",
       "localUrl": "/news/20260819-bitcoincom-integrates-uae-registered-us-dollar-stablecoin-into-self-custodial-wa.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 White House Crypto Summit recap: • President Trump says US considers buying \"sizable\" amounts of Bitcoin & other crypto. • Trump calls on Congress to pass Crypto Clarity Act. • Trump says US is ensuring it remains the \"undisputed leader\" in $BTC & cry - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QckVNcXl2TW1LLXFlWjZEWXNQM0VYdXo5aXpkeERDcHE4eDBUWXIxS2xaazAwSUVpMl9UNWI2MkhLOC1KdVp1STNmUENOb2tWR0ZwY0tTemIyRHhEZmV1ZVBR?oc=5\" target=\"_blank\">🇺🇸 White House Crypto Summit rec…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QckVNcXl2TW1LLXFlWjZEWXNQM0VYdXo5aXpkeERDcHE4eDBUWXIxS2xaazAwSUVpMl9UNWI2MkhLOC1KdVp1STNmUENOb2tWR0ZwY0tTemIyRHhEZmV1ZVBR?oc=5",
-      "publishedAt": "2026-08-19T20:01:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-white-house-crypto-summit-recap-president-trump-says-us-considers-buying-sizable",
-      "localUrl": "/news/20260819-white-house-crypto-summit-recap-president-trump-says-us-considers-buying-sizable.html"
     },
     {
       "source": "Decrypt",
@@ -657,28 +560,6 @@
       "localUrl": "/news/20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries.html"
     },
     {
-      "source": "X Wire",
-      "title": "What if Bitcoin hasn’t had a real bull run since 2021? It made new USD highs in 2025, but failed to hold price discovery vs gold and fell back to ~15 oz/BTC. Overlay QE/QT, factor in today’s Treasury “liquidity support”, and maybe the real bull run is just getting s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aRXVJUFBySHlFTnNqeWZ5VnlVMUdhbUFTRks3SlBoWW5EcXBLNUZwbjRoc3hlVnA1NEJaRThTbnh4MlpsUDNoS3AxQ0oyUmYwVXQzS3ViTWRnU01Nbk5Lbl9n?oc=5\" target=\"_blank\">What if Bitcoin hasn’t had a real …",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aRXVJUFBySHlFTnNqeWZ5VnlVMUdhbUFTRks3SlBoWW5EcXBLNUZwbjRoc3hlVnA1NEJaRThTbnh4MlpsUDNoS3AxQ0oyUmYwVXQzS3ViTWRnU01Nbk5Lbl9n?oc=5",
-      "publishedAt": "2026-08-19T18:10:02.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-what-if-bitcoin-hasnt-had-a-real-bull-run-since-2021-it-made-new-usd-highs-in-20",
-      "localUrl": "/news/20260819-what-if-bitcoin-hasnt-had-a-real-bull-run-since-2021-it-made-new-usd-highs-in-20.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The SEC just proposed new crypto regulation. Since the ICO boom of 2017, token-based fundraising in the US has lacked regulations. \"Reg Crypto\" would change that. Grayscale Research believes this could bring more token offerings onchain, driving value t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5\" target=\"_blank\">The SEC just proposed new crypto regul…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5",
-      "publishedAt": "2026-08-19T18:09:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas",
-      "localUrl": "/news/20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
       "summary": "The $1 billion facility will deploy assets backing USDe into overcollateralized institutional loans, expanding Ethena’s sources of returns beyond crypto basis strategies.",
@@ -744,17 +625,6 @@
       "localUrl": "/news/20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger.html"
     },
     {
-      "source": "X Wire",
-      "title": "$1.2 trillion has been added to precious metals and crypto in the last 3 hours. Gold up +3.08%, adding $934 billion. Silver up +3.86%, adding $136 billion. Bitcoin up +8.14%, adding $103 billion. Ethereum up +9.66%, adding $22 billion. This comes as the Tre - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5\" target=\"_blank\">$1.2 trillion has been added to …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5",
-      "publishedAt": "2026-08-19T16:23:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol",
-      "localUrl": "/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
       "summary": "BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.",
@@ -770,17 +640,6 @@
       "localUrl": "/news/20260819-bitcoin-surges-above-68000-liquidating-14-billion-shorts-as-treasury-buybacks-bo.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin is classified information. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOWdLY2xaQUtvX0JJck4yVVZNRWFYbzBSWlJLc0w3dEQ5ZzZqeXRhdEFGWVNDZkxyVTJsTDg2X184WjhZN1VUNE5JRGVPWHdjRENpQXhxUkNuZG8?oc=5\" target=\"_blank\">Bitcoin is classified information.</a> <fon…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOWdLY2xaQUtvX0JJck4yVVZNRWFYbzBSWlJLc0w3dEQ5ZzZqeXRhdEFGWVNDZkxyVTJsTDg2X184WjhZN1VUNE5JRGVPWHdjRENpQXhxUkNuZG8?oc=5",
-      "publishedAt": "2026-08-19T16:10:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-bitcoin-is-classified-information-xcom",
-      "localUrl": "/news/20260819-bitcoin-is-classified-information-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
       "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
@@ -792,17 +651,6 @@
       "category": "市场",
       "slug": "20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour",
       "localUrl": "/news/20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin surges over +7% to its highest level since June 2nd as $1.2 billion worth of shorts are liquidated in 60 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cGNxLThUSGZWaWhKWExheGhuNmItbDR0ZmNCa2RaVDF2YjRKQVJqQVhnV0hHUGpGTTNTdnA1dzhOQnZMY0g4Zk10bnhpdHNZUFlVZXZXQ0Jzd2QzRVluVzZlekhKUQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges ove…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cGNxLThUSGZWaWhKWExheGhuNmItbDR0ZmNCa2RaVDF2YjRKQVJqQVhnV0hHUGpGTTNTdnA1dzhOQnZMY0g4Zk10bnhpdHNZUFlVZXZXQ0Jzd2QzRVluVzZlekhKUQ?oc=5",
-      "publishedAt": "2026-08-19T16:07:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
-      "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
     },
     {
       "source": "Decrypt",
@@ -857,17 +705,6 @@
       "localUrl": "/news/20260819-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin surges to $69,000 as $1,100,000,000 in crypto shorts are liquidated in 60 minutes. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15a05uUGFrUFBqOGxmNlR5YWozbHA1Y214OGY4ZXRVMWRiY2JMY0Q5T1BoaWE3ZkxOV25NbzhkR3VxOHpybnlKVElDckEwbTJFU3ctTHRqdi1aRU5QOFZxOEZ3?oc=5\" target=\"_blank\">JUST IN: Bitcoin surges to $69,000…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15a05uUGFrUFBqOGxmNlR5YWozbHA1Y214OGY4ZXRVMWRiY2JMY0Q5T1BoaWE3ZkxOV25NbzhkR3VxOHpybnlKVElDckEwbTJFU3ctTHRqdi1aRU5QOFZxOEZ3?oc=5",
-      "publishedAt": "2026-08-19T15:31:31.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-just-in-bitcoin-surges-to-69000-as-1100000000-in-crypto-shorts-are-liquidated-in",
-      "localUrl": "/news/20260819-just-in-bitcoin-surges-to-69000-as-1100000000-in-crypto-shorts-are-liquidated-in.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
       "summary": "Bitcoin is close to forming a pattern that analysts say could signal prices rising to as high as $76,000.",
@@ -899,17 +736,6 @@
       "localUrl": "/news/20260819-coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-abou.html"
     },
     {
-      "source": "X Wire",
-      "title": "$2,000 ethereum:native Welcome back - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMXV1THAzWGNETUloZkZiLVU4dDRxQlhwUmRsVlBzbkJtTHdGS20zYTFFNTdiRHR1eEgzUW54TmRrd0FNS3dpbHdTb0FZQ3hxcWtWbDR0a2RzMko2RVd3?oc=5\" target=\"_blank\">$2,000 ethereum:native Welcome back</a…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sMXV1THAzWGNETUloZkZiLVU4dDRxQlhwUmRsVlBzbkJtTHdGS20zYTFFNTdiRHR1eEgzUW54TmRrd0FNS3dpbHdTb0FZQ3hxcWtWbDR0a2RzMko2RVd3?oc=5",
-      "publishedAt": "2026-08-19T15:16:51.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-2000-ethereumnative-welcome-back-xcom",
-      "localUrl": "/news/20260819-2000-ethereumnative-welcome-back-xcom.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
       "summary": "AI agents could boost crypto activity, but much of the value may bypass blockchains and their tokens.",
@@ -938,17 +764,6 @@
       "category": "监管",
       "slug": "20260819-morning-minute-sec-brings-clarity-to-crypto",
       "localUrl": "/news/20260819-morning-minute-sec-brings-clarity-to-crypto.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "In the last 24 hours: * The SEC released Regulation Crypto Assets * The Treasury launched yield curve control * The White House prepared for a meeting with top crypto execs to discuss tokenization and the Clarity Act. Hard not to be extremely bullish both BT - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OQUFNVmdnRWN1eEF2eDJiS2d5Zms2bEFRSGxQMWFWZXRjeGlHcUE3ay11RnA4S3BSWlUwYk9EZDdyZEJ4VmtDMVdFVmFWUnVzSTFMbDdISjMzZTZXSFdqNWxR?oc=5\" target=\"_blank\">In the last 24 hours: * The SEC re…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OQUFNVmdnRWN1eEF2eDJiS2d5Zms2bEFRSGxQMWFWZXRjeGlHcUE3ay11RnA4S3BSWlUwYk9EZDdyZEJ4VmtDMVdFVmFWUnVzSTFMbDdISjMzZTZXSFdqNWxR?oc=5",
-      "publishedAt": "2026-08-19T13:36:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-in-the-last-24-hours-the-sec-released-regulation-crypto-assets-the-treasury-laun",
-      "localUrl": "/news/20260819-in-the-last-24-hours-the-sec-released-regulation-crypto-assets-the-treasury-laun.html"
     },
     {
       "source": "Decrypt",
@@ -1002,28 +817,6 @@
       "localUrl": "/news/20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet.html"
     },
     {
-      "source": "X Wire",
-      "title": "Some are trying to bring Bitcoin to billions. Others are trying to win arguments on the internet. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSDFDX2pBUzVWZW9ZSXdpdDBoRmxiOUtid0pCZ3BlRThLSkRObWw5MWM5NzAwd3BxNmdUUkNZWEYzTWFNeHoxRHhmdTVoNjdQTzVjd2hNcjZ5SUE?oc=5\" target=\"_blank\">Some are trying to bring Bitcoin to billion…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSDFDX2pBUzVWZW9ZSXdpdDBoRmxiOUtid0pCZ3BlRThLSkRObWw5MWM5NzAwd3BxNmdUUkNZWEYzTWFNeHoxRHhmdTVoNjdQTzVjd2hNcjZ5SUE?oc=5",
-      "publishedAt": "2026-08-19T09:27:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-",
-      "localUrl": "/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🇺🇸 TODAY: The White House will host a crypto summit with crypto executives. What do you expect to hear from this summit? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MUdFZXA1VkQzX2U3S0htcm5TTWpzUjhTOV92NVVqenFZZWtUVDFjVWtDTnZHanI3Zlk5ZHJEUENzVzlpSG9jTkNWM09zNUxFZkVBRWNJcGhXeUtkVDhEd1lSODU?oc=5\" target=\"_blank\">🇺🇸 TODAY: The White House wil…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MUdFZXA1VkQzX2U3S0htcm5TTWpzUjhTOV92NVVqenFZZWtUVDFjVWtDTnZHanI3Zlk5ZHJEUENzVzlpSG9jTkNWM09zNUxFZkVBRWNJcGhXeUtkVDhEd1lSODU?oc=5",
-      "publishedAt": "2026-08-19T07:00:59.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-today-the-white-house-will-host-a-crypto-summit-with-crypto-executives-what-do-y",
-      "localUrl": "/news/20260819-today-the-white-house-will-host-a-crypto-summit-with-crypto-executives-what-do-y.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
       "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
@@ -1048,19 +841,6 @@
       "category": "综合",
       "slug": "20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in",
       "localUrl": "/news/20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
-      "summary": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
-      "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
-      "publishedAt": "2026-08-18T21:49:46.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed",
-      "localUrl": "/news/20260818-rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed.html"
     },
     {
       "source": "Ethereum Blog",
