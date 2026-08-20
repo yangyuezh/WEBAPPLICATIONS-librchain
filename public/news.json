@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-20T16:48:02.122Z",
-  "total": 84,
+  "updatedAt": "2026-08-20T17:41:43.098Z",
+  "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
+      "summary": "Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.",
+      "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
+      "publishedAt": "2026-08-20T17:12:43.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam",
+      "localUrl": "/news/20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Crypto markets officially post their 7th largest liquidation event in history, with $3.5 billion in levered positions liquidated in 24 hours. In 24 hours, crypto markets added +$280 billion in market cap. That's +$12 billion in market cap per hour for 24 ho - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HXzlobzRmS19Oa1pJYlE2RGFjRmxsRThLYnc3Rl9xd0JqcDF2SVJCb01hMlBCbWd4UlFsN3FRNENQTU1VMEcyYmZTR29fbVM3aV9MNThyYjZvdW5CSGNFeXBOdXBSQQ?oc=5\" target=\"_blank\">BREAKING: Crypto markets off…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HXzlobzRmS19Oa1pJYlE2RGFjRmxsRThLYnc3Rl9xd0JqcDF2SVJCb01hMlBCbWd4UlFsN3FRNENQTU1VMEcyYmZTR29fbVM3aV9MNThyYjZvdW5CSGNFeXBOdXBSQQ?oc=5",
+      "publishedAt": "2026-08-20T16:38:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-breaking-crypto-markets-officially-post-their-7th-largest-liquidation-event-in-h",
+      "localUrl": "/news/20260820-breaking-crypto-markets-officially-post-their-7th-largest-liquidation-event-in-h.html"
+    },
     {
       "source": "Decrypt",
       "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
@@ -124,17 +148,6 @@
       "category": "监管",
       "slug": "20260820-crypto-for-advisors-what-are-tokenized-deposits",
       "localUrl": "/news/20260820-crypto-for-advisors-what-are-tokenized-deposits.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "America is winning the crypto race. CLARITY gets us over the line. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5\" target=\"_blank\">America is winning the crypto race. CLA…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5",
-      "publishedAt": "2026-08-20T14:56:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom",
-      "localUrl": "/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -487,6 +500,17 @@
       "localUrl": "/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Ethereum's exchange supply has fallen roughly 15% over eleven weeks while Bitcoin's balances quietly climbed back, per Santiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum's exchange …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5",
+      "publishedAt": "2026-08-20T06:01:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b",
+      "localUrl": "/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
       "summary": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
@@ -597,6 +621,19 @@
       "category": "X热点",
       "slug": "20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom",
       "localUrl": "/news/20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom.html"
+    },
+    {
+      "source": "Ethereum Blog",
+      "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
+      "summary": "better.codes, an open autoresearch challenge built by the Ethereum Foundation Formal Verification team in collaboration with Yukon and zkSecurity, is now live. better.codes takes a self-contained problem from the Proximity Prize research, …",
+      "url": "https://blog.ethereum.org/en/2026/08/20/better-codes-challenge",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "keywords": [
+        "Research & Development"
+      ],
+      "category": "监管",
+      "slug": "20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through",
+      "localUrl": "/news/20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through.html"
     },
     {
       "source": "CoinDesk",
@@ -939,17 +976,6 @@
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
     },
     {
-      "source": "X Wire",
-      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
-      "publishedAt": "2026-08-19T16:04:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
-      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
       "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
@@ -1044,20 +1070,6 @@
       "category": "基础设施",
       "slug": "20260819-lowering-slot-time-and-validators-economic",
       "localUrl": "/news/20260819-lowering-slot-time-and-validators-economic.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-      "summary": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
-      "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
-      "publishedAt": "2026-08-19T09:31:03.000Z",
-      "keywords": [
-        "zcash",
-        "Coins"
-      ],
-      "category": "RWA",
-      "slug": "20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet",
-      "localUrl": "/news/20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet.html"
     },
     {
       "source": "Ethereum Blog",
