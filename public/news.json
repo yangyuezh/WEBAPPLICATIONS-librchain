@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-20T18:55:43.408Z",
+  "updatedAt": "2026-08-20T19:41:26.228Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
+      "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip—but the longer-term bets still price in a crash.",
+      "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
+      "publishedAt": "2026-08-20T19:16:05.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced",
+      "localUrl": "/news/20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced.html"
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
@@ -280,6 +293,17 @@
       "category": "监管",
       "slug": "20260820-heres-what-happened-in-crypto-today",
       "localUrl": "/news/20260820-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Crypto last week vs Crypto this week - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5\" target=\"_blank\">Crypto last week vs Crypto this we…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5",
+      "publishedAt": "2026-08-20T13:03:08.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-crypto-last-week-vs-crypto-this-week-xcom",
+      "localUrl": "/news/20260820-crypto-last-week-vs-crypto-this-week-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -980,17 +1004,6 @@
       "localUrl": "/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html"
     },
     {
-      "source": "X Wire",
-      "title": "Bitcoin is classified information. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOWdLY2xaQUtvX0JJck4yVVZNRWFYbzBSWlJLc0w3dEQ5ZzZqeXRhdEFGWVNDZkxyVTJsTDg2X184WjhZN1VUNE5JRGVPWHdjRENpQXhxUkNuZG8?oc=5\" target=\"_blank\">Bitcoin is classified information.</a> <fon…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYOWdLY2xaQUtvX0JJck4yVVZNRWFYbzBSWlJLc0w3dEQ5ZzZqeXRhdEFGWVNDZkxyVTJsTDg2X184WjhZN1VUNE5JRGVPWHdjRENpQXhxUkNuZG8?oc=5",
-      "publishedAt": "2026-08-19T16:10:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-bitcoin-is-classified-information-xcom",
-      "localUrl": "/news/20260819-bitcoin-is-classified-information-xcom.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
       "summary": "A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.",
@@ -1024,19 +1037,6 @@
       "category": "X热点",
       "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
       "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-      "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
-      "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-      "publishedAt": "2026-08-19T16:00:06.000Z",
-      "keywords": [
-        "Business"
-      ],
-      "category": "市场",
-      "slug": "20260819-coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid",
-      "localUrl": "/news/20260819-coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid.html"
     },
     {
       "source": "X Wire",

@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T18:55:43.449Z</lastmod>
+    <lastmod>2026-08-20T19:41:26.268Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T18:55:43.449Z</lastmod>
+    <lastmod>2026-08-20T19:41:26.268Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced.html</loc>
+    <lastmod>2026-08-20T19:16:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f.html</loc>
@@ -135,6 +141,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-20T13:12:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-crypto-last-week-vs-crypto-this-week-xcom.html</loc>
+    <lastmod>2026-08-20T13:03:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -457,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-bitcoin-is-classified-information-xcom.html</loc>
-    <lastmod>2026-08-19T16:10:18.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour.html</loc>
     <lastmod>2026-08-19T16:10:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html</loc>
     <lastmod>2026-08-19T16:04:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid.html</loc>
-    <lastmod>2026-08-19T16:00:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
