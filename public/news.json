@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-20T03:57:45.951Z",
+  "updatedAt": "2026-08-20T04:49:33.939Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
+      "summary": "Traders betting against crypto lost $2.74 billion in a day, more than the short side of the October 2025 crash that remains the biggest liquidation event in the market's history.",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
+      "publishedAt": "2026-08-20T04:29:56.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260820-bearish-crypto-bets-lose-record-27-billion-as-bitcoin-surges-toward-70000",
+      "localUrl": "/news/20260820-bearish-crypto-bets-lose-record-27-billion-as-bitcoin-surges-toward-70000.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
+      "summary": "Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.",
+      "url": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T04:27:17.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260820-rushed-clarity-act-vote-could-set-legislation-back-gallego-warns",
+      "localUrl": "/news/20260820-rushed-clarity-act-vote-could-set-legislation-back-gallego-warns.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
+      "summary": "Every major except tron posted double-digit weekly gains, with nearly $1.4 billion of short positions wiped out after the Treasury doubled its bond buybacks.",
+      "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
+      "publishedAt": "2026-08-20T04:10:40.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally",
+      "localUrl": "/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html"
+    },
     {
       "source": "X Wire",
       "title": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstro - x.com",
@@ -833,20 +874,6 @@
       "localUrl": "/news/20260819-nexo-launches-regulated-crypto-backed-credit-in-australia.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
-      "summary": "The feature, which follows earlier moves into financial transactions, is not yet being tested anywhere, a spokesperson said.",
-      "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
-      "publishedAt": "2026-08-19T10:04:30.000Z",
-      "keywords": [
-        "Finance",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260819-tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
-      "localUrl": "/news/20260819-tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg.html"
-    },
-    {
       "source": "Solana Blog",
       "title": "Lowering Slot Time and Validators Economic",
       "summary": "Solana will reduce its slot times from 400ms to 200ms. This change will make the protocol more competitive in terms of latency. Here we explore some possible implication on validators economic.",
@@ -856,21 +883,6 @@
       "category": "基础设施",
       "slug": "20260819-lowering-slot-time-and-validators-economic",
       "localUrl": "/news/20260819-lowering-slot-time-and-validators-economic.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple raises $275 million in senior notes for prime brokerage push",
-      "summary": "Ripple Prime's inaugural senior notes carried an investment grade rating and drew institutional investors across key financial markets.",
-      "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
-      "publishedAt": "2026-08-19T09:55:50.000Z",
-      "keywords": [
-        "Finance",
-        "Ripple",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260819-ripple-raises-275-million-in-senior-notes-for-prime-brokerage-push",
-      "localUrl": "/news/20260819-ripple-raises-275-million-in-senior-notes-for-prime-brokerage-push.html"
     },
     {
       "source": "Decrypt",
@@ -909,19 +921,6 @@
       "category": "基础设施",
       "slug": "20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop",
       "localUrl": "/news/20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs add $189M as August net inflows approach $1B",
-      "summary": "US spot Bitcoin ETFs took in $189 million on Tuesday, lifting August net inflows to $951 million, while Ether ETFs added $71.5 million.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-august-net-inflows-approach-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T07:59:16.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260819-bitcoin-etfs-add-189m-as-august-net-inflows-approach-1b",
-      "localUrl": "/news/20260819-bitcoin-etfs-add-189m-as-august-net-inflows-approach-1b.html"
     },
     {
       "source": "X Wire",
