@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-20T05:42:45.401Z",
+  "updatedAt": "2026-08-20T07:02:15.979Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin ETFs draw $517 million, ether pulls $189 million in biggest inflows in months",
+      "summary": "Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.",
+      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+      "publishedAt": "2026-08-20T06:21:17.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "监管",
+      "slug": "20260820-live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-million-in-biggest-in",
+      "localUrl": "/news/20260820-live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-million-in-biggest-in.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T06:03:50.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260820-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260820-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
+      "summary": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
+      "url": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T05:52:30.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid",
+      "localUrl": "/news/20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
@@ -56,6 +97,17 @@
       "category": "RWA",
       "slug": "20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally",
       "localUrl": "/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Ethereum $ETH Breakout 🚀 🚀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcTRURnhUc1RKU0k1UEhjWVFvNkZTU3FVTENUbW0xaDFyWXBQV0VYR1FBTEhFQy1vU1RhMXBuMWxsLWg0U1hjVWI3VEZyS18xTFFwcHZQQ0JGNGhOU3c?oc=5\" target=\"_blank\">Ethereum $ETH Breakout 🚀 🚀</a> <font …",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zcTRURnhUc1RKU0k1UEhjWVFvNkZTU3FVTENUbW0xaDFyWXBQV0VYR1FBTEhFQy1vU1RhMXBuMWxsLWg0U1hjVWI3VEZyS18xTFFwcHZQQ0JGNGhOU3c?oc=5",
+      "publishedAt": "2026-08-20T02:39:57.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-ethereum-eth-breakout-xcom",
+      "localUrl": "/news/20260820-ethereum-eth-breakout-xcom.html"
     },
     {
       "source": "X Wire",
@@ -204,19 +256,6 @@
       "category": "市场",
       "slug": "20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9",
       "localUrl": "/news/20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T19:50:07.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260819-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260819-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -843,21 +882,6 @@
       "localUrl": "/news/20260819-ripple-raises-275m-for-us-prime-brokerage-to-meet-institutional-demand.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed decision making comes into focus as bitcoin holds steady, bond yields surge",
-      "summary": "Your day-ahead look for Aug. 19, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
-      "publishedAt": "2026-08-19T11:14:50.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260819-fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge",
-      "localUrl": "/news/20260819-fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
       "summary": "Bitcoin maintained its appeal as a diversification investment despite dropping more than 50% from all-time high, a BlackRock report stated.",
@@ -918,19 +942,6 @@
       "category": "X热点",
       "slug": "20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-",
       "localUrl": "/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Arthur Hayes takes CEO role at Flop Labs ahead of Q4 airdrop",
-      "summary": "Hayes revealed his new role as Flop Labs CEO and teased a “massive airdrop” from the AI inference protocol in the fourth quarter of 2026.",
-      "url": "https://cointelegraph.com/news/arthur-hayes-ceo-role-flop-labs-q4-airdrop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T08:34:51.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop",
-      "localUrl": "/news/20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop.html"
     },
     {
       "source": "X Wire",
@@ -1053,17 +1064,6 @@
       "category": "X热点",
       "slug": "20260818-reg-crypto-is-out-xcom",
       "localUrl": "/news/20260818-reg-crypto-is-out-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "For years, anti-crypto armies, doomers, and decelerationists stifled innovation, regulating by enforcement and driving transformational technologies like blockchain, AI, and prediction markets overseas. On August 20, the @CFTC is turning the page and chartin - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Y1NIb2ZVbXcxeW1HWlZwN3pkSEZud29hbWFWM1NrZzhVLTFJUnJ4bEd5c2pFd1NFSnE5bk1zcnBoQW1FSl80S2c1T0xfQWczYmJwbkJDSEI5U01JaW9GNnVuTE4?oc=5\" target=\"_blank\">For years, anti-crypto armies, …",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Y1NIb2ZVbXcxeW1HWlZwN3pkSEZud29hbWFWM1NrZzhVLTFJUnJ4bEd5c2pFd1NFSnE5bk1zcnBoQW1FSl80S2c1T0xfQWczYmJwbkJDSEI5U01JaW9GNnVuTE4?oc=5",
-      "publishedAt": "2026-08-18T16:31:08.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg",
-      "localUrl": "/news/20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg.html"
     },
     {
       "source": "Ethereum Blog",

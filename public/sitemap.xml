@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T05:42:45.424Z</lastmod>
+    <lastmod>2026-08-20T07:02:16.021Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T05:42:45.424Z</lastmod>
+    <lastmod>2026-08-20T07:02:16.021Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-etfs-draw-517-million-ether-pulls-189-million-in-biggest-in.html</loc>
+    <lastmod>2026-08-20T06:21:17.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-heres-what-happened-in-crypto-today.html</loc>
+    <lastmod>2026-08-20T06:03:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid.html</loc>
+    <lastmod>2026-08-20T05:52:30.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second.html</loc>
@@ -33,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html</loc>
     <lastmod>2026-08-20T04:10:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-ethereum-eth-breakout-xcom.html</loc>
+    <lastmod>2026-08-20T02:39:57.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -105,12 +129,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9.html</loc>
     <lastmod>2026-08-19T19:51:11.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-heres-what-happened-in-crypto-today.html</loc>
-    <lastmod>2026-08-19T19:50:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -391,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge.html</loc>
-    <lastmod>2026-08-19T11:14:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock.html</loc>
     <lastmod>2026-08-19T11:06:13.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -423,12 +435,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html</loc>
     <lastmod>2026-08-19T09:27:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-arthur-hayes-takes-ceo-role-at-flop-labs-ahead-of-q4-airdrop.html</loc>
-    <lastmod>2026-08-19T08:34:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-reg-crypto-is-out-xcom.html</loc>
     <lastmod>2026-08-18T18:51:20.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg.html</loc>
-    <lastmod>2026-08-18T16:31:08.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
