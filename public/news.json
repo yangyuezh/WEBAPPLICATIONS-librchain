@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-20T04:49:33.939Z",
+  "updatedAt": "2026-08-20T05:42:45.401Z",
   "total": 84,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+      "summary": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
+      "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+      "publishedAt": "2026-08-20T05:40:54.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second",
+      "localUrl": "/news/20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bearish crypto bets lose record $2.7 billion as bitcoin surges toward $70,000",
@@ -53,6 +67,17 @@
       "category": "X热点",
       "slug": "20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni",
       "localUrl": "/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Great to be back at the White House today alongside @realDonaldTrump, @SECPaulSAtkins, @ChairmanSelig and leaders across the crypto industry. The big picture has never been clearer: 67 million Americans hold crypto today (that’s nearly 1 in 4!). Crypt - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wTzh3OC04TW96T1BRSUdNeGpxVHJMWU8wMWg2UWlXb0tXb25mUTVpejY2LWxMQUttVWpsTllaOFZCLVdQQk80cjhqUjVkeGhYbzZiSGZSdWJ4SEVMMlNwdDNVbTg?oc=5\" target=\"_blank\">Great to be back at the White H…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wTzh3OC04TW96T1BRSUdNeGpxVHJMWU8wMWg2UWlXb0tXb25mUTVpejY2LWxMQUttVWpsTllaOFZCLVdQQk80cjhqUjVkeGhYbzZiSGZSdWJ4SEVMMlNwdDNVbTg?oc=5",
+      "publishedAt": "2026-08-20T00:20:03.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-great-to-be-back-at-the-white-house-today-alongside-realdonaldtrump-secpaulsatki",
+      "localUrl": "/news/20260820-great-to-be-back-at-the-white-house-today-alongside-realdonaldtrump-secpaulsatki.html"
     },
     {
       "source": "X Wire",
@@ -618,17 +643,6 @@
       "localUrl": "/news/20260819-cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients.html"
     },
     {
-      "source": "X Wire",
-      "title": "I have believed for more than a decade that the U.S. Dollar Index, DXY, is in a structural decline that is likely to continue. I also think we may now be approaching a much more significant leg lower, and that has major implications for Bitcoin. If that view is right, t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zU0t6U1dmNnQ1UXJPQTBnZDFTQUVDNEZoVXZFakhKNENPb2NWYVgzRS0za1pyQWRFWXZOU0xzX196RXU4T3plc3FVXzNPam9JakozN3cwQ2k5OVpFdHVz?oc=5\" target=\"_blank\">I have believed for more than a decade…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zU0t6U1dmNnQ1UXJPQTBnZDFTQUVDNEZoVXZFakhKNENPb2NWYVgzRS0za1pyQWRFWXZOU0xzX196RXU4T3plc3FVXzNPam9JakozN3cwQ2k5OVpFdHVz?oc=5",
-      "publishedAt": "2026-08-19T14:41:22.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru",
-      "localUrl": "/news/20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: SEC Brings Clarity to Crypto",
       "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
@@ -733,6 +747,17 @@
       "category": "市场",
       "slug": "20260819-bitcoin-is-flashing-8-of-12-capitulation-signals-but-bottoms-not-yet-in-says-van",
       "localUrl": "/news/20260819-bitcoin-is-flashing-8-of-12-capitulation-signals-but-bottoms-not-yet-in-says-van.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Top crypto executives are heading to the White House today as the industry presses federal regulators for answers on what's next. Executives from Coinbase, Ripple, Robinhood and other major firms are expected to sit down with leaders from the SEC and CF - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwTkdJVkVXOTMtQnVTQl9IMUFaR2VkQzhmR2ctNFo0NjhaLWEyWGFJYmt4R0V6TDJhZEU1bG4yV2MwcUthVjNzTGE3ZlJNNWF3OElrQUdPU1VHamJR?oc=5\" target=\"_blank\">Top crypto executives are heading to the W…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwTkdJVkVXOTMtQnVTQl9IMUFaR2VkQzhmR2ctNFo0NjhaLWEyWGFJYmt4R0V6TDJhZEU1bG4yV2MwcUthVjNzTGE3ZlJNNWF3OElrQUdPU1VHamJR?oc=5",
+      "publishedAt": "2026-08-19T12:25:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-top-crypto-executives-are-heading-to-the-white-house-today-as-the-industry-press",
+      "localUrl": "/news/20260819-top-crypto-executives-are-heading-to-the-white-house-today-as-the-industry-press.html"
     },
     {
       "source": "CoinDesk",
@@ -846,21 +871,6 @@
       "localUrl": "/news/20260819-bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
-      "summary": "BTC volatility has dropped to multi-year lows as surging Treasury yields rattle equities and traders await the Fed's July meeting minutes for clues on the interest-rate path.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
-      "publishedAt": "2026-08-19T10:29:57.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260819-bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-d",
-      "localUrl": "/news/20260819-bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-d.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Nexo launches regulated crypto-backed credit in Australia",
       "summary": "Nexo introduced regulated, cryptocurrency-backed credit lines that allow users to access liquidity in Australian dollars or stablecoins by borrowing against their digital assets.",
@@ -932,17 +942,6 @@
       "category": "X热点",
       "slug": "20260819-today-the-white-house-will-host-a-crypto-summit-with-crypto-executives-what-do-y",
       "localUrl": "/news/20260819-today-the-white-house-will-host-a-crypto-summit-with-crypto-executives-what-do-y.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨 UPDATE: Bitcoin's spot demand is about to turn positive for the first time since February, a shift that's historically led to an 18.1% median gain over 60 days with a 78% win rate, per CryptoQuant. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SdVRheWh6OEFZUC1sc1JZcE5hZ0tjYXo1Mjd2VjNmbXROVUwtMTJTcGNDd0pjX2NiaWJPSGJzdTVVUTJ5TmpMNEktblY0eFVqdXpXVlVveElzRW5uaGR2NnNrNEQ?oc=5\" target=\"_blank\">🚨 UPDATE: Bitcoin's spot deman…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SdVRheWh6OEFZUC1sc1JZcE5hZ0tjYXo1Mjd2VjNmbXROVUwtMTJTcGNDd0pjX2NiaWJPSGJzdTVVUTJ5TmpMNEktblY0eFVqdXpXVlVveElzRW5uaGR2NnNrNEQ?oc=5",
-      "publishedAt": "2026-08-19T04:00:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-update-bitcoins-spot-demand-is-about-to-turn-positive-for-the-first-time-since-f",
-      "localUrl": "/news/20260819-update-bitcoins-spot-demand-is-about-to-turn-positive-for-the-first-time-since-f.html"
     },
     {
       "source": "Decrypt",
