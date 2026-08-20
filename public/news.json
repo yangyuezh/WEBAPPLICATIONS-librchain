@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T07:02:15.979Z",
+  "updatedAt": "2026-08-20T07:52:52.339Z",
   "total": 84,
   "items": [
     {
@@ -108,6 +108,17 @@
       "category": "X热点",
       "slug": "20260820-ethereum-eth-breakout-xcom",
       "localUrl": "/news/20260820-ethereum-eth-breakout-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🇺🇸 NEW: White House crypto advisor Patrick Witt says passing the CLARITY Act is the next step to “modernize our capital markets and ensure American financial leadership.” - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JMFVtNEp1VDZUWTAzZHVEd1M1T0p4cU51Z1ZhcExRdUx1ckVuLUZGSU1oM3p0OHYyM3E4TDdaM0o2YUFvb3puRUF4SEdIOElMbGI2UUFFVUJ2SklpREJLOVZnMHk?oc=5\" target=\"_blank\">🇺🇸 NEW: White House crypto ad…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JMFVtNEp1VDZUWTAzZHVEd1M1T0p4cU51Z1ZhcExRdUx1ckVuLUZGSU1oM3p0OHYyM3E4TDdaM0o2YUFvb3puRUF4SEdIOElMbGI2UUFFVUJ2SklpREJLOVZnMHk?oc=5",
+      "publishedAt": "2026-08-20T01:30:51.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-new-white-house-crypto-advisor-patrick-witt-says-passing-the-clarity-act-is-the-",
+      "localUrl": "/news/20260820-new-white-house-crypto-advisor-patrick-witt-says-passing-the-clarity-act-is-the-.html"
     },
     {
       "source": "X Wire",
@@ -1045,17 +1056,6 @@
     },
     {
       "source": "X Wire",
-      "title": "With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto assets. As the Crypto Capital of the World, the U.S. must and will lead. Regulation Crypto Assets will ensure that we do. 🇺🇸 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5\" target=\"_blank\">With our new proposal, the S…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SaTJqQ2xfZ1BLeU91eWlmQ29tRWV4ZGN6alpIcnpybFMxOHFFR1kxOXpiRzFrSDlNNXkzOXdxOTF0NENsVFd5c3hHNzRKZHBmcHVnTjdaWDdyUElPZUFrOEduV19lZw?oc=5",
-      "publishedAt": "2026-08-18T18:55:26.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-",
-      "localUrl": "/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html"
-    },
-    {
-      "source": "X Wire",
       "title": "Reg Crypto is out! - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRjdsQU9EYVJEVDlXMWJaOEdEUk01ZFk3X3RPY0pUdzhBM1FJNlp5NVFTME1sZVdjbm1ZeEFFdlRSQ1pTQkVFOWtmNkMtbkMxMkF5MVJmaXNuM0lIYUtXM01QRQ?oc=5\" target=\"_blank\">Reg Crypto is out!</a> <font col…",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yRjdsQU9EYVJEVDlXMWJaOEdEUk01ZFk3X3RPY0pUdzhBM1FJNlp5NVFTME1sZVdjbm1ZeEFFdlRSQ1pTQkVFOWtmNkMtbkMxMkF5MVJmaXNuM0lIYUtXM01QRQ?oc=5",
@@ -1094,7 +1094,7 @@
     {
       "source": "Solana Blog",
       "title": "Transaction v1 and the ALT Trade-off",
-      "summary": "",
+      "summary": "Solana is introducing a new transaction format (v1) alongside an increase of the maximum transaction size from 1232 bytes to 4096 bytes. The v1 format aims to unlock new possibilities on-chain. This is done trading-off Account Lookup Table…",
       "url": "https://solana.com/news/transaction-v1-and-the-alt-trade-off",
       "publishedAt": "2026-08-17T00:00:00.000Z",
       "keywords": [],
