@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T03:07:30.416Z</lastmod>
+    <lastmod>2026-08-20T03:57:45.994Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T03:07:30.416Z</lastmod>
+    <lastmod>2026-08-20T03:57:45.994Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -153,12 +153,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html</loc>
     <lastmod>2026-08-19T16:23:17.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-cash-app-pay-is-now-available-on-uniswap-apps-buy-crypto-directly-with-your-cash.html</loc>
-    <lastmod>2026-08-19T16:21:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -439,6 +433,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260819-update-bitcoins-spot-demand-is-about-to-turn-positive-for-the-first-time-since-f.html</loc>
+    <lastmod>2026-08-19T04:00:44.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows.html</loc>
     <lastmod>2026-08-18T22:56:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -481,6 +481,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260818-with-our-new-proposal-the-sec-is-taking-the-most-historic-step-yet-to-modernize-.html</loc>
+    <lastmod>2026-08-18T18:55:26.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260818-reg-crypto-is-out-xcom.html</loc>
     <lastmod>2026-08-18T18:51:20.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-for-years-anti-crypto-armies-doomers-and-decelerationists-stifled-innovation-reg.html</loc>
     <lastmod>2026-08-18T16:31:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-strong-hands-are-buying-bitcoinnative-bottoms-are-formed-when-profit-taking-slow.html</loc>
-    <lastmod>2026-08-18T15:42:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
