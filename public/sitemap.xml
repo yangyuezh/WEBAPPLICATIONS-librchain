@@ -2,15 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T15:45:42.152Z</lastmod>
+    <lastmod>2026-08-20T16:48:02.165Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T15:45:42.152Z</lastmod>
+    <lastmod>2026-08-20T16:48:02.165Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure.html</loc>
+    <lastmod>2026-08-20T16:33:38.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist.html</loc>
+    <lastmod>2026-08-20T16:17:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-bitcoin-miners-pour-billions-into-ai-as-capex-outpaces-revenue-15-to-1.html</loc>
+    <lastmod>2026-08-20T16:12:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated.html</loc>
+    <lastmod>2026-08-20T16:04:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-most-americans-say-the-trump-familys-crypto-investments-are-not-appropriate-poll.html</loc>
+    <lastmod>2026-08-20T15:53:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund.html</loc>
+    <lastmod>2026-08-20T15:43:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran.html</loc>
+    <lastmod>2026-08-20T15:40:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern.html</loc>
@@ -21,6 +63,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-crypto-for-advisors-what-are-tokenized-deposits.html</loc>
     <lastmod>2026-08-20T15:01:40.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html</loc>
+    <lastmod>2026-08-20T14:56:34.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -175,7 +223,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-and-gold-extend-gains-as-yields-climb.html</loc>
+    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html</loc>
     <lastmod>2026-08-20T06:21:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -361,12 +409,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger.html</loc>
-    <lastmod>2026-08-19T16:30:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html</loc>
     <lastmod>2026-08-19T16:23:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -409,32 +451,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback.html</loc>
-    <lastmod>2026-08-19T16:00:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs.html</loc>
-    <lastmod>2026-08-19T15:50:58.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size.html</loc>
-    <lastmod>2026-08-19T15:44:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-just-in-bitcoin-surges-to-69000-as-1100000000-in-crypto-shorts-are-liquidated-in.html</loc>
     <lastmod>2026-08-19T15:31:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000.html</loc>
-    <lastmod>2026-08-19T15:22:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,24 +495,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet.html</loc>
     <lastmod>2026-08-19T09:31:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html</loc>
-    <lastmod>2026-08-19T09:27:30.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows.html</loc>
-    <lastmod>2026-08-18T22:56:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in.html</loc>
-    <lastmod>2026-08-18T22:31:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

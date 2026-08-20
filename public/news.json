@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-08-20T15:45:42.130Z",
+  "updatedAt": "2026-08-20T16:48:02.122Z",
   "total": 84,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+      "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+      "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
+      "publishedAt": "2026-08-20T16:33:38.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "安全",
+      "slug": "20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure",
+      "localUrl": "/news/20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "summary": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
+      "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
+      "publishedAt": "2026-08-20T16:17:32.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260820-treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist",
+      "localUrl": "/news/20260820-treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+      "summary": "Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.",
+      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-hpc-capex-revenue-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T16:12:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "市场",
+      "slug": "20260820-bitcoin-miners-pour-billions-into-ai-as-capex-outpaces-revenue-15-to-1",
+      "localUrl": "/news/20260820-bitcoin-miners-pour-billions-into-ai-as-capex-outpaces-revenue-15-to-1.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
+      "summary": "Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since November.",
+      "url": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
+      "publishedAt": "2026-08-20T16:04:04.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "市场",
+      "slug": "20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated",
+      "localUrl": "/news/20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "summary": "A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.",
+      "url": "https://cointelegraph.com/news/americans-donald-trump-crypto-investments-inappropriate-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T15:53:51.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260820-most-americans-say-the-trump-familys-crypto-investments-are-not-appropriate-poll",
+      "localUrl": "/news/20260820-most-americans-say-the-trump-familys-crypto-investments-are-not-appropriate-poll.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
+      "summary": "The governance vote redirects tokens previously reserved for user airdrops toward partnerships, incentives and Optimism’s growing institutional push.",
+      "url": "https://cointelegraph.com/news/optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T15:43:00.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "综合",
+      "slug": "20260820-optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund",
+      "localUrl": "/news/20260820-optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
+      "summary": "Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of “economic warfare” with Iran.",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-20T15:40:54.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260820-bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran",
+      "localUrl": "/news/20260820-bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
@@ -31,6 +124,17 @@
       "category": "监管",
       "slug": "20260820-crypto-for-advisors-what-are-tokenized-deposits",
       "localUrl": "/news/20260820-crypto-for-advisors-what-are-tokenized-deposits.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "America is winning the crypto race. CLARITY gets us over the line. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5\" target=\"_blank\">America is winning the crypto race. CLA…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5",
+      "publishedAt": "2026-08-20T14:56:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom",
+      "localUrl": "/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -369,7 +473,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin and gold extend gains as yields climb",
+      "title": "Live updates: Bitcoin extends gains as Bessent suggests more Treasury intervention",
       "summary": "Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's desire to lower long-term government bond yields.",
       "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
       "publishedAt": "2026-08-20T06:21:17.000Z",
@@ -379,8 +483,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260820-live-updates-bitcoin-and-gold-extend-gains-as-yields-climb",
-      "localUrl": "/news/20260820-live-updates-bitcoin-and-gold-extend-gains-as-yields-climb.html"
+      "slug": "20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio",
+      "localUrl": "/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html"
     },
     {
       "source": "Cointelegraph",
@@ -774,19 +878,6 @@
       "localUrl": "/news/20260819-coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "StanChart, HSBC execute first live transaction on Swift blockchain ledger",
-      "summary": "The transaction connected the banks’ separate tokenized deposit systems through Swift’s ledger, marking a step toward interoperable, 24/7 cross-border payments.",
-      "url": "https://cointelegraph.com/news/standard-chartered-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T16:30:12.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "RWA",
-      "slug": "20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger",
-      "localUrl": "/news/20260819-stanchart-hsbc-execute-first-live-transaction-on-swift-blockchain-ledger.html"
-    },
-    {
       "source": "X Wire",
       "title": "$1.2 trillion has been added to precious metals and crypto in the last 3 hours. Gold up +3.08%, adding $934 billion. Silver up +3.86%, adding $136 billion. Bitcoin up +8.14%, adding $103 billion. Ethereum up +9.66%, adding $22 billion. This comes as the Tre - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5\" target=\"_blank\">$1.2 trillion has been added to …",
@@ -872,45 +963,6 @@
       "localUrl": "/news/20260819-coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "summary": "Bitcoin’s rebound toward $69,000 is gaining momentum as Geoff Kendrick points to improving liquidity conditions and a potential cycle bottom.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-100k-standard-chartered-treasury-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T16:00:03.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "DeFi",
-      "slug": "20260819-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback",
-      "localUrl": "/news/20260819-standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "summary": "The consent orders ended the CFTC’s case against two former crypto executives after FTX and Alameda agreed to $12.7 billion in disgorgement and restitution payments in August 2024.",
-      "url": "https://cointelegraph.com/news/us-cftc-trading-ban-alameda-ftx-executives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T15:50:58.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260819-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs",
-      "localUrl": "/news/20260819-us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-      "summary": "Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-19T15:44:09.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "RWA",
-      "slug": "20260819-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size",
-      "localUrl": "/news/20260819-bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size.html"
-    },
-    {
       "source": "X Wire",
       "title": "JUST IN: Bitcoin surges to $69,000 as $1,100,000,000 in crypto shorts are liquidated in 60 minutes. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15a05uUGFrUFBqOGxmNlR5YWozbHA1Y214OGY4ZXRVMWRiY2JMY0Q5T1BoaWE3ZkxOV25NbzhkR3VxOHpybnlKVElDckEwbTJFU3ctTHRqdi1aRU5QOFZxOEZ3?oc=5\" target=\"_blank\">JUST IN: Bitcoin surges to $69,000…",
@@ -920,22 +972,6 @@
       "category": "X热点",
       "slug": "20260819-just-in-bitcoin-surges-to-69000-as-1100000000-in-crypto-shorts-are-liquidated-in",
       "localUrl": "/news/20260819-just-in-bitcoin-surges-to-69000-as-1100000000-in-crypto-shorts-are-liquidated-in.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
-      "summary": "Bitcoin is close to forming a pattern that analysts say could signal prices rising to as high as $76,000.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
-      "publishedAt": "2026-08-19T15:22:47.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "Technical Analysis",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260819-bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000",
-      "localUrl": "/news/20260819-bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000.html"
     },
     {
       "source": "X Wire",
@@ -1022,43 +1058,6 @@
       "category": "RWA",
       "slug": "20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet",
       "localUrl": "/news/20260819-winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Some are trying to bring Bitcoin to billions. Others are trying to win arguments on the internet. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSDFDX2pBUzVWZW9ZSXdpdDBoRmxiOUtid0pCZ3BlRThLSkRObWw5MWM5NzAwd3BxNmdUUkNZWEYzTWFNeHoxRHhmdTVoNjdQTzVjd2hNcjZ5SUE?oc=5\" target=\"_blank\">Some are trying to bring Bitcoin to billion…",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVSDFDX2pBUzVWZW9ZSXdpdDBoRmxiOUtid0pCZ3BlRThLSkRObWw5MWM5NzAwd3BxNmdUUkNZWEYzTWFNeHoxRHhmdTVoNjdQTzVjd2hNcjZ5SUE?oc=5",
-      "publishedAt": "2026-08-19T09:27:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-",
-      "localUrl": "/news/20260819-some-are-trying-to-bring-bitcoin-to-billions-others-are-trying-to-win-arguments-.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-      "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
-      "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
-      "publishedAt": "2026-08-18T22:56:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows",
-      "localUrl": "/news/20260818-pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
-      "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
-      "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
-      "publishedAt": "2026-08-18T22:31:04.000Z",
-      "keywords": [
-        "Artificial Intelligence"
-      ],
-      "category": "综合",
-      "slug": "20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in",
-      "localUrl": "/news/20260818-mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in.html"
     },
     {
       "source": "Ethereum Blog",
