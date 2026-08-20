@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T21:39:01.114Z</lastmod>
+    <lastmod>2026-08-20T22:40:54.224Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T21:39:01.114Z</lastmod>
+    <lastmod>2026-08-20T22:40:54.224Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc.html</loc>
+    <lastmod>2026-08-20T22:32:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoin-breaks-above-200-day-moving-average-for-first-time-since-november.html</loc>
@@ -45,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced.html</loc>
     <lastmod>2026-08-20T19:16:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a.html</loc>
+    <lastmod>2026-08-20T19:05:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -175,8 +187,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-crypto-last-week-vs-crypto-this-week-xcom.html</loc>
-    <lastmod>2026-08-20T13:03:08.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260820-just-in-bitcoin-is-now-officially-out-of-the-fear-in-the-fear-greed-index-xcom.html</loc>
+    <lastmod>2026-08-20T12:53:44.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,18 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means.html</loc>
     <lastmod>2026-08-19T16:54:46.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator.html</loc>
-    <lastmod>2026-08-19T16:31:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html</loc>
-    <lastmod>2026-08-19T16:23:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

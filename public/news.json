@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-20T21:39:01.072Z",
+  "updatedAt": "2026-08-20T22:40:54.183Z",
   "total": 85,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
+      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+      "publishedAt": "2026-08-20T22:32:11.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "监管",
+      "slug": "20260820-tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc",
+      "localUrl": "/news/20260820-tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin breaks above 200-day moving average for first time since November",
@@ -79,6 +92,17 @@
       "category": "市场",
       "slug": "20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced",
       "localUrl": "/news/20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "It’s time to make America the crypto capital of the world. @POTUS and the current administration have done an excellent job of moving us towards this. Now we need to get Clarity done. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdW5VcXg5UFh6aldUa3h3U0hKR2pRV2JsR0cyZ3NFRUMyQ09pRl9NSEkyb2tweFl1NUktRjlmemhfd09yX3hiOTV6UjJlXzZ5ZjVrMVdDR1hXdkNJYVFINDhIWTFfS3M?oc=5\" target=\"_blank\">It’s time to make America t…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdW5VcXg5UFh6aldUa3h3U0hKR2pRV2JsR0cyZ3NFRUMyQ09pRl9NSEkyb2tweFl1NUktRjlmemhfd09yX3hiOTV6UjJlXzZ5ZjVrMVdDR1hXdkNJYVFINDhIWTFfS3M?oc=5",
+      "publishedAt": "2026-08-20T19:05:04.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a",
+      "localUrl": "/news/20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a.html"
     },
     {
       "source": "CoinDesk",
@@ -359,14 +383,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Crypto last week vs Crypto this week - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5\" target=\"_blank\">Crypto last week vs Crypto this we…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhX19mS2dJUm4wSTNVaG1RQ2hPeENzeHhiXzFLUFc0S0dYZlhtanl0M09CbUVDUFR6OVF3OXpxSFVzQW0zTy1qTXhGZXBnRU80akFDZFR5VUVDV1RNallydVdB?oc=5",
-      "publishedAt": "2026-08-20T13:03:08.000Z",
+      "title": "JUST IN: Bitcoin is now officially out of the \"Fear\" in the Fear & Greed Index 👀 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Tk5ZZG8tVVVHWGNNeGlreXloOUFuNEw0SlJ2YnJHWHZwdGY0YVhYLWVLeHRLSXMyMmM2a1pCTzNfejFjbVhsUmVqRm5GY2JWVkVtUGlsd3VtdnZmWHljRG1sMHFZQWs?oc=5\" target=\"_blank\">JUST IN: Bitcoin is now off…",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Tk5ZZG8tVVVHWGNNeGlreXloOUFuNEw0SlJ2YnJHWHZwdGY0YVhYLWVLeHRLSXMyMmM2a1pCTzNfejFjbVhsUmVqRm5GY2JWVkVtUGlsd3VtdnZmWHljRG1sMHFZQWs?oc=5",
+      "publishedAt": "2026-08-20T12:53:44.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260820-crypto-last-week-vs-crypto-this-week-xcom",
-      "localUrl": "/news/20260820-crypto-last-week-vs-crypto-this-week-xcom.html"
+      "slug": "20260820-just-in-bitcoin-is-now-officially-out-of-the-fear-in-the-fear-greed-index-xcom",
+      "localUrl": "/news/20260820-just-in-bitcoin-is-now-officially-out-of-the-fear-in-the-fear-greed-index-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -1013,30 +1037,6 @@
       "category": "市场",
       "slug": "20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means",
       "localUrl": "/news/20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
-      "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
-      "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-      "publishedAt": "2026-08-19T16:31:04.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "综合",
-      "slug": "20260819-coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator",
-      "localUrl": "/news/20260819-coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "$1.2 trillion has been added to precious metals and crypto in the last 3 hours. Gold up +3.08%, adding $934 billion. Silver up +3.86%, adding $136 billion. Bitcoin up +8.14%, adding $103 billion. Ethereum up +9.66%, adding $22 billion. This comes as the Tre - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5\" target=\"_blank\">$1.2 trillion has been added to …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14VW9sYTNrdnlhU29heG9pOVFRN3I2YXVTU2oyZ0oyaWphMVlDLXlLTVBKTy12UXMyY0UyeWtYNk9sRVJYdnhneF9MTHlZdkxOWEppSGlaLWY4QklNcnBxcmdQRQ?oc=5",
-      "publishedAt": "2026-08-19T16:23:17.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol",
-      "localUrl": "/news/20260819-12-trillion-has-been-added-to-precious-metals-and-crypto-in-the-last-3-hours-gol.html"
     },
     {
       "source": "X Wire",
