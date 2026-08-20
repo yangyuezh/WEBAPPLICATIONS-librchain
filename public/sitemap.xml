@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T11:37:34.077Z</lastmod>
+    <lastmod>2026-08-20T13:07:48.436Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T11:37:34.077Z</lastmod>
+    <lastmod>2026-08-20T13:07:48.436Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe.html</loc>
+    <lastmod>2026-08-20T12:35:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered.html</loc>
+    <lastmod>2026-08-20T12:22:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use.html</loc>
+    <lastmod>2026-08-20T12:00:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern.html</loc>
@@ -85,6 +103,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260820-the-largest-short-liquidation-in-crypto-history-just-happened-short-sellers-lost.html</loc>
+    <lastmod>2026-08-20T09:03:53.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone.html</loc>
     <lastmod>2026-08-20T08:59:40.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -103,7 +127,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-jumps-above-72000-etfs-draw-700-million-in-biggest-inflows-.html</loc>
+    <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-hits-72000-but-bond-yields-are-back-on-the-rise.html</loc>
     <lastmod>2026-08-20T06:21:17.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -127,20 +151,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260820-rushed-clarity-act-vote-could-set-legislation-back-gallego-warns.html</loc>
+    <lastmod>2026-08-20T04:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260820-bearish-crypto-bets-lose-record-3-billion-as-bitcoin-tops-71000.html</loc>
     <lastmod>2026-08-20T04:29:56.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-rushed-clarity-act-vote-could-set-legislation-back-gallego-warns.html</loc>
-    <lastmod>2026-08-20T04:27:17.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html</loc>
+    <lastmod>2026-08-20T04:10:40.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html</loc>
-    <lastmod>2026-08-20T04:10:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi.html</loc>
+    <lastmod>2026-08-20T02:59:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -153,12 +183,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html</loc>
     <lastmod>2026-08-20T00:34:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-great-to-be-back-at-the-white-house-today-alongside-realdonaldtrump-secpaulsatki.html</loc>
-    <lastmod>2026-08-20T00:20:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -195,12 +219,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-bitcoincom-integrates-uae-registered-us-dollar-stablecoin-into-self-custodial-wa.html</loc>
     <lastmod>2026-08-19T20:33:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-the-white-house-crypto-summit-has-ended-and-its-probably-the-most-bullish-event-.html</loc>
-    <lastmod>2026-08-19T20:11:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -397,12 +415,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-crypto-long-short-where-defi-yield-really-comes-from-and-why-it-broke-this-sprin.html</loc>
-    <lastmod>2026-08-19T14:57:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-i-have-believed-for-more-than-a-decade-that-the-us-dollar-index-dxy-is-in-a-stru.html</loc>
     <lastmod>2026-08-19T14:41:22.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -429,18 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-200000-fake-ai-victims-deployed-to-scam-bait-online-fraudsters.html</loc>
     <lastmod>2026-08-19T13:30:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-sec-regulatory-proposal-marks-important-step-forward-from-inapt-crypto-rules-com.html</loc>
-    <lastmod>2026-08-19T13:27:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-top-crypto-executives-are-heading-to-the-white-house-today-as-the-industry-press.html</loc>
-    <lastmod>2026-08-19T12:25:20.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
