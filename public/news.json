@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-21T07:03:49.903Z",
+  "updatedAt": "2026-08-21T07:53:48.275Z",
   "total": 83,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+      "title": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
       "summary": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "publishedAt": "2026-08-21T06:43:24.000Z",
@@ -14,8 +14,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260821-live-updates-bitcoin-ether-etfs-pull-in-800-million-as-inflows-surge-for-a-secon",
-      "localUrl": "/news/20260821-live-updates-bitcoin-ether-etfs-pull-in-800-million-as-inflows-surge-for-a-secon.html"
+      "slug": "20260821-live-updates-btc-tops-76000-bitcoin-ether-etfs-pull-in-800-million",
+      "localUrl": "/news/20260821-live-updates-btc-tops-76000-bitcoin-ether-etfs-pull-in-800-million.html"
     },
     {
       "source": "Cointelegraph",
@@ -143,17 +143,6 @@
       "category": "市场",
       "slug": "20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
       "localUrl": "/news/20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "When $100,000? - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fLUF6dTRWTDhOUG1aelBiVW9hZ1ktbDR2ZFUzREhvSTJBSmtFaVIwcWVEOXV5a0NQQjZmLXR3RlZGVkc0Y2o2MzMzWWpRbnBUVGdwZXBRT3JNdWwt?oc=5\" target=\"_blank\">When $100,000?</a> <font color=\"#6f6f6f\">x…",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fLUF6dTRWTDhOUG1aelBiVW9hZ1ktbDR2ZFUzREhvSTJBSmtFaVIwcWVEOXV5a0NQQjZmLXR3RlZGVkc0Y2o2MzMzWWpRbnBUVGdwZXBRT3JNdWwt?oc=5",
-      "publishedAt": "2026-08-21T01:31:43.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-when-100000-xcom",
-      "localUrl": "/news/20260821-when-100000-xcom.html"
     },
     {
       "source": "X Wire",
@@ -394,7 +383,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "title": "Treasury buybacks could set up bitcoin’s next move toward $180,000, says strategist",
       "summary": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
       "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
       "publishedAt": "2026-08-20T16:17:32.000Z",
@@ -527,17 +516,6 @@
       "localUrl": "/news/20260820-morning-minute-hyperliquid-is-coming-to-the-us.html"
     },
     {
-      "source": "X Wire",
-      "title": "This is very Unusual. We saw crazy decoupling this week with crypto and stocks going in completely opposite directions. Total Crypto market cap is up +13% after adding $291 billion. Meanwhile US stocks erased -$1.4 Trillion in the same period with S&P 500 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5TFVtNmNscksxTF9LSFVuRld0VnpTNV9SSS1hcVF3dWNXY1ZzOXJPWHd5cUx2QVIwTzVDcFN2bGg2RFRZMkZ0ZFhraEY0aW5iLWhEWTVIc0ZaWjhNNWNPM0o1NA?oc=5\" target=\"_blank\">This is very Unusual. We saw cra…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5TFVtNmNscksxTF9LSFVuRld0VnpTNV9SSS1hcVF3dWNXY1ZzOXJPWHd5cUx2QVIwTzVDcFN2bGg2RFRZMkZ0ZFhraEY0aW5iLWhEWTVIc0ZaWjhNNWNPM0o1NA?oc=5",
-      "publishedAt": "2026-08-20T13:45:05.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-this-is-very-unusual-we-saw-crazy-decoupling-this-week-with-crypto-and-stocks-go",
-      "localUrl": "/news/20260820-this-is-very-unusual-we-saw-crazy-decoupling-this-week-with-crypto-and-stocks-go.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
       "summary": "Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
@@ -614,6 +592,17 @@
       "category": "综合",
       "slug": "20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use",
       "localUrl": "/news/20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "There was a reason to have expected a downside move in Bitcoin. An inverted H&S with a belabored right shoulder has a 60/40 chance to be resolved to the downside. And, the trend was down. But the completion of the H&S bottom changed that. I bought the - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMjBxa0k0eUpiT2REU0JmZmZBeFlsQXdoeVNIendzVHdqNUJ5N0FPR3A2REZvTWFqZW04RFY0LTVhSktHdURxQ3QweHp5QjZocndQbU9ZWS1kU20tQnNhNnIwYw?oc=5\" target=\"_blank\">There was a reason to have expec…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMjBxa0k0eUpiT2REU0JmZmZBeFlsQXdoeVNIendzVHdqNUJ5N0FPR3A2REZvTWFqZW04RFY0LTVhSktHdURxQ3QweHp5QjZocndQbU9ZWS1kU20tQnNhNnIwYw?oc=5",
+      "publishedAt": "2026-08-20T11:51:47.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi",
+      "localUrl": "/news/20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi.html"
     },
     {
       "source": "CoinDesk",
@@ -888,14 +877,14 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstro - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5\" target=\"_blank\">🚨SCOOP: A small group of cr…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5",
-      "publishedAt": "2026-08-20T00:34:40.000Z",
+      "title": "🗞️ Need to catch up on the news? Here's our top 10 from today: 🔸 Hyperliquid and Ethereum are outpacing every other major crypto asset in today's rally, per Glassnode. 🔹 The US national debt has surpassed $40 TRILLION. 🔸 Trump says the US has discus - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bUJFcEF0SlM1T09rckxtdlYxdGs0WVNyQzJVSHQzQXNYRmNzMk9WUm1GaVJ0Vy1OYkltZk4zSE1CeWRPUEhVQ0FXZEp2OUFGV1pZVGNvcWNtcTk4UWhERlB0VHI?oc=5\" target=\"_blank\">🗞️ Need to catch up on the new…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bUJFcEF0SlM1T09rckxtdlYxdGs0WVNyQzJVSHQzQXNYRmNzMk9WUm1GaVJ0Vy1OYkltZk4zSE1CeWRPUEhVQ0FXZEp2OUFGV1pZVGNvcWNtcTk4UWhERlB0VHI?oc=5",
+      "publishedAt": "2026-08-20T03:00:52.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni",
-      "localUrl": "/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html"
+      "slug": "20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu",
+      "localUrl": "/news/20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu.html"
     },
     {
       "source": "X Wire",
@@ -907,6 +896,17 @@
       "category": "X热点",
       "slug": "20260820-well-need-to-revisit-the-tokenomics-for-crypto-com-chainnative-there-is-no-doubt",
       "localUrl": "/news/20260820-well-need-to-revisit-the-tokenomics-for-crypto-com-chainnative-there-is-no-doubt.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $190,000,000,000 added to the crypto market cap in the past 24 hours. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUXA0Ym92S25KeHFhSG9SU1QyMlRzc2l6b1VhbWhzQ00tem9NNUhfeW1Ra0NHNmstR1lUaHZVLWFhcjQwWkhEQzV0RzdFSE9WSnRnYkM3eS1PUHlDY2s1OF9R?oc=5\" target=\"_blank\">JUST IN: $190,000,000,000 added to…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUXA0Ym92S25KeHFhSG9SU1QyMlRzc2l6b1VhbWhzQ00tem9NNUhfeW1Ra0NHNmstR1lUaHZVLWFhcjQwWkhEQzV0RzdFSE9WSnRnYkM3eS1PUHlDY2s1OF9R?oc=5",
+      "publishedAt": "2026-08-20T00:05:19.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom",
+      "localUrl": "/news/20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom.html"
     },
     {
       "source": "Ethereum Blog",

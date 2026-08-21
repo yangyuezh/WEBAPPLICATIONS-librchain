@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T07:03:49.934Z</lastmod>
+    <lastmod>2026-08-21T07:53:48.310Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T07:03:49.934Z</lastmod>
+    <lastmod>2026-08-21T07:53:48.310Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-live-updates-bitcoin-ether-etfs-pull-in-800-million-as-inflows-surge-for-a-secon.html</loc>
+    <loc>https://www.librchain.com/news/20260821-live-updates-btc-tops-76000-bitcoin-ether-etfs-pull-in-800-million.html</loc>
     <lastmod>2026-08-21T06:43:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -69,12 +69,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge.html</loc>
     <lastmod>2026-08-21T01:51:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-when-100000-xcom.html</loc>
-    <lastmod>2026-08-21T01:31:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -253,12 +247,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-this-is-very-unusual-we-saw-crazy-decoupling-this-week-with-crypto-and-stocks-go.html</loc>
-    <lastmod>2026-08-20T13:45:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-fake-crypto-aml-checkers-are-trying-to-drain-users-wallets.html</loc>
     <lastmod>2026-08-20T13:31:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -291,6 +279,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use.html</loc>
     <lastmod>2026-08-20T12:00:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi.html</loc>
+    <lastmod>2026-08-20T11:51:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -415,14 +409,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html</loc>
-    <lastmod>2026-08-20T00:34:40.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu.html</loc>
+    <lastmod>2026-08-20T03:00:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-well-need-to-revisit-the-tokenomics-for-crypto-com-chainnative-there-is-no-doubt.html</loc>
     <lastmod>2026-08-20T00:05:39.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom.html</loc>
+    <lastmod>2026-08-20T00:05:19.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
