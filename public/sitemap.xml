@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T11:37:02.449Z</lastmod>
+    <lastmod>2026-08-21T13:07:05.333Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T11:37:02.449Z</lastmod>
+    <lastmod>2026-08-21T13:07:05.333Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-binance-says-employees-questioned-in-uae-cleared-and-released.html</loc>
+    <lastmod>2026-08-21T12:48:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-coldcard-ships-firmware-after-114-million-bitcoin-theft-says-ai-helped-catch-mor.html</loc>
+    <lastmod>2026-08-21T12:10:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-standard-chartered-wavers-on-100k-bitcoin-year-end-call-says-it-may-be-too-low.html</loc>
+    <lastmod>2026-08-21T11:58:10.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260821-analysts-split-on-whether-bitcoins-surge-past-key-levels-signals-a-new-bull-run.html</loc>
@@ -109,7 +127,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-live-updates-bitcoin-tops-79500-btc-eth-record-800-million-inflows.html</loc>
+    <loc>https://www.librchain.com/news/20260821-live-updates-bitcoin-slips-back-to-77000-after-challenging-80000-overnight.html</loc>
     <lastmod>2026-08-21T06:43:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -361,6 +379,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260820-looks-like-og-whales-still-know-or-decide-when-the-bitcoin-bull-run-starts-massi.html</loc>
+    <lastmod>2026-08-20T12:38:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe.html</loc>
     <lastmod>2026-08-20T12:35:32.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -385,38 +409,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi.html</loc>
-    <lastmod>2026-08-20T11:51:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern.html</loc>
     <lastmod>2026-08-20T11:35:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-fed-liquidity-promises-dollar-weakness-could-determine-bitcoins-next-move.html</loc>
-    <lastmod>2026-08-20T11:31:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-flocks-new-ai-police-tool-can-track-drivers-without-a-name-or-license-plate.html</loc>
     <lastmod>2026-08-20T11:31:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html</loc>
-    <lastmod>2026-08-20T11:16:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-crypto-generated-about-1-of-webulls-record-198m-q2-revenue.html</loc>
-    <lastmod>2026-08-20T11:05:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

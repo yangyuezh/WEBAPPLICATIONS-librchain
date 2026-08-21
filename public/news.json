@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-21T11:37:02.409Z",
+  "updatedAt": "2026-08-21T13:07:05.293Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance says employees questioned in UAE cleared and released",
+      "summary": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
+      "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T12:48:04.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "基础设施",
+      "slug": "20260821-binance-says-employees-questioned-in-uae-cleared-and-released",
+      "localUrl": "/news/20260821-binance-says-employees-questioned-in-uae-cleared-and-released.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "summary": "Three weeks of review turned up problems unrelated to the flaw that cost users $114 million, but updating still does not make a compromised wallet safe.",
+      "url": "https://www.coindesk.com/tech/2026/08/21/coldcard-ships-firmware-after-usd114-million-bitcoin-theft-says-ai-helped-catch-more-bugs",
+      "publishedAt": "2026-08-21T12:10:55.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260821-coldcard-ships-firmware-after-114-million-bitcoin-theft-says-ai-helped-catch-mor",
+      "localUrl": "/news/20260821-coldcard-ships-firmware-after-114-million-bitcoin-theft-says-ai-helped-catch-mor.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "summary": "Standard Chartered’s Geoff Kendrick said Bitcoin could move toward its $126,000 all-time high after Oct. 6 as spot Bitcoin ETF inflows recover.",
+      "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T11:58:10.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260821-standard-chartered-wavers-on-100k-bitcoin-year-end-call-says-it-may-be-too-low",
+      "localUrl": "/news/20260821-standard-chartered-wavers-on-100k-bitcoin-year-end-call-says-it-may-be-too-low.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
@@ -220,7 +260,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
+      "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
       "summary": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "publishedAt": "2026-08-21T06:43:24.000Z",
@@ -230,8 +270,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260821-live-updates-bitcoin-tops-79500-btc-eth-record-800-million-inflows",
-      "localUrl": "/news/20260821-live-updates-bitcoin-tops-79500-btc-eth-record-800-million-inflows.html"
+      "slug": "20260821-live-updates-bitcoin-slips-back-to-77000-after-challenging-80000-overnight",
+      "localUrl": "/news/20260821-live-updates-bitcoin-slips-back-to-77000-after-challenging-80000-overnight.html"
     },
     {
       "source": "Cointelegraph",
@@ -314,7 +354,7 @@
     {
       "source": "CoinDesk",
       "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-      "summary": "The two-day short liquidation total has reached about $3.8 billion, after Thursday's figure set a record going back to 2021.",
+      "summary": "The two-day short liquidation total has surpassed $4 billion, with Thursday's figure setting a record dating back to 2021.",
       "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
       "publishedAt": "2026-08-21T04:56:30.000Z",
       "keywords": [
@@ -771,6 +811,17 @@
       "localUrl": "/news/20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility.html"
     },
     {
+      "source": "X Wire",
+      "title": "Looks like OG whales still know, or decide, when the Bitcoin bull run starts. Massive longs were opened at the bottom on exchanges last week, and now price is taking off. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRm5TU0hNX1Y1X2RTYlVMcExMSnBQam9EeTlqdG0xVHlCTmlnWGtzRjk2MDdhRGZYY2VTREVaMjJaZXhPXzZGSXRILU1BSGcxbGhWQ3J4Ukg1SXBzUGRwcmF3?oc=5\" target=\"_blank\">Looks like OG whales still know, o…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRm5TU0hNX1Y1X2RTYlVMcExMSnBQam9EeTlqdG0xVHlCTmlnWGtzRjk2MDdhRGZYY2VTREVaMjJaZXhPXzZGSXRILU1BSGcxbGhWQ3J4Ukg1SXBzUGRwcmF3?oc=5",
+      "publishedAt": "2026-08-20T12:38:12.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-looks-like-og-whales-still-know-or-decide-when-the-bitcoin-bull-run-starts-massi",
+      "localUrl": "/news/20260820-looks-like-og-whales-still-know-or-decide-when-the-bitcoin-bull-run-starts-massi.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
       "summary": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
@@ -821,17 +872,6 @@
       "localUrl": "/news/20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use.html"
     },
     {
-      "source": "X Wire",
-      "title": "There was a reason to have expected a downside move in Bitcoin. An inverted H&S with a belabored right shoulder has a 60/40 chance to be resolved to the downside. And, the trend was down. But the completion of the H&S bottom changed that. I bought the - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMjBxa0k0eUpiT2REU0JmZmZBeFlsQXdoeVNIendzVHdqNUJ5N0FPR3A2REZvTWFqZW04RFY0LTVhSktHdURxQ3QweHp5QjZocndQbU9ZWS1kU20tQnNhNnIwYw?oc=5\" target=\"_blank\">There was a reason to have expec…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMjBxa0k0eUpiT2REU0JmZmZBeFlsQXdoeVNIendzVHdqNUJ5N0FPR3A2REZvTWFqZW04RFY0LTVhSktHdURxQ3QweHp5QjZocndQbU9ZWS1kU20tQnNhNnIwYw?oc=5",
-      "publishedAt": "2026-08-20T11:51:47.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi",
-      "localUrl": "/news/20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
       "summary": "Three hours spanning the London afternoon and New York morning account for about 23% of XRP moving onchain, up from roughly 14% a year ago.",
@@ -846,21 +886,6 @@
       "localUrl": "/news/20260820-ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
-      "summary": "Your day-ahead look for Aug. 20, 2026",
-      "url": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
-      "publishedAt": "2026-08-20T11:31:10.000Z",
-      "keywords": [
-        "Crypto Daybook Americas",
-        "Crypto Daybook Americas",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260820-fed-liquidity-promises-dollar-weakness-could-determine-bitcoins-next-move",
-      "localUrl": "/news/20260820-fed-liquidity-promises-dollar-weakness-could-determine-bitcoins-next-move.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
       "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
@@ -872,32 +897,6 @@
       "category": "综合",
       "slug": "20260820-flocks-new-ai-police-tool-can-track-drivers-without-a-name-or-license-plate",
       "localUrl": "/news/20260820-flocks-new-ai-police-tool-can-track-drivers-without-a-name-or-license-plate.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs draw $517M in largest one-day inflow since early May",
-      "summary": "Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-largest-daily-inflow-since-early-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T11:16:41.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may",
-      "localUrl": "/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
-      "summary": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
-      "url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T11:05:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260820-crypto-generated-about-1-of-webulls-record-198m-q2-revenue",
-      "localUrl": "/news/20260820-crypto-generated-about-1-of-webulls-record-198m-q2-revenue.html"
     },
     {
       "source": "Decrypt",
