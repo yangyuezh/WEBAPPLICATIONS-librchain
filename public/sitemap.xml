@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T03:13:09.158Z</lastmod>
+    <lastmod>2026-08-21T04:50:15.322Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T03:13:09.158Z</lastmod>
+    <lastmod>2026-08-21T04:50:15.322Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-capitalcom-plans-uae-spot-crypto-services-after-affiliate-wins-licence.html</loc>
+    <lastmod>2026-08-21T03:33:11.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260821-bitcoin-pushes-past-75000-as-rally-continues.html</loc>
@@ -69,6 +75,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-heres-what-happened-in-crypto-today.html</loc>
     <lastmod>2026-08-20T19:50:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-ct-is-dead-bitcoin-ok-watch-this-xcom.html</loc>
+    <lastmod>2026-08-20T19:44:45.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -225,6 +237,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe.html</loc>
     <lastmod>2026-08-20T12:35:32.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html</loc>
+    <lastmod>2026-08-20T12:33:06.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -423,24 +441,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-crypto-exchange-okx-has-barred-staff-based-in-hong-kong-or-traveling-through-chi.html</loc>
     <lastmod>2026-08-19T21:30:08.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june.html</loc>
-    <lastmod>2026-08-19T21:22:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-bitcoincom-integrates-uae-registered-us-dollar-stablecoin-into-self-custodial-wa.html</loc>
-    <lastmod>2026-08-19T20:33:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-white-house-crypto-summit-recap-president-trump-says-us-considers-buying-sizable.html</loc>
-    <lastmod>2026-08-19T20:01:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
