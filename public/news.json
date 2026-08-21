@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-08-20T23:36:02.216Z",
-  "total": 85,
+  "updatedAt": "2026-08-21T01:54:34.243Z",
+  "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "summary": "An options trader opened a large straddle on XRP, betting on wild price swings by Aug. 28.",
+      "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+      "publishedAt": "2026-08-21T01:51:56.000Z",
+      "keywords": [
+        "Markets",
+        "XRP News",
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+      "localUrl": "/news/20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "When $100,000? - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fLUF6dTRWTDhOUG1aelBiVW9hZ1ktbDR2ZFUzREhvSTJBSmtFaVIwcWVEOXV5a0NQQjZmLXR3RlZGVkc0Y2o2MzMzWWpRbnBUVGdwZXBRT3JNdWwt?oc=5\" target=\"_blank\">When $100,000?</a> <font color=\"#6f6f6f\">x…",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fLUF6dTRWTDhOUG1aelBiVW9hZ1ktbDR2ZFUzREhvSTJBSmtFaVIwcWVEOXV5a0NQQjZmLXR3RlZGVkc0Y2o2MzMzWWpRbnBUVGdwZXBRT3JNdWwt?oc=5",
+      "publishedAt": "2026-08-21T01:31:43.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-when-100000-xcom",
+      "localUrl": "/news/20260821-when-100000-xcom.html"
+    },
     {
       "source": "Decrypt",
       "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
@@ -319,6 +346,17 @@
       "localUrl": "/news/20260820-crypto-for-advisors-what-are-tokenized-deposits.html"
     },
     {
+      "source": "X Wire",
+      "title": "America is winning the crypto race. CLARITY gets us over the line. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5\" target=\"_blank\">America is winning the crypto race. CLA…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5",
+      "publishedAt": "2026-08-20T14:56:34.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom",
+      "localUrl": "/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Hyperliquid Is Coming to the US",
       "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
@@ -485,17 +523,6 @@
       "category": "监管",
       "slug": "20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may",
       "localUrl": "/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: $3,100,000,000 worth of crypto shorts liquidated in the past 24 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5\" target=\"_blank\">JUST IN: $3,100,000,000 worth of c…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5",
-      "publishedAt": "2026-08-20T11:16:07.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom",
-      "localUrl": "/news/20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -678,6 +705,17 @@
       "localUrl": "/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html"
     },
     {
+      "source": "X Wire",
+      "title": "🚨 UPDATE: Ethereum's exchange supply has fallen roughly 15% over eleven weeks while Bitcoin's balances quietly climbed back, per Santiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum's exchange …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5",
+      "publishedAt": "2026-08-20T06:01:05.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b",
+      "localUrl": "/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
       "summary": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
@@ -744,28 +782,6 @@
       "category": "RWA",
       "slug": "20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally",
       "localUrl": "/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🗞️ Need to catch up on the news? Here's our top 10 from today: 🔸 Hyperliquid and Ethereum are outpacing every other major crypto asset in today's rally, per Glassnode. 🔹 The US national debt has surpassed $40 TRILLION. 🔸 Trump says the US has discus - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bUJFcEF0SlM1T09rckxtdlYxdGs0WVNyQzJVSHQzQXNYRmNzMk9WUm1GaVJ0Vy1OYkltZk4zSE1CeWRPUEhVQ0FXZEp2OUFGV1pZVGNvcWNtcTk4UWhERlB0VHI?oc=5\" target=\"_blank\">🗞️ Need to catch up on the new…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bUJFcEF0SlM1T09rckxtdlYxdGs0WVNyQzJVSHQzQXNYRmNzMk9WUm1GaVJ0Vy1OYkltZk4zSE1CeWRPUEhVQ0FXZEp2OUFGV1pZVGNvcWNtcTk4UWhERlB0VHI?oc=5",
-      "publishedAt": "2026-08-20T03:00:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu",
-      "localUrl": "/news/20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Glassnode Says Bitcoin Rebounds Remain Local Rallies, Not a Trend Reversal Bitcoin remains below both the roughly $68,500 Short-Term Holder Cost Basis and the $75,800 True Market Mean, with Glassnode’s on-chain models continuing to place the mar - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Z0wyYXRqbFlMV0ctdU8xWnNMWVIwY3F6SkpMUko3Y3g4VUlGcGNhWjk2MEltckNfa2hDZ3ZXRHVXblBock5rU1RwUlB6cEdtS2hvN3Rob0xFSnQ2bUpBMnB4NA?oc=5\" target=\"_blank\">Glassnode Says Bitcoin Rebounds …",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Z0wyYXRqbFlMV0ctdU8xWnNMWVIwY3F6SkpMUko3Y3g4VUlGcGNhWjk2MEltckNfa2hDZ3ZXRHVXblBock5rU1RwUlB6cEdtS2hvN3Rob0xFSnQ2bUpBMnB4NA?oc=5",
-      "publishedAt": "2026-08-20T02:59:50.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi",
-      "localUrl": "/news/20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi.html"
     },
     {
       "source": "X Wire",
@@ -988,22 +1004,6 @@
       "localUrl": "/news/20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-      "summary": "In a race that drew criticism to crypto's leading political action committee for featuring fake headlines in ads, Fairshake's expensive effort fell short.",
-      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-      "publishedAt": "2026-08-19T18:10:10.000Z",
-      "keywords": [
-        "Policy",
-        "Election 2026",
-        "PACs",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries",
-      "localUrl": "/news/20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries.html"
-    },
-    {
       "source": "X Wire",
       "title": "What if Bitcoin hasn’t had a real bull run since 2021? It made new USD highs in 2025, but failed to hold price discovery vs gold and fell back to ~15 oz/BTC. Overlay QE/QT, factor in today’s Treasury “liquidity support”, and maybe the real bull run is just getting s - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aRXVJUFBySHlFTnNqeWZ5VnlVMUdhbUFTRks3SlBoWW5EcXBLNUZwbjRoc3hlVnA1NEJaRThTbnh4MlpsUDNoS3AxQ0oyUmYwVXQzS3ViTWRnU01Nbk5Lbl9n?oc=5\" target=\"_blank\">What if Bitcoin hasn’t had a real …",
@@ -1051,14 +1051,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
-      "publishedAt": "2026-08-19T16:04:16.000Z",
+      "title": "TODAY: 🇺🇸 Crypto meets Wall Street at the WH. Later today, Coinbase, Ripple, Polymarket & Gemini sit down with Wall Street execs.🏦 With SEC Chair Atkins & CFTC Acting Chair Selig expected, the meeting comes one day before the CFTC's new Innovation - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4LWJNUDJnOWMwbjE0ajdLbkdNX20zZGI4M2x2RDVDZ2N6LVRVaS1zY3RQdGZBbGtvM2lGUndKSnpocmZHTTFkZzJENXZZd2c0eWJjQmNMUFItVXNiWUJRbU5R?oc=5\" target=\"_blank\">TODAY: 🇺🇸 Crypto meets Wall Stre…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4LWJNUDJnOWMwbjE0ajdLbkdNX20zZGI4M2x2RDVDZ2N6LVRVaS1zY3RQdGZBbGtvM2lGUndKSnpocmZHTTFkZzJENXZZd2c0eWJjQmNMUFItVXNiWUJRbU5R?oc=5",
+      "publishedAt": "2026-08-19T12:35:00.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
-      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
+      "slug": "20260819-today-crypto-meets-wall-street-at-the-wh-later-today-coinbase-ripple-polymarket-",
+      "localUrl": "/news/20260819-today-crypto-meets-wall-street-at-the-wh-later-today-coinbase-ripple-polymarket-.html"
     },
     {
       "source": "Solana Blog",
@@ -1083,30 +1083,6 @@
       "category": "基础设施",
       "slug": "20260818-allocation-update-q2-2026",
       "localUrl": "/news/20260818-allocation-update-q2-2026.html"
-    },
-    {
-      "source": "Ethereum Blog",
-      "title": "Announcing the Platåberget Testnet",
-      "summary": "tl;dr: Meet Platåberget: Glamsterdam's (Gloas + Amsterdam) early testing ground open to public participation. This upgrade comes with breaking changes for application developers. Notably, any tool that relies on a hardcapped maximum gas li…",
-      "url": "https://blog.ethereum.org/en/2026/08/17/plataberget-testnet",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "keywords": [
-        "Protocol Announcements"
-      ],
-      "category": "基础设施",
-      "slug": "20260817-announcing-the-plataberget-testnet",
-      "localUrl": "/news/20260817-announcing-the-plataberget-testnet.html"
-    },
-    {
-      "source": "Solana Blog",
-      "title": "Transaction v1 and the ALT Trade-off",
-      "summary": "Solana is introducing a new transaction format (v1) alongside an increase of the maximum transaction size from 1232 bytes to 4096 bytes. The v1 format aims to unlock new possibilities on-chain. This is done trading-off Account Lookup Table…",
-      "url": "https://solana.com/news/transaction-v1-and-the-alt-trade-off",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "keywords": [],
-      "category": "基础设施",
-      "slug": "20260817-transaction-v1-and-the-alt-trade-off",
-      "localUrl": "/news/20260817-transaction-v1-and-the-alt-trade-off.html"
     }
   ]
 }

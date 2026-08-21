@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-20T23:36:02.259Z</lastmod>
+    <lastmod>2026-08-21T01:54:34.283Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-20T23:36:02.259Z</lastmod>
+    <lastmod>2026-08-21T01:54:34.283Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge.html</loc>
+    <lastmod>2026-08-21T01:51:56.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-when-100000-xcom.html</loc>
+    <lastmod>2026-08-21T01:31:43.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260820-tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc.html</loc>
@@ -157,6 +169,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html</loc>
+    <lastmod>2026-08-20T14:56:34.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260820-morning-minute-hyperliquid-is-coming-to-the-us.html</loc>
     <lastmod>2026-08-20T14:02:44.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -231,12 +249,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html</loc>
     <lastmod>2026-08-20T11:16:41.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom.html</loc>
-    <lastmod>2026-08-20T11:16:07.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -319,6 +331,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html</loc>
+    <lastmod>2026-08-20T06:01:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid.html</loc>
     <lastmod>2026-08-20T05:52:30.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -345,18 +363,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html</loc>
     <lastmod>2026-08-20T04:10:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu.html</loc>
-    <lastmod>2026-08-20T03:00:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-glassnode-says-bitcoin-rebounds-remain-local-rallies-not-a-trend-reversal-bitcoi.html</loc>
-    <lastmod>2026-08-20T02:59:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -463,12 +469,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-crypto-campaign-fund-fairshake-faces-2-million-setback-in-florida-primaries.html</loc>
-    <lastmod>2026-08-19T18:10:10.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260819-what-if-bitcoin-hasnt-had-a-real-bull-run-since-2021-it-made-new-usd-highs-in-20.html</loc>
     <lastmod>2026-08-19T18:10:02.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -493,8 +493,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html</loc>
-    <lastmod>2026-08-19T16:04:16.000Z</lastmod>
+    <loc>https://www.librchain.com/news/20260819-today-crypto-meets-wall-street-at-the-wh-later-today-coinbase-ripple-polymarket-.html</loc>
+    <lastmod>2026-08-19T12:35:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -507,18 +507,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260818-allocation-update-q2-2026.html</loc>
     <lastmod>2026-08-18T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-announcing-the-plataberget-testnet.html</loc>
-    <lastmod>2026-08-17T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260817-transaction-v1-and-the-alt-trade-off.html</loc>
-    <lastmod>2026-08-17T00:00:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
