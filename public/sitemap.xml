@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T13:07:05.333Z</lastmod>
+    <lastmod>2026-08-21T13:57:24.348Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T13:07:05.333Z</lastmod>
+    <lastmod>2026-08-21T13:57:24.348Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-solana-cuts-blockchain-slot-time-to-350-milliseconds.html</loc>
+    <lastmod>2026-08-21T13:45:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years.html</loc>
+    <lastmod>2026-08-21T13:08:12.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260821-binance-says-employees-questioned-in-uae-cleared-and-released.html</loc>
@@ -241,12 +253,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a.html</loc>
-    <lastmod>2026-08-20T19:05:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f.html</loc>
     <lastmod>2026-08-20T18:54:18.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -373,20 +379,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility.html</loc>
-    <lastmod>2026-08-20T13:18:02.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-looks-like-og-whales-still-know-or-decide-when-the-bitcoin-bull-run-starts-massi.html</loc>
     <lastmod>2026-08-20T12:38:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe.html</loc>
-    <lastmod>2026-08-20T12:35:32.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -489,6 +483,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures.html</loc>
     <lastmod>2026-08-19T19:16:04.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas.html</loc>
+    <lastmod>2026-08-19T18:09:30.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

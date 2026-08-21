@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-21T13:07:05.293Z",
+  "updatedAt": "2026-08-21T13:57:24.305Z",
   "total": 83,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "summary": "Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.",
+      "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T13:45:13.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260821-solana-cuts-blockchain-slot-time-to-350-milliseconds",
+      "localUrl": "/news/20260821-solana-cuts-blockchain-slot-time-to-350-milliseconds.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
+      "summary": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
+      "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T13:08:12.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "DeFi",
+      "slug": "20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years",
+      "localUrl": "/news/20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Binance says employees questioned in UAE cleared and released",
@@ -512,17 +538,6 @@
       "localUrl": "/news/20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced.html"
     },
     {
-      "source": "X Wire",
-      "title": "It’s time to make America the crypto capital of the world. @POTUS and the current administration have done an excellent job of moving us towards this. Now we need to get Clarity done. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdW5VcXg5UFh6aldUa3h3U0hKR2pRV2JsR0cyZ3NFRUMyQ09pRl9NSEkyb2tweFl1NUktRjlmemhfd09yX3hiOTV6UjJlXzZ5ZjVrMVdDR1hXdkNJYVFINDhIWTFfS3M?oc=5\" target=\"_blank\">It’s time to make America t…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdW5VcXg5UFh6aldUa3h3U0hKR2pRV2JsR0cyZ3NFRUMyQ09pRl9NSEkyb2tweFl1NUktRjlmemhfd09yX3hiOTV6UjJlXzZ5ZjVrMVdDR1hXdkNJYVFINDhIWTFfS3M?oc=5",
-      "publishedAt": "2026-08-20T19:05:04.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a",
-      "localUrl": "/news/20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
       "summary": "Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.",
@@ -798,19 +813,6 @@
       "localUrl": "/news/20260820-mica-cracks-down-on-usdt-in-europe-but-no-one-else-cares.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitdeer signs $400M AI cloud computing deal for Malaysia facility",
-      "summary": "Bitdeer expects revenue from the five-year agreement to begin in early 2027 as it builds toward 350 megawatts of AI cloud capacity by 2028.",
-      "url": "https://cointelegraph.com/news/bitdeer-signs-400m-ai-computing-deal-malaysia-facility?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T13:18:02.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "综合",
-      "slug": "20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility",
-      "localUrl": "/news/20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility.html"
-    },
-    {
       "source": "X Wire",
       "title": "Looks like OG whales still know, or decide, when the Bitcoin bull run starts. Massive longs were opened at the bottom on exchanges last week, and now price is taking off. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRm5TU0hNX1Y1X2RTYlVMcExMSnBQam9EeTlqdG0xVHlCTmlnWGtzRjk2MDdhRGZYY2VTREVaMjJaZXhPXzZGSXRILU1BSGcxbGhWQ3J4Ukg1SXBzUGRwcmF3?oc=5\" target=\"_blank\">Looks like OG whales still know, o…",
@@ -820,19 +822,6 @@
       "category": "X热点",
       "slug": "20260820-looks-like-og-whales-still-know-or-decide-when-the-bitcoin-bull-run-starts-massi",
       "localUrl": "/news/20260820-looks-like-og-whales-still-know-or-decide-when-the-bitcoin-bull-run-starts-massi.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
-      "summary": "Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors’ holdings by redirecting them to fake wallet provider websites.",
-      "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T12:35:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe",
-      "localUrl": "/news/20260820-cybersecurity-firm-unveils-crypto-phishing-campaign-targeting-885000-phone-numbe.html"
     },
     {
       "source": "X Wire",
@@ -1043,6 +1032,17 @@
       "category": "市场",
       "slug": "20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures",
       "localUrl": "/news/20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "The SEC just proposed new crypto regulation. Since the ICO boom of 2017, token-based fundraising in the US has lacked regulations. \"Reg Crypto\" would change that. Grayscale Research believes this could bring more token offerings onchain, driving value t - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5\" target=\"_blank\">The SEC just proposed new crypto regul…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5",
+      "publishedAt": "2026-08-19T18:09:30.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas",
+      "localUrl": "/news/20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas.html"
     },
     {
       "source": "X Wire",

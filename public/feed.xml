@@ -5,7 +5,23 @@
     <link>https://www.librchain.com/</link>
     <description>每小时自动更新的区块链新闻、博客与 X 热点聚合</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:57:24 GMT</lastBuildDate>
+    <item>
+      <title>Solana cuts blockchain slot time to 350 milliseconds</title>
+      <link>https://www.librchain.com/news/20260821-solana-cuts-blockchain-slot-time-to-350-milliseconds.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260821-solana-cuts-blockchain-slot-time-to-350-milliseconds.html</guid>
+      <description>Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.</description>
+      <pubDate>Fri, 21 Aug 2026 13:45:13 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
+    <item>
+      <title>Laser Digital gets Japan’s first crypto exchange approval in 4 years</title>
+      <link>https://www.librchain.com/news/20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years.html</link>
+      <guid isPermaLink="true">https://www.librchain.com/news/20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years.html</guid>
+      <description>Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.</description>
+      <pubDate>Fri, 21 Aug 2026 13:08:12 GMT</pubDate>
+      <source url="https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
+    </item>
     <item>
       <title>Binance says employees questioned in UAE cleared and released</title>
       <link>https://www.librchain.com/news/20260821-binance-says-employees-questioned-in-uae-cleared-and-released.html</link>
@@ -311,14 +327,6 @@
       <source url="https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move">Decrypt</source>
     </item>
     <item>
-      <title>It’s time to make America the crypto capital of the world. @POTUS and the current administration have done an excellent job of moving us towards this. Now we need to get Clarity done. - x.com</title>
-      <link>https://www.librchain.com/news/20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260820-its-time-to-make-america-the-crypto-capital-of-the-world-potus-and-the-current-a.html</guid>
-      <description>&lt;a href=&quot;https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdW5VcXg5UFh6aldUa3h3U0hKR2pRV2JsR0cyZ3NFRUMyQ09pRl9NSEkyb2tweFl1NUktRjlmemhfd09yX3hiOTV6UjJlXzZ5ZjVrMVdDR1hXdkNJYVFINDhIWTFfS3M?oc=5&quot; target=&quot;_blank&quot;&gt;It’s time to make America t…</description>
-      <pubDate>Thu, 20 Aug 2026 19:05:04 GMT</pubDate>
-      <source url="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdW5VcXg5UFh6aldUa3h3U0hKR2pRV2JsR0cyZ3NFRUMyQ09pRl9NSEkyb2tweFl1NUktRjlmemhfd09yX3hiOTV6UjJlXzZ5ZjVrMVdDR1hXdkNJYVFINDhIWTFfS3M?oc=5">X Wire</source>
-    </item>
-    <item>
       <title>U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails</title>
       <link>https://www.librchain.com/news/20260820-us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f.html</link>
       <guid isPermaLink="true">https://www.librchain.com/news/20260820-us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f.html</guid>
@@ -477,14 +485,6 @@
       <description>Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.</description>
       <pubDate>Thu, 20 Aug 2026 13:31:05 GMT</pubDate>
       <source url="https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets">Decrypt</source>
-    </item>
-    <item>
-      <title>MiCA cracks down on USDT in Europe... but no one else cares</title>
-      <link>https://www.librchain.com/news/20260820-mica-cracks-down-on-usdt-in-europe-but-no-one-else-cares.html</link>
-      <guid isPermaLink="true">https://www.librchain.com/news/20260820-mica-cracks-down-on-usdt-in-europe-but-no-one-else-cares.html</guid>
-      <description>USDT is disappearing from regulated European platforms, but there is little sign that it has resulted in weakening global demand for Tether.</description>
-      <pubDate>Thu, 20 Aug 2026 13:30:00 GMT</pubDate>
-      <source url="https://cointelegraph.com/magazine/mica-cracks-down-on-usdt-in-europe-but-global-demand-remains-high?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound">Cointelegraph</source>
     </item>
   </channel>
 </rss>
