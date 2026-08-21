@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-21T04:50:15.294Z",
+  "updatedAt": "2026-08-21T05:45:32.658Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
+      "summary": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
+      "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
+      "publishedAt": "2026-08-21T05:29:48.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260821-ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months",
+      "localUrl": "/news/20260821-ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MANTRA token sinks 18% to record low amid blockchain halt",
+      "summary": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
+      "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T05:04:52.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "市场",
+      "slug": "20260821-mantra-token-sinks-18-to-record-low-amid-blockchain-halt",
+      "localUrl": "/news/20260821-mantra-token-sinks-18-to-record-low-amid-blockchain-halt.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "summary": "The two-day short liquidation total has reached about $3.8 billion, after Thursday's figure set a record going back to 2021.",
+      "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
+      "publishedAt": "2026-08-21T04:56:30.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "基础设施",
+      "slug": "20260821-bitcoin-ether-and-solana-climb-as-another-1-billion-shorts-get-wiped-out",
+      "localUrl": "/news/20260821-bitcoin-ether-and-solana-climb-as-another-1-billion-shorts-get-wiped-out.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
@@ -158,6 +199,17 @@
       "category": "X热点",
       "slug": "20260820-ct-is-dead-bitcoin-ok-watch-this-xcom",
       "localUrl": "/news/20260820-ct-is-dead-bitcoin-ok-watch-this-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "High conviction buyers have been accumulating bitcoin:native since January. We saw similar behavior in 2022. This cycle, the share of supply that was bought by this cohort is even larger than last cycle. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VC1BWW5aQW0talZVSnkxdi1xZ0c2cEJfWl9wUHNwQnJ6c1pFNkJtcGNfdGtOc09RYVVjWm9iUjczQ25pNVJPWlEycnJzTEpVSFhqcmgwN2lHU2YyM3Rn?oc=5\" target=\"_blank\">High conviction buyers have been accum…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VC1BWW5aQW0talZVSnkxdi1xZ0c2cEJfWl9wUHNwQnJ6c1pFNkJtcGNfdGtOc09RYVVjWm9iUjczQ25pNVJPWlEycnJzTEpVSFhqcmgwN2lHU2YyM3Rn?oc=5",
+      "publishedAt": "2026-08-20T19:37:44.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-high-conviction-buyers-have-been-accumulating-bitcoinnative-since-january-we-saw",
+      "localUrl": "/news/20260820-high-conviction-buyers-have-been-accumulating-bitcoinnative-since-january-we-saw.html"
     },
     {
       "source": "Decrypt",
@@ -497,17 +549,6 @@
     },
     {
       "source": "X Wire",
-      "title": "For the first time since the October 2025 ATH, Bitcoin demand has turned positive in both spot and perpetual futures. The scale remains modest, but if this holds for another month, it would be reasonable to conclude that the bear market is over and a new bull c - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5\" target=\"_blank\">For the first time since the Octob…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5",
-      "publishedAt": "2026-08-20T12:33:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive",
-      "localUrl": "/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: Bitcoin surges above $72,000 for the first time since June 1st as levered liquidations hit $3.4 billion in 24 hours. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5",
@@ -586,6 +627,17 @@
       "category": "监管",
       "slug": "20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may",
       "localUrl": "/news/20260820-bitcoin-etfs-draw-517m-in-largest-one-day-inflow-since-early-may.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: $3,100,000,000 worth of crypto shorts liquidated in the past 24 hours. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5\" target=\"_blank\">JUST IN: $3,100,000,000 worth of c…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wUVVaeTUzUzk0NWlEOEJMZlRXRzI2U21wZTFBUDR3VEJMMmxoZVJnT1JmbnBfUE1SYzlEaDJVNzRIZlp0dDlMYkZNZEF4VThrV19FMUR5bEdmZjU0WGJWbkdB?oc=5",
+      "publishedAt": "2026-08-20T11:16:07.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom",
+      "localUrl": "/news/20260820-just-in-3100000000-worth-of-crypto-shorts-liquidated-in-the-past-24-hours-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -806,19 +858,6 @@
       "localUrl": "/news/20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Rushed CLARITY Act vote could set legislation back, Gallego warns",
-      "summary": "Senator Ruben Gallego said the White House has not provided point-by-point feedback on a bipartisan ethics proposal as a September vote approaches.",
-      "url": "https://cointelegraph.com/news/ruben-gallego-rushed-clarity-act-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T04:30:00.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "市场",
-      "slug": "20260820-rushed-clarity-act-vote-could-set-legislation-back-gallego-warns",
-      "localUrl": "/news/20260820-rushed-clarity-act-vote-could-set-legislation-back-gallego-warns.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
       "summary": "Traders betting against crypto lost $2.74 billion in a day, more than the short side of the October 2025 crash that remains the biggest liquidation event in the market's history.",
@@ -869,17 +908,6 @@
       "localUrl": "/news/20260820-well-need-to-revisit-the-tokenomics-for-crypto-com-chainnative-there-is-no-doubt.html"
     },
     {
-      "source": "X Wire",
-      "title": "JUST IN: $190,000,000,000 added to the crypto market cap in the past 24 hours. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUXA0Ym92S25KeHFhSG9SU1QyMlRzc2l6b1VhbWhzQ00tem9NNUhfeW1Ra0NHNmstR1lUaHZVLWFhcjQwWkhEQzV0RzdFSE9WSnRnYkM3eS1PUHlDY2s1OF9R?oc=5\" target=\"_blank\">JUST IN: $190,000,000,000 added to…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MUXA0Ym92S25KeHFhSG9SU1QyMlRzc2l6b1VhbWhzQ00tem9NNUhfeW1Ra0NHNmstR1lUaHZVLWFhcjQwWkhEQzV0RzdFSE9WSnRnYkM3eS1PUHlDY2s1OF9R?oc=5",
-      "publishedAt": "2026-08-20T00:05:19.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom",
-      "localUrl": "/news/20260820-just-in-190000000000-added-to-the-crypto-market-cap-in-the-past-24-hours-xcom.html"
-    },
-    {
       "source": "Ethereum Blog",
       "title": "Raising machine-checked security benchmarks to advance hash-based SNARKs through agentic collaboration",
       "summary": "better.codes, an open autoresearch challenge built by the Ethereum Foundation Formal Verification team in collaboration with Yukon and zkSecurity, is now live. better.codes takes a self-contained problem from the Proximity Prize research, …",
@@ -891,21 +919,6 @@
       "category": "监管",
       "slug": "20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through",
       "localUrl": "/news/20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
-      "summary": "The largest crypto asset rose more than 7% on Wednesday after several catalysts sent crypto-related assets higher.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-briefly-hits-usd70-000-for-the-first-time-since-june-here-is-why",
-      "publishedAt": "2026-08-19T22:26:01.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260819-bitcoin-briefly-hits-70000-for-the-first-time-since-june-here-is-why",
-      "localUrl": "/news/20260819-bitcoin-briefly-hits-70000-for-the-first-time-since-june-here-is-why.html"
     },
     {
       "source": "Decrypt",
@@ -969,21 +982,6 @@
       "category": "市场",
       "slug": "20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9",
       "localUrl": "/news/20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
-      "summary": "During a White House meeting Wednesday, President Donald Trump said CFTC Chair Mike Selig is working to bring the perpetual futures platform into the U.S. under federal rules.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
-      "publishedAt": "2026-08-19T19:49:51.000Z",
-      "keywords": [
-        "Markets",
-        "Hyperliquid",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260819-hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-us",
-      "localUrl": "/news/20260819-hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-us.html"
     },
     {
       "source": "Decrypt",
