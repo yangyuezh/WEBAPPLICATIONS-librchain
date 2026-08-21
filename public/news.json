@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-21T18:52:28.475Z",
+  "updatedAt": "2026-08-21T19:34:03.291Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Pass the Clarity Act",
+      "summary": "Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.",
+      "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
+      "publishedAt": "2026-08-21T19:00:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260821-pass-the-clarity-act",
+      "localUrl": "/news/20260821-pass-the-clarity-act.html"
+    },
     {
       "source": "Decrypt",
       "title": "Solana Just Got Faster—Is It Bullish for SOL?",
@@ -120,6 +134,17 @@
       "category": "市场",
       "slug": "20260821-xrp-erases-its-most-bearish-signaland-the-ripple-linked-coin-is-flying",
       "localUrl": "/news/20260821-xrp-erases-its-most-bearish-signaland-the-ripple-linked-coin-is-flying.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "For those 'waiting' for the October crypto bottom, a reminder of @FundstratDirect 'rule of 10 best days' Bitcoin makes all of its gains in the 10 best days - 10 best days = +162% - ex-10 best days = -14% This week was one of those 10 best days... better to HODL - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSYmRuOVFJTVdidDV2UFU3dXZTNTdKSGx4S1BlQnhwUDJGMUh3aDlRVUtwRm81WkhrOGc0U2ZPU0VnRmlpR2xkVE9WdFpGNEdxNk96NDhoUGNITlQtZ2xN?oc=5\" target=\"_blank\">For those 'waiting' for the October cr…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSYmRuOVFJTVdidDV2UFU3dXZTNTdKSGx4S1BlQnhwUDJGMUh3aDlRVUtwRm81WkhrOGc0U2ZPU0VnRmlpR2xkVE9WdFpGNEdxNk96NDhoUGNITlQtZ2xN?oc=5",
+      "publishedAt": "2026-08-21T15:16:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-for-those-waiting-for-the-october-crypto-bottom-a-reminder-of-fundstratdirect-ru",
+      "localUrl": "/news/20260821-for-those-waiting-for-the-october-crypto-bottom-a-reminder-of-fundstratdirect-ru.html"
     },
     {
       "source": "X Wire",
@@ -314,6 +339,17 @@
       "category": "DeFi",
       "slug": "20260821-bitcoin-faces-80000-test-as-thinner-weekend-liquidity-looms",
       "localUrl": "/news/20260821-bitcoin-faces-80000-test-as-thinner-weekend-liquidity-looms.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "CryptoQuant Analyst: Bitcoin Rally Fueled by Binance Short Squeeze, Pullback Risk Remains CryptoQuant analyst BorisD said Bitcoin’s rally this week was driven primarily by concentrated short liquidations in Binance futures rather than spot buying. Binance’ - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yQnlzUnNTcG83eGUyU25jUHBUR1lPNV9qTGwyZmVlZmFxdzhiaGpCNUNRSVlaUC13cVhkbTBFX2lkWERLZTFZU0k5QndTbWZwZEpSZEkzVDVjN01HTHctT19qSQ?oc=5\" target=\"_blank\">CryptoQuant Analyst: Bitcoin Ral…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yQnlzUnNTcG83eGUyU25jUHBUR1lPNV9qTGwyZmVlZmFxdzhiaGpCNUNRSVlaUC13cVhkbTBFX2lkWERLZTFZU0k5QndTbWZwZEpSZEkzVDVjN01HTHctT19qSQ?oc=5",
+      "publishedAt": "2026-08-21T10:46:20.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-cryptoquant-analyst-bitcoin-rally-fueled-by-binance-short-squeeze-pullback-risk-",
+      "localUrl": "/news/20260821-cryptoquant-analyst-bitcoin-rally-fueled-by-binance-short-squeeze-pullback-risk-.html"
     },
     {
       "source": "CoinDesk",
@@ -808,17 +844,6 @@
     },
     {
       "source": "X Wire",
-      "title": "better.codes is live Join the open autoresearch challenge to advance post-quantum Ethereum. Bring your agents, harnesses, and prompts. Push the state of the art math in hash-based SNARKs. Submissions are verified by Lean 4 proofs and may earn a slice - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adjFiSGpWX0syZmJhNzBobFdmSzNkZVozb1lTYXBVakZvTXNHdW5Yd2UzOFQ5WUFQNm92a2ktSDRMb1VtS1dBUlVNeUtyTVZad3Btdllqc1ZHcG9JSU0zQ3M2RQ?oc=5\" target=\"_blank\">better.codes is live Join the op…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adjFiSGpWX0syZmJhNzBobFdmSzNkZVozb1lTYXBVakZvTXNHdW5Yd2UzOFQ5WUFQNm92a2ktSDRMb1VtS1dBUlVNeUtyTVZad3Btdllqc1ZHcG9JSU0zQ3M2RQ?oc=5",
-      "publishedAt": "2026-08-20T17:06:48.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-bettercodes-is-live-join-the-open-autoresearch-challenge-to-advance-post-quantum",
-      "localUrl": "/news/20260820-bettercodes-is-live-join-the-open-autoresearch-challenge-to-advance-post-quantum.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: Crypto markets officially post their 7th largest liquidation event in history, with $3.5 billion in levered positions liquidated in 24 hours. In 24 hours, crypto markets added +$280 billion in market cap. That's +$12 billion in market cap per hour for 24 ho - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HXzlobzRmS19Oa1pJYlE2RGFjRmxsRThLYnc3Rl9xd0JqcDF2SVJCb01hMlBCbWd4UlFsN3FRNENQTU1VMEcyYmZTR29fbVM3aV9MNThyYjZvdW5CSGNFeXBOdXBSQQ?oc=5\" target=\"_blank\">BREAKING: Crypto markets off…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HXzlobzRmS19Oa1pJYlE2RGFjRmxsRThLYnc3Rl9xd0JqcDF2SVJCb01hMlBCbWd4UlFsN3FRNENQTU1VMEcyYmZTR29fbVM3aV9MNThyYjZvdW5CSGNFeXBOdXBSQQ?oc=5",
@@ -964,17 +989,6 @@
     },
     {
       "source": "X Wire",
-      "title": "For the first time since the October 2025 ATH, Bitcoin demand has turned positive in both spot and perpetual futures. The scale remains modest, but if this holds for another month, it would be reasonable to conclude that the bear market is over and a new bull c - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5\" target=\"_blank\">For the first time since the Octob…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5",
-      "publishedAt": "2026-08-20T12:33:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive",
-      "localUrl": "/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: Bitcoin surges above $72,000 for the first time since June 1st as levered liquidations hit $3.4 billion in 24 hours. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5",
@@ -983,21 +997,6 @@
       "category": "X热点",
       "slug": "20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered",
       "localUrl": "/news/20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
-      "summary": "The approved plan reallocates 546.9 million OP from user airdrops to a Foundation-controlled Strategic Ecosystem Fund.",
-      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-      "publishedAt": "2026-08-20T12:00:25.000Z",
-      "keywords": [
-        "Web3",
-        "Crypto News",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use",
-      "localUrl": "/news/20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use.html"
     },
     {
       "source": "X Wire",
