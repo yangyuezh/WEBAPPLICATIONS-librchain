@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-08-21T01:54:34.243Z",
+  "updatedAt": "2026-08-21T03:13:09.117Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin pushes past $75,000 as rally continues.",
+      "summary": "\"Bears in pain, right now,\" wrote bitcoin analyst James Check.",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-pushes-past-usd75-000-as-rally-continues",
+      "publishedAt": "2026-08-21T01:55:50.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Top Stories",
+        "Breaking News",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260821-bitcoin-pushes-past-75000-as-rally-continues",
+      "localUrl": "/news/20260821-bitcoin-pushes-past-75000-as-rally-continues.html"
+    },
     {
       "source": "CoinDesk",
       "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
@@ -28,6 +45,17 @@
       "category": "X热点",
       "slug": "20260821-when-100000-xcom",
       "localUrl": "/news/20260821-when-100000-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "BREAKING: Bitcoin surges above $74,000 and hits its highest level since May 27th. Bitcoin is now up +20% in 4 days. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HY0N6c3ViVFdFblhfaURWOGxYVGJCLUF6eFFMZUZpWHNYemJHNlhQUFFVcDR6Q292X3VPZUpaY0g0ZGtXY2tCRGpDaDlkOE81UGszSW1hRV9XMWo2M0I3QlhfYkhJQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HY0N6c3ViVFdFblhfaURWOGxYVGJCLUF6eFFMZUZpWHNYemJHNlhQUFFVcDR6Q292X3VPZUpaY0g0ZGtXY2tCRGpDaDlkOE81UGszSW1hRV9XMWo2M0I3QlhfYkhJQQ?oc=5",
+      "publishedAt": "2026-08-21T01:27:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-breaking-bitcoin-surges-above-74000-and-hits-its-highest-level-since-may-27th-bi",
+      "localUrl": "/news/20260821-breaking-bitcoin-surges-above-74000-and-hits-its-highest-level-since-may-27th-bi.html"
     },
     {
       "source": "Decrypt",
@@ -958,26 +986,6 @@
       "localUrl": "/news/20260819-hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-us.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-      "summary": "The CEOs from companies across several tech-forward sectors met with the president in advance of this week's first Innovation Advisory Committee at the CFTC.",
-      "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-      "publishedAt": "2026-08-19T19:48:33.000Z",
-      "keywords": [
-        "Policy",
-        "Donald Trump",
-        "Clarity Act",
-        "Regulation",
-        "Coinbase",
-        "Ripple",
-        "Gemini",
-        "News"
-      ],
-      "category": "监管",
-      "slug": "20260819-trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-      "localUrl": "/news/20260819-trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
       "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
@@ -1048,17 +1056,6 @@
       "category": "X热点",
       "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "TODAY: 🇺🇸 Crypto meets Wall Street at the WH. Later today, Coinbase, Ripple, Polymarket & Gemini sit down with Wall Street execs.🏦 With SEC Chair Atkins & CFTC Acting Chair Selig expected, the meeting comes one day before the CFTC's new Innovation - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4LWJNUDJnOWMwbjE0ajdLbkdNX20zZGI4M2x2RDVDZ2N6LVRVaS1zY3RQdGZBbGtvM2lGUndKSnpocmZHTTFkZzJENXZZd2c0eWJjQmNMUFItVXNiWUJRbU5R?oc=5\" target=\"_blank\">TODAY: 🇺🇸 Crypto meets Wall Stre…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4LWJNUDJnOWMwbjE0ajdLbkdNX20zZGI4M2x2RDVDZ2N6LVRVaS1zY3RQdGZBbGtvM2lGUndKSnpocmZHTTFkZzJENXZZd2c0eWJjQmNMUFItVXNiWUJRbU5R?oc=5",
-      "publishedAt": "2026-08-19T12:35:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-today-crypto-meets-wall-street-at-the-wh-later-today-coinbase-ripple-polymarket-",
-      "localUrl": "/news/20260819-today-crypto-meets-wall-street-at-the-wh-later-today-coinbase-ripple-polymarket-.html"
     },
     {
       "source": "Solana Blog",
