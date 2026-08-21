@@ -2,15 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T14:50:15.070Z</lastmod>
+    <lastmod>2026-08-21T15:45:00.999Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T14:50:15.070Z</lastmod>
+    <lastmod>2026-08-21T15:45:00.999Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-xrp-erases-its-most-bearish-signaland-the-ripple-linked-coin-is-flying.html</loc>
+    <lastmod>2026-08-21T15:39:02.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-bitcoin-climbs-higher-as-12-billion-in-shorts-liquidated.html</loc>
+    <lastmod>2026-08-21T14:57:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260821-morning-minute-cftc-will-give-crypto-clarity-if-congress-wont.html</loc>
@@ -21,6 +33,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-solana-cuts-blockchain-slot-time-to-350-milliseconds.html</loc>
     <lastmod>2026-08-21T13:45:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-whats-happening-now-in-gold-and-crypto-should-not-come-as-a-surprise-if-it-does-.html</loc>
+    <lastmod>2026-08-21T13:31:22.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -379,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html</loc>
-    <lastmod>2026-08-20T12:33:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered.html</loc>
     <lastmod>2026-08-20T12:22:00.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -465,18 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june.html</loc>
     <lastmod>2026-08-19T21:22:31.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-trump-calls-on-congress-to-pass-fair-version-of-clarity-act-at-white-house-crypt.html</loc>
-    <lastmod>2026-08-19T19:56:45.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9.html</loc>
-    <lastmod>2026-08-19T19:51:11.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
