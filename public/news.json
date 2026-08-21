@@ -1,7 +1,48 @@
 {
-  "updatedAt": "2026-08-21T08:54:15.241Z",
+  "updatedAt": "2026-08-21T09:49:23.427Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds—and leave much of the oversight to users themselves.",
+      "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+      "publishedAt": "2026-08-21T09:31:05.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "市场",
+      "slug": "20260821-binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you",
+      "localUrl": "/news/20260821-binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
+      "summary": "The rally in hard assets isn’t necessarily about what the Treasury is doing, but what its move signals to the market.",
+      "url": "https://www.coindesk.com/markets/2026/08/21/treasury-s-latest-measure-isn-t-qe-or-ycc-still-bitcoin-is-skyrocketing-here-s-why",
+      "publishedAt": "2026-08-21T09:17:15.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "News"
+      ],
+      "category": "RWA",
+      "slug": "20260821-treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why",
+      "localUrl": "/news/20260821-treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
+      "summary": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.",
+      "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T08:48:52.000Z",
+      "keywords": [
+        "Markets"
+      ],
+      "category": "RWA",
+      "slug": "20260821-strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k",
+      "localUrl": "/news/20260821-strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
@@ -33,7 +74,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows",
+      "title": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
       "summary": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
       "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "publishedAt": "2026-08-21T06:43:24.000Z",
@@ -43,8 +84,8 @@
         "live_news"
       ],
       "category": "监管",
-      "slug": "20260821-live-updates-bitcoin-tops-77000-btc-eth-record-800-million-inflows",
-      "localUrl": "/news/20260821-live-updates-bitcoin-tops-77000-btc-eth-record-800-million-inflows.html"
+      "slug": "20260821-live-updates-bitcoin-tops-79500-btc-eth-record-800-million-inflows",
+      "localUrl": "/news/20260821-live-updates-bitcoin-tops-79500-btc-eth-record-800-million-inflows.html"
     },
     {
       "source": "Cointelegraph",
@@ -99,6 +140,17 @@
       "category": "DeFi",
       "slug": "20260821-ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months",
       "localUrl": "/news/20260821-ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Jim Cramer dumped all his Bitcoin $BTCa few weeks ago so that we all could enjoy the bull market 🙏 Thank you for your sacrifice Jim 🫡 - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oRU1LMXIwYUt5V09GVmFmRFVCZW5rZjJvY195VEFneEs0TERUblVSTUxrZ296TWk4bU1hdndnVkZ5UjZmcXl1NHU0akd5STZyVGFVY29zWDZ0UzdMZ2c?oc=5\" target=\"_blank\">Jim Cramer dumped all his Bitcoin $BTCa…",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oRU1LMXIwYUt5V09GVmFmRFVCZW5rZjJvY195VEFneEs0TERUblVSTUxrZ296TWk4bU1hdndnVkZ5UjZmcXl1NHU0akd5STZyVGFVY29zWDZ0UzdMZ2c?oc=5",
+      "publishedAt": "2026-08-21T05:14:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-jim-cramer-dumped-all-his-bitcoin-btca-few-weeks-ago-so-that-we-all-could-enjoy-",
+      "localUrl": "/news/20260821-jim-cramer-dumped-all-his-bitcoin-btca-few-weeks-ago-so-that-we-all-could-enjoy-.html"
     },
     {
       "source": "Cointelegraph",
@@ -259,17 +311,6 @@
       "category": "X热点",
       "slug": "20260820-ct-is-dead-bitcoin-ok-watch-this-xcom",
       "localUrl": "/news/20260820-ct-is-dead-bitcoin-ok-watch-this-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "High conviction buyers have been accumulating bitcoin:native since January. We saw similar behavior in 2022. This cycle, the share of supply that was bought by this cohort is even larger than last cycle. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VC1BWW5aQW0talZVSnkxdi1xZ0c2cEJfWl9wUHNwQnJ6c1pFNkJtcGNfdGtOc09RYVVjWm9iUjczQ25pNVJPWlEycnJzTEpVSFhqcmgwN2lHU2YyM3Rn?oc=5\" target=\"_blank\">High conviction buyers have been accum…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VC1BWW5aQW0talZVSnkxdi1xZ0c2cEJfWl9wUHNwQnJ6c1pFNkJtcGNfdGtOc09RYVVjWm9iUjczQ25pNVJPWlEycnJzTEpVSFhqcmgwN2lHU2YyM3Rn?oc=5",
-      "publishedAt": "2026-08-20T19:37:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-high-conviction-buyers-have-been-accumulating-bitcoinnative-since-january-we-saw",
-      "localUrl": "/news/20260820-high-conviction-buyers-have-been-accumulating-bitcoinnative-since-january-we-saw.html"
     },
     {
       "source": "Decrypt",
@@ -609,6 +650,17 @@
     },
     {
       "source": "X Wire",
+      "title": "For the first time since the October 2025 ATH, Bitcoin demand has turned positive in both spot and perpetual futures. The scale remains modest, but if this holds for another month, it would be reasonable to conclude that the bear market is over and a new bull c - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5\" target=\"_blank\">For the first time since the Octob…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5",
+      "publishedAt": "2026-08-20T12:33:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive",
+      "localUrl": "/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html"
+    },
+    {
+      "source": "X Wire",
       "title": "BREAKING: Bitcoin surges above $72,000 for the first time since June 1st as levered liquidations hit $3.4 billion in 24 hours. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5",
@@ -818,30 +870,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 THE LARGEST SHORT LIQUIDATION IN CRYPTO HISTORY JUST HAPPENED. Short sellers lost $3 billion in a single day. Bitcoin hit $71,000, up +11.50%, and $236 billion was added to the crypto market. Here is the full move: - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVGJCTGJ2SDJTVVl5MmZRNXNaTkxEY3RuVC1RRlhzUmtheEJyeThoZmNMcXN0Y0c5UXNVaC16MC1wUTlLU1o0QTNNeHlCOTBSUkllRWpTa1Y0OFphVHlLM2R4VQ?oc=5\" target=\"_blank\">🚨 THE LARGEST SHORT LIQUIDATION…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCVGJCTGJ2SDJTVVl5MmZRNXNaTkxEY3RuVC1RRlhzUmtheEJyeThoZmNMcXN0Y0c5UXNVaC16MC1wUTlLU1o0QTNNeHlCOTBSUkllRWpTa1Y0OFphVHlLM2R4VQ?oc=5",
-      "publishedAt": "2026-08-20T09:03:53.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-the-largest-short-liquidation-in-crypto-history-just-happened-short-sellers-lost",
-      "localUrl": "/news/20260820-the-largest-short-liquidation-in-crypto-history-just-happened-short-sellers-lost.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
-      "summary": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
-      "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T08:59:40.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "基础设施",
-      "slug": "20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone",
-      "localUrl": "/news/20260820-gnosisdao-approves-gnosis-chain-for-ethereum-economic-zone.html"
-    },
-    {
-      "source": "X Wire",
       "title": "JUST IN 🚨: Bitcoin $BTC gets above 200-day moving average for the first time since November 2025 📈 🤑 🥳 - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Qm9WZWEzdklEdENVWkZwZDR0UlFZMGVmS2hqLTBnRTdVNlY1MzQ4dXhaVnk4N0VQUjJqb3h5OXAyckx2cEItbXBBRzhKOEtqUnVYRFM4UHJiVnp6aWc?oc=5\" target=\"_blank\">JUST IN 🚨: Bitcoin $BTC gets above 200…",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Qm9WZWEzdklEdENVWkZwZDR0UlFZMGVmS2hqLTBnRTdVNlY1MzQ4dXhaVnk4N0VQUjJqb3h5OXAyckx2cEItbXBBRzhKOEtqUnVYRFM4UHJiVnp6aWc?oc=5",
@@ -850,21 +878,6 @@
       "category": "X热点",
       "slug": "20260820-just-in-bitcoin-btc-gets-above-200-day-moving-average-for-the-first-time-since-n",
       "localUrl": "/news/20260820-just-in-bitcoin-btc-gets-above-200-day-moving-average-for-the-first-time-since-n.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin extends gains as Bessent suggests more Treasury intervention",
-      "summary": "Markets seem likely to test the resolve of Treasury Secretary Scott Bessent's desire to lower long-term government bond yields.",
-      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
-      "publishedAt": "2026-08-20T06:21:17.000Z",
-      "keywords": [
-        "Tech",
-        "Live News",
-        "live_news"
-      ],
-      "category": "监管",
-      "slug": "20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio",
-      "localUrl": "/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html"
     },
     {
       "source": "X Wire",
@@ -1033,19 +1046,6 @@
       "category": "X热点",
       "slug": "20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas",
       "localUrl": "/news/20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means",
-      "summary": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
-      "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
-      "publishedAt": "2026-08-19T16:54:46.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means",
-      "localUrl": "/news/20260819-moderna-stock-doubles-on-cancer-breakthrough-heres-what-it-means.html"
     },
     {
       "source": "X Wire",
