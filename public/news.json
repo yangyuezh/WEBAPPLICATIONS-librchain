@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-21T16:48:10.796Z",
+  "updatedAt": "2026-08-21T17:40:27.552Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+      "summary": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
+      "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
+      "publishedAt": "2026-08-21T17:28:55.000Z",
+      "keywords": [
+        "Business"
+      ],
+      "category": "RWA",
+      "slug": "20260821-strategy-swings-from-13-billion-bitcoin-loss-to-14-billion-profit-as-btc-rallies",
+      "localUrl": "/news/20260821-strategy-swings-from-13-billion-bitcoin-loss-to-14-billion-profit-as-btc-rallies.html"
+    },
     {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
@@ -166,17 +179,6 @@
       "category": "DeFi",
       "slug": "20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years",
       "localUrl": "/news/20260821-laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "#BTC Here is a compelling theory In the previous Bull Run, I spoke about how Bitcoin was in an Accelerated Cycle And how price needed to decelerate/consolidate for a prolonged period of time to resynchronise with its traditional Halving Cycles That indeed h - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MWHUzNkk5bDVmNklmcTgyM0RTT1RCR2VzNkY0Ti01VkJsdmxiVS1aZ0ZPNHZtclFydzdGZVM4NUFWOTA2UWROQ0hYYjhSXy1sNFYwY19meFVNVldndUI0b0dn?oc=5\" target=\"_blank\">#BTC Here is a compelling theory I…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MWHUzNkk5bDVmNklmcTgyM0RTT1RCR2VzNkY0Ti01VkJsdmxiVS1aZ0ZPNHZtclFydzdGZVM4NUFWOTA2UWROQ0hYYjhSXy1sNFYwY19meFVNVldndUI0b0dn?oc=5",
-      "publishedAt": "2026-08-21T12:54:57.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-btc-here-is-a-compelling-theory-in-the-previous-bull-run-i-spoke-about-how-bitco",
-      "localUrl": "/news/20260821-btc-here-is-a-compelling-theory-in-the-previous-bull-run-i-spoke-about-how-bitco.html"
     },
     {
       "source": "Cointelegraph",
@@ -354,6 +356,17 @@
       "category": "市场",
       "slug": "20260821-binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you",
       "localUrl": "/news/20260821-binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 QUESTION: Does Bitcoin break $80K today, or is the rally running out of steam? Comment why. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZUpSNDA1V0ZWVnYzR3EydENqQ0haSGUyOFpDUER5MC05SHVELWU2VW9lVy1aRnlxZ2xWSV9tV0JsWm11OHMzSVpKVmRTN051NW40Qk9Rc1pWU2tYZk9PdWZkME0?oc=5\" target=\"_blank\">🚨 QUESTION: Does Bitcoin break…",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZUpSNDA1V0ZWVnYzR3EydENqQ0haSGUyOFpDUER5MC05SHVELWU2VW9lVy1aRnlxZ2xWSV9tV0JsWm11OHMzSVpKVmRTN051NW40Qk9Rc1pWU2tYZk9PdWZkME0?oc=5",
+      "publishedAt": "2026-08-21T09:22:46.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-question-does-bitcoin-break-80k-today-or-is-the-rally-running-out-of-steam-comme",
+      "localUrl": "/news/20260821-question-does-bitcoin-break-80k-today-or-is-the-rally-running-out-of-steam-comme.html"
     },
     {
       "source": "X Wire",
@@ -1020,19 +1033,6 @@
       "category": "监管",
       "slug": "20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through",
       "localUrl": "/news/20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
-      "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
-      "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
-      "publishedAt": "2026-08-19T22:18:01.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip",
-      "localUrl": "/news/20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip.html"
     },
     {
       "source": "X Wire",

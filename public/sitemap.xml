@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T16:48:10.837Z</lastmod>
+    <lastmod>2026-08-21T17:40:27.669Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T16:48:10.837Z</lastmod>
+    <lastmod>2026-08-21T17:40:27.669Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-strategy-swings-from-13-billion-bitcoin-loss-to-14-billion-profit-as-btc-rallies.html</loc>
+    <lastmod>2026-08-21T17:28:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260821-bitcoin-etfs-just-had-their-biggest-day-since-mayblackrock-took-83-of-it.html</loc>
@@ -91,12 +97,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-btc-here-is-a-compelling-theory-in-the-previous-bull-run-i-spoke-about-how-bitco.html</loc>
-    <lastmod>2026-08-21T12:54:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260821-binance-says-employees-questioned-in-uae-cleared-and-released.html</loc>
     <lastmod>2026-08-21T12:48:04.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -171,6 +171,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you.html</loc>
     <lastmod>2026-08-21T09:31:05.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-question-does-bitcoin-break-80k-today-or-is-the-rally-running-out-of-steam-comme.html</loc>
+    <lastmod>2026-08-21T09:22:46.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -477,12 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-raising-machine-checked-security-benchmarks-to-advance-hash-based-snarks-through.html</loc>
     <lastmod>2026-08-20T00:00:00.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-bitcoins-sharpest-rally-in-five-months-flips-markets-from-bearish-to-coin-flip.html</loc>
-    <lastmod>2026-08-19T22:18:01.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
