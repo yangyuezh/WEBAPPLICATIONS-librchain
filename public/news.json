@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-21T13:57:24.305Z",
+  "updatedAt": "2026-08-21T14:50:15.028Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
+      "summary": "Meanwhile crypto majors and alts continue to soar, with BTC nearing $80k and alts like Pump and ZEC putting up big candles.",
+      "url": "https://decrypt.co/376174/morning-minute-cftc-crypto-clarity-act",
+      "publishedAt": "2026-08-21T14:27:31.000Z",
+      "keywords": [
+        "Opinion"
+      ],
+      "category": "市场",
+      "slug": "20260821-morning-minute-cftc-will-give-crypto-clarity-if-congress-wont",
+      "localUrl": "/news/20260821-morning-minute-cftc-will-give-crypto-clarity-if-congress-wont.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Solana cuts blockchain slot time to 350 milliseconds",
@@ -219,17 +232,6 @@
       "category": "RWA",
       "slug": "20260821-treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why",
       "localUrl": "/news/20260821-treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "There we go. #Bitcoin has hit this level of liquidity and is absolutely blasting. This is the type of move that you'd want to see to end the bear market. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVktLSWdGb2lqWmtuSnFIbFRHanQxdkdZUGtJZTItRnlkQVotaEh0d0NqMm9hbUM5WVpzSHg3ck8xNXpOTDhoRHJGZGVpZExpZ0pvWlE1QmpHNkl6OC1VNkxSYw?oc=5\" target=\"_blank\">There we go. #Bitcoin has hit th…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVktLSWdGb2lqWmtuSnFIbFRHanQxdkdZUGtJZTItRnlkQVotaEh0d0NqMm9hbUM5WVpzSHg3ck8xNXpOTDhoRHJGZGVpZExpZ0pvWlE1QmpHNkl6OC1VNkxSYw?oc=5",
-      "publishedAt": "2026-08-21T08:51:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-there-we-go-bitcoin-has-hit-this-level-of-liquidity-and-is-absolutely-blasting-t",
-      "localUrl": "/news/20260821-there-we-go-bitcoin-has-hit-this-level-of-liquidity-and-is-absolutely-blasting-t.html"
     },
     {
       "source": "Cointelegraph",
@@ -512,17 +514,6 @@
       "category": "市场",
       "slug": "20260820-binance-opens-crypto-trading-to-ai-agents-with-user-set-controls",
       "localUrl": "/news/20260820-binance-opens-crypto-trading-to-ai-agents-with-user-set-controls.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "\"CT is dead\" Bitcoin: ok watch this - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keVNHclZVbTdlVk16ZkJfRFo2Z2FMYWRsR2YtczZ4YVRKNVZ3UW9MVXF3VmUxbU9MeURzdFQ4Z3Z1NU5JR0ZIbWxkQXZnV2NvZ1RYSnM1UUlYaWxQZGc?oc=5\" target=\"_blank\">\"CT is dead\" Bitcoin: ok watch this</a>…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keVNHclZVbTdlVk16ZkJfRFo2Z2FMYWRsR2YtczZ4YVRKNVZ3UW9MVXF3VmUxbU9MeURzdFQ4Z3Z1NU5JR0ZIbWxkQXZnV2NvZ1RYSnM1UUlYaWxQZGc?oc=5",
-      "publishedAt": "2026-08-20T19:44:45.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-ct-is-dead-bitcoin-ok-watch-this-xcom",
-      "localUrl": "/news/20260820-ct-is-dead-bitcoin-ok-watch-this-xcom.html"
     },
     {
       "source": "Decrypt",
@@ -924,6 +915,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstro - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5\" target=\"_blank\">🚨SCOOP: A small group of cr…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5",
+      "publishedAt": "2026-08-20T00:34:40.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni",
+      "localUrl": "/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html"
+    },
+    {
+      "source": "X Wire",
       "title": "We'll need to revisit the tokenomics for crypto-com-chain:native - there is no doubt about that. There's plenty to discuss and layout in the coming months. Particularly the buy and burn with @CronosApp revenue, the Community Burn, and beyond. It's part of our - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2TGx3a0w1b3pYVWg3a3VhbXFiWnByNm9HbWY3VFJNRTBZempyYmlDWnVSajlwV1QyRkNHUFNfb01yVE5wM0ZIdk1nNXNCYWhtLTI1WUtxZ2s?oc=5\" target=\"_blank\">We'll need to revisit the tokenomics for crypto…",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2TGx3a0w1b3pYVWg3a3VhbXFiWnByNm9HbWY3VFJNRTBZempyYmlDWnVSajlwV1QyRkNHUFNfb01yVE5wM0ZIdk1nNXNCYWhtLTI1WUtxZ2s?oc=5",
@@ -1021,19 +1023,6 @@
       "localUrl": "/news/20260819-crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
-      "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
-      "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
-      "publishedAt": "2026-08-19T19:16:04.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "市场",
-      "slug": "20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures",
-      "localUrl": "/news/20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures.html"
-    },
-    {
       "source": "X Wire",
       "title": "The SEC just proposed new crypto regulation. Since the ICO boom of 2017, token-based fundraising in the US has lacked regulations. \"Reg Crypto\" would change that. Grayscale Research believes this could bring more token offerings onchain, driving value t - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5\" target=\"_blank\">The SEC just proposed new crypto regul…",
@@ -1054,6 +1043,17 @@
       "category": "X热点",
       "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
+      "publishedAt": "2026-08-19T16:04:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
+      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
     },
     {
       "source": "Solana Blog",
