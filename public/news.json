@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-08-21T20:36:45.357Z",
+  "updatedAt": "2026-08-21T21:35:24.855Z",
   "total": 83,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "summary": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
+      "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+      "publishedAt": "2026-08-21T21:31:05.000Z",
+      "keywords": [
+        "Technology"
+      ],
+      "category": "监管",
+      "slug": "20260821-coldcard-adds-new-security-measures-after-130-million-bitcoin-exploit",
+      "localUrl": "/news/20260821-coldcard-adds-new-security-measures-after-130-million-bitcoin-exploit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T20:48:48.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260821-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260821-heres-what-happened-in-crypto-today.html"
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
@@ -53,6 +79,17 @@
       "category": "监管",
       "slug": "20260821-onchain-in-court-what-happened-in-crypto-legal-news-this-week",
       "localUrl": "/news/20260821-onchain-in-court-what-happened-in-crypto-legal-news-this-week.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "JUST IN: Jim Cramer says \"go buy Bitcoin.\" - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlb0hDdmVvX0dhZ1Y1NGpZYTR6c1N3S1UxTk4wOHdPblRlQ1FBem1JTTBjNm03ci1ZeUd2OFRGRl9sZnpkVnFNU09xaE5EQ3RPNEQtbm8wQmVZdXlCQzRMX3Rn?oc=5\" target=\"_blank\">JUST IN: Jim Cramer says \"go buy B…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlb0hDdmVvX0dhZ1Y1NGpZYTR6c1N3S1UxTk4wOHdPblRlQ1FBem1JTTBjNm03ci1ZeUd2OFRGRl9sZnpkVnFNU09xaE5EQ3RPNEQtbm8wQmVZdXlCQzRMX3Rn?oc=5",
+      "publishedAt": "2026-08-21T19:12:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-just-in-jim-cramer-says-go-buy-bitcoin-xcom",
+      "localUrl": "/news/20260821-just-in-jim-cramer-says-go-buy-bitcoin-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -121,6 +158,17 @@
       "localUrl": "/news/20260821-strategy-swings-from-13-billion-bitcoin-loss-to-14-billion-profit-as-btc-rallies.html"
     },
     {
+      "source": "X Wire",
+      "title": "Crypto Traders Turn 'Kimchi' into $40 Million Profit Slang - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5la21ENG5QTGpnSlNuejZKYTFuaExkcGZ3bVl6WDgtcUdtaVUyQkwtMzI2YnVBR01TX280TGZvaEZ4VGRSa1RUTU9wM0pWTnJLTnBUc0hZbw?oc=5\" target=\"_blank\">Crypto Traders Turn 'Kimchi' into $40 Million Pr…",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5la21ENG5QTGpnSlNuejZKYTFuaExkcGZ3bVl6WDgtcUdtaVUyQkwtMzI2YnVBR01TX280TGZvaEZ4VGRSa1RUTU9wM0pWTnJLTnBUc0hZbw?oc=5",
+      "publishedAt": "2026-08-21T17:21:27.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-crypto-traders-turn-kimchi-into-40-million-profit-slang-xcom",
+      "localUrl": "/news/20260821-crypto-traders-turn-kimchi-into-40-million-profit-slang-xcom.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
       "summary": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
@@ -173,6 +221,17 @@
       "category": "市场",
       "slug": "20260821-ethenas-ena-token-surges-48-but-altcoin-season-will-have-to-wait",
       "localUrl": "/news/20260821-ethenas-ena-token-surges-48-but-altcoin-season-will-have-to-wait.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "#Bitcoin is literally making a copy/paste of the 2022 breakout. Massive weekly candle after a period of consolidation and a sweep of the lows. What's next? I think we'll continue for a bit in order to: - Sweep the high at $83,000 confirming the bear market is over. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCa0FOa2ZRdEEtVld1MlY5LWlIWnlBV3U2NVE3b3RBNWY5YlV1bUxVeGhRODB2NzlWcEkyaDVJSjFhSjA2a09yMUZtNzVZbGZoLU94c1M2dFBSOENsZjhtM0Rycw?oc=5\" target=\"_blank\">#Bitcoin is literally making a c…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCa0FOa2ZRdEEtVld1MlY5LWlIWnlBV3U2NVE3b3RBNWY5YlV1bUxVeGhRODB2NzlWcEkyaDVJSjFhSjA2a09yMUZtNzVZbGZoLU94c1M2dFBSOENsZjhtM0Rycw?oc=5",
+      "publishedAt": "2026-08-21T16:06:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-bitcoin-is-literally-making-a-copypaste-of-the-2022-breakout-massive-weekly-cand",
+      "localUrl": "/news/20260821-bitcoin-is-literally-making-a-copypaste-of-the-2022-breakout-massive-weekly-cand.html"
     },
     {
       "source": "Cointelegraph",
@@ -475,17 +534,6 @@
     },
     {
       "source": "X Wire",
-      "title": "🚨 QUESTION: Does Bitcoin break $80K today, or is the rally running out of steam? Comment why. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZUpSNDA1V0ZWVnYzR3EydENqQ0haSGUyOFpDUER5MC05SHVELWU2VW9lVy1aRnlxZ2xWSV9tV0JsWm11OHMzSVpKVmRTN051NW40Qk9Rc1pWU2tYZk9PdWZkME0?oc=5\" target=\"_blank\">🚨 QUESTION: Does Bitcoin break…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFZUpSNDA1V0ZWVnYzR3EydENqQ0haSGUyOFpDUER5MC05SHVELWU2VW9lVy1aRnlxZ2xWSV9tV0JsWm11OHMzSVpKVmRTN051NW40Qk9Rc1pWU2tYZk9PdWZkME0?oc=5",
-      "publishedAt": "2026-08-21T09:22:46.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-question-does-bitcoin-break-80k-today-or-is-the-rally-running-out-of-steam-comme",
-      "localUrl": "/news/20260821-question-does-bitcoin-break-80k-today-or-is-the-rally-running-out-of-steam-comme.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: Bitcoin surges above $79,000, now up +30% in 4 days. Crypto markets have now added +$450 billion in market cap since Monday. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zMjY2R09FQ3NPZjY3cFBnbV9jLVNLdGtZYXlrUXFPX2JCOEdXTklnclJpWXdwa2Z3T1FkaGl3VXA2N3dDY2V5NHRSYUNrU09PRXFmb1c0YVhDSGsyWXRTdURHTXZQZw?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zMjY2R09FQ3NPZjY3cFBnbV9jLVNLdGtZYXlrUXFPX2JCOEdXTklnclJpWXdwa2Z3T1FkaGl3VXA2N3dDY2V5NHRSYUNrU09PRXFmb1c0YVhDSGsyWXRTdURHTXZQZw?oc=5",
@@ -564,17 +612,6 @@
       "localUrl": "/news/20260821-bitcoin-etfs-draw-608m-as-ether-etfs-see-largest-inflow-since-october.html"
     },
     {
-      "source": "X Wire",
-      "title": "BREAKING: Bitcoin just broke $76,000 for the first time in 3 months. BTC pumped +$14,000 from $62.7k to $76.5k and liquidated $4 billion worth of shorts in just 4 days. Bitcoin is now up +22% after adding over $250 billion to its market cap. This is the largest s - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZcWxTTWZVODVuNFVHOFVFVU5PdU01YWFLY0Z3aGdGSFBQdVl0SDFwVUNLbG9lRmZxblYzR0M3RWJkSl9XbWE0dXYxclB1NGNacklvclV4eXcwMTlxZUhUczJiVQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin just broke $76…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZcWxTTWZVODVuNFVHOFVFVU5PdU01YWFLY0Z3aGdGSFBQdVl0SDFwVUNLbG9lRmZxblYzR0M3RWJkSl9XbWE0dXYxclB1NGNacklvclV4eXcwMTlxZUhUczJiVQ?oc=5",
-      "publishedAt": "2026-08-21T07:21:18.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-breaking-bitcoin-just-broke-76000-for-the-first-time-in-3-months-btc-pumped-1400",
-      "localUrl": "/news/20260821-breaking-bitcoin-just-broke-76000-for-the-first-time-in-3-months-btc-pumped-1400.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin slips back to $77,000 after challenging $80,000 overnight",
       "summary": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
@@ -588,19 +625,6 @@
       "category": "监管",
       "slug": "20260821-live-updates-bitcoin-slips-back-to-77000-after-challenging-80000-overnight",
       "localUrl": "/news/20260821-live-updates-bitcoin-slips-back-to-77000-after-challenging-80000-overnight.html"
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-21T05:53:11.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260821-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260821-heres-what-happened-in-crypto-today.html"
     },
     {
       "source": "CoinDesk",
@@ -954,41 +978,6 @@
     },
     {
       "source": "X Wire",
-      "title": "America is winning the crypto race. CLARITY gets us over the line. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5\" target=\"_blank\">America is winning the crypto race. CLA…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oYVpLQUEwUlpHX0F1RUlJYjk3OHpGaVpEUjY5cUdhMlRWaHN5TUxma3JFemw5d1J1aWF4c1lZZnlJSUFaUER5MkxxSno2U2NjcTE2SHU2SjF1enRtd0E?oc=5",
-      "publishedAt": "2026-08-20T14:56:34.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom",
-      "localUrl": "/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Hyperliquid Is Coming to the US",
-      "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
-      "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
-      "publishedAt": "2026-08-20T14:02:44.000Z",
-      "keywords": [
-        "Opinion"
-      ],
-      "category": "市场",
-      "slug": "20260820-morning-minute-hyperliquid-is-coming-to-the-us",
-      "localUrl": "/news/20260820-morning-minute-hyperliquid-is-coming-to-the-us.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "For the first time since the October 2025 ATH, Bitcoin demand has turned positive in both spot and perpetual futures. The scale remains modest, but if this holds for another month, it would be reasonable to conclude that the bear market is over and a new bull c - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5\" target=\"_blank\">For the first time since the Octob…",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5",
-      "publishedAt": "2026-08-20T12:33:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive",
-      "localUrl": "/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html"
-    },
-    {
-      "source": "X Wire",
       "title": "BREAKING: Bitcoin surges above $72,000 for the first time since June 1st as levered liquidations hit $3.4 billion in 24 hours. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5",
@@ -1011,14 +1000,14 @@
     },
     {
       "source": "X Wire",
-      "title": "We'll need to revisit the tokenomics for crypto-com-chain:native - there is no doubt about that. There's plenty to discuss and layout in the coming months. Particularly the buy and burn with @CronosApp revenue, the Community Burn, and beyond. It's part of our - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2TGx3a0w1b3pYVWg3a3VhbXFiWnByNm9HbWY3VFJNRTBZempyYmlDWnVSajlwV1QyRkNHUFNfb01yVE5wM0ZIdk1nNXNCYWhtLTI1WUtxZ2s?oc=5\" target=\"_blank\">We'll need to revisit the tokenomics for crypto…",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2TGx3a0w1b3pYVWg3a3VhbXFiWnByNm9HbWY3VFJNRTBZempyYmlDWnVSajlwV1QyRkNHUFNfb01yVE5wM0ZIdk1nNXNCYWhtLTI1WUtxZ2s?oc=5",
-      "publishedAt": "2026-08-20T00:05:39.000Z",
+      "title": "🚨 UPDATE: Ethereum's exchange supply has fallen roughly 15% over eleven weeks while Bitcoin's balances quietly climbed back, per Santiment. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5\" target=\"_blank\">🚨 UPDATE: Ethereum's exchange …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUGNfSTNUZGYxZFMyZUkwSEZhcVJNN3Z0QnBlczhpUEx0a3FYTW9OSUhha1V5c0Rwc0NmdWhxMnp4ajFfRjI2UmNLSTJhWEJPNm1JWVVDRUkzenFhTldsTGs1bXI?oc=5",
+      "publishedAt": "2026-08-20T06:01:05.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260820-well-need-to-revisit-the-tokenomics-for-crypto-com-chainnative-there-is-no-doubt",
-      "localUrl": "/news/20260820-well-need-to-revisit-the-tokenomics-for-crypto-com-chainnative-there-is-no-doubt.html"
+      "slug": "20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b",
+      "localUrl": "/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html"
     },
     {
       "source": "Ethereum Blog",
@@ -1035,14 +1024,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Crypto exchange OKX has barred staff based in Hong Kong or traveling through China from using Anthropic's Claude AI model after having its corporate account briefly suspended - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yY1F2TExjUHk5SUpsWUV4M1JvUHNRY29HRVhVb2w0VFJSaTFRcmg3M2ZGNmR4ejRZWHNsMUlwZTd4MnVfT1BhTHJxUWI4a2RNeFVBQUJnZ1Y2OGotZkE?oc=5\" target=\"_blank\">Crypto exchange OKX has barred staff ba…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yY1F2TExjUHk5SUpsWUV4M1JvUHNRY29HRVhVb2w0VFJSaTFRcmg3M2ZGNmR4ejRZWHNsMUlwZTd4MnVfT1BhTHJxUWI4a2RNeFVBQUJnZ1Y2OGotZkE?oc=5",
-      "publishedAt": "2026-08-19T21:30:08.000Z",
+      "title": "BREAKING: Bitcoin extends gains to rise above $70,000 for the first time since June 2nd and levered short liquidations hit $2.7 billion in 24 hours. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abks4OFlESHJhZHM3d1hIeEFxcUJvVk91X3ZWVHB4TW4wNm5GbkxDLW5veVZPbHNEQ1FERHBPQUNlTVpiZWJ1cXJudFVWTzVLX0FUWDRxS2hYM2JtLVJZZlRvZlRCZw?oc=5\" target=\"_blank\">BREAKING: Bitcoin extends ga…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9abks4OFlESHJhZHM3d1hIeEFxcUJvVk91X3ZWVHB4TW4wNm5GbkxDLW5veVZPbHNEQ1FERHBPQUNlTVpiZWJ1cXJudFVWTzVLX0FUWDRxS2hYM2JtLVJZZlRvZlRCZw?oc=5",
+      "publishedAt": "2026-08-19T21:22:31.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260819-crypto-exchange-okx-has-barred-staff-based-in-hong-kong-or-traveling-through-chi",
-      "localUrl": "/news/20260819-crypto-exchange-okx-has-barred-staff-based-in-hong-kong-or-traveling-through-chi.html"
+      "slug": "20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june",
+      "localUrl": "/news/20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june.html"
     },
     {
       "source": "X Wire",
@@ -1054,6 +1043,17 @@
       "category": "X热点",
       "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
+      "publishedAt": "2026-08-19T16:04:16.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
+      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
     },
     {
       "source": "Solana Blog",
