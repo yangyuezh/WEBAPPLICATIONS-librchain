@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-21T05:45:32.658Z",
+  "updatedAt": "2026-08-21T07:03:49.903Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+      "summary": "Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.",
+      "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+      "publishedAt": "2026-08-21T06:43:24.000Z",
+      "keywords": [
+        "Tech",
+        "Live News",
+        "live_news"
+      ],
+      "category": "监管",
+      "slug": "20260821-live-updates-bitcoin-ether-etfs-pull-in-800-million-as-inflows-surge-for-a-secon",
+      "localUrl": "/news/20260821-live-updates-bitcoin-ether-etfs-pull-in-800-million-as-inflows-surge-for-a-secon.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T05:53:11.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260821-heres-what-happened-in-crypto-today",
+      "localUrl": "/news/20260821-heres-what-happened-in-crypto-today.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+      "summary": "The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain.",
+      "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+      "publishedAt": "2026-08-21T05:52:27.000Z",
+      "keywords": [
+        "Tech",
+        "News"
+      ],
+      "category": "安全",
+      "slug": "20260821-mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+      "localUrl": "/news/20260821-mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit.html"
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
+      "summary": "The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.",
+      "url": "https://cointelegraph.com/news/south-korea-fiu-unregistered-crypto-firms-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "2026-08-21T05:47:16.000Z",
+      "keywords": [
+        "Latest News"
+      ],
+      "category": "监管",
+      "slug": "20260821-south-korean-lawmakers-seek-expanded-fiu-powers-over-unregistered-crypto-firms",
+      "localUrl": "/news/20260821-south-korean-lawmakers-seek-expanded-fiu-powers-over-unregistered-crypto-firms.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
@@ -177,19 +232,6 @@
       "localUrl": "/news/20260820-binance-opens-crypto-trading-to-ai-agents-with-user-set-controls.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T19:50:32.000Z",
-      "keywords": [
-        "Latest News"
-      ],
-      "category": "监管",
-      "slug": "20260820-heres-what-happened-in-crypto-today",
-      "localUrl": "/news/20260820-heres-what-happened-in-crypto-today.html"
-    },
-    {
       "source": "X Wire",
       "title": "\"CT is dead\" Bitcoin: ok watch this - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5keVNHclZVbTdlVk16ZkJfRFo2Z2FMYWRsR2YtczZ4YVRKNVZ3UW9MVXF3VmUxbU9MeURzdFQ4Z3Z1NU5JR0ZIbWxkQXZnV2NvZ1RYSnM1UUlYaWxQZGc?oc=5\" target=\"_blank\">\"CT is dead\" Bitcoin: ok watch this</a>…",
@@ -314,6 +356,17 @@
       "category": "监管",
       "slug": "20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam",
       "localUrl": "/news/20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "better.codes is live Join the open autoresearch challenge to advance post-quantum Ethereum. Bring your agents, harnesses, and prompts. Push the state of the art math in hash-based SNARKs. Submissions are verified by Lean 4 proofs and may earn a slice - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adjFiSGpWX0syZmJhNzBobFdmSzNkZVozb1lTYXBVakZvTXNHdW5Yd2UzOFQ5WUFQNm92a2ktSDRMb1VtS1dBUlVNeUtyTVZad3Btdllqc1ZHcG9JSU0zQ3M2RQ?oc=5\" target=\"_blank\">better.codes is live Join the op…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adjFiSGpWX0syZmJhNzBobFdmSzNkZVozb1lTYXBVakZvTXNHdW5Yd2UzOFQ5WUFQNm92a2ktSDRMb1VtS1dBUlVNeUtyTVZad3Btdllqc1ZHcG9JSU0zQ3M2RQ?oc=5",
+      "publishedAt": "2026-08-20T17:06:48.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-bettercodes-is-live-join-the-open-autoresearch-challenge-to-advance-post-quantum",
+      "localUrl": "/news/20260820-bettercodes-is-live-join-the-open-autoresearch-challenge-to-advance-post-quantum.html"
     },
     {
       "source": "X Wire",
@@ -522,17 +575,6 @@
       "category": "综合",
       "slug": "20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility",
       "localUrl": "/news/20260820-bitdeer-signs-400m-ai-cloud-computing-deal-for-malaysia-facility.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Bitcoin is now officially out of the \"Fear\" in the Fear & Greed Index 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Tk5ZZG8tVVVHWGNNeGlreXloOUFuNEw0SlJ2YnJHWHZwdGY0YVhYLWVLeHRLSXMyMmM2a1pCTzNfejFjbVhsUmVqRm5GY2JWVkVtUGlsd3VtdnZmWHljRG1sMHFZQWs?oc=5\" target=\"_blank\">JUST IN: Bitcoin is now off…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16Tk5ZZG8tVVVHWGNNeGlreXloOUFuNEw0SlJ2YnJHWHZwdGY0YVhYLWVLeHRLSXMyMmM2a1pCTzNfejFjbVhsUmVqRm5GY2JWVkVtUGlsd3VtdnZmWHljRG1sMHFZQWs?oc=5",
-      "publishedAt": "2026-08-20T12:53:44.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-just-in-bitcoin-is-now-officially-out-of-the-fear-in-the-fear-greed-index-xcom",
-      "localUrl": "/news/20260820-just-in-bitcoin-is-now-officially-out-of-the-fear-in-the-fear-greed-index-xcom.html"
     },
     {
       "source": "Cointelegraph",
@@ -831,19 +873,6 @@
       "localUrl": "/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html"
     },
     {
-      "source": "Cointelegraph",
-      "title": "HYPE jumps 20% as Trump signals legal US path for Hyperliquid",
-      "summary": "HYPE reached $72 after Trump said the CFTC was pursuing compliant US access for Hyperliquid, though no formal regulatory plan has been released.",
-      "url": "https://cointelegraph.com/markets/hype-price-jumps-trump-hyperliquid-us-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "2026-08-20T05:52:30.000Z",
-      "keywords": [
-        "Markets"
-      ],
-      "category": "监管",
-      "slug": "20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid",
-      "localUrl": "/news/20260820-hype-jumps-20-as-trump-signals-legal-us-path-for-hyperliquid.html"
-    },
-    {
       "source": "CoinDesk",
       "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
       "summary": "The Hyperliquid wallet known as pension-usdt.eth was forced out of a 50,000 ETH short as ether surged, with five liquidation orders helping push the price higher during the unwind.",
@@ -856,34 +885,6 @@
       "category": "监管",
       "slug": "20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second",
       "localUrl": "/news/20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bearish crypto bets lose record $3 billion as bitcoin tops $71,000",
-      "summary": "Traders betting against crypto lost $2.74 billion in a day, more than the short side of the October 2025 crash that remains the biggest liquidation event in the market's history.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bearish-crypto-bets-lose-record-usd2-7-billion-as-bitcoin-surges-toward-usd70-000",
-      "publishedAt": "2026-08-20T04:29:56.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260820-bearish-crypto-bets-lose-record-3-billion-as-bitcoin-tops-71000",
-      "localUrl": "/news/20260820-bearish-crypto-bets-lose-record-3-billion-as-bitcoin-tops-71000.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-      "summary": "Every major except tron posted double-digit weekly gains, with nearly $1.4 billion of short positions wiped out after the Treasury doubled its bond buybacks.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-      "publishedAt": "2026-08-20T04:10:40.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "RWA",
-      "slug": "20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally",
-      "localUrl": "/news/20260820-ether-jumps-18-to-2250-as-bitcoin-tops-69000-in-broad-crypto-rally.html"
     },
     {
       "source": "X Wire",
