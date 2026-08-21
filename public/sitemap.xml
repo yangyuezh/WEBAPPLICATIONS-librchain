@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T22:37:26.249Z</lastmod>
+    <lastmod>2026-08-21T23:35:06.336Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T22:37:26.249Z</lastmod>
+    <lastmod>2026-08-21T23:35:06.336Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260821-crypto-advocates-join-in-suing-illinois-over-digital-asset-tax.html</loc>
     <lastmod>2026-08-21T22:10:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-just-in-ethereum-eth-officially-surpasses-2500-xcom.html</loc>
+    <lastmod>2026-08-21T21:58:25.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -57,12 +63,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-onchain-in-court-what-happened-in-crypto-legal-news-this-week.html</loc>
     <lastmod>2026-08-21T19:19:27.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-just-in-jim-cramer-says-go-buy-bitcoin-xcom.html</loc>
-    <lastmod>2026-08-21T19:12:27.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -145,6 +145,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260821-for-those-waiting-for-the-october-crypto-bottom-a-reminder-of-fundstratdirect-ru.html</loc>
+    <lastmod>2026-08-21T15:16:20.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260821-breaking-the-odds-of-bitcoin-rising-above-90000-by-year-end-have-surged-from-12-.html</loc>
     <lastmod>2026-08-21T15:02:38.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -153,6 +159,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-bitcoin-climbs-higher-as-12-billion-in-shorts-liquidated.html</loc>
     <lastmod>2026-08-21T14:57:28.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-just-in-us-crypto-stocks-over-the-past-48-hours-robinhood-hood-15-coinbase-coin-.html</loc>
+    <lastmod>2026-08-21T14:41:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,18 +483,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern.html</loc>
     <lastmod>2026-08-20T15:16:12.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-america-is-winning-the-crypto-race-clarity-gets-us-over-the-line-xcom.html</loc>
-    <lastmod>2026-08-20T14:56:34.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-breaking-bitcoin-surges-above-72000-for-the-first-time-since-june-1st-as-levered.html</loc>
-    <lastmod>2026-08-20T12:22:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
