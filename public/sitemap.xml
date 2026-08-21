@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-21T07:53:48.310Z</lastmod>
+    <lastmod>2026-08-21T08:54:15.281Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-21T07:53:48.310Z</lastmod>
+    <lastmod>2026-08-21T08:54:15.281Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-live-updates-btc-tops-76000-bitcoin-ether-etfs-pull-in-800-million.html</loc>
+    <loc>https://www.librchain.com/news/20260821-strategy-sits-on-14-billion-profit-on-bitcoin-holdings-as-price-surges.html</loc>
+    <lastmod>2026-08-21T08:24:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-bitcoin-etfs-draw-608m-as-ether-etfs-see-largest-inflow-since-october.html</loc>
+    <lastmod>2026-08-21T07:50:01.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-live-updates-bitcoin-tops-77000-btc-eth-record-800-million-inflows.html</loc>
     <lastmod>2026-08-21T06:43:24.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
@@ -223,6 +235,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260820-for-those-that-feel-the-need-to-dunk-once-again-i-will-remind-you-that-i-stated-.html</loc>
+    <lastmod>2026-08-20T15:35:41.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260820-bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern.html</loc>
     <lastmod>2026-08-20T15:16:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -279,12 +297,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-optimism-funded-teams-deciding-vote-shifts-49-million-in-op-tokens-away-from-use.html</loc>
     <lastmod>2026-08-20T12:00:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-there-was-a-reason-to-have-expected-a-downside-move-in-bitcoin-an-inverted-hs-wi.html</loc>
-    <lastmod>2026-08-20T11:51:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -385,12 +397,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-bitgo-korea-secures-vasp-registration-for-institutional-crypto-custody.html</loc>
-    <lastmod>2026-08-20T07:48:40.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-live-updates-bitcoin-extends-gains-as-bessent-suggests-more-treasury-interventio.html</loc>
     <lastmod>2026-08-20T06:21:17.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -399,12 +405,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html</loc>
     <lastmod>2026-08-20T06:01:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-trader-who-made-49-million-shorting-crypto-lost-24-million-on-ether-in-12-second.html</loc>
-    <lastmod>2026-08-20T05:40:54.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,6 +451,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260819-breaking-bitcoin-extends-gains-to-rise-above-70000-for-the-first-time-since-june.html</loc>
+    <lastmod>2026-08-19T21:22:31.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260819-trump-calls-on-congress-to-pass-fair-version-of-clarity-act-at-white-house-crypt.html</loc>
     <lastmod>2026-08-19T19:56:45.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen.html</loc>
     <lastmod>2026-08-19T18:20:35.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260819-what-if-bitcoin-hasnt-had-a-real-bull-run-since-2021-it-made-new-usd-highs-in-20.html</loc>
-    <lastmod>2026-08-19T18:10:02.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
