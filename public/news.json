@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-08-21T10:43:39.341Z",
+  "updatedAt": "2026-08-21T11:37:02.409Z",
   "total": 83,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
+      "summary": "Market watchers say sudden sharp price spikes and forced short liquidations are the classic signs of a bottom, though macro risks still remain.",
+      "url": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
+      "publishedAt": "2026-08-21T11:31:30.000Z",
+      "keywords": [
+        "Markets",
+        "Bitcoin News",
+        "Markets",
+        "News"
+      ],
+      "category": "市场",
+      "slug": "20260821-analysts-split-on-whether-bitcoins-surge-past-key-levels-signals-a-new-bull-run",
+      "localUrl": "/news/20260821-analysts-split-on-whether-bitcoins-surge-past-key-levels-signals-a-new-bull-run.html"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
+      "summary": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decisions.",
+      "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
+      "publishedAt": "2026-08-21T11:31:04.000Z",
+      "keywords": [
+        "Law and Order"
+      ],
+      "category": "监管",
+      "slug": "20260821-most-americans-say-trumps-crypto-profits-cross-the-line-poll",
+      "localUrl": "/news/20260821-most-americans-say-trumps-crypto-profits-cross-the-line-poll.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
+      "summary": "After years of stalled bills, misguided enforcement, and catastrophic collapses, almost any comprehensive crypto legislation began to look like progress. But Clarity is turning that hunger for progress into a political trap, argues Berkele…",
+      "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+      "publishedAt": "2026-08-21T11:30:00.000Z",
+      "keywords": [
+        "Opinion",
+        "Opinion"
+      ],
+      "category": "综合",
+      "slug": "20260821-the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+      "localUrl": "/news/20260821-the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
+      "summary": "Your day-ahead look for Aug. 21, 2026",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/21/bitcoin-faces-usd80-000-test-as-thinner-weekend-liquidity-looms",
+      "publishedAt": "2026-08-21T11:26:27.000Z",
+      "keywords": [
+        "Crypto Daybook Americas",
+        "Crypto Daybook Americas",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260821-bitcoin-faces-80000-test-as-thinner-weekend-liquidity-looms",
+      "localUrl": "/news/20260821-bitcoin-faces-80000-test-as-thinner-weekend-liquidity-looms.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
@@ -47,6 +105,17 @@
       "localUrl": "/news/20260821-coldcard-strengthens-seed-generation-with-firmware-update.html"
     },
     {
+      "source": "X Wire",
+      "title": "August 3rd: Jim Cramer said \"I am going to sell my Bitcoin.\" August 21st: Bitcoin is up 26% since, surpassing $79,000. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VcHFYdWdPZGUyUEdsbzROSDAzWEQ2RTdqN0wyMGJhejVmbVhHWlRYbF9RRXgzeF8xU0w1blpvbndDdTc5UjN1WnlpLXFXM25zYUdJRjRtVHA5dVJ6M0VrOUNR?oc=5\" target=\"_blank\">August 3rd: Jim Cramer said \"I am …",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VcHFYdWdPZGUyUEdsbzROSDAzWEQ2RTdqN0wyMGJhejVmbVhHWlRYbF9RRXgzeF8xU0w1blpvbndDdTc5UjN1WnlpLXFXM25zYUdJRjRtVHA5dVJ6M0VrOUNR?oc=5",
+      "publishedAt": "2026-08-21T10:01:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-august-3rd-jim-cramer-said-i-am-going-to-sell-my-bitcoin-august-21st-bitcoin-is-",
+      "localUrl": "/news/20260821-august-3rd-jim-cramer-said-i-am-going-to-sell-my-bitcoin-august-21st-bitcoin-is-.html"
+    },
+    {
       "source": "Decrypt",
       "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
       "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds—and leave much of the oversight to users themselves.",
@@ -86,6 +155,17 @@
       "localUrl": "/news/20260821-treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why.html"
     },
     {
+      "source": "X Wire",
+      "title": "There we go. #Bitcoin has hit this level of liquidity and is absolutely blasting. This is the type of move that you'd want to see to end the bear market. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVktLSWdGb2lqWmtuSnFIbFRHanQxdkdZUGtJZTItRnlkQVotaEh0d0NqMm9hbUM5WVpzSHg3ck8xNXpOTDhoRHJGZGVpZExpZ0pvWlE1QmpHNkl6OC1VNkxSYw?oc=5\" target=\"_blank\">There we go. #Bitcoin has hit th…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVktLSWdGb2lqWmtuSnFIbFRHanQxdkdZUGtJZTItRnlkQVotaEh0d0NqMm9hbUM5WVpzSHg3ck8xNXpOTDhoRHJGZGVpZExpZ0pvWlE1QmpHNkl6OC1VNkxSYw?oc=5",
+      "publishedAt": "2026-08-21T08:51:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-there-we-go-bitcoin-has-hit-this-level-of-liquidity-and-is-absolutely-blasting-t",
+      "localUrl": "/news/20260821-there-we-go-bitcoin-has-hit-this-level-of-liquidity-and-is-absolutely-blasting-t.html"
+    },
+    {
       "source": "Cointelegraph",
       "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
       "summary": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.",
@@ -97,6 +177,17 @@
       "category": "RWA",
       "slug": "20260821-strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k",
       "localUrl": "/news/20260821-strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Absolutely HISTORIC. Bitcoin is moving 140 times FASTER than the stock market! $BTC has surged over 20% in less than five days, rising from roughly $63K to above $77K. By comparison, the S&P 500 has historically returned around 10% per year. BTC just - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QNEQ3YjhRQ0NuaGhKQThrcElSaXhJeVBMcHNQMWViWG56NTJNajlmbEpacWt3Z0EwX2NueC1uRE1SRzNVMnFVcUxBOUpxMjdWR3FwU3NrZ2ZmM3dxc1VURg?oc=5\" target=\"_blank\">Absolutely HISTORIC. Bitcoin is movi…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QNEQ3YjhRQ0NuaGhKQThrcElSaXhJeVBMcHNQMWViWG56NTJNajlmbEpacWt3Z0EwX2NueC1uRE1SRzNVMnFVcUxBOUpxMjdWR3FwU3NrZ2ZmM3dxc1VURg?oc=5",
+      "publishedAt": "2026-08-21T08:42:18.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260821-absolutely-historic-bitcoin-is-moving-140-times-faster-than-the-stock-market-btc",
+      "localUrl": "/news/20260821-absolutely-historic-bitcoin-is-moving-140-times-faster-than-the-stock-market-btc.html"
     },
     {
       "source": "CoinDesk",
@@ -694,6 +785,17 @@
     },
     {
       "source": "X Wire",
+      "title": "For the first time since the October 2025 ATH, Bitcoin demand has turned positive in both spot and perpetual futures. The scale remains modest, but if this holds for another month, it would be reasonable to conclude that the bear market is over and a new bull c - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5\" target=\"_blank\">For the first time since the Octob…",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1memdldHVmZXJPblU4NzlIS3NvOE8xaWdPcmc0TXZuODN2VUFzUTF5R3BjdVZ2b19tTzNwaHJ6bDhOc3FaWnJTellLemdvTVFBbHptV0JzYVVjMjMzbmNPSTFn?oc=5",
+      "publishedAt": "2026-08-20T12:33:06.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive",
+      "localUrl": "/news/20260820-for-the-first-time-since-the-october-2025-ath-bitcoin-demand-has-turned-positive.html"
+    },
+    {
+      "source": "X Wire",
       "title": "BREAKING: Bitcoin surges above $72,000 for the first time since June 1st as levered liquidations hit $3.4 billion in 24 hours. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges abo…",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HWE8wcFBxVFh1OHhMM3ZhRmVrV2NXNGZLRWNYd3B6XzZ0UTRzSjRDZ1MxZUtzTXN5c296ZmtXbGdreW5hV3MteVVORVA4NmtiQWtaZHZHNVlRVkMzUGZOSVZ5ZjVqQQ?oc=5",
@@ -798,52 +900,6 @@
       "localUrl": "/news/20260820-crypto-generated-about-1-of-webulls-record-198m-q2-revenue.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
-      "summary": "Erald Ghoos, OKX Europe CEO, says U.S. crypto rules could blow new life into the market amid a rotation of capital from AI back to bitcoin.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
-      "publishedAt": "2026-08-20T10:47:35.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "OKX",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260820-bitcoin-rally-sparks-debate-whether-clarity-act-is-already-priced-in",
-      "localUrl": "/news/20260820-bitcoin-rally-sparks-debate-whether-clarity-act-is-already-priced-in.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
-      "summary": "Six weeks of compression ended in the largest short liquidation since at least 2021, with $3 billion of bearish bets forced to buy back into thin supply.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
-      "publishedAt": "2026-08-20T10:46:21.000Z",
-      "keywords": [
-        "Markets",
-        "Crypto Markets Today",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260820-bitcoin-breaks-out-of-six-week-range-tops-71000-as-3-billion-in-shorts-get-wiped",
-      "localUrl": "/news/20260820-bitcoin-breaks-out-of-six-week-range-tops-71000-as-3-billion-in-shorts-get-wiped.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
-      "summary": "Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers.",
-      "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-      "publishedAt": "2026-08-20T09:40:25.000Z",
-      "keywords": [
-        "Finance",
-        "Stablecoins",
-        "News"
-      ],
-      "category": "综合",
-      "slug": "20260820-elon-musks-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
-      "localUrl": "/news/20260820-elon-musks-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
       "summary": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
@@ -877,28 +933,6 @@
       "category": "X热点",
       "slug": "20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b",
       "localUrl": "/news/20260820-update-ethereums-exchange-supply-has-fallen-roughly-15-over-eleven-weeks-while-b.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🗞️ Need to catch up on the news? Here's our top 10 from today: 🔸 Hyperliquid and Ethereum are outpacing every other major crypto asset in today's rally, per Glassnode. 🔹 The US national debt has surpassed $40 TRILLION. 🔸 Trump says the US has discus - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bUJFcEF0SlM1T09rckxtdlYxdGs0WVNyQzJVSHQzQXNYRmNzMk9WUm1GaVJ0Vy1OYkltZk4zSE1CeWRPUEhVQ0FXZEp2OUFGV1pZVGNvcWNtcTk4UWhERlB0VHI?oc=5\" target=\"_blank\">🗞️ Need to catch up on the new…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54bUJFcEF0SlM1T09rckxtdlYxdGs0WVNyQzJVSHQzQXNYRmNzMk9WUm1GaVJ0Vy1OYkltZk4zSE1CeWRPUEhVQ0FXZEp2OUFGV1pZVGNvcWNtcTk4UWhERlB0VHI?oc=5",
-      "publishedAt": "2026-08-20T03:00:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu",
-      "localUrl": "/news/20260820-need-to-catch-up-on-the-news-heres-our-top-10-from-today-hyperliquid-and-ethereu.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstro - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5\" target=\"_blank\">🚨SCOOP: A small group of cr…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLRkJSaGtKWV9BR0xlWjFYWG1VaTVBWGZGbGFZSG5pbEJ0cDJiSEJ4ZmpfWTJZUnZuMlY4OW1NSnY1NVBVbGoya2ZkMVdxYlFHbVBHYWNLUnM1YVAwMTFuUHFvRG1IZw?oc=5",
-      "publishedAt": "2026-08-20T00:34:40.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni",
-      "localUrl": "/news/20260820-scoop-a-small-group-of-crypto-executives-met-with-commerce-secretary-howardlutni.html"
     },
     {
       "source": "X Wire",
@@ -1012,30 +1046,6 @@
       "localUrl": "/news/20260819-kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures.html"
     },
     {
-      "source": "Decrypt",
-      "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-      "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
-      "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-      "publishedAt": "2026-08-19T18:20:35.000Z",
-      "keywords": [
-        "Coins"
-      ],
-      "category": "监管",
-      "slug": "20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen",
-      "localUrl": "/news/20260819-six-bug-exploit-halts-maya-protocol-after-14-million-in-bitcoin-stolen.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "The SEC just proposed new crypto regulation. Since the ICO boom of 2017, token-based fundraising in the US has lacked regulations. \"Reg Crypto\" would change that. Grayscale Research believes this could bring more token offerings onchain, driving value t - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5\" target=\"_blank\">The SEC just proposed new crypto regul…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BOWY5NUx5LVEyRVVKdEJlcm83c0ZMRnVFUkVKejJCVUJqSlN5OTdFNHlzNzcxZFhmRFM1LVF4dkt5aXk2dEI4U0N1RXhIU0o3V0J4RjRxRDZuZDN2d2tR?oc=5",
-      "publishedAt": "2026-08-19T18:09:30.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas",
-      "localUrl": "/news/20260819-the-sec-just-proposed-new-crypto-regulation-since-the-ico-boom-of-2017-token-bas.html"
-    },
-    {
       "source": "X Wire",
       "title": "BREAKING: Bitcoin surges over +7% to its highest level since June 2nd as $1.2 billion worth of shorts are liquidated in 60 minutes. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cGNxLThUSGZWaWhKWExheGhuNmItbDR0ZmNCa2RaVDF2YjRKQVJqQVhnV0hHUGpGTTNTdnA1dzhOQnZMY0g4Zk10bnhpdHNZUFlVZXZXQ0Jzd2QzRVluVzZlekhKUQ?oc=5\" target=\"_blank\">BREAKING: Bitcoin surges ove…",
@@ -1045,17 +1055,6 @@
       "category": "X热点",
       "slug": "20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion",
       "localUrl": "/news/20260819-breaking-bitcoin-surges-over-7-to-its-highest-level-since-june-2nd-as-12-billion.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "Nethermind, the development firm behind the largest @ethereum client, is deprecating its legacy cross-chain infra and migrating to Chainlink. Following an extensive review, @Nethermind is joining the Chainlink Network as a node operator to secure CCIP an - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5\" target=\"_blank\">Nethermind, the development firm behin…",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03bWNwMGRUb0dOeXZHQU91ZjU4aE81blBVVnozNkJ3RlJqNnl2V05JTkdINUdjem1VaVJhczdQS2h6d2x5M3JNeW54WHFhVlFfT09BNnZ0UzJsMkNXdFRv?oc=5",
-      "publishedAt": "2026-08-19T16:04:16.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin",
-      "localUrl": "/news/20260819-nethermind-the-development-firm-behind-the-largest-ethereum-client-is-deprecatin.html"
     },
     {
       "source": "Solana Blog",
