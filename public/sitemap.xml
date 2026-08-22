@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T05:38:19.964Z</lastmod>
+    <lastmod>2026-08-22T06:56:30.005Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T05:38:19.964Z</lastmod>
+    <lastmod>2026-08-22T06:56:30.005Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260822-zcash-jumps-48-to-over-800-as-grayscale-spot-etf-push-adds-to-next-bitcoin-buzz.html</loc>
-    <lastmod>2026-08-22T05:29:42.000Z</lastmod>
+    <lastmod>2026-08-22T05:37:43.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -45,6 +45,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-just-in-ethereum-eth-officially-surpasses-2500-xcom.html</loc>
     <lastmod>2026-08-21T21:58:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to.html</loc>
+    <lastmod>2026-08-21T21:51:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -333,12 +339,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k.html</loc>
     <lastmod>2026-08-21T08:48:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-absolutely-historic-bitcoin-is-moving-140-times-faster-than-the-stock-market-btc.html</loc>
-    <lastmod>2026-08-21T08:42:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
