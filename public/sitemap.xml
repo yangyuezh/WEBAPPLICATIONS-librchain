@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T12:57:29.612Z</lastmod>
+    <lastmod>2026-08-22T13:40:48.992Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T12:57:29.612Z</lastmod>
+    <lastmod>2026-08-22T13:40:48.992Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-a-third-of-the-post-chatgpt-web-is-ai-written-pew-finds.html</loc>
+    <lastmod>2026-08-22T13:31:03.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-batt.html</loc>
+    <lastmod>2026-08-22T13:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult.html</loc>
+    <lastmod>2026-08-22T13:30:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-the-crypto-market-situation-is-strange-between-may-1st-and-august-19th-for-110-s.html</loc>
+    <lastmod>2026-08-22T13:06:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260822-bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musks-x-wants-t.html</loc>
@@ -57,12 +81,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260822-beware-this-unrecalled-vegetable-may-cause-cyclospora-xcom.html</loc>
     <lastmod>2026-08-22T02:15:07.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260822-rekt-over-5b-in-leveraged-crypto-positions-were-liquidated-in-the-past-72-hours-.html</loc>
-    <lastmod>2026-08-22T02:00:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -421,12 +439,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge.html</loc>
-    <lastmod>2026-08-21T01:51:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc.html</loc>
     <lastmod>2026-08-20T22:32:11.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -435,12 +447,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoin-breaks-above-200-day-moving-average-for-first-time-since-november.html</loc>
     <lastmod>2026-08-20T21:03:21.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-cftc-chair-says-agency-will-move-forward-on-crypto-regulation-if-clarity-fails.html</loc>
-    <lastmod>2026-08-20T20:56:23.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -483,12 +489,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure.html</loc>
     <lastmod>2026-08-20T16:33:38.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated.html</loc>
-    <lastmod>2026-08-20T16:04:04.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
