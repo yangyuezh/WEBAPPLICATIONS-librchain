@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T11:31:58.746Z</lastmod>
+    <lastmod>2026-08-22T12:57:29.612Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T11:31:58.746Z</lastmod>
+    <lastmod>2026-08-22T12:57:29.612Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musks-x-wants-t.html</loc>
+    <lastmod>2026-08-22T12:00:00.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260822-just-in-550000000-worth-of-longs-liquidated-from-the-crypto-market-in-the-past-6.html</loc>
@@ -21,6 +27,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260822-breaking-477m-in-crypto-longs-wiped-in-the-past-hour-as-btc-retraces-to-77000-bi.html</loc>
     <lastmod>2026-08-22T05:46:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-crypto-volatility-is-extreme-right-now-in-a-matter-of-just-a-few-minutes-btc-dro.html</loc>
+    <lastmod>2026-08-22T05:45:29.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -319,12 +331,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-crypto-stocks-surge-as-bitcoin-rally-accelerates-crypto-linked-us-stocks-climbed.html</loc>
-    <lastmod>2026-08-21T09:51:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260821-binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you.html</loc>
     <lastmod>2026-08-21T09:31:05.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -447,12 +453,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-bitcoin-is-pumping-but-prediction-market-traders-arent-convinced.html</loc>
     <lastmod>2026-08-20T19:16:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f.html</loc>
-    <lastmod>2026-08-20T18:54:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
