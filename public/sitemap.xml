@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T06:56:30.005Z</lastmod>
+    <lastmod>2026-08-22T07:41:42.687Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T06:56:30.005Z</lastmod>
+    <lastmod>2026-08-22T07:41:42.687Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-breaking-477m-in-crypto-longs-wiped-in-the-past-hour-as-btc-retraces-to-77000-bi.html</loc>
+    <lastmod>2026-08-22T05:46:15.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/news/20260822-zcash-jumps-48-to-over-800-as-grayscale-spot-etf-push-adds-to-next-bitcoin-buzz.html</loc>
@@ -49,12 +55,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to.html</loc>
-    <lastmod>2026-08-21T21:51:52.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260821-washingtons-crypto-policy-blitz-trump-pushes-the-clarity-act-as-regulators-press.html</loc>
     <lastmod>2026-08-21T21:42:06.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -75,12 +75,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc.html</loc>
     <lastmod>2026-08-21T20:26:16.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-just-in-38-billion-pantera-capital-tells-cnbc-the-bitcoin-price-is-starting-to-r.html</loc>
-    <lastmod>2026-08-21T20:22:50.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -339,6 +333,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k.html</loc>
     <lastmod>2026-08-21T08:48:52.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-absolutely-historic-bitcoin-is-moving-140-times-faster-than-the-stock-market-btc.html</loc>
+    <lastmod>2026-08-21T08:42:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
