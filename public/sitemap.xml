@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T07:41:42.687Z</lastmod>
+    <lastmod>2026-08-22T08:44:09.768Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T07:41:42.687Z</lastmod>
+    <lastmod>2026-08-22T08:44:09.768Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,6 +51,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-just-in-ethereum-eth-officially-surpasses-2500-xcom.html</loc>
     <lastmod>2026-08-21T21:58:25.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to.html</loc>
+    <lastmod>2026-08-21T21:51:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -313,6 +319,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260821-question-does-bitcoin-break-80k-today-or-is-the-rally-running-out-of-steam-comme.html</loc>
+    <lastmod>2026-08-21T09:22:46.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260821-breaking-bitcoin-surges-above-79000-now-up-30-in-4-days-crypto-markets-have-now-.html</loc>
     <lastmod>2026-08-21T09:19:12.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -321,12 +333,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why.html</loc>
     <lastmod>2026-08-21T09:17:15.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-a-gtaforums-user-has-traced-the-crypto-wallets-linked-to-gta-vi-leaker-cyberleek.html</loc>
-    <lastmod>2026-08-21T09:00:03.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -405,12 +411,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge.html</loc>
     <lastmod>2026-08-21T01:51:56.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-breaking-bitcoin-surges-above-74000-and-hits-its-highest-level-since-may-27th-bi.html</loc>
-    <lastmod>2026-08-21T01:27:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
