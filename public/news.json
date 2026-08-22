@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-22T04:45:26.241Z",
+  "updatedAt": "2026-08-22T05:38:19.923Z",
   "total": 82,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
+      "summary": "ZEC traded above its January 2018 peak as futures volume hit billions of dollars and a Grayscale filing showed fresh progress toward converting its Zcash Trust into a spot ETF.",
+      "url": "https://www.coindesk.com/markets/2026/08/22/zcash-tops-usd800-for-first-time-since-2016",
+      "publishedAt": "2026-08-22T05:29:42.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "监管",
+      "slug": "20260822-zcash-jumps-48-to-over-800-as-grayscale-spot-etf-push-adds-to-next-bitcoin-buzz",
+      "localUrl": "/news/20260822-zcash-jumps-48-to-over-800-as-grayscale-spot-etf-push-adds-to-next-bitcoin-buzz.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
+      "summary": "Treasury buybacks are not QE, analysts said, but the move helped pull long-term yields off 19-year highs and triggered a record short squeeze in a market already leaning too bearish.",
+      "url": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
+      "publishedAt": "2026-08-22T05:05:13.000Z",
+      "keywords": [
+        "Markets",
+        "News"
+      ],
+      "category": "DeFi",
+      "slug": "20260822-how-a-treasury-buyback-tweak-helped-bitcoin-surge-25-to-nearly-80000-in-days",
+      "localUrl": "/news/20260822-how-a-treasury-buyback-tweak-helped-bitcoin-surge-25-to-nearly-80000-in-days.html"
+    },
     {
       "source": "X Wire",
       "title": "Beware!! This unrecalled vegetable may cause cyclospora. - x.com",
@@ -12,6 +40,17 @@
       "category": "X热点",
       "slug": "20260822-beware-this-unrecalled-vegetable-may-cause-cyclospora-xcom",
       "localUrl": "/news/20260822-beware-this-unrecalled-vegetable-may-cause-cyclospora-xcom.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "🚨 REKT: Over $5B in leveraged crypto positions were liquidated in the past 72 hours. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lZ3FHZnFGMm5ZTDEwRXVMNWdSQTA4VmRJMC02VG43THdFa00zRF9RenowNExHSkxaY2JSejFsaUlvVlEtLXlFV1RIOEJpMmVWWEFVa3UxVWlIcXU0aURlSjkyRHY?oc=5\" target=\"_blank\">🚨 REKT: Over $5B in leveraged …",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lZ3FHZnFGMm5ZTDEwRXVMNWdSQTA4VmRJMC02VG43THdFa00zRF9RenowNExHSkxaY2JSejFsaUlvVlEtLXlFV1RIOEJpMmVWWEFVa3UxVWlIcXU0aURlSjkyRHY?oc=5",
+      "publishedAt": "2026-08-22T02:00:09.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260822-rekt-over-5b-in-leveraged-crypto-positions-were-liquidated-in-the-past-72-hours-",
+      "localUrl": "/news/20260822-rekt-over-5b-in-leveraged-crypto-positions-were-liquidated-in-the-past-72-hours-.html"
     },
     {
       "source": "CoinDesk",
@@ -38,17 +77,6 @@
       "category": "X热点",
       "slug": "20260821-just-in-ethereum-eth-officially-surpasses-2500-xcom",
       "localUrl": "/news/20260821-just-in-ethereum-eth-officially-surpasses-2500-xcom.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🔥 LATEST: Jim Cramer says investors should “just go buy Bitcoin.” Bullish signal or top signal? 👀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CZFdvcmU5VmFKTmNVU2ZZSVhEUFBEY25yT3hPUk5pb09GZVhJV2M3U09GZnc4dUJmR3VRV3JPVE9IME5uaU1MMTFsMTVZN0FQdkFKaWZ0UGp4TUg3RE9WVldkcEI?oc=5\" target=\"_blank\">🔥 LATEST: Jim Cramer says inve…",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CZFdvcmU5VmFKTmNVU2ZZSVhEUFBEY25yT3hPUk5pb09GZVhJV2M3U09GZnc4dUJmR3VRV3JPVE9IME5uaU1MMTFsMTVZN0FQdkFKaWZ0UGp4TUg3RE9WVldkcEI?oc=5",
-      "publishedAt": "2026-08-21T21:51:52.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to",
-      "localUrl": "/news/20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to.html"
     },
     {
       "source": "X Wire",
@@ -1000,21 +1028,6 @@
       "localUrl": "/news/20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Treasury buybacks could set up bitcoin’s next move toward $180,000, says strategist",
-      "summary": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
-      "publishedAt": "2026-08-20T16:17:32.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260820-treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist",
-      "localUrl": "/news/20260820-treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist.html"
-    },
-    {
       "source": "Decrypt",
       "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
       "summary": "Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since November.",
@@ -1026,21 +1039,6 @@
       "category": "市场",
       "slug": "20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated",
       "localUrl": "/news/20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated.html"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "summary": "Bitcoin’s improving momentum could produce a golden cross, but the rally still faces an important test.",
-      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
-      "publishedAt": "2026-08-20T15:16:12.000Z",
-      "keywords": [
-        "Markets",
-        "Bitcoin News",
-        "News"
-      ],
-      "category": "市场",
-      "slug": "20260820-bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern",
-      "localUrl": "/news/20260820-bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern.html"
     },
     {
       "source": "Ethereum Blog",

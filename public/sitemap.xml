@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T04:45:26.282Z</lastmod>
+    <lastmod>2026-08-22T05:38:19.964Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T04:45:26.282Z</lastmod>
+    <lastmod>2026-08-22T05:38:19.964Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.librchain.com/news/20260822-zcash-jumps-48-to-over-800-as-grayscale-spot-etf-push-adds-to-next-bitcoin-buzz.html</loc>
+    <lastmod>2026-08-22T05:29:42.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-how-a-treasury-buyback-tweak-helped-bitcoin-surge-25-to-nearly-80000-in-days.html</loc>
+    <lastmod>2026-08-22T05:05:13.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.librchain.com/news/20260822-beware-this-unrecalled-vegetable-may-cause-cyclospora-xcom.html</loc>
     <lastmod>2026-08-22T02:15:07.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260822-rekt-over-5b-in-leveraged-crypto-positions-were-liquidated-in-the-past-72-hours-.html</loc>
+    <lastmod>2026-08-22T02:00:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -27,12 +45,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-just-in-ethereum-eth-officially-surpasses-2500-xcom.html</loc>
     <lastmod>2026-08-21T21:58:25.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to.html</loc>
-    <lastmod>2026-08-21T21:51:52.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -475,20 +487,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.librchain.com/news/20260820-treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist.html</loc>
-    <lastmod>2026-08-20T16:17:32.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://www.librchain.com/news/20260820-bitcoin-hits-highest-price-since-june-as-3-billion-in-shorts-liquidated.html</loc>
     <lastmod>2026-08-20T16:04:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern.html</loc>
-    <lastmod>2026-08-20T15:16:12.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
