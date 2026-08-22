@@ -1,7 +1,35 @@
 {
-  "updatedAt": "2026-08-22T14:35:09.019Z",
+  "updatedAt": "2026-08-22T15:32:44.175Z",
   "total": 82,
   "items": [
+    {
+      "source": "Decrypt",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "publishedAt": "2026-08-22T15:31:04.000Z",
+      "keywords": [
+        "Coins"
+      ],
+      "category": "监管",
+      "slug": "20260822-ai-has-made-bitcoin-software-a-targetthis-group-is-fighting-back",
+      "localUrl": "/news/20260822-ai-has-made-bitcoin-software-a-targetthis-group-is-fighting-back.html"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "summary": "The exchange has hired White & Case as restructuring counsel, with a detailed roadmap expected by Sept. 9.",
+      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
+      "publishedAt": "2026-08-22T15:16:41.000Z",
+      "keywords": [
+        "Finance",
+        "Crypto News",
+        "News"
+      ],
+      "category": "综合",
+      "slug": "20260822-crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-",
+      "localUrl": "/news/20260822-crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-.html"
+    },
     {
       "source": "CoinDesk",
       "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
@@ -17,6 +45,17 @@
       "category": "安全",
       "slug": "20260822-web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
       "localUrl": "/news/20260822-web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit.html"
+    },
+    {
+      "source": "X Wire",
+      "title": "Bitcoin is back in every timeline, but it is still sitting idle in cold storage. Hashi makes native $BTC programmable collateral on Sui, while the Bitcoin stays on its own chain. 2M+ deposits on testnet. Mainnet next. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8waHpRbXB3Nlh1TDNhREhvTmpCVlhyU0lUQUdSSWxKVVVZZU90SVFlRktUVzY2ODIyRDNsbUFwQWlTNjZlREhyMzh4RGtpSVBEeURXQm5uOVdEUjBpVmdoOQ?oc=5\" target=\"_blank\">Bitcoin is back in every timeline, b…",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8waHpRbXB3Nlh1TDNhREhvTmpCVlhyU0lUQUdSSWxKVVVZZU90SVFlRktUVzY2ODIyRDNsbUFwQWlTNjZlREhyMzh4RGtpSVBEeURXQm5uOVdEUjBpVmdoOQ?oc=5",
+      "publishedAt": "2026-08-22T14:04:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260822-bitcoin-is-back-in-every-timeline-but-it-is-still-sitting-idle-in-cold-storage-h",
+      "localUrl": "/news/20260822-bitcoin-is-back-in-every-timeline-but-it-is-still-sitting-idle-in-cold-storage-h.html"
     },
     {
       "source": "CoinDesk",
@@ -107,6 +146,17 @@
     },
     {
       "source": "X Wire",
+      "title": "🔥Inverse Cramer STRIKES again! Jim Cramer says: “Just go buy Bitcoin.” Pure chaos follows over the next 6 minutes: - Bitcoin drops $2,000 - $108 BILLION wiped from the crypto market - $600M in longs liquidated - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aOU5fN2RmbDhfQ05TTUdmanBvdHVlUDlFVlc4cDdtT3hsODZSRUlMSjA5VmZUWE91bU0waC10UG9VZHFwZGRQR2ZHNkV1ajZwVHpZeWxsclNLWTh4bHhrQQ?oc=5\" target=\"_blank\">🔥Inverse Cramer STRIKES again! Jim …",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aOU5fN2RmbDhfQ05TTUdmanBvdHVlUDlFVlc4cDdtT3hsODZSRUlMSjA5VmZUWE91bU0waC10UG9VZHFwZGRQR2ZHNkV1ajZwVHpZeWxsclNLWTh4bHhrQQ?oc=5",
+      "publishedAt": "2026-08-22T09:03:45.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260822-inverse-cramer-strikes-again-jim-cramer-says-just-go-buy-bitcoin-pure-chaos-foll",
+      "localUrl": "/news/20260822-inverse-cramer-strikes-again-jim-cramer-says-just-go-buy-bitcoin-pure-chaos-foll.html"
+    },
+    {
+      "source": "X Wire",
       "title": "JUST IN: $550,000,000 worth of longs liquidated from the crypto market in the past 60 minutes. - x.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QaXdmZ1FrNG1xU1BVS1lqV2RRRHEwZlptRlgtM0w4MmhKdWdIZW5aNTdhMUVKWURQOXBDcFRyVE9Ha1Jwd1E1Q2ZtLW1Del9rUC10TlVlSUJWenlITHRRVlV3?oc=5\" target=\"_blank\">JUST IN: $550,000,000 worth of lon…",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QaXdmZ1FrNG1xU1BVS1lqV2RRRHEwZlptRlgtM0w4MmhKdWdIZW5aNTdhMUVKWURQOXBDcFRyVE9Ha1Jwd1E1Q2ZtLW1Del9rUC10TlVlSUJWenlITHRRVlV3?oc=5",
@@ -189,6 +239,17 @@
       "localUrl": "/news/20260822-beware-this-unrecalled-vegetable-may-cause-cyclospora-xcom.html"
     },
     {
+      "source": "X Wire",
+      "title": "CZ on Trump's Push to Bring Hyperliquid to the U.S.: A Win for the Entire Crypto Industry Binance founder Changpeng Zhao (CZ) @cz_binance said at the Wyoming Blockchain Symposium 2026 on August 19 that President Trump had mentioned CFTC Chairm - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LWVBvX0Myd2FjNUtWSHpwcndnNTBHN213LUdQOVdNamVZMHBCMy0wbU51eVJ0VVFPTTE3Uzg5ZWY4dWY5MkJob09HQkhqcG9ILUdYX2tmMXNfV2MyUUJpWjZ2UQ?oc=5\" target=\"_blank\">CZ on Trump's Push to Bring Hype…",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LWVBvX0Myd2FjNUtWSHpwcndnNTBHN213LUdQOVdNamVZMHBCMy0wbU51eVJ0VVFPTTE3Uzg5ZWY4dWY5MkJob09HQkhqcG9ILUdYX2tmMXNfV2MyUUJpWjZ2UQ?oc=5",
+      "publishedAt": "2026-08-22T00:00:00.000Z",
+      "keywords": [],
+      "category": "X热点",
+      "slug": "20260822-cz-on-trumps-push-to-bring-hyperliquid-to-the-us-a-win-for-the-entire-crypto-ind",
+      "localUrl": "/news/20260822-cz-on-trumps-push-to-bring-hyperliquid-to-the-us-a-win-for-the-entire-crypto-ind.html"
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto advocates join in suing Illinois over digital asset tax",
       "summary": "The Crypto Council for Innovation and the Blockchain Association added another lawsuit against the state for its recently approved 0.2% crypto tax.",
@@ -224,17 +285,6 @@
       "category": "X热点",
       "slug": "20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to",
       "localUrl": "/news/20260821-latest-jim-cramer-says-investors-should-just-go-buy-bitcoin-bullish-signal-or-to.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "🚨🗞️ Washington’s Crypto Policy Blitz: Trump Pushes the Clarity Act as Regulators Press Ahead With Rulemaking D.C.’s usual August lull gave way to a flurry of crypto policy activity this week. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZTAxb3VsR1hPREJqMmk5TGZ4Y1hRQkhVNXVVQlNTcmR4NmVNMElhVXotUEcyLWJnV21Wd0c4SS1SeFY4ckliWk41VF9OTE1pMGFWU0tMZll4eldKMWlOWXBZWUVqZw?oc=5\" target=\"_blank\">🚨🗞️ Washington’s Crypto Po…",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZTAxb3VsR1hPREJqMmk5TGZ4Y1hRQkhVNXVVQlNTcmR4NmVNMElhVXotUEcyLWJnV21Wd0c4SS1SeFY4ckliWk41VF9OTE1pMGFWU0tMZll4eldKMWlOWXBZWUVqZw?oc=5",
-      "publishedAt": "2026-08-21T21:42:06.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-washingtons-crypto-policy-blitz-trump-pushes-the-clarity-act-as-regulators-press",
-      "localUrl": "/news/20260821-washingtons-crypto-policy-blitz-trump-pushes-the-clarity-act-as-regulators-press.html"
     },
     {
       "source": "Decrypt",
@@ -457,17 +507,6 @@
       "localUrl": "/news/20260821-ethenas-ena-token-surges-48-but-altcoin-season-will-have-to-wait.html"
     },
     {
-      "source": "X Wire",
-      "title": "#Bitcoin is literally making a copy/paste of the 2022 breakout. Massive weekly candle after a period of consolidation and a sweep of the lows. What's next? I think we'll continue for a bit in order to: - Sweep the high at $83,000 confirming the bear market is over. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCa0FOa2ZRdEEtVld1MlY5LWlIWnlBV3U2NVE3b3RBNWY5YlV1bUxVeGhRODB2NzlWcEkyaDVJSjFhSjA2a09yMUZtNzVZbGZoLU94c1M2dFBSOENsZjhtM0Rycw?oc=5\" target=\"_blank\">#Bitcoin is literally making a c…",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCa0FOa2ZRdEEtVld1MlY5LWlIWnlBV3U2NVE3b3RBNWY5YlV1bUxVeGhRODB2NzlWcEkyaDVJSjFhSjA2a09yMUZtNzVZbGZoLU94c1M2dFBSOENsZjhtM0Rycw?oc=5",
-      "publishedAt": "2026-08-21T16:06:00.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-bitcoin-is-literally-making-a-copypaste-of-the-2022-breakout-massive-weekly-cand",
-      "localUrl": "/news/20260821-bitcoin-is-literally-making-a-copypaste-of-the-2022-breakout-massive-weekly-cand.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
       "summary": "Bitcoin rallied as Treasury bond buybacks fueled the “not-QE” trade, while Metaplanet expanded to the US and Cypherpunk made a $33 million Zcash mining bet.",
@@ -575,17 +614,6 @@
       "category": "X热点",
       "slug": "20260821-whats-happening-now-in-gold-and-crypto-should-not-come-as-a-surprise-if-it-does-",
       "localUrl": "/news/20260821-whats-happening-now-in-gold-and-crypto-should-not-come-as-a-surprise-if-it-does-.html"
-    },
-    {
-      "source": "X Wire",
-      "title": "JUST IN: Standard Chartered bank says Bitcoin could surge back to $100,000 this year, ending the \"shallowest\" bear market so far 🚀 - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWFAyWDVjX0JjclJlNG0zQVEtTTJJd2lkOFpZNTVZUzF3a3gyVV9OWW9WTHo5cWdJR0ZRZ25VenlHX04wTHdkS2hKSDVLb1dtWGpIOXRnbTh0YUt5SE5oSUYteTVwOUU?oc=5\" target=\"_blank\">JUST IN: Standard Chartered…",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWFAyWDVjX0JjclJlNG0zQVEtTTJJd2lkOFpZNTVZUzF3a3gyVV9OWW9WTHo5cWdJR0ZRZ25VenlHX04wTHdkS2hKSDVLb1dtWGpIOXRnbTh0YUt5SE5oSUYteTVwOUU?oc=5",
-      "publishedAt": "2026-08-21T13:19:56.000Z",
-      "keywords": [],
-      "category": "X热点",
-      "slug": "20260821-just-in-standard-chartered-bank-says-bitcoin-could-surge-back-to-100000-this-yea",
-      "localUrl": "/news/20260821-just-in-standard-chartered-bank-says-bitcoin-could-surge-back-to-100000-this-yea.html"
     },
     {
       "source": "Cointelegraph",
@@ -888,20 +916,6 @@
       "localUrl": "/news/20260821-south-korean-lawmakers-seek-expanded-fiu-powers-over-unregistered-crypto-firms.html"
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-      "summary": "Clearpool and Cicada Partners are building an institutional lending product using RLUSD, though the XRP Ledger features underpinning it are still awaiting activation.",
-      "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
-      "publishedAt": "2026-08-21T05:29:48.000Z",
-      "keywords": [
-        "Markets",
-        "News"
-      ],
-      "category": "DeFi",
-      "slug": "20260821-ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months",
-      "localUrl": "/news/20260821-ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months.html"
-    },
-    {
       "source": "Cointelegraph",
       "title": "MANTRA token sinks 18% to record low amid blockchain halt",
       "summary": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
@@ -1030,19 +1044,6 @@
       "category": "监管",
       "slug": "20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam",
       "localUrl": "/news/20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam.html"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-      "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
-      "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
-      "publishedAt": "2026-08-20T16:33:38.000Z",
-      "keywords": [
-        "Technology"
-      ],
-      "category": "安全",
-      "slug": "20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure",
-      "localUrl": "/news/20260820-nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure.html"
     },
     {
       "source": "Ethereum Blog",
