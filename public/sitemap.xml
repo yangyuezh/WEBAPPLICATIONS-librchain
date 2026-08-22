@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.librchain.com/</loc>
-    <lastmod>2026-08-22T09:37:32.045Z</lastmod>
+    <lastmod>2026-08-22T10:36:37.354Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.librchain.com/feed.xml</loc>
-    <lastmod>2026-08-22T09:37:32.045Z</lastmod>
+    <lastmod>2026-08-22T10:36:37.354Z</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -177,6 +177,12 @@
   <url>
     <loc>https://www.librchain.com/news/20260821-ethenas-ena-token-surges-48-but-altcoin-season-will-have-to-wait.html</loc>
     <lastmod>2026-08-21T16:10:37.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.librchain.com/news/20260821-bitcoin-is-literally-making-a-copypaste-of-the-2022-breakout-massive-weekly-cand.html</loc>
+    <lastmod>2026-08-21T16:06:00.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.librchain.com/news/20260820-iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam.html</loc>
     <lastmod>2026-08-20T17:12:43.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.librchain.com/news/20260820-breaking-crypto-markets-officially-post-their-7th-largest-liquidation-event-in-h.html</loc>
-    <lastmod>2026-08-20T16:38:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
