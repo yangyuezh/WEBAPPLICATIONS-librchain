@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-21T23:35:06.294Z",
-  "total": 83,
+  "updatedAt": "2026-08-22T01:47:09.391Z",
+  "total": 82,
   "items": [
     {
       "source": "CoinDesk",
@@ -30,14 +30,14 @@
     },
     {
       "source": "X Wire",
-      "title": "Bitcoin isn't the only thing moving. Discover and trade @base and @solana tokens moments after they launch onchain - all from the Coinbase app. See what's new in the Launches tab. - x.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSWJxWkN1QkpQc3JSdGZwekRMaG9CS0h4Y3pEeHRMZlNPMFFaR1gwblluQXZKWXdDREJYVWcxQ2w3ME5zTWw3clJHdXptenNzZW1CbHg2NklJenRjZ0E?oc=5\" target=\"_blank\">Bitcoin isn't the only thing moving. Di…",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SSWJxWkN1QkpQc3JSdGZwekRMaG9CS0h4Y3pEeHRMZlNPMFFaR1gwblluQXZKWXdDREJYVWcxQ2w3ME5zTWw3clJHdXptenNzZW1CbHg2NklJenRjZ0E?oc=5",
-      "publishedAt": "2026-08-21T21:41:46.000Z",
+      "title": "🚨🗞️ Washington’s Crypto Policy Blitz: Trump Pushes the Clarity Act as Regulators Press Ahead With Rulemaking D.C.’s usual August lull gave way to a flurry of crypto policy activity this week. - x.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZTAxb3VsR1hPREJqMmk5TGZ4Y1hRQkhVNXVVQlNTcmR4NmVNMElhVXotUEcyLWJnV21Wd0c4SS1SeFY4ckliWk41VF9OTE1pMGFWU0tMZll4eldKMWlOWXBZWUVqZw?oc=5\" target=\"_blank\">🚨🗞️ Washington’s Crypto Po…",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZTAxb3VsR1hPREJqMmk5TGZ4Y1hRQkhVNXVVQlNTcmR4NmVNMElhVXotUEcyLWJnV21Wd0c4SS1SeFY4ckliWk41VF9OTE1pMGFWU0tMZll4eldKMWlOWXBZWUVqZw?oc=5",
+      "publishedAt": "2026-08-21T21:42:06.000Z",
       "keywords": [],
       "category": "X热点",
-      "slug": "20260821-bitcoin-isnt-the-only-thing-moving-discover-and-trade-base-and-solana-tokens-mom",
-      "localUrl": "/news/20260821-bitcoin-isnt-the-only-thing-moving-discover-and-trade-base-and-solana-tokens-mom.html"
+      "slug": "20260821-washingtons-crypto-policy-blitz-trump-pushes-the-clarity-act-as-regulators-press",
+      "localUrl": "/news/20260821-washingtons-crypto-policy-blitz-trump-pushes-the-clarity-act-as-regulators-press.html"
     },
     {
       "source": "Decrypt",
@@ -1065,19 +1065,6 @@
       "category": "基础设施",
       "slug": "20260819-lowering-slot-time-and-validators-economic",
       "localUrl": "/news/20260819-lowering-slot-time-and-validators-economic.html"
-    },
-    {
-      "source": "Ethereum Blog",
-      "title": "Allocation Update - Q2 2026",
-      "summary": "Q2 2026 carried forward our focus on advancing Ethereum’s resilience and capabilities, supporting key work in zero-knowledge proofs, client diversity, formal verification, and open-source tooling. See the list below of the projects and eco…",
-      "url": "https://blog.ethereum.org/en/2026/08/18/allocation-q2-26",
-      "publishedAt": "2026-08-18T00:00:00.000Z",
-      "keywords": [
-        "Ecosystem Support Program"
-      ],
-      "category": "基础设施",
-      "slug": "20260818-allocation-update-q2-2026",
-      "localUrl": "/news/20260818-allocation-update-q2-2026.html"
     }
   ]
 }
